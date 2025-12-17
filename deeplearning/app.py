@@ -9,16 +9,18 @@ import os
 
 # Grad-CAM 라이브러리
 from pytorch_grad_cam import GradCAM
+from pytorch_grad_cam.utils.image import show_cam_on_image
 from pytorch_grad_cam.utils.model_targets import ClassifierOutputTarget
 
 # ------------------------------------------------------------------
 # 1. 설정 (본인 경로에 맞게 수정 필수!)
 # ------------------------------------------------------------------
-MODEL_PATH = 'x-ray_model_denseNet-121_v4.pth'
-TEST_IMAGE_PATH = './data/archive/images_resized_224/test_list/00000041_002.png'
+current_dir = os.path.dirname(os.path.abspath(__file__))
+MODEL_PATH = './x-ray_model_denseNet-121_v8.pth'
+TEST_IMAGE_PATH = './data/test_images_resized_224/00000041_002.png'
 
 NUM_CLASSES = 14
-IMG_SIZE = 224
+IMG_SIZE = 320
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 LABELS = [
@@ -41,10 +43,10 @@ def load_model():
     )
     
     try:
-        model.load_state_dict(torch.load(MODEL_PATH, map_location=device))
+        model.load_state_dict(torch.load(os.path.join(current_dir, MODEL_PATH), map_location=device))
         print("✅ 모델 로드 성공!")
     except FileNotFoundError:
-        print(f"❌ Error: 모델 파일({MODEL_PATH})을 찾을 수 없습니다.")
+        print(f"❌ Error: 모델 파일({os.path.join(current_dir, MODEL_PATH)})을 찾을 수 없습니다.")
         return None
         
     model.to(device)
@@ -55,10 +57,7 @@ def load_model():
 # [핵심] 3. 직관적인 히트맵 생성 함수 (Clean Heatmap)
 # ------------------------------------------------------------------
 def visualize_cam_clean(model, input_tensor, original_img, target_category_index, threshold=0.2):
-    """
-    파란색 배경을 없애고, 중요한 부분만 붉게 표시하는 함수
-    threshold: 이 값보다 낮은 중요도는 투명하게 처리 (0.0 ~ 1.0)
-    """
+
     # 1. Grad-CAM 객체 생성
     target_layers = [model.features[-1]] # DenseNet 마지막 층
     cam = GradCAM(model=model, target_layers=target_layers)
@@ -98,59 +97,71 @@ def run_analysis():
     model = load_model()
     if model is None: return
 
-    # 2. 이미지 준비
-    if not os.path.exists(TEST_IMAGE_PATH):
-        print(f"❌ Error: 이미지 파일({TEST_IMAGE_PATH})이 없습니다.")
+    # 2. 이미지 불러오기 및 전처리
+    try:
+        raw_image = Image.open(TEST_IMAGE_PATH).convert('RGB')
+    except FileNotFoundError:
+        print(f"Error: 이미지 파일({TEST_IMAGE_PATH})을 찾을 수 없습니다.")
         return
 
-    raw_image = Image.open(TEST_IMAGE_PATH).convert('RGB')
-    
-    # 시각화용 이미지 (0~1 실수형)
+    # 시각화용 이미지 (0~1 사이 실수형, Numpy 배열)
     vis_image = np.array(raw_image.resize((IMG_SIZE, IMG_SIZE))) / 255.0
-    
-    # 모델 입력용
+
+    # 모델 입력용 전처리
     transform = transforms.Compose([
-        transforms.Resize((IMG_SIZE, IMG_SIZE)),
         transforms.ToTensor(),
         transforms.Normalize([0.485, 0.456, 0.406], [0.229, 0.224, 0.225])
     ])
+
     input_tensor = transform(raw_image).unsqueeze(0).to(device)
 
-    # 3. 예측
-    print("🔍 이미지 분석 중...")
+    # 3. 예측 (Prediction)
+    print("이미지 분석 중...")
     with torch.no_grad():
         output = model(input_tensor)
-        probs = torch.sigmoid(output).cpu().numpy()[0]
+        probs = torch.sigmoid(output).cpu().numpy()[0] # 확률로 변환
 
-    # 4. 결과 텍스트
-    top3_indices = probs.argsort()[-3:][::-1]
-    
-    print("\n" + "="*40)
-    print(f"🧪 분석 결과 (파일: {os.path.basename(TEST_IMAGE_PATH)})")
-    print("="*40)
-    for idx in top3_indices:
+    # 4. 결과 텍스트 출력
+    indices = probs.argsort()[::-1] # 상위 3개 인덱스
+
+    print("\n" + "="*30)
+    print(f"🧪 분석 결과 (파일명: {TEST_IMAGE_PATH})")
+    print("="*30)
+    for idx in indices:
+
         print(f" -> {LABELS[idx]}: {probs[idx]*100:.2f}%")
-    print("="*40)
+    print("="*30)
 
-    # 5. [수정됨] 직관적인 히트맵 생성
-    highest_idx = top3_indices[0]
-    
-    # threshold=0.2 : 하위 20%의 약한 신호는 지워서 배경을 깨끗하게 만듦
-    cam_image = visualize_cam_clean(model, input_tensor, vis_image, highest_idx, threshold=0.2)
+    # 5. Grad-CAM 시각화 (히트맵 생성)
+    target_layers = [model.features[-1]] # DenseNet의 마지막 특징 추출층
+    cam = GradCAM(model=model, target_layers=target_layers)
 
-    # 6. 화면 출력
-    plt.figure(figsize=(12, 6))
-    
+    # 가장 확률 높은 질병을 타겟으로 설정
+    highest_idx = indices[0]
+    targets = [ClassifierOutputTarget(highest_idx)]
+
+    # CAM 생성
+    grayscale_cam = cam(input_tensor=input_tensor, targets=targets)
+    grayscale_cam = grayscale_cam[0, :]
+
+    # 원본 이미지 위에 덮어쓰기
+    cam_image = show_cam_on_image(vis_image, grayscale_cam, use_rgb=True)
+
+    # 6. 결과 이미지 띄우기 (Matplotlib)
+    plt.figure(figsize=(13, 6))
+
+    # 왼쪽: 원본
     plt.subplot(1, 2, 1)
     plt.imshow(vis_image)
     plt.title("Original X-ray")
     plt.axis('off')
-    
+
+    # 오른쪽: AI 분석 결과 (Grad-CAM)
     plt.subplot(1, 2, 2)
     plt.imshow(cam_image)
     plt.title(f"AI Focus: {LABELS[highest_idx]} ({probs[highest_idx]*100:.1f}%)")
     plt.axis('off')
-    
+
     plt.tight_layout()
     plt.show()
 
