@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <title>x-ray</title>
+    <style>
+        /* 기본 레이아웃 */
+        body { 
+            display: flex; flex-direction: column; align-items: center; justify-content: center;
+            padding: 50px; font-family: 'Segoe UI', sans-serif; background: #f4f6f9; 
+        }
+        h2 { color: #333; margin-bottom: 20px; }
+
+        /* 이미지 컨테이너 */
+        .viewer-container {
+            position: relative;
+            width: 320px;
+            height: 320px;
+            margin-bottom: 30px;
+            border-radius: 10px;
+            overflow: hidden;
+            box-shadow: 0 10px 20px rgba(0,0,0,0.15);
+            background-color: #000;
+        }
+
+        .viewer-img {
+            position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            object-fit: cover;
+        }
+
+        #heatmapLayer {
+            opacity: 0; /* 기본: 꺼짐 */
+            transition: opacity 0.4s ease;
+        }
+
+        /* ---------------------------------------------------- */
+        /* [핵심] ON/OFF 글자 포함 토글 디자인 */
+        /* ---------------------------------------------------- */
+        .switch-wrapper {
+            display: flex; align-items: center; gap: 20px;
+            background: white; padding: 20px 40px;
+            border-radius: 50px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+
+        .switch-label {
+            font-size: 20px; font-weight: bold; color: #444;
+        }
+
+        /* 1. 스위치 전체 틀 (글자가 들어가야 하므로 너비를 키움) */
+        .switch {
+            position: relative;
+            display: inline-block;
+            width: 65px;  /* 너비 증가 (60px -> 90px) */
+            height: 26px; /* 높이 증가 */
+        }
+
+        /* 2. 실제 체크박스는 숨김 */
+        .switch input { 
+            opacity: 0; width: 0; height: 0;
+        }
+
+        /* 3. 슬라이더 (배경 트랙) */
+        .slider {
+            position: absolute;
+            cursor: pointer;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background-color: #ccc; /* OFF 배경색 (회색) */
+            transition: .4s;
+            border-radius: 40px;
+        }
+
+        /* 4. 하얀색 동그라미 (Knob) */
+        .slider:before {
+            position: absolute;
+            content: "";
+            height: 18px;
+            width: 18px;
+            left: 4px;
+            bottom: 4px;
+            background-color: white;
+            transition: .4s;
+            border-radius: 50%;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+            z-index: 2; /* 글자보다 위에 오도록 */
+        }
+
+        /* 5. [NEW] 글자 표시 (CSS 가상 요소) */
+        .slider:after {
+            content: "OFF";       /* 기본 글자 */
+            color: #777;          /* 글자색 */
+            display: block;
+            position: absolute;
+            transform: translate(-50%, -50%);
+            top: 50%;
+            right: -4px;          /* OFF일 때 오른쪽 위치 */
+            font-size: 14px;
+            font-weight: bold;
+            font-family: Arial, sans-serif;
+            transition: .4s;
+        }
+
+        /* 6. 켜졌을 때 (Checked) - 배경색 변경 */
+        input:checked + .slider {
+            background-color: #2196F3; /* ON 배경색 (파랑) */
+        }
+
+        /* 7. 켜졌을 때 (Checked) - 동그라미 이동 */
+        input:checked + .slider:before {
+            transform: translateX(40px); /* 너비(90) - 동그라미(32) - 여백(8) = 50 */
+        }
+
+        /* 8. 켜졌을 때 (Checked) - 글자 변경 및 이동 */
+        input:checked + .slider:after {
+            content: "ON";
+            color: white;
+            right: auto; 
+            left: 25px; /* ON일 때 왼쪽 위치 */
+        }
+
+        /* 컬러바 컨테이너 */
+        .colorbar-container {
+            width: 320px; /* 이미지 너비와 맞춤 */
+            margin-top: 10px;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+
+        /* 그라데이션 막대 (Jet Colormap 흉내) */
+        .colorbar {
+            width: 100%;
+            height: 15px;
+            border-radius: 4px;
+            background: linear-gradient(to right, 
+                blue 0%, 
+                cyan 25%, 
+                lime 50%, 
+                yellow 75%, 
+                red 100%);
+            border: 1px solid #ccc;
+        }
+
+        /* 글자 (Low - High) */
+        .colorbar-labels {
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+            color: #666;
+            margin-top: 5px;
+            font-weight: bold;
+        }
+
+        p{
+            margin-bottom: 0;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+
+    <h2>AI 분석 결과</h2>
+    <div>
+        <input type="file" id="file">
+        <select id="labels">
+            <option>Atelectasis</option>
+            <option>Cardiomegaly</option>
+            <option>Effusion</option>
+            <option>Infiltration</option>
+            <option>Mass</option>
+            <option>Nodule</option>
+            <option>Pneumonia</option>
+            <option>Pneumothorax</option>
+            <option>Consolidation</option>
+            <option>Edema</option>
+            <option>Emphysema</option>
+            <option>Fibrosis</option>
+            <option>Pleural_Thickening</option>
+            <option>Hernia</option>
+        </select>
+        
+        <!-- 2. 토글 스위치 컨트롤러 -->
+        <label class="switch">
+            <input type="checkbox" id="aiToggle" onchange="toggleAI(this)">
+            <span class="slider"></span>
+        </label>
+    </div>
+
+    <h2 id="result">AI 분석 결과 : </h2>
+
+    <div style="display: flex; gap: 20px;">
+        <div>
+            <div class="colorbar-container">
+                <div class="colorbar"></div>
+                <div class="colorbar-labels">
+                    <span>Low Prob (0%)</span>
+                    <span>High Prob (100%)</span>
+                </div>
+            </div>
+
+            <!-- 1. 이미지 뷰어 -->
+            <div class="viewer-container">
+                <!-- 1층: 원본 (항상 보임) -->
+                <img id="imgOriginal" class="viewer-img" src="">
+                
+                <!-- 2층: AI 히트맵 (Overlay) -->
+                <img id="heatmapLayer" class="viewer-img" src="">
+            </div>
+        </div>
+
+        <div>
+            <h3 style="margin-top: 5px;">예측률</h3>
+            <div class="prediction"></div>
+        </div>
+    </div>
+
+
+</body>
+<script>
+    let data = {}
+    const base_url = "http://localhost:8000/static/results/"
+    function toggleAI(checkbox) {
+        if (checkbox.checked) {
+            heatmapLayer.style.opacity = "0.5"; // 켜짐 (반투명)
+        } else {
+            heatmapLayer.style.opacity = "0";   // 꺼짐 (투명)
+        }
+    }
+    document.querySelector("select").addEventListener("change",(e)=>{
+        console.log(e.target.value)
+        console.log(data)
+        document.getElementById("heatmapLayer").src = base_url+data[e.target.value]['heatmap_url']
+        document.querySelector("#result").textContent = "AI 분석 결과 : "+data[e.target.value]['probability'] + " " + label
+        
+    })
+
+    fileInput = document.querySelector("#file")
+
+    fileInput.addEventListener("change",async ()=>{
+        const formData = new FormData();
+        formData.append("file", fileInput.files[0]);
+
+        const response = await fetch("http://localhost:8000/analyze", {
+            method: "POST",
+            body: formData
+        });
+
+        if (response.ok) {
+            label = document.querySelector("#labels").value
+            const analyze = await response.json(); // <--- 여기서 데이터를 받음!
+            data = analyze['predictions']
+            document.getElementById("imgOriginal").src = base_url+analyze['filename']
+            document.getElementById("heatmapLayer").src = base_url+analyze['predictions'][label]['heatmap_url']
+            document.querySelector("#result").textContent = "AI 분석 결과 : "+analyze['predictions'][label]['probability'] + " " + label
+            
+            for(label in analyze['predictions']) {
+                t = '<p>' + label + " 예측 : " + analyze['predictions'][label]['probability']
+                document.querySelector(".prediction").innerHTML += t
+            }
+            
+        }
+    })
+    </script>
+
+</html>
