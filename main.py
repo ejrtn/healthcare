@@ -6,6 +6,8 @@ from fastapi.responses import HTMLResponse
 from fastapi.staticfiles import StaticFiles
 from fastapi.middleware.cors import CORSMiddleware
 
+# 실행 명령어 : uvicorn main:app --reload
+
 app = FastAPI()
 
 templates = Jinja2Templates(directory="templates")

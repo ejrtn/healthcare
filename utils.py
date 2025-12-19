@@ -5,7 +5,7 @@ import os
 from PIL import Image
 import io
 
-SAVE_DIR = 'D:/healthcare/healthcare/fastAPI/static/results/'
+SAVE_DIR = 'D:/healthcare/healthcare/static/results/'
 IMAGE_SIZE = 320
 
 async def file_resize(file: UploadFile):

@@ -226,10 +226,8 @@
         }
     }
     document.querySelector("select").addEventListener("change",(e)=>{
-        console.log(e.target.value)
-        console.log(data)
         document.getElementById("heatmapLayer").src = base_url+data[e.target.value]['heatmap_url']
-        document.querySelector("#result").textContent = "AI 분석 결과 : "+data[e.target.value]['probability'] + " " + label
+        document.querySelector("#result").textContent = "AI 분석 결과: " + e.target.value + "(" + data[e.target.value]['probability'] + ")"
         
     })
 
@@ -250,13 +248,29 @@
             data = analyze['predictions']
             document.getElementById("imgOriginal").src = base_url+analyze['filename']
             document.getElementById("heatmapLayer").src = base_url+analyze['predictions'][label]['heatmap_url']
-            document.querySelector("#result").textContent = "AI 분석 결과 : "+analyze['predictions'][label]['probability'] + " " + label
+            document.querySelector("#result").textContent = "AI 분석 결과: " + label + "(" + analyze['predictions'][label]['probability'] + ")"
             
-            for(label in analyze['predictions']) {
-                t = '<p>' + label + " 예측 : " + analyze['predictions'][label]['probability']
+            rank_labels = []
+            for(label in analyze['predictions']){
+                rank_labels.push(label)
+            }
+
+            for(let i=0;i<rank_labels.length;i++){
+                l = ''
+                for(let ii=i+1;ii<rank_labels.length;ii++){
+                    if(analyze['predictions'][rank_labels[i]]['raw_prob'] < analyze['predictions'][rank_labels[ii]]['raw_prob']){
+                        l = rank_labels[i]
+                        rank_labels[i] = rank_labels[ii]
+                        rank_labels[ii] = l
+                    }
+                }
+            }
+
+            document.querySelector(".prediction").innerHTML = ""
+            for(let i=0;i<rank_labels.length;i++) {
+                t = '<p>' + rank_labels[i] + " 예측 : " + analyze['predictions'][rank_labels[i]]['probability']
                 document.querySelector(".prediction").innerHTML += t
             }
-            
         }
     })
     </script>

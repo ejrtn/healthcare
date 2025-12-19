@@ -17,7 +17,7 @@ from pytorch_grad_cam.utils.model_targets import ClassifierOutputTarget
 # ------------------------------------------------------------------
 current_dir = os.path.dirname(os.path.abspath(__file__))
 MODEL_PATH = 'x-ray_model_denseNet-121_v9.pth'
-RESULTS_DIR = 'D:/healthcare/healthcare/fastAPI/static/results/'
+RESULTS_DIR = 'D:/healthcare/healthcare/static/results/'
 NUM_CLASSES = 14
 IMG_SIZE = 320
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
