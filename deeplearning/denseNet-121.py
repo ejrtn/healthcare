@@ -98,8 +98,8 @@ NUM_EPOCHS = 10
 NUM_CLASSES = 14
 OUTPUTS_OVER = 0.35
 
-model_save_path_pth = 'x-ray_model_denseNet-121_v12.pth'
-history_filepath = 'x-ray_history_denseNet-121_v12.pkl'
+model_save_path_pth = 'x-ray_NIH Chest X-rays_denseNet-121_v13.pth'
+history_filepath = 'x-ray_NIH Chest X-rays_denseNet-121_v13.pkl'
 
 # GPU 사용 가능 여부 확인
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
