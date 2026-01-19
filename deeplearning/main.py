@@ -5,11 +5,9 @@ from PIL import Image
 import numpy as np
 import cv2
 import os
-import uuid
 
 # Grad-CAM 라이브러리
 from pytorch_grad_cam import GradCAM
-from pytorch_grad_cam.utils.image import show_cam_on_image
 from pytorch_grad_cam.utils.model_targets import ClassifierOutputTarget
 
 # ------------------------------------------------------------------

@@ -2,16 +2,15 @@ from PIL import Image
 from fastapi import UploadFile
 import uuid
 import os
-from PIL import Image
 import io
 
 SAVE_DIR = 'D:/healthcare/healthcare/static/results/'
 IMAGE_SIZE = 320
 
 async def file_resize(file: UploadFile):
-    contents = await file.read()
+    file_bytes = await file.read()
 
-    image = Image.open(io.BytesIO(contents))
+    image = Image.open(io.BytesIO(file_bytes))
 
     resized_image = image.resize((IMAGE_SIZE, IMAGE_SIZE), Image.Resampling.LANCZOS)
 
