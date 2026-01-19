@@ -13,7 +13,7 @@
     - 가중치 데이터 개수에 맞춰서 매기고 성능을 올려보기 위해 ai도움을 받아 루트를 했지만 이 또한 결과가 생각보다 원하는 값이 나오지 않아 log를 씌워서 처리
     - 데이터 변경을 통해 성능을 올리고자 시도
     - NIH 결과 ![alt text](x-ray_NIH_result_history.png)
-    - chexpert 결과 ![alt text](x-ray_cheexpert_result_history.png)
+    - chexpert 결과 ![alt text](x-ray_chexpert_result_history.png)
 
 
 - ct : ct-convnext-tiny-s128.ipynb(전처리 포함)
