@@ -25,4 +25,9 @@
          ![alt text](ct_result_history.png)
     - 이어서 학습 코드 : ct-convnext-base-s128-continue-learning.ipynb
         - 캐글에서 timeout에 걸려 7에포크 부터 이어서 처리
+        - 옵티마이저(optimizer) 초기화
         - ![alt text](ct_result_history_1.png)
+    - 이어서 학습 코드 : ct-convnext-base-s128-continue-learning_2.ipynb
+        - 캐글에서 timeout에 걸려 14에포크 부터 이어서 처리
+        - 옵티마이저(optimizer) 이전값 이어서 처리
+        - ![alt text](ct_result_history_2.png)
