@@ -20,9 +20,17 @@
     - 전처리 코드 : ct-preprocessed.ipynb
         - (64, 128, 128) 처리
         - 손상된 DICOM 파일 거르기 + monai 처리
-    - 학습 코드 : ct-convnext-base-s128.ipynb
-        - 2 에포크까지 동결, 증강, any_injury 가중치 처리
-         ![alt text](ct_result_history.png)
-    - 이어서 학습 코드 : ct-convnext-base-s128-continue-learning.ipynb
+    - 학습 코드_1 : ct-convnext-base-s128_1.ipynb
+        - 2 에포크 동결, 증강, any_injury 가중치 처리
+         ![alt text](ct_result_history_1.png)
+    - 이어서 학습 코드_1 : ct-convnext-base-s128-continue-learning.ipynb
         - 캐글에서 timeout에 걸려 7에포크 부터 이어서 처리
-        - ![alt text](ct_result_history_1.png)
+        - 옵티마이저(optimizer) 초기화
+        - ![alt text](ct_result_history_1_1.png)
+    - 이어서 학습 코드_1 : ct-convnext-base-s128-continue-learning_2.ipynb
+        - 캐글에서 timeout에 걸려 14에포크 부터 이어서 처리
+        - 옵티마이저(optimizer) 이전값 이어서 처리
+        - ![alt text](ct_result_history_1_2.png)
+    - 학습 코드_2 : ct-convnext-base-s128_2.ipynb
+        - 10 에포크 동결, lr = 1e-4 -> 1e-5, weight_decay = 1e-4(고정) 변경
+        - ![alt text](ct_result_history_2.png)
