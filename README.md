@@ -6,20 +6,23 @@
     - ct 전처리 : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s128
 
 - 코드
-- x-ray : denseNet-121.py
-    - 파일 이름과 동일하게 denseNet-121 전이학습
-    - 2 에포크까지 동결 이후 학습
-    - 같은 코드 다른 데이터를 했을 때 결과가 확실히 달라지는 것을 확인
-    - 가중치 데이터 개수에 맞춰서 매기고 성능을 올려보기 위해 ai도움을 받아 루트를 했지만 이 또한 결과가 생각보다 원하는 값이 나오지 않아 log를 씌워서 처리
-    - 데이터 변경을 통해 성능을 올리고자 시도
-    - NIH 결과 ![alt text](x-ray_NIH_result_history.png)
-    - chexpert 결과 ![alt text](x-ray_chexpert_result_history.png)
+- x-ray
+    - denseNet-121 전이학습, 증강, 2 에포크까지 동결, 가중치(log처리)
+    - x-ray_NIH_denseNet-121.py
+        - HIH 흉부 x-ray 데이터
+        - NIH 결과 ![alt text](x-ray_NIH_result_history.png)
+    - x-ray_chexpert-densenet121.ipynb
+        - 다른 흉부 x-ray 데이터
+        - chexpert 결과 ![alt text](x-ray_chexpert_result_history.png)
 
 
-- ct : ct-convnext-tiny-s128.ipynb(전처리 포함)
-    - convnext_base를 사용하려 했지만 메모리 용량으로 인해 convnext_tiny 변경
-    - 캐글에서 output 용량에 한계가 있어 전처리 따로 해서 dataset에 저장 (224, 128 크기)
-    - 전처리 과정에서 monai만 사용해서 할 수 있지만 직접 코드 작성을 통해 처리 하는 방식으로 어떻게 성능을 비슷 또는 더 좋은 성능을 하는지 확인
-    - 진행중, gpu 부족으로 전처리만 진행
-    - 224 크기(대회에서 이렇게 했다고 함)를 진행해서 학습을 하려 했지만 gpu 성능이 딸리고 시간이 30h 제한이 있어 128로 줄임
-    - ![alt text](ct_result_history.png)
+- ct
+    - 전처리 코드 : ct-preprocessed.ipynb
+        - (64, 128, 128) 처리
+        - 손상된 DICOM 파일 거르기 + monai 처리
+    - 학습 코드 : ct-convnext-base-s128.ipynb
+        - 2 에포크까지 동결, 증강, any_injury 가중치 처리
+         ![alt text](ct_result_history.png)
+    - 이어서 학습 코드 : ct-convnext-base-s128-continue-learning.ipynb
+        - 캐글에서 timeout에 걸려 7에포크 부터 이어서 처리
+        - ![alt text](ct_result_history_1.png)
