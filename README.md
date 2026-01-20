@@ -5,7 +5,6 @@
     - ct : https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection
     - ct 전처리 : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s128
 
-- 코드
 - x-ray
     - denseNet-121 전이학습, 증강, 2 에포크까지 동결, 가중치(log처리)
     - x-ray_NIH_denseNet-121.py
@@ -14,7 +13,6 @@
     - x-ray_chexpert-densenet121.ipynb
         - 다른 흉부 x-ray 데이터
         - chexpert 결과 ![alt text](x-ray_chexpert_result_history.png)
-
 
 - ct
     - 전처리 코드 : ct-preprocessed.ipynb
