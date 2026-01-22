@@ -2,7 +2,7 @@ import pickle
 import matplotlib.pyplot as plt
 
 # 파일 경로
-file_path = 'monai_ct_convnext_v2.pkl'
+file_path = 'monai_ct_convnext_v3.pkl'
 
 
 # 'rb' (Read Binary) 모드로 읽어야 합니다.
@@ -34,6 +34,7 @@ def show_history(history):
     
     # 장기별로 리스트를 추출하여 그래프 그리기
     plt.subplot(1, 3, 3) # 1행 3열 중 3번째 (에러 해결 지점)
+
     for organ in history["auc_details"][0].keys():
         # 각 장기별 데이터를 추출하여 루프 안에서 그립니다.
         organ_auc_history = [epoch_data[organ] for epoch_data in history["auc_details"]]
