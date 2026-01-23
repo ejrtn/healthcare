@@ -1,9 +1,16 @@
 # 흉부 X-ray 판독 효율화를 위한 AI
-- train and test data
+- data
     - chest x-ray : https://www.kaggle.com/datasets/ashery/chexpert
     - chest x-ray : https://www.kaggle.com/datasets/nih-chest-xrays/data
     - ct : https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection
     - ct 전처리 : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s128
+
+- 전처리
+    - ct_preprocess_1.ipynb
+        - 손상된 DICOM 파일 걸러내기 + monai
+    - ct_preprocess_2.ipynb
+        - CropForegroundd, SelectiveSamplingd 추가
+        - size 224로 변경
 
 - x-ray
     - denseNet-121 전이학습, 증강, 2 에포크까지 동결, 가중치(log처리)
@@ -69,10 +76,10 @@
                     ↓
                 ==========================================================
                 5. [Final Heads] -> "전문의 진단 (최종 판단)"
-                ┌───────────────────────┬───────────────────────┐
-                ▼                       ▼                       ▼
-                [suspicion_head]       [organ_heads]           (기타 장기들...)
-                "응급의학과 의사"       "내과/비뇨기 전문의"
+                ┌───────────────────────┐
+                ▼                       ▼                   
+                [suspicion_head]       [organ_heads]
+                "응급의학과 의사"       "전문의 진단"
                 (전체 부상 유무)        (장기별 정밀 진단)
                 ==========================================================
             ```
