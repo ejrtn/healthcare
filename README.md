@@ -16,10 +16,10 @@
     - denseNet-121 전이학습, 증강, 2 에포크까지 동결, 가중치(log처리)
     - x-ray_NIH_denseNet-121.py
         - HIH 흉부 x-ray 데이터
-        - NIH 결과 ![alt text](x-ray_NIH_result_history.png)
+        NIH 결과 ![alt text](x-ray_NIH_result_history.png)
     - x-ray_chexpert-densenet121.ipynb
         - 다른 흉부 x-ray 데이터
-        - chexpert 결과 ![alt text](x-ray_chexpert_result_history.png)
+        chexpert 결과 ![alt text](x-ray_chexpert_result_history.png)
 
 - ct
     - 전처리 코드 : ct-preprocessed.ipynb
@@ -27,18 +27,18 @@
         - 손상된 DICOM 파일 거르기 + monai 처리
     - 학습 코드_1 : ct-convnext-base-s128_1.ipynb
         - 2 에포크 동결, 증강, any_injury 가중치 처리
-         ![alt text](ct_result_history_1.png)
+        ![alt text](ct_result_history_1.png)
     - 이어서 학습 코드_1 : ct-convnext-base-s128-continue-learning.ipynb
         - 캐글에서 timeout에 걸려 7에포크 부터 이어서 처리
         - 옵티마이저(optimizer) 초기화
-        - ![alt text](ct_result_history_1_1.png)
+        ![alt text](ct_result_history_1_1.png)
     - 이어서 학습 코드_1 : ct-convnext-base-s128-continue-learning_2.ipynb
         - 캐글에서 timeout에 걸려 14에포크 부터 이어서 처리
         - 옵티마이저(optimizer) 이전값 이어서 처리
-        - ![alt text](ct_result_history_1_2.png)
+        ![alt text](ct_result_history_1_2.png)
     - 학습 코드_2 : ct-convnext-base-s128_2.ipynb
         - 10 에포크 동결, lr = 1e-4 -> 1e-5, weight_decay = 1e-4(고정) 변경
-        - ![alt text](ct_result_history_2.png)
+        ![alt text](ct_result_history_2.png)
     - 학습 코드 3 : ct-convnext-base-s128_3.ipynb
         - .pth 파일은 코랩이 팅기면서 외장 하드에 저장을 못함...
         - .pkl 파일은 로그 확인하고 복원...
@@ -83,9 +83,9 @@
                 (전체 부상 유무)        (장기별 정밀 진단)
                 ==========================================================
             ```
-        - ![alt text](ct_result_history_3.png)
+            ![alt text](ct_result_history_3.png)
     - 학습 코드 4 : ct-convnext-base-s128_4.ipynb
-        - v3에서 성능의 한계를 보고 구조를 바꿈(부상 여부를 더 적극 적으로 활용)
+        - v3에서 성능의 한계를 보고 구조를 바꿈(부상 여부를 더 적극적으로 활용)
         - forward 구조 변경(부상 확률에 영향을 받도록 처리)
         - 부상을 여부에 따라 성능의 차이가 많이 달라짐
         - 부상을 당하지 않았는데 Bowel, Liver, Kidney, Spleen에서 부상이 있다고 할 수 있는것을 방지
@@ -126,5 +126,14 @@
                 - 부상 확률을 곱하기 때문에 부상에 결과에 영향을 받음
                 ==========================================================
             ```
-        - ![alt text](ct_result_history_4.png)
+            ![alt text](ct_result_history_4.png)
         - best 11 에포크
+    - 학습 코드 5 : ct-convnext-base-s128_5.ipynb
+        - 크기 224로 변경
+        ![alt text](ct_result_history_5.png)
+        224 크기로 변경 결과가 나쁘지 않아 보인다
+
+    - 학습 코드 5 : ct-convnext-base-s128_5.ipynb
+        - 13에포크 부터 이어서 처리
+        ![alt text](ct_result_history_5_1.png)
+        처음 0.7을 돌파하고 계속 이어서 돌렸을 때 기대된다

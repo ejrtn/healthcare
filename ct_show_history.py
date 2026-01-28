@@ -2,7 +2,7 @@ import pickle
 import matplotlib.pyplot as plt
 
 # 파일 경로
-file_path = 'monai_ct_convnext_v4.pkl'
+file_path = 'monai_ct_convnext_v5.pkl'
 
 # 'rb' (Read Binary) 모드로 읽어야 합니다.
 with open(file_path, 'rb') as f:
@@ -47,6 +47,58 @@ def show_history(history):
     # 범례가 많을 수 있으므로 그래프 옆으로 뺍니다.
     plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize='small') 
     
+    plt.tight_layout()
+    plt.show()
+
+    plt.figure(figsize=(20, 7)) # 가로 길이를 조금 더 늘림
+    epochs = range(len(history["train_loss"]))
+
+    # 1. Loss 그래프
+    plt.subplot(1, 3, 1)
+    plt.plot(epochs, history["train_loss"], label="Train Loss", marker='o', color='tab:blue')
+    plt.plot(epochs, history["val_loss"], label="Val Loss", marker='o', color='tab:orange')
+    
+    # Loss 수치 표시 (가독성을 위해 마지막 점과 최고/최저 위주로 표시하거나 전체 표시)
+    for i, v in enumerate(history["val_loss"]):
+        plt.text(i, v + 0.02, f"{v:.3f}", fontsize=9, ha='center', color='tab:orange')
+
+    plt.title("Training & Validation Loss")
+    plt.xlabel("Epoch")
+    plt.ylabel("Loss")
+    plt.grid(True, linestyle='--', alpha=0.5)
+    plt.legend()
+
+    # 2. Mean AUC 그래프
+    plt.subplot(1, 3, 2)
+    plt.plot(epochs, history["auc_avg_loss"], label="Mean Val AUC", color='orange', marker='s')
+    
+    # AUC 수치 표시
+    for i, v in enumerate(history["auc_avg_loss"]):
+        plt.text(i, v + 0.005, f"{v:.3f}", fontsize=10, ha='center', fontweight='bold')
+
+    plt.title("Mean Validation AUC")
+    plt.xlabel("Epoch")
+    plt.ylabel("AUC")
+    plt.grid(True, linestyle='--', alpha=0.5)
+    plt.legend()
+
+    # 3. 장기별 AUC 그래프
+    plt.subplot(1, 3, 3)
+    for organ in history["auc_details"][0].keys():
+        organ_auc_history = [epoch_data[organ] for epoch_data in history["auc_details"]]
+        line, = plt.plot(epochs, organ_auc_history, label=f"{organ}", marker='.')
+        
+        # 장기별 그래프는 선이 많아 마지막 수치만 표시 (안 그러면 겹쳐서 안 보임)
+        last_val = organ_auc_history[-1]
+        plt.text(len(epochs)-1, last_val, f"{last_val:.2f}", fontsize=9, color=line.get_color(), fontweight='bold')
+
+    plt.title("Validation AUC by Organ")
+    plt.xlabel("Epoch")
+    plt.ylabel("AUC")
+    plt.ylim(0.4, 1.05)
+    plt.grid(True, linestyle='--', alpha=0.7)
+    plt.legend(bbox_to_anchor=(1.05, 1), loc='upper left', fontsize='small')
+
     plt.tight_layout()
     plt.show()
 
