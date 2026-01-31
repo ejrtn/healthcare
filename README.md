@@ -133,7 +133,11 @@
         ![alt text](ct_result_history_5.png)
         224 크기로 변경 결과가 나쁘지 않아 보인다
 
-    - 학습 코드 5 : ct-convnext-base-s128_5.ipynb
+    - 학습 코드 5 : ct-convnext-base-s128_5_1.ipynb
         - 13에포크 부터 이어서 처리
         ![alt text](ct_result_history_5_1.png)
         처음 0.7을 돌파하고 계속 이어서 돌렸을 때 기대된다
+    
+    - 학습 코드 5 : ct-convnext-base-s128_5_2.ipynb
+        - 15에포크 부터 이어서 처리
+        ![alt text](ct_result_history_5_2.png)
