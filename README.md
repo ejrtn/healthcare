@@ -141,3 +141,30 @@
     - 학습 코드 5 : ct-convnext-base-s128_5_2.ipynb
         - 15에포크 부터 이어서 처리
         ![alt text](ct_result_history_5_2.png)
+
+
+    - 학습 코드 6 : ct-convnext-base-s128_6.ipynb
+        - 가중치 변경
+            ```
+            criterion_dict = {
+                'bowel': nn.CrossEntropyLoss(weight=torch.tensor([1.0, 10.0]).to(DEVICE), label_smoothing=0.05),
+                'extravasation': nn.CrossEntropyLoss(weight=torch.tensor([1.0, 10.0]).to(DEVICE), label_smoothing=0.05),
+                'any_injury': nn.CrossEntropyLoss(weight=torch.tensor([1.0, 10.0]).to(DEVICE), label_smoothing=0.05),
+                'liver': nn.CrossEntropyLoss(weight=torch.tensor([1.0, 3.0, 5.0]).to(DEVICE), label_smoothing=0.05),
+                'kidney': nn.CrossEntropyLoss(weight=torch.tensor([1.0, 3.0, 5.0]).to(DEVICE), label_smoothing=0.05),
+                'spleen': nn.CrossEntropyLoss(weight=torch.tensor([1.0, 3.0, 5.0]).to(DEVICE), label_smoothing=0.05),
+            }
+            ```
+            ![alt text](ct_result_history_6.png)
+    
+    - 학습 코드 6 : ct-convnext-base-s128_6_1.ipynb
+        - 12에포크 부터 이어서 처리
+        ![alt text](ct_result_history_6_1.png)
+
+    - 학습 코드 6 : ct-convnext-base-s128_6_2.ipynb
+        - 15에포크 부터 이어서 처리
+        ![alt text](ct_result_history_6_2.png)
+
+    - 학습 코드 6 : ct-convnext-base-s128_6_3.ipynb
+        - 18에포크 부터 이어서 처리
+        ![alt text](ct_result_history_6_3.png)
