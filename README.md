@@ -4,6 +4,7 @@
     - chest x-ray : https://www.kaggle.com/datasets/nih-chest-xrays/data
     - ct : https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection
     - ct 전처리 : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s128
+    - ct 전처리  : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s224
 
 - 전처리
     - ct_preprocess_1.ipynb
@@ -168,3 +169,7 @@
     - 학습 코드 6 : ct-convnext-base-s128_6_3.ipynb
         - 18에포크 부터 이어서 처리
         ![alt text](ct_result_history_6_3.png)
+
+    - 학습 코드 6 : ct-convnext-base-s128_6_4.ipynb
+        - 18에포크 부터 이어서 처리
+        ![alt text](ct_result_history_6_4.png) 
