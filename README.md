@@ -4,12 +4,12 @@
     - chest x-ray : https://www.kaggle.com/datasets/nih-chest-xrays/data
     - ct : https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection
     - ct 전처리 : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s128
-    - ct 전처리  : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s224
+    - ct 전처리 : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s224
 
 - 전처리
-    - ct_preprocess_1.ipynb
+    - ct_train_preprocess_1.ipynb
         - 손상된 DICOM 파일 걸러내기 + monai
-    - ct_preprocess_2.ipynb
+    - ct_train_preprocess_2.ipynb
         - CropForegroundd, SelectiveSamplingd 추가
         - size 224로 변경
 
@@ -173,3 +173,8 @@
     - 학습 코드 6 : ct-convnext-base-s128_6_4.ipynb
         - 18에포크 부터 이어서 처리
         ![alt text](ct_result_history_6_4.png) 
+        
+    - 캐글 올려서 결과 확인
+        - 에포크 22까지 확인 했을 때 더 진행을 해도 큰 차이가 나지 않을것이라 판단
+        ![alt text](submission.png)
+        
