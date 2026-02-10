@@ -186,3 +186,4 @@
         - dropout= 0.3 변경
         - accumulation_steps = 8 추가
         - 코드 구조 기존 학습하던 모델 불러오는 방식 코드 수정
+        ![alt text](ct_result_history_7.png)
