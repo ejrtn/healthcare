@@ -176,7 +176,7 @@
         
     - 캐글 올려서 결과 확인
         - 에포크 22까지 확인 했을 때 더 진행을 해도 큰 차이가 나지 않을것이라 판단
-        ![alt text](submission.png)
+        ![alt text](<monai_ct_convnext_v6_2_ep17 submission.png>)
     
     - 학습 코드 7 : ct-convnext-base-s224_7.ipynb
         - Backbone 동결해제, 전체 동결 해제 조건에서 v6버전에서 optimizer, scheduler 재 설정하니 loss가 튀어 제거하고 이어서 하는 방식으로 변경
@@ -187,3 +187,17 @@
         - accumulation_steps = 8 추가
         - 코드 구조 기존 학습하던 모델 불러오는 방식 코드 수정
         ![alt text](ct_result_history_7.png)
+
+    - 학습 코드 7 : ct-convnext-base-s224_7.ipynb
+        - epoch 12-14 이어서 학습
+        ![alt text](ct_result_history_7_1.png)
+
+    - 학습 코드 7 : ct-convnext-base-s224_7.ipynb
+        - epoch 15-23
+        ![alt text](ct_result_history_7_2.png)
+        ![alt text](<monai_ct_convnext_v7_ep15 submission.png>)
+            - loss가 올랐다...
+            - optimizer, scheduler 재 설정 코드를 제거 하므로 튀는 현상은 사라짐
+        
+        - 더 좋은 성능을 만들기 위해선 convnext_tiny 에서 convnext_base로 바꾸는 방법도 있는데 메모리 부족으로 불가...
+        
