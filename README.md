@@ -1,11 +1,4 @@
-# 흉부 X-ray 판독 효율화를 위한 AI
-- data
-    - chest x-ray : https://www.kaggle.com/datasets/ashery/chexpert
-    - chest x-ray : https://www.kaggle.com/datasets/nih-chest-xrays/data
-    - ct : https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection
-    - ct 전처리 : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s128
-    - ct 전처리 : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s224
-
+# 흉부 X-ray, CT 판독 AI
 - 전처리
     - ct_train_preprocess_1.ipynb
         - 손상된 DICOM 파일 걸러내기 + monai
@@ -16,13 +9,18 @@
 - x-ray
     - denseNet-121 전이학습, 증강, 2 에포크까지 동결, 가중치(log처리)
     - x-ray_NIH_denseNet-121.py
+        - chest x-ray : https://www.kaggle.com/datasets/nih-chest-xrays/data
         - HIH 흉부 x-ray 데이터
         NIH 결과 ![alt text](x-ray_NIH_result_history.png)
     - x-ray_chexpert-densenet121.ipynb
+        - chest x-ray : https://www.kaggle.com/datasets/ashery/chexpert
         - 다른 흉부 x-ray 데이터
         chexpert 결과 ![alt text](x-ray_chexpert_result_history.png)
 
 - ct
+    - ct : https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection
+    - ct 전처리 : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s128
+    - ct 전처리 : https://www.kaggle.com/datasets/yoodeoksu/rsna-2023-atd-preprocessed-s224
     - 학습 코드_1 : ct-convnext-tiny-s128.ipynb
         - 2 에포크 동결, 증강, any_injury 가중치 처리
         - 7에포크 부터 이어서 처리, 옵티마이저 초기화
@@ -158,4 +156,6 @@
         ![alt text](ct_result_history_7_2.png)
         - 캐글 결과 확인
         ![alt text](<monai_ct_convnext_v7_ep15 submission.png>)
-        
+    
+    - 학습 코드 7 : ct-convnext-tiny-s224_8.ipynb
+        - 증강 모두 제거, dropout=0.1 변경
