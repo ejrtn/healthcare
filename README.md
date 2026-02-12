@@ -23,25 +23,15 @@
         chexpert 결과 ![alt text](x-ray_chexpert_result_history.png)
 
 - ct
-    - 전처리 코드 : ct-preprocessed.ipynb
-        - (64, 128, 128) 처리
-        - 손상된 DICOM 파일 거르기 + monai 처리
-    - 학습 코드_1 : ct-convnext-base-s128_1.ipynb
+    - 학습 코드_1 : ct-convnext-tiny-s128.ipynb
         - 2 에포크 동결, 증강, any_injury 가중치 처리
-        ![alt text](ct_result_history_1.png)
-    - 이어서 학습 코드_1 : ct-convnext-base-s128-continue-learning.ipynb
-        - 캐글에서 timeout에 걸려 7에포크 부터 이어서 처리
-        - 옵티마이저(optimizer) 초기화
-        ![alt text](ct_result_history_1_1.png)
-    - 이어서 학습 코드_1 : ct-convnext-base-s128-continue-learning_2.ipynb
-        - 캐글에서 timeout에 걸려 14에포크 부터 이어서 처리
-        - 옵티마이저(optimizer) 이전값 이어서 처리
+        - 7에포크 부터 이어서 처리, 옵티마이저 초기화
+        - 14에포크 부터 이어서 처리, 옵티마이저 초기화
         ![alt text](ct_result_history_1_2.png)
-    - 학습 코드_2 : ct-convnext-base-s128_2.ipynb
+    - 학습 코드_2 : ct-convnext-tiny-s128_2.ipynb
         - 10 에포크 동결, lr = 1e-4 -> 1e-5, weight_decay = 1e-4(고정) 변경
         ![alt text](ct_result_history_2.png)
-    - 학습 코드 3 : ct-convnext-base-s128_3.ipynb
-        - .pth 파일은 코랩이 팅기면서 외장 하드에 저장을 못함...
+    - 학습 코드 3 : ct-convnext-tiny-s128_3.ipynb
         - .pkl 파일은 로그 확인하고 복원...
         - 에포크 0~5 head 동결해제, 6~10 backbone 동결, 11~ backbone 동결 해제
         - lr = 1e-4 -> 1e-5, weight_decay = 1e-4(고정) 변경
@@ -85,7 +75,7 @@
                 ==========================================================
             ```
             ![alt text](ct_result_history_3.png)
-    - 학습 코드 4 : ct-convnext-base-s128_4.ipynb
+    - 학습 코드 4 : ct-convnext-tiny-s128_4.ipynb
         - v3에서 성능의 한계를 보고 구조를 바꿈(부상 여부를 더 적극적으로 활용)
         - forward 구조 변경(부상 확률에 영향을 받도록 처리)
         - 부상을 여부에 따라 성능의 차이가 많이 달라짐
@@ -129,22 +119,14 @@
             ```
             ![alt text](ct_result_history_4.png)
         - best 11 에포크
-    - 학습 코드 5 : ct-convnext-base-s224_5.ipynb
+    - 학습 코드 5 : ct-convnext-tiny-s224_5.ipynb
         - 크기 224로 변경
-        ![alt text](ct_result_history_5.png)
-        224 크기로 변경 결과가 나쁘지 않아 보인다
-
-    - 학습 코드 5 : ct-convnext-base-s224_5_1.ipynb
         - 13에포크 부터 이어서 처리
-        ![alt text](ct_result_history_5_1.png)
-        처음 0.7을 돌파하고 계속 이어서 돌렸을 때 기대된다
-    
-    - 학습 코드 5 : ct-convnext-base-s224_5_2.ipynb
         - 15에포크 부터 이어서 처리
         ![alt text](ct_result_history_5_2.png)
 
 
-    - 학습 코드 6 : ct-convnext-base-s224_6.ipynb
+    - 학습 코드 6 : ct-convnext-tiny-s224_6.ipynb
         - 가중치 변경
             ```
             criterion_dict = {
@@ -156,29 +138,14 @@
                 'spleen': nn.CrossEntropyLoss(weight=torch.tensor([1.0, 3.0, 5.0]).to(DEVICE), label_smoothing=0.05),
             }
             ```
-            ![alt text](ct_result_history_6.png)
-    
-    - 학습 코드 6 : ct-convnext-base-s224_6_1.ipynb
         - 12에포크 부터 이어서 처리
-        ![alt text](ct_result_history_6_1.png)
-
-    - 학습 코드 6 : ct-convnext-base-s224_6_2.ipynb
         - 15에포크 부터 이어서 처리
-        ![alt text](ct_result_history_6_2.png)
-
-    - 학습 코드 6 : ct-convnext-base-s224_6_3.ipynb
-        - 18에포크 부터 이어서 처리
-        ![alt text](ct_result_history_6_3.png)
-
-    - 학습 코드 6 : ct-convnext-base-s224_6_4.ipynb
         - 18에포크 부터 이어서 처리
         ![alt text](ct_result_history_6_4.png) 
-        
-    - 캐글 올려서 결과 확인
-        - 에포크 22까지 확인 했을 때 더 진행을 해도 큰 차이가 나지 않을것이라 판단
+        - 에포크 22까지 확인 했을 때 더 진행을 해도 큰 차이가 나지 않을것이라 판단 하여 캐글에 올려서 확인
         ![alt text](<monai_ct_convnext_v6_2_ep17 submission.png>)
     
-    - 학습 코드 7 : ct-convnext-base-s224_7.ipynb
+    - 학습 코드 7 : ct-convnext-tiny-s224_7.ipynb
         - Backbone 동결해제, 전체 동결 해제 조건에서 v6버전에서 optimizer, scheduler 재 설정하니 loss가 튀어 제거하고 이어서 하는 방식으로 변경
         - CrossEntropyLoss label_smoothing = 0.1 변경으로 모델이 너무 확신하지 않게
         - AdamW weight_decay=0.01 추가
@@ -186,18 +153,9 @@
         - dropout= 0.3 변경
         - accumulation_steps = 8 추가
         - 코드 구조 기존 학습하던 모델 불러오는 방식 코드 수정
-        ![alt text](ct_result_history_7.png)
-
-    - 학습 코드 7 : ct-convnext-base-s224_7.ipynb
         - epoch 12-14 이어서 학습
-        ![alt text](ct_result_history_7_1.png)
-
-    - 학습 코드 7 : ct-convnext-base-s224_7.ipynb
-        - epoch 15-23
+        - epoch 15-23 이어서 학습
         ![alt text](ct_result_history_7_2.png)
+        - 캐글 결과 확인
         ![alt text](<monai_ct_convnext_v7_ep15 submission.png>)
-            - loss가 올랐다...
-            - optimizer, scheduler 재 설정 코드를 제거 하므로 튀는 현상은 사라짐
-        
-        - 더 좋은 성능을 만들기 위해선 convnext_tiny 에서 convnext_base로 바꾸는 방법도 있는데 메모리 부족으로 불가...
         
