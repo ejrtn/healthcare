@@ -157,5 +157,12 @@
         - 캐글 결과 확인
         ![alt text](<monai_ct_convnext_v7_ep15 submission.png>)
     
-    - 학습 코드 7 : ct-convnext-tiny-s224_8.ipynb
+    - 학습 코드 8 : ct-convnext-tiny-s224_8.ipynb
         - 증강 모두 제거, dropout=0.1 변경
+        ![alt text](ct_result_history_8.png)
+        - loss, auc 모두 좋지 않음
+    
+    - 학습 코드 9 : ct-convnext-tiny-s224_9.ipynb
+        - 증강 모두 복구, lr 처리 방식 6, 11 에포크에서 무조건 0.1을 더 곱했다면 지금은 scheduler로 함
+        ![alt text](ct_result_history_8.png)
+        - loss, auc 모두 안좋은 결과 확인
