@@ -163,6 +163,6 @@
         - loss, auc 모두 좋지 않음
     
     - 학습 코드 9 : ct-convnext-tiny-s224_9.ipynb
-        - 증강 모두 복구, lr 처리 방식 6, 11 에포크에서 무조건 0.1을 더 곱했다면 지금은 scheduler로 함
-        ![alt text](ct_result_history_8.png)
-        - loss, auc 모두 안좋은 결과 확인
+        - 증강 모두 복구
+        - convnext_tiny모델에서 추천해준 lr 전략
+            - LLRD전략 : Backbone과 Head의 학습률(LR)을 다르게 설정
