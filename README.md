@@ -166,3 +166,5 @@
         - 증강 모두 복구
         - convnext_tiny모델에서 추천해준 lr 전략
             - LLRD전략 : Backbone과 Head의 학습률(LR)을 다르게 설정
+            
+            ![alt text](ct_result_history_9.png)
