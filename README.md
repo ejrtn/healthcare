@@ -8,14 +8,11 @@
 
 - x-ray
     - denseNet-121 전이학습, 증강, 2 에포크까지 동결, 가중치(log처리)
-    - x-ray_NIH_denseNet-121.py
-        - chest x-ray : https://www.kaggle.com/datasets/nih-chest-xrays/data
-        - HIH 흉부 x-ray 데이터
-        NIH 결과 ![alt text](x-ray_NIH_result_history.png)
-    - x-ray_chexpert-densenet121.ipynb
-        - chest x-ray : https://www.kaggle.com/datasets/ashery/chexpert
-        - 다른 흉부 x-ray 데이터
-        chexpert 결과 ![alt text](x-ray_chexpert_result_history.png)
+    - x-ray-densenet121.py
+        - nih x-ray : https://www.kaggle.com/datasets/nih-chest-xrays/data
+        - chexpert x-ray : https://www.kaggle.com/datasets/ashery/chexpert
+        - 서로 다른 데이터를 같은 설정으로 어느정도 차이가 나는지 확인
+        ![alt text](x-ray.png)
 
 - ct
     - ct : https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection
