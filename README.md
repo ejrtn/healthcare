@@ -34,8 +34,8 @@
 ## 📊 성능 시각화
 
 ### CT 학습 히스토리
-![CT History](assets/ct_result_history_9.png)
-*그림: LLRD 전략을 사용한 25 에포크 동안의 학습 손실 및 장기별 AUC 개선 추이.*
+![CT History](assets/ct_result_history_6_4.png)
+*그림: ConvNeXt + Transformer 모델의 최고 성능(Mean AUC 0.752)을 기록한 학습 과정.*
 
 ### X-ray 데이터셋 비교
 ![X-ray Results](assets/x-ray.png)
