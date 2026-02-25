@@ -1,0 +1,12 @@
+torch>=2.0.0
+torchvision
+monai
+timm
+pandas
+numpy
+matplotlib
+scikit-learn
+torchmetrics
+tqdm
+pyarrow
+pillow
