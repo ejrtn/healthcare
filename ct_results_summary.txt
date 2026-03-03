@@ -1,0 +1,11 @@
+CT Model Validation Results Summary
+==================================================
+Version: v1_2  | Best Epoch: 14 | Best AUC: 0.7738 | Val Loss: 2.5379
+Version: v2    | Best Epoch: 10 | Best AUC: 0.6793 | Val Loss: 2.7214
+Version: v3    | Best Epoch: 14 | Best AUC: 0.6892 | Val Loss: 2.7362
+Version: v4    | Best Epoch: 11 | Best AUC: 0.7070 | Val Loss: 2.5536
+Version: v5_2  | Best Epoch: 17 | Best AUC: 0.7529 | Val Loss: 2.3913
+Version: v6_4  | Best Epoch: 22 | Best AUC: 0.7524 | Val Loss: 4.2893
+Version: v7_2  | Best Epoch: 12 | Best AUC: 0.7474 | Val Loss: 4.3942
+Version: v8    | Best Epoch:  3 | Best AUC: 0.6951 | Val Loss: 4.3632
+Version: v9    | Best Epoch:  5 | Best AUC: 0.7131 | Val Loss: 4.3870
