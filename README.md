@@ -1,119 +1,78 @@
-# 의료 영상 AI: CT 및 흉부 X‑ray 분류 프레임워크
+# 🩺 흉부 X-ray 및 복부 CT 영상 판독 AI 모델 개발
+> **의료 영상 처리 딥러닝 포트폴리오** 
+
+본 프로젝트는 의료 영상(흉부 X-ray 및 복부 CT) 데이터를 활용하여 질환을 진단하고 부상 여부를 판별하는 딥러닝 파이프라인 개발 과정을 담고 있습니다. 데이터 전처리부터 모델 아키텍처 구성, 세부 하이퍼파라미터 등 지속적인 성능 튜닝 내역을 문서화하였습니다. 
+
+## 🎯 프로젝트 개요
+* **목표:** 의료 이미지를 입력받아 이상 병변 진단 및 손상된 장기 부상 여부를 확률로 제공하는 AI 모델 설계 및 최적화
+* **주요 도메인:** 컴퓨터 비전(Computer Vision), 의료 딥러닝(Healthcare & Medical AI)
+* **주요 기술 스택:** Python, PyTorch, MONAI, Transformer, Transformer-Encoder, ConvNeXt
 
 ---
 
-## 초록
-본 연구는 **컴퓨터 단층촬영(CT)** 및 **흉부 X‑ray** 영상을 활용한 질병 분류를 위한 딥러닝 프레임워크를 제시한다. 의료 영상에 특화된 전처리 파이프라인을 설계하고, 전이 학습 기반 CNN과 하이브리드 CNN‑Transformer 모델을 비교하였다. 클래스 불균형 문제는 Focal Loss와 가중 교차 엔트로피로 해결하고, 재현 가능한 학습 워크플로우를 제공한다. RSNA CT 데이터셋 및 NIH/​CheXpert X‑ray 데이터셋을 이용한 실험을 통해 **Transformer‑based attention**과 **layer‑wise learning‑rate decay (LLRD)**의 효과를 입증한다.
+## 💾 데이터셋
+1. **[NIH Chest X-rays](https://www.kaggle.com/datasets/nih-chest-xrays/data) & [CheXpert](https://www.kaggle.com/datasets/ashery/chexpert)**
+   - 두 X-ray 데이터셋을 동일한 환경(DenseNet-121, 전이학습)에 대입하여 분포 차이 및 성능을 교차 평가
+2. **[RSNA 2023 Abdominal Trauma Detection](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection)**
+   - 3D 복부 CT 입력을 다루며 각 장기(Bowel, Liver, Kidney, Spleen 등)별 상해(Injury) 또는 출혈(Extravasation) 판별
 
 ---
 
-## 1. 서론
-의료 영상의 정확한 해석은 신속한 진단에 필수적이다. 최근 컨볼루션 신경망(CNN)의 발전으로 뛰어난 성능을 달성했지만, 여전히 다음과 같은 과제가 존재한다:
-- **볼륨 CT 데이터**는 슬라이스 간 컨텍스트를 고려해야 한다.
-- **흉부 X‑ray** 분류는 다중 라벨 문제이며, 클래스 불균형이 심각하다.
-- 재현성 및 임상 적용성을 위해 투명한 파이프라인이 요구된다.
+## 🛠️ 핵심 모델 아키텍처 (CT 파이프라인)
 
-본 연구의 주요 기여는 다음과 같다:
-1. CT와 X‑ray에 맞게 설계된 **MONAI‑based 전처리 파이프라인**.
-2. CT에 **하이브리드 CNN‑Transformer 구조**를 도입하여 슬라이스 컨텍스트를 포착.
-3. **DenseNet‑121**(X‑ray)과 **ConvNeXt‑Tiny + Transformer**(CT)를 체계적으로 비교.
-4. **LLRD**, **gradient accumulation**, **early stopping**을 포함한 학습 전략을 제시하여 안정적인 fine‑tuning을 구현.
+3D 의료 영상 처리의 컴퓨팅 한계를 해결하고 맥락을 이해시키기 위해 **ConvNeXt + Transformer Encoder** 구조를 고안하였습니다. (V3, V4 모델 전후로 지속 발전)
 
----
-
-## 2. 재료 및 방법
-### 2.1 데이터셋
-- **CT 데이터셋**: RSNA 복부 외상 탐지 데이터 (볼륨, 연구당 64 슬라이스). HU 정규화와 슬라이스 선택을 수행.
-- **흉부 X‑ray 데이터셋**: NIH Chest X‑ray와 CheXpert, 다중 라벨 형태의 일반적인 흉부 병변을 포함.
-
-### 2.2 전처리
-모든 전처리는 **MONAI**를 사용하여 구현한다:
-- 강도 정규화 및 **224×224** 크기로 리사이즈.
-- 랜덤 플립, 회전, 어파인 변환 등 데이터 증강.
-- 클래스 불균형 완화를 위한 가중 손실 적용.
-- CT 전용: HU 윈도우링 및 균등 슬라이스 샘플링.
-
-### 2.3 모델 아키텍처
-#### 2.3.1 X‑ray 모델
-- **DenseNet‑121**을 ImageNet 사전학습 가중치로 초기화하고, 다중 라벨 헤드를 추가하여 Fine‑tuning.
-
-#### 2.3.2 CT 모델
-- **ConvNeXt‑Tiny** 백본(초기에는 Freeze) 사용.
-- **Transformer Encoder**(2 레이어, 8 헤드)로 슬라이스 임베딩 시퀀스 처리.
-- **Attention pooling**을 통해 슬라이스 정보를 집계.
-- **Gated Multi‑Head Heads**는 전체 부상 확률에 따라 장기별 예측을 조절.
-
-### 2.4 학습 전략
-- Optimizer: **AdamW**.
-- 학습률 스케줄: **Layer‑wise LR decay (LLRD)**를 백본 단계별로 적용하고, 헤드에는 코사인 감소 적용.
-- **Gradient accumulation**(8 스텝)으로 GPU 메모리 제한을 극복.
-- **Early stopping**을 검증 손실 기준으로 적용.
+```text
+[입력 데이터] 배치 당 64장의 CT 슬라이스 (Batch, 64, 3, 128, 128 또는 224x224)
+↓
+1. [Backbone: ConvNeXt-Tiny] → "시각 신경망"
+   - 단일 슬라이스의 공간 특징(Feature)을 각각 추출해 고차원 벡터(768~1024차원)로 변환
+↓
+2. [Position Embedding] → "단층 촬영 스캔 위치 부여"
+   - CT 특성에 맞는 Z축(위치 인덱스) 정보를 주입
+↓
+3. [Transformer Encoder] → "슬라이스 간 종합 분석"
+   - 64장의 슬라이스들이 어텐션으로 상호작용하며 장기 부상의 전후 연결(Global Context) 파악
+↓
+4. [Attention Pooling] → "스포트라이트"
+   - 슬라이스들 중 부상 의심 지점이 큰 곳에 집중하여 1개의 '대표 벡터'로 압축
+↓
+5. [Final Diagnosis Heads] → "최종 전문의 판별"
+   - [Suspicion Head]: 복부 부상 유무 확률 도출 (`injury_prob`)
+   - [Organ Heads]: 각 장기(Bowel, Liver...)별 디테일 클래시피케이션
+   ⭐ 개선점: 전체 부상 확률(`injury_prob`)을 각 장기 판단 결과에 직접 곱해주어 허위 양성(False Positive)을 강력 통제(V4 아키텍처부터 도입)
+```
 
 ---
 
-## 3. 실험
-### 3.1 실험 환경
-- 프레임워크: **PyTorch** + **MONAI**.
-- 하드웨어: 단일 NVIDIA GPU(CUDA). 재현성을 위해 랜덤 시드 고정.
-- 평가 지표: **AUC**, **Accuracy**, 장기별 **Sensitivity/Specificity**.
+## 📈 실험 이력 (Versions & Experiments History)
 
-### 3.2 결과
+검증 AUC와 Loss 향상을 위해 점진적인 기법을 적용 및 실험한 기록입니다. 
+Loss Class Weight 튜닝, Label Smoothing, LLRD 등 다양한 전략을 도입하며 성능을 비교 분석하였습니다.
 
-#### CT 모델 버전별 벤치마크 (ConvNeXt-Tiny + Transformer)
-| 모델 버전 | 최고 Epoch | 검증 Loss | AUC (평균) |
-|-----------|------------|-----------|------------|
-| v1_2      | 14         | 2.5379    | 0.7738     |
-| v2        | 10         | 2.7214    | 0.6793     |
-| v3        | 14         | 2.7362    | 0.6892     |
-| v4        | 11         | 2.5536    | 0.7070     |
-| v5_2      | 17         | 2.3913    | 0.7529     |
-| v6_4      | 22         | 4.2893    | 0.7524     |
-| v7_2      | 12         | 4.3942    | 0.7474     |
-| v8        | 3          | 4.3632    | 0.6951     |
-| v9        | 5          | 4.3870    | 0.7131     |
-| v10       | 8          | 2.45      | 0.7757     |
-
-#### 전체 벤치마크 요약
-| 분류 대상 | 채택 모델 | 데이터셋 | 손실 함수 | 배스트 AUC |
-|----------|-----------|----------|-----------|------------|
-| 흉부 X-ray | DenseNet‑121 | NIH / CheXpert | 가중 교차 엔트로피 | *(작성 필요)* |
-| 복부 CT    | ConvNeXt‑Tiny (v10) | RSNA CT 외상 | Focal Loss | **0.7757** |
-
-**주요 관찰**
-- Focal Loss는 심한 클래스 불균형 상황에서 성능을 향상시킨다.
-- Transformer attention을 추가하면 CT 부상 탐지 AUC가 상승한다.
-- LLRD는 깊은 ConvNeXt 레이어의 Fine‑tuning을 안정화한다.
+### 📊 버전별 모델 성능 요약
+| Version | Image Size | Best Epoch | Best AUC | Summary & Strategies |
+|:---|:---:|:---:|:---:|:---|
+| **v1_2** | 128x128 | 14 | **0.7738** | 2 Epoch 레이어 동결, Augmentation, `any_injury` 가중치. 준수한 밸런스. |
+| **v2** | 128x128 | 10 | 0.6793 | 10 Epoch 초반 동결 스케줄, LR & Weight Decay 변경 설정. |
+| **v3** | 128x128 | 14 | 0.6892 | **과도기 아키텍처(Transformer 도입)**, 부분 동결/해제 구조 적용. |
+| **v4** | 128x128 | 11 | 0.7070 | Forward 진단 구조 전환(총합 부상 확률이 개별 장기 결과에 가중). |
+| **v5_2** | 224x224 | 17 | 0.7529 | 해상도를 224로 상향해 해상력 증대 (학습 시간 고려해 점진적 도입). |
+| **v6_4** | 224x224 | 22 | 0.7524 | 장기 별 **Custom Class Weight Multipliers** 부여 및 Label Smoothing(0.05). |
+| **v7_2** | 224x224 | 12 | 0.7474 | Label Smoothing(0.1) 격상, Gradient Accumulation 도입, 일부 외곡 증강 제거. |
+| **v8** | 224x224 | 3 | 0.6951 | Augmentation 완전 제거 실험 (의료영상 특성상 Augmentation의 큰 중요성 반증). |
+| **v9** | 224x224 | 5 | 0.7131 | Augmentation 복구, ConvNext에 맞는 LLRD (Layer-wise LR Decay) 시도. |
+| **v10** | 224x224 | - | **0.775+** | 고해상도(224)에서 성과가 좋았던 V1의 루틴을 재적용하여 성능(최고점) 극대화. |
 
 ---
 
-## 4. 논의
-### 4.1 강점
-- **도메인 특화 전처리**가 노이즈를 감소시키고 입력을 표준화한다.
-- **하이브리드 구조**가 CT 슬라이스 간 컨텍스트 추론을 가능하게 한다.
-- **LLRD**와 **Gradient Accumulation**을 통한 학습 안정성 확보.
+## 💡 개발 시 주요 문제 해결 (Problem-Solving)
 
-### 4.2 한계
-- 독립적인 임상 코호트에 대한 외부 검증이 부족하다.
-- GPU 제한으로 인해 전체 3‑D CNN 탐색이 제한적이다.
-- 임상 현장에서의 실제 유용성은 아직 평가되지 않았다.
-
-### 4.3 향후 연구
-- **3‑D CNN** 기반 베이스라인을 구축하여 볼륨 전체를 학습.
-- **Grad‑CAM** 등 XAI 기법을 도입해 모델 해석성을 강화.
-- 다기관 검증 및 반지도 학습을 활용해 라벨이 없는 데이터를 활용.
-
----
-
-## 5. 결론
-본 연구는 CT와 흉부 X‑ray 질병 분류를 위한 재현 가능하고 모듈화된 프레임워크를 제시한다. 제안된 하이브리드 CT 모델은 CNN 특징 추출과 Transformer 기반 컨텍스트 모델링을 결합함으로써 성능 향상을 입증했으며, X‑ray 베이스라인은 적절한 손실 가중치를 적용한 전이 학습의 효과를 확인하였다. 이 작업은 높은 정확도와 해석 가능성을 동시에 요구하는 미래 임상 AI 시스템 구축을 위한 기반을 제공한다.
-
----
-
-## 참고문헌
-1. **MONAI**: Project MONAI – Medical Open Network for AI, https://monai.io.
-2. **TIMM**: PyTorch Image Models, https://github.com/huggingface/pytorch-image-models.
-3. RSNA 2023 Abdominal Trauma Detection Competition.
-4. NIH Chest X‑ray Dataset, https://nihcc.nih.gov.
-5. CheXpert Dataset, https://stanfordmlgroup.github.io/chexpert.
-
----
+* **3D CT 영상의 한계 자원 극복**
+  - 무거운 3D CNN 기반 구조 대신 `2D ConvNeXt-Tiny`로 64개의 각 C-슬라이스를 처리한 후 메모리가 가벼운 `Transformer`로 볼륨 통합(Temporal 정보)하는 전략 채택.
+* **불균형 데이터 (Class Imbalance) 대처**
+  - 부상 사례(예: Bowel, Extravasation)가 희박한 특성 때문에 `nn.CrossEntropyLoss`의 `weight` 파라미터로 양성 클래스에 강한 패널티(10.0, 5.0 등)를 주어 놓치는 손상을 감소.
+* **보수적인 의료 평가 방식 유도 (Over-Prediction Control)**
+  - 개별 장기가 부상을 시사하더라도 전체 장기의 부상 확률이 낮다면 이를 기각할 수 있도록 전체 부상 판단용 헤드(Suspicion)와 장기별 헤드(Organ)를 계층형으로 구성하여 False Alarm 예방.
+* **일관성 없는 Loss 변동 억제 (Generalization)**
+  - 의료 스캔 노이즈로 인해 Loss가 튀는 현상을 막기 위해 `Label smoothing(0.1)`과 적절한 `Dropout`, `Gradient Accumulation` 활용.
