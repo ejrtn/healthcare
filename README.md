@@ -21,27 +21,64 @@
 
 ---
 
-## 핵심 모델 아키텍처 (CT 파이프라인 - Final Version: V15)
+## 핵심 모델 아키텍처 (CT 파이프라인 - Best Performance Version: V11)
 
-3D 의료 영상 처리의 효율성과 정확도를 모두 잡기 위해 ConvNeXt + Attention Pooling 기반의 2.5D 하이브리드 구조를 최종 채택하였습니다. 
+3D CT 스캔 데이터를 여러 개의 2D 슬라이스로 처리하고, 그중 부상이 의심되는 핵심 슬라이스에 집중(Attention)하여 최종적으로 부상 여부(any_injury)를 판별하는 구조입니다. V11은 여러 장기 분석보다 '전체 부상 유무' 판별에 집중하여 최고 성능(AUC 0.825+)을 달성한 모델입니다.
 
-```text
-[입력 데이터] 배치 당 64장의 CT 슬라이스 (Batch, 64, 3, 224, 224)
-↓
-1. [Backbone: ConvNeXt-Tiny] → "시각 특징 스캐너"
-   - 각 슬라이스의 공간 특징(Feature)을 추출하여 768차원 벡터로 변환 (Image-level Features)
-↓
-2. [Attention Pooling] → "핵심 슬라이스 포착 (가중 합산)"
-   - 64장의 특징 중 부상 의심 지점이 가장 높은 슬라이스에 동적으로 가중치를 부여
-   - 단순 평균이 아닌, '결정적 증거'에 집중하여 전체 시퀀스를 1개의 대표 벡터로 압축
-↓
-3. [Parallel Diagnosis Heads] → "계층적 진단"
-   - [Suspicion Head]: 전체 복부 부상 유무(위급성) 확률 도출 (`any_injury`)
-   - [Organ Heads]: 각 장기별 독립적/계층적 정밀 진단 수행
-   기술적 의사결정: V3(Transformer)의 복잡도와 V4(Gating)의 종속성보다, 
-     안정적인 정규화 기법(EMA, LLRD)이 적용된 고해상도(224) Attention 구조가 
-     가장 우수한 일반화 성능(v11 AUC 0.825 / v15 AUC 0.784)을 보임을 증명.
+### 1. Model Implementation (PyTorch)
+
+```python
+class Timm_Model(torch.nn.Module):
+    def __init__(self, model_name='convnext_tiny', num_slices=64):
+        super().__init__()
+        # 1. Backbone: ConvNeXt-Tiny (Pretrained)
+        # 이미지의 핵심 특징 정보(Feature Vector)를 추출 (Tiny 기준 768차원)
+        self.backbone = timm.create_model(model_name, pretrained=True, num_classes=0)
+        self.dim = self.backbone.num_features 
+
+        # 2. Attention Pooling: 64장 중 수상한 슬라이스를 골라내는 '심사위원'
+        self.attention_net = nn.Sequential(
+            nn.Linear(self.dim, 256),
+            nn.Tanh(),
+            nn.Dropout(0.1),
+            nn.Linear(256, 1)
+        )
+
+        # 3. Suspicion Head: "부상 여부 탐지" 전용 헤드
+        self.suspicion_head = nn.Sequential(
+            nn.Linear(self.dim, 256),  # 768 -> 256 압축
+            nn.LayerNorm(256),
+            nn.ReLU(),
+            nn.Dropout(0.1),
+            nn.Linear(256, 2)         # 최종 [정상, 부상] 확률 도출
+        )
+
+    def forward(self, x):
+        # x shape: (Batch, 64, 3, 224, 224)
+        b, s, c, h, w = x.shape
+        
+        # 슬라이스별 특징 추출 (Backbone)
+        x = x.view(-1, c, h, w) 
+        features = self.backbone(x) 
+        features = features.view(b, s, self.dim) # (Batch, 64, 768)
+
+        # Attention Pooling으로 결정적 증거(핵심 슬라이스) 포착
+        att_scores = self.attention_net(features) # (B, 64, 1)
+        att_weights = F.softmax(att_scores, dim=1)
+        
+        # 가중 합산을 통해 시퀀스를 1개의 대표 벡터로 압축
+        combined = torch.sum(features * att_weights, dim=1) # (B, 768)
+
+        # 최종 진단
+        return {"any_injury": self.suspicion_head(combined)}
 ```
+
+### 2. 주요 아키텍처 특징
+*   **ConvNeXt-Tiny Backbone**: 최신 CNN 구조를 통해 2D 슬라이스의 공간 특징을 정밀하게 추출합니다.
+*   **Attention Pooling**: 64장의 슬라이스 중 부상과 무관한 배경 슬라이스의 노이즈를 억제하고, 실제 병변이 포함된 '결정적 증거' 슬라이스에 가중치를 부여합니다.
+*   **Binary Focus**: 개별 장기별 분류보다 `any_injury`라는 핵심 문제에 집중함으로써, 위급 환자 분류 모델로서의 실무적 효용성을 극대화했습니다.
+*   **Class Imbalance Handling**: 손실 함수에 높은 가중치(`injury_weight = [1.0, 5.0]`)를 부여하여 부상 환자를 놓치지 않도록(Recall 향상) 설계되었습니다.
+
 
 ---
 
