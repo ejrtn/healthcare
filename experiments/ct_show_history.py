@@ -2,7 +2,7 @@ import pickle
 import matplotlib.pyplot as plt
 
 # 파일 경로
-file_path = 'assets/monai_ct_convnext_v16.pkl'
+file_path = 'assets/monai_ct_convnext_v17.pkl'
 
 # 'rb' (Read Binary) 모드로 읽어야 합니다.
 with open(file_path, 'rb') as f:

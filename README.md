@@ -101,6 +101,7 @@ class Timm_Model(torch.nn.Module):
 | **v14_2**| 224x224 | 39 | 0.7660 | 현대적 훈련 기법 이식. EMA, Stochastic Depth, Warm Restart 적용. |
 | **v15** | 224x224 | 39 | 0.7843 | 규제 최적화 및 EMA 적용으로 가장 탄탄한 검증 곡선 획득. |
 | **v16** | 224x224 | 39 | 0.7754 | LLRD 제거 실험을 통해 백본/헤드 학습률 균일화가 성능에 미치는 영향 검증. |
+| **v17** | 224x224 | 29 | 0.7182 | 질병 분류 특화 모델. `any_injury` 제거 및 5개 장기 정밀 진단 집중. EMA, LLRD 적용. |
 | **상세** | - | - | - | **[상세 실험 이력 확인 (버전별 수정 사항.md)](assets/%EB%B2%84%EC%A0%84%EB%B3%84%20%EC%88%98%EC%A0%95%20%EC%82%AC%ED%95%AD.md)** |
 
 ---
@@ -119,6 +120,7 @@ class Timm_Model(torch.nn.Module):
 | **v14** | A ConvNet for the 2020s 논문 참고 | EMA (Exponential Moving Average) 와 LLRD 적용. 요동치는 학습 곡선을 안정화. |
 | **v15** | 아키텍처 정제 및 최종 안정화 | Transformer를 걷어내고 순수 Attention Pooling + EMA 조합으로 가장 신뢰도 높은 모델 완성. |
 | **v16** | 하이퍼파라미터 민감도 분석 | LLRD 제거 실험을 통해 백본/헤드 학습률 차등 적용의 필수성 최종 확인. v15 대비 AUC 하락. |
+| **v17** | 질병 분류(Organ Classification) 특화 | `any_injury` 제거 후 장기별 진단 집중. Bowel AUC 향상(0.735) 확인되었으나 전체 평균은 하락. |
 
 ---
 
