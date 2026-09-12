@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[유방종괴]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5686]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 유방종괴는 유방에 생긴 모든 덩어리를 의미하며, 주로 양성이지만 악성과 감별이 필요합니다.
+• 40세 이하에서는 대부분 양성이지만 40세 이상에서는 악성 가능성이 높아 정밀 검사가 필요합니다.
+• 유방종괴의 원인은 유방 낭종, 섬유선종, 유방암 등이 있으며, 자가 진찰과 정기 검진이 중요합니다.
+• 진단을 위해 유방촬영술, 초음파, 생검 등이 사용되며, 악성이 의심되면 제거 수술이 필요합니다.
+• 치료는 원인에 따라 다르며, 양성 종괴는 경과를 관찰하고, 유방암일 경우 수술 및 추가 치료를 진행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유방종괴는 유방에 생긴 모든 덩어리(혹)를 뜻하며, 유방 관련 문제로 병원을 찾는 가장 흔한 증상입니다. 약 80%는 환자 자신이 우연히 종괴를 발견하고, 나머지 20%는 검진이나 진료를 통해 발견됩니다. 우리나라는 상대적으로 젊은 연령층에서 유방암 발생률이 높기 때문에 여성 스스로 매달 자가 진찰을 하는 것이 중요합니다. 자가 진찰 또는 검진을 통해 유방종괴가 발견되면 원인 질환 감별을 위해 진료를 받아야 합니다.
+1) 40세 이하 환자의 고형종괴
+40세 이하 여성의 유방종괴는 거의 대부분 양성 질환으로 섬유선종, 섬유 낭종성 변화, 섬유화 등으로 인해 발생하지만, 연령에 관계없이 통증이 없는 유방의 종괴는 반드시 악성 종양과 감별 진단해야 합니다. 
+ 2) 40세 이상 환자의 고형종괴
+나이가 들면 임상적으로 양성 유방 질환은 오히려 감소하며, 악성 질환의 가능성이 높아집니다. 40세 이상 여성에서 비낭종성 덩어리(종괴)는 임상적인 소견과 상관없이 악성 가능성을 고려해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유방종괴의 원인은 유방 낭종, 섬유선종, 유방암 순입니다.
+1. 유방 낭종 
+ 유방 낭종은 흔히 ‘물혹’이라고 하며, 속이 비어 있는 덩어리를 말합니다. 유방 낭종은 난소에서 분비되는 호르몬의 영향을 받아 월경 주기에 따라 변합니다. 35세 이후의 여성에서 주로 발생하여, 폐경까지 증가하다가 폐경 이후 빈도가 감소합니다. 폐경 후 여성호르몬제를 복용하는 경우 유방 낭종이 새롭게 생길 수 있습니다. 유방 낭종은 양성 질환이며, 유방 낭종으로 인해 유방암 발생이 증가하지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe956ff77]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 섬유선종 
+섬유선종은 우리나라 여성에게 가장 흔한 유방 질환으로, 유방 조직의 일부가 과도하게 증식하여 발생합니다. 20~30대의 젊은 여성에서 주로 발생합니다. 섬유선종은 호르몬의 영향을 받기 때문에 생리 주기에 따라 크기가 변할 수 있고 통증이 발생할 수도 있습니다. 임신 및 수유 기간 중 커지고, 폐경 이후에는 작아지는 경향이 있습니다. 섬유선종은 양성 질환으로 섬유선종으로 인해 유방암 발생이 증가하지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe9570261]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 유방암 
+ 유방종괴는 유방암의 증상 중 가장 흔하게 나타나는 증상입니다. 50세 이상이거나 유방암 가족력이 있는 경우, 아이를 출산하지 않았거나 모유 수유를 하지 않은 여성, 여성호르몬 치료나 경구피임약 복용, 방사선 노출, 비만 등이 유방암의 위험인자로 알려져 있습니다. 유방암의 위험인자가 있는 여성에게 유방종괴가 만져진다면 반드시 유방암에 대한 정밀 검사가 필요합니다. 
+    4. 기타 
+ 그 밖에 유방종괴의 원인으로 유방 과오종, 섬유낭종성 변화, 관내 유두종, 유선염으로 인한 농양, 비정형적 과형성증 등이 있습니다. 특히 관내 유두종은 완전 국소절제로 제거해서 치료하며, 악성과의 구분이 어려워 주의깊은 관찰과 주기적인 유방검사를 시행해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe956fb74]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[보통 유방종괴는 크기가 2 cm 이상일 때 만져지지만, 유방의 크기나 종괴의 위치 또는 깊이에 따라 다를 수 있습니다. 그러나 정상적인 여성에서도 호르몬의 변화로 인해 유방 내 종괴가 있는 것처럼 만져질 수 있습니다. 여성의 유방은 월경이 시작될 때 커지고 월경이 끝나면 작아지기 때문에, 월경이 끝난 후 5~7일이 종괴를 확인하기에 가장 좋은 시기입니다. 월경 주기에 따라 크기가 변하지 않는 종괴가 만져지거나, 폐경 이후에 종괴가 만져지는 경우에는 즉시 병원에 내원하여 검사를 해야 합니다.
+일반적으로 양성 종괴는 피부 변화가 없고, 종괴가 딱딱하지 않고 부드러우며, 만졌을 때 잘 움직입니다. 이에 비하여, 악성 종괴는 딱딱하고, 만졌을 때 잘 움직이지 않습니다. 그러나 촉진만으로 양성과 악성을 구분하기 어려운 경우가 많기 때문에 영상의학적 검사(유방촬영 및 유방 초음파)가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[먼저 유방암의 감별을 위해서 정확한 문진이 필요합니다. 유방종괴가 언제부터 만져졌는지, 월경 주기에 따라 크기가 변하는지, 계속 커지는지, 통증이 함께 있는지, 유두에 변화가 있는지, 유두 분비물이 있는지와 유방암의 가족력, 출산력, 여성호르몬 치료와 경구피임약 복용 등 유방암 위험요인을 조사합니다.
+유방의 대칭성, 유두 분비, 염증, 유두 함몰 등 피부 변화를 관찰하고, 유두, 유두 둘레, 유방, 겨드랑이를 포함하여 유방 전체를 진찰합니다. 손으로 촉진하는 것만으로는 유방종괴를 양성 또는 악성으로 확연히 구분하기 어렵기 때문에, 유방촬영술이나 유방초음파를 포함한 영상학적 검사가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe9570544]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유방촬영술로 전형적인 양성 소견인 지방종, 석회화된 섬유선종 등을 진단할 수 있으며, 악성을 시사하는 소견인 미세석회화를 확인할 수 있습니다. 유방초음파는 유방촬영술에 비해 30세 이하 여성이나 치밀 유방을 가진 여성에서 병변을 발견하는 데 효과적이며, 유방종괴의 내부 성분을 감별하는데 유용하므로 유방 낭종과 섬유선종을 쉽게 구분할 수 있습니다.
+폐경 전 여성에서 월경 주기에 따라 크기가 변하지 않는 종괴가 만져지거나, 폐경 후 여성에서 유방종괴가 만져질 때는 암세포를 직접 확인하기 위해 종괴 내부 물질을 주사기로 빼내어 세포를 확인하는 세침흡인생검 또는 침생검검사를 시행합니다. 유방 낭종의 진단 및 치료 목적으로 세침흡인생검을 할 수도 있으며, 유방 낭종이라도 흡인한 액체가 피처럼 붉다면 유방암이 동반되어 있을 가능성이 있기 때문에 반드시 유방암 세포 검사를 시행해야 합니다.
+4~6주 뒤 유방초음파를 재검했을 때, 낭종이 다시 생겼거나 딱딱한 고형 성분이 있으면 수술로 절제하는 것이 좋습니다. 유방 자기공명영상(Magnetic Resonance Imaging, MRI)은 유방암 위험인자를 지닌 여성에서 유방암을 진단하거나, 유방암을 진단받은 여성에서 암의 진행 단계를 결정하는 데 유용한 검사법으로, 단순히 유방종괴를 진단하기 위해서는 사용되지 않습니다. 딱딱한 종괴가 만져지는 경우 유방 진찰, 영상학적 검사(유방촬영술 또는 유방초음파), 침생검검사 세 가지를 모두 시행하며, 세 가지 검사에서 모두 악성이 의심되면 외과적인 제거 수술이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치료는 유방종괴의 진단에 따라 다릅니다. 대부분의 양성 유방종괴는 치료할 필요가 없지만, 크기가 증가하는 경우는 주치의와 상의하여 치료가 필요할 수 있습니다.
+유방 낭종은 세침흡인생검으로 진단과 치료가 동시에 가능하며, 약 80% 정도에서 한번 흡인으로 재발 없이 치료됩니다. 단순 낭종은 20% 미만에서 재발할 수 있으며, 약 9% 미만에서는 반복 흡인해도 재발합니다. 섬유선종 역시 양성 질환이므로 특별한 치료가 필요하지 않으나, 정기적으로 경과를 관찰하면서 크기가 커질 경우 절제를 권유합니다. 유방암으로 진단되면 진행 정도에 따라 수술적 치료, 방사선 치료, 항암 치료를 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 유방촬영술로 유방종괴가 나온 경우 유방초음파 검사가 필요한가요?
+
+A. 네. 유방초음파는 유방촬영술에 비해 유방종괴의 내부 성분을 감별하는데 더 유용합니다. 따라서 유방촬영술에서 발견된 유방종괴가 단순 낭종인지, 딱딱한 종괴(고형 성분의 종괴)인지 감별하기 위하여 유방초음파 검사를 시행해야 합니다.
+
+Q. 겨드랑이에 혹이 만져지는데, 유방도 검사를 해야 하나요?
+
+A. 네. 겨드랑이에는 많은 임파선(림프절)이 모여 있는데. 유방의 림프액이 겨드랑이의 임파선으로 흘러가기 때문에, 유방 질환이 원인이 되어 겨드랑이 임파선이 커지거나 부어오를 수 있습니다. 따라서 겨드랑이에 혹이 만져지는 경우, 유방에 대해서도 반드시 검사해야 합니다.
+
+Q. 유방에 낭종이 여러 개 있었는데 계속 많아집니다. 수술해야 하나요?
+
+A. 아닙니다. 유방 내 단순 낭종은 양측 유방에 한개 혹은 다수로 있을 수 있으며, 호르몬의 영향으로 개수가 늘어날 수 있습니다. 세침흡인생검으로 낭종 내 액체를 배액(내부 물질을 주사기로 빼냄)하여 치료할 수 있으나, 유방암과 관련은 없으므로 정기적으로 경과를 관찰하면 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 한국유방암학회. (2013). 유방학 제3판. 군자출판사.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

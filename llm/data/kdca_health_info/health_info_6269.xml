@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[응고검사(출혈질환의 검사)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6269]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[정상적인 지혈을 위해서는 혈액응고인자 및 혈소판의 수와 기능이 충분해야 하고, 혈관의 구조에도 이상이 없어야 합니다. 혈액응고과정에 관여하는 혈관, 혈소판, 혈액응고인자 및 섬유소용해 과정 중 하나라도 문제가 있으면 출혈질환이 생길 수 있습니다. 출혈질환이 의심되면 혈관, 혈소판, 혈액응고인자 중 어디에 문제가 있는지 확인해야 합니다. 혈소판의 문제를 확인하기 위해 혈소판 수 측정, 혈소판 기능검사를 시행하고, 혈액응고인자의 문제를 확인하기 위해 활성화 부분 트롬보플라스틴 시간, 프로트롬빈 시간을 측정하며 혈액응고인자 검사와 폰빌레브란트인자 검사를 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[출혈질환의 진단 및 위험도 평가를 위해 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈액을 검사합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 혈소판 수
+1) 정상 혈소판 수: 15만~40만 개/uL
+2) 검사의 의미
+혈관이 손상되면 그 부위에 혈소판이 부착되어 일차 혈전(혈소판 덩어리)을 형성합니다. 혈소판 수가 정상보다 적으면 일차 혈전이 잘 만들어지지 않으므로 출혈질환이 발생합니다. 혈소판 수가 감소하는 원인은 매우 다양하지만, 혈소판을 만드는 골수에서 혈소판 생성이 감소하는 경우와 혈소판의 파괴나 소모가 증가하는 경우로 나눌 수 있습니다. 혈소판 수가 5만 개 이하로 감소하면 출혈 경향이 상당히 증가하고, 2만 개 이하로 감소하면 다치지 않아도 저절로 출혈이 발생할 위험이 매우 커집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d3367]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 혈소판 기능 검사
+혈소판의 수는 정상인데 출혈 질환이 의심되는 경우, 혈소판의 기능이 정상인지 여부를 진단하고자 하는 검사입니다. 혈소판 기능검사에는 피부에 상처를 낸 후 피가 멈추는 데 걸리는 시간을 측정하는 출혈시간 검사와 혈소판 응집검사가 있습니다. 출혈시간 검사는 약 100여 년 전 개발된 검사로 오랜 기간 동안 널리 사용하여 왔지만, 표준화가 어렵고 임상적인 유용성이 적으며, 피부에 상처를 내는 침습적인 방법을 사용하기 때문에 최근에는 거의 시행하지 않습니다.혈소판 응집검사는 혈소판을 활성화시키는 여러 가지 물질을 첨가하여 혈소판이 얼마나 잘 응집되는지를 측정하는 검사로 혈소판 기능 검사의 표준이 되는 중요한 검사입니다.
+1) 정상 범위: 모든 혈소판 활성화 물질에 혈소판이 잘 응집되는 것
+2) 검사의 의미
+어떤 혈소판 활성화 물질에 혈소판이 잘 응집되는지 확인해 다양한 선천성 및 후천성 혈소판 기능 이상 질환을 진단할 수 있습니다.
+
+3. 활성화 부분 트롬보플라스틴 시간(aPTT)
+1) 정상 범위: 검사 시약과 장비에 따라 정상 범위가 달라지므로, 각 검사실에서 자체적인 정상 범위를 설정해 결과를 판단합니다.
+2) 검사의 의미
+정상 범위보다 길어진(연장된) 경우 몇몇 혈액응고인자의 기능 혹은 양에 문제가 있음을 의미합니다.
+몇몇 혈액응고인자의 양이 감소하거나, 기능이 정상보다 떨어져 있거나, 억제 인자가 존재할 때 aPTT가 연장됩니다. 대표적인 질환으로 제 VIII 혹은 제 IX 혈액응고인자가 결핍되는 혈우병이 있습니다. 그 외에도 파종 혈관 내 응고증, 대량 수혈, 간질환 등에서 aPTT가 연장될 수 있습니다. 항인지질항체증후군에서 루푸스 항응고인자가 존재하는 경우에도 연장될 수 있습니다. 헤파린 치료를 받는 환자에서 치료 용량을 조절할 목적으로도 본 검사를 시행합니다.
+
+정상보다 짧아진 경우는 임상적 의미가 거의 없습니다. 혈액 검체 채취나 취급 과정이 부적절했을 경우, 몇몇 혈액응고인자가 정상보다 많거나 기능이 과도하게 활성화된 경우에 정상 범위보다 짧은 결과를 보일 수 있습니다.
+
+
+4. 프로트롬빈 시간(PT)
+1) 정상 범위: 검사 시약과 장비에 따라 정상 범위가 달라지므로, 각 검사실에서 자체적인 정상 범위를 설정해 결과를 판단합니다.
+2) 검사의 의미
+
+정상보다 길어진(연장된) 경우 몇몇 혈액응고인자의 기능 혹은 양에 문제가 있음을 의미합니다.
+제 I, II, V, VII, X 혈액응고인자 결핍, 파종 혈관 내 응고증, 대량 수혈, 간질환에서 연장될 수 있습니다. 특히, 비타민 K 결핍증이나 비타민 K 억제인자가 있을 때 연장됩니다. 혈전증 치료에 널리 사용되는 경구 항응고제인 와파린 복용 시 치료 용량을 조절할 목적으로도 본 검사를 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d32a6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[5. 혈액응고인자 기능(활성도) 검사
+활성화 부분 트롬보플라스틴 시간이나 프로트롬빈 시간이 연장되어 혈액응고인자 결핍증이 의심되면, 어떤 인자가 결핍되었는지 진단하기 위해 각 혈액응고인자의 기능을 측정합니다.
+1) 정상 기능(활성도) 범위: 검사실마다 약간의 차이가 있으나, 일반적으로 60~140% 정도입니다.
+2) 검사의 의미
+
+예를 들어 혈우병이 의심되면 제 VIII 및 IX 혈액응고인자의 활성도를 측정해, 정상보다 얼마나 감소했는지에 따라 혈우병의 진단 및 중증도를 확인하고, 치료 효과도 판단할 수 있습니다.
+
+
+6. 폰빌레브란트인자 검사
+
+폰빌레브란트인자는 혈소판과 혈관 사이를 연결해 혈소판을 혈관 손상 부위에 부착시킵니다. 따라서, 폰빌레브란트인자가 부족하면 지혈 과정 중 일차 혈전(혈소판 덩어리)이 생성되지 못해 출혈이 잘 멈추지 않습니다.
+폰빌레브란트인자가 선천적으로 부족한 폰빌레브란트병은 혈우병 다음으로 흔한 유전 출혈질환입니다. 폰빌레브란트병이 의심되면 폰빌레브란트인자의 기능과 양을 동시에 검사하고, 그 외 여러 가지 응고검사를 복합적으로 시행해 정확한 진단을 내립니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[응고검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6267]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[응고검사(혈전질환의 검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6268]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

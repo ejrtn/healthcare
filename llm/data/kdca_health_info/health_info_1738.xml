@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[골감소증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1738]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 골량은 30대까지 증가했다가 50세 이후부터 점차 감소합니다.
+• 골감소증은 골다공증의 전 단계로, 뼈가 약해졌으나 특별한 증상은 없는 상태입니다.
+• 관리하지 않으면 골다공증으로 진행되어 작은 충격에도 골절이 생길 수 있습니다.
+• 예방과 관리를 위해서는 균형 잡힌 식사, 운동, 칼슘과 비타민 D 섭취가 중요합니다.
+• 골절 위험이 높은 경우에는 정기 검사와 함께 약물 치료가 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[골량은 출생 후부터 30대까지 증가하여 최대치에 도달한 후 50세까지 유지되다가 50세 이후에는 나이가 들어감에 따라 감소합니다. 골감소증은 골다공증의 전 단계 상태로, 골량이 감소되고 골(뼈)의 미세구조가 변화하면서 골의 강도가 약해지게 됩니다. 골감소증이 있어도 특별한 증상은 없는데, 제대로 관리하지 않으면 골다공증으로 진행될 수 있으며 골절이 발생할 수 있습니다. 골감소증을 잘 관리하려면 올바른 영양 관리, 적절한 신체활동과 운동, 그리고 칼슘과 비타민 D 보충이 필요합니다. 골절 위험이 높은 일부 환자에서는 약물 치료가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[골감소증은 골다공증의 전 단계이며, 골감소증과 골다공증은 골량 감소와 미세구조의 이상으로 골강도가 약해져 부러지기 쉬운 상태를 의미합니다. 세계보건기구(World Health Organization, WHO)에서는 골밀도 검사 결과를 기준으로, 젊은 성인집단의 골밀도 평균을 이용한 T 점수를 계산하여 -2.5 이하이면 ‘골다공증’, -1.0과 -2.5 사이면 ‘골감소증’으로 정의합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[골감소증이 계속 진행되면 골다공증 범위로 골밀도가 감소하게 되어 작은 충격에 의해서도 골절이 발생합니다. 골감소증 상태에서도 작은 충격에 의해 골절이 발생할 위험은 정상인에 비해 높습니다. 골감소증이나 골다공증은 골절이 발생할 때까지 증상이 없이 서서히 진행되지만 일단 골절이 발생하면 수술을 하거나 장기 입원을 하게 됩니다. 또한 일상생활이 어려워지면서 삶의 질이 크게 낮아질 수 있고 사망률도 증가합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[골량은 출생 후부터 30대까지 증가하여 최대치에 도달한 후 50세까지 유지되다가 50세 이후에는 나이가 들어감에 따라 감소합니다. 특히, 여성은 50세 전후로 폐경이 되면서 여성 호르몬 생성이 저하되어 골 소실이 급격하게 발생하면 골감소증이나 골다공증의 발생 위험이 높아지게 됩니다.
+그밖에 내분비 질환이나 자가면역 질환 같은 여러 가지 병이 있거나 특정 약물을 복용하는 경우 뼈를 형성하는 데 장애를 일으키거나 골 소실을 증가시켜 젊은 나이에도 골감소증이나 골다공증을 발생시킬 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대한골대사학회에서 발표한 ‘골다공증 및 골다공증골절 fact sheet 2023’에 따르면, 우리나라 전체 인구를 대상으로 표본을 추출하여 시행하는 2008~2011년 국민건강영양조사를 분석한 결과 50세 이상 성인에서 골감소증 유병률은 47.9%로, 50세 이상 성인 2명 중 1명이 골감소증이 있는 것으로 나타났습니다. 성별로 보면 50세 이상 여성에서 골감소증 유병률은 48.9%이고, 50세 이상 남성에서 골감소증 유병률은 46.8%로 남성과 여성이 비슷합니다.
+한편 2024년 국민건강영양조사 결과에 따르면, 50세 이상 성인의 골다공증 유병률은 13.2%였고, 남성 4.4%, 여성 23.5%로 여성에서 약 5배 더 높았습니다. 특히 여성은 연령이 높아질수록 유병률이 증가해, 70세 이상에서는 37.2%로 나타났습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[골감소증은 골절이 발생하기 전까지는 증상이 없습니다. 하지만 골감소증을 관리하지 않아서 골절이 발생하면 이로 인한 통증과 보행 장애 같은 증상이 발생하고 영구적인 후유증이 남을 수 있습니다. 또한 골절 후에는 사망률도 증가하는 것으로 알려져 있습니다. 그러므로 골감소증을 잘 관리하여 골다공증으로 진행되거나 골절 발생을 예방하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[골감소증은 골밀도 검사로 진단합니다.
+골밀도를 측정하는 검사에는 이중에너지방사선흡수계측법(Dual Energy X-ray Absorptiometry, DEXA), 정량컴퓨터단층촬영(Quantitative Computed Tomography, QCT) 등이 있습니다. 이 중 세계보건기구(WHO)에서 제시한 이중에너지방사선흡수계측법(DEXA) 검사 기준이 가장 널리 사용됩니다.
+이 방법은 주로 허리뼈(요추 1~4번의 평균치)와 대퇴골 전체, 대퇴골 경부의 골밀도를 측정합니다. 이 가운데 가장 낮게 나온 값을 기준으로 뼈 건강 상태를 평가합니다.검사 결과는 T 점수로 표시합니다. T 점수는 젊고 건강한 성인의 평균 골밀도와 비교해, 내 골밀도가 어느 정도 낮은지를 나타내는 값입니다. 세계보건기구 진단 기준에 따른 분류는 다음과 같습니다.정상: T 점수 ≥ -1.0골감소증: -2.5 &lt; T 점수 &lt; -1.0골다공증: T 점수 ≤ -2.5 
+
+T 점수가 낮을수록 골밀도가 낮다는 뜻입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[골감소증이 골다공증으로 진행하거나 골절이 발생하는 것을 예방하기 위해서는 정기 검진을 시행하고, 적절한 영양 관리와 운동을 해야 합니다. 일부 골절의 위험이 높은 골감소증 환자에서는 약물 치료를 고려할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[모든 골감소증 환자들이 약물치료를 받는 것은 아닙니다. 하지만 골밀도 검사결과 ‘골감소증’ 범위이면서 척추, 대퇴골, 상완(어깨에서 팔꿈치까지 부위), 손목, 골반에 골절이 동반된 경우에는 약물 치료를 고려합니다. 또한, 10년 이내에 골절이 발생할 위험도를 예측하는 도구인 FRAX(골절위험도 예측도구, Fracture risk assessment tool)에서 대퇴골 골절의 위험도가 3% 이상, 주요 부위 골절의 위험도가 20% 이상으로 나온 경우에도 약물 치료를 고려할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1.영양 관리 
+영양 상태는 골량과 골질에 영향을 주고 골절이 생기거나 회복하는 데에도 중요한 역할을 하므로 단백질, 비타민, 무기질 등이 골고루 들어있는 균형 잡힌 식생활을 유지해야 합니다. 단백질은 뼈의 기본틀을 구성하는 성분이므로 단백질을 충분히 섭취하면 골소실을 최소화할 수 있고 골절 위험을 감소시킵니다. 짠 음식은 신장의 칼슘 배설을 증가시키므로 주의해야 합니다. 한국인의 영양소 섭취 기준에서 나트륨의 목표 섭취량은 하루 2,000 mg(식염 5 g) 이하로 권장됩니다. 과일과 채소에 함유되어 있는 칼륨은 골밀도를 증가시키므로 권장됩니다. 인은 칼슘과 함께 뼈와 치아를 구성하는 성분이지만 과도하게 섭취하면 칼슘 대사에 악영향을 줄 수 있으므로 인 함량이 높은 콜라 같은 탄산음료는 줄여야 합니다. 과도한 음주는 골형성을 억제하고 골절 위험을 증가시키므로 하루 2잔 이상 마시지 않도록 합니다. 카페인은 칼슘의 흡수를 억제하고 빠르게 배출되게 하여 골절 위험을 증가시키므로 하루 1~2잔 이하로 제한하는 것이 좋습니다.
+
+2. 칼슘과 비타민 D 
+칼슘과 비타민 D는 골감소증과 골다공증 예방과 치료에 필수적입니다. 대한골대사학회에서는  하루에 800~1,000 mg의 칼슘을 섭취하는 것을 권장합니다. 그러나 한국인이 하루 칼슘 권장량을 섭취하지 못하기 때문에 일차적으로 음식으로 섭취하는 것을 증가시켜야 하고, 음식을 통해 섭취가 쉽지 않다면 칼슘 보충제를 사용할 것을 권장합니다. 비타민 D는 하루에 800 IU 섭취를 권장합니다. 골다공증 예방을 위해서는 혈중 25(OH)D 비타민 D 농도가 최소 20 ng/mL 이상, 골절과 낙상 예방을 위해서는 30 ng/mL 이상을 유지해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc77a7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc78e7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 운동
+골절 예방을 위해서는 걷기 같은 유산소 운동과 근력 강화를 위한 저항 운동, 균형 감각을 강화하기 위한 안정성 운동을 같이 해야 합니다. 골감소증이나 골다공증 상태에서는 대개 낙상에 의해 골절이 발생하므로 낙상을 예방하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[골감소증 환자는 영양 관리와 운동을 해야 하고 칼슘과 비타민 D를 필요한 만큼 섭취하면서 정기적으로 골밀도 검사를 받아 골밀도 변화를 추적하는 것이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 위험요인
+골감소증과 골다공증을 포함하여 골량을 저하시키는 위험 요인에는 고령, 여성, 저체중, 흡연, 음주, 가족력, 동반 질환(류마티스 관절염, 당뇨병, 갑상샘항진증, 만성 간질환 등), 약제(스테로이드 등)가 있습니다.
+
+
+2. 예방 
+골감소증이나 골다공증을 예방하기 위해서는 청소년기 때 골량을 최대로 증가시키는 것이 도움이 됩니다. 이를 위해서 청소년기부터 꾸준히 영양 관리를 잘 하고 신체활동을 하는 것이 중요합니다. 여성은 여성 호르몬 생성이 저하되는 폐경기부터 골감소증과 골다공증 위험이 급격히 높아지므로 이 시기에 골밀도를 평가해보고 골밀도 관리를 위한 전문적 상담이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 요즘 뼈마디와 관절이 아픈데 골감소증을 의심해야 하나요?
+
+A. 골감소증은 골절이 발생하기 전까지는 특별한 증상이 없습니다. 뼈마디와 관절 통증은 폐경기 증상으로 나타날 수 있으며, 퇴행성 관절염이나 기타 류마티스 질환 같은 다양한 원인에 의해서도 생길 수 있습니다.
+
+Q. 비타민 D가 뼈 건강에 좋다던데, 햇빛을 보기만 하면 되는 건가요?
+
+A. 비타민 D는 햇빛을 통해 피부에서 합성되는 호르몬으로 맨살을 직접 햇빛에 노출시켜야 합성이 일어납니다. 따라서 실내에서 유리창으로 햇빛을 쬐거나 옷을 입고 선크림을 바르고 야외활동을 하면 피부에서 비타민 D가 제대로 합성되지 않습니다. 그러므로 햇빛이 좋은 오후 12~2시 사이에 팔 다리를 노출시키고 15분 정도 야외에서 햇빛을 쬐는 것이 비타민 D 합성에 좋습니다. 그러나 현대인들은 실내 생활의 비중이 높기 때문에 피부에서 합성되는 비타민 D만으로는 부족하기 때문에 경구용 비타민 D 제제를 보충해줘야 하는 경우가 많습니다.
+
+Q. 남자에게도 골감소증이 생기나요?
+
+A. 골감소증과 골다공증 모두 여성뿐만 아니라 남성에서도 발생 가능한 질환입니다. 대한골대사학회에서 발표한 '골다공증 및 골다공증 골절 fact sheet 2019'에 따르면 우리나라 50세 이상 여성에서 골다공증 유병률은 37.3%, 골감소증 유병률은 48.9%입니다. 우리나라 50세 이상 남성에서 골다공증 유병률은 7.5%, 골감소증 유병률은 46.8%로 남성에서 골다공증의 유병률은 여성의 1/5이지만 골감소증의 유병률은 여성과 비슷하다는 것을 알 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한골대사학회. (2023). 골다공증 및 골다공증 골절 Fact Sheet 2023.
+2. 대한골대사학회. (2024). 골다공증 진료지침 2024.
+3. 대한내분비학회. (2022). 내분비대사학 3판. 서울:군자출판사.
+4. 질병관리청. (2024.) 「국민건강영양조사」 2024 골다공증 유병률 추이.
+5. Camacho, P.M., Petak, S.M., Binkley, N., Diab, D.L., Eldeiry, L.S., Farooki, A … Watts, N. B. (2020). American Association of Clinical Endocrinologists/American College of Endocrinology. Clinical practice guidelines for the diagnosis and treatment of postmenopausal osteoporosis-2020 update. Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists, 26(Suppl 1), 1–46. https://doi.org/10.4158/GL-2020-0524SUPPL]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

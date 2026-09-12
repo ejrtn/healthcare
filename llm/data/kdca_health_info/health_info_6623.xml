@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[청소년의 제로 음료 섭취]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6623]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[5]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3672]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+•	건강에 대한 관심이 높아지면서 설탕 음료 대신 제로 음료를 선택하는 청소년이 늘고 있습니다.
+•	제로 음료는 설탕 대신 칼로리가 낮거나 없는 대체 감미료를 사용해 단맛을 냅니다. 대표적인 대체 감미료로는 아스파탐, 아세설팜 칼륨, 수크랄로스, 스테비아 등이 있습니다.
+•	대체 감미료의 장기적인 섭취가 건강에 미치는 영향에 대한 연구 결과는 아직 명확하지 않으며, 일부 연구에서는 부작용을 지적하기도 합니다. 제로 음료 섭취가 체중 감량에 도움이 되기는커녕, 오히려 식욕을 증가시켜 더 많은 음식을 섭취하게 만든다는 것입니다. 장기섭취 시 건강에 부정적인 영향을 미칠 것이라는 우려도 있습니다.  
+•	제로 음료를 선택할 때는 대체 감미료의 종류, 카페인 함량, 기타 첨가물 등을 꼼꼼히 확인하고, 과도하게 섭취하지 말아야 합니다. 가능한 한 물이나 무가당 차를 마시고, 제로 음료는 가끔씩 섭취하는 것이 바람직합니다. 언제나 건강한 식습관과 함께 균형 잡힌 생활을 하는 것이 가장 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[건강에 대한 관심이 커지면서 기존 음료와 맛 차이가 거의 없어진 ‘제로음료’를 선택하는 청소년들이 늘고 있습니다. 설탕, 물엿, 꿀 등 단순당이 들어간 음료(이하 설탕 음료)의 소비를 줄이고, 건강한 식단을 위한 대안으로 제로 음료를 선택하지만, 여기에 포함된 ‘대체 감미료’에 대한 건강 우려도 존재합니다. 제로 음료의 섭취 현황과 대체 감미료의 종류, 부작용과 건강에 미치는 영향, 일상생활에서 적절하게 섭취하기 위한 방법 등을 알아보겠습니다.
+
+[용어정리]
+1. 무당: 식품 제조 시 당류를 적게 첨가하거나 아예 쓰지 않아 당류 함량이 식품 100 g(mL)당 0.5 g 미만인 경우 ‘무당’이라는 용어를 쓸 수 있습니다. ‘무당’과 비슷한 표현으로 ‘무설탕’, ‘제로슈거’, ‘sugar free’ 등도 사용됩니다.
+2. 감미료: 칼로리에 상관없이 단맛을 내는 식품첨가물
+3. 대체 감미료: 설탕보다 칼로리가 낮거나 전혀 없으면서 단맛을 내는 천연 또는 인공 화합물
+4. 설탕 음료: 설탕, 물엿, 꿀 등 단순당을 첨가해 단맛을 낸 음료 
+5. 저칼로리 음료: 설탕 대신 대체 감미료를 사용해 칼로리를 줄인 음료. 제로 음료도 저칼로리 음료에 포함됩니다.
+6. 1일 섭취 허용량: 사람이 평생 섭취해도 해로운 영향이 관찰되지 않는 1인당 1일 섭취량
+
+[제로 음료란?]
+제로 음료는 대체 감미료를 사용해 칼로리는 없으면서 단맛을 유지한 음료입니다. 식품의약품안전처(이하 식약처) 기준에 따르면, 100 g 또는 100 mL당 칼로리가 4 kcal 미만인 제품은 ‘무열량’, 40 kcal 미만인 제품은 ‘저열량’이라고 표기할 수 있습니다. 4 kcal 미만이면 0 kcal로 표기할 수 있기 때문에 제로 음료라고 해도 완전히 0칼로리가 아닌 경우가 많습니다.
+
+[청소년 제로 음료 섭취 현황]
+2023년 청소년 건강행태조사 결과 탄산‧에너지‧이온‧과즙‧커피음료‧가당우유 등 단맛 음료 섭취율은 남학생 69.4%, 여학생 60.0%였습니다. 단맛 음료 중 제로 음료가 차지하는 비율은 별도로 조사하지 않아 청소년이 제로 음료를 얼마나 섭취하는지 정확히 알 수는 없습니다. 그러나 국내 제로 음료 시장규모는 2018년 1,630억 원에서 2023년 1조 2,780억 원으로 7.8배 성장했고, 제로 음료가 편의점 음료수 매출의 절반 이상을 차지한다는 뉴스도 있었습니다. 따라서 청소년이 섭취하는 단맛 음료 중 상당 부분이 대체 감미료를 사용한 제로 음료일 가능성이 높습니다.
+
+[제로 음료에 주로 사용되는 대체 감미료의 종류]
+대체 감미료는 크게 무설탕 감미료(인공 또는 천연), 당알코올, 저열량 설탕류로 구분합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1935e6070ef5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[식약처가 승인한 대체 감미료는 총 22종입니다. 당도가 높아 극소량만 사용해도 되기 때문에 제품의 칼로리를 낮출 수 있습니다. 제로 음료에 많이 사용되는 것은 아스파탐, 아세설팜칼륨, 수크랄로스, 사카린, 스테비아, 알룰로스, 에리스리톨, 말티톨 등입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1935e63dde38]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[214]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[[대체 감미료의 1일 섭취 허용량과 부작용]
+식약처는 대체 감미료의 ‘1일 섭취 허용량’을 제시합니다. 1일 섭취 허용량이란 사람이 평생 섭취해도 해로운 영향이 관찰되지 않는 1인당 1일 섭취량을 의미합니다.
+예를 들면, 몸무게가 60 kg인 사람의 아세설팜 칼륨의 1일 허용량은 900 mg(15 mg/kg x 60 kg)입니다. 보통 탄산음료 1 L에 최대 150 mg의 아세설팜 칼륨이 들어 있으므로, 한 캔(250 mL)의 함유량은 허용치에 비해 매우 적습니다. 그렇다고 해서 대체 감미료의 1일 섭취 허용량에 도달할 때까지 제로 음료를 마음껏 마셔도 된다는 뜻은 아닙니다. 대체 감미료를 과량 섭취했을 때 급성 독성 증상, 장기 섭취했을 때 만성 독성 증상이 생길 수 있기 때문입니다.
+가장 많이 사용되는 아스파탐은 과량 섭취하면 두통, 어지러움, 메스꺼움이 생길 수 있고, 사카린은 메스꺼움, 구토, 설사 등이 생길 수 있습니다. 아세설팜 칼륨은 독성이 적은 편이지만 두통, 갑상선 종양 등의 부작용이 보고되었습니다. 수크랄로스를 과다 섭취하면 설사, 어지러움, 복통 등이 나타날 수 있습니다.
+대체 감미료마다 부작용이 다르고, 적게 섭취해도 몇 주, 몇 달 또는 몇 년에 걸쳐 반복적으로 섭취할 경우 만성 부작용이 나타날 수 있다는 데 유의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[214]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1935e6723992]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[214]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[[청소년에서 제로 음료 섭취가 건강에 미치는 영향]
+제로 음료와 관련한 건강 우려는 주로 대체 감미료의 안전성에서 비롯됩니다.
+청소년의 제로 음료 섭취가 건강에 미치는 영향을 살펴본 연구는 많지 않으며, 주로 설탕 음료나 물과 비교해 저칼로리 음료가 식욕, 체중, 비만, 대사질환에 어떤 영향을 미치는지 조사합니다. 
+
+1. 식욕 및 음식 섭취
+청소년을 대상으로 저칼로리 음료와 설탕 음료를 섭취한 후 식욕과 음식 섭취량 변화를 비교한 연구가 있습니다. 저칼로리 음료를 섭취한 집단은 설탕 음료를 섭취한 집단에 비해 총 칼로리 섭취가 비슷하거나 오히려 더 높았습니다. 이는 저칼로리 음료가 단것에 대한 갈망을 유발하고 식욕을 증가시켜 다른 음식을 더 많이 먹게 한다는 의미입니다.
+
+2. 체중과 비만
+제로 음료는 칼로리가 없어 체중 감량에 도움이 될 것으로 예상되지만, 오히려 체중 증가와 관련이 있다는 연구 결과도 있습니다. 2009~2014년 미국 국민건강영양조사에서 저칼로리 음료를 섭취한 청소년은 저칼로리 음료를 마시지 않는 청소년보다 비만 확률이 70% 더 높았습니다. 저칼로리 음료를 섭취하는 어린이는 체지방량과 체질량지수가 더 많이 증가했다는 연구도 있지만, 비만 증가와 관련이 없었다는 연구도 있습니다. 반면, 실험실 연구에서는 설탕 음료를 저칼로리 음료로 바꾸었을 때 체중에 유익한 효과가 관찰되었습니다.
+
+3. 대사 질환
+저칼로리 음료 섭취가 청소년의 대사 질환에 미치는 영향을 평가한 연구는 거의 없습니다. 장기간 저칼로리 음료를 섭취했다고 보고한 4~18세 어린이 42명을 조사한 연구에서 혈당 수치는 설탕이 들어간 음료를 전혀 섭취하지 않은 어린이에 비해 높았지만, 콜레스테롤 등 다른 대사 지표에는 차이가 없었습니다.  
+
+아직까지 청소년에서 제로 음료 섭취의 건강 이익에 대한 근거는 불충분합니다.
+(1) 청소년에서 제로 음료 노출이 단맛 선호도를 높이고 식단 선택에 영향을 미치는지, (2) 지방 축적과 비만을 촉진하는지, (3) 장내 미생물군을 교란하는지, (4) 포도당/인슐린 항상성을 깨뜨려 청소년 또는 성인에서 제2형 당뇨병이 발생할 위험을 높이는지 등에 대한 연구가 더 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[실천 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[218]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[[제로 음료, 현명하게 선택하기 위한 가이드]
+체중 및 건강 관리에 관심이 높은 청소년이 단맛 음료를 포기할 수 없을 때 제로 음료는 좋은 대안이 될 수 있지만, 제로 음료를 선택할 때는 몇 가지 중요한 점을 고려해야 합니다.
+
+1. 감미료 종류 확인하기
+•	제품 라벨 꼼꼼히 읽기: 제품 라벨에 표기된 영양 정보를 꼼꼼히 확인해 어떤 대체 감미료가 함유되어 있는지 살펴보세요.
+
+2. 다른 성분 확인하기
+•	카페인 함량 확인: 제로 음료라고 해서 카페인이 없는 것은 아닙니다. 심지어 카페인 제로라고 표기된 제품에도 소량의 카페인이 들어 있을 수 있습니다. 카페인을 과도하게 섭취하면 불면증, 두근거림 등의 부작용을 일으킬 수 있으므로, 카페인 함량을 확인하고 적정량을 섭취하는 것이 좋습니다.
+•	기타 첨가물 확인: 대체 감미료 외에 다른 첨가물이 함유되어 있는지 확인하고, 필요 없는 첨가물이 들어있는 제품은 피하는 것이 좋습니다.
+
+3. 일상생활 속 대체 감미료 섭취량 고려하기
+•	다양한 식품 속 대체 감미료: 저칼로리 대체 감미료는 음료뿐 아니라 다양한 식품, 약물, 위생 제품에도 널리 사용됩니다. 따라서 제로 음료 외에도 다른 식품을 통해 대체 감미료를 섭취하고 있을 가능성이 높습니다.
+
+결론
+제로 음료는 칼로리 걱정 없이 단맛을 즐길 수 있는 대안이지만, 대체 감미료의 장기적인 건강 영향에 대한 연구는 아직 충분하지 않습니다. 제로 음료를 자주 마시면 식욕이 증가하고 체중이 늘 수 있으며, 건강에 좋지 않은 영향을 미칠 가능성이 있습니다. 가장 좋은 수분 섭취 방법은 물입니다. 탄산음료를 좋아한다면 제로 음료를 선택하는 것도 나쁘지 않지만, 자주 마시기보다는 가끔 즐기는 것이 좋습니다. 건강을 생각한다면 제로 음료보다 물, 과일, 채소 등 다양한 음식을 통해 영양 균형을 맞추는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[도움 및 지지]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[221]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[[생활 습관 실천에 도움이 되는 국가건강정보포털 콘텐츠]
+1. 당뇨환자의 식사요법
+2. 식이영양
+3. 식이영양(소아/청소년)
+4. 청소년의 카페인 음료 섭취]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[222]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 제로 음료를 먹으면 정말로 살이 찌지 않나요?
+
+A. 칼로리가 없으니까 살이 찌지 않을 것 같지만, 체중 증가와 관련이 있다는 연구 결과도 있습니다. 제로 음료의 달콤한 맛은 단것에 대한 욕구를 증가시키고 식욕을 촉진해 다른 고칼로리 음식을 더 많이 먹게 될 수 있습니다. 결국 체중 증가로 이어질 수 있는 것이지요. 건강한 체중을 유지하려면 제로 음료보다 건강한 식습관과 규칙적인 운동을 병행하는 것이 중요합니다.
+
+Q. 제로 음료에 들어 있는 대체 감미료를 먹었을 때 해로운 점은 없나요?
+
+A. 2023년 세계보건기구는 대체 감미료를 장기간 섭취하면 제2형 당뇨병과 심혈관계 질환 발생 위험이 증가하고, 성인은 사망 위험이 증가하는 등 바람직하지 않은 효과가 나타날 수 있으므로, 무설탕 감미료를 체중 조절이나 비전염성 질환 위험 감소 수단으로 사용하지 말도록 권고했습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[325]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 식품의약품안전처.
+2. 질병관리청. (2023). 제19차 청소년건강행태조사 결과발표회 자료집.
+3. 황주삼. (2023). 인공감미료 섭취가 비만에 미치는 영향. 비만대사연구학술지, 2(2), 45-53.
+4. Mayhew, D. A., Comer, C. P., &amp; Stargel, W. W. (2003). Food consumption and body weight changes with neotame, a new sweetener with intense taste: Differentiating effects of palatability from toxicity in dietary safety studies. Regulatory Toxicology and Pharmacology, 38(2), 124-143.
+5. Mukherjee, A., &amp; Chakrabarti, J. (1997). In vivo cytogenetic studies on mice exposed to acesulfame-K-a non-nutritive sweetener. Food and Chemical Toxicology, 35(12), 1177-1179.
+6. Negro, F., Mondardini, A., &amp; Palmas, F. (1994). Hepatotoxicity of saccharin. New England Journal of Medicine, 331(2), 134-135.
+7. Samreen, H., &amp; Dhaneshwar, S. (2023). Artificial sweeteners: Perceptions and realities. Current Diabetes Reviews, 19(7), e290422204241.
+8. Soffritti, M., Belpoggi, F., Tibaldi, E., Esposti, D. D., &amp; Lauriola, M. (2007). Lifespan exposure to low doses of aspartame beginning during prenatal life increases cancer effects in rats. Environmental Health Perspectives, 115(9), 1293-1297.
+9. Valcaterra, V., Cena, H., Magenes, V. C., Vincenti, A., Comola, G., Beretta, A., Di Napoli, I., &amp; Zuccotti, G. (2023). Sugar-sweetened beverages and metabolic risk in children and adolescents with obesity: A narrative review. Nutrients, 15(3), 702.
+10. Whitehouse, C. R., Boullata, J., &amp; McCauley, L. A. (2008). The potential toxicity of artificial sweeteners. AAOHN Journal, 56(6), 251-261.
+11. World Health Organization. (2023). Use of non-sugar sweeteners: WHO guideline summary. World Health Organization. https://iris.who.int/handle/10665/375565
+12. Young, J., Conway, E. M., Rother, K. I., &amp; Sylvetsky, A. C. (2019). Low-calorie sweetener use, weight, and metabolic health among children: A mini-review. Pediatric Obesity, 14(8), e12521.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

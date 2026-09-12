@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[뎅기열, 치쿤구니야열]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5230]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 뎅기열과 치쿤구니야열은 모기에 의해 전파되는 바이러스성 급성 열성질환입니다.
+• 두 질환 모두 법정감염병으로 지정되어 있으므로, 환자 발생 시 의료진은 24시간 이내에 신고해야 합니다.
+• 주 증상은 갑작스러운 발열, 두통, 근육·관절통, 발진 등이 있으며, 뎅기열은 경우에 따라 중증 출혈이나 쇼크로 이어질 수 있습니다.
+• 특별한 치료제나 예방백신은 없으므로 모기에 물리지 않도록 예방하는 것이 가장 중요합니다.
+• 환자는 증상에 따른 대증 치료를 받으며, 아스피린이나 일부 소염제 사용은 금지됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뎅기열과 치쿤구니야열은 모기에 의해 전파되는 바이러스 감염병으로, 뎅기열은 뎅기 바이러스(dengue virus), 치쿤구니야열은 치쿤구니야 바이러스(chikungunya virus)가 각각 사람에 감염되어 생기는 급성 발열성 질환입니다.
+이 두 질환은 제 3급 법정감염병으로 지정되어 있으므로, 의료인은 환자가 확인되면 24시간 이내에 신고합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[[뎅기열]
+1. 신고범위 : 환자, 병원체 보유자 
+2. 신고시기 : 24시간 이내 신고 
+3. 신고를 위한 진단기준
+ 1) 환자: 뎅기열 증상에 부합하는 임상적 특징을 보이면서, 진단을 위한 검사기준에 따라 감염병 병원체 감염이 확인된 사람
+ 2) 의사환자(추정 환자): 임상증상과 역학적 연관성을 감안하여 뎅기열이 의심되며, 추정 진단을 위한 검사 기준에 따라 감염이 추정되는 사람
+ 3) 병원체보유자: 뎅기열에 부합하는 임상증상은 없으나, 진단을 위한 검사기준에 따라 감염병 병원체 감염이 확인된 사람
+4. 진단을 위한 검사기준
+ 1) 확인 진단  
+  • 검체(혈액, 뇌척수액)에서 뎅기 바이러스 분리 
+  • 검체에서 특이 항원 검출 
+  • 회복기 혈청에서 항체가가 급성기에 비해 4배 이상 증가
+  • 검체(혈액, 뇌척수액)에서 특이 유전자 검출
+ 2) 추정 진단
+  • 검체(혈액, 뇌척수액)에서 특이 IgM 항체 검출
+5. 신고방법: 신고서를 작성하여 관할 보건소로 팩스 전송 또는 웹 입력 방법으로 신고
+
+[치쿤구니야열]
+1. 신고범위: 환자, 병원체보유자 
+2. 신고시기: 24시간 이내 신고
+3. 신고를 위한 진단기준 
+ 1) 환자: 치쿤구니야열에 부합하는 임상증상을 보이면서 진단을 위한 검사 기준에 따라 감염병 병원체 감염이 확인된 사람 
+ 2) 병원체보유자: 치쿤구니야열에 부합하는 임상증상은 없으나 확인 진단을 위한 검사기준에 따라 감염병 병원체 감염이 확인된 사람
+4. 진단을 위한 검사기준 
+  • 검체(혈액)에서 치쿤구니야 바이러스 분리 
+  • 회복기 혈청의 항체가가 급성기에 비해 4배 이상 증가 
+  • 검체(혈액)에서 특이 IgM 항체 검출
+5. 신고방법: 신고서를 작성하여 관할 보건소로 팩스 전송 또는 웹 입력 방법으로 신고]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 뎅기열 
+ 뎅기열은 뎅기 바이러스를 가지고 있는 모기가 사람을 물면 물린 사람이 감염되는 과정에 의해 전파되는 질병입니다. 
+뎅기열은 아시아, 남태평양 지역, 아프리카, 아메리카 대륙의 열대지방에 걸쳐 널리 발생하며, 중증 뎅기열은 남아시아, 동남아시아, 태평양 지역과 라틴 아메리카에서 나타납니다. 
+뎅기열은 열대 아시아에서는 뎅기열이 주로 15세 이하에서 발생하고, 비가 많이 오는 우기에 많이 발생합니다. 현재 우리나라에 서식하는 모기에 의해 발생하지 않지만, 최근에는 매년 100 명 이상이 뎅기열 유행지역에 다녀온 후 발병하는 경우가 보고되고 있습니다. 
+뎅기 바이러스의 주요 매개체는 이집트숲모기(aedes aegypti)이고, 흰줄숲모기(aedes albopictus)도 매개체가 될 수 있습니다. 이들 모기는 집 주위에 서식하며, 보통 비가 고인 폐타이어나 물웅덩이 등에 서식하고, 주로 낮에 활동합니다. 뎅기 바이러스는 암컷 모기가 낮 동안에 혈액 내에 바이러스를 갖고 있는 사람을 문 뒤, 다른 숙주를 물어 바이러스를 전파하는 방식으로 전파됩니다. 열대의 도시지역에서는 인간 대 모기, 동남아시아와 서아프리카에서는 원숭이 대 모기의 관계에 의해 감염의 순환고리가 유지됩니다. 
+잠복기는 5~7일입니다. 대부분 뎅기 바이러스에 감염된 매개체 모기에 물려 감염되나, 수직감염과 주산기 감염, 혈액을 통한 전파(수혈 감염 등)와 같이 다른 경로로도 전염될 수 있습니다. 
+뎅기열에 걸린 사람은 발열기 직전부터 발열이 지속되는 동안(평균 6-7일) 모기에 대해 감염성이 있어, 이 때 모기에 물리고, 그 모기가 다른 사람을 무는 경우 뎅기 바이러스가 전파될 수 있습니다. 모기가 뎅기 바이러스가 포함된 혈액을 빨아들이면, 그로부터 8-12일간의 잠복기 동안 모기의 침샘에서 뎅기 바이러스가 증식하여, 모기 침샘에 보유됨으로써 해당 모기가 살아있는 한 감염성을 가지게 됩니다. 
+누구나 감염될 수 있으며, 보통 뎅기 바이러스에 감염된 어린이가 성인보다 가벼운 증상을 보입니다. 한번 뎅기 바이러스에 감염되면 이미 감염된 뎅기 바이러스형에 대해서는 평생 면역이 생기지만, 다른 뎅기 바이러스형에 감염될 수 있을 뿐만 아니라 일단 감염되면 오히려 처음 뎅기 바이러스에 감염되었을 당시보다 증상이 악화되어 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c1f82e1c2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 치쿤구니야열 
+치쿤구니야열은 치쿤구니야열 바이러스에 감염된 모기(aedes aegypti, aedes albopictus)에 물려서 감염되는 경로를 가지는 질병으로서, 원숭이나 야생동물이 치쿤구니야열 바이러스 보유 숙주가 될 수 있습니다. 또한, 치쿤구니야열에 걸린 사람을 발열기 직전부터 발열이 지속되는 동안(평균 2~7일) 모기가 물거나 혈액을 접촉하는 경우 감염이 전파될 수 있으며, 혈액을 통한 전파가 가능합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c69ca1fe7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 뎅기열 
+1) 국외현황 
+뎅기열은 열대와 아열대 지역에서 주로 발생합니다. 전 세계적으로 뎅기열의 유병률이 급격히 증가하는 추세입니다. 2024년 초부터 전 세계적으로 1,400만 건 이상의 뎅기열 환자와 10,000명 이상의 뎅기열 관련 사망이 보고되었습니다. 2024년 한 해 동안 가장 많은 확진자가 보고된 국가는 브라질(1,000만 명 이상)이며, 그 뒤로 아르헨티나, 멕시코, 콜롬비아, 파라과이 순이며, 유럽과 미주지역의 지역사회 감염 사례도 보고되었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c19cdc3f1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 국내현황
+2000년 제4군 법정감염병으로 지정된 이후, 유입사례가 지속적으로 신고되고 있습니다. 코로나19 유행시기에는 해외여행이 제한되어 환자가 급격히 줄었지만, 2023년 이후 해외여행 활성화로 코로나19 이전 수준까지 증가했습니다. 2024년에는 195명으로, 전년대비 11명(5.3%) 감소하였습니다.현재까지 신고된 모든 뎅기열 환자는 국외 체류 중 감염된 환자들로, 주요 감염발생지역은 인도네시아, 베트남, 필리핀, 태국, 인도 등의 동남아시아 지역입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c1a0b7174]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 치쿤구니야열
+1) 국외현황
+치쿤쿠니야열은 세계적으로 2006년부터 아프리카와 아시아지역에서 주로 보고되고 있습니다. 2009년 인도네시아, 태국, 말레이시아에서 유행이 보고되었고, 2007년 이탈리아에서 제한적인 전파에 의한 감염이 보고되었습니다. 2013년부터는 캐리비안 지역에서도 치쿤구니야열이 보고되기 시작하여 북아메리카, 남아메리카 지역으로 확산되었습니다. 2020년에는 파키스탄, 인도, 브라질, 카리브해 지역에서 많은 건이 보고되었으며, 2023년 2월에는 파라과이 등에서 대규모 발생이 일어나 세계보건기구(WHO)는 미주지역에 경보를 발령했습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c1a146ba8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 국내현황
+2010년 제4군 법정감염병으로 지정된 이후, 2013년부터 해외에서 감염되어 신고되고 있으며, 2024년에는 9명이 신고되었습니다. 치쿤구니야열 주요 감염발생지역은 인도, 인도네시아, 필리핀 ,라오스 등 아시아 지역입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c1a1faec7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 뎅기열
+• 잠복기: 5~7 일
+• 증상: 뎅기 바이러스 감염자 중 약 75% 정도가 특별한 증상이 없고, 증상이 나타날 경우, 갑작스러운 열과 같은 일반적인 증상이 있습니다. 뎅기열은 두통, 근골격계 통증, 발진을 동반하는 급성 열성질환이나 연령과 바이러스 유형에 따라 질병의 중증도와 임상양상이 다양합니다. 뎅기바이러스에는 4가지 혈청형(DENV-1, DENV-2, DENV-3, DENV-4)이 있습니다.
+뎅기열 환자들 중에서 약 5%는 중증 뎅기열로 진행하는데, 갑작스러운 고열, 두통, 근육통, 발진, 관절통, 백혈구감소증, 혈소판감소증, 출혈 등이 나타나고 종종 쇼크와 출혈로 사망합니다.  최근 세계보건기구(WHO)에서는 뎅기열에 관하여 뎅기열과 중증 뎅기열로 그 구분법을 변경하였으며 뎅기열 중에서 쇼크, 호흡곤란, 중증의 출혈, 장기 손상이 있는 경우를 중증 뎅기열로 정의하였습니다. 뎅기열 환자들 중에서 심한 복통, 지속적인 구토, 혈장유출로 인한 복수나 흉수발생, 점막 출혈, 간비대 등의 증상이 발생하는 경우 중증 뎅기열로 이어질 수 있어 주의해야 합니다. 
+• 치사율: 일반적으로 1% 미만, 중증뎅기열은 조기에 치료하면 2~5%, 치료 시기가 늦으면 20%
+
+2. 치쿤구니아야열
+• 잠복기: 1~12일(평균 3~7일)
+• 임상증상: 치쿤구니야열에 감염된 환자의 약 3~28% 정도는 특별한 증상을 보이지 않고, 치쿤구니야열의 급성 증상은 보통 5~10일 안에 사라집니다. 치쿤구니야열에 감염되면 갑자기 시작된 열, 두통, 피로, 오심, 구토, 근육통, 발진, 관절통 등이 있으며 뇌수막염, 눈질환(포도막염, 망막염), 기엥-바레 증후군, 마비 등 신경학적 질병과 심근염, 간염 등의 중증 합병증이 발생할 수 있습니다. 하지만 이로 인한 사망률은 극히 낮은 것으로 알려져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 뎅기열
+아래와 같은 경우 뎅기열로 진단합니다. 
+• 검체(혈액, 뇌척수액)에서 바이러스 분리 
+• 검체(혈액)에서 특이 항원 검출 
+• 급성기 및 회복기 혈청에서 혈구응집억제검사나 중화항체검사 등으로 항체가가 4배 이상 증가
+• 검체(혈액, 뇌척수액)에서 특이 유전자 검출
+• 검체(혈액, 뇌척수액)에서 특이 IgM 항체 검출 
+
+2. 치쿤구니야열
+치쿤구니야열 진단은 환자검체(혈청)에서 치쿤구니야열 바이러스 분리하여 시행하며 환자검체에서 바이러스 특이적인 IgM 항체를 검출할 수 있습니다.
+아래와 같은 경우 치쿤구니야열을 진단합니다. 
+• 검체(혈액)에서 바이러스 분리 
+• 급성기 및 회복기 혈청에서 혈구응집억제검사나 중화항체검사 등으로 항체가가 4배 이상 증가 
+• 검체(혈액)에서 특이 IgM 항체 검출]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뎅기열과 치쿤구니야열은 아직까지 그 치료효과가 확실하게 입증된 예방백신이나 예방약이 없으며, 뎅기열 바이러스나 치쿤구니야열 바이러스를 보유하고 있는 모기에 물리지 않는 것이 최상의 예방법입니다. 따라서, 유행지를 여행할 때는 모기 기피제, 방충망, 모기장 등 모기 물림 회피 도구를 사용해야하며, 외출 시 긴 소매, 긴 바지를 입어 노출 부위를 최소화 해야합니다. 야외 활동 시 진한 향의 화장품이나 향수의 사용을 피하며, 활동 후 땀을 제거하고 땀이 묻은 옷은 깨끗하게 세탁해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a9ac6af434]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[150]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 뎅기열
+뎅기열에 걸린 환자에게는 그 증상에 맞춰 대증요법을 합니다. 뎅기열 환자에게 아스피린을 사용했을 때 라이 증후군이 발생한 예가 있어 뎅기열 환자에 대한 아스피린 사용을 금지하며, 출혈을 조장할 수 있는 비스테로이드성 소염제(NSAID)사용에도 주의를 기울여야 합니다. 
+중증 뎅기열은 출혈 현상, 혈압이 떨어지고 다른 장기들의 기능이 저하되는 현상이 생겨 환자가 사망에 이를 수 있으므로 집중적인 수액공급과 적극적인 보존적 치료를 시행합니다. 경계 징후가 있는 뎅기열 의심환자의 경우 입원관찰 등의 의료개입이 필요합니다.
+
+2. 치쿤구니야열
+치쿤구니야열에 대한 특별한 치료제는 없으며 증상에 따른 대증적 치료를 합니다. 치쿤구니야열과 뎅기열은 비슷하지만 다른 질병이라는 것이 밝혀졌습니다. 아스피린을 사용했을 때 라이 증후군이 발생한 경우가 있어 뎅기열이 아닌 것으로 확인되기 전까지는 아스피린이나 비스테로이드성 소염제(NSAID) 사용에 주의를 기울여야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[154]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뎅기열 환자나 치쿤구니야열 환자를 격리할 필요는 없으나 환자의 혈액 및 체액 격리주의는 준수하여야 하며 접촉자 관리는 필요 없습니다.
+뎅기열 환자 및 병력자, 치쿤구니야열 환자 및 병력자는 치료 종료 후 6개월 간 헌혈이 금지되어 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청 (2023). 뎅기열 안내문
+2. 질병관리청 (2024). 법정감염병 진단검사 통합지침
+3. 질병관리청 (2025). 감염병포털. https://dportal.kdca.go.kr/pot/index.do]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

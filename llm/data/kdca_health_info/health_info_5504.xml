@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[복부 수술 후 장유착]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5504]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 장유착은 복부 수술 후 장끼리 서로 달라붙는 현상으로, 대부분 문제가 없지만 일부에서 장유착이 심해 장폐색이 발생하여 문제가 될 수 있습니다.
+• 장폐색의 증상은 가스(방귀)가 나오지 않고, 구토, 복부 팽만감, 복통이 있으며, 장폐색이 심해지면 장천공이 발생할 수 있습니다.
+• 장폐색이 의심되면 즉시 병원에 방문하여 치료를 받아야 하며, 금식, 수액과 전해질 공급, 비위관(콧줄) 삽입 등의 비수술적 치료로 좋아질 수 있습니다.
+• 수술 경험이 있는 사람이 복통과 함께 대변과 가스가 배출되지 않는 증상이 나타나면, 장폐색 가능성이 있으므로 병원에 가는 것이 필요합니다.
+• 복부 수술 후에는 과식을 피하고, 소화가 잘되는 음식을 섭취하며, 걷거나 맨손 체조 같은  규칙적인 운동이 장유착 예방에 도움이 될 수 있습니다​.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[장유착이란 장끼리 서로 달라붙는 현상을 말합니다. 일반적으로 복강 내 수술을 하고 나면 그 정도는 사람마다 다르지만, 어느 정도 장유착이 발생합니다. 대부분은 별다른 증상이 발생하지 않지만, 일부는 장유착이 심해져서 장 내용물이 지나가는 것을 막게 되는 장폐색이 발생하게 되어 문제가 됩니다. 따라서 복부 수술을 받은 경험이 있는 환자는 장유착에 대해 잘 이해하는 것이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복강 안에 있는 장, 복막 그리고 장기들은 정상적으로는 서로 미끌미끌한 상태로 분리되어 있습니다. 수술로 복강 안의 조직이 손상을 받으면 조직이 염증 반응과 치유 과정을 거치면서 섬유화가 일어나고, 이로 인해 장이 다른 장이나 복막 등에 붙어 버리는 현상을 '수술 후 장유착'이라고 합니다. 이는 정상적인 상처 치유 과정의 일종이며, 대부분 증상을 일으키지는 않습니다. 하지만 장유착으로 인해 장폐색이 발생한 경우 증상을 일으킵니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복강 안에 있는 정상적인 장은 서로 달라붙지 않고 자유롭게 움직이며, 장 안에 내용물이 지나갈 때 탄력 있게 늘어났다가 수축하여 내용물을 항문 쪽으로 밀어내게 됩니다. 복부 수술에서 복막, 장 또는 장간막 등 복강 내 조직에 손상이 가해지고 손상된 부위가 아물면서 염증이 발생하고 섬유화 과정이 진행됩니다. 피부에 흉터가 남듯이 복부 수술 후의 복강 내에도 흉터가 생기는데, 이러한 흉터로 인해 장이 다른 장, 장기, 복벽, 복막에 달라붙는 것이 장유착입니다. 
+입에서 항문까지 음식물이 지나가는 장을 가늘고 기다란 막대기 풍선으로 가정해 보겠습니다. 긴 풍선의 한 부분이 풍선의 다른 부분과 붙어 버린 상태가 장유착이라고 할 수 있습니다. 어느 정도의 장유착이 있어도 풍선 안으로 적당량의 내용물이 지나가는 것은 가능합니다. 하지만 풍선 안으로 갑자기 많은 양의 내용물이 들어오거나, 풍선끼리 붙어 있는 부분을 중심으로 나머지 풍선 부위가 빙글빙글 꼬여 버리거나, 유착 부위의 풍선이 꺾이거나 눌리고, 풍선끼리 붙은 부위가 주름이 잡혀서 풍선 안쪽이 좁아지는 경우에 내용물은 내려가지 못하고 풍선끼리 붙어 있는 부위에서 막히게 됩니다. 이러한 상태가 계속 유지되면서 풍선 안으로 내용물이 들어오게 되면 막힌 곳 위쪽의 풍선은 점점 부풀어 오르게 됩니다. 
+이러한 상태가 장유착으로 인한 장폐색 상태입니다.  즉, 수술 후 장이 다른 장이나 복막에 붙어 있는 장유착 상태에서, 여러 요인으로 인해 장 내용물이 통과하지 못하는 장폐색 상태가 되면 여러 증상이 발생하게 되는 것입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d033557]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[장유착으로 인한 장폐색 대부분은 금식, 비위관 삽입, 수액 공급 등의 비수술적 치료로 좋아지지만 일부에서는 수술을 통해 장유착을 해소해 주어야 하는 때도 있습니다. 장유착으로 인한 장폐색이 심하면 위험한 합병증인 장천공이 발생할 수 있습니다. 수술 후 장유착에 의한 장폐색으로 수술한 사람들의 8.7~53% 정도에서 장폐색이 재발한다는 보고가 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복막은 복강 내 장기를 보호하고 내장 사이의 마찰을 줄이는 기능을 가진 세포층으로 덮여 있으며, 매우 예민하여 외상에 의해 쉽게 손상이 됩니다. 수술 조작, 외상, 허혈(혈액 공급이 줄어드는 것), 감염, 장 내용물 등에 의한 손상 과정이 지속되어 복막에 저산소혈증이 발생하면 급성 산화 스트레스가 복막에 가해지고 복막 세포층의 고유 기능이 소실되면서 섬유화가 진행되어 결국 복강 내 장유착이 발생하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복강 내 수술을 받은 사람은 장유착이 발생할 수 있는데, 67~95%의 환자에서 발생한 보고가 있습니다. 대부분의 장유착은 별다른 증상을 일으키지 않아 그 자체가 문제가 되지는 않지만, 장유착으로 인해 장 내용물이 이동하지 못하고 장폐색이 발생하는 경우가 문제입니다. 복부 수술 후 3% 정도의 환자들에서 장유착으로 인한 장폐색이 일어난다는 보고가 있으며, 1%는 수술 후 첫 1년에 발생한다고 합니다. 장유착으로 인한 장폐색 환자들의 65~80%에서는 수술이 아닌 비수술적 치료를 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[장유착으로 인한 장폐색은 수술 후 몇 주 이내에 바로 나타나는 예도 있지만, 문제 없이 수년이 지난 이후에 처음으로 나타나는 예도 있습니다. 이러한 장폐색은 충수 돌기 절제술과 같은 비교적 작은 수술 후에도 발생할 수 있습니다. 또한, 장폐색이 해소된 이후에도 반복적으로 재발하는 경우도 있습니다. 
+평상시 소장은 소화된 음식물과 위액을 위에서 대장으로 계속 이동시킵니다. 이러한 이동 통로가 장유착으로 인해서 막히게 되면 장유착 부위를 중심으로 위쪽으로는 소화된 음식물과 위액, 가스가 쌓이게 되면서 장이 점점 부풀어 늘어나게 되고, 아래로 이동하지 못하게 됩니다. 이로 인한 대표적 증상은 가스(방귀)가 나오지 않으면서, 구토, 복부 팽만감, 복통 등이 발생합니다. 
+1) 구토 
+소장 안의 내용물이 아래로 내려가지 못하고 점점 쌓이게 되면서 위에 내용물이 점점 가득 차게 되고, 구역질이 나게 되어 구토를 하게 됩니다. 
+2) 복부 팽만감 
+장유착 부위보다 상부에 있는 장은 장 내용물과 공기가 가득 차게 되면서 점점 늘어나게 됩니다. 이렇게 되면 배가 빵빵하게 부풀어 오르게 됩니다. 
+3) 복통 
+지속적으로 장운동을 하여 내용물을 막힌 부위로 이동해 억지로 통과시키고자 쥐어짜지만, 막혀서 통과하지 못하는 상태가 지속하면 복통이 발생하게 됩니다. 
+
+* 응급 상황 증상: 극심한 통증 또는 발열을 동반하는 경우 장이 충분한 혈액을 공급받지 못해 손상이 진행되는 현상일 수 있으므로, 즉시 병원 진료를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복강 내 수술을 받은 경험이 있는 사람은 수술한 이후의 경과 시간에 상관없이 소화 장애, 복부 불편감, 구토 증상이 나타나고 가스가 배출되지 않으면 우선은 장유착으로 인한 장폐색을 의심해야 합니다. 장유착으로 인한 장폐색을 진단하기 위해서는 우선 복부 단순촬영 검사를 통해 장 안에 가스가 차 있는 정도, 장이 늘어난 정도, 장 안의 내용물이 고여 있는 양상을 통해 장폐색 여부를 평가할 수 있습니다. 장유착의 위치, 장폐색으로 인한 소장의 손상 여부, 장유착 이외의 복통 유발 원인 등을 확인하기 위해 복부 컴퓨터단층촬영(Computed Tomography, CT)을 시행하는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d033654]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 금식 및 보존적 치료
+대부분의 장유착으로 인한 장폐색은 소장을 쉬게 해주어 원래의 소장 상태로 돌아오게 해주면 증상이 좋아지므로, 장폐색의 치료는 소장을 편히 쉬게 해주는 것이 중요합니다. 
+장유착으로 인한 장폐색이 의심될 때 가장 중요한 치료는 금식입니다. 초기에는 금식을 하면서 내용물이 장 안으로 들어가지 않도록 합니다. 또한, 비위관(콧줄)을 위에 삽입하여서 상부 위장관에 쌓여 있는 가스와 장 내용물을 뽑아내어 위와 소장을 비움으로써 팽창된 장의 압력을 감소시킵니다. 이때, 위나 소장에서 분비되는 내용물이 많아서 비위관으로 다량의 액체가 배액 되는 일도 있습니다. 장폐색이 되면 장 밖으로 물이 빠져나가기도 하고, 비위관으로 다량의 액체가 배액되기 때문에 몸 안에 수분과 전해질이 불균형 상태가 되거나, 심할 때는 혈압이 낮아질 정도로 탈수가 되기도 합니다. 이 또한 장폐색을 악화시킬 수 있으므로 장폐색 치료 중에는 정맥을 통해 충분한 수액과 전해질을 공급해 주어 체액의 균형을 맞추어 줍니다. 또한 장 운동을 활성화 할 수 있도록 걷기 운동을 열심히 하는 것이 좋습니다. 보고에 의하면 장유착에 의한 장폐색 환자의 65~80%의 환자들은 이러한 비수술적 치료로 좋아진다고 합니다.
+2. 수술적 치료 
+비수술적 치료에도 증상이 좋아지지 않거나 심해지면 수술을 고려합니다. 수술은 장유착이 된 유착 띠를 끊어주거나 붙어 있는 장을 풀어주는 수술입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[장유착은 소장 폐색의 가장 흔한 원인 중의 하나입니다. 장폐색은 섭취한 음식물, 수분, 공기, 대변이 장을 통과하지 못하는 상태입니다. 장폐색이 지속되면 복강 내 유착 띠에 의해 장의 일부가 올가미 묶이듯이 조여져 장에 혈액 공급이 차단될 수 있습니다. 이로 인해 장허혈(막힌 장 부위로의 혈액 공급이 부족)이 발생하여 장조직에 괴사가 일어날 수 있습니다. 이러한 상황은 장천공이나 복막염으로 이어질 수 있습니다. 장유착에 의한 장폐색이 발생하게 되면 일부에서는 매우 위험한 상황이 될 수 있습니다. 따라서 수술을 받은 적이 있는 사람이 복통과 함께 대변, 가스가 배출되지 않는 폐색 증상이 발생하면 장유착에 의한 장폐색 가능성이 있기 때문에 병원을 방문해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d033761]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수술 후에 유착의 위험 인자에 대해 명확히 밝혀진 바는 없지만 보고되는 연구 결과들이 몇몇 있습니다. 지금까지 보고된 장유착의 위험 인자는 크론병, 대장암 수술, 대장 전절제술, 회장루 조성술, 60세 미만, 소장/대장/충수 돌기/자궁에 대한 수술, 복막염 등입니다. 복강 내 발생하는 염증은 장유착의 주요한 위험 인자입니다. 특히 복강 안에 세균 감염이 발생하면 장유착이 잘 발생할 수 있습니다. 이러한 이유로 장에 있는 세균에 대한 노출을 줄이기 위해 수술할 때 항생제를 사용하고, 대장을 수술하는 경우에는 수술 전에 기계적 장세척을 하게 됩니다. 
+수술 후 유착을 예방하는 방법으로는 수술 중 조직의 손상을 최소화하는 수술 방법을 선택하고, 필요하면 장유착을 방지하는 필름을 사용하도록 제시되고 있으나 실제 수술에서 모두 적용 가능한 것은 아닙니다. 
+수술 후 장유착을 예방하기 위해 환자 본인이 할 수 있는 관리 방법은 장운동을 약하게 할 수 있는 마약성 진통제의 사용을 줄이는 것이 도움이 될 수 있습니다. 또한, 장유착의 증상이 있거나 장폐색을 경험한 적이 있는 사람은 과식을 삼가고, 자극이 적고 부드러우며 소화가 잘되는 음식을 꼭꼭 씹어서 드시는 것이 좋습니다. 평소에 걷기나 맨손 체조 같은 가벼운 운동을 규칙적으로 하는 것도 도움이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 박지갑. 대장항문학. 일조각.
+2. Adhesive postoperative small bowel obstruction: incidence and risk factors of recurrence after surgical treatment: a multicenter prospective study. (2006). Ann Surg. 244(5):750-7
+3. https://www.niddk.nih.gov/health-information/digestive-diseases/abdominal-adhesions
+4. Adhesions after abdominal surgery: a systematic review of the incidence, distribution, and severity. (2014). Surgery Today. 44:405–420.
+5. Patients With Adhesive Small Bowel Obstruction Should Be Primarily Managed by a Surgical Team. (2016). Ann Surg. 264(3):437-47.
+6. Postoperative abdominal adhesions: clinical significance and advances in prevention and management. (2017). Journal of Gastrointestinal Surgery. 21(10):1713–1722.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

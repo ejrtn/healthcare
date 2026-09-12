@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[척추의 형태 이상]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[3627]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[척주(vertebra column)는 크게 나누어 경추(목뼈), 흉추(등뼈), 요추(허리뼈), 천추의 네 부위로 나누어집니다. 척주의 만곡은 전후면에서 관찰하는 관상면은 천추부의 정중앙에 무게 중심이 위치하는 일직선이 정상이며, 측면에서 관찰하는 시상면은 경추와 요추는 전만곡, 흉추와 천추는 후만곡을 보이는 것이 정상입니다. 하지만 과도한 전만이나 후만을 보이는 경우 전만증이나 후만증이라 하여 형태 이상을 의미합니다. ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173c16e25b15]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[전만증(lordosis)은 척추가 전방으로 과도하게 굽는 경우를 말하며, 후만증(kyphosis)은 척추가 후방으로 과도하게 굽는 경우를 말합니다. 전만증보다는 후만증을 더 치료의 대상으로 하고 있습니다. 
+
+척추측만증(scoliosis)은 척추가 관상면에서 측방(옆)으로 과도하게 굽는 경우를 말하며, 후만증은 척추의 시상면에서 정상 만곡(curve)이 소실되고 흉부의 후만곡이 더욱 증가하거나, 경부와 요부에서 후만 변형이 보이는 경우를 말합니다. 이처럼 척추의 형태 이상은 크게 나누어 관상면(coronal section)에서의 이상인 척추측만증과 시상면(sagittal section)에서의 이상인 척추 후만증이 있습니다. 
+
+]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[121]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[측만증, 후만증, 보조기]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[척추의 형태 이상(척추후만증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3629]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[척추의 형태 이상(척추측만증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3628]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

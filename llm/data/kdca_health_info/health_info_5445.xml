@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[복수검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5445]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 복수검사는 복강 내 과도한 체액 축적의 원인을 감별하고 감염 여부를 확인하기 위해 시행합니다.
+• 복수의 주요 원인으로는 간경변, 악성 종양, 결핵성 복막염, 신장 질환 등이 있습니다.
+• 복수천자는 복수의 원인과 감염 여부를 빠르게 확인할 수 있는 방법으로, 심각한 복수 또는 감염 의심 시 시행됩니다.
+• 복수천자 전에는 방광을 비워야 하고, 천자 부위의 철저한 소독과 국소 마취 후 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복수검사는 복수의 원인을 감별하고 감염 여부를 확인하기 위해 시행합니다. 복수천자 후에 세포수와 종류 확인, 알부민, 단백질, 미생물 검사 등을 합니다.
+
+1. 복수와 복강액 
+정상인의 복강 내에는 평소에도 약 50 mL 정도의 액체(복강액)가 존재합니다. 복강액은 장기 외부를 촉촉하게 하고, 소화 과정 중 장기가 움직일 때 생기는 충격을 감소시키는 윤활제 역할을 합니다. 복수는 정상적인 용량보다 훨씬 많은 체액이 복강 내에 고이는 것입니다. 복막의 염증과 복강액의 증가(복수)는 다양한 원인으로 인해 나타나는데, 원인을 알기 위해 복수검사를 시행합니다. 
+  2. 복강액이 증가하는 원인 
+복수의 가장 흔한 원인은 간경변증(60~85%)이지만 악성 종양, 결핵성 복막염, 신장 질환, 심장 질환 등 다양한 원인에 의해서도 발생합니다. 간경변증이 진행되면 간으로 들어가는 혈관의 압력이 증가합니다. 이로 인해 혈액이 복부 주변으로 몰리고, 내장혈관이 확장되며 나트륨과 수분이 잘 흐르지 못하면서 복수가 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01ca74]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복수는 다양한 원인에 의해 발생할 수 있으므로 원인을 감별하고 감염 여부를 확인하기 위해 복수검사를 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 복수천자의 적응증 
+복수천자는 가장 빠르고 효과적인 복수검사 방법으로, 복수의 원인과 감염 여부를 확인할 수 있습니다. 임상적으로 간경변이 의심되더라도 다음과 같은 경우는 복수검사를 포함하여 원인에 대한 평가를 시행해야 합니다. 
+ - 복수가 새로 진단된 경우(신체진찰로 확인 가능한 2등급 또는 현저한 복부팽만을 보이는 3등급 복수) 
+- 복수가 심해져서 입원한 경우
+  - 복수 감염이 의심되거나, 감염의 전신 증상 또는 징후가 있는 경우(발열, 복통) 
+- 원인 미상의 임상적 악화(간성뇌증 , 신기능 악화 등)를 보이는 경우
+
+   2. 복수천자의 금기증 
+- 섬유소용해증이나 파종성혈관내응고와 같은 출혈성 질환은 절대적 금기로 복수천자를 시행해서는 안 됩니다.
+- 심한 간기능 저하와 신부전에서는 출혈 경향이 높으므로, 주의해가며 시행해야 합니다.
+- 임신, 장관의 심한 팽창, 복부의 광범위한 수술력이 있는 경우 등은 상대적 금기로 초음파 유도 복수천자가 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[검사의 종류에 따라 적절한 검체용기에 복수를 채취합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복수의 기본적인 선별검사로 세포수와 세포 종류를 계산하고 알부민, 총단백검사를 시행합니다. 혈청 알부민을 함께 측정하여 혈청-복수 알부민 차(Serum-Ascites Albumin Gradient, SAAG: 혈청 알부민 농도에서 복수 알부민 농도를 뺀 값)를 계산합니다.  임상적으로 의심되는 질환에 따라 세포학적 검사, 미생물검사, 당, 효소, 요소, 크레아티닌, 지질, 젖산탈수소효소(Lactate Dehydrogenase, LD, LDH), 알칼리인산분해효소(Alkaline Phosphatase, ALP), 아데노신탈아미노화효소(Adenosine Deaminase, ADA), 종양표지자 등 추가적인 검사를 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01caf7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 자동혈구분석기 및 혈구계산기(hemocytometer) 
+세포수는 혈구계산기 및 자동혈구분석기 등 두 가지 방법으로 산정합니다. 자동혈구분석기는 광산란과 전기저항을 이용하여 세포수를 측정합니다.  혈구계산기는 용량이 일정하며 미세한 격자가 조각된 체임버(chamber)에 검체를 넣고 격자 내의 세포수를 세는 방법입니다. 희석배율 등을 고려하여 전체 복수 내의 세포수를 계산할 수 있습니다. 
+  2. 세포원심분리기(cytocentrifuge) 
+세포수가 적거나 종양세포 등 비정상 세포가 의심되는 경우 세포를 원심분리한 후 표본을 제작하여 현미경으로 판독합니다.
+  3. 자동화학분석기 
+다양한 생화학 검사를 자동으로 시행합니다. 
+  4. 미생물배양기 
+세균과 결핵균을 배양합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복수 천자 전에 소변을 보아 방광을 비워야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 복수천자 
+복수천자는 철저하게 무균적인 조작으로 시행해야 합니다.
+복수가 중력에 의해 잘 빠져나오도록 눕는 자세 또는 누운 후 상체를 세운 자세를 취합니다.주로 좌하복부를 천자합니다. 천자 부위의 피부를 소독하고, 국소 마취를 한 후 시행합니다.천자침(18~20 게이지 바늘)을 삽입한 후 주사기로 검사에 필요한 복수를 채취합니다.복수 성분 검사가 목적이라면 채취 후 천자침을 제거하고, 배액이 필요한 경우에는 배액관을 연결합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01cb91]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 검체채취
+보통 여러 가지 검사를 해야 하므로 약 50~100 mL 정도 채취합니다. 검체는 검사별로 다른 종류의 채취관에 담는데, 세포수나 종류 산정에는 EDTA 항응고제 채혈관, 화학검사나 미생물 염색 시에는 항응고제 없는 채혈관에 담고, 미생물 배양 시에는 혈액배양병을 이용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 육안소견 
+정상적인 복강액은 맑고 엷은 노란색을 띠며 냄새와 응고가 없습니다.  혈색소가 포함되어 붉은색을 띠는 복수는 외상이나 악성종양 등에서 나타납니다. 탁한 복수는 감염이나 암성복수를 시사하고, 우유빛은 전형적인 유미성 복수(chylous ascites)의 소견입니다. 담관의 천공으로 복수의 빌리루빈 농도가 높아지면 짙은 갈색을 띠며, 검은색의 복수는 췌장의 괴사나 흑색종의 전이 때 나타날 수 있습니다.
+
+ 2. 세포수 및 감별계산
+1) 적혈구수 
+혈액이 섞이거나 혈성 검체의 경우 반드시 적혈구수를 검사합니다. 외상성 천자 또는 혈성복수에서 적혈구수가 증가합니다. 
+  2) 백혈구수 
+① 총백혈구수 및 호중구 
+감염이 없는 경우 백혈구 수는 100/uL 미만이며, 단핵세포가 대부분입니다. 감염과 악성 종양에서는 백혈구수가 증가할 수 있으며, 특히 호중구 비율이 높으면 감염을 시사합니다. 이 지표는 자발성 세균성 복막염이 의심될 때 유용한데, 간경변증과 복수가 있는 환자에서 장 천공 및 다른 복부 장기의 염증이 없으면서 복수의 호중구수가 250/uL 이상으로 상승한 경우에는 자발성 세균성 복막염으로 진단할 수 있습니다. 
+② 림프구 
+다른 염증세포 없이 림프구가 많이 보이면 결핵, 림프종, 림프구백혈병을 의심해야 합니다. 이 경우 특수염색이나 면역화학염색을 시행하면 도움이 될 수 있습니다. 
+③ 호산구 
+복막투석을 받는 환자에서 만성염증이 동반될 경우 호산구가 증가합니다. 그 외 기생충 감염, 울혈성심부전, 혈관염, 림프종에서도 관찰될 수 있습니다.
+
+3. 생화학검사
+1) 단백 
+① 총단백과 알부민  
+누출성 복수와 삼출성 복수를 감별하고 복수의 원인을 진단하는 데 유용합니다. 단독으로 해석하기보다 혈청-복수 알부민 농도 차(SAAG)와 복수의 총단백 농도 등 두 가지 척도를 기준으로 감별 진단을 시행합니다. 
+② 혈청-복수 알부민 농도 차(Serum-Ascites Albumin Gadient, SAAG) 
+혈청-복수 알부민 차는 같은 날에 측정된 혈청 알부민 수치에서 복수 알부민 수치를 뺀 값입니다.  자발성 세균성 복막염, 울혈성 심부전, 간경변증 등에서는 높은 수치(1.1 g/dL 이상), 복막 암종증, 결핵, 췌장염 등에서는 낮은 수치(1.1 g/dL 미만)를 보입니다.
+  2) 포도당
+복수 내의 포도당 농도는 혈청과 비슷하지만, 결핵성 복막염, 복부 암종증(carcinomatosis), 이차성 세균성 복막염에서는 50 mg/dL 미만으로 감소합니다. 
+ 3) 효소(enzymes) 
+① 아밀라제 
+정상적으로 혈장 농도와 비슷하지만, 급성췌장염이나 외상 등에서는 혈장 농도의 3배 이상 상승합니다. 위십이지장천공, 정맥 혈전증, 장교액(intestinal strangulation) 시에도 높은 수치를 보입니다.
+② 알칼리성 인산분해효소(Alkaline Phosphatase, ALP) 
+장 천공시 상승하므로 복수에서 ALP 측정은 자발성 세균성 복막염과 장 천공에 의한 이차성 세균성 복막염을 감별하는 데 도움이 됩니다. 
+ ③ 젖산탈수소화효소(lactate dehydrogenase, LD, LDH) 
+분자량이 커서 혈액에서 복수로 잘 이동하지 않으며, 삼출액 및 이차성 세균성 복막염 환자에서 상승합니다. 
+ ④ 아데노신 탈아미노화 효소(adenosine deaminase, ADA) 
+결핵성 복막염에서 증가합니다. 
+3) 기타 
+
+드물게 방광이나 요관 손상으로 요로성 복수(urinary ascites)가 발생할 수 있는데, 이때는 요소와 크레아티닌(creatinine) 상승을 확인하여 진단합니다. 담낭 파열 시에는 복수에서 빌리루빈이 6.0 mg/dL 이상 고농도로 증가합니다. 암모니아는 궤양 천공, 충수돌기 파열, 다량의 소변이 유출된 방광 파열 시 증가합니다. 종양표지자인 CEA는 암성복수에서 상승하기 때문에 진단에 도움이 됩니다.
+ 
+4. 미생물검사
+1)세균검사
+복수 감염이 의심되면 그람염색과 함께 혈액 배양 용기에 세균 배양 검사를 시행합니다. 
+2)결핵균 검사
+결핵성 복수의 감별이 필요한 경우 항산균 염색과 결핵 배양 검사를 시행합니다.
+
+5. 세포학적 검사
+세포 원심분리기(cytocentrifuge)의 도입으로 세포수가 낮은 검체에서도 충분한 수의 진단적 세포 수집이 가능합니다. 염색 후 현미경으로 관찰하여 세포의 감별 계산 및 종양세포 감별이 가능합니다.
+① 복수에서 관찰되는 비종양성 세포 
+주로 복강 내를 덮고 있던 중피세포(mesothelial cell), 대식세포(macrophage)가 보이며 간세포가 관찰될 수 있습니다.  감염 등에서는 염증세포(호중구, 림프구 등)가 증가하여 감별진단에 도움이 됩니다. 
+② 복수에서 관찰되는 종양세포 
+복막이나 흉막처럼 장기를 싸고 있는 막에서 발생하는 중피종양의 암세포나 전이암 세포가 관찰될 수 있습니다. 원발 부위를 알 수 없는 경우도 있으나, 복수에서 흔히 발견되는 전이암으로는 난소암, 유방암, 위장관계암, 림프종 등이 있습니다.  종양세포가 의심되는 경우 세포형태가 잘 보존되도록 세포원심분리법으로 표본(슬라이드)을 제작한 후 현미경으로 관찰합니다. 세포 형태만으로 정상 세포와 감별이 어려운 경우에는 특수염색이나 면역화학염색법을 이용하여 복수 내 종양세포를 진단할 수 있습니다.
+
+
+6.복수의 감별진단
+1) 누출성 복수와 삼출성 복수 
+혈청-복수 알부민 농도 차 1.1 g/dL를 기준으로 누출성 복수(transudative ascites)와 삼출성 복수(exudative ascites)로 나눕니다. 
+
+① 누출성 복수 
+
+투명한 연한 노란색으로 단백 및 젖산탈수소효소의 함유량이 낮으며, 주로 중피세포와 및 대식세포가 관찰됩니다. 심부전, 신부전  및 간경변증에 동반됩니다. 
+ ② 삼출성 복수 
+세포수 증가와 더불어 LD 농도가 증가하며, 세포의 종류에 따라 염증성과 종양성으로 구분합니다. 백혈구, 종양세포 또는 총단백의 증가로 인하여 혼탁한 양상을 나타냅니다. 
+  2) 감별진단 
+ ① 혈청-복수 알부민 농도 차와 복수 총단백 농도를 이용한 감별 
+어떤 질환이든 문맥압항진증이 있으면 혈청-복수 알부민 농도 차가 상승할 수 있으므로, 간경변증과 다른 복수의 원인을 감별하려면 추가적인 검사가 필요합니다.  심부전은 혈청-복수 알부민 농도 차는 1.1 g/dL 이상이지만, 복수 총단백 농도가 2.5 g/dL 이상입니다.  악성종양이나 결핵성 복막염에 의한 복수는 총단백 농도가 2.5 g/dL 이상이고 알부민 농도 차는 1.1 g/dL 미만입니다.   신증후군은 복수 총단백 농도가 2.5 g/dL 미만이지만 혈청-복수 알부민 농도 차 1.1 g/dL 미만이어서 간경변증과 감별됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01cc24]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[② 자발성 세균성 복막염과 이차성 세균성 복막염 감별 
+장천공 등에 의한 이차성 세균성 복막염과 감별할 때는 복수의 포도당, 젖산탈수소효소, 알칼리인산분해효소 검사가 도움이 됩니다. 호중구수가 250/uL 이상이면서 세 가지 기준(총단백 1 g/dL 초과, 포도당 50 mg/dL 미만, LD가 혈청 정상범위 초과) 중 두 가지를 만족하면 자발성 세균성 복막염보다 이차성 세균성 복막염의 가능성이 높습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[천자침에 의한 방광 손상을 막기 위해 복수천자 전에 소변을 보아 방광을 비워야 합니다. 천자 합병증으로 기복증(pneumoperitoneum), 천자부위 출혈, 복강내 출혈, 장천공, 방광천공 또는 복막염 등이 생길 수 있으므로 활력징후와 복부 강직 등의 이상 증상을 수시로 확인합니다. 다량의 복수를 배액하는 경우 쇼크가 발생할 수 있으므로 알부민을 주사로 보충합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한간학회. (2017). 간경변증 진료 가이드라인: 복수 및 관련 합병증.
+2. 대한진단검사의학회. (2014). 진단검사의학 제5판. 범문에듀케이션. 
+3. 대한진단검사의학회. http://www.kslm.org/ 
+4. Lab Tests Online. https://www.labtestsonline.co.kr/
+5. McPherson RA and Pincus MR, eds. (2017). Henry’s clinical diagnosis and management by laboratory methods. 23rd ed. St. Louis, MO: Elsevier.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[247]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복수, 복강액, 복수천자, 간경변증, 문맥압항진증, 혈청-복수 알부민  차, 자발성 세균성 복막염, 결핵성 복막염, 복부 암종증, 이차성 세균성 복막염, 요로성 복수, 누출성 복수, 삼출성 복수, 암성 복수, 유미성 복수, 혈성복수]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

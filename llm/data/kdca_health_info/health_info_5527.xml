@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[악구충증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5527]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 악구충증은 악구충이라는 기생충에 감염되어 발생하는 질환으로, 주로 덜 익힌 물고기나 오염된 물을 통해 전파됩니다.
+• 감염되면 얼굴, 가슴, 손 등 노출 부위에 통증을 동반한 피하 결절이 생기며, 심한 경우 중추신경계, 눈, 폐 등 다양한 장기에 침범해 심각한 증상을 일으킬 수 있습니다.
+• 인도에서 일본에 이르는 아시아 지역과 북미 일부 지역에서 유행하지만, 우리나라에서는 아직 발생 사례가 없습니다.
+• 유행지역에서는 담수어 등 특정 육류를 날것으로 섭취하지 않고, 오염된 물을 마시지 않는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[악구충증은 악구충(Gnathostoma spinigerum, G. hispidum, G. nipponicum, G. doloresi) 감염에 의한 질환으로, 거의 대부분 유극악구충(G. spinigerum) 감염에 의한 질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 신고범위
+환자
+2. 신고시기
+악구충증 감염 확인 후 7일 이내 신고
+3. 신고를 위한 진단기준
+환자: 악구충증 감염 증상이 있거나 역학적으로 연관되어 있으면서 진단을 위한 검사기준에 따라 악구충증 감염이 확인된 사람
+4. 진단을 위한 검사기준
+검체(피하조직 등)에서 충체 확인
+5. 신고 방법
+표본감시기관은 해외 유입 기생충 감염증 신고서를 작성하여 관할 보건소로 팩스 또는 웹 입력 방법으로 신고
+ *표본감시 대상 의료기관 여부 확인: 관할 보건소로 문의]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[악구충증은 주로 익히지 않은 물고기를 섭취하여 제3기 유충에 감염되는 경우가 흔합니다. 담수어 또는 양서류 등의 제2기 중간숙주나 조류나 포유류 등의 운반숙주를 날로 먹은 경우, 또는 감염된 물벼룩이 있는 물을 마신 경우에도 감염될 수 있습니다. 또한, 유충이 피부 상처로 침입하여 감염되는 것도 가능합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865df00dce5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 국외현황
+인도에서 일본에 이르는 아시아 대륙과 북미에서 유행하고 있습니다. 유행지역의 자연 환경에서 육식동물들이 감염된 경우가 비교적 많고, 고양이, 개, 족제비 등이 중요한 보유숙주입니다.1889년 태국에서 처음으로 보고되었으며, 그 후 태국을 비롯한 동남아시아 제국과일본, 중국, 인도, 필리핀, 이스라엘 및 멕시코 등에서 보고되었습니다.
+
+2. 국내현황
+국내에서 발생한 적은 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[악구충에 감염된 경우 2~35일 정도의 잠복기를 거치게 되며 감염부위에 따라 다양한 증상이 나타날 수 있습니다.
+1) 피하 악구충증 
+ 주로 얼굴이나 가슴, 손 부위의 통증과 함께 피하 결절로 나타나며, 결절의 위치가 이동하거나 부종이 심하게 나타날 수 있습니다.
+​2) 중추신경계 악구충증 
+신경근척수염, 신경근척수뇌염, 거미막하출혈 등수막염에 의한 두통, 경련 등의 신경계 증상을 보일 수 있습니다.
+3) 눈 악구충증  
+ 충체가 시신경을 통해 이동하며 증상이 나타나고, 안면 신경마비가 함께 나타날 수 있습니다. 또한, 시력상실이나 눈의 이물감 등이 생길 수 있습니다.
+4) 폐 악구충증
+피부 아래의 부종, 호산구증가증, 원인을 알 수 없는 흉막의 삼출액, 기침, 가슴통증, 자연 기흉 등이 나타날 수 있습니다.
+5) 위장관계 악구충증
+ 장벽이 두꺼워지고 장의 내부 공간이 좁아져서 장이 막히거나 하는 등의 급성 복부 증상으로 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기생충이 있는 부위를 수술적으로 잘라내어 악구충을 확인하거나 잘라낸 조직을 염색한 후 확인하는 방법으로 진단합니다. 보조적으로 호산구증가증이 있거나 악구충의 유충 또는 성충의 항원을 피하에 주사한 후 나타나는 피부 반응을 관찰하여 진단하는 피내반응검사 등을 사용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유행지역으로 알려진 곳을 여행하는 사람들은 자연수 또는 약수를 마시지 말아야 하고, 가물치를 비롯한 담수어, 양서류, 파충류, 조류, 포유류 등을 날로 먹지 말아야 합니다. 또한, 육류를 날로 다룬 오염된 도마 또는 조리사의 상처를 통하여 감염될 수 있으므로 주의해야합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[150]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기생충이 있는 부위를 수술적으로 잘라내어 충체를 제거하는 것이 유일한 치료법이며, 보조적으로 고용량의 Mebendazole을 사용할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[154]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 환자관리
+ 악구충증 환자의 격리는 필요 없습니다.
+
+2. 접촉자관리 
+ 악구충증에 감염된 환자와 접촉한 사람에 대한 격리는 필요없으나, 유행지역에서 이 질환에 감염된 사람과 함께 음식이나 물을 먹었던 사람에 대해서는 추가 감염 여부를 조사하여야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청, 2025년도 기생충감염병 관리지침]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[광동주혈선충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5526]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[리슈만편모충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5521]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[바베스열원충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5522]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[샤가스병]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5525]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[사상충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5528]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[아프리카수면병]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5523]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[주혈흡충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5524]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[포충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5529]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[해외유입기생충감염증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5420]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

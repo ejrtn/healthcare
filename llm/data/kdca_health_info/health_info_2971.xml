@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[심낭염(교착 심낭염)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[2971]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 교착 심낭염은 심장막이 섬유화되고 딱딱해져 심장이 제대로 확장하지 못하는 질환입니다.
+• 주로 급성 심낭염 이후 발생하며, 바이러스 감염이 가장 흔한 원인이고 수술이나 방사선 치료 후에도 생길 수 있습니다.
+• 증상은 숨참, 다리 부종, 복부팽만 등으로 서서히 나타나며 간질환 등으로 오인되기도 합니다.
+• 진단은 심장초음파, CT, MRI, 심장도관검사 등을 통해 심장막의 변화와 혈류 이상을 확인하여 이루어집니다.
+• 치료는 초기에는 약물치료를 시행하고, 만성화되면 심장막 절제술이 근본적인 치료 방법이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[교착 심낭염은 급성 심낭염이나 만성 심낭삼출이 치유되는 과정에서 심장막이 서서히 섬유화되면서 두꺼워지고, 때로는 칼슘 성분이 침착되어 심장막이 딱딱해지고 뻣뻣해지는 병입니다. 이로 인해 심장을 둘러싼 심장막이 탄력성을 잃으면 심장의 수축 기능은 유지되지만, 제대로 확장하지 못해 혈액 순환에 문제가 생깁니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[교착 심낭염은 급성 심낭염을 일으킬 수 있는 어떤 원인에 의해서도 발생할 수 있습니다. 바이러스 또는 특발성(원인불명)이 가장 흔한 원인입니다. 과거에는 결핵이 흔한 원인이었지만 최근에는 감소하는 추세입니다. 심장 수술 후나 유방암, 폐암 등에서 흉부 방사선 치료 후에 생기는 경우도 많습니다. 이외에 결체조직질환, 암, 감염 등에 의해서도 교착 심낭염이 유발됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[숨이 가쁘고 다리가 붓는 증상, 복부팽만 및 복수, 소화불량, 식후 팽만감, 식욕부진을 호소합니다. 울혈간비대 및 근육량 감소도 나타날 수 있습니다. 이런 증상은 수개월에서 수년에 걸쳐 서서히 나타나며, 골격근량이 줄고 복부팽만을 보여 간경변이나 복강내 종양으로 오진하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[증상과 병력, 신체검사로 의심합니다. 심장초음파 검사에서 딱딱해진 심장막으로 인해 혈류가 심장으로 잘 들어가지 못해 생기는 특징적 변화들을 관찰해 진단할 수 있습니다. 컴퓨터단층촬영(CT)이나 자기공명영상(MRI) 검사, 심장에 직접 도관을 삽입해 심장 내 압력을 측정하는 심장도관삽입술을 시행하기도 하며, 원인을 찾기 위해 심장막 조직검사를 시행할 수도 있습니다. 가슴 X선 검사에서 심장막에 칼슘이 침착되어 석회화된 소견이 보이는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1894cf9bdd13]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[초기에는 항염증약물이나 스테로이드 같은 약제를 사용합니다. 만성화된 경우에는 이뇨제로 복수나 부종과 같은 증상을 조절하고, 필요한 경우에는 심장막 절제술을 시행합니다. 심장막 절제술은 만성 심낭염에서 유일하게 완치를 기대할 수 있는 치료법입니다. 하지만 수술의 난이도나 위험성을 고려하여 증상이 심하지 않은 경우, 또는 반대로 수술의 위험이 높거나 말기로 진행한 경우에는 도움이 되지 않을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Libby, P., Bonow, R.O., Mann, D.L., Tomsalli, G.F., Bhatt, D.L., Solomon, S.D. (2021). Braunwald’s Heart Disease: A Textbook of Cardiovascular Medicine (12th ed.). Amsterdam:Elsevier.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[심낭염(급성 심낭염)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2968]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[심낭염(만성 심낭삼출)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2969]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[심낭염(심장눌림증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2970]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[심낭염]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2967]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

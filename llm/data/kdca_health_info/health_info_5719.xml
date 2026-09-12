@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[야뇨증(소아)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5719]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 야뇨증은 어린이가 자는 도중에 본인도 모르게 소변을 보는 것으로, 만 5세 이상 어린이가 3개월 이상, 주 2회 이상 반복하는 경우를 말합니다.
+• 야뇨증은 일차성(태어나서 야간 소변을 가리지 못한 경우)과 이차성(6개월 이상 야뇨증이 없던 아이에게 다시 나타나는 경우)으로 나눌 수 있습니다.
+• 원인으로는 유전적 요인, 수면 장애, 방광 용적의 문제 등이 있으며, 기질적 원인으로는 요로 감염이나 변비가 포함될 수 있습니다.
+• 치료는 생활습관 개선, 약물 요법, 행동 요법이 있으며, 특히 야뇨 경보기를 사용하는 방법이 효과적입니다.
+• 부모의 지원과 격려가 치료 과정에서 매우 중요하며, 아이를 비난하기보다는 칭찬과 동기 유발을 통해 치료에 접근해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[야뇨증은 어린 시절의 방광 조절과 관련된 가장 흔한 문제입니다. 야뇨증은 5세 이상의 어린이가 자는 도중에 본인도 모르게 소변을 보는 것이 1주일에 2회 이상, 3개월 이상 지속되는 상태를 말합니다. 5세가 될 때까지 밤에 소변을 보는 것은 정상 발달 과정 중에 일어날 수 있는 현상입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412dea9148]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 일차 야뇨증과 이차 야뇨증 
+일차 야뇨증은 태어난 후 한 번도 야간에 소변을 가리지 못하여 야뇨증이 지속되는 경우이고, 이차 야뇨증은 적어도 6개월 이상 야뇨증이 없다가 다시 발생하는 경우입니다.
+ 
+2. 단일증상 야뇨증
+낮에 소변을 보는 것에 문제가 없이 밤에만 소변을 가리지 못하는 경우입니다.
+ 
+3. 다증상 야뇨증 
+
+ 다증상 야뇨증은 야뇨증과 더불어 낮에 다음과 같은 비정상 배뇨 증상을 보이는 경우입니다. 
+• 낮에 소변이 조절되지 않고 새는 증상(요실금) 
+• 소변을 자주 보는 증상(빈뇨)
+• 소변을 급하게 보는 증상(급박뇨)
+• 다리를 꼬거나 쪼그려 앉으면서 소변을 참는 증상 
+• 소변을 볼 때 소변줄기가 끊어지는 증상 
+• 화장실에서 바로 소변이 나오지 않고 한참 지나서 소변이 나오는 증상]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412df17942]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[야뇨증과 관련된 신체장기는 뇌, 척수신경, 콩팥, 방광입니다. 
+소변은 콩팥에서 만들어져 요관을 거쳐 방광에 저장됩니다. 방광의 크기는 어린이의 경우 나이와 성장 정도에 따라 다르며, 어른의 경우는 400~500 mL까지 소변을 저장할 수 있습니다. 방광에 모인 소변이 많아지면 소변을 보고 싶은 마음(요의)을 느끼게 되며, 이때 화장실에 가면 방광 근육이 수축하여 소변을 보게 됩니다. 소변을 저장하는 방광은 소화를 담당하는 장과 마찬가지로 우리 마음대로 움직일 수 없는 근육(방광 근육)으로 되어 있습니다. 이와 달리 방광 끝에 위치한 근육(괄약근)은 팔다리와 마찬가지로 우리가 뜻한 대로 움직일 수 있습니다.
+소변을 볼 때는 뇌, 척수신경, 방광이 관여합니다. 오줌이 차서 방광이 늘어나면 방광의 감각신경에서 만들어진 신호가 척수신경을 통해 뇌로 전달됩니다. 뇌에서 유발된 신호는 다시 방광으로 전달되어 방광 근육이 수축함과 동시에 괄약근을 이완시키면서 소변이 몸 밖으로 나오게 됩니다. 
+배뇨와 관련한 문제는 뇌의 각성, 신경, 방광에 이상이 있을 때 발생할 수 있습니다.
+야뇨증은 유전적 원인, 야간 다뇨, 방광의 용적(부피), 수면 시 각성 장애, 정신적 요소 등 여러 원인이 복합적으로 작용하여 발생합니다. 요로감염증, 만성 콩팥병, 요붕증, 척추질환 등 기질적 요인이 있을 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198a63bd08b9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 일차 야뇨증의 원인 
+
+ 1) 야간 다뇨
+정상적으로는 수면 중 생체 리듬에 의해 항이뇨호르몬(소변의 생성을 감소시키는 호르몬) 분비가 증가되어 밤 동안 소변양이 감소합니다. 하지만 야뇨증에서는 수면 중  항이뇨호르몬의 분비가 감소하여 소변량이 감소하지 않고, 오히려 증가합니다.
+   2) 방광의 용적(부피)의 감소 
+소변을 저장하는 방광의 용적(부피)이 감소하여 발생합니다. 수면 중에는 야간방광용적이 주간방광용적보다 증가하지만, 야뇨증에서는 야간방광용적이 작아 소변을 방광에 저장하지 못하고 배뇨하게 됩니다. 
+   3) 깊은 수면 
+야간 소변량 증가와 야간방광용적 감소 같은 원인이 있으면서 잠에서 잘 깨어나지 못하면 자는 도중에 본인도 모르게 소변을 보게 됩니다. 즉, 소변을 보고 싶은 신호가 있음에도 불구하고 잠에서 깨어나지 못하여 야뇨증이 발생하므로 깊은 수면이 야뇨증 발생과 연관되어 있다고 생각됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d1204748b5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4) 유전적 원인 
+부모가 어릴 때 야뇨증이 있었던 경우, 자녀에게 야뇨증이 발생할 확률이 높습니다. 부모 모두 야뇨증이 있었던 경우 약 77%, 부모 중 한 사람이 있었던 경우 약 44%에서 야뇨증이 나타날 수 있습니다. 
+ 5) 기질적 원인 
+요로 감염, 후요도판, 외요도구 협착 등 소변 배출 통로의 이상, 당뇨병, 요붕증, 척추 질환, 신경성 방광, 주의력 결핍 과다활동 장애, 수면무호흡 등으로 인해 이차적으로 야뇨증이 발생할 수 있습니다.
+  6) 변비 
+변비가 있는 경우 야뇨증 외에 낮에도 비정상 배뇨 증상이 동반되는 경우가 많습니다. 변비가 좋아지면 배뇨 증상도 함께 호전됩니다. 한 연구에 의하면 변비가 치료되면 야뇨증의 약 2/3가 호전된다고 보고하였습니다. 매일 변을 보더라도 변이 딱딱하고 매우 굵거나, 소량의 변을 보는 경우 변비일 수 있기 때문에 실제 변의 모양을 확인하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d1204d36f9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 이차 야뇨증의 원인 
+
+6개월 이상 야뇨증이 없다가 다시 야뇨증이 생기는 경우입니다. 대개 심리적 또는 환경적 요인이 작용합니다. 예를 들어 동생의 출생, 유치원 입학, 이사, 친구나 형제와의 갈등, 부모와의 이별 또는 부모의 이혼, 학교 문제, 학대, 입원 등입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[야뇨증을 경험하는 비율은 전체 5세 아동의 15%, 6세 아동의 10% 정도입니다. 그러나 아이들이 자라면서 매년 약 15% 비율로 감소하여 15세에서는 1% 이하가 됩니다. 약 60%가 남자아이입니다. 가족력이 있는 경우가 약 50%이며, 특히 양측 부모가 야뇨증이었던 경우 약 77%에서 야뇨증이 발생합니다. 2016년부터 2020년까지 5년간 국내 야뇨증 데이터를 살펴 보면 야뇨증 환자의 감소 추이를 확인할 수 있습니다. 5세에 야뇨증으로 진단된 환자가 100명이라면 10세에는 약 30명, 15세에는 약 5명으로 감소합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412e04e878]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 진단 기준 
+ 다섯 번째 생일이 지난 어린이가 자는 도중에 본인도 모르게 소변을 보는 현상이 적어도 주 2회, 3개월 이상 지속되면 야뇨증이라고 진단합니다.  
+
+2. 문진 및 신체 검사 
+야뇨증의 빈도, 야뇨증이 없었던 기간, 수분섭취 습관, 수면 양상, 배변 양상, 낮에 소변볼 때 이상 증상이 동반되는지, 환경 변화 및 심리적 요인은 없는지 등을 확인합니다.  신경학적 이상 증상 등 기질적 원인이 의심될 경우 자세한 신체 검사가 필요합니다.   
+
+3. 배뇨일지 
+하루 동안 소변 횟수 및 소변량, 수분섭취를 적어도 2일 이상 기록합니다. 수분 섭취량, 야간 소변량 및 최대 소변량을 알면 야뇨증의 원인과 치료 방침을 정하는 데 중요한 정보를 얻을 수 있습니다. 
+   4. 검사 
+기본적인 선별 검사로 소변검사를 시행합니다. 요로감염, 소변농축기능의 문제가 있는지, 소변에 당이 나오는지, 감염이 있는지 등을 확인하며, 요로감염이 의심될 경우는 소변배양검사도 동시에 시행합니다. 낮에 비정상 배뇨 증상이 동반된 경우 요역동학 검사 및 잔뇨검사 등 정밀한 검사를 할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대부분 야뇨증은 성장하면서 호전되므로 치료를 하지 않고 지켜보는 경우가 많습니다. 그러나 야뇨증으로 인한 수치심, 불안감, 자신감 결여는 성장기에 인격 형성 장애를 유발할 수 있습니다. 어린이의 건강한 성격 형성과 저하된 자긍심 회복을 위해 5세 이후부터는 적극적인 치료가 필요합니다.
+야뇨증이 어린이의 잘못이 아니라는 점을 기억하고 벌을 주거나 비난하지 않아야 합니다.  야뇨증의 치료는 생활습관의 개선, 약물요법과 행동요법이 있습니다. 약물요법으로 항이뇨호르몬 제제, 항우울제, 항콜린성 약물을 단독 또는 병용 사용할 수 있고, 조건반사를 이용한 행동요법으로 야뇨 경보기를 사용할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[약물요법에는 항이뇨호르몬 제제, 항우울제, 항콜린성 약물을 단독 또는 병용해서 사용할 수 있습니다. 
+ 1. 항이뇨호르몬 
+항이뇨호르몬인 데스모프레신(desmopressin)은 뇌하수체후엽에서 분비되는 항이뇨호르몬인 아르기닌 바소프레신(arginine vasopressin)과 유사한 약물입니다. 항이뇨호르몬의 야간 분비가 부족한 야뇨증 환자에게 좋은 효과를 보입니다. 약을 중단하면 증상이 대부분 재발되므로 서서히 줄여 나가야 합니다. 부작용이 거의 없고 안전하지만 혈액 나트륨 농도가 떨어질 수 있어 자기 전에는 과도한 수분을 섭취하지 않아야 합니다. 
+ 2. 방광이완제(항콜린성 약물)
+방광 근육의 수축을 억제하여 기능적으로 방광용적을 증가시킵니다. 낮에 비정상 배뇨 증상이 동반된 야뇨증에 주로 사용합니다. 부작용으로 갈증, 변비, 식욕감퇴, 안면 홍조 등이 있습니다.
+  3. 항우울제
+방광에 약한 항콜린성 작용을 하여 방광 용적을 증가시키고 수면 후기에 수면의 깊이를 얕게 하여 쉽게 각성이 될 수 있게 합니다. 또한 밤에 소변량을 감소시킵니다. 부작용으로 식욕저하, 불안, 수면장애, 성격변화 및 심장에 부정맥이 발생할 수 있어 약물 복용 시 주의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[행동요법으로 조건반사를 이용한 야뇨 경보기를 사용할 수 있고, 생활 습관의 개선이 필요합니다.
+   1. 야뇨 경보기 
+가장 대표적인 행동치료로 잠옷에 부착합니다. 소변을 보면  경보음이 울려 환아 스스로 잠에서 깨어납니다. 조건반사를 이용한 치료법으로 나중에는 오줌을 누기 전에 스스로 일어나는 습관을 몸에 익히게 됩니다.
+치료 효과가 좋으며 약물요법에 비해 재발이 적고 60~80%의 성공률이 보고되지만, 3~4개월 정도가 소요되며 환자와 부모가 활용하기에 불편하고 어려운 점이 많아 어린이, 부모, 의사 모두 상당한 시간과 노력이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d120661452]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 생활습관의 개선 
+
+취침 2~3시간 전부터 수분이 많이 함유된 음식이나 과일은 자제합니다. 가능한 이른 시간에 저녁식사를 하고, 식사시간이 늦으면 국물 또는 짜거나 매운 음식은 가능한 피합니다. 목이 많이 마르지 않다면 잠자리에 들기 전에 물 마시기를 삼가는 것이 좋습니다. 자기 전에 반드시 소변을 보도록 합니다.  여기에는 가족들의 적극적인 도움이 필요합니다.
+배뇨 일기를 작성하여 소변 본 시간과 소변량, 물 마신 시간과 양, 배변 유무, 야뇨 유무 등을 매일 기록합니다. 젖은 옷이나 침구를 스스로 세탁하고 정리하도록 하면 책임감을 강화시키는 효과가 있습니다.  야뇨가 있더라도 야단치지 말고, 야뇨가 없다면 칭찬해주는 것이 치료에 도움이 됩니다. 변비가 있다면 치료해야 합니다.   낮에 비정상 배뇨 증상이 동반되어 있다면 올바른 배뇨 습관을 갖도록 합니다.
+ • 규칙적 배뇨
+규칙적 배뇨는 요의를 잘 느끼지 못할 때 사용합니다. 2~3시간마다 배뇨를 하도록 합니다. 시간이 되기 전에 요의를 느낄 경우에도 소변을 보도록 해줘야 합니다.
+• 낮 동안 충분한 수분 섭취
+몸이 요구하는 양의 수분을 충분히 섭취하는 것이 중요합니다. 수분 섭취는 설탕이나 카페인이 들어있지 않은 물이 가장 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[<table border='0' cellpadding='0' cellspacing='0' style='text-align: center;' class='__se_tbl' id='5367_112_TB_a319a319'> 
+ <tbody> 
+  <tr> 
+   <td colspan='2' rowspan='1' class='neoTableCaption' style='width: 879px; height: 18px;'><img src='https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19859d660581' title='음식에 함유된 수분을 포함한 연령별 하루 수분 권장량' style='display:block; margin:0px auto; max-width:100%; height:auto;' alt='표: 연령대와 체중에 따른 하루 권장 수분 섭취량 표. 2세 이하(10kg 이하)는 900~1000ml, 2~5세(20kg 이하)는 1200~1500ml, 6~12세(50kg 이하)는 1500~1700ml, 12세 이상은 1700~2000ml로 구분되어 있습니다.'><br></td> 
+  </tr> 
+ </tbody> 
+</table>]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 올바른 자세로 배뇨하기
+소변을 볼 때 편안하게 해주는 것도 중요합니다. 요도 괄약근 부위가 잘 이완되어야 방광을 완전히 비우기가 용이합니다.  아이가 소변을 볼 때 스스로 후~ 하고 한숨을 쉬도록 하는 것이 긴장을 푸는 데 도움이 됩니다. 소변을 볼 때 발바닥이 바닥에 완전히 닿도록 해야 합니다. 허리를 편하게 세우고 다리는 자연스럽게 벌려주는 것이 올바른 자세입니다. 바지나 스타킹 등을 발목까지 내리고 소변을 보도록 교육합니다. 충분한 시간 동안 소변을 보게 하여 방광을 완전히 다 비워야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412e201d41]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 치료 시에는 어린이와 부모의 동기 유발이 필수적입니다.
+  • 아침과 낮에 충분한 물을 마시게 하며, 저녁 식사 후 취침 시까지는 수분을 약 60 mL로 제한합니다.
+  • 가능한 일찍 저녁 식사를 하고, 짜고 매운 음식은 피합니다. 
+ • 자기 전에 소변을 보게 합니다. 
+ • 밤에 소변을 보지 않을 경우 달력에 표시(예: 스티커 붙이기)하고, 칭찬하거나 상을 주어 어린이가 적극적으로 참여하게 합니다. 
+ • 속옷이나 이부자리를 세탁하는 데 참여하였을 경우 칭찬을 합니다. 
+ • 벌을 주거나 비난을 하지 않아야 합니다. 
+ • 변비가 있는 경우 치료합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 아이를 밤에 깨워서 소변을 보게 하는 게 좋은 방법인가요?
+
+A. 밤에 깨우거나 기저귀를 채우는 방법은 일차적으로 권장하지는 않습니다. 기저귀를 일차적으로 사용하는 것은 아이가 기저귀에 의존적이 될 수 있고 소변을 가릴 의욕을 떨어뜨릴 수 있기 때문입니다. 깨우는 것은 행위 자체가 아이나 부모 모두에게 힘들고 분노를 일으킬 수 있어 이로 인한 부작용이 우려됩니다. 방광이 가득 차 있지 않은 상태에서 또는 아이가 밤에 부모가 깨웠던 것을 전혀 인지 못하는 상황에서 깨우는 것은 아이가 방광 충만감을 인지하고 밤에 일어날 수 있도록 해주는 데 도움을 주지 못합니다. 다만, 다른 치료를 하면서 의사의 지시로 기저귀를 사용하거나 깨워서 오줌을 누게 하라는 처방을 받을 수도 있습니다.
+
+Q. 아이가 야뇨증인 것 같은데 5세가 될 때까지 치료를 하지 말고 기다려야 하나요?
+
+A. 의학적으로는 만 5세를 기준으로 하고 있으나 절대적인 것은 아닙니다. 다만 연간 자연 치료율이 5~10% 정도이므로 아이가 어릴 경우 좀 더 기다리시기를 권하지만, 야뇨증상이 심하여 이로 인해 아이나 부모에게 상당한 악영향을 주고 있다고 판단될 때는 병원을 찾으시는 것이 좋습니다.
+
+Q. 아이를 야단치면 아이가 의식적으로 소변을 참지 않을까요?
+
+A. 아이를 야단치고 다그치는 것은 좋은 방법이 아닙니다. 야뇨증 어린이의 대부분은 자신이 오줌을 싸는지 잘 느끼지 못합니다. 따라서 야단을 치는 것은 크게 도움이 안되며 오히려 아이의 정서 발달이나 성격 형성에 나쁜 영향을 줄 수 있습니다. 아이가 자신감을 잃지 않도록 옆에서 격려와 칭찬을 해주는 것이 필요합니다. 우선 혼자만 야뇨증이 있는 것이 아니라는 사실을 설명해주시고, 아이가 자신이 느끼는 기분을 솔직하게 말할 수 있도록 도와주세요. 또 달력에 스티커를 붙이거나 하는 방법으로 오줌을 싸지 않는 날은 칭찬을 해주어 아이에게 야뇨증을 고쳐야겠다는 동기유발을 하는 것도 좋은 방법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[참고문헌 
+1. 안효섭, 신희영. (2020). 홍창의 소아과학(12판). 미래엔.
+2. Nelson, Waldo E. Nelson Pediatrics(21판). (Edt), Behrma.
+3. 건강보험심사평가원. 국민관심질병통계.
+
+
+관련사이트 
+1. 대한소아신장학회 
+2. 대한소아배뇨장애야뇨증학회 
+3. 대한소아비뇨의학회]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

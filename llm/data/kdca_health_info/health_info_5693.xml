@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[발 백선(무좀)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5693]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 백선은 피부사상균에 의해 발생하는 피부 감염으로, 머리, 몸통, 발 등 다양한 부위에서 나타납니다.
+• 발 백선(무좀)은 가장 흔하며, 주로 목욕탕, 수영장 등에서 전염됩니다.
+• 증상은 가려움, 물집, 갈라짐 등이며, 형태에 따라 지간형, 소수포형, 과각화형으로 구분됩니다.
+• 진단은 현미경 검사(KOH 도말 검사) 및 진균 배양 검사로 이루어집니다.
+• 치료는 항진균제 사용이 기본이며, 예방을 위해 발을 건조하게 유지하고 신발·양말을 철저히 관리해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[백선은 피부사상균에 의해 피부와 피부 부속기에 발생하는 모든 표재성(표면 또는 표면 아래 얕은 부위에만 병변이 국한된 경우) 감염을 의미합니다. 백선은 발생 부위에 따라 머리 백선, 몸통 백선, 사타구니 백선, 턱수염 혹은 콧수염에 발생하는 수발 백선, 얼굴 백선, 손 백선, 발 백선(무좀), 손발톱 백선 등으로 분류합니다.
+발바닥과 발가락 사이에 발생하는 발 백선(무좀)은 우리나라에서 가장 많은 백선으로 전체 백선의 23.2~48.1%를 차지하며, 성인 남성에서 많이 발생하고, 소아에서는 비교적 드물게 발생합니다. 구두와 양말을 신고 생활하는 시간이 많아짐에 따라 발의 습도가 높은 상태로 유지되는 시간이 길어지면서 유병률 또한 높아지고 있습니다.
+주로 목욕탕, 수영장 등 사람이 많이 모이는 곳에서 환자로부터 떨어져 나온 각질을 통해 발에서 발로 전염되며, 한번 감염된 사람은 재발이 흔하고 가족에게 옮기기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe9573ca7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[피부사상균은 표피의 각질층, 모발, 손톱 및 발톱 등에 각질을 영양분으로 하여 생활하는 진균(곰팡이)으로, 각질에 감염을 일으켜 병변이 발생합니다. 주요 원인균으로는 적색 백선균(Trichophyton rubrum), 백색 종창균(Trichophyton mentagrophytes), 유모표피사상균(Epidermophyton floccosum), 석고상소포자균(Microsporum gypseum) 등이 있으며, 그 중에서 적색 백선균(Trichophyton rubrum)이 가장 흔합니다.
+과각화형(발바닥에 각질이 두터워지는 형태)과 지간형(발가락 사이가 짓무르거나 갈라지는 형태)은 적색 백선균(Trichophyton rubrum), 소수포형(발바닥에 작은 물집이 잡히는 형태)은 백색 종창균(Trichophyton mentagrophytes)이 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412dce4204]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발 백선(무좀)은 환자와 직접 피부 접촉을 하거나 수영장, 목욕탕 등 사람이 많이 모이는 곳에서 환자에게서 떨어져 나온 각질을 통해 발에서 발로 전염됩니다. 특히 발에 습도가 높은 환경이 유지되거나, 당뇨병이나 만성 질환이 있는 경우 걸어 다니면서 피부에 손상이 생긴 틈을 통해 감염될 위험이 더 커집니다. 특정한 직업군(군인, 소방관, 광부 등)에서는 유병률이 59.4~78.8% 정도로 높고, 여름에 더 높은 유병률을 보입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[임상적으로 지간형, 소수포형 및 각화형으로 구분하며 지간형이 가장 흔한 것으로 알려져 있습니다. 
+1. 지간형은 발 백선 중 가장 흔한 임상 형태입니다. 해부학적으로 공기가 잘 통하지 않고 습기가 높은 4번째 발가락과 5번째 발가락 사이에 가장 많고, 3번째 발가락과 4번째 발가락 사이에 그 다음으로 많습니다. 흔히 가려움증이 동반되고 불쾌한 발 냄새가 날 수 있습니다. 발가락 사이의 피부가 희게 짓무르고 균열이 생기며, 건조되면 각질이 보이고, 양측 발가락과 발바닥까지 퍼질 수 있습니다. 손상된 피부를 통해 이차적인 세균감염이 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe9574e27]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 소수포형 발바닥이나 발 옆에 작은 물집이 산재하여 발생하고 융합되어 다양한 크기와 형태로 나타날 수 있습니다. 작은 물집은 끈적거리는 액체로 차있으며 건조되면 두꺼운 황갈색 딱지를 형성하고 긁으면 옅은 상처를 남길 수 있습니다. 여름에 땀이 많이 나서 악화하는 경향이 많고, 물집이 발생할 때 심하게 가렵습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe95753f4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 과각화형(인설형)은 발바닥 전체에 걸쳐 정상피부색의 각질이 두꺼워지며 긁으면 고운 가루처럼 떨어집니다. 만성적으로 경과하고 가려움증이 별로 없어서 치료가 늦어지는 경우가 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe9575111]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이상 세 가지 병형은 명백하게 구분하기 어려울 때가 많으며, 여러 병형이 복합되어 나타나는 경우가 많습니다. 지간형과 소수포형은 긁거나 각질용해제로 과하게 치료하면 피부 장벽이 손상되어 이차적인 세균 감염이 생길 수 있습니다. 발 백선 환자는 손발톱백선증이 동반되는 경우가 많은데, 손발톱백선증은 치료가 어렵고 치료가 잘 되지 않는 경우 손발톱에서 재감염이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발에 피부병변이 생겼다고 모두 무좀은 아니므로 치료 전에 반드시 진균 검사를 통한 확진이 필요합니다. 진균학적 검사에는 직접 도말 검사(KOH 도말 검사)와 진균 배양 검사 등이 있습니다.
+ - 직접 도말 검사(KOH 도말 검사): 발생 부위의 각질을 긁어 모아 수산화칼륨(KOH) 용액으로 녹인 뒤 현미경으로 관찰하여 곰팡이균을 확인하는 방법입니다. 
+- 진균 배양 검사: 발생 부위의 인설을 긁어 모아 곰팡이균을 키우는 배지에 넣고 배양하여 균을 확인하는 방법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe95756e7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[항진균제 치료가 가장 기본이 됩니다. 하지만 급성 염증이나 2차 감염이 있으면 먼저 습포를 하고 항생제와 국소 스테로이드제를 사용하여 합병증을 치료한 후, 무좀 치료를 시작해야 합니다. 발바닥의 각질이 두꺼우면 살리실산(salicylic acid 2~6%)이나 요소 연고를 사용하여 먼저 각질을 제거해야 합니다. 이후 항진균제를 1일 2회씩 병변과 주변부에 발라줍니다.
+국소 치료로 호전되지 않으면 이트라코나졸(itraconazole), 플루코나졸(fluconazole)과 터비나핀(terbinafine) 등 경구 항진균제를 복용합니다. 항진균제는 진균의 세포막에 작용하여 진균의 성장을 억제합니다.
+
+1) 이트라코나졸(itraconazole) 
+트리아졸(triazole) 계열의 광범위 항진균제로 무좀(백선)뿐만 아니라 칸디다증, 말라세지아(Malassezia) 감염 치료에도 효과적입니다. 진균 세포막의 필수적인 구성 요소인 에르고스테롤(ergosterol) 합성에 필요한 라노스테롤 탈메틸화(lanosterol demethylation)를 억제합니다. 보통 하루 100 mg을 사용하지만 최근에는 200~400 mg의 고용량 단기요법을 쓰기도 합니다. 1개월 중 일주일 동안 400 mg의 단기요법을 사용하면 3~4개월간 효과가 지속되기 때문입니다. 부작용으로는 오심, 두통, 간기능 이상, 아나필락시스 등이 있으나 매우 드뭅니다. 
+2) 플루코나졸(fluconazole) 
+
+트리아졸(triazole) 계열의 항진균제로 무좀에도 사용할 수 있습니다. 경구뿐 아니라 정맥주사로 사용할 수 있어 칸디다증과 크립토콕쿠스증(효모균증, cryptococcosis)과 같은 전신 진균증에도 쓰지만 드물게 오심과 소화불량이 부작용으로 나타날 수 있습니다. 주로 신장을 통해서 배출됩니다. 
+3) 터비나핀(terbinafine) 
+
+알릴아민(allylamine) 계열의 항진균제로 진균 세포막에서 에르고스테롤(ergosterol) 합성에 필요한 스쿠알렌 에폭시화(squalene epoxidation)를 억제합니다. 세포 내에 축적된 스쿠알렌(squalene)이 살진균 효과(fungicidal activity)를 보입니다. 손발의 만성 무좀 환자에 효과적이고, 치료 후 재발이 적은 장점이 있습니다. 부작용은 드물지만 소화불량, 식욕부진, 피부발진이 나타날 수 있고, 매우 드물게 간 기능 이상이 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[백선은 치료만큼 예방이 중요합니다. 발 백선은 치료 후에도 양말이나 신발 등에 남아있던 피부사상균에 의해서 재발하는 경우가 많고, 손발톱백선증이 동반되어 있을 때 손발톱에서 재감염이 되는 경우도 많습니다.
+발 백선을 예방하는 생활습관으로 우선 발을 하루 1회 이상 깨끗하게 씻고, 땀을 많이 흘린 경우는 바로 씻는 것이 좋습니다. 발을 씻은 후에는 통풍을 잘 시켜 발가락 사이까지 잘 말리고 건조하게 유지해야 합니다. 신발은 조이는 신발보다 발가락이 나오는 샌들이나 통풍이 잘 되는 신발이 좋으며, 낡은 신발이나 남이 신던 신발은 피하는 것이 좋습니다.
+가족 내 감염을 예방하기 위해 환자의 양말이나 발 수건을 구분해 사용하는 것이 중요합니다. 많은 경우에 발 백선은 가족이나 주변인에게서 전염됩니다. 피부과를 찾은 환자만 치료하는 경우 다른 사람에게 옮기는 것뿐 아니라 환자 본인도 재감염되는 경우가 흔합니다. 따라서 가족과 주변인 중 발 백선이 있는 사람이 모두 피부과를 찾아 검사받고 치료하는 것이 무엇보다 중요합니다. 특히 어린이는 부모에게서 감염되는 경우가 많기 때문에 반드시 부모도 같이 치료해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

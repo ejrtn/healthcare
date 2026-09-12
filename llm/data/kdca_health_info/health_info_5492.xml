@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[흉수검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5492]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 흉막 삼출증은 흉강 내 비정상적으로 많은 액체가 축적되는 상태로, 이를 진단하기 위해 흉강천자를 통해 흉수를 검사합니다.
+• 흉수검사는 흉막 삼출의 원인을 밝히고, 적절한 치료 방향을 설정하는 데 중요한 역할을 합니다.
+• 보통 앉은 자세에서 시행하며, 영상검사를 통해 표시된 시술 부위에 주삿바늘로 흉수를 뽑은 후 흉부 X선 검사로 합병증 유무를 확인합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사람의 폐는 가슴 양쪽의 빈 공간(흉강)에 위치합니다. 흉강에는 정상적으로 5~15 mL의 소량의 액체(흉수)가 존재하며, 폐가 호흡으로 팽창하고 수축할 때 윤활제 역할을 하고 있습니다. 흉막 삼출증(pleural effusion)이란 흉강 내에 액체가 비정상적으로 많이 차는 상태를 말하며, 진단을 위해 흉강천자(thoracentesis)라는 시술로 흉수를 뽑아 검사합니다. 흉부 방사선 검사에서 폐의 바깥쪽 아랫부분의 뾰족한 모양(심장횡격막각)이 둥근 모양으로 변하는 것으로 흉막 삼출증을 진단할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d02cfc7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흉막 삼출증의 원인은 심장병에서부터 악성 종양에 이르기까지 매우 다양하기 때문에 정확한 진단을 내리는 것이 무엇보다도 중요합니다. 흉수를 직접 뽑아서 검사하는 것은 기본이라고 할 수 있습니다.
+
+흉막 삼출증의 분류 및 원인
+1. 누출성(transudate) 
+∎ 무기폐(atelectasis)
+
+∎ 울혈 심부전(congestive heart failure) 
+∎ 간경화(cirrhosis) 
+∎ 신증후군(nephrotic syndrome) 
+∎ 점액 수종(myxedema) 
+∎ 사코이드증(sarcoidosis) 
+∎ 복막 투석(peritoneal dialysis) 
+
+2. 삼출성(exudate)​
+∎ 암(neoplastic diseases)
+∎ 감염(infectious diseases) 
+∎ 폐 색전증(pulmonary embolization)
+∎ 혈흉(hemothorax), 유미흉(chylothorax), 농흉(epyema) 
+∎ 결합 조직 질환(connective tissue diseases): 마르팡 증후군(Marfan syndrome), 전신 홍반 루푸스(systemic lupus erythematosus)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 적응증 
+1) 새롭게 발견된 흉막 삼출증: 울혈성 심부전이나 만성 신부전 등 특별한 과거력이 없는 환자에서 흉막 삼출증이 발견된 경우에는 검사를 시행해야 합니다. 
+
+2. 금기증
+1) 흉수가 적은 경우, 흉강천자 과정 중 폐손상으로 기흉과 같은 합병증이 발생할 가능성이 높습니다.
+2) 주사 바늘이 들어갈 피부에 감염이 있을 경우, 세균에 감염될 가능성이 높습니다. 
+3) 혈소판 수치가 낮거나 아스피린 같은 항응고제를 복용하는 등 출혈 경향이 있는 환자의 경우에는 검사를 삼가는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈액 검사를 할 때 주삿바늘로 정맥을 찔러 피를 뽑는 것처럼, 흉강천자도 주삿바늘로 가슴을 찔러 흉강에 고여있는 흉수를 뽑게 됩니다. 흉수의 양이 많은 경우는 누운 자세에서도 시행할 수 있지만, 보통 폐나 복부 장기의 손상을 최소화하기 위해 앉은 자세에서 시행합니다. 
+
+흉강천자 방법 
+- 환자는 의자에 앉아서 팔을 앞 테이블에 기댄 자세를 취합니다. 
+- 흉부 X선, 흉부 컴퓨터 단층 촬영(Computed Tomography, CT) 또는 초음파 등을 통해서 시술 부위를 환자의 등에 표시합니다. 
+- 소독 후 표시된 곳에 국소 마취를 합니다. 
+- 환자가 숨을 참는 동안 주삿바늘을 삽입하여 흉수를 뽑습니다. 
+- 검사종료 후에는 흉부 X선 검사로 출혈이나 기흉 등의 합병증 유무를 확인합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d10bce1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흉강천자를 통해 얻어진 흉수로 육안 검사, 세포 검사, 생화학 검사, 미생물학적 검사, 면역학적 검사 등 다양한 검사를 하게 됩니다.  흉막 삼출증은 흉수검사를 통해 누출액(transudate)과 삼출액(exudate)으로 분류할 수 있습니다. 흉수와 혈청에서 단백질과 젖산 탈수소 효소(lactate dehydrogenase)를 측정하여 아래 3가지 경우 중 한가지에 포함되면 삼출액으로 판단합니다(Light's criteria). 
+1. 혈청 단백질 대 흉수 단백질 비율이 0.5 이상일 때
+2. 혈청 젖산 탈수소 효소 대 흉수 젖산 탈수소 효소 비율이 0.6 이상일 때 
+3. 혈청 젖산 탈수소 효소의 상위 한계보다 흉수 젖산 탈수소 효소가 2/3 이상일 때]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 이두연. (2006). 알기쉬운 가슴 외과학. 큐라인.
+2. Demmy, T. L., Nwogu, C. (2006). Malignant pleural and pericardial effusion. In Sellke, F. W., del Nido, P. J. &amp; Swanson, S. J.(Eds.). Sabiston &amp; Spencer Surgery Of The Chest (pp.447-469). Elsevier Saunders.
+3. Heffner, J. E. (2020). Diagnostic evaluation of a pleural effusion in adults : Initial testing. https://www.uptodate.com/contents/diagnostic-evaluation-of-a-pleural-effusion-in-adults-initial-testing?search=pleural%20effusion&amp;source=search_result&amp;selectedTitle=1~150&amp;usage_type=default&amp;display_rank=1.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

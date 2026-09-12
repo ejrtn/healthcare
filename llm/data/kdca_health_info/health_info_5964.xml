@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[메니에르병]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5964]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 메니에르병은 어지럼증, 이충만감, 이명, 청력저하가 동반되는 질환입니다.
+• 주로 내이의 내림프수종이 원인으로, 내이의 체액이 비정상적으로 증가하면서 증상이 발생합니다.
+• 메니에르병의 증상은 반복적인 어지럼증, 귀가 먹먹하거나 이명이 나타나는 특징이 있습니다.
+• 시간이 지나면서 어지럼증은 줄어들지만, 청력 손상은 진행되고 이명이 지속될 수 있습니다.
+• 치료 방법은 급성기에는 약물로 증상을 완화하고, 만성기에는 생활습관 조정과 약물 치료로 증상의 빈도를 줄이는 것입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[메니에르병은 어지럼증과 함께 이충만감(귀가 먹먹해지거나 막힌 듯한 느낌)과 이명, 청력저하가 나타나는 질환입니다. 20분 이상 지속되는 어지럼이 2회 이상 있으면서 청력검사에서 저음부 청력저하가 관찰된다면 명확한 메니에르병으로 진단합니다. 어지럼 증상만 반복되거나 청력저하만 반복되는 비전형적인 경우에는 가능성 높은 메니에르병으로 진단할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[귀는 외이, 중이, 내이로 나뉩니다. 내이에는 청각을 느끼는 달팽이관(cochlea)과 회전운동, 가속도, 기울임을 감지하는 전정기관(vestibular organ)이 있습니다. 딱딱한 뼈로 이루어진 내이 안에는 관 모양의 구조물인 내림프관이 있습니다. 내림프관에 존재하는 감각세포들이 소리를 인지하고 평형감각을 느낍니다.
+메니에르병이 어떻게 발병하는지는 아직 확실하지 않지만, 많은 연구에서 내이에 내림프수종이 생겨서 발병한다고 알려져 있습니다.
+내림프수종이란 내림프관 속의 내림프액이 비정상적으로 증가해 내림프관이 부풀어 오르는 현상입니다. 내림프관이 부풀면 감각세포의 기능에 문제가 생겨 어지럼증, 난청, 이명 등의 증상이 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=182e96bc56d3325]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[최근 내림프수종이 없는데도 메니에르병이 생기거나, 메니에르병이 없지만 내림프수종이 있는 경우도 확인되었습니다. 따라서 내림프수종 같은 구조적 이상뿐 아니라 자가면역질환, 바이러스 감염, 세포 항상성의 변화, 기타 다양한 원인에 의해 메니에르병이 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=182e9695f793322]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[메니에르병 환자 중 절반가량은 어지럼이 시작된 지 2년 정도가 경과한 뒤 증상이 없어지거나 완화되며, 시간이 더 지나면 대부분의 환자가 어지럼을 느끼지 않습니다. 이것은 내이의 기능이 회복되었기 때문이 아니라, 더 이상 손상될 기능이 없기 때문인 것으로 추정됩니다.
+다만 심한 어지럼증이 없더라도 내이의 기능 저하로 인해 가벼운 어지럼증은 느낄 수 있습니다. 하지만 어지럼증은 갈수록 빈도가 적어지는 반면, 난청은 계속 진행되며, 난청으로 인해 이명이 남을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[건강보험심사평가원 자료에 따르면, 메니에르병으로 병원을 찾는 환자 수는 꾸준히 늘어, 2010년 76,259명에서 2021년 174,536명으로 10년간 10만 명이 증가했습니다. 서양인보다 동양인에게 더 많고, 40~50대에서 호발하며, 여성에게 더 흔합니다. 보고에 따라 차이가 있지만 대략 20%는 양쪽 귀에 증상이 생깁니다. 메니에르병은 유전경향이 있어 8~9% 정도는 가족성 성향을 보입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=182e96d10fc3328]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[전형적인 메니에르병은 반복적인 어지럼과 함께 귀가 안 들리거나, 먹먹하거나, 이명이 나타납니다. 어지럼은 자기 자신은 돌지 않는데 주위가 빙빙 도는 양상입니다. 대개 20분 이상 지속되나 24시간을 넘지는 않으며, 오심(메스꺼움)과 구토가 흔히 동반됩니다. 어지럼이 나타나기 전에 이명이 커지거나 귀가 먹먹해지는 증상이 악화되어 어지럼 발작이 나타날 것을 예측할 수 있는 경우도 있습니다.
+어지럼은 대개 갑자기 발생하지만, 일부 환자는 짠 음식이나 카페인을 섭취하거나 심한 스트레스에 의해 유발되기도 합니다. 빈도는 한 달에 한 번 미만에서 열 번 이상까지 다양합니다. 예측하기 어렵게 갑작스러운 어지럼이 반복되면 일상생활에 큰 어려움을 겪을 수 있습니다. 청력 감소와 이명이 동반될 수 있습니다.
+처음에는 낮은 주파수의 소리에 대한 청력이 감소하지만, 서서히 진행해 점차 모든 높낮이의 소리를 듣기 어려워질 수 있습니다. 비전형적인 형태로 어지럼증만 반복되거나, 청력 저하, 귀 먹먹함, 이명만 나타나기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[메니에르병은 객관적으로 확인하는 검사 방법이 없어 임상 증상으로 진단합니다. 다만 확진을 위해 참고하고, 환자의 증상을 이해하며, 치료 방침을 세우고 효과를 평가하고 다른 질환과 감별을 위해 검사를 시행합니다. 
+
+1. 순음청력검사 - 메니에르병 진단 기준에 포함되므로, 의심스러운 환자에게 반드시 순음청력검사를 시행합니다. 어음청력검사로 어음 변별력을 확인하는 것은 치료방법 결정에도 도움이 됩니다. 시간이 지나면서 청력이 변하기 때문에, 외래에서 주기적으로 순음청력검사를 시행해 병의 경과와 치료 효과를 판정합니다.
+2. 혈액검사 - 메니에르병과 증상이 유사한 질환을 감별하기 위해 매독(RPR 또는 FTA), 자가면역질환(CRP, ANA), 갑상샘 질환(항타이로글로불린, 항-TPG 항체) 등의 검사를 시행합니다.
+3. 전기생리학적 검사 - 전기와우도검사(electrocochleography)는 메니에르병 진단에 보조적인 역할을 합니다. 가중전위(summating potential, SP)가 증가해 SP/AP 비율이 높아지면 내림프수종이 있거나 내림프낭 압력이 높아졌다는 의미로 메니에르병 진단에 도움이 됩니다.
+4. 전정기능검사 - 온도안진검사(caloric test)와 전정유발근전위검사(vestibular evoked myogenic potential, VEMP)를 통해 상전정신경과 하전정신경 기능을 평가할 수 있습니다. 메니에르병 환자의 50%는 전정기능이 정상입니다. 또한 전정기능검사는 고실 내 젠타마이신 주입술을 시행하는 경우 치료 전후 효과 판정을 위해 시행할 수 있습니다.
+5. 영상학적 검사 - 청신경종으로 인한 일측성 감각신경성 난청과 같이 메니에르병과 유사한 증상이 나타날 수 있는 후미로성 질환을 감별하기 위해 시행합니다. 자기공명영상검사(MRI)를 이용해 내림프수종을 직접 확인하기도 합니다.
+
+이와 같이 메니에르병은 어지럼 및 난청의 양상, 청력 및 전정기능검사 결과로 진단할 수 있습니다. 하지만 증상이 매우 다양해서 처음부터 정확하게 진단하기는 어려우며, 증상의 경과를 관찰하는 것이 매우 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[메니에르병의 치료는 어지럼이 시작됐을 때 어지럼과 구토를 줄이기 위한 급성기 치료와 어지럼 빈도, 난청, 이명, 귀 먹먹함을 호전시키기 위한 만성기 치료로 나눕니다. 
+어지럼, 구역, 구토가 심한 급성기에는 전정억제제와 항구토제를 사용합니다. 보조적으로 심리적 안정과 함께 충분한 수분공급, 전해질 교정이 필요할 수 있습니다. 
+만성기 치료는 증상 발작의 빈도를 줄여 병의 진행을 막고, 정상 생활을 영위할 수 있도록 하는 것이 목표입니다. 만성적인 어지럼이나 난청, 이명 증상에 대한 재활 치료도 포함됩니다.
+
+1. 생활습관 교정
+어지럼의 빈도가 낮거나, 증상이 약한 경우에는 약물치료 없이 식이 조절만 해도 도움이 될 수 있습니다.
+저염식이 가장 대표적인 방법으로, WHO 권장 일일나트륨 섭취량은 2000 mg(소금 약 5000 mg)이나, 메니에르병 환자들은 하루 소금 섭취량이 1500~2300 mg을 넘지 않도록 권고합니다. 소금 섭취량은 서서히 줄이는 것이 적응하기 쉽습니다.
+충분한 수분 섭취도 증상 완화에 도움이 됩니다. 환자에 따라 심리적 스트레스, 카페인, 술, 니코틴, 알레르기 등 특정 요인이 증상을 유발하기도 합니다. 이런 요인이 확인되면 피하는 것이 병의 진행을 막는 데 도움이 됩니다. 
+
+2. 약물요법
+이뇨제가 가장 흔히 사용되는 약물로, 내림프수종을 줄여 내림프압을 낮추는 데 도움이 됩니다. 급성기에 청력이 갑자기 떨어지거나, 이뇨제만으로 어지럼 빈도가 줄지 않을 때는 스테로이드를 사용합니다. 항히스타민계열 약물인 베타히스틴(betahistine)은 중추 전정신경의 활동을 줄이고, 와우의 혈액순환을 증진해 메니에르병의 증상을 완화할 수 있습니다.
+
+3. 고실내 약물 주입술
+생활습관 교정이나 약물요법에도 충분한 효과가 없는 경우에 사용합니다. 고실내 주입 약물로는 스테로이드와 겐타마이신을 사용합니다. 겐타마이신은 어지럼에 도움이 되지만, 청력 손상 가능성이 있기 때문에 주의해야 합니다. 최근에는 어지럼만 조절하고 청력 손상이 거의 없는 저용량 겐타마이신 1회 투여법을 사용합니다.
+
+4. 수술적 요법
+내과적 치료와 고실 내 약물 주입술로도 어지럼이 조절되지 않는 경우 수술적 치료를 고려합니다. 메니에르병이 양측성인지 일측성인지, 청력이 좋은지 나쁜지 고려해 수술적 치료 방법을 결정합니다.
+- 내림프낭감압술(endolymphatic sac decompression):  내림프압력을 낮추는 수술로 청력이 좋은 환자나 양측성 메니에르병 환자에게 시행할 수 있습니다.  
+- 전정신경절제술(vestibular neurectomy):  일측성 메니에르병 환자에서 청력이 좋은 경우  고려할 수 있으며, 청력을 보존할 수 있는 수술입니다.   
+- 미로 절제술 (labyrinthectomy): 청력이 나쁜 일측성 메니에르병 환자에서 적용가능합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[저염식이 가장 중요합니다. 술, 커피, 담배, 심리적 스트레스를 피하고 충분한 수면을 취하는 것도 증상 예방에 도움이 됩니다. 무엇보다 환자 스스로 어지럼 발작의 유발 인자를 확인해 회피하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 메니에르병에서 어지럼을 악화시키는 원인은 무엇이 있을까요?
+
+A. 메니에르병 유발 요인은 환자마다 다릅니다. 하나일 수도 있고 다양할 수도 있습니다. 섭취하는 음식이나 활동일지를 기록하면 악화 요인을 찾는 데 도움이 됩니다. 
+
+Q. 메니에르병에서 어지럼 발작을 예방할 수 있는 식이요법이 있나요?
+
+A. 식이요법은 모든 사람에게 효과가 있는 것은 아닙니다. 식단에 소금(나트륨)이 너무 많으면 내이의 체액이 증가해 어지럼이 발생할 수 있으므로 저염식이 도움이 됩니다. 신선한 과일이나 채소, 가공되지 않은 고기 등 전체식품을 먹으면 소금을 적게 섭취할 수 있습니다.
+
+
+Q. 메니에르병에서 어지럼증을 방지하기 위해 좋은 습관이 있나요?
+
+A. 메니에르병으로 진단받은 분은 아래와 같은 생활습관 교정이 도움이 됩니다. 
+- 저염식 (하루 소금 섭취량이 1500~2300 mg을 넘지 않도록 권고합니다)
+- 과도한 커피나 흡연을 피함
+- 균형 잡힌 식사
+- 충분한 수분 섭취 (일일 섭취량 : 30~35 ml/Kg)
+- 충분한 운동
+- 충분한 수면 (성인기준 7~8시간)  
+- 호흡운동 연습
+- 어지럼증 일기
+- 알레르기 관리]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한이비인후과학회. (2018). CHAPTER 48 어지럼증의 진단 및 치료_메니에르병, 이비인후과학. 군자출판사.
+2.  Kwon, S. Y., Hong, S. K. (2012). Evaluation and Treatment of Meniere's Disease. Research in Vestibular Science. 11(2). S4-S8.
+3. Nakashima, T., Pyykkö, I., Arroll, M. A., Casselbrant, M.L., Foster, C.A., Manzoor, N.F., …, &amp; Young, Y. H. (2016). Meniere's Disease. Nat Rev Dis Primers. 12(2). 16028.
+4. Lopez-Escamez, J. A., Carey, J., Chung, W. H., Goebel, J. A., Magnusson, M., Mandalà, M., …, &amp;　Bisdorff, A. (2017). Diagnostic criteria for Menière's disease according to the Classification Committee of the Bárány Society. HNO. 65(11). 887-893.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

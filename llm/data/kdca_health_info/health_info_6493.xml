@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[연조직염과 종기(종기)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6493]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 종기는 털이 있는 모낭에서 시작된 세균 감염으로, 염증이 깊어지면서 단단한 결절을 형성하는 질환입니다.
+• 여러 개가 합쳐지면 더 크고 깊은 큰 종기로 진행할 수 있습니다.
+• 주로 피부 위생이 좋지 않거나 마찰, 땀, 면도 등으로 피부가 손상될 때 발생하기 쉽습니다.
+• 병변이 진행되면 통증, 고름 형성, 피부 변색 등이 나타나고 주변 림프절까지 염증이 퍼질 수 있습니다.
+• 치료는 따뜻한 찜질로 고름 배출을 돕는 것이 기본이며, 무리하게 짜거나 조기 항생제 사용은 오히려 악화시킬 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[종기(furuncle)는 털이 나는 모낭에서 염증이 시작되어 깊이 진행하면서 결절을 만든 것으로, 여러 개의 작은 종기가 합쳐져서 병변이 커지고 깊어지면 큰 종기(carbuncle)로 발전하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf272e51]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[종기는 피부의 위생 상태가 좋지 않을 때 많이 생깁니다. 특히 피부가 눌리거나 마찰하는 경우, 땀이 많이 나는 경우, 습진이나 면도 등에 의해 피부의 방어막이 손상되면 잘 생기게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[감염부위가 진행되면 보라색 모양의 반점(자색반)과 물집, 고름이 나타나기도 하고, 중심부가 곪아 출렁거리고, 터지면서 고름이 새어 나오기도 합니다.
+림프관에 염증이 생기면서 염증이 다른 곳으로 퍼져갈 때는 림프관을 따라 붉은 줄이 시간이 지나면서 뻗어 가는 모습을 관찰하거나, 주위  림프절이 아프면서 콩알만 하게 만져지는 것을 발견할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[단순 종기는 특별한 치료 없이 피부병변 부위에 따뜻한 찜질을 해주면 고름이 잡혀서 병변의   고름을 쉽게 배출할 수 있습니다. 그러나 종기가 곪아서 물렁물렁하기 전에 미리 짜내려 하면 오히려 악화될 수 있고, 또한 항생제를 너무 조기에 사용하면 오히려 화농이 지연되어 치료기간이 길어질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[연조직염과 종기]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5779]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[연조직염과 종기(연조직염)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6494]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[간의 양성종양(국소결절증식증)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1265]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[간내 국소결절증식증은 혈관종 다음으로 흔한 간의 양성종양입니다. 비정상적으로 변형된 혈관에 주변 세포가 반응 및 증식해 발생하는 것으로 알려져 있습니다. 간선종과 달리 피임약 복용이 발생에 관여한다는 증거는 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2016년 유럽간학회 가이드라인에 따르면 성인에서 국소결절증식증의 유병률은 0.4~3%입니다. 여성에서 더 흔하며, 35~50세 여성에서 가장 흔하게 발견됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대부분 증상이 없습니다. 드물게 크기가 커지면서 복통이나 복부 팽만을 일으키는 경우가 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복부 컴퓨터단층촬영(CT)과 자기공명영상(MRI)이 진단에 도움이 되며, 결절 중심부에 별 모양의 섬유 반흔(central stellate scar)이 나타나는 것이 특징입니다. 확진을 위해 간 조직 검사가 필요하며, 초음파 검사로 종괴를 확인하고 조직검사를 해도 종종 간선종이나 분화가 잘 된(종양이 주변 세포와 구분이 잘 되는 상태) 간세포암종과의 감별이 어렵습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1894d110ccb5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[국소결절증식증은 대부분 무증상이고 암의 전 단계 병변이 아니므로 치료가 필요 없습니다. 매우 드물게 크기가 커져 증상을 일으키거나, 다른 검사에서 악성종양과 구별이 되지 않는 경우에만 수술적 치료를 고려합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. European Association for the Study of the Liver. (2016). EASL Clinical Practice Guidelines on the management of benign liver tumours. J Hepatol, 65(2):386-98. doi:10.1016/j.jhep.2016.04.001.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(간선종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1263]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1261]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(간혈관종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1262]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(담관낭선종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1266]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(간낭종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1264]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[당뇨병 합병증(급성 합병증)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[2347]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[당뇨병의 급성 합병증은 체내 혈당이 너무 높거나 낮을 때 생길 수 있습니다. 혈당이 너무 높으면서 인슐린 결핍이 있으면 당뇨병케토산증(diabetic ketoacidosis)과 고혈당고삼투질상태(hyperglycemic hyperosmolar state)가 발생하며, 혈당이 너무 낮으면 저혈당이 발생합니다. 모두 생명을 위협하는 응급 상황입니다. 그러므로 당뇨병의 급성 합병증이 의심되면 빨리 병원을 방문해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1885deb26632]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한당뇨병학회 진료지침위원회. (2021). 2021 당뇨병 진료지침 (제7판). 서울: 대한당뇨병학회.
+2. 대한당뇨병학회. (2018). 당뇨병학 (제5판). 서울: 범문에듀케이션.
+3. Umpierrez, G., &amp; Korytkowski, M. (2016). Diabetic emergencies - ketoacidosis, hyperglycaemic hyperosmolar state and hypoglycaemia. Nature reviews. Endocrinology, 12(4), 222–232. doi.org/10.1038/nrendo.2016.15.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(급성 합병증_고삼투압성 고혈당 증후군)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2349]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(급성 합병증_저혈당)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2350]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(급성 합병증_당뇨병케토산증, 고혈당고삼투질상태)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2348]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(만성 합병증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2351]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[바베스열원충증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5522]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 바베스열원충증은 바베스열원충에 감염된 참진드기에 물려 발생하는 열성 기생충 질환입니다.
+• 감염 후 1~4주의 잠복기를 거쳐 피로, 고열, 오한, 근육통, 용혈성 빈혈 등 말라리아와 비슷한 증상이 나타날 수 있으며, 면역력이 약한 사람에게는 증상이 더 심하게 나타날 수 있습니다.
+• 국내에서도 2019년 참진드기에서 바베스열원충이 발견된 바 있어, 국내 감염 가능성도 확인되었습니다.
+• 유행지역에서는 진드기에 물리지 않도록 긴팔 옷을 착용하고, 곤충 기피제를 사용해 예방하는 것이 중요합니다.
+• 대부분의 무증상 감염자는 특별한 치료가 필요 없지만, 증상이 심할 경우 약물 치료나 수혈이 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[바베스열원충(Babesia spp.) 감염에 의한 발열성 질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 신고범위
+환자
+2. 신고시기
+감염 확인 후 7일 이내 신고
+3. 신고를 위한 진단기준
+환자: 바베스열원충 감염 증상이 있거나, 역학적으로 연관되어 있으면서 진단을 위한 검사기준에 따라 바베스열원충 감염이 확인된 사람
+4. 진단을 위한 검사기준검체(혈액)에서 도말검사로 충체 확인검체(혈액)에서 특이 유전자 검출
+5. 신고 방법
+표본감시기관은 해외 유입 기생충 감염증 신고서를 작성하여 관할 보건소로 팩스 또는 웹 입력 방법으로 신고
+ * 표본감시 대상 의료기관 여부 확인: 관할 보건소로 문의]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[바베스열원충에 감염된 매개 참진드기에 물려 감염됩니다. 어른의 20%, 아이들의 40%는 감염되더라도 2년 동안 무증상감염이 유지됨에 따라 감염자의 혈액이 수혈에 활용될 가능성이 큽니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865decf7bf8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 국외현황
+바베스열원충은 전 세계적으로 퍼져있으며, 인체감염이 보고된 지역은 미국 남부, 유럽, 아프리카, 아시아 등이며 특히 아열대와 열대지방에서 많이 보고됩니다.
+
+2. 국내현황
+국내에서는 2000년에 법정감염병으로 지정되었습니다. 1988년 아이보리코스트에 거주하였던 백인 선교사에서 처음 감염 사례가 보고된 이후 지금까지10명의 환자가 발생되었습니다. 이 중 2명은 해외여행 경험이 없었던 감염자였으며, 2019년에 국내 진드기에서 바베스열원충이 확인되어 국내에서도 감염될 가능성이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[바베스열원충의 잠복기는 1~4주입니다. 감염되면 피로, 식욕감퇴, 두통, 고열, 오한, 근육통, 간과 비장(지라)이 커지는 간비종대, 용혈성 빈혈 등이 나타날 수 있습니다. 이런 증상들은 말라리아와 유사하지만, 바베스열원충은 진드기를 통해 전파됩니다. 증상의 정도는 개인차가 있으나 비장적출술을 받았거나 암, 림프종, 에이즈 환자와 같이 면역력이 떨어진 사람에게서 더 심하게 나타나는 것이 특징입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[바베스열원충증은 감염된 환자의 혈액도말표본에서 원충을 확인하여 진단합니다. 이때의 검사결과는 열대열원충의 감염에서와 유사하나 감염된 적혈구 내에 색소침착이 전혀 없으며, 초기 영양형(ring form) 이외의 형태는 발견할 수 없습니다.&lt;]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[바베스열원충의 유행지역에서 진드기에 물리지 않도록 주의해야 하며, 특히 비장을 제거하는 수술을 받은 사람은 감염되지 않도록 주의가 필요합니다. 진드기에 물리지 않기 위해서는 긴팔 옷이나 긴 바지를 입어 피부 노출을 최소화해야 하며, 노출된 피부에는 곤충기피제를 사용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[150]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대부분의 무증상 환자는 치료가 필요하지 않으나 증상이 심할 경우에는 특별한 치료가 필요합니다. 쥐바베스열원충증의 경우 증상의 정도에 따라 병합요법을 적용하며, 아지트로마이신(azithromycin)을 정맥주사하고 아토바쿠온(atovaquone)을 경구로 투약합니다. 혈중 원충의 수가 많거나, 심한 빈혈이 있을 경우에는 치환 수혈이 시행되기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[154]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 환자관리
+전염 위험성이 있으므로 환자의 혈액과 체액의 격리가 필요합니다.
+
+2. 접촉자관리
+접촉자에 대한 관리는 필요 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청, 2025년도 기생충감염병 관리지침 관련 건강정보]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[광동주혈선충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5526]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[해외유입기생충감염증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5420]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[샤가스병]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5525]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[사상충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5528]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[아프리카수면병]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5523]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[리슈만편모충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5521]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[악구충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5527]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[주혈흡충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5524]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[포충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5529]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

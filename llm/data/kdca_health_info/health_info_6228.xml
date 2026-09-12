@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[요로전환술]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6228]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[3]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[337]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[요로전환술이란 요로계의 병변이나 손상 등으로 정상적인 소변의 흐름이 어렵거나 불가능할 경우 체내 소변의 흐름을 인위적으로 변경하는 시술을 말합니다. 요로는 ‘소변이 흐르는 길’이란 뜻으로 신장에서 요관을 거쳐 방광으로, 방광을 거쳐 요도로 이어집니다. 요로가 막히면 통증, 신장 기능의 저하뿐 아니라 요로 감염이나 요로 결석을 일으킬 수 있고, 심한 경우 생명을 위협할 수도 있기 때문에 적절한 요로전환술이 필요합니다.
+요로 전환은 일시적이거나 영구적일 수 있습니다. 소변이 다시 정상적으로 흐를 때까지 며칠, 몇 주, 때로는 몇 달간 소변의 흐름을 바꾸거나, 수술을 통해 영구적으로 소변이 흐르는 방식을 변경합니다. 요로전환술의 위치는 가능하면 막힌 부위 바로 상부에서 시행하는 것이 이상적입니다. 상부 요로전환술로는 콩팥창냄술을 많이 시행하고, 방광 아래가 막힌 경우에는 방광창냄술을 흔히 시행합니다.
+영구적 요로전환술은 환자의 장 일부를 절제하거나 변형해 소변을 저장하거나 배출하는 수술로 요로계 종양이나 손상에 의해서 방광을 제거해야 할 때 주로 시행합니다. 영구적 요로전환술로는 돌창자(회장)의 한쪽 끝을 오른쪽 아랫배 피부에 연결하는 회장 도관조성술과 신체 외부의 변형 없이 방광이 있던 자리에 장을 이용해 새로 소변을 저장하는 신방광을 만드는 수술 방식 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[337]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18860b4c29d5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[344]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 방광창냄술이나 콩팥창냄술 같은 일시적 요로전환술 시행 후 원인 병변 부위는 어떻게 치료하나요?
+
+A. 요로전환술은 신우에서 요관, 방광을 지나 요도에 이르는 소변의 흐름에 문제가 생겼을 때, 병변보다 윗부분에 시행해 소변의 흐름을 바꿔주는 것입니다. 요로 흐름에 문제가 생기는 경우로는 크게 요로 막힘이나 누출을 들 수 있으며, 원인은 요로계 손상이나 협착, 종양, 결석 등 다양합니다. 요로전환술 후에는 원인에 따라 적절한 치료를 계속합니다. 치료 기간이 길어지면 주기적으로 도뇨관을 교체해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[359]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한비뇨의학회. (2019). 비뇨의학 (6판). 서울: 일조각.
+
+2. Partin, A. W., Wein, A. J., Kavoussi, L. R., Peters, C. A., &amp; Dmochowski, R. R. (2020). Campbell Walsh Wein Urology, E-Book. Elsevier Health Sciences.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[요로전환술(방광창냄술)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6240]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[요로전환술(정위성 인공방광 대치술)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6242]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[요로전환술(콩팥창냄술)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6243]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[요로전환술(회장도관술)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6241]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

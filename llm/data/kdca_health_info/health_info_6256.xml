@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[토혈(성인)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6256]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[토혈은 상부위장관 즉 식도, 위, 십이지장 상부에서 다양한 원인에 의해 출혈이 발생하고, 그 피가 상부위장관에 고였다가 다양한 자극에 의해 구토가 유발되어 피를 토하는 것입니다. 출혈 직후에 토하면 선명한 붉은색을 띄지만, 시간이 경과하면 색이 진해져 갈색이나 자장면처럼 검은색을 띄기도 합니다. 토혈은 객혈과 구별해야 하는데 객혈은 폐, 기관지의 출혈로 기침을 하면서 피가 입을 통해 나오는 것을 말합니다.
+
+토혈을 초래하는 상부위장관 질환은 임상에서 흔히 접할 수 있으나, 최근 다양한 궤양 치료제(양성자펌프 억제제 등)가 개발되고 헬리코박터 파일로리 감염증을 적극적으로 치료한 덕에 소화성 궤양에 의한 출혈은 줄어들고 있습니다. 그러나 인구 고령화가 진행되면서 심장 질환 등과 관련된 약물 사용으로 점막 손상 및 궤양에 의한 출혈 사례는 늘고 있습니다. ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18ad5128b961]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 소화성 궤양 
+
+소화성 궤양에 의한 출혈은 임상에서 흔히 볼 수 있습니다. 위상부의 소만부와 십이지장 구부의 후하방은 혈관이 풍부해 이 부위의 궤양이 생기면 쉽게 혈관이 손상되어 출혈이 발생합니다. 궤양은 위산 분비가 많은 경우, 헬리코박터 파일로리 감염, 진통제 등 비스테로이드 소염제를 복용하는 경우에 발생하며, 심장질환, 뇌혈관질환, 만성 폐질환, 간경변증 등 만성적인 질환에서도 잘 동반됩니다.
+
+궤양을 일으키는 약물은 다양하지만, 아스피린, 비스테로이드 소염제, 스테로이드와 골다공증 치료제인 비스포스포네이트 등이 대표적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c5ad4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 궤양에 의한 출혈을 일으키는 원인 
+
+궤양에 의한 출혈이 생기는 원인은 다양합니다. 심한 기저질환으로 오래 입원하면 소화성 궤양에 의한 출혈 가능성이 증가하는데, 이런 출혈은 예후가 좋지 않습니다.
+
+
+
+(1) 위산
+
+위산은 궤양성 출혈에 영향을 미칩니다. 따라서 궤양에 의한 출혈이나 반복적인 재출혈이 있다면 양성자펌프 억제제를 투여해 위산을 강력히 억제하면 출혈이나 재출혈 위험을 줄일 수 있습니다.
+
+ 
+
+(2) 헬리코박터 파일로리 감염
+
+헬리코박터 감염이 궤양을 초래하는 것은 확실하나, 감염이 있다고 해서 궤양에 의한 출혈이 증가하지는 않습니다. 헬리코박터 감염이 있을 때 비스테로이드 소염제를 복용하면 감염이 없을 때 복용하는 것보다 출혈 위험이 2배 높아집니다. 장기간 비스테로이드 소염제를 사용하는 환자에서 헬리코박터를 치료하면 궤양 위험을 줄일 수 있습니다.
+
+
+
+(3) 아스피린, 비스테로이드 소염제 
+
+아스피린이나 비스테로이드 소염제는 위궤양의 방어인자를 약화하고 혈소판 기능을 억제해 출혈을 증가시킵니다. 비스테로이드 소염제에 의한 궤양은 십이지장보다 위에서 주로 발생하는데, 출혈 위험은 소염제의 종류와 용량에 따라 다릅니다. 그 외 출혈 위험을 높이는 요인은 소염제 사용자의 연령, 과거 위장관 출혈, 스테로이드, 알렌드로네이트(비스포스포네이트 계열), 에탄올을 같이 사용하는 경우 등입니다.
+
+ 
+
+(4) 만성 음주
+
+만성 음주자는 간이 손상되어 생기는 간경변증에 의한 정맥류 출혈의 가능성이 높지만, 알코올 자체가 점막을 손상시켜 궤양 출혈을 일으킬 수도 있습니다. 궤양 출혈에 미치는 위험은 술을 많이 먹을수록 높아지고, 지속적으로 음주하는 환자에서 아스피린을 복용한 경우 더욱 증가합니다.
+
+
+
+(5) 항혈소판제 및 항응고제
+
+최근 허혈성 심질환이나 뇌혈관 질환의 증가로 항응고제 사용 빈도가 늘고 있습니다. 항응고제와 비스테로이드 소염제를 같이 복용하면 한 가지도 복용하지 않는 경우에 비해 출혈 위험이 약 12배 높아집니다. 항혈소판제제인 클로피도그렐은 아스피린에 비해 출혈 위험이 적으나 여전히 궤양성 출혈 가능성이 있습니다. 특히 과거에 위장관 출혈이 있었던 환자가 클로피도그렐을 복용하면 출혈 위험이 상승합니다. 최근에는 새로운 경구용 항응고제(direct oral anticoagulant, DOAC)의 사용도 증가하는데, 역시 위장관 출혈 위험성을 이해하고 주의해야 합니다.
+
+
+
+2) 예후 인자 
+
+소화성 궤양에 의한 출혈 환자에서 예후가 좋지 않은 경우는 고령, 동반 질환, 심한 출혈, 궤양의 크기가 2cm 이상, 입원 중 출혈 등입니다. 내시경 검사상 궤양에서 혈관이 노출되었거나, 최근 출혈이 있었거나, 현재 출혈이 있는 경우는 잘 치유되지 않고 재출혈 가능성이 높습니다.
+
+
+
+
+
+2. 정맥류 출혈 
+
+우리나라는 B형 간염바이러스 감염률이 높아 만성간염이나 간경변증 환자가 많습니다.
+
+음식을 섭취하면 소화 과정을 거쳐 주로 소장에서 영양분이 흡수됩니다. 흡수된 영양분은 간문맥을 통해 간으로 들어가 축적됩니다. 간질환에 의해 간이 구조적으로 변하거나 굳어지면 단단하고 상처 난 간조직이 간문맥 등의 혈관을 압박합니다. 간문맥 압력이 높아지면 혈액의 흐름이 원활하지 못해 혈액이 간을 통과하기 힘들어지므로 다른 길을 찾게 되어 위나 식도에 정맥류가 생깁니다. 정맥류는 주로 위나 식도에서 정맥이 혹이나 구렁이처럼 푸르스름하게 부풀어 오르는 병으로 평소에는 증상이 없습니다. 하지만 정맥류가 파열되면 심한 출혈이 일어나 다량의 피를 토할 수 있습니다. 위정맥류는 식도정맥류에 비해 더 깊숙한 점막하층에 있고 크기가 크며 큰 정맥에서 혈액이 유입되므로 출혈량이 많아 사망률이 높고 재출혈 가능성도 더 높습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c5972]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 말로리바이스 증후군 
+
+심한 구역이나 구토에 의해 위 내용물이 식도로 넘어오면서 위식도 접합부 점막에 상처를 일으켜 토혈하는 증상을 말로리바이스 증후군이라 합니다. 대부분 특별한 치료를 시행하지 않고 대증요법으로 치유됩니다. 하지만 출혈이 멎지 않거나 재출혈 위험이 높다면 내시경으로 치료해야 합니다. 내시경 치료가 어렵거나 혈압이 떨어져 내시경 검사 자체가 어렵다면 혈관조영술을 시행해 출혈 부위의 혈관을 막거나 출혈하는 동맥내에 직접 혈관 수축제를 투여합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c5a23]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우리 몸속에는 대략 5L의 혈액이 순환합니다. 출혈량이 총 혈액량의 10%, 즉 500 mL 이내인 경우에는 대개 전신 증상이 없습니다. 10-20%의 출혈이 있으면 앉아 있다가 갑자기 일어날 때 어지러움을 호소하는 기립성 저혈압, 맥박 빨라짐, 머리가 띵하거나 어지럽고 메스꺼운 증상, 식은 땀 등이 나타날 수 있습니다. 20-25% 이상의 출혈이 있으면 혈압이 떨어지고 피부가 창백해지고 차가워지는 쇼크 상태가 됩니다. 이는 응급상황으로 즉시 응급실을 방문해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[상부위장관 출혈에 의한 토혈은 진단과 동시에 응급처치를 시행해야 합니다.
+
+출혈 정도를 평가하는 것이 치료에 가장 중요합니다.
+
+출혈 정도는 환자의 증상, 혈압과 맥박 등의 활력 징후, 혈액 검사 등으로 평가합니다. 혈압 등 활력징후가 불안하거나 출혈이 심하면 수혈을 할 수도 있지만, 수혈 여부를 결정하는 것은 매우 어려운 일입니다. 위장 내 출혈 여부를 확인하거나 혈액을 제거해 추후 내시경 검사 시 시야를 확보하기 위해서 비위관 삽관(코를 통해 긴 호스를 위까지 삽입하는 처치)을 시행하기도 합니다.
+
+내시경 검사, 상부위장관 조영술, 혈관 조영술, 컴퓨터 단층촬영 및 핵의학 검사(방사성 의약품을 정맥주사하고 장비를 이용해 영상화하는 검사)를 통해 원인 질환을 진단합니다. 토혈 원인에 대한 가장 효과적인 진단법은 내시경 검사입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치료의 목적은 지혈과 재발 방지에 있습니다. 일단 혈압이 안정되면 검사를 통해 출혈의 원인을 찾고 효과적인 치료를 해야 합니다.
+
+여러 검사법 중 상부위장관 내시경은 효과적인 진단법이자 유용한 치료 수단입니다. 내시경을 시행하면 출혈 부위를 적극적으로 치료할 것인지, 약물을 쓸 것인지, 아니면 우선 관찰만 할 것인지 평가할 수 있습니다. 불필요한 입원이나 과도한 치료를 피할 수 있는 것입니다.
+
+고령자, 만성적인 간, 심장, 신장 질환, 간경변증에 의한 정맥류 출혈, 내원 당시 저혈압이나 쇼크 상태, 대변이나 토사물에 선홍색 혈액이 보이는 경우, 대량 수혈, 내시경 시 지속적인 출혈, 궤양의 크기가 2 cm이상인 경우는 적극적인 치료를 해도 예후가 좋지 않습니다.
+
+ 
+
+1. 소화성 궤양 
+
+1) 일반적 치료 및 약물 치료 
+
+치료의 목적은 궤양을 치료하고, 궤양 출혈을 지혈시키며, 재출혈을 예방하는 것입니다. 출혈에 사용되는 약물로는 옥트레오타이드, 소마토스타틴, 바소프레신, 세크레틴, 히스타민 길항제, 양성자펌프 억제제, 프로스타글란딘, 항섬유소용해제 등이 있으나, 현재 궤양성 출혈에 가장 효과적인 약은 양성자펌프 억제제입니다.
+
+ 
+
+2) 내시경 치료 
+
+상부 위장관 출혈은 응급질환으로 내시경을 이용한 다양한 치료법이 개발되었지만 고령화와 함께 심폐질환 및 간질환이 합병되는 경우가 많아 지난 수십 년간 사망률이 크게 감소하지 않았습니다. 소화관 출혈의 내시경 치료는 국소 주입법, 기계적 지혈법, 온열요법 등이 있습니다. 국소 주입법과 기계적 지혈법이 가장 널리 사용되지만, 병변이 여러 개이거나 미만성으로 분포된 경우에는 사용할 수 없습니다. 아르곤 플라스마 응고 소작법 등 온열 요법은 고가의 장비가 필요합니다. 이처럼 치료법마다 장단점이 있어 시술자의 선호에 따라 적절히 선택해 사용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c5cd7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 재출혈의 예방 
+
+양성자펌프 억제제 치료는 재출혈 예방에 효과적입니다.
+
+위궤양은 약물 치료 후 추적 내시경 검사를 시행해 궤양의 치유 및 악성질환 동반 여부를 확인해야 합니다. 특히 출혈이 반복되는 경우 헬리코박터 감염과 관련이 있으므로 헬리코박터 제균이 필요합니다. 비스테로이드 소염제는 끊는 것이 좋으나 계속 사용해야 한다면 최소 용량으로 투여하고, 양성자펌프 억제제나 프로스타글란딘 억제제(미소프로스톨)을 같이 투여합니다. 심장질환 등으로 아스피린을 복용하는 사람에게 헬리코박터 감염이 있다면 제균하는 것이 좋습니다. 과거에 소화성 궤양을 앓았던 사람도 출혈 위험이 높기 때문에 아스피린을 복용하는 동안 양성자펌프 억제제를 투여해야 합니다.
+
+
+
+2. 정맥류 치료 
+
+1) 일반적 치료 및 약물 치료 
+
+정맥류에서는 대부분 대량 출혈이 발생하므로 우선 수액이나 혈액을 공급해 환자의 혈압을 안정화합니다. 그러나 수액이나 혈액을 과도하게 투여하면 문맥압이 상승해 오히려 재출혈 가능성이 있으므로 주의해야 합니다. 정맥류 출혈은 감염의 원인이 될 수 있으며, 감염이 발생하면 재출혈 가능성이 높으므로 경구 항생제를 7일 정도 사용하는 것이 좋습니다.
+
+내시경 치료 전에 정맥류 출혈을 빨리 지혈하기 위해 혈관 수축제를 사용할 수 있습니다. 대표적인 수축제로는 바소프레신, 텔리프레신, 소마토스타틴, 옥트레오타이드가 있습니다.
+
+ 
+
+2) 내시경 치료 
+
+내시경 치료는 내시경적 결찰술, 시아노아크릴레이트를 정맥류 내로 주입하는 내시경적 정맥류 폐쇄술, 내시경적 경화요법이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c5c16]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 경정맥 간내 문맥-전신 단락술 
+
+정맥류 출혈은 간문맥압이 상승해 간으로 흘러야 할 혈류가 식도나 위 점막으로 흘러 정맥이 불거짐으로써 출혈이 발생하는 질환입니다.
+
+전신 단락술은 간문맥과 대정맥 사이에 스텐트 등으로 커다란 통로를 만들어 간문맥압을 낮추는 시술입니다. 식도나 위 점막으로 흐르는 혈류를 심장으로 우회시켜 정맥류 출혈을 치료하고 예방할 수 있습니다.
+
+경정맥 간내 문맥-전신 단락술은 지혈 효과가 95% 이상입니다. 그러나 스텐트 협착이 흔해 1년 이내에 60%에서 협착에 의한 증상이 나타납니다. 최근에는 새로운 스텐트가 개발되어 협착을 예방하고 재시술 가능성을 줄이게 되었습니다. 또한 문맥-전신 단락술은 스텐트로 큰 우회로를 제공해 지혈에는 효과적이지만, 우리 몸의 대사 과정에 의해 생기는 독소를 간에서 처리하지 못해 전신으로 독소가 전파되는 단점이 있습니다. 30-50%에서 간성뇌증(간기능의 악화로 몸의 독소를 처리하지 못해 손떨림, 의식 혼탁, 공간감각 이상, 인격 변화, 혼수 등의 증상이 나타나는 것)이 생기거나 악화될 수 있습니다. 이런 부작용은 시술 전 간성뇌증이 있거나, 65세 이상의 고령인 경우에 잘 발생합니다. 간성뇌증은 일반적 치료제인 락툴로스에 의해 잘 조절되지만, 3-10%는 치료에 반응하지 않아 스텐트를 폐쇄하는 경우도 있습니다.
+
+문맥-전신 단락에 의해 문맥혈류가 간정맥을 통해 바로 심장으로 유입되므로 심장 부하가 증가합니다. 심장질환이 있는 경우에는 심부전을 초래할 수 있고, 문맥의 혈류가 간으로 가지 않고 전신으로 우회되므로 간기능이 악화될 수 있습니다.
+
+
+
+4) 풍선 탐폰 삽입법 
+
+풍선 탐폰(Sengstaken-Blackemore tube, S-B tube)은 기다란 튜브 끝에 2개의 풍선이 달린 기구로 지혈 효과가 80%에 이릅니다. 대량 출혈이 있으면서 내시경으로 치료가 힘든 경우에 일시적으로 사용합니다. 풍선 탐폰을 위장에 충분히 진입시키고 튜브 끝의 풍선을 부풀린 다음 튜브를 잡아당겨 위식도 접합부에 고정한 후, 풍선을 부풀려 정맥류 출혈 부위를 압박함으로써 지혈시킵니다. 그러나 합병증으로 풍선 탐폰의 이탈, 흡인, 식도 괴사 및 천공이 발생할 수 있으므로 24시간 이상은 잘 사용하지 않습니다.
+
+
+
+5) 출혈 예방을 위한 치료 
+
+가장 이상적인 예방법은 정맥류의 발생을 막는 것입니다. 식도 정맥류는 간경변 진단 시 간기능이 어느 정도 유지되는 대상성 간경변증의 40%, 간기능이 떨어진 비대상성 간경변증의 60%에 동반됩니다. 간경변증을 막으려면 B형간염을 예방하고, B형간염 환자는 적극적인 항바이러스제제 치료를 시행하며, 알코올 사용자는 금주해야 합니다.
+
+지혈에 성공했더라도 식도 정맥류 출혈 환자의 약 60%에서는 1-2년 이내에 다시 출혈이 일어납니다. 비선택적 베타차단제를 써서 재출혈 위험을 줄일 수 있습니다.
+
+
+
+3. 말로리바이스 증후군 
+
+말로리바이스 증후군에 의한 출혈 환자의 80-90%는 자연적으로 출혈이 멈추지만, 5% 이내에서는 재출혈이 발생합니다. 내시경 당시 병변 부위에 출혈 소견이 없다면 입원하지 않고 대증적인 치료가 가능합니다. 하지만 출혈이 있다면 내시경을 통한 국소주사법, 열응고법, 클립법, 밴드결찰법 등으로 치료합니다. 내시경으로 치료가 힘들거나 출혈량이 많다면 혈관조영술을 시행해 출혈 혈관에 직접 혈관 수축제를 투여하거나 색전술을 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c5b75]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 정맥류 출혈 치료를 시행하는 경우 수면내시경이 가능한가요?
+
+A. 정맥류 출혈을 비롯해 토혈하는 환자는 혈압 등 생명징후가 불안정하므로 수면 내시경을 위해 약물을 투여하면 부작용이 생길 위험이 높습니다. 더욱이 정맥류 출혈은 약물 대사 능력이 저하된 간경변증 환자에서 나타나므로 약물 부작용 위험이 더욱 높습니다.
+
+
+Q. 정맥류가 있는 경우 음식을 어떻게 먹는 것이 좋을까요?
+
+A. 식도 정맥류가 있다면 딱딱한 음식보다는 부드러운 음식을 섭취해 불거진 혈관이 상처받지 않게 하는 것이 좋습니다. 땅콩, 멸치, 얼음 조각 등 딱딱하고 날카로운 음식을 피하고, 꼭 섭취해야 한다면 소량을 오랫동안 씹어서 삼키도록 합니다. 엿, 카라멜 등 끈적거리는 음식 또한 식도 정맥류에 달라붙을 수 있으므로 삼가는 것이 좋습니다. 무거운 물건을 들거나 갑자기 상체를 일으키면 흉부 내 압력이 상승해 결국 식도 정맥류 내 압력이 상승할 수 있으므로 주의해야 합니다. 정맥류가 있어도 처음에는 피를 토할 정도로 많은 출혈이 생기기보다 소량의 출혈이 있는 경우가 많습니다. 따라서 배변 후 대변이 검게 나왔는지 확인하는 습관이 중요합니다. 한꺼번에 많은 양을 먹어도 혈압이 상승할 수 있으므로 소량씩 자주 섭취하는 것이 좋습니다.
+
+
+Q. 저용량의 아스피린을 복용하고 있는데 위가 걱정되네요.
+
+A. 최근 심혈관 질환 예방을 위해 아스피린을 복용하는 분이 많습니다. 증상이 없어도 아스피린은 미란, 궤양 등 위 점막을 손상시킬 수 있으므로 주의해야 합니다. 단 이런 손상은 모든 사람에게 생기는 것이 아니고 고령, 스테로이드 등 다른 약물을 같이 복용하는 경우, 과거 궤양 또는 궤양 출혈이 있는 경우에 주로 나타납니다. 대부분 소량 출혈로 증상이 없거나 약간 어지러운 정도이며 토혈 등 대량 출혈은 매우 드물게 발생합니다. 그러므로 배변 후 대변의 색깔을 관찰해 변이 까맣게 나오는 경우에는 의사와 상의하는 것이 좋습니다.
+
+
+Q. 객혈과 토혈을 구분할 수 있는 증상(징후)이 있나요?
+
+A. 일반적으로 토혈은 음식물과 함께 나오며, 객혈은 기침이나 거품이 있는 가래를 동반합니다.
+
+
+Q. 토혈(정맥류 출혈)이 있는 경우 위염, 위암 발생 가능성이 있나요?
+
+A. 토혈로 인해 위염이나 위암이 발생하는 것은 아닙니다. 다만 위궤양이나 위암이 있는 경우 토혈이 나타날 수 있기 때문에 내시경으로 확인하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Cieniawski, D., Kuźniar, E., Winiarski, M., Matłok, M., Kostarczyk, W., & Pedziwiatr, M. (Year). Prognostic value of the Rockall score in patients with acute nonvariceal bleeding from the upper.
+
+2. Chung, I. K., Lee, D. H., Kim, H. U., et al. (2009). Guidelines of treatment for bleeding peptic ulcer disease. Korean Journal of Gastroenterology, 54, 298-308.
+
+3. Gralnek, I. M., Dumonceau, J. M., Kuipers, E. J., et al. (2015). Diagnosis and management of nonvariceal upper gastrointestinal hemorrhage: European Society of Gastrointestinal Endoscopy (ESGE) guideline. Endoscopy, 47, a1-a46.
+
+4. Korean Society of Gastroenterology. (Year). 비정맥류 상부위장관 출혈 가이드라인.
+
+5. Laine, L. (2016). Clinical practice. Upper gastrointestinal bleeding due to a peptic ulcer. New England Journal of Medicine, 374, 2367-2376.
+
+6. Laine, L., Yang, H., Chang, S. C., & Datto, C. (2012). Trends for incidence of hospitalization and death due to GI complications in the United States from 2001 to 2009. American Journal of Gastroenterology, 107, 1190-1195; quiz 1196.
+
+7. Lee, J. H., Choi, K. D., Jung, H. Y., et al. (2018). Seroprevalence of Helicobacter pylori in Korea: a multicenter, nationwide study conducted in 2015 and 2016. Helicobacter, 23, e12463.
+
+8. Loscalzo, J., Fauci, A., Kasper, D., Hauser, S., Longo, D., & Jameson, J. (Eds.). (2022). Harrison’s Principles Of Internal Medicines (21st ed.).
+
+9. Quan, S., Frolkis, A., Milne, K., et al. (2014). Upper-gastrointestinal bleeding secondary to peptic ulcer disease: incidence and outcomes. World Journal of Gastroenterology, 20, 17568-17577.
+
+10. Rockall, T. A., Logan, R. F., Devlin, H. B., & Northfield, T. C. (1996). Risk assessment after acute upper gastrointestinal haemorrhage. Gut, 38, 316-321.
+
+11. Sung, J. J., Chiu, P. W., Chan, F. K. L., et al. (2018). Asia-Pacific working group consensus on non-variceal upper gastrointestinal bleeding: an update 2018. Gut, 67, 1757-1768.
+
+12. Tielleman, T., Bujanda, D., & Cryer, B. (2015). Epidemiology and risk factors for upper gastrointestinal bleeding. Gastrointestinal Endoscopy Clinics of North America, 25, 415-428.
+
+13. Wang, C. Y., Qin, J., Wang, J., Sun, C. Y., Cao, T., & Zhu, D. D. (2013). Rockall score in predicting outcomes of elderly patients with acute upper gastrointestinal bleeding. World Journal of Gastroenterology, 19, 3466-3472.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

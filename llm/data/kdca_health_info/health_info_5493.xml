@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[기흉]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5493]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 기흉은 흉강에 공기가 들어가 폐가 찌그러지면서 흉통과 호흡곤란을 일으키는 질환으로, 환자의 40~50%에서 재발할 수 있습니다.
+• 자연기흉은 폐기포가 터지면서 발생하며, 주로 10~30대의 키 크고 마른 남자에서 나타나며, 외상성 기흉은 갈비뼈 골절 등 외부 손상으로 발생합니다.
+• 긴장성 기흉은 흉강 내 압력이 높아져 호흡곤란, 청색증, 저혈압이 나타나므로 즉각적인 응급조치가 필요합니다.
+• 치료는 폐를 다시 펴주고 재발을 막는 것을 목표로 하며, 환자의 상태와 재발 여부, 폐의 상태를 고려해 치료법을 선택하게 됩니다.
+• 흡연은 재발 위험을 높이므로 반드시 금연해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐는 호흡을 통해 혈액에 산소를 공급해주고 혈액 속에서 이산화탄소를 배출하는 역할을 하는 장기입니다. 기흉이란 폐가 찌그러져서 이러한 가스교환이 방해를 받아 호흡곤란을 일으키는 질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기흉이란 한자로 '공기'라는 의미의 '기(氣)'와 '가슴'이라는 의미의 '흉(胸)'자가 합쳐진 말로 가슴 속에 공기가 찼다는 의미입니다. 사람은 두 개의 폐가 양쪽 가슴 속 빈 공간(흉강)에 들어차 있는데, 어떤 원인으로 인해 빈 공간에 공기가 들어가 폐를 찌그러뜨리면서 흉통과 호흡곤란 등의 증상을 일으키는 상태를 말합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d02d061]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기흉은 원인에 따라 저절로 발생한 '자연기흉'과 외상에 의해 발생한 '외상성 기흉', 두 가지로 크게 구분됩니다. 
+
+1. 자연기흉
+1) 일차성 자연기흉 
+일차성 자연기흉은 질병이 없는 10대부터 30대의 키가 크고 마른 남자에서 잘 발생합니다. 폐의 표면에 풍선처럼 부푼 폐기포가 저절로 터지면서 구멍이 생겨 들이마신 공기가 흉강으로 새어 나가 발생합니다. 폐기포가 생기는 원인에 대해서는 아직 완벽하게 밝혀지지 않았습니다. 성장 과정에서 폐의 윗부분이 폐혈관의 성장에 비해 더 빠르게 성장하면서 혈액공급이 부족해져서 발생한다거나 폐 윗부분의 폐포 내부 압력이 상대적으로 높기 때문에 발생한다고 추정하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d02d421]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 이차성 자연기흉 
+이차성 자연기흉은 일차성 자연기흉에 비해 비교적 나이가 많은 사람에게서 발생합니다. 천식이나 폐렴, 폐결핵, 만성 폐쇄폐질환 등 기존 폐질환이 있던 사람에게서 발생합니다. 또한 마르팡 증후군이나 폐암 환자에서도 발생할 수 있습니다.
+
+2. 외상성 기흉
+외상성 기흉은 외부로부터의 상처로 인해 발생한 기흉을 의미합니다. 외상성 기흉의 가장 흔한 원인은 교통사고나 낙상에 의해 갈비뼈가 골절되면서 인접해 있는 폐를 찔러 손상하는 것입니다. 또한 칼 등 날카로운 물체에 가슴 부위를 찔리거나 총에 맞아 기흉이 발생하는 경우도 있습니다. 그 외에 기흉은 병원에서 시행하는 각종 시술이나 처치 과정에서 발생하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d02d547]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 긴장성 기흉
+긴장성 기흉은 자연기흉이나 외상성 기흉 어느 경우에나 발생할 수 있는, 즉각적인 응급조치가 필요한 상황을 말합니다. 일반적으로 폐의 표면에 구멍이 생겨 발생하는 기흉은 폐가 찌그러지면서 폐 표면의 구멍도 쪼그라들면서 막혀 더는 흉강 속으로 공기가 새어 나오지 않게 됩니다. 그러나 아주 드물게 구멍이 막히지 않고 계속 공기가 새어 나오는 경우가 발생하는데, 이러한 경우 환자가 숨을 들이쉴 때는 공기가 흉강 속으로 들어오지만 숨을 내쉴 때는 흉강 속의 공기가 나가지 못해 흉강 속의 압력이 점점 높아지는 상태를 긴장성 기흉이라고 합니다.
+긴장성 기흉이 발생하면 기흉이 발생한 쪽 폐가 완전히 찌그러지고 심장과 반대쪽 폐를 압박해 심한 호흡곤란과 청색증, 저혈압 등이 발생해 목숨이 위험한 상태에 이를 수 있으며, 즉각적인 응급조치가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d02d4b4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기흉의 두 가지 중요한 증상은 흉통과 호흡곤란입니다. 흉통은 가장 흔한 증상으로 운동과는 관계없이 생기며, 보통 24시간 이내에 좋아집니다. 자연기흉이 발생한 환자의 상당수는 폐기포가 처음 터지는 순간에 날카롭게 찌르는 듯한 통증을 경험합니다. 이러한 통증은 점차 둔하고 지속적인 통증으로 바뀝니다.
+호흡곤란은 기흉의 정도가 심하지 않을 경우에는 가슴이 답답한 정도로 느껴질 수 있지만 기흉의 크기가 커질 경우 점점 심해집니다. 호흡곤란은 폐질환이 있는 환자에게서 더 심하게 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 문진과 진찰
+문진을 통해 흉통과 호흡곤란이 뚜렷한 환자의 경우 비교적 쉽게 진단할 수 있습니다. 한편 기흉은 환자의 40~50% 정도에서 재발하므로 환자의 과거력을 통해서도 기흉을 의심할 수 있습니다. 진찰을 통해 가슴벽 운동 감소, 호흡음 감소 또는 타진상(신체를 두드려서 진찰) 공명 등의 소견이 있으면 기흉을 의심할 수 있습니다.
+
+2. 흉부 방사선
+흉부 방사선 검사는 기흉의 진단과 정도를 확인할 수 있는 필수적인 검사입니다. 아래 사진에서 보이는 바와 같이 정상인의 폐는 흉강 내부 전체를 채우고 있는데, 기흉 환자의 경우 흉강 내에 공기가 차 있는 부분과 찌그러진 폐가 구분되어 보입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d02d664]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 흉부 컴퓨터단층촬영
+흉부 컴퓨터단층촬영(Computed Tomography, CT)은 통상적으로 기흉 자체를 진단하기 위해 시행하지는 않습니다. 수술 치료가 필요한 환자에서 기흉의 원인이 되는 폐기포의 위치와 크기를 평가하거나 동반된 다른 질환의 여부를 확인하기 위해 사용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기흉이 발생하면 숨이 차기 때문에 환자는 안정을 취해야 하고 대개는 입원해서 치료를 받게 됩니다. 기흉에 대한 구체적인 치료는 환자의 상태와 재발 여부, 폐의 상태 등을 종합적으로 고려해 선택하게 됩니다. 기흉의 치료 목표는 찌그러진 폐를 다시 펴주고, 재발을 방지하는 것입니다.
+
+1. 관찰
+기흉의 양이 적고(흉부 방사선 검사에서 폐가 벽에서 2 cm 이하로 쪼그라든 경우), 특별한 증상이 없으며, 기흉이 더 이상 커지지 않는 경우에는 별다른 치료 없이 환자를 안정시킨 상태에서 산소를 투여하며 경과를 관찰하는 방법을 사용할 수 있습니다. 
+
+2. 흉강천자
+주삿바늘로 흉강 내 공기를 빼내어 폐를 팽창시켜 주는 방법으로, 작은 기흉이나 증상이 별로 없는 경우 사용할 수 있습니다. 그러나 공기 유출이 계속되는 상황에서는 반복해서 흉강천자를 해야 하는 경우가 많습니다.
+
+3. 흉관삽입술
+기흉 치료에 가장 널리 사용되는 방법으로 기흉이 발생한 흉강 내에 흉관(튜브)을 삽입하고, 반대쪽 끝부분을 물이 담긴 특수한 용기에 연결한 뒤 공기를 뽑아내어 폐를 펴주는 치료법입니다. 흉관삽입술은 지속적인 공기 유출이 있는 경우에도 찌그러진 폐를 효과적으로 펴줄 수 있으며, 필요에 따라 흡인장치를 연결해 치료 효과를 높일 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d02d781]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흉관삽입술을 시행해야 하는 경우
+- 기흉의 크기가 큰 경우(흉부 방사선 검사에서 폐가 벽에서 2 cm 이상 쪼그라든 경우)
+- 긴장성 기흉인 경우
+- 호흡곤란 등 증상이 있는 경우
+- 기흉이 양쪽에 발생한 경우
+- 반대편 폐에 질환이 있는 경우
+- 흉부 방사선 사진에서 기흉의 크기가 점점 커지는 경우
+
+4. 화학적 흉막유착술
+흉관삽입술을 시행하고 나서도 공기가 계속 새면 새는 부위를 막아주어야 합니다. 비수술적 방법인 화학적 흉막유착술은 흉관을 통해 약품을 투여해 흉막에 염증을 일으켜 공기가 새는 부위를 막는 방법입니다. 화학적 흉막유착술은 기흉이 발생하는 공간인 흉강 자체를 없애버리는 효과가 있습니다. 흉막유착술 약품으로는 테트라사이클린 계열의 항생제나 석면이 없는 의료용 활석가루가 가장 흔히 이용됩니다.
+
+5. 수술
+자연기흉의 재발률은 약 40~50%이며, 대부분 첫 발병 후 2년 이내에 재발하는 경우가 많습니다. 한 번 재발한 환자에서 다시 재발할 확률은 80% 이상으로 매우 높습니다. 흉관삽입술은 폐를 다시 펴주는데 매우 효과적인 치료법이나 재발을 막는 데는 효과적이지 않습니다.
+
+수술을 시행해야 하는 경우
+- 공기 유출이 심해서 흉관삽입술만으로 폐가 펴지지 않는 경우
+- 공기 유출이 7~10일 이상 계속되는 경우
+- 재발성 기흉인 경우
+- 반대쪽 폐에 전에 기흉이 발생한 적이 있었던 경우
+- 양쪽에서 동시에 기흉이 발생한 경우
+- 흉부 방사선 검사 또는 컴퓨터단층촬영에서 큰 폐기포가 보이는 경우
+- 비행기조종사, 잠수부나 외국여행자 등 특수직업 종사자인 경우
+- 병원이 먼 외딴곳에 살거나 살 예정인 경우
+- 혈흉, 농흉 등 합병증이 있는 경우
+
+기흉에 대한 수술 치료는 폐기포 절제술과 기계적 흉막유착술로 구성되어 있습니다. 과거에는 가슴을 절개하고 들어가 폐기포를 잘라내고 손으로 직접 봉합했으나 근래에는 흉강경 및 자동봉합기 등의 발전으로 1~2 cm 미만의 작은 상처를 통해 시행하는 비디오 흉강경수술이 주로 사용되고 있습니다. 비디오 흉강경수술은 흉터가 작고, 수술 후 통증이 적으며 환자의 회복 기간도 빠르다는 장점이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d02d814]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[118]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 기흉 환자가 주의해야 할 사항
+현재 기흉의 재발을 증가시키는 요소로 입증된 것은 흡연뿐입니다. 그러므로 자연기흉의 병력을 가진 환자는 재발위험을 낮추기 위해 절대 금연해야 합니다.
+
+2. 월경성 자연기흉
+월경성 자연기흉이란 월경과 연관되어 20~30대 여성에서 발생하는 자연기흉을 의미합니다. 월경성 자연기흉은 보통 월경 시작 후 48~74시간 이내에 발생하며, 90% 이상 우측에서 발생합니다. 그러나 임신이나 경구피임약 복용 등으로 배란이 일어나지 않을 때에는 절대 발생하지 않는 특징이 있습니다. 월경성 자연기흉의 정확한 원인은 아직 알려져 있지 않으나 월경과 관련된 호르몬 환경의 변화나 자궁내막증 등에 의한 것으로 추정되고 있습니다. 치료방법은 일반적 자연기흉과 동일하지만 치료 후에 배란억제제를 투여합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 이두연. (2006). 알기쉬운 가슴 외과학. 큐라인.
+2. Grondin, S. C., Fry, W. A. (2006). Spontaneous pneumothorax. In Sellke, F. W., del Nido, P. J. &amp; Swanson, S. J.(Eds.). Sabiston &amp; Spencer Surgery Of The Chest (pp.427-430). Elsevier Saunders.
+3. Light, R. W., Lee, Y. G. (2020). Treatment of primary spontaneous pneumothorax in adult.
+https://www.uptodate.com/contents/treatment-of-primary-spontaneous-pneumothorax-in-adults?search=pneumothorax&amp;source=search_result&amp;selectedTitle=4~150&amp;usage_type=default&amp;display_rank=4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

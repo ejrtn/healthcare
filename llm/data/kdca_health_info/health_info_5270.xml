@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[유행각결막염]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5270]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 유행각결막염은 전염성이 강한 바이러스 눈병으로, 주로 아데노바이러스에 의해 발생하며 결막과 각막에 염증을 일으킵니다.
+• 감염된 눈 분비물이나 손, 수건, 세면도구 등을 통해 쉽게 전파되며, 평균 7일의 잠복기 후 증상이 나타났다가 2~3주 내에 자연 호전됩니다.
+• 주 증상으로는 결막 충혈, 부종, 눈물흘림, 이물감, 눈부심 등이 있으며, 심할 경우 각막혼탁이나 결막흉터가 남을 수도 있습니다.
+• 특별한 항바이러스제는 없으며, 인공눈물과 냉찜질로 증상을 완화하고, 이차감염 예방을 위해 항생제 안약을 사용할 수 있습니다.
+• 전염 예방을 위해 손 씻기, 눈 비비지 않기, 개인 위생용품 분리 사용, 다중이용시설 방문 자제 등이 필수적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[결막은 눈꺼풀의 안쪽과 안구의 가장 바깥쪽을 덮고 있는 얇고 투명한 점막으로 눈물의 점액층을 생성하고, 안구 표면을 보호하는 면역기능에 관여하며, 미생물 등의 외부 물질로부터 눈을 보호하는 기능을 합니다. 각막 및 결막 등 안구표면조직은 외부로 노출되어 있어, 세균, 진균, 바이러스 등 여러가지 미생물에 감염되어 염증을 일으킬 수 있습니다.
+유행각결막염(epidemic keratoconjunctivitis)은 주로 아데노바이러스에 의해 생기는 바이러스각결막염이며 전염력이 강하기 때문에 안과적으로 중요한 질환 중의 하나입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf23acc4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유행각결막염은 아데노바이러스에 의해 발생하는 각막과 결막의 염증을 지칭합니다. 여러 아형의 아데노바이러스가 결막 상피세포 내에서 증식하면서 여포성 결막염증을 유발하고, 각막 상피세포 내에서 증식하면서 각막염증을 유발합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유행각결막염은 아데노바이러스 8, 19 형이 주 원인이지만 3, 4, 7, 8, 37 등 여러 아형에 의해서도 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf23af41]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유행각결막염은 전염성이 강한 바이러스 질환입니다. 감염된 눈에서 나오는 분비물, 감염자의 눈을 만진 손, 수건, 세면도구, 침구 등의 매개체를 통해 감염됩니다. 바이러스가 안구 표면에 도달하면, 결막 및 각막 상피세포에 침투하여 증식함으로써 결막염 및 각막염을 일으킵니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[결막 및 각막에 바이러스가 침투하여 감염이 된 후 보통 4~10일(평균 7일)의 잠복기를 거쳐 임상증상이 나타납니다. 대개 증상 발현 후 14일 정도의 경과를 거친 후 자연 호전되나, 심한 경우 3~4주 이상 지속되기도 합니다. 대부분 별다른 후유증을 남기지 않고 2~3주 내로 호전되어 예후가 양호합니다.
+각결막염 호전 후에도 각막상피밑혼탁이 남는 경우가 있으나 대부분 자연 호전되며, 혼탁이 남더라도 시력에 영향을 주는 일은 드뭅니다. 심한 염증반응이 나타날 경우, 드물게 영구적인 결막흉터, 결막붙음증(symblepharon, 염증으로 인해 눈꺼풀결막과 눈알결막이 붙는 것), 눈꺼풀처짐. 각막혼탁에 의한 시력저하를 초래하는 경우가 있습니다.
+소아, 노인 등 면역력이 약한 환자나 콘택트렌즈 착용 등 안구표면의 손상 우려가 있는 환자에서는 세균 등에 의한 이차감염이나 각막혼탁의 가능성이 증가하여 좀 더 예후가 좋지 않을 수 있으므로 주의 깊게 관찰해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[아데노바이러스가 결막 및 각막 상피세포 안에서 증식하면서 세포손상을 유발하고, 이에 대응하는 숙주의 염증반응 및 면역반응에 의해 결막에서는 충혈, 부종, 눈물흘림, 분비물 등이, 각막에서는 각막상피침윤, 각막상피손상, 점모양 각막염 등이 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[모든 연령대에서 발생하며 전염력이 매우 강한 질환으로 세계 전 지역에서 나타납니다. 국내에서는 여름철에 수영장 등을 통해 감염이 발생하는 경우가 많으나, 다른 계절에도 가족이나 단체생활과 관련되어 쉽게 전파될 수 있어 주의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유행각결막염은 급성결막염의 흔한 원인 중 하나입니다. 
+알레르기결막염은 환경적 요인에 의해 대부분 두눈에 동시에 발병하는 것이 특징인 반면, 유행각결막염은 접촉에 의해 전파되는 바이러스 감염으로, 대개 한쪽 눈에 먼저 발생하고 며칠 후 반대쪽 눈에 옮는 경우가 많습니다. 두눈에 발병한 경우 대개 먼저 발병한 눈의 증상이 더 심하게 나타납니다.
+눈 검사에서는 급성 여포결막염(acute follicular conjunctivitis) 형태로, 결막의 충혈과 부종, 결막밑출혈, 삼출성 분비물, 눈꺼풀부종 등이 나타납니다. 환자는 안구의 이물감, 불편감, 따가움, 눈부심, 시력저하 및 과다한 눈물흘림 등의 증상을 느낍니다. 바이러스에 감염된 눈 쪽의 귀앞 림프절이 붓고, 발열, 두통, 피로감 등 전신증상이 나타날 수 있으며, 어린이에서 전신증상을 보이는 경우가 더 흔하게 나타납니다.
+결막염 발생 후 보통 4일 정도 지나 각막염이 발생하며, 이는 각막 침범이 드문 다른 결막염과 감별되는 특징이 됩니다. 각막을 침범하면 환자의 눈부심과 이물감은 보다 심해지고 시력저하를 호소하기도 합니다. 각막상피침윤을 통해 점모양 각막염이 발생할 수 있으며, 보통 2주 정도 후 자연히 소실됩니다. 염증이 심하면 결막에 거짓막이 발생할 수 있으며, 이는 결막흉터와 결막붙음증을 유발할 수 있어 주의 깊게 관찰해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf23b0d1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유행각결막염은 보통 병력 청취와 세극등현미경검사 등을 통한 안과검진에 의해 임상적으로 진단합니다. 다만 유행각결막염에 의해 나타나는 급성결막염의 증상 및 징후는 대부분 비특이적이므로 감별진단에 큰 도움이 되지 않습니다. 바이러스결막염의 분비물은 삼출성인 경우가 많은 반면, 세균에 의한 각막염은 화농성 분비물이 특징이라는 점이 감별에 도움을 줄 수 있습니다. 또한 유행각결막염은 각막상피침윤을 통해 각막상피손상, 점모양 각막염 등의 병변을 유발하는 경우가 흔하다는 점이 다른 결막염과 구분되는 특징입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf23b1e7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[결막의 분비물을 채취하여 바이러스 배양, 중합효소연쇄반응(polymerase chain reaction, PCR), 효소면역분석(antigen-based immunoassay) 등의 검사법을 이용하여 아데노바이러스를 분리할 수 있으나, 실제 진료에서는 비용-효과 문제로 많이 사용하지는 않고, 병력 및 임상양상으로 진단하고 치료하면서 경과를 관찰합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[현재까지 아데노바이러스에 대한 특별한 항바이러스제는 없으며, 인체의 면역에 의해 자연 치료되는 경우가 많습니다. 감기와 마찬가지로, 대증치료를 통해 증상을 완화하고 이차감염 등의 합병증을 막는 것이 치료의 목적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이차감염의 우려가 있을 경우 항생제 안약을 사용할 수 있으나, 강력한 항생제는 오히려 내성균 증식을 조장할 수 있어 사용하지 않는 것이 좋습니다. 
+시력저하가 심하거나, 점모양 각막염, 홍채염, 거짓막 등이 생긴 경우 스테로이드 제제의 사용을 고려하나, 발병 초기 스테로이드 사용은 바이러스를 증가시킬 우려가 있어 주의해야 합니다.
+각막상피밑혼탁이 발생한 경우에도 스테로이드 안약을 조심스럽게 사용할 수 있으며, 비스테로이드소염제 안약의 사용도 고려합니다. 다만 스테로이드를 사용한 후 감량하면 상피밑혼탁이 다시 심해지고 시력저하가 나타나는 소위 '스테로이드 중독' 증상이 발생할 수 있어 주의해야 합니다.
+눈부심이 심하거나 홍채염이 있을 경우 조절마비제의 사용이 도움이 될 수 있습니다.
+그 외 인공눈물의 사용도 증상 완화에 도움이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[냉찜질로 부종과 통증 등의 증상을 완화하고, 색안경으로 햇빛을 차단하여 눈부심을 완화할 수 있습니다.
+
+결막에 거짓막이 생긴 경우, 거짓막이 두껍거나 구석결막으로 유착이 우려될 때는 제거하는 것이 좋습니다.
+안대는 하지 않는 것이 좋으며, 소금물이나 비눗물로 눈을 세척하면 각결막의 손상 및 염증이 심해질 수 있어 금기입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유행각결막염은 직접 혹은 간접 접촉에 의해 전파되며, 증상 발현 후 2주간 바이러스의 전염력이 강하므로 이 기간 동안 특별한 주의가 필요합니다. 
+가급적 눈을 손으로 만지지 말고, 만졌을 경우에는 꼭 깨끗하게 씻어야 합니다.
+가렵다고 눈을 비비지 말고, 증상 완화를 위해서 냉찜질을 하거나 냉장 보관한 인공눈물을 점안하는 것이 도움이 됩니다.
+감염된 눈에서 증식한 바이러스가 눈의 분비물이나 수건, 침구 등의 매개물을 통해 전염될 수 있으므로 가족 및 주변 사람에게 전염을 막기 위해 수건, 세면도구, 침구 등을 따로 사용하는 것이 중요합니다.
+사람들이 많이 모이는 곳에 가지 않는 것이 바람직하며, 감염된 손으로 문 손잡이, 지하철이나 버스의 손잡이 등을 잡을 경우에도 타인에게 전염 우려가 있으므로 주의해야 합니다. 특히 목욕탕, 수영장 등에서 바이러스를 퍼뜨려 불특정 다수를 감염시킬 위험이 있기 때문에 충혈, 분비물, 통증 등이 있을 경우에는 수영장, 목욕탕 등의 다중이용시설 방문을 자제하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대부분 자연히 치유되지만 심한 염증과 동반된 거짓막, 각막상피침윤, 점모양 각막염, 각막혼탁, 이차감염 등이 생기지 않는지 관찰하기 위해 완전 치유될 때까지 안과에서 정기적인 외래 진료를 받는 것이 좋습니다.
+각결막염의 치유 후에도 각막상피밑침윤 등의 합병증이 발생할 경우, 호전 여부 및 시력 회복의 관찰을 위해 정기적인 외래 진료를 받는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[아데노바이러스에 의한 유행각결막염은 적절한 진단과 치료가 이루어지면 대부분 합병증 없이 잘 회복하나, 간혹 다음과 같은 합병증이 발생할 수 있습니다. 
+
+(1) 각막상피밑침윤
+염증의 호전 후 각막 상피 아래에 하얗게 침윤이 발생할 수 있으며, 면역반응과 관련이 있을 것으로 생각합니다. 수개월에서 수년간 지속될 수 있으며 시력저하나 불편감을 초래할 수 있으나, 대부분 자연히 회복되며 영구적인 시력저하를 유발하는 경우는 드뭅니다.
+
+(2) 이차감염 
+바이러스에 의해 안구 표면이 손상되면 세균 등에 의한 이차감염에 의해 각막염, 각막궤양 등이 발생할 수 있으며, 후유증으로 영구적 각막혼탁이 남아 시력저하를 유발할 수 있어 주의해야 합니다.
+
+(3) 안구건조증 
+결막에 심한 염증이 생기면 눈물을 만드는 세포 역시 손상되어 눈물층이 불안정해질 수 있습니다. 이런 이유로 눈병을 앓고 난 후 많은 환자들이 눈의 불편감을 호소하지만, 대부분 시간이 지나 안구 표면 세포들이 재생되면서 자연히 호전됩니다.
+
+(4) 염증이 심한 경우 드물게 영구적인 결막흉터, 눈물점협착, 결막붙음증, 눈꺼풀처짐, 각막혼탁에 의한 시력저하를 초래할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[감염된 눈의 분비물이나 매개물(수건, 세면도구, 침구 등)을 만진 손을 통해 전염되는 경우가 가장 많습니다. 눈이 불편하다고 해서 감염된 눈을 만지지 않아야 하고, 손을 자주 씻는 것이 중요합니다.
+병원 내에서 환자 사이에 빠르게 전염될 수 있으므로 의심 환자 발생 시 다른 환자와 접촉을 차단해야 하며, 환자가 접촉한 의자, 문손잡이 등도 철저히 소독해야 합니다. 의료진의 손, 기구, 불결한 안약 등에 의해서도 전염될 수 있으므로 의료종사자의 철저한 주의 및 손씻기, 환자검진용 의자 및 세극등현미경, 안압계, 시험용 콘택트렌즈를 비롯한 각종 기구의 소독, 안약 감염 관리 등이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf23b2f4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[평소 눈을 비비지 말고 손을 자주 씻는 습관을 갖는 것이 중요하며, 유행각결막염이 많이 발생하는 계절에는 개인위생에 각별히 신경을 쓰고, 다중이용시설을 방문할 때 주의가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 아이가 수영장에 다녀온 후 유행각결막염에 걸렸습니다. 전염을 어떻게 예방해야 하나요?
+
+A. 유행각결막염은 아주 쉽게 전염이 되기 때문에 주위 사람에게 옮기지 않도록 하는 것이 중요합니다. 발병 후 약 2주 동안은 전염력이 있기 때문에 세심한 주의가 필요합니다. 환자가 사용하는 물건(수건이나 세수대야 등)은 다른 사람이 같이 사용하지 않도록 합니다. 환자를 포함하여 모든 가족은 가급적 눈을 만지지 말고, 만진 전 후에는 반드시 손을 잘 씻어야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 한국외안부연구회. 각막 (제3판, Ch.13). 일조각.
+2. Adenovirus-Associated Epidemic Keratoconjunctivitis Outbreaks–Four States, 2008-2010, Weekly, August 16, 2013, 62(32);637-641.
+3. American Academy of Ophthalmology. (2020). Epidemic keratoconjunctivitis. Retrieved August 4, https://www.aao.org/image/epidemic-keratoconjunctivitis-2  
+4. Azari AA, Barney NP. (2013). Conjunctivitis: A Systematic Review of Diagnosis and Treatment. JAMA. 310(16),1721-1730.
+5. Jin X, Ishiko H, Ha NT, et al. (2006). Molecular epidemiology of adenoviral conjunctivitis in Hanoi, Vietnam. Am J Ophthalmol. 142:1064-6. 
+6. Kinchington PR, Romanowski EG, Gordon YJ. Prospects for adenoviral antivirals. J Antimicrob Chemother. 2005; 55:424-9. 
+7. Romanowski EG, Pless P, Yates KA, et al. (2005). Topical cyclosporine A inhibits subepithelial immune infiltrates but also promotes viral shedding in experimental adenovirus models. Cornea, 24:86-91.
+8. Sambursky, Robert, et al. (2006). The RPS adeno detector for diagnosing adenoviral conjunctivitis. Ophthalmology 113.10, 1758-1764.
+9. Sambursky, Robert, et al. (2013). Sensitivity and specificity of a point-of-care matrix metalloproteinase 9 immunoassay for diagnosing inflammation related to dry eye. JAMA ophthalmology 131(1), 24-28.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

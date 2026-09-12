@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[심장 판막 질환]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6771]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 심장은 네 개의 판막을 통해 혈액이 한 방향으로 흐르게 합니다. 이 판막이 좁아지거나(협착) 잘 닫히지 않으면(역류) 혈액의 흐름에 문제가 생기고 심장에 무리가 갈 수 있습니다.
+• 주요 증상으로는 호흡 곤란, 가슴 통증, 실신(잠깐 의식을 잃는 것) 등이 있습니다.
+• 심장 초음파 검사는 이러한 문제를 진단하는 데 가장 중요합니다. 치료 방법으로는 약물 치료, 수술, 최신 시술(경피적 판막 성형술) 등이 있습니다.
+• 이러한 문제는 조기에 발견하는 것이 중요합니다. 규칙적인 생활습관 관리와 정기 검진은 병의 경과를 좋게 하는 데 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심장에는 여닫이문 역할을 하는 네 개의 판막이 있습니다. 심방과 심실 사이에 승모판막과 삼첨판막, 심실과 대혈관 사이에 대동맥판막과 폐동맥판막이 있습니다. 
+혈액은 심장이 수축하고 이완할 때 판막이 열리거나 닫힘에 따라 심방에서 심실로 흐른 후 심실에서 대혈관으로 흐릅니다. 하지만 판막에 이상이 생기면 문이 잘 열리지 않거나 닫히지 않게 됩니다.
+심장 판막 질환은 이러한 판막의 이상으로 인해 혈액의 흐름에 문제가 생기는 질환입니다. 이 경우 심장은 더 강하게 일해야 하며, 시간이 지나면 심장 기능이 약해질 수 있습니다. 판막이 잘 열리지 않아 좁은 문을 통해 혈액이 잘 흐르지 못하는 상태를 '판막 협착'이라고 합니다.판막이 잘 닫히지 않아 이미 지나갔던 혈액의 일부가 다시 뒤로 새는 경우를 '판막 역류'라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b8b9eca1e8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[성인에서는 승모판막과 대동맥판막에 이상이 생기는 경우가 가장 많습니다. 이러한 판막 질환은 주로 시간이 오래 지나면서 서서히 나빠집니다. 하지만, 어떤 판막의 역류는 갑자기 생길 수도 있습니다. 
+폐동맥판막의 문제는 주로 선천성 심장병이 있는 어린이에게서 발견됩니다.  삼첨판의 역류는 다른 심장병이나 왼쪽 판막 문제로 인해 발생하는 경우가 많습니다. 
+
+여러 개의 판막이 동시에 손상되거나, 한 판막에서 좁아짐(협착)과 새는 현상(역류)이 함께 나타나는 경우도 종종 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[과거에는 류마티스열 때문에 승모판이라는 판막에 문제가 생기는 경우가 많았습니다. 하지만 생활 수준이 좋아지고 약으로 치료가 가능해지면서 이런 경우는 많이 줄었습니다. 최근에는 평균 수명이 늘어나면서, 노화에 따른 퇴행성 판막 질환이 많아졌습니다. 특히, 대동맥판이라는 판막이 좁아지는 대동맥판 협착이 가장 흔하게 나타납니다. 
+
+1. 퇴행성 판막 질환 나이가 들면서 심장의 판막이 두꺼워지고, 석회가 끼어 잘 열리거나 닫히지 않을 수 있습니다. 특히 대동맥판 협착은 노년층에서 많이 발생합니다. 2. 선천성 판막 질환 태어날 때부터 심장 판막에 구조적 문제가 있는 경우입니다. 예를 들어, 이엽 대동맥판은 가장 흔한 선천성 판막 기형으로, 시간이 지나면서 협착(좁아짐)이나 역류(거꾸로 흐름)로 진행될 수 있습니다. 
+3. 류마티스성 판막 질환 어렸을 때 류마티스열을 앓은 이후 심장의 판막이 손상되어 발생합니다. 최근 우리나라에서는 많이 줄었지만, 일부 다른 나라에서는 여전히 중요한 원인입니다. 
+4. 기타 원인감염성 심내막염: 세균 감염으로 인해 판막이 손상될 수 있습니다. 대동맥 질환: 대동맥 벽이 늘어나거나 찢어지면 판막이 제대로 작동하지 않을 수 있습니다. 심근경색: 판막을 지탱하는 근육이 손상되면 급성 판막 역류가 생길 수 있습니다. 나이가 들면서 심장 초음파검사에서 경미한 판막 역류가 발견될 수 있지만, 대부분 큰 문제는 없습니다. 다만, 정기적인 검진이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b1007d0cc8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심장 판막 질환은 두 가지 경우로 나뉩니다:만성 판막 질환: 오랜 시간에 걸쳐 서서히 진행됩니다.초기에는 별다른 증상이 없을 수 있지만, 일정 수준 이상 진행되면 호흡이 힘들어지거나, 가슴이 아프거나, 기절하는 등의 증상이 나타날 수 있습니다. 치료하지 않으면 심부전(심장이 약해져서 몸에 혈액을 충분히 보내지 못하는 상태), 부정맥(심장 박동이 불규칙하게 됨), 뇌졸중(중풍) 등의 합병증이 생길 위험이 큽니다. 최근에는 초음파 검사와 같은 영상 기술이 발달하여 증상이 없을 때도 조기에 발견할 수 있습니다. 적절한 시기에 치료를 받으면 증상과 생존율을 크게 개선할 수 있습니다. 특히 대동맥판 협착은 증상이 나타나기 전과 후의 예후가 크게 달라지므로, 정기적인 추적 관찰이 중요합니다.급성 판막 질환: 심장 내막에 세균으로 인한 감염(감염성 심내막염), 대동맥 벽이 찢어짐(대동맥 박리), 심근경색으로 인한 심장 안의 작은 근육이 찢어짐(유두근 파열) 등으로 인해 갑자기 판막 기능이 떨어질 수 있습니다.이 경우 갑자기 폐에 물이 차면서 숨쉬기 힘들거나 혈압이 떨어지면서, 응급 수술이 필요한 경우가 많습니다. 증상이 갑자기 나빠지면 바로 병원에 가야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심장 판막은 혈액이 한쪽 방향으로만 흐르도록 도와주는 문과 같은 역할을 합니다. 협착(좁아짐): 판막이 잘 열리지 않아 심장이 혈액을 더 세게 밀어내야 합니다. 이 때문에 심장 근육이 두꺼워지고(심근 비대), 결국 약해질 수 있습니다. 역류(샘): 판막이 잘 닫히지 않아 혈액이 거꾸로 흐를 수 있습니다. 그 결과 심장이 필요 이상으로 많은 혈액을 처리하게 되어 심장이 점점 늘어나고 기능이 떨어집니다. 
+이러한 변화가 계속되면 심장 전체에 압력 과부하(협착)나 부피 과부하(역류)가 생길 수 있습니다. 시간이 지나면서 다음과 같은 심각한 문제로 이어질 수 있습니다.심부전: 심장이 제대로 기능하지 못해 몸에 필요한 혈액을 충분히 공급하지 못하는 상태입니다. 부정맥: 심장이 불규칙하게 뛰는 상태로, 너무 빠르거나 느리게, 또는 불규칙한 박동을 보일 수 있습니다. 폐고혈압: 폐 혈관의 압력이 비정상적으로 높아지는 상태입니다. 이는 심장과 폐에 부담을 줄 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심장 판막에 문제가 생기면 처음에는 특별한 불편함이 없을 수 있습니다. 그러나 병이 진행되면 다음과 같은 증상이 나타날 수 있습니다.숨이 차고 피곤함: 계단을 오르거나 조금만 움직여도 쉽게 숨이 가빠집니다. 밤에 누우면 숨이 막혀서 자주 깰 수 있습니다.가슴 통증: 가슴이 조이거나 압박감이 느껴질 수 있으며, 특히 대동맥판막이 좁아지는 질환인 대동맥판막 협착증에서 잘 생깁니다.어지럼증·실신: 순간적으로 뇌에 가는 혈액이 줄어들어 어지럽거나 쓰러질 수 있습니다.심장이 두근거림(심계항진, 부정맥): 맥박이 불규칙하거나 빨라지는 것을 느낄 수 있습니다.부종: 발이나 다리가 붓고, 몸이 무겁게 느껴집니다.혈액이 역류하면서 생기는 합병증: 기침할 때 피가 나오거나(객혈), 뇌졸중이나 다리 혈관이 막히는 혈전증(색전증)이 생길 수 있습니다.증상이 없던 환자도 갑자기 상태가 나빠질 수 있습니다. 특히 심근경색, 감염성 심내막염, 대동맥 박리, 가슴 외상으로 판막이 급격히 손상되면, 갑작스러운 호흡곤란이나 폐에 물이 차는 증상인 급성 폐부종이 첫 증상으로 나타나기도 합니다. 이 경우에는 응급 치료가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[증상과 병력, 그리고 신체검사 소견으로 판막 질환을 의심할 수 있으며, 심장 초음파검사와 같은 심장 검사를 통해 정확히 진단합니다. 
+입원이나 추가 특수 검사가 필요할 수 있으며 질환의 심한 정도, 동반 질환이나 합병증 등을 확인해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf230bd4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf230c57]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf230b51]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf230cd1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[환자의 증상, 판막의 손상 정도, 동반 질환, 나이 등을 고려하여 결정합니다.증상이 없고 경미한 경우에는 정기적인 관찰만으로 충분합니다. 보통 2~5년마다 심장 초음파검사로 병의 진행 상황을 확인합니다.만약 고혈압이나 당뇨병 같은 동반 질환이 있다면 함께 치료해야 합니다.증상이 있거나 심장 기능이 떨어진 경우에는 약물 치료, 시술, 또는 수술을 고려해야 합니다.
+
+1. 약물 치료이뇨제: 몸속의 수분을 줄여 숨이 차거나 부종이 생기는 것을 완화합니다.항응고제: 피가 응고되는 것을 막아 뇌졸중 같은 색전증을 예방합니다.부정맥 치료제: 심방세동과 같은 부정맥을 조절합니다.류마티스열 병력이 있는 경우, 재발을 막기 위해 장기간(5~10년 이상, 필요하면 40세까지) 항생제(벤자신 페니실린) 주사를 맞을 수 있습니다.
+
+2. 경피적 판막 성형술
+최근에는 가슴을 열지 않고 혈관을 통해 시행하는 경피적 시술이 많이 발전했습니다. 이러한 시술은 환자의 상태와 판막의 형태에 따라 선택됩니다. 심장팀의 협의를 통해 적절한 치료법이 결정됩니다. 다음은 주요 시술들입니다경피적 대동맥판막 삽입술: 허벅지 혈관을 통해 좁아진 대동맥판을 인공판막으로 교체하는 방법입니다. 주로 고령이거나 수술 위험이 큰 환자에게 사용됩니다. ﻿]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b1009094b3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[경피적 승모판막 성형술: 클립을 이용해 판막의 닫힘을 개선하여 역류를 줄이는 시술입니다. 약물 치료에도 불구하고 증상이 지속되는 승모판막 역류 환자에게 시행됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b1009c3ff2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 수술적 치료판막 치환술: 판막이 심하게 손상되어 더 이상 쓸 수 없을 때, 손상된 심장 판막을 인공 판막으로 교체하는 수술입니다. 인공 판막은 금속으로 만든 기계판막과 소나 돼지의 판막으로 만든 조직판막이 있습니다.판막 성형술: 본래의 심장 판막을 유지하면서 모양을 고쳐서 기능을 회복시키는 수술입니다. 판막 역류이면서 판막의 손상이 심하지 않을 때 시도할 수 있고, 치환술보다 수술 관련 사망률이 낮고, 수술 후 항응고제(피가 굳지 않게 하는 약)를 사용하지 않아도 되는 장점이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b72b758792]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf230dd7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심장 판막 질환은 수술이나 시술과 같은 치료를 받은 후에도 정기적으로 판막과 심장 기능에 대한 평가와 관리가 필요합니다정기 검진: 주치의의 권고에 따라 심장 초음파, 심전도, 혈액 검사를 6개월에서 1년 간격으로 받는 것이 좋습니다.약물 치료 유지: 수술 후에도 혈전(피떡) 예방, 부정맥 치료, 심부전 조절을 위해 약물을 계속 복용해야 하는 경우가 많습니다.합병증 예방: 판막 질환이 심각하면 심부전, 부정맥, 뇌졸중, 심내막염 같은 합병증이 생길 수 있으므로, 이를 조기에 발견하여 치료하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 심장 판막 질환, 특히 퇴행성 판막 질환을 예방할 수 있는 방법이 있나요?
+
+A. 완전히 예방하기는 어렵습니다.
+퇴행성 판막 질환은 주로 나이가 들면서 자연스럽게 생기는 변화 때문이므로 완벽히 막을 수는 없습니다. 그러나 생활습관을 잘 관리하면 질환의 진행을 늦추고 합병증을 줄일 수 있습니다.
+혈압, 혈당, 콜레스테롤을 잘 관리해야 합니다. 금연과 절주도 중요합니다. 가벼운 유산소 운동을 규칙적으로 하는 것이 심장 건강에 도움이 됩니다. 
+치과 치료가 필요한 경우 의사와 상의하여 필요 시 예방적으로 항생제를 사용해야 합니다.
+
+Q.  운동과 식사는 어떻게 하는 것이 좋은가요?
+
+A. 증상이 나타나기 시작하면 정도에 따라 신체 활동을 줄여야 합니다. 운동량은 담당 의사와 상의하는 것이 필요하고, 특히 다른 사람과 경쟁하는 스포츠는 피하는 것이 좋습니다. 일반적으로 산보, 달리기, 수영 등 가벼운 신체 활동은 권장합니다.
+식사는 싱겁게 먹는 것이 좋습니다. 고기류를 포함해 다양한 음식을 골고루 섭취합니다. 술, 담배를 피하고 과로, 과식도 피해야 합니다.
+
+Q. 피멍이 들거나 코피가 잘 나는 이유는 무엇인가요?
+
+A. 판막 질환이 있는 경우 혈전(피떡)이 생기는 것을 예방하기 위해 아스피린, 와파린 등 항혈전제를 복용하는 경우가 많습니다. 이때 가벼운 충격에도 피멍이 들거나 저절로 코피가 나거나 잇몸에 출혈이 일어날 수 있습니다. 심하면 뇌출혈 또는 장출혈 등도 일어날 수 있어 주기적인 검진을 잘 받아야 합니다.
+근육주사와 침 맞는 것을 피하는 것이 좋고 발치 등 치과 치료나 수술을 받을 때는 주치의와 상의합니다.
+
+Q. 증상이 없는 가벼운 판막 질환의 경우에 조치해야 할 사항은 무엇인가요?
+
+A. 대체로 판막 질환은 증상이 없는 경우 예후가 더 좋습니다. 심장 초음파검사로 질환의 정도가 가벼우면 특별한 치료가 필요하지 않습니다. 그러나 질환이 점차 나빠질 수 있으므로, 증상이 없어도 2~5년마다 정기적으로 검진을 받아야 합니다. 특히, 다른 심장 질환이 없더라도 심장 초음파검사에서 가벼운 폐쇄부전증이 발견되는 경우가 많습니다. 이런 경우는 나이가 들수록 더 많이 발생하며, 특히 삼첨판과 승모판에서 더 흔합니다.
+
+Q. 대부분의 심장판막증 증세가 환자 자신도 모르게 서서히 심해진다고 하던데요?
+
+A. 세월이 지나면서 판막의 손상이 점차 심해지기 때문에 증상이 서서히 나타나는 경우가 많습니다. 그러나 질환이 급성기이거나 심근경색증, 심내막염, 대동맥 박리, 외상 등에 의한 경우일 때에는 급격히 상태가 나빠지면서 증상이 나타날 수 있습니다. 평소 증상이 없었다 하더라도 임신, 폐렴, 과로, 빈혈, 스트레스 등이 있는 경우 급격히 악화될 수도 있습니다.
+
+Q. 승모판 일탈증이 무엇인가요?
+
+A. 성인의 5%에서 볼 수 있는 흔한 질환으로, 여자에게 더 많습니다. 승모판 역류를 일으키며 예후는 양호합니다. 대부분 증상이 없지만, 흉통, 가슴 두근거림 등의 증상이 있을 수 있고 우울증과도 관련이 있습니다. 때때로 일과성 뇌허혈, 심각한 승모판 역류 및 부정맥을 동반하기도 합니다. 원인은 다양하나 점액성 변성이 가장 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Harrison's Principles of Internal Medicine (22nd ed.). McGraw-Hill.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

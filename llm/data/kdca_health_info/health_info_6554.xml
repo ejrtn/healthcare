@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[기관지확장증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6554]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 기관지확장증 은 만성 질환으로 완치는 어렵지만, 꾸준한 관리와 치료를 통해 증상을 조절하고 삶의 질을 개선할 수 있습니다.
+• 가래 배출이 가장 중요한 치료법입니다. 하루 10~30분 동안 기도 청결법 등을 실천하고 충분한 수분 섭취 및 필요시 점액 용해제를 써서 점액을 묽게 만드는 것이 좋습니다.
+• 감염 예방 및 합병증 예방을 위해 위생 관리를 철저히 하고 독감과 폐렴구균 백신을 맞으세요.
+• 금연 및 운동, 균형 잡힌 식사를 통해 면역력을 유지해야 합니다.
+• 정기 검진으로 질병 상태를 확인하고, 증상이 악화되면 반드시 의료기관에 방문하십시오.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지확장증이란 기관지 벽의 근육 및 탄력 성분이 파괴되어 영구적으로 늘어난 상태로 기침, 가래, 호흡곤란, 반복적인 호흡기 감염이 특징적으로 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지확장증이란 감염, 기도 폐쇄, 자가면역성 질환, 체액성 면역저하 등 여러 원인에 의해 기관지 벽이 영구적으로 손상을 받아 본래 상태로 돌아갈 수 없을 정도로 늘어난 상태를 의미합니다. 침범된 범위에 따라 부분적으로 나타날 수도 있고 폐 전체에 걸쳐 광범위하게 나타날 수도 있습니다. 정상적인 기관지 내벽은 점액으로 덮여 있습니다. 외부에서 들어온 세균, 먼지 등은 점액에 부착된 후 섬모라는 작은 털에 의해 밖으로 운반되어 가래라는 형태로 배출됩니다. 따라서 섬모가 손상을 입거나 운동이 저하되면 점액 및 기도 분비물이 잘 배출되지 않습니다. 배출되지 않은 기도 분비물에 의해 기도가 좁아지면 기관지의 만성 염증을 일으키며, 결국 기관지의 영구적인 구조 변화를 야기하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1950e033eb36]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지확장증은 확장된 모양에 따라 3가지로 나뉘는데 만성도 및 중증도를 반영한다고 알려져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1950e0b901c8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 관상(Cylindrical)
+관상은 영어로는 Cylindrical 로 원통형 모양을 뜻합니다. 다른 용어로 원추상 혹은 방추상이라고도 표현하며, 가장 흔한 기관지확장증으로 기관지가 끊어지지 않고 균일하게 폐의 말단 부위까지 늘어난 형태입니다.
+
+2. 정맥류상   (Varicose)
+비교적 흔하지 않은 기관지확장증으로 기관지가 늘어난 부위와 좁아진 부위가 번갈아 나타나 불규칙적이고 염주알처럼 보이는 형태입니다.
+
+3. 낭상(Cystic) 
+가장 심한 기관지확장증으로 기관지가 주머니(낭) 모양으로 늘어나고 그 속이 공기와 액체로 채워져 있는 형태입니다. 주머니는 흉막 표면까지 확장되는 경우가 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 원인 미상(특발성 기관지확장증) 
+여러 진단적 검사를 시행했으나 뚜렷한 원인이 밝혀지지 않은 기관지확장증으로 전체의 약 50% 정도를 차지합니다. 
+
+2. 폐 감염 
+최근에는 항결핵제와 항생제를  적절히 사용해 폐 감염 이후에 발생하는 기관지확장증은 감소하는 추세이지만, 여전히 흔한 원인 중 하나입니다. 폐결핵, 소아기의 홍역 혹은 백일해 등이 잘 알려진 원인입니다. 괴사를 유발하는 세균성 폐렴(예, 황색포도상구균, 클렙시엘라, 혐기성 세균 등)이 생겼을 때 적절한 항생제 투여를 받지 못했거나 치료가 지연된 경우에도 발생할 수 있습니다. 또한, 아데노바이러스 및 인플루엔자 바이러스가 하기도를 침범한 경우에도 기관지확장증을 유발할 수 있습니다. 
+
+3. 기도 폐쇄 
+기도 폐쇄로 인해 세균과 분비물이 원활하게 제거되지 않으면 만성 감염이 반복되며, 결국 기관지의 영구적인 구조 변화를 야기합니다. 예컨대 결핵은 기도 괴사를 유발해 기관지 협착을 일으키거나, 림프절 비대로 외부에서 기도를 압박해 기도 폐쇄를 유발할 수 있습니다. 카르시노이드 종양과 같이 서서히 자라는 기관지 내 종양이나 이물질 등이 원인일 때는 기관지내시경을 통한 이물질 제거나 수술적 치료로 치유를 기대할 수 있는 경우가 있습니다 .
+
+4. 알레르기성 기관지폐 아스페르길루스증   (Allergic bronchopulmonary aspergillosis)
+알레르기성 기관지폐 아스페르길루스증은 아스페르길루스라는 진균에 대한 알레르기 반응으로 심한 기도 염증과 점액전(Mucus plug, 점액 마개)을 야기해 기관지확장증과 천식을 유발합니다. 
+
+5. 체액성 면역저하
+정상인에 비해 면역글로불린 수치가 떨어진 경우 면역 저하로 인해 반복적인 폐감염이 발생해 기관지확장증을 초래할 수 있습니다. 이때는 감마글로불린을 치료제로 투여해 면역력을 높일 수 있습니다.
+
+6. 자가면역성 질환
+류마티스 관절염이나 쇼그렌 증후군 같은 류마티스 질환, 혹은 궤양성 대장염 같은 염증성 장질환에서는 기저 질환이 진행하면서 합병증으로 기관지확장증이 동반될 수 있습니다. 이때는 기저 질환의 치료 및 관리가 중요합니다.  
+
+7. 선천성 질환
+우리나라에서는 드물지만 낭성 섬유증(Cystic fibrosis), 일차 섬모 운동이상증(Primary ciliary dyskinesia), 알파-1 항트립신 결핍증(Alpha-1 antitrypsin deficiency) 등의 선천성 원인도 있습니다. 
+낭성 섬유증(Cystic fibrosis)은 폐, 간, 췌장, 비뇨기계, 생식기계 및 땀샘 등 신체의 여러 기관을 침범하는 유전 질환으로 상염색체 열성으로 유전되며 백인에게 흔합니다. 기도 표면에서 수분과 전해질이 잘 조절되지 않아 끈적거리고 비정상적인 점액이 만들어지고, 이로 인해 폐에 세균 감염이 잘 발생합니다.  
+일차 섬모 운동이상증(Primary ciliary dyskinesia)은 섬모의 구조적 이상으로 세균이나 가래가 효율적으로 배출되지 못해서 기관지확장증, 중이염, 부비동염이 잘 생깁니다. 상염색체 열성으로 유전되며, 절반가량은 기관지확장증, 부비동염, 내장 역위증(Situs inversus)을 동반하는 카르타게너 증후군(Kartagener syndrome)으로 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지확장증은 기관지 구조가 이미 영구적으로 변형된 것이므로 완치는 어렵습니다. 기관지확장증이 침범한 범위에 따라 증상 및 환자가 느끼는 삶의 질은 매우 다양합니다. 하지만 꾸준히 관리하지 않으면 폐렴 등의 합병증이 생길 수 있으며, 잦은 감염이 반복되면 폐 조직까지 심하게 손상되어 결국 호흡 부전으로 이어질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[최근에는 기관지확장증을 “악순환의 소용돌이(Vicious vortex)” 모델로 이해합니다. 감염, 염증, 점액 저류, 구조 손상이 서로 연결되어 소용돌이처럼 계속 나빠진다는 뜻입니다. 이런 악순환을 끊으려면 감염 치료, 염증 억제, 점액 제거 등이 중요합니다.
+
+1. 감염
+세균, 바이러스, 곰팡이 같은 병원체에 감염되면 기관지에 염증 반응이  생깁니다.
+
+2. 염증 반응
+염증 반응이 생기면 점액이 과도하게 생성되며, 기관지 벽이 손상되어 생성된 점액이 제대로 배출하지 못합니다.
+
+3. 점액 저류
+반복적인 감염과 염증 반응으로 인해 점액이 계속 쌓이면 기관지가 변형되고, 병원체가 번식하기 쉬운 환경이 만들어집니다.
+
+4. 기관지의 구조 변화 
+손상된 기관지는 더욱 감염과 염증을 유발하기 쉬워져, 점액 저류와 구조 손상이 점점 심화됩니다. 결국 더 큰 감염과 더 심각한 손상이 이어지면서 점점 더 상태가 악화됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19405fd43451]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지확장증의 유병률은 지역, 인종, 연구 방법에 따라 매우 다양하게 보고되지만, 전 세계적으로 증가 추세입니다. 미국과 유럽에서 기관지확장증의 유병률은 인구 10만 명당 139~565명으로 추정되며, 최근 자료에 따르면 국내 기관지확장증의 유병률은 인구 10만 명당 464명으로 유럽이나 미국보다 높은 편입니다. 참고로 국내 폐결핵의 유병률은 인구 10만 명당 47명, 만성 폐쇄성 폐질환의 유병률은 인구 10만 명당 1700~3000명, 천식의 유병률은 인구 10만 명당 600~1200명입니다. 따라서 기관지확장증은 만성 폐쇄성 폐질환이나 천식과 같이 널리 알려진 만성 호흡기 질환보다는 드물지만, 폐결핵보다는 훨씬 흔한 질환입니다. 특히 고령층에서 더욱 높은 유병률을 보이며, 남성보다는 여성에서 유병률이 높습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 기침, 가래 
+기관지확장증의 가장 흔한 증상입니다. 비정상적으로 늘어난 기관지에 고인 분비물은 대개 세균에 감염되므로 가래는 누런 색을 띄며, 양이 많고, 주로 아침에 심한 것이 특징입니다. 
+
+2. 호흡곤란 
+가래 배출이 원활하지 않으면 흔히 가슴 답답함을 느낍니다. 기관지확장증이 진행하거나 만성 폐쇄성 폐질환이 동반된 경우에는 폐기능 저하로 인해 호흡곤란 등의 증상이 생길 수 있습니다. 
+
+3. 객혈
+비정상적으로 늘어난 기관지는 혈관들도 약해져서 가벼운 감염에도 혈관이 파괴되고 가래에 피가 섞여 나올 수 있습니다. 객혈은 대개 경미하지만 간혹 대량 객혈을 할 수 있으며, 이때는 적절한 시술이 필요합니다.
+
+4. 만성피로, 체중 감소
+만성 염증으로 인해 만성피로, 체중 감소 등의 증상이 동반될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지확장증의 증상이 있으면 자세한 문진과 함께 여러 가지 진단적 검사들을 시행합니다. 
+
+1. 문진
+기침, 가래, 호흡곤란 등의 증상 발생 시기와 심한 정도를 확인합니다. 특히 가래는 평소 가래의 양, 색깔, 객혈 동반 여부를 확인해야 합니다. 결핵, 홍역, 백일해, 폐렴, 중이염 등의 감염력이 있는지 파악합니다. 지난 1년간 호흡기 증상 악화로 치료를 받은 적이 있는지, 그로 인해 입원을 하거나 항생제를 투여한 적이 있는지도 확인합니다. 마지막으로 흡연 여부 및 흡연량 등을 조사합니다.  
+
+2. 영상 검사
+기관지확장증이 의심되는 환자의 확진 및 상태 평가를 위해서는 영상검사가 필요합니다. 흉부 방사선 검사는 필수적이며 검사 방법도 간단하지만, 증상이 가벼운 경우에는 정상 소견에 가깝게 나타날 수 있습니다. 반대로 증상이 심한 경우에는 늘어난 기관지들이 모여서 벌집처럼 보여 폐섬유화 질환과 감별이 어려울 수 있습니다. 흉부 컴퓨터 단층촬영(Computed tomography, CT)은 늘어난 기관지를 잘 관찰할 수 있으며, 병변의 분포 및 합병증 동반 여부를 평가하는 데도 도움이 되기 때문에 기관지확장증의 진단에 가장 중요한 검사입니다  .]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19406000c3e4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 가래 검사
+기관지확장증에서는 가래 배출이 원활하지 않아 폐렴, 폐 농양 등의 합병증이 잘 동반됩니다. 이때 가래 배양 결과를 참고로 적절한 항생제를 선택할 수 있습니다. 녹농균 등의 유해한 균들이 집락을 이루며 반복적인 감염을 일으키는 경우에도 가래 검사로 발견해 제균 치료를 시행하면 반복적인 악화를 줄일 수 있습니다. 또한 가래 검사를 통해 비결핵 항산균 폐질환 등이 동반되어 있는지도 확인할 수 있습니다. 
+
+4. 폐기능 검사
+폐기능 검사는 기관지확장증으로 인해 폐기능이 감소했는지 확인하기 위해 시행하며, 결과에 따라 기관지확장제 등의 흡입기를 사용하게 됩니다.
+
+5. 혈액 검사
+기관지확장증의 원인을 감별 진단하기 위해 혈액 검사를 시행합니다. 면역 결핍을 확인하기 위해 면역글로불린을 측정하고, 류마티스 질환 동반 여부를 확인하기 위해 류마티스 인자 및 항인지질 항체 등을 검사합니다. 천식이 있고 특징적인 중심성 기관지확장증과 점액이 동반된 경우, 알레르기성 기관지폐 아스페르길루스증을 확인하기 위해 아스페르길루스 항체 검사를 시행합니다.  
+
+6. 기관지내시경 검사
+기관지내시경은 필수적인 검사는 아니지만, 병변이 국소적인 경우에는 기도 폐쇄가 원인인지 확인하기 위해 시행할 수 있습니다. 반복적인 감염이 있을 경우 정확한 원인균을 밝히기 위해 기관지내시경을 통한 균 검사를 시행할 수 있고, 객혈이 동반될 때 영상 검사에서 병변 부위를 확인하기 어렵다면 기관지내시경으로 확인할 수 있습니다. 다만, 환자의 협조가 중요하며 산소 요구량이 많은 상태이거나 대량 객혈이 있는 경우는 시술이 위험할 수 있어 의사와 상의해 진행해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지확장증은 이미 기관지 자체에 구조적인 변화가 생긴 상태이기 때문에 완치되거나 정상 기관지로 돌아갈 수는 없습니다. 대신, 꾸준히 관리해 호흡기 증상을 조절하며 동반되는 감염을 줄이고 합병증이 생기지 않도록 해야 합니다. 즉, 안정 시 기관지확장증 치료의 주된 목표는 1) 호흡기 증상의 완화, 2) 급성 악화의 예방, 3) 삶의 질의 향상, 4) 병의 진행 억제 등입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[호흡기 증상이 동반된 기관지확장증 환자의 안정 시 가장 중요한 치료법은 기도 청결법(Airway clearance)을 통해 가래를 원활하게 배출하는 것입니다. 가래가 배출되어야 기도 내의 만성 염증과 반복적인 호흡기 감염의 악순환을 끊을 수 있기 때문입니다. 하지만, 많은 환자가 기도 청결법만으로 증상이 잘 조절되지 않기 때문에 여러 가지 약물 치료를 병행합니다. 약물 치료의 중요한 목적은 증상을 완화하고 악화를 예방하는 것입니다. 
+
+1.	점액작용제 치료 
+1)	경구 점액작용제
+흔히 ‘진해거담제’로 불리는 경구 점액작용제는 기관지확장증 치료에 가장 많이 사용되는 약제입니다. 흔히 사용하는 약제로는 엘도스테인(Erdosteine), 아세틸시스테인 (N-acetylcysteine), 암브록솔(Ambroxol), 카보시스테인(Carbocysteine) 등이 있습니다. 가래 배출을 위해 가장 많이 사용하는 약제이지만, 대부분의 경구 점액작용제는 치료 효과에 대해 아직 논란의 여지가 있습니다. 
+2)	흡입 점액작용제
+연무치료기(네불라이저, Nebulizer)로 투여하는 흡입 점액작용제로 등장성 및 3% 이상의 고장성 생리식염수 혹은 만니톨 등을 사용하기도 합니다. 이런 물질은 삼투압 차이에 의해 기관지 표면과 상피세포의 수분을 증가시켜서 점액 배출을 돕는 거담제 역할을 합니다. 다만, 고장성 용액 사용 시에는 기도 과민성이 나타날 수 있기 때문에 대개 기관지 수축을 예방하기 위해 흡입 고장성 생리식염수 사용 전에 흡입 기관지확장제 사용을 추천합니다. 
+
+2.	항생제 치료
+1)	급성 악화 시 항생제 치료
+기관지확장증 악화는 다음 두 가지 조건을 만족할 때로 정의합니다. 첫째, 48시간 이상 기침, 가래의 양・농도, 가래의 화농성, 호흡곤란・운동능력 저하, 피로・불쾌감, 객혈 증상 중 3가지 이상의 증상이 악화될 때, 둘째, 담당 의사가 치료 변경이 필요하다고 판단될 때입니다. 기관지확장증 악화 시에는 임상 증상 개선을 위해 항생제 치료를 권고하는데, 가래 검사를 통해 원인균을 밝힌 후에 적절한 항생제를 선택합니다. 치료 기간은 논란이 있지만 대부분 10~14일 정도 치료합니다. 
+2)	녹농균 제균 치료
+기관지확장증 환자의 가래에서 녹농균(Pseudomonas aeruginosa)이 배양되는 것은 심한 증상, 삶의 질 저하, 폐기능 감소, 잦은 악화와 입원, 사망과 연관됩니다. 따라서 임상 경과가 악화되는 기관지확장증 환자에서 녹농균이 처음 배양되거나 다시 배양되었을 때는 제균 치료를 권고합니다. 
+3) 장기간 마크로라이드  치료
+마크로라이드 계열의 항생제에는 아지스로마이신(Azithromycin), 에리스로마이신 (Erythromycin),클라리스로마이신(Clarithromycin) 등이 있습니다. 이들 항생제는 항균효과 외에도 항염증 효과(Anti-inflammatory effect) 및 점액 분비를 조절하며 기도 섬모운동을 촉진해 가래 배출을 돕는효과도 있습니다. 연구에 따르면, 1년 이상 마크로라이드를 투여하면 기관지확장증의 급성 악화를 예방할 수 있습니다.다만, 청력 감소, 위장 장애, 심전도 변화, 마크로라이드 내성 비결핵 항산균 출현 등 부작용이있기 때문에 1년에 3회 이상 잦은 악화나 입원이 필요했던 중증 악화를 경험한 환자에 한해서장기간 마크로라이드 치료를 고려합니다.
+
+3.	항염증치료
+기관지확장증의 치료에 사용되는 항염증제는 흡입 또는 경구 스테로이드, 메틸잔틴계 약물(Methylxanthine), 류코트리엔 수용제 길항제(Leukotriene receptor antagonist) 등이 있습니다. 여러 연구에 따르면 흡입 스테로이드는 폐기능 및 증상 개선 효과가 없고, 악화도 줄이지 못하기 때문에 천식이나 만성 폐쇄성 폐질환이 없는 경우에는 사용하지 않을 것을 권고합니다. 나머지 약제도 기관지확장증 치료 효과가 정립되지는 않았습니다.
+
+4.	기관지확장제
+기관지확장증 환자의 상당수가 호흡곤란을 호소하고, 폐기능 검사 상 폐쇄성 환기 장애를 동반합니다. 이때 흡입 기관지확장제를 사용해 볼 수 있으나 아직 기관지확장제의 치료 효과는 정립되지 않은 상태입니다. 다만, 천식이나 만성폐쇄성폐질환이 동반된 기관지확장증에서는 흡입 기관지확장제를 적절히 사용해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 기도 청결법
+가래 배출 방법을 잘 교육하여 기도에 가래가 고여 있지 않고 청결하게 유지하는 것이 기관지확장증의 핵심 치료법입니다. 기도 청결법은 적어도 10분에서 최대 30분까지 수행해야 하며, 환자가 두 번 연속 가래가 없는 기침을 하거나 환자가 피로해질 때까지 계속하는 것이 좋습니다. 
+
+1)	능동적 호흡주기 배액요법(Active cycle of breathing technique)
+능동적 호흡주기 배액요법(Active cycle of breathing technique)은 호흡기 분비물의 효과적인 제거를 위해 고안된 호흡 운동으로 기도 청결을 통해 호흡 기능을 향상시키는 것이 목적입니다. 가장 흔히 사용되는 기도 청결법이며, 보통 의식 장애가 없고 기도 분비물이 많은 환자에게 적용됩니다. 
+
+능동적 호흡주기 배액요법은 크게 호흡 조절(Breathing control), 흉부 확장 운동(Thoracic expansion exercise), 강제 호기 기법(Forced expiration technique) 등 3가지 요소로 구성됩니다.
+• 호흡 조절: 편안한 상태에서 천천히 깊게 호흡해 호흡 근육의 긴장을 완화하고 안정적인 호흡 패턴을 유지합니다.
+• 흉부 확장 운동: 깊게 숨을 들이쉬어 흉곽을 확장시키고, 폐의 공기 흐름을 증가시켜 분비물의 이동을 촉진합니다. 
+• 강제 호기 기법: 허핑(Huffing)이라고도 하며, 짧고 강한 호기를 통해 기도 내 분비물을 이동시키고, 필요시 기침을 유도해 분비물을 배출합니다. 
+이러한 단계를 반복해 기도 내 분비물의 이동과 제거를 촉진하고, 호흡 기능을 개선할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1950e1a1f1d9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2)	체위배액요법
+흉부 컴퓨터단층촬영 결과를 검토해 기관지확장증이 존재하는 기관지 폐엽을 고려한 체위배액요법(Postural drainage)을 시행할 수 있습니다. 환자를 특정한 자세로 눕혀 폐의 특정 부위에 중력이 작용하게 하여 분비물을 기도 위쪽으로 이동시킵니다. 이렇게 하면 기침이나 흡인(흡입) 장치를 사용해 분비물을 제거하기가 쉬워집니다. 필요시 의료진이나 보호자가 흉부를 두드리거나 진동을 가해 분비물이 더 쉽게 이동하도록 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1950e1b94a33]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3)	진동형 양압 호기 장치(Oscillating positive expiratory pressure device)
+4)	고진동 흉벽 진동(High frequency chest wall oscillation)
+능동적 호흡주기 배액요법 및 체위배액요법이 효과적이지 않거나 시행할 수 없는 환자는 기도가 열려 있도록 유지하면서 진동형 양압 호기 장치 혹은 고진동 흉벽 진동 조끼 등을 사용해볼 수 있습니다. 최근 몇몇 병원에서는 폐렴 환자에게 고진동 흉벽 진동 조끼를 적용해 가래 배출을 돕고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1950e1f6b936]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2.	호흡 재활 
+유산소 운동을 포함한 호흡 재활 치료(Pulmonary rehabilitation)로 환자의 운동 능력과 삶의 질까지 개선할 수 있습니다. 이러한 재활 프로그램을 시행할 때는 환자의 증상, 운동 능력뿐 아니라 질병 상태를 고려해야 합니다. 기관지확장증 환자의 재활에는 일반적인 호흡 재활에 호흡기 근육 강화 운동(Inspiratory muscle training)을 포함하는 것이 좋습니다. 
+
+3. 수술적 치료
+과거에는 흔히 시행되었지만 현재는 효과적인 항생제 및 대증요법의 발달로 인해 일차 치료로 고려하지 않습니다. 보통 병변이 국소적이면서 충분한 내과적 치료에도 불구하고 폐렴이 반복되거나 객혈이 지속적인 경우 병변 절제를 고려합니다. 다만, 수술 합병증으로 출혈, 농흉, 장기간의 공기 누출 등이 있을 수 있으므로 환자와 의료진 사이에 충분한 상의가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지확장증은 만성질환으로 질병의 진행을 관리하고 합병증을 예방하기 위해 정기적인 진찰이 필수적입니다. 정기 진찰에서는 보통 증상을 평가하고, 영상 소견으로 병변의 진행 여부나 합병증 발생 여부를 확인하며, 폐기능 검사 및 가래 검사로 질병의 진행 상태나 치료 반응 등을 확인합니다. 
+증상이 안정적이라면 6개월~1년에 한 번 정도 방문을 권장하며, 악화 빈도가 높거나 증상이 심한 경우에는 3~6개월 간격으로 방문을 권장합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지확장증이 진행하면 다양한 합병증을 일으킬 수 있습니다.
+ 
+1. 객혈 
+객혈은 기관지확장증에서 흔하게 동반되는 증상입니다. 소량의 객혈은 항생제와 지혈제로 멈출 수 있지만 휴지에 묻어나는 정도 이상의 선홍색 출혈이 있을 때에는 병원 방문이 필요하며, 대량 객혈이 있으면 즉시 인근 병원의 응급실을 방문해야 합니다. 
+ 
+2. 반복되는 폐렴 
+기관지확장증으로 인해 세균이나 결핵균 등에 의한 폐렴이 정상인에 비해 자주 반복될 수 있습니다. 증상만으로는 감기와 폐렴이 잘 구분되지 않는 경우가 있으므로 감기가 잘 낫지 않는다면 의료기관을 방문해 흉부 X-선 검사를 받아보는 것이 좋습니다. 또한 폐렴이 심해지면 폐 실질에 고름이 생기는 폐 농양(Lung abscess)이나 흉막에 고름이 생기는 농흉(Empyema)이 나타날 수 있습니다. 이때는 장기간 항생제 치료 뿐 아니라 배액이 필요할 수 있으며, 치료 반응이 좋지 않을 경우 수술적 치료가 필요할 수 있습니다. 
+ 
+3. 만성 호흡부전 
+반복적인 기관지-폐의 염증으로 인해 폐기능이 저하되고, 이로 인해 장기적으로 산소 치료가 필요한 만성 호흡부전이 발생할 수 있습니다. 유럽의 기관지확장증 연구에 따르면 약 7.5%의 환자에서 장기간 산소치료가 필요했습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지확장증의 진행을 예방하기 위해서는 감염 예방이 필수적입니다. 우선 매년 10월경 인플루엔자 예방접종을 시행해야 합니다. 폐렴구균 백신은 2024년 대한감염학회에서 발표한 국내 예방접종 진료지침을 근거로 성인 폐렴구균 백신 접종대상자에게 15가 폐렴구균 단백결합백신(15-valent pneumococcal conjugate vaccine, PCV15)을 13가 폐렴구균 단백결합백신 (13-valent pneumococcal conjugate vaccine, PCV13) 보다 우선적으로 권고합니다. 하지만 PCV15를 접종할 수 없는 경우 PCV13을 접종할 수 있습니다. 또한 1년 이상의 간격을 두고 23가 다당류 폐렴구균 백신(23-valent pneumococcal polysaccharide vaccine, PPSV23)을 순차적으로 접종할 것을 권고합니다. 만일 23가 폐렴구균 백신을 65세 이전에 접종하였다면, 65세 이후에 재접종이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1950e2374582]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[예방접종으로 반복적인 감염의 위험을 낮출 수 있으나, 예방접종 외에도 외출 후나 식사 전후에 손 씻기 및 양치질 등 위생 관리에 힘써야 합니다. 또한 흡연을 하는 환자는 반드시 금연해야 합니다. 기관지확장증은 많은 양의 가래를 효율적으로 배출하는 것이 매우 중요하기 때문에 수분을 적절히 섭취하고, 적정 습도를 유지하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[118]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대한결핵 및 호흡기학회 - 기관지확장증 기도청결법 동영상]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 기관지확장증은 완치가 가능한가요?
+
+A. 기관지확장증은 만성 질환으로 완치가 어렵습니다. 하지만 적절한 치료와 관리를 통해 증상을 조절하고 질병의 진행을 늦추며, 삶의 질을 크게 개선할 수 있습니다.
+
+Q. 어떤 음식이 도움이 되나요?
+
+A. 특별한 제한은 없지만, 균형 잡힌 식사를 통해 면역력을 높이는 것이 중요합니다. 체중이 감소하지 않도록 적절한 칼로리 섭취도 필요합니다.
+
+Q. 운동을 해도 괜찮을까요?
+
+A. 적절한 운동은 폐 기능을 개선하고 전반적인 건강을 유지하는 데 도움이 됩니다. 가벼운 유산소 운동(걷기, 자전거 타기, 수영)이 권장되며, 무리하지 않는 선에서 꾸준히 하는 것이 중요합니다. 다만, 전신 피로감이 심하거나 객혈이 발생한 경우, 혹은 발열이 있는 날에는 쉬는 것이 좋습니다.
+
+Q. 객혈이 있는데 어떻게 해야 하나요?
+
+A. 소량의 객혈은 흔히 나타나는 증상일 수 있지만, 객혈 양이 많거나 반복적으로 발생하면 즉시 병원을 찾아 담당의사와 상의해야 합니다. 필요시 항생제 치료나 기관지 동맥 색전술 등의 시술이 필요할 수 있습니다. 
+
+Q. 기관지확장증이 폐암으로 발전할 수도 있나요?
+
+A. 기관지확장증 자체가 폐암으로 직접 연결되지는 않지만, 연구에 따르면 기관지확장증 환자의 폐암 발생 위험은 일반인보다 높습니다. 폐암 발생 위험인자로는 남성, 흡연, 만성 폐쇄성 폐질환 등이 알려져 있으므로, 흡연자는 반드시 금연해야 하며 정기 검진이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Chalmers, J. D., et al. (2018). Bronchiectasis. Nature Reviews Disease Primers, 4, 45.
+2. Choi, H., et al. (2019). Population-based prevalence of bronchiectasis and associated comorbidities in South Korea. European Respiratory Journal, 54, 1900194.
+3. Flume, P., et al. (2018). Advances in bronchiectasis: Endotyping, genetics, microbiome, and disease heterogeneity. Lancet, 392(10150), 880–890.
+4. Hill, A. T., et al. (2017). Pulmonary exacerbation in adults with bronchiectasis: A consensus definition for clinical research. European Respiratory Journal, 49, 1700051.
+5. Hill, A. T., et al. (2019). British Thoracic Society Guideline for bronchiectasis in adults. Thorax, 74(Suppl 1), 1–69.
+6. Polverino, E., et al. (2017). European Respiratory Society guidelines for the management of adult bronchiectasis. European Respiratory Journal, 50, 1700629.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

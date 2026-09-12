@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[요로전환술(방광창냄술)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6240]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[3]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[337]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[요로전환술이란 체내 소변의 정상적인 흐름을 인위적으로 변경하는 시술로, 요로의 병변이나 손상 등으로 인해 정상적인 소변의 흐름이 어렵거나 불가능할 경우에 시행합니다. 요로전환술의 위치는 가능하면 막힌 부위 바로 상부에서 시행하는 것이 이상적인데, 요도가 막힌 경우 방광창냄술을 흔히 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[방광창냄술(cystostomy)은 소변이 요도를 통해 원활히 흐르지 못하는 경우 환자의 배꼽 아래 피부에 작은 절개창을 내어 가는 관(약 5 mm 내외)을 환자의 방광에 삽입하는 시술입니다. 방광에 모이는 소변은 이 관을 통해 몸 밖으로 배출됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d4de9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 후 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[343]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 주의 사항
+방광창냄술 후에는 소변이 소변줄을 통해 잘 배출되는지 확인하는 것이 중요합니다. 소변 주머니가 꽉 차거나, 방광보다 높게 위치하면 소변 배액이 안 될 수 있습니다. 소변줄이 꼬이거나 막히지 않았는지 확인하는 것도 중요합니다. 방광창냄술 직후에는 시술 부위를 의료진의 안내에 따라 주기적으로 소독 및 드레싱합니다. 특히 시술 부위에서 통증, 부기 또는 고름이 있는지 확인해야 합니다. 방광창냄술 시술 직후나 소변줄 교체 후에는 일시적으로 혈뇨가 나타날 수 있으며, 신장 기능에 이상이 없을 경우 수분 섭취를 1L 정도 늘려주는 것이 좋습니다. 방광창냄술 주변으로 소변이 샐 수 있으며, 이런 현상이 지속되면 의료진과 상의해 소변줄 교체를 고려합니다. 소변 주머니에 고인 소변이 심하게 탁해지고, 열이 난다면 요로 감염증이 생겼을 수 있으므로 진료를 받아야 합니다.
+
+2. 관리방법
+방광창냄술 후 소변줄은 의료진의 안내에 따라 약 4주 간격으로 교체합니다. 시술 초기에는 소변줄이 방광 밖으로 들어갈 수 있기 때문에 교체 시 의료진의 도움을 받는 것이 좋습니다. 방광창냄술 부위는 의료진의 지시에 따라 소독액으로 드레싱하거나, 순한 비누와 물을 사용해 씻고 충분히 말리는 것이 좋습니다. 또한, 방광창냄술 부위에 부기나 고름이 생기지 않았는지 관찰합니다. 소변이 소변줄을 통해 원활하게 흘러 나가는지, 소변 주머니가 소변이 흘러내릴 수 있도록 방광 아래에 적절히 위치하는지 확인하는 것도 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[344]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 방광창냄술 후 외부 주머니로 소변을 배출할 경우 외부 활동이 가능한가요?
+
+A. 방광창냄술 후에는 소변 주머니를 지니고 있게 되지만, 관리가 익숙해지면 일상적인 활동이나 외부 활동에 큰 제약이 없습니다. 소변 주머니를 유지한 채로 가벼운 샤워도 가능하며, 이때 소변줄 삽입 부위를 부드럽게 씻어 주는 것이 좋습니다. 감염 방지를 위해 충분한 수분 섭취와 함께 방광창냄술 부위의 부기나 고름이 생기지 않았는지 주기적으로 관찰하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[359]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Partin, A. W., Wein, A. J., Kavoussi, L. R., Peters, C. A., &amp; Dmochowski, R. R. (2020). Campbell Walsh Wein Urology, E-Book. Elsevier Health Sciences.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[요로전환술]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6228]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[요로전환술(정위성 인공방광 대치술)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6242]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[요로전환술(콩팥창냄술)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6243]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[요로전환술(회장도관술)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6241]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

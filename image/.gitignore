@@ -1,0 +1,8 @@
+data
+.vscode/
+*.pth
+*.zip
+scratch
+.venv/
+__pycache__/
+serve/.venv/

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[폐흡충증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5339]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 폐흡충증은 폐흡충에 감염되어 발생하며, 주로 민물 참게나 민물가재 같은 담수 갑각류를 날것으로 먹거나 충분히 익히지 않을 때 감염됩니다.
+• 감염 후 약 6주의 잠복기를 거쳐 지속적인 기침, 피가 섞인 쇠녹물 색의 가래, 흉통 등의 증상이 나타나며,폐 외에도 뇌나 복부 등 다른 장기로 퍼질 수 있습니다.
+• 예방을 위해서는 오염된 민물 갑각류 섭취를 피하는 것이 중요합니다.
+• 치료는 프라지콴텔을 2~3일간 복용하면 가능하며, 환자 격리는 필요하지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐흡충(Paragonimus westermani) 감염에 의한 폐 기생충 질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 신고범위 : 환자
+2. 신고시기 : 7일 이내 신고
+3. 신고를 위한 진단기준​
+• 환자 : 진단을 위한 검사기준에 따라 감염병병원체 감염이 확인된 사람
+4. 진단을 위한 검사기준
+• 검체(대변, 가래)에서 충란 확인
+5. 신고 방법
+• 표본감시기관은 기생충 감염병 신고서를 작성하여 질병관리청으로 팩스 또는 웹 입력 방법으로 신고
+* 표본감시기관 여부 확인: 관할 보건소로 문의]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[제1중간숙주는 담수 패류이며, 제2중간숙주는 민물가재, 참게 등 담수 갑각류입니다.감염된 사람이나 야생동물의 가래나 대변으로 배출된 충란이 하천으로 들어갑니다. 그 후 제1중간숙주인 패류에 감염됩니다. 이후 제2중간숙주인 자연산 참게나 민물가재가 감염된 패류를 먹게 되면 피낭유충으로 발달하게 되며, 이 참게나 민물가재를 충분히 익히지 않고 먹거나 장 또는 즙으로 먹을 경우 감염될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c0354cb48]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 국외현황
+일본, 타이완 등 극동아시아와 베트남, 중국 남부 등에 분포합니다.
+
+2. 국내 현황
+최근에는 너구리, 족제비, 여우, 늑대, 개, 고양이 등 야생동물이 보유숙주로 작용하여 생태계가 유지되고 있는 지역(전라남도보길도, 해남, 영암 등)은 있으나 유행지는 거의 사라진 실정입니다. 2014년부터 현재까지 매년 0~3건 정도의 신고가 이어지고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c0322a7f1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐흡충증 잠복기는 6주입니다.증상은 서서히 나타나며 기생 부위가 다양한 만큼 증상도 여러 가지입니다. 폐흡충증의 임상유형은 크게 2가지로, 폐에 병소를 형성하거나, 폐 외 장기에 침범하여 병소를 형성하는 것으로 구분합니다.
+1) 폐 폐흡충증
+폐흡충이 감염자의 폐에 병소를 형성하는 경우를 폐 폐흡충증이라 합니다. 폐 폐흡충증의 증상은 지속적인 심한 기침, 피 섞인 쇠녹물 색의 가래(rusty brown blood‒tinged sputum), 흉통, 전신 쇠약 등으로 폐결핵과 감별진단 필요할 수 있습니다.
+2) 이소(異所) 폐흡충증
+폐흡충 감염자의 약 45%는 폐흡충이 폐 이외의 장기에 침범하여 병소를 형성하는데 이를 이소(異所) 폐흡충증이라 합니다.
+- 복부 폐흡충증(abdominal paragonimiasis): 복부 둔통, 압통, 경직, 간농양, 설사 등이 발생할 수 있습니다.
+- 뇌 폐흡충증(cerebral paragonimiasis): 발작, 두통, 반신불수, 편마비, 시각 장애, 뇌막염 등이 발생할수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐흡충증을 진단하는 방법에는 다음과 같은 것들이 있습니다
+- 객담이나 대변 검사: 객담은 기침할 때 나오는 가래를 말합니다. 이를 5% NaOH로 처리하여 점도를 없앤 후 원심침전법으로 충란(蟲卵)을 관찰합니다. 기침 후 객담을 삼키는 환자나 어린이, 노인은 대변검사를 통해 진단합니다. 하지만 이 방법은 민감도가 낮아 감염이 있어도 진단되지 않을 수 있습니다.
+- 면역혈청학적 검사: 효소면역측정법(ELISA)과 같은 검사는 민감도와 특이도가 우수하여 환자의 진단에 주로 이용됩니다.
+- 영상의학적 검사: 흉부 X-선검사, MRI, CT 같은 방법이 진단에 도움이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐흡충증의 예방을 위해서는 민물에 사는 참게, 참가재 등 제2 중간숙주를 날 것으로 먹거나 덜 익은 상태로 먹지 말아야 합니다. 참게 등 담수산 게류로 담근 게장은 최소 14일이 지난 뒤에 먹도록 합니다. 의심환자, 환자와 함께 감염원 동물(참게, 민물가재 등)을 생식한 사람 대상으로 검사와 치료를 진행해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[151]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐흡충증의 치료를 위해 프라지콴텔(Praziquantel) 25 mg/kg을 1일 3회, 2~3일간 투여합니다. 복용 시 현기증, 두통 등의 부작용이 나타날 수 있으므로, 취침 전에 복용하는 것이 권장됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[154]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[환자 격리는 필요 없으며, 환자와 접촉한 사람도 특별한 격리 조치는 필요하지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청 (2025). 감염병포털. https://dportal.kdca.go.kr/pot/index.do
+2. 질병관리청 (2025). 기생충 감염병 관리치침]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

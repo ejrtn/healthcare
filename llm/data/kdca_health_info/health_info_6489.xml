@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[건막염(통풍성 건막염)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6489]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[통풍은 요산이 관절 주위에 침착되어 염증과 통증을 야기하는 질환입니다. 또한 요산 침착으로 인한 신장이나 심혈관계에 장애가 발생할 수도 있어 내과적 관찰도 필요합니다. 
+손에서는 결절의 침착 없이 발생하는 건막염이 흔하나, 건과 관절에 요산 결절이 침착되는 경우도 흔히 나타납니다. 결절이 없는 경우에는 감염성 관절염이나 류마티스 관절염 및 종양 등과 증상이 유사하여 진단이 늦어지는 경우가 있으므로 주의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a8781]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[통풍성 건막염의 발생 빈도는 우리나라의 식생활 양상이 바뀌면서 증가하는 추세에 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[굴곡건을 침범한 경우는 심한 통증과 홍반  그리고 종창과 온도 상승을 보여 급성 화농성 건막염과 유사한 증상을 보입니다. 수근관 안의 굴곡건에 건막염이 발생한 경우에는 급성 수근관 증후군의 증상을 보일 수도 있습니다. 
+
+또한 신전 지대나 지간 관절이나 중수수지 관절의 후방에 결절이 나타나는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수술적 치료는 필요하지 않으며, 급성기에는 콜히친이나 소염진통제 등을 투여하여 증세를 완화시킬 수 있습니다. 장기적으로는 요산이 많이 들어 있는 음식을 먹지 않게 하고, 알코올을 금지시키며, 심한 경우에는 요산 수치를 낮출 수 있는 약제를 투여하여야 합니다. 
+정상적인 요산 수치를 6개월 이상 유지시키면, 건막 속에 침착하였던 요산이 거의 제거됩니다. 
+그러나 많은 양의 요산이 축적되어 있는 경우에는 수술적으로 활액막에 있는 요산의 대부분을 제거해 볼 수도 있습니다. 이 경우 건의 실질 내에도 다량의 요산이 침착되어 있기 때문에 심한 변연 절제술을 시행하면 수술 시야에서 건이 파열될 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수술은 관절과 건의 움직임을 복원하기 위한 경우, 정중 신경의 감압술 , 피부 손상이나 염증의 치료, 통증이 있거나 불편한 결절의 제거가 필요한 경우 등에서 시행할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[건막염(특발성 건막염)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6492]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[건막염]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2367]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[건막염(감염성 건막염)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6491]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[건막염(류마치스 건막염)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6490]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

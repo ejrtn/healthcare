@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[간의 양성종양(간혈관종)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1262]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[간혈관종은 혈관이 뭉쳐 기형적인 덩어리를 형성한 것으로 간에 생기는 가장 흔한 양성종양입니다. 최근 영상 진단 장비의 발달로 작고 무증상인 혈관종이 많이 발견됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈관종은 모든 연령에서 생길 수 있으나 30~50대에 가장 흔하며, 남자보다 여자에게 더 흔합니다. 2016년 유럽 간학회 가이드라인에 따르면 정상인 대비 혈관종인 남녀 비율은 남성 1:1.2, 여성은 1:6 정도이며, 혈관종 유병률은 영상 검사 기준으로 전체 인구의 약 5%, 부검 기준으로는 약 20%입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈관종은 대부분 작고 무증상이며 우연히 발견됩니다. 증상이 있는 경우, 복통 혹은 복부 불편감이 가장 흔하고 조기 포만감, 구역감, 구토가 있을 수도 있습니다. 혈관종이 복부 장기를 누르거나 밀어서 증상을 유발할 수도 있습니다. 간혹 출혈이나 혈전이 생기며, 매우 드물게 복강 내로 파열되는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈관종은 대부분 증상이 없기 때문에 건강검진이나 다른 질환의 검사를 위해 시행하는 복부 초음파나 복부 컴퓨터단층촬영(CT) 등의 검사에서 우연히 발견됩니다. 복부 자기공명영상(MRI), 간동맥 조영술 및 단일광자방출 컴퓨터단층촬영(Single Photon Emission Computed Tomography, SPECT) 등을 통해서도 진단이 가능합니다. 간혈관종의 복부 컴퓨터단층촬영 그림에서 혈관조영의 문맥기와 지연기에서 병변 내부에 조영제가 차들어가 있는 모습을 확인할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1894d121df51]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈관종은 악성종양(암)으로 진행되지 않으며, 주위 장기를 누를 정도로 크거나 합병증이 동반된 경우를 빼고는 특별한 치료가 필요하지 않습니다. 단, 악성종양과의 감별을 위해 추적검사를 할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. European Association for the Study of the Liver. (2016). EASL Clinical Practice Guidelines on the management of benign liver tumours. J Hepatol, 65(2):386-98. doi:10.1016/j.jhep.2016.04.001.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(간선종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1263]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1261]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(국소결절증식증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1265]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(담관낭선종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1266]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(간낭종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1264]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

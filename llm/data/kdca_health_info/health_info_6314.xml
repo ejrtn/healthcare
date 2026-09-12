@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[페스트]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6314]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[페스트는 페스트균(Yersinia pestis, Y. pestis) 감염에 의해 발생하는 급성 열성 인수공통 감염병입니다. 사람이 감염되는 경우는 흔하지 않고 항생제로 치료 가능하지만, 알려진 세균 질환 중 가장 독성이 강하고 치명적입니다. 사람은 벼룩에 물려 전염되는 것이 전형적이며, 감염된 동물 조직과의 직접 접촉이나 공기 중 비말로 전염될 수는 있으나 매우 드뭅니다. 독성과 전파력으로 인해 특별한 대책이 필요한 생물테러 잠재물질로 간주됩니다. 현재 법정 감염병 중 제1급 감염병으로 분류되므로 발생 또는 유행 즉시 신고해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 신고 범위: 환자, 의사환자
+
+2. 신고를 위한 진단기준 
+
+• 환자: 페스트에 부합되는 임상증상을 나타내면서 진단을 위한 검사기준에 따라 감염병병원체 감염이 확인된 사람 
+
+• 의사환자: 임상증상 및 역학적 연관성을 감안하여 페스트가 의심되나 진단을 위한 검사기준에 부합하는 검사결과가 없는 사람 
+
+3. 진단을 위한 검사기준: 검체(혈액, 가래, 기관지세척액, 림프절흡인물 등)에서 페스트균 분리 동정 
+
+4. 신고시기: 즉시 신고 
+
+5. 신고 방법: 신고서를 제출하기 전에 관할 보건소장 또는 질병관리청장*에게 구두, 전화 등의 방법으로 알려야 함. 이후 신고서를 작성하여 관할 보건소로 팩스를 보내거나 질병관리청 질병보건통합관리시스템(https://is.kdca.go.kr)을 통해 신고 
+
+*질병관리청 긴급상황실(043-719-7979) ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[페스트균은 오세아니아와 남극을 제외한 전 대륙에 분포합니다. 특히 아시아, 아프리카, 아메리카에서 야생 설치류와 벼룩 사이를 순환합니다. 사람과 비설치류 포유동물은 우연 숙주입니다. 사람-동물 간 유행성 전파는 드물고 산발적입니다. 전 세계 시골 지역에서 다양한 다람쥐, 야생 개, 굴을 파고 사는 설치류들이 주요 동물 간 유행성 숙주입니다. 페스트균은 야생 설치류에서 시골 및 도시 쥐들에게 전파됩니다. 병원체는 매우 적응력이 강한 쥐와 벼룩에 의해 시골에서 도시로 전파될 수 있습니다. 현재 페스트 국내 감염 발생 사례는 없으며, 가장 많이 발생하는 지역은 마다가스카르, 콩고민주공화국, 페루입니다. 2017년 마다가스카르의 페스트 유행은 대중교통을 이용한 한 남성으로부터 여러 여행자가 감염되면서 시작되었습니다. 8월부터 11월까지 확진 사례와 추정 및 의심 사례 포함, 총 2,417사례가 보고되었는데(209명 사망), 70%가 폐 페스트 형태였습니다. 인구밀도가 높고 이동이 빈번한 도심에서 폐 페스트가 발생하면 큰 유행으로 번질 위험이 높습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b279849c38]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 림프절형 페스트 
+
+림프절형 페스트의 잠복기는 대개 2~6일입니다. 환자는 오한, 발열, 근육통, 관절통, 두통, 쇠약감을 느낍니다. 24시간 이내에 페스트균이 침입한 부위의 근위부에 위치한 한 개 또는 여러 개의 림프절에 압통과 통증이 생깁니다. 벼룩은 대개 다리를 물기 때문에 사타구니와 대퇴 림프절이 가장 흔하게 침범됩니다. 림프절이 점점 커지면서 통증과 압통도 매우 심해지며 벼룩이 문 자리의 피부에 농포, 구진, 궤양 등이 생기는 경우도 있습니다.
+
+
+
+2. 패혈증형 페스트 
+
+패혈증형 페스트는 패혈증으로만 발병합니다. 혈액배양검사에서 페스트균이 검출될 때까지 의심하지 못해 진단이 늦어질 수 있습니다. 패혈증이 생기면 오심, 구토, 설사, 복통 등 소화기계 증상이 흔히 나타납니다.
+
+
+
+3. 폐렴형 페스트 
+
+가장 치명적인 형태의 페스트입니다. 오한, 발열, 두통, 근육통, 쇠약감, 어지럼증과 흉통이 갑자기 시작됩니다. 기침, 호흡곤란, 객혈 등의 호흡기계 징후는 보통 발병 2일째에 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[도말검사(smear examination, 펴바른 검사)와 혈액배양검사를 위해 혈액을 채혈합니다. 사타구니 림프절염이 있으면 림프액을 주사로 흡인해 조직 검사로 진단합니다. 가래 배양 검사도 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[페스트 유행지역으로의 여행을 피하고, 병에 걸리거나 죽은 동물과 접촉하지 않습니다. 설치류의 벼룩에 노출될 위험이 있으면 곤충 기피제, 살충제를 사용하거나 보호의복을 입고, 죽은 동물을 다루는 경우 장갑을 착용해야 합니다. 폐렴형 페스트가 진단되었거나 의심되는 경우 비말격리를 시행하고, 접촉자는 독시사이클린 또는 시프로플록사신 등의 항생제를 예방적으로 투여합니다. 건물이나 식품 판매소에서 설치류를 박멸하려는 노력을 계속해야 합니다. ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[150]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치료를 하지 않을 경우 페스트의 치사율은 50%가 넘습니다. 따라서 임상적으로 의심된다면 배양을 시행하고 즉시 치료를 시작해야 합니다. 
+
+초기에 항생제로 치료하면 림프절 페스트의 치사율은 5~10%로 떨어집니다. 일차 선택약은 스트렙토마이신이며, 겐타마이신도 비슷한 효과를 보입니다. 
+
+퀴놀론, 독시사이클린도 유효합니다. 일반적으로 10~14일 혹은 해열된 후 2일까지 항생제를 사용합니다. 
+
+림프절염은 림프액을 주사로 흡인해 배출해야 합니다. ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[156]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 페스트 유행지역 여행 주의 정보는 어디서 볼 수 있을까요?
+
+A. 질병관리청 해외감염병 NOW 웹페이지에서 확인 가능합니다.(http://xn--now-po7lf48dlsm0ya109f.kr/nqs/oidnow/main/index.do)
+
+
+Q. 페스트 예방 주사는 없나요?
+
+A. 아직까지 승인된 예방주사는 없습니다.
+
+
+Q. 페스트 감염이 의심될 때 며칠이나 격리해야 하나요?
+
+A. 음압격리가 원칙이며, 효과적인 항생제 치료 48시간 후 의료진의 판단에 따라 격리 해제가 가능합니다. 배양검사에서 양성인 경우에는 임상적으로 호전될 때까지 격리해야 하며, 폐 페스트의 경우 객담배양 검사에서 균이 나오지 않을 때까지 격리해야 합니다.
+
+]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1.질병관리청 (2020). 제1급감염병 두창∙페스트∙탄저∙보툴리즘독소증∙야토병 대응지침. 
+
+2.질병관리청 (2023). 2023 법정감염병 진단 신고∙기준 지침. 
+
+3.WHO (2022.7.7). plague[온라인 자료]. Retrieved from https://www.who.int/news-room/fact-sheets/detail/plague ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

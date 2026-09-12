@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[폐기능검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6258]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 폐는 산소를 받아들이고 이산화탄소를 내보내는 역할을 하는 중요한 호흡 기관입니다.
+• 폐기능검사는 이런 폐의 기능이 정상인지, 숨 쉬는 과정에 문제가 없는지를 확인하는 검사입니다.
+• 주로 폐활량계를 이용해 숨을 얼마나 빠르고 많이 내쉴 수 있는지(FEV1, FVC 등)를 측정합니다.
+• 이 검사를 통해 천식이나 만성폐쇄성폐질환 같은 폐질환을 진단하고 정도를 평가할 수 있습니다.
+• 또한 치료 효과 확인이나 수술 전 위험 평가, 폐질환의 조기 발견에도 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐(肺, lung)는 우리 몸에서 신진 대사를 위해 산소를 받아들이고 그 결과로 발생한 이산화탄소를 배출하는 장기입니다. 폐가 제 기능을 하지 못하면 숨이 찬 증상이 나타납니다. 폐에서 가스 교환이 잘 작동하기 위해서는 먼저 코에서부터 폐포까지 기도(氣道, airway)가 잘 유지되어야 하며 폐포에도 문제가 없어야 합니다. 또한 숨을 들이쉬고 내쉬는 과정이 원활하게 유지되어야 하는데, 이를 위해서는 호흡을 관장하는 중추인 뇌와 신경계, 흉곽 , 호흡관련 근육 등이 모두 기능을 잘 유지해야만 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173c16e17fe4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[따라서 넓은 의미에서 폐기능검사란 가스 교환이 잘 일어나는지, 기도에는 이상이 없는지, 숨을 들이쉬고 내쉬는 과정은 이상이 없는지, 산소 섭취 및 산소 소모는 적절한지 등 검사하는 것입니다. 
+
+그러나 일반적으로 좁은 의미에서 폐기능검사는 폐활량계(spirometer)로 기도의 폐쇄여부와 정도, 폐용적 등을 측정하는 것을 의미합니다. 여기에서는 좁은 의미의 폐기능검사로 폐활량계만을 가지고 설명하고자 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c6053]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[호흡곤란(숨이 참)이 있는 환자의 대부분은 폐기능검사가 필요합니다. 폐기능검사는 호흡곤란의 원인이 심장질환인지 폐질환인지 감별하는데 도움을 줍니다.
+폐질환이 의심되는 호흡곤란 환자는 모두 폐기능검사를 받아야 하는 대상입니다. 폐기능검사를 통하여 만성폐쇄성폐질환(COPD)이나 천식과 같은 질병을 진단할 수 있으며, 호흡곤란이나 폐질환의 정도를 파악할 수 있습니다. 호흡기질환을 가진 환자들은 정기적인 폐기능검사를 통해 폐기능의 추이를 보면서 질병의 경과를 파악할 수 있습니다.
+설명되지 않는 만성기침 및 호흡곤란이 있는 환자에게 폐기능검사를 고려할 수 있습니다. '쌕쌕거리는 숨소리'는 천식 및 만성폐쇄성폐질환이 악화되면 발생할 수 있는 증상으로, 응급상황 시 폐기능검사를 무리하게 진행할 경우 환자에게 심각한 상황을 초래할 수 있습니다.
+호흡기 질환의 치료 후 호전여부를 확인하고자 할 때도 폐기능검사가 필요합니다. 특히 만성폐쇄성폐질환이나 기관지천식은 치료 후의 반응 평가로 폐기능검사가 가장 좋습니다. 
+
+수술이 예정된 환자들은 마취나 수술에 대한 위험성을 평가하기 위해 폐기능검사를 받게 됩니다. 마취가 필요한 수술을 받은 후 발생할 수 있는 합병증은 가벼운 기관지염부터 폐허탈, 폐렴, 호흡부전 같은 심각한 폐합병증까지 다양하게 발생할 수 있습니다. 폐기능이 나쁜 경우에 합병증 발생 위험이 증가하므로 일반적으로 수술 전 검사로 폐기능검사가 포함되기도 합니다.
+증상이 없더라도 폐질환을 조기에 확인하기 위하여 폐기능검사를 시행할 수 있습니다. 특히 40세 이상의 흡연자는 폐기능검사를 고려할 만한데, 흡연이 가장 중요인자인 만성폐쇄성폐질환은 초기에는 폐기능이 감소되어 있어도 무증상인 경우가 많습니다. 기타 직업 혹은 환경 노출과 폐기능과의 관계를 살펴볼 때도 시행하게 됩니다.
+
+폐기능 검사를 시행하지 말아야 할 절대적인 금기는 없습니다. 협조가 안되는 환자, 급성 구토나 어지러움이 있는 환자, 구갈이나 안면부 통증이 있는 환자는 폐기능검사를 당장 시행하기가 어려울 수 있습니다. 그리고 원인모를 객혈이 있거나, 기흉이 발생한 환자, 불안정성 협심증이나 최근 심근경색증  환자, 대동맥류  환자, 최근 안과수술을 받아 안압증가의 우려가 있는 경우, 복부 혹은 흉부수술을 최근에 받은 환자, 숨을 세게 불어 내쉴 경우 어지러움이 있었던 환자는 상대적인 금기가 되고, 꼭 폐기능검사가 필요한 경우는 조심스럽게 시행해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐활량계를 가지고 측정할 수 있는 폐기능검사가 무엇인가를 이해하기 위해서는 폐활량계의 개념과 원리를 알아야 합니다. 폐활량계는 환자가 숨을 들이쉬고 내쉬는 과정에서 시간에 따른 들숨과 날숨의 양을 측정하는 도구입니다. 이를 응용하거나 변형하면서 여러 가지 폐기능검사를 시행할 수 있는데 대표적인 것은 다음과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18c32f9f06e5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 단순 폐기능검사(simple spirometry) 
+폐활량계를 사용하여 환자에게 숨을 들이쉬게 하고 최대의 노력으로 숨을 내쉬게 하여 여러 가지 측정값을 얻는 것이 단순 폐기능검사(simple spirometry)입니다. 이 검사에서 얻는 대표적인 측정값은 다음과 같습니다.
+• 노력성 폐활량(FVC, Forced vital capacity): 환자에게 최대로 숨을 들이 쉬게 한 다음 최대의 노력으로 숨을 끝까지 내쉬게 했을 때 내쉰 양입니다. 만약 환자가 최대로 숨을 들이 쉰 다음 자기의 노력을 다해 끝까지 내쉰 날숨의 총량이 4L라면 FVC는 4L로 기록됩니다. 
+• 1초간 노력성 호기량(FEV1, forced expired volume in one second): 위의 경우처럼 숨을 최대로 들이쉰 다음 자기의 노력을 다해 내쉴 때 첫 1초간 내쉰 양이 FEV1이 됩니다. 노력상 폐활량이 같은 4L라도 환자에 따라서 FEV1은 차이가 날 수 있습니다. 첫 1초간 2L를 내쉬었다면 FEV1은 2L로 기록됩니다. FEV1은 첫 1초간 얼마나 빨리 숨을 내쉴 수 있는지를 보는 지표입니다. 
+• FEV1/FVC 비율: 보통 정상인은 노력성 폐활량의 70% 이상을 첫 1초에 내쉴 수 있습니다. 즉, FEV1/FVC &gt;0.7이 됩니다. 반면에 노력성 폐활량에 비교하여 첫 1초에 내쉬는 양이 적다면 FEV1/FVC＜0.7이 되는데, 이는 내쉬는데 장애가 있음을 나타냅니다. 따라서 FEV1/FVC는 기관지폐쇄 유무를 확인하는 유용한 지표가 됩니다. 
+
+2. 기관지 수축 유발검사(Bronchial provocation test) 
+기관지 천식을 진단할 때 쓰이는 검사방법입니다. 기관지 천식은 기관지가 특정 약물이나 자극에 반응하여 기관지 수축이 일어나는 질환입니다. 기관지 수축 유발검사는 이러한 원리를 이용하여 인위적으로 기관지 수축을 유발하여 검사하는 방법으로, 기관지를 자극하는 약물이나 물질을 흡입하게 하여 기관지가 수축하는 것을 폐활량계로 정량 계측합니다. 기관지 수축을 유발하는 물질로 여러 가지가 쓰이지만 현재 가장 많이 쓰이는 화학물질은 메타콜린(methacholine)입니다. 
+
+3. 기관지확장제 반응검사(Postbronchodilator test) 
+폐기능이 정상인 경우 천식 여부를 판단하는 검사로 흔히 기관지 수축 유발검사를 합니다. 그러나 이미 폐기능이 감소하여 기관지 수축을 유발하는 것이 어려울 때는 기관지확장제를 투여한 후에 폐기능검사를 하게 됩니다. 기관지확장제에 반응이 있다고 평가할 수 있는 기준은 FEV1이 기관지확장제 투여 후에 200 mL 이상 증가하고 비율로도 12% 이상 증가할 때 입니다. 반응이 있는 것으로 확인되면 기도폐쇄가 가역적인 것으로 말할 수 있으며, 이는 일반적으로 환자가 천식이 있거나 가역성이 있는 만성폐쇄성폐질환이 있다는 의미로 해석합니다. 
+
+4. 폐용적 검사(Lung volume) 
+폐용적은 폐 안에 있는 가스의 양을 측정하는 것입니다. 우리가 숨을 최대로 내쉬고 더 이상 내쉴 숨이 없을 때의 폐용적을 잔기량(RV, Residual volume)이라고 하고 최대로 숨을 들이쉬었을 때의 폐용적을 전폐용량(TLC, Total lung capacity)이라고 부릅니다. 우리가 평상시 호흡할 때 숨을 내 쉰 후 다음 숨을 들이마시기 직전의 폐용적을 기능적 잔기량(FRC, Functional residual capacity)이라고 합니다. 즉 우리는 평상시 기능적 잔기량만큼의 공기량을 폐에 늘 가지고 있으면서 숨을 들이쉬고 내쉬게 됩니다.  
+
+5. 폐확산능(Diffusing capacity) 검사 
+폐의 기본 기능은 가스교환이므로 폐포에서 가스교환이 잘 일어나는지를 평가하는 것이 폐기능의 고유 검사항목입니다. 그러나 산소가 폐포를 통하여 혈액 내로 얼마나 잘 녹아 들어가는지를 검사하기는 어렵습니다. 그래서 일산화탄소를 산소 대신 이용합니다. 일산화탄소는 산소보다 쉽게 혈색소와 결합하므로 측정이 용이합니다. 보통 10초 정도 일산화탄소를 들이쉬게 하고 내쉰 숨에서 들어간 양과 비교하여 일산화탄소양을 계산하고 측정합니다. 물론 검사에 사용된 일산화탄소 흡입량은 아주 소량으로 건강에 나쁜 영향을 주지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐기능검사는 환자의 상태에 따라 검사 결과가 달라질 수 있습니다. 다음은 폐기능검사 전에 반드시 지켜야 할 사항입니다. 
+• 검사 1시간 이내에는 담배를 사용하지 않습니다. 
+
+• 적어도 검사 4시간 이전에 음주를 하지 않습니다.
+• 검사 30분 이전에 과격한 운동을 하지 않습니다
+• 가슴이나 배가 꽉 끼는 옷을 입고 오지 않습니다. 
+• 검사 2시간 이전에 과식하지 않습니다.
+
+
+환자는 검사전이나 검사하는 동안 긴장을 푼 상태로 임해야 합니다. 복장도 숨을 들이쉬고 내쉬기에 편한 옷이어야 합니다. 입으로 불어내는 검사이므로 틀니나 치과 보형물을 하고 있는 환자는 제 위치로 고정 후 검사하거나 임시로 제거한 후에 합니다. 그리고 검사결과에 영향을 줄 수 있는 가슴통증이나 복통이 있는 경우, 요실금이 있는 경우, 혹은 치매나 의식장애가 있는 경우는 검사자에게 알려주어야 합니다.
+천식 진단을 위한 기관지 수축 유발검사를 하기 위해서는 의사로부터 일시 중단할 약물에 대하여 지시사항을 받게 됩니다. 검사 전에 이를 잘 준수하여야 정확한 천식 진단 검사가 이루어집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c61b5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[검사를 진행하는 의사나 기사의 지시에 따르면 됩니다. 보통의 검사절차는 다음과 같습니다. 
+• 나이, 성별을 확인하고 키와 몸무게를 잽니다.
+• 의자에 앉습니다. 
+• 넥타이, 두터운 외투, 벨트, 껌, 의치 등을 제거하고 편하게 검사할 준비를 합니다. 
+• 상체를 편하게 15도 정도 앞으로 기울이고, 턱과 목을 약간 들어 기도가 막히지 않도록 합니다.
+• 입으로만 숨을 쉴 수 있도록 코를 집게로 막을 것입니다.
+
+• 폐활량계와 연결된 튜브를 통하여 숨을 쉬게 됩니다. 이때 숨이 입과 튜브 사이로 새나가지 않아야 합니다. 
+• 숨을 최대로 깊숙이 들이마신 다음 가능한 빠른 속도로, 자신의 온 힘을 다하여 내쉽니다. 숨을 내 쉴 때 더 이상 내쉴 숨이 없더라도 검사 진행자가 그만할 때까지는 계속 내쉬는 자세를 유지하여야 합니다. 그만하기 전에 숨을 들이쉬면 안됩니다. 보통 최소 6초 이상 내쉬어야 합니다.
+• '그만'이라고 말하면 정상적으로 숨을 들이쉬고 내쉬면 됩니다.
+• 위와 같은 과정을 적어도 3회 반복 시행하고 검사를 완료하게 됩니다.
+• 검사 중에 휴식이 필요하면 말씀하십시오.
+
+
+기관지 수축 유발검사 시에는 연무된 메타콜린(methacholine)을 흡입하게 되고 위와 같은 과정으로 검사를 진행합니다. 기관지확장제에 대한 반응을 확인하기 위한 검사도 기관지확장제를 흡입하고 10~20분 후 위와 같은 과정으로 검사를 진행하게 됩니다. 만약에 아래와 같은 경우는 폐기능검사가 잘못 측정되므로 다시 시행하게 됩니다.
+• 최대의 노력으로 내쉬지 않은 경우
+• 입과 튜브 사이에 숨이 새어나간 경우
+• 숨을 충분히 들이쉬지 않거나 충분하게 내쉬지 않은 경우
+• 날숨을 빠르게 시작하지 않은 경우
+• 검사 도중 기침
+• 튜브가 혀에 의해 막힌 경우
+• 검사 중 소리를 내는 것
+• 검사 전 또는 검사도중의 나쁜 자세]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[먼저 폐기능검사를 하게 되면 폐기능검사가 믿을 만하게 적절히 시행되었는가를 판단합니다. 검사가 제대로 된 경우에 폐기능검사 결과를 판독하게 됩니다. 
+
+
+1. 정상 폐기능이란?
+정상 폐기능은 폐기능검사 지표(FEV1, FVC, FEV1/FVC 등)가 모두 정상인 경우를 말합니다. 
+각 지표는 나이와 키, 성별을 고려한 정상예측치가 있습니다. 검사 결과는 피검자의 검사지표와 정상예측치를 비교하여 검사수치가 정상예측치의 80% 이상이면 정상으로 간주합니다. FEV1/FVC는 0.7(70%) 이상이면 정상으로 판정합니다. 
+따라서 폐기능검사 결과는 검사지표의 수치량과 함께 정상예측치에 대한 비율로 같이 표시됩니다. 
+예를 들어 두 환자 갑과 을이 FVC가 3 L로 나왔다면 이는 정상인지 이상인지 판단이 어렵습니다. 그러나 FVC가 갑은 3 L(85%), 을은 3 L(65%)로 표시되면, 갑은 정상이고 을은 FVC가 저하된 상태로 해석을 합니다. 
+다음 그림은 정상 폐기능검사를 나타낸 결과지입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b2e1bef402]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[위의 기록지에서 'PRED'는 정상예측치이고 'Best와 %PRED'는 환자의 실제 검사 수치입니다.
+
+FVC를 보면 정상예측치는 4.78 L이고 이 환자의 검사 수치는 4.21 L로 비율은 88%이므로 정상 결과입니다.
+왼쪽하단에 세로축이 기류(flow)이고 가로축이 용적(volume)인 기류-용적 곡선이 표시되어 있습니다. 청색선이 이 환자의 기류-용적 곡선으로 정상 모양입니다. 
+한 가지 유의하실 것은 폐기능검사가 정상이라고 해서 아무 이상이 없다는 것을 의미하지는 않습니다. 폐에 큰 종양이 있는데도 실제 폐기능검사는 정상으로 나오기도 합니다. 또한 폐기능검사만으로 폐와 관련된 질병을 다 알 수 있는 것은 아닙니다. 
+
+
+2. 폐기능검사 결과는 어떻게 해석하나요? 
+폐기능검사는 보통 다음과 같은 단계로 해석합니다.  
+• 검사가 신뢰할 만하게 적절히 잘 시행되었는가를 평가합니다.
+• 각 검사 수치를 보면서 정상 검사 결과인지 살펴보고 이상이 있다면 어떤 폐기능에 이상이 있는지를 평가합니다. 
+• 기류-용적 곡선을 살펴봅니다.  
+
+
+해석을 위해서는 각 검사 수치를 살펴보아야 하는데 여러 폐기능검사 지표 중에서 가장 중요한 지표는 FEV1, FVC, FEV1/FVC입니다. 이 세 지표에 이상이 있는 지를 살펴보고, 이상이 있으면 1) 폐쇄성 환기장애 2) 제한성 환기장애  3) 혼합형 환기장애로 평가를 내립니다. 
+
+판정하는 순서는 FEV1/FVC를 먼저 살펴보고 이 지표가 감소되어 있으면 폐쇄성 환기장애로 생각합니다. FEV1/FVC가 정상이면 다음으로 FVC를 확인하여  FVC가 감소되어 있으면 제한성 환기장애를 고려해 볼 수 있습니다. FVC도 정상이면 정상으로 판정합니다. 혼합형은 FEV1/FVC가 감소하고, FVC도 감소할 경우 고려해 볼 수 있습니다. 이를 판독하는데 도움이 되는 검사지표의 양상을 표에 간단히 정리하였습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18ea1affb404]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[환기장애에 따른 기류-용적 곡선의 모양은 다음과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c63b8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐쇄성 환기장애는 FEV1이 주로 감소되는 형태로 첫 1초간 빨리 숨을 내쉬는데 장애가 있는 것으로 기관지의 폐쇄가 있음을 의미합니다. 제한성 환기장애는 FVC가 감소된 것으로 흉곽의 이상이나 폐 자체의 손상 등으로 발생합니다. 혼합형은 폐쇄성 환기장애와 제한성 환기장애가 같이 있는 상태입니다. 
+
+1) 제한성 환기장애]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b2e290c0d2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[FEV1 FVC, 전폐용량(TLC)이 감소되어 있으나 FEV1/FVC는 84%로 감소하지 않은 경우, 이 환자의 폐기능검사 결과는 제한성 환기장애입니다. 왼쪽 아래에 제시된 기류-용적 곡선에서 키가 크고 폭이 좁은 모양으로 나타납니다. 제한성 환기장애를 보이는 대표적인 질환으로는 간질성 폐렴, 흉곽이나 근육 질환 등을 들 수 있습니다. 
+
+2) 폐쇄성 환기장애]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b2e2a7e035]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[FEV1이 현저히 감소되어 있고 FVC도 감소되어 있으나 FEV1/FVC가 58%로 감소한 경우는 폐쇄성 환기장애가 있는 환자의 폐기능검사 결과입니다. 왼쪽 아래의 기류-용적 곡선은 폐쇄성 환기장애 때 나타나는 모양으로 아래로 오목함이 잘 보입니다. 폐쇄성 환기장애를 보이는 대표적인 질환으로는 천식, 만성폐쇄성폐질환 등을 들 수 있습니다.
+ 
+3) 메타콜린 기관지 수축 유발검사
+기관지 수축 유발검사는 메타콜린을 흡입하기 전의 FEV1을 기준으로 하여 낮은 농도부터 점차 고농도로 단계적인 메타콜린을 흡입하면서 FEV1이 20% 이상 감소하는지를 관찰하고 그때까지의 FEV1 변화를 확인합니다. 20% 이상 감소될 때의 메타콜린 농도가 8.0 mg/ml 이하이면 양성으로 판정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b2e2b74878]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[위 환자는 메타콜린이 7.68 mg/ml의 농도에서 FEV1이 20% 이상 감소하기 시작하여 유발 검사 양성인 기관지 천식 환자입니다. 20% 이상 감소 후에 기관지확장제를 흡입하였고 흡입 후 FEV1은 다시 정상으로 회복되었습니다.
+
+3. 폐기능이 떨어진다고 들었는데요?
+병원에서 폐기능검사 후에 폐기능이 떨어지거나 이상이 있다는 소리를 듣게 되면 대개 FEV1이나 FVC 혹은 FEV1/FVC가 감소되었다는 뜻입니다. 우리나라에서도 호흡기장애 등급을 매길 때 증상과 함께 폐기능지표로 FEV1과  폐확산능(DLCO)을 가지고 평가합니다. 이 두 지표중 하나라도 40% 미만이면 FEV1 호흡기 장애의 조건이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[246]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 폐기능을 향상시키는 방법이 있나요?
+
+A. 천식 같은 가역적인 기도폐쇄가 있는 경우는 꾸준한 약물치료로 폐기능을 향상시킬 수 있습니다. 그러나 비가역적으로 폐기능이 저하된 경우에는 폐기능을 정상으로 향상시키기는 어렵습니다. 흡연은 호흡기증상을 악화시키고, 연간 FEV1 감소 정도를 가속화시키며, 무엇보다도 스테로이드 같은 치료에 대한 효과를 감소시키므로 금연을 강력히 권해 드립니다. 운동이나 산소요법 같은 치료로 폐기능을 호전시키지 못하지만, 호흡곤란 같은 증상 개선 및 삶의 질을 향상시키는 효과는 있습니다.
+
+Q. 폐기능이 저하된 사람이 주의할 것은 무엇인가요?
+
+A. 폐기능검사 후 담당 의사와 상의하여 폐기능이 감소된 원인 질환을 확인하고 주의 사항을 들어야 합니다. 일반적인 주의사항은 다음과 같습니다.
+   • 반드시 금연을 해야 합니다.
+   • 감기, 기관지염 폐렴에 걸리지 않도록 주의하여야 합니다.
+   • 65세 이상이거나 만성폐쇄성폐질환 같은 호흡기질환이 있으면 독감, 코로나, 폐렴구균에 대한 예방접종이 권고됩니다.
+   • 규칙적으로 운동을 합니다.
+   • 평소 호흡기 약물을 지시대로 잘 사용합니다.
+
+Q. 일상생활에서 폐기능저하를 인지할 수 있는 방법이 있나요?
+
+A. 숨찬 증상은 주관적으로 인지하는 증상으로 폐기능이 저하되었다고 모두 숨찬 증상을 호소하는 것은 아닙니다. 하지만 숨이 차서 또래 친구들에 비해 더 천천히 걸어야 한다든지, 빨리 걷거나 오르막을 걸을 때, 평지를 100미터 정도만 걸어도 숨이 찬지, 옷을 갈아입거나 세수할 때도 숨이 찬 증상을 느낀다면 폐기능저하를 의심해 보아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한결핵 및 호흡기 학회. (2016). 2016 폐기능검사 지침.
+2. 대한결핵 및 호흡기 학회. (2018). COPD 진료지침 2018 개정.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

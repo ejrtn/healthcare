@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[눈 충혈]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5846]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 눈 충혈은 눈의 흰자위에 있는 결막의 혈관이 확장 또는 증식되어 빨갛게 보이는 상태로, ‘빨간눈’이라고도 불립니다.
+• 주로 결막염과 같은 감염이나 염증, 콘택트렌즈 착용으로 인한 산소 공급 부족, 외상, 결막밑출혈, 안구건조증 등이 원인이 됩니다.
+• 원인 질환을 치료하면 대개 저절로 좋아지지만, 단순히 충혈을 완화하는 약물 사용은 원인 질환을 악화시킬 수 있으므로 주의가 필요합니다.
+• 증상이 지속되거나 통증, 시력 저하가 동반될 경우에는 반드시 안과를 방문해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[눈 충혈 또는 ‘빨간눈’은 흰색인 공막을 배경으로 하여 공막 위의 투명한 조직인 결막의 혈관이 확장 또는 증식하여, 흰 눈동자가 빨갛게 보이는 상태를 단순히 묘사하는 용어입니다. 한편, 결막의 혈관이 터져서 결막밑출혈이 발생한 경우에도 눈 충혈이라고 표현하는 경우가 있는데, 엄밀히 말하면 결막밑출혈은 충혈과는 다른 원인에 의해 발생하며, 다른 양상을 가지고 있습니다. 따라서 일반적인 눈 충혈은 결막밑출혈이 아닌 결막의 혈관 확장 또는 증식이 나타난 상태를 의미합니다.
+이러한 눈 충혈이 있을 때에는 충혈의 원인을 파악하고 이를 빨리 치료하여야 하며, 단순히 충혈만을 완화시키는 치료는 적합하지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc2d67]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc2d14]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[눈이 충혈된다는 것은 결막 혈관이 확장되거나 증식했음을 의미합니다. 혈관이 확장 또는 증식하는 원인에는 크게 두 가지가 있는데, 첫 번째로 여러가지 감염 및 염증 질환이 발생하는 것과, 두 번째로 결막에 산소 공급이 부족해지는 것입니다.
+
+1. 감염 질환
+눈 충혈의 가장 흔한 원인은 결막염입니다. 감염으로 인한 결막염에는 바이러스, 세균, 진균, 클라미디아 감염 등이 있을 수 있는데, 그 중 가장 흔한 것은 바이러스결막염입니다.
+2. 염증 질환
+알레르기결막염, 눈꺼풀염, 안구건조증, 포도막염 등으로 인해 결막에 염증이 발생하여 혈관 확장과 충혈이 발생할 수 있습니다.
+3. 산소 공급 부족
+산소 투과율이 낮은 콘택트렌즈를 장기간 착용한 경우, 결막 혈관이 확장되고 증식하여 충혈이 발생할 수 있습니다.
+4. 그 외 충혈의 원인
+안구에 외상을 입은 경우, 녹내장 약 등 결막 충혈을 유발할 수 있는 안약을 사용한 경우, 고안압 환자에서 충혈이 발생할 수 있습니다.
+5. 결막밑출혈 
+결막밑출혈은 광범위한 안구의 외상으로 발생하거나 심한 기침이나 재채기로 발생하기도 하며, 고혈압 또는 항응고제 복용 중인 환자에서 특별한 이유 없이 발생하는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc8777]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[162]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대부분의 눈 충혈은 원인 질환을 해결하면 저절로 좋아집니다. 다만 한 번 결막 혈관이 증식하면 약간의 자극만 받아도 눈이 다시 충혈되기 쉬운데, 이미 증식한 혈관이 완전히 소실되지 않고 남아있다가 자극이 오면 다시 바로 확장되기 때문입니다.
+ 결막밑출혈의 경우 겉으로 보기에는 눈에 큰 문제가 생긴 것으로 생각하기 쉬우나, 2~3주가 지나면서 출혈은 자연적으로 흡수되며 눈에 다른 문제를 일으키는 경우는 드뭅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 병력 청취
+ 눈 충혈의 원인을 찾는데 있어 환자의 병력은 매우 유용한 단서를 제공합니다. 다음 사항에 대한 자세한 병력 청취가 필요합니다.
+• 눈 충혈이 언제부터 시작하여 얼마나 지속되었는지
+• 한쪽 눈에만 발생하였는지 아니면 양쪽 눈 모두에 발생하였는지
+• 눈을 다친 적은 없었는지
+• 알레르기가 있는지
+• 안약을 사용하고 있는지
+• 전신 약물을 사용하는 것이 있는지
+• 콘택트렌즈를 착용 중인지
+• 이전에 비슷한 일이 반복되었는지
+
+2. 이학적 검사
+세극등검사, 시력과 안압 측정, 필요 시 산동 후 안저검사 등을 할 수 있으며 면밀한 안과 검진을 통해 원인 질환을 파악할 수 있습니다. 결막 혈관의 확장 혹은 증식으로 인한 충혈인지, 결막의 아래에 위치한 공막 혈관의 확장이 동반되어 있는지, 눈꺼풀 결막의 변화가 동반되어 있지는 않는지, 각막의 염증이나 상처는 없는지, 전방 염증은 없는지 등을 평가합니다.
+
+3. 그 외
+포도막염이나 녹내장 등이 의심되는 경우 의사가 필요하다고 생각하면 면역질환, 감염질환 등을 파악하기 위해 혈액검사나 흉부 촬영, 골반 촬영 등을 시행할 수 있으나 일반적인 충혈 환자에서 흔히 하는 검사는 아닙니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[알레르기결막염
+유행각결막염
+안구건조증
+안외상(각막이물, 각막화상, 각막찰과상)
+다래끼와 콩다래끼
+녹내장
+포도막염
+콘택트렌즈]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[눈 충혈의 원인에 따른 치료를 해야 합니다. 의사의 처방 없이 단순히 충혈만을 가라앉히는 약물을 사용하는 것은 오히려 원인 질환을 악화시킬 수 있으므로 바람직하지 않습니다.
+
+1. 원인 질병에 따른 치료
+바이러스결막염을 포함한 감염 결막염의 경우 점안 항생제와 점안 소염제를 사용하며, 알레르기결막염의 경우 점안 알레르기약과 경구 항히스타민제를 함께 사용할 수 있습니다. 급성 녹내장의 경우 레이저 시술이나 안압강하제를 통해 안압을 떨어뜨려야 하고, 포도막염에서는 점안 소염제 뿐만 아니라 경구 소염제를 함께 사용하는 경우가 있습니다.
+
+2. 대증요법 및 경과관찰
+콘택트렌즈 착용으로 인해 안구 표면에 산소 공급이 부족해져서 발생한 눈 충혈은 우선 콘택트렌즈 착용을 중단해야 합니다. 결막밑출혈의 경우도 특별한 치료 없이 경과 관찰하면 저절로 좋아집니다. 안구건조증, 눈꺼풀염으로 인한 눈 충혈은 눈꺼풀 온찜질과 인공눈물 사용으로 좋아질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[통증이 있거나 시력 저하가 동반된 경우에는 반드시 안과를 방문해야 합니다.
+ 콘택트렌즈를 사용하고 있는 사람은 렌즈 사용을 중단하고도 충혈이 지속된다면 안과 진료를 받아야 하고, 이물질이 눈에 들어간 적 있거나 인공눈물 사용 후에도 좋아지지 않으면 병원 방문을 권유합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 한국각막학회. (2024). 각막 (제4판). (주) 일조각.
+2. Holland, EJ. (2013). Ocular surface disease: cornea, conjunctiva and tear film, London; New York, NY: Elsevier/Saunders.
+3. Mannis, MJ. (2017). Cornea (4th edition), St. Louis, Mo: Elsevier.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[구역질과 구토]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5804]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 구역질과 구토는 다양한 원인으로 인해 흔히 나타나는 증상으로, 4주 이상 지속되면 만성, 7일 이내에 나타나면 급성으로 분류합니다.
+• 원인은 소화기관 문제(위장 염증, 식도나 위장 폐쇄 등)와 비소화기관 문제(심근경색, 뇌압 상승 등)뿐만 아니라 항암제, 항생제 같은 약물과 내분비 질환이 포함됩니다.
+• 대부분 예후가 양호하지만, 심각한 질환에 의해서도 발생할 수 있어서 원인 질환을 파악하고 치료해야 합니다.
+• 치료의 원칙은 탈수, 전해질 불균형, 대사 이상 등을 교정하는 것이며, 증상 완화를 위해 항구토제, 제산제 등을 사용할 수 있습니다.
+• 급성 구역질과 구토로 인해 수분 섭취가 불가능해 탈수가 심해지면 꼭 병원을 방문하여 처치를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구역질(오심)과 구토는 흔하게 나타나는 증상으로 다양한 이유로 발생됩니다. 일반적으로 4주 이상 지속되면 만성 구역질과 구토로, 7일 이내로 나타나면 급성 구역질과 구토로 봅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[159]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구역질(오심)이란 토할 것 같은 불쾌한 느낌, 메스꺼움 등으로 가슴 답답함, 침분비 증가, 식은 땀 등이 함께 나타날 수 있습니다. 구역질은 구토, 소화불량 등의 여러 위장 증상과 함께 생기기도 하고, 단독으로 생기기도 합니다. 구토는 횡격막과 복부 근육이 수축하면서 상부 위장관(식도, 위, 십이지장)의 음식이나 위액이 강제로 입 밖으로 나오는 것입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[160]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구역질과 구토는 위장관염, 약물 등의 원인 질환으로 인해 발생할 수 있으며, 뚜렷한 원인 질환 없이 발생하는 경우도 있습니다. 대체로 위장염과 같은 내과적 원인이나 근골격계 손상, 또는 항암제 등의 약물이 원인인 경우에 급성으로 나타납니다. 구토를 동반한 기능성 소화기 질환은 순환 구토 증후군(cyclic vomiting syndrome), 만성 구역 구토 증후군(chronic nausea vomiting syndrome) 등으로 분류되며, 이는 증상이 6개월 이상 지속되고 최근 3개월 이내에 나타난 경우를 말합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구역질과 구토의 원인은 크게 소화기관의 문제와 비소화기관의 문제로 나눌 수 있습니다. 구토를 일으키는 소화기관의 문제에는 위장 염증, 창자가 늘어남, 식도나 위장의 폐쇄 등이 있으며, 기능성 소화불량의 경우 주로 식후에 구역질이 나타날 수 있습니다. 다만, 기능성 소화불량에서 구토 증상은 드물게 나타납니다. 소화기관 외 구역질과 구토의 원인은 심근경색, 뇌압 상승, 정신과적 질환, 그리고 멀미나 미로염과 같은 귀의 평형기관 이상 등이 있습니다. 또한, 항암제와 항생제 같은 약물, 갑상샘 및 부갑상샘 질환, 부신기능 저하 등의 내분비 질환도 구역질과 구토의 원인이 될 수 있습니다.
+구토의 원인을 구별할 수 있는 특징적인 증상은 다음과 같습니다. 복통이 동반되고 구토 후 복통이 좋아진다면 장관폐쇄(특히 소장폐쇄)의 가능성이 높습니다. 췌장염이나 담낭염의 경우는 구토 후에도 통증에 변화가 없습니다. 의도하지 않은 체중 감소가 동반된다면 악성종양이나 장관폐쇄의 가능성이 높으며, 열이 나면 감염 원인에 대한 검사가 필요합니다. 두통이 있거나 물체가 두 개로 보이거나 흔들려 보이거나 시야가 좁아진다면 뇌질환을 의심해야 합니다. 특히 아침에 악화되며, 두통과 함께 심한 구역질과 구토가 반복되면 뇌종양이 아닌지 꼭 확인해야 합니다. 어지럼증이나 이명(귀에서 소리남)이 있다면 귀 속에 있는 신경인 미로질환의 가능성이 높습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc37d4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[162]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구역질과 구토는 대체로 경과가 양호하지만, 일부 경우에는 심각한 질환에 의해 발생할 수도 있습니다. 대부분의 경우, 질병력과 진찰을 통해 원인을 알 수 있고, 일부는 검사를 통해 치료 방법을 결정하게 됩니다. 만약 구역질과 구토가 계속된다면, 위내시경 등의 검사를 통해 기질적인 원인 가능성을 확인해야 합니다. 급성 구역질과 구토가 발생하면 탈수가 심해져 상태가 악화될 수 있으므로 즉시 병원을 방문하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[163]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구역질과 구토는 반사적으로 나타나는 증상으로, 구토 반사는 뇌 속의 구토 중추가 조절하고 있습니다. 상부위장관은 자율신경, 신경전달물질, 위장 근육의 정교한 조화로 움직이는데, 이러한 움직임과 소화기능이 제대로 작동하기 위해서는 위장관과 중추신경계 간의 상호 작용이 매우 중요합니다. 다양한 원인으로 소화기관의 신경이 자극을 받으면 여러 신경 통로를 통해 구토 중추에 전달되어 구역질과 구토가 유발됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구역질과 구토는 여러 질병의 흔한 증상이지만 정확한 유병률은 잘 알려져 있지 않습니다. 미국 성인을 대상으로 한 설문조사에서 지난 3개월 동안의 구역질과 구토를 겪은 적이 있느냐는 질문에 응답자의 약 7%가 그렇다고 대답을 한 바 있습니다. 그 외 연구에서는 전체 인구의 3%가 주 1회의 구역질을 경험하며, 최소 1달에 1회 이상의 구토 증상이 있다는 조사결과도 있습니다. 일반적으로 원인 질환으로 인해 구역질과 구토가 나타나는데, 급성 장염은 대부분 구역질과 구토를 동반하며, 급성 간염은 약 50% 환자들이 구역질과 구토를 호소합니다. 임산부의 경우에도 반복적인 구역질과 구토가 50~75%에서 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구역질과 구토의 원인은 매우 다양하기 때문에 질병력과 진찰, 그리고 몇 가지 선택적 검사를 통해 원인을 파악해야 합니다. 대부분 자세한 질병력 청취와 진찰만으로도 원인 파악이 가능하기 때문에 혈액검사나 방사선 검사, 내시경 검사 등이 반드시 필요하지는 않습니다. 기능성 구역질과 구토의 경우에는 검사보다는 진단 후 치료의 반응을 보면서 추가적인 검사 여부를 판단하기도 합니다. 
+
+1. 병력 청취
+증상의 시작 시기, 식사와의 관련성, 구토물의 색깔과 특징, 복통, 발열, 황달, 몸무게 감소, 시력장애, 두통, 운동 조절 능력 저하, 어지러움, 당뇨병 증상, 복부 수술력, 콩팥 질환, 협심증, 복용 중인 약물을 확인해야 합니다.
+
+2. 신체 진찰
+누웠을 때와 일어섰을 때 맥박과 혈압을 측정하거나, 피부를 살짝 잡아 올렸다가 펴지는 시간을 체크함으로써 심한 수분 손실 여부를 알 수 있습니다. 복부의 문제이지만 흉부(가슴) 청진도 해야 합니다. 흉부 청진시 잡음이 들린다면 토사물이 폐로 들어갔을 수 있기 때문입니다. 복부 진찰 시 장폐색 여부, 팽만 및 압통 유무, 복부나 사타구니 탈장까지 확인을 해야 하므로, 바지를 내려야 할 수 있습니다. 필요한 경우 안과 진찰을 통해 뇌에 문제가 있는지 확인합니다.  
+
+
+3. 임상검사
+일반적으로 치료에 반응이 없거나 구역질과 구토의 원인을 알기 어려운 경우 임상검사를 시행합니다.
+1) 혈액검사
+기본검사로서 일반 혈액검사, 적혈구 침강 속도, 전해질 검사 및 생화학 검사를 시행합니다. 약물 중독이 의심되는 경우에는 혈중 약물 농도를 검사합니다. 경우에 따라 췌장효소나 호르몬 검사(부신) 등을 시행할 수도 있습니다.
+2) 방사선 검사
+방사선 검사는 질병력과 진찰을 바탕으로 선택적으로 시행합니다.
+① 단순 복부 촬영(복부 X-선 검사)
+② 위내시경
+ ③ 복부초음파 또는 복부 컴퓨터단층촬영(Computed Tomography, CT) 
+④ 두부 컴퓨터단층촬영(CT) 또는 자기공명영상촬영(Magnetic Resonance Imaging, MRI) 
+⑤ 위장 운동검사]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치료의 주요 원칙은 탈수, 전해질 이상에 대해서 평가하고 이를 교정하는 것입니다. 내과적 혹은 외과적인 원인을 찾아 이에 맞춰서 치료를 하는 것이 원칙이지만, 원인 평가가 늦어지는 경우 증상에 따른 치료를 시행합니다. 물만 마셔도 메스꺼리거나 토해서 입으로 수분 섭취가 불가능한 심한 탈수 환자는 입원을 고려합니다. 입으로 섭취가 가능해지면 지방량이 적고, 씹지 않고 그대로 삼킬 수 있는 유동식으로 식사를 시작하는 것이 좋은데, 지방은 위를 통과하는 시간이 오래 걸리기 때문입니다. 또한 소화가 되지 않는 잔류물이 많이 남는 종류의 음식은 위에 오랫동안 남아 있을 수 있으므로 피하는 것이 좋습니다. 구역질과 구토는 대부분 예후가 양호하지만, 일부에서는 심각한 질환에 의해 발생할 수도 있습니다. 대부분 질병력과 진찰로 원인을 알 수 있으며, 일부는 검사를 통해 치료 방향을 정하게 됩니다. 만성적인 구역질과 구토가 동반된 환자에서는 위내시경 등을 포함한 검사를 시행하여 기질적 원인의 가능성을 확인해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구역질과 구토는 주로 구토에 의한 합병증인 탈수, 전해질 불균형, 대사 이상 등을 교정하는 것이 원칙입니다. 증상을 완화시키기 위해서 위장관 운동 촉진제와 항구토제 등을 사용할 수 있습니다. 그 외 제산제나 진경제를 추가로 복용하기도 합니다. 하지만 구역질과 구토는 원인을 찾아내어 치료해야 하며, 원인 질환에 따라 치료에 쓰는 약물이 달라질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성 구역질과 구토인 경우, 탈수가 심해지면 반드시 병원을 방문해야 합니다. 물만 마셔도 메스꺼움이나 구토가 나서 입으로 수분 섭취가 불가능할 때 탈수가 발생할 수 있습니다. 탈수의 정도는 극도의 갈증, 피부 건조 및 입마름, 빠른 심장 박동 및 호흡, 소변량 감소 등으로 평가할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 김가희, 정기욱. (2017). 구토. 대한소화기학회지, 70(6), 283-287. 
+ 2. 김진배, 손주현, 이항락, 김종표, 한동수, 함준수,... 기춘석. (2004). 급성 독성 간손상의 임상적 양상.
+  3. 대한가정의학회. (2016). 가정의학: 총론 (제4판 개정 증보판). 서울: 대한가정의학회 : 의학출판사. 오심과 구토, 156-161.  
+ 4. Camilleri, M., Dubois, D., Coulie, B., Jones, M., Kahrilas, P. J., Rentz, A.M., ...,&amp; Tack, J. (2005). Prevalence and socioeconomic impact of upper gastrointestinal disorders in the United States: results of the US Upper Gastrointestinal Study. Clinical Gastroenterology and Hepatology, 3(6), 543-552.  
+5. Clinical and Molecular Hepatology (대한간학회지), 10(2), 125-134. 
+6. Lacy, B.E., Parkman, H.P., &amp; Camilleri, M. (2018). Chronic nausea and vomiting: evaluation and treatment. American Journal of Gastroenterology, 113(5), 647-659. https://doi.org/10.1038/s41395-018-0039-2  
+7. Scorza, K.A., Williams, A., Phillips, J.D., &amp; Shaw, J. (2007). Evaluation of nausea and vomiting. American family physician, 76(1), 76-84.   
+ 8. Talley, N.J., Zinsmeister, A.R., Schleck, C.D., &amp; Melton III, L.J. (1992). Dyspepsia and dyspepsia subgroups: a population-based study. Gastroenterology, 102(4), 1259-1268.      Niebyl, J.R. (2010). Nausea and vomiting in pregnancy. New England Journal of Medicine, 363(16), 1544-1550.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

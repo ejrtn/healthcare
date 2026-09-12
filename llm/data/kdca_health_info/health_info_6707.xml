@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[복막투석]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6707]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[3]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3676]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 복막투석은 병원에 자주 가지 않고 집에서 직접 시행할 수 있는 투석 치료입니다.
+• 복막관 삽입 수술이 필요하며, 치료가 시작되면 하루 2~4회 투석액을 교환하게 됩니다.
+• 생활에 융통성이 커 직장, 학교, 여행 등과 병행할 수 있지만, 올바른 자가 관리와 청결한 환경이 중요합니다. 
+• 감염 등 부작용을 예방하려면 정해진 방법을 잘 지키고, 이상이 생기면 의료진과 상의해야 합니다.
+• 복막투석이 내 몸과 생활에 맞는 치료인지 충분히 상담한 뒤, 의료진과 함께 투석 방법을 선택하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[337]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[콩팥(신장)은 몸 속 노폐물과 과도한 수분을 걸러내는 중요한 장기입니다. 만성 콩팥병이 진행되어 콩팥 기능이 정상의 15% 이하로 떨어지면, 몸에 노폐물이 쌓이고 부종이 생깁니다. 이 경우 투석이나 신장 이식이 필요합니다. 
+투석 방법 중 하나인 복막투석은 배 안에 깨끗한 투석액을 넣어, 몸 속 노폐물과 수분이 그 안으로 빠져 나가도록 하는 치료입니다.
+
+이 과정은 다음과 같은 두 가지 원리에 의해 이루어집니다. 
+확산: 혈액 속 노폐물이 농도가 낮은 투석액으로 이동합니다. 마치 찻잔 속 티백에서 차 성분이 물로 퍼져 나가는 현상과 같습니다. 삼투압: 투석액에 포함된 포도당이 혈액 속 수분을 투석액으로 끌어당깁니다. 배추를 소금에 절일 때 수분이 빠져 나오는 현상과 비슷합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료의 적응증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[338]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복막투석은 집에서 본인이나 가족이 직접 시행할 수 있는 투석 치료입니다. 
+병원에 자주 방문하지 않아도 되기 때문에, 생활의 자유도가 높고 일상생활을 유지하기에 유리한 점이 많습니다. 
+
+다음과 같은 경우에는 복막투석이 특히 잘 맞을 수 있습니다:병원을 자주 방문하기 어려운 경우 직장이나 학교생활을 계속 유지해야 하는 경우 여행이나 활동이 많은 경우 남아 있는 콩팥 기능을 오래 유지하고 싶은 경우 주사바늘에 대한 두려움이 있는 경우 
+
+아래 표는 복막투석과 혈액투석의 장단점을 비교한 내용입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료의 적응증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[338]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19979a36f3b9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복막투석은 배 안에 투석액을 넣어 일정 시간 동안 노폐물과 수분이 빠져나오게 한 뒤, 이 투석액을 새것으로 교환하는 치료입니다. 
+이 과정을 하루에 여러 번 반복함으로써 콩팥 기능을 대신하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a5c02cb8a8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf266477]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복막투석의 횟수와 주입하는 투석액의 양은 개인의 체격과 남아 있는 콩팥 기능에 따라 조정됩니다.콩팥 기능이 거의 없는 경우, 하루 3~4회, 약 2L의 투석액을 손으로 교환합니다(지속적 외래 복막투석). 새 투석액을 넣은 후에는 튜브를 분리하고 자유롭게 생활할 수 있으며, 1회 교환에는 약 30분 정도가 소요되며, 그 외 시간에는 배 안에 투석액이 들어 있는 상태로 생활하게 됩니다.
+기계를 이용해 투석액을 자동으로 교환하는 방법(자동복막투석, APD)도 있습니다. 주로 수면 시간(약 7~9시간) 동안 기계가 자동으로 3~5회 투석액을 교환하며, 낮에는 추가 교환 없이 자유롭게 생활할 수 있습니다]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19aed0f63386]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복막투석의 준비과정
+복막투석을 시작하려면, 배 안과 바깥을 연결하는 부드러운 도관(튜브)을 삽입하는 수술이 필요합니다. 
+이 수술은 비교적 간단하며, 시행 후 약 2주간의 회복 기간을 거친 뒤 복막투석을 시작할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dbe9fbc3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 관련 주의사항]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[341]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복막투석은 병원에 자주 가지 않고, 집에서 직접 시행할 수 있는 투석 방법입니다.
+투석 방법을 결정하기 전, 아래의 내용을 참고해 주세요. 교육을 받으면 누구나 충분히 할 수 있습니다. 
+손 씻기, 소독, 투석액 교환 등은 의료진의 설명을 들으며 차근차근 배우면 어렵지 않습니다.가족의 도움을 받을 수 있다면 연세가 있으신 분도 가능합니다. 집에서도 안전하게 시행할 수 있습니다. 
+깨끗하고 조용한 방이 있다면 특별한 시설 없이도 치료가 가능합니다. 내 몸 상태에 맞는 치료인지 확인이 필요합니다. 
+이전에 복부 수술을 받았거나 탈장 위험이 있는 경우, 복막투석이 가능한지 반드시 의료진과 상담해야 합니다. 꾸준한 기록과 정기적인 진료가 치료에 도움이 됩니다. 
+체중, 혈압, 투석량 등을 간단히 기록해 두면 이상이 생겼을 때 빠르게 대처할 수 있습니다. 일상생활을 유지하기 좋은 치료입니다. 
+직장이나 학교생활, 여행 일정에 맞춰 조정이 가능하며,기계를 사용하는 자동 복막투석은 주로 밤 동안 치료하고 낮에는 자유롭게 활동할 수 있습니다. 치료 방법을 충분히 이해하고 스스로 선택하는 것이 중요합니다. 
+의료진과 충분히 상의한 뒤, 내몸과 생활에 가장 잘 맞는 투석방법을 선택하세요.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 관련 합병증 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[342]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복막투석은 비교적 안전한 치료이지만, 다음과 같은 문제가 생길 수 있습니다. 
+대부분은 일찍 발견하고 적절히 대처하면 잘 해결할 수 있습니다. 
+
+1. 복막염(배 안에 염증이 생기는 경우) 
+복막염은 복막투석에서 가장 흔하게 생길 수 있는 문제입니다. 
+배가 아프거나, 열이 나고, 투석액이 뿌옇게 변하면 복막염을 의심할 수 있습니다. 
+→ 이런 증상이 나타나면 바로 병원이나 복막투석실에 연락해야 하며, 항생제로 치료하면 대부분 잘 낫습니다. 
+✔ 복막염을 예방하려면 투석액 교환 시 손 씻기와 마스크 착용을 철저히 하고, 정해진 방법대로 교환해야 합니다.
+
+2. 출구 감염 및 도관 주변 염증 
+복막투석 튜브(관)가 나오는 피부 주변이 빨갛게 변하거나, 진물·딱지가 생기면 감염일 수 있습니다. 
+→ 매일 출구 부위를 깨끗하게 소독하고, 이상이 보이면 의료진에게 바로 알립니다. 
+✔ 깨끗한 샤워와 꾸준한 출구 관리로 대부분 예방할 수 있습니다. 
+
+3. 탈장 또는 흉수 
+배 안에 투석액이 들어가면 복압(배 속 압력)이 높아질 수 있습니다. 그 결과 배꼽이나 사타구니가 볼록해지는 탈장, 
+혹은 드물게 가슴 쪽으로 물이 차는 흉수가 생길 수 있습니다. 
+→ 복막투석을 잠시 중단하거나, 수술이 필요할 수 있습니다. 
+✔ 무거운 물건 들기, 배에 힘 주는 활동(변비 포함)은 피하도록 합니다. 
+
+4. 체중 증가 또는 영양 불균형 
+복막투석액에는 포도당(당분)이 들어 있어, 몸으로 흡수되면 체중이 늘거나 혈당이 오를 수 있습니다. 
+또한 투석 과정에서 단백질이 빠져나가 근육이 줄어들 수 있습니다. 
+→ 체중 조절을 위해 식사량을 조절하고, 단백질이 풍부한 음식(고기, 생선, 달걀, 콩 등)을 충분히 섭취해야 합니다. 
+✔ 영양사는 개인 상태에 맞는 식단을 도와줄 수 있습니다. 병원에서 영양 상담을 받아보세요.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 후 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[343]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복막투석 중 일상생활 관리 요령: 
+  복막투석은 자가 치료이므로, 꾸준하고 올바른 생활 관리는 치료 효과와 안전을 유지하는 데 매우 중요합니다.    
+       투석액 교환 전: 반드시 손을 깨끗이 씻고 마스크를 착용합니다.  투석액 교환 장소: 깨끗하고 환기가 잘 되는 방에서 시행합니다. 교환 후: 빼 낸 투석액의 양과 색깔을 확인합니다. 출구 관리: 매일 출구 부위를 소독하고, 붉게 변하거나 분비물이 생기지 않는지 확인합니다. 샤워 시: 출구 부위를 방수 테이프로 잘 가린 뒤 샤워하고, 샤워 후에 즉시 출구를 소독합니다. 매일 기록: 체중, 혈압, 투석액 교환량을 수첩이나 기록지에 적습니다. 운동: 규칙적으로 꾸준히 운동합니다. 식사 관리: 단백질은 충분히 섭취하고, 염분(소금)과 인이 많은 음식은 줄입니다. 필요 시 영양 상담을 받습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[344]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 복막투석 중에도 식이조절이 필요한가요? 
+
+A. 복막투석은 혈액투석보다 생활이 자유롭지만, 복막투석을 받는 동안에도 식이조절이 필요합니다. 부종이 있거나, 혈압이 높을 때는 나트륨(소금) 섭취를 줄여야 합니다.
+단백질 섭취는 투석 시작 전에 비하여 늘려야 합니다. 대체로 하루에 본인 체중 1 kg 당 1.2 ~ 1.3 g 정도의 단백질 섭취를 권장합니다. 즉, 체중이 60kg 인 환자의 경우 하루에 약 72~78 g의 단백질 섭취를 권합니다. 
+또한 인이 많이 들어 있는 음식(가공식품, 인산염이 포함된 식품 등)은 피합니다. 
+
+Q. 복막투석을 하면서도 여행을 할 수 있나요?
+
+A. 네, 복막투석 중에도 여행이 가능합니다. 다만, 여행 기간 동안에도 꾸준히 복막투석을 해야 하므로, 필요한 투석액과 소모품을 미리 준비해야 합니다.  여행 중 복막투석을 어떻게 시행할 지 사전에 의료진과 상의하세요.
+
+
+Q. 복막투석을 할 때는 어떤 운동을 하는 것이 좋을까요?
+
+A. 복막투석을 받는 동안에도 가벼운 운동은 대부분 가능합니다.
+걷기, 스트레칭, 실내 자전거, 요가 등 몸에 부담이 적은 유산소 운동이 좋습니다. 이런 운동은 심혈관 건강 유지, 체력 향상, 기분 전환에도 도움이 됩니다.
+단, 윗몸일으키기나 무거운 아령 들기처럼 복부에 힘이 많이 들어가는 운동은 피하는 것이 좋습니다.
+운동을 시작할 때는 짧은 시간, 가벼운 강도로 시작하고, 복막관 주위에 불편감이나 통증이 느껴지면 즉시 중단하고 의료진과 상의하세요.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[359]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한신장학회: 다행 캠페인: 교육자료. https://ksn.or.kr/general/campaign/ 
+2. National Kidney Foundation: Kidney Topics: Peritoneal Dialysis. https://www.kidney.org/atoz/content/peritoneal 
+3. NHS UK: Conditions A to Z: Peritoneal Dialysis. https://www.nhs.uk/conditions/dialysis/ 
+4. Mayo Clinic. Dialysis: Tests and Procedure: Peritoneal dialysis. https://www.mayoclinic.org/tests-procedures/peritoneal-dialysis/about/pac-20384725]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[발치]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6702]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[3]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3676]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 발치 수술은 치과에서 흔히 시행되는 작은 수술입니다.
+• 심한 충치, 치수 괴사, 중증 치주질환, 교정, 과잉치, 매복치 등으로 발치가 필요할 수 있습니다.
+• 심장 관련 질환, 고혈압, 혈액 질환, 당뇨, 간·신장 질환, 특정 약물 복용, 임신 초기·말기에는 발치를 조심해야 합니다.
+• 발치 시 통증과 불안을 줄이기 위해 국소마취, 경구·흡입·정맥 진정, 전신마취 등 다양한 방법이 사용됩니다.
+• 발치 후에는 처방약 복용과 얼음찜질 등 주의사항을 지켜야 하며, 이를 지키면 출혈, 감염, 치근 파절 등 합병증 없이 회복할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[337]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발치 수술은 치아를 뽑는 수술로, 치과에서 흔히 시행되는 치료입니다.발치는 다시 되돌릴 수 없기 때문에 꼭 필요할 때에만 신중히 결정해야 합니다.많은 환자들이 발치가 아플 것이라고 걱정하지만, 충분한 마취와 적절한 주의사항을 지키면 큰 문제 없이 수술을 받을 수 있습니다.치과의사는 환자의 불안과 통증을 줄이기 위해 다양한 방법을 설명하고 함께 선택합니다.무엇보다 중요한 것은 환자의 상태에 맞는 적절한 마취 방법을 사용하여 통증을 효과적으로 조절하는 것입니다.
+
+발치 시 통증과 불안을 줄이기 위한 마취 방법은 다음과 같습니다:
+- 국소 마취(부분 마취): 모든 환자에게 시행하며 치아 주변 잇몸에 마취제를 주사해 통증을 차단합니다.
+- 경구 진정: 시술 전에 약을 복용하여 불안을 완화하고 환자를 안정시킵니다.
+- 흡입 진정: 아산화질소(N₂O)를 사용하여 경도~중등도의 불안을 가진 환자에게 적용하며, 효과와 회복이 빠르고 진통 효과가 뛰어나면서 부작용이 적습니다.
+- 정맥 진정: 불안이 심하거나 여러 치아를 한꺼번에 발치할 때 활용되며, 깊은 진정 상태에서는 합병증 위험이 있어 마취과 전문의의 협조가 필요합니다.
+- 전신 마취: 발치에 시간이 많이 걸리거나 환자의 행동 조절이 필요할 때, 또는 난이도가 높은 발치 수술에서 시행됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료의 적응증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[338]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발치가 필요한 경우
+- 심한 치아우식증(충치): 치아가 너무 많이 썩어 치료가 불가능한 경우 발치가 필요합니다.
+- 치수 괴사(신경 괴사): 신경치료가 불가능하거나 신경치료 후에도 통증이 계속되는 경우 발치해야 합니다.
+- 중증 치주질환(잇몸질환): 잇몸뼈가 많이 손상되어 치아가 심하게 흔들리는 경우 발치가 필요합니다.
+- 치열 교정: 교정 치료 시 공간을 확보하기 위해 발치할 수 있습니다.
+- 치아 위치 이상: 치아가 비정상적으로 나와 주변 조직을 손상시키고 교정으로도 해결되지 않을 때 발치해야 합니다.
+- 균열된 치아: 금이 가거나 부러져서 치료를 해도 통증이 지속되는 경우 발치가 필요합니다.
+- 보철치료를 위한 경우: 틀니 제작 시 흔들리는 치아가 있으면 안정적인 틀니 설계를 위해 발치할 수 있습니다.
+- 과잉치, 매복치: 정상 치아의 성장을 방해하거나 병적인 문제를 일으키는 경우 발치가 필요합니다.
+- 병소와 연관된 치아: 치조골과 턱뼈의 골수염, 낭종, 종양 등과 관련된 치아는 발치해야 할 수 있습니다.
+- 방사선 치료: 구강암 등으로 방사선 치료를 받기 전에 심한 충치나 치주염이 있는 치아는 미리 발치하는 것이 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료의 적응증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[338]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d2151fc219]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료의 적응증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[338]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발치를 하면 안 되는 경우
+- 심근경색증: 발병 후 6개월 이내이거나 증상이 남아 있는 경우에는 발치를 피하고 반드시 내과 전문의와 협진해야 합니다.
+- 협심증: 가슴 통증이 계속되거나 약물에 반응하지 않는 경우 발치를 하지 않는 것이 좋습니다.
+- 심장판막질환 및 심내막염: 구강 내 세균에 의한 감염 위험이 크므로 발치 전후로 항생제 투여가 필요하며, 상태가 심하면 발치를 연기해야 합니다.
+- 고혈압: 혈압이 조절되지 않는 경우 발치 도중 혈압이 급격히 변할 수 있어 발치를 피해야 합니다.
+- 혈액 질환: 재생불량성 빈혈, 백혈병, 혈소판감소증, 혈우병 환자는 출혈 위험이 크므로 내과 전문의와 협진한 후에만 발치를 할 수 있습니다.
+- 당뇨병: 혈당이 조절되지 않으면 발치 후 합병증이 잘 생기므로 내과 전문의와 협진해 혈당을 조절한 뒤 발치해야 합니다.
+- 간·신장 질환: 출혈 위험이 크므로 내과 전문의와 협진하여 관리 후 발치를 고려합니다.
+- 특정 약물 복용 중: 스테로이드, 골다공증 약물(예: 비스포스포네이트), 항암제를 복용하는 경우 상처 치유가 지연될 수 있어 내과 전문의와 협진이 필요합니다.
+- 임신 초기와 말기: 초기에는 유산, 말기에는 조산 위험이 있으므로 발치를 피하고, 불가피하다면 산부인과 전문의와 상의하여 임신 4~6개월 사이에 최소한으로 시행합니다.
+- 심한 치관주위염이나 급성 치조농양: 감염이 심하면 먼저 감염을 치료하고 상태가 안정된 뒤 발치해야 합니다.
+- 악성 종양 부위의 치아: 암세포 전이 위험이 있어 신중해야 합니다.
+- 방사선 치료를 받은 부위의 치아: 방사선성 골괴사 위험이 있으므로 주의가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료의 적응증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[338]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17ff9680e1d1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 관련 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[339]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[﻿발치가 필요한지를 판단하기 위해서는 환자의 전신 건강 상태와 구강 내 상태를 종합적으로 평가해야 합니다. 이후 임상 검사와 방사선 검사를 통해 치아와 주변 구조물을 확인합니다. 이러한 과정을 통해 발치가 필요한 명확한 이유를 찾고, 시술 도중 발생할 수 있는 위험 요소를 미리 파악할 수 있습니다.
+1. 임상 검사 
+임상 검사는 병원에서 환자의 전반적인 건강 상태를 확인하기 위해 시행하는 검사입니다. 
+치과에서는 치과의사가 환자의 입안을 직접 눈으로 살펴보며 다음과 같은 사항들을 평가합니다: - 치아의 흔들림 여부 
+- 잇몸의 염증 여부와 치주낭(잇몸 주머니)의 깊이 
+- 치아의 충치나 손상 정도
+- 치아가 부서졌는지 여부 
+- 통증, 부종(부기), 출혈 등의 증상 여부
+또한, 환자가 가지고 있는 다른 질환(예: 당뇨병, 고혈압, 심장 질환 등)이나 현재 복용 중인 약에 대한 정보를 확인하는 것도 매우 중요합니다. 이러한 정보는 발치를 언제, 어떤 방법으로 시행할지를 결정하는 데 큰 영향을 줍니다.
+
+2. 방사선 검사 
+정확한 진단과 안전한 발치를 위해 다음과 같은 방사선 검사를 시행할 수 있습니다. - 파노라마 방사선사진(Panoramic radiograph): 상·하악 전체 치아와 턱뼈 구조를 한눈에 볼 수 있어, 매복치나 치근 형태, 주변 해부학적 구조(상악동, 하치조신경관 등)와의 관계를 평가할 때 유용합니다.
+- 치근단 방사선사진(Periapical radiograph): 특정 치아의 뿌리 끝까지 자세히 관찰할 수 있어, 치근 병변이나 치주 상태를 정밀하게 진단하는 데 사용됩니다. 
+- 치과용 CBCT(Cone Beam Computed Tomography): 3차원 영상을 통해 치아와 주변 구조를 입체적으로 평가할 수 있으며, 특히 매복치 발치나 인접 구조물과의 거리 파악이 중요한 경우에 유용합니다. 
+
+이러한 검사 결과를 종합하여, 치과의사는 발치가 필요한지 여부와 시기, 그리고 어떤 방법으로 발치를 진행할지를 결정하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 영구치의 발치  
+  1) 단순 발치
+가장 일반적으로 시행되는 발치 방법으로, 잇몸을 절개하거나 치아 주변의 뼈를 제거할 필요가 없습니다. 발치용 기구를 사용하여 치아를 잇몸뼈에서 분리한 뒤 안전하게 제거합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d2152bd5e5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 복잡 발치
+발치가 어려운 경우, 치아의 머리가 심하게 손상되었거나 뿌리에 접근하기 힘든 상황에서는 특별한 방법을 사용합니다. 잇몸을 절개하거나 일부 뼈를 제거할 수 있으며, 저속 또는 고속 회전 기구를 사용하여 치아를 잘라 제거하기도 합니다. 수술 후에는 잇몸을 봉합하여 회복을 돕는 경우가 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d215330969]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 유치(젖니)의 발치기본적으로 유치(젖니)를 뽑는 과정은 영구치를 뽑는 것과 비슷합니다.유치의 뿌리가 충분히 흡수되지 않았다면 일반적으로 뽑지 않습니다.하지만 꼭 뽑아야 하는 경우, 유치는 뿌리가 길고 약해 쉽게 부러질 수 있으므로 특별한 주의가 필요합니다.
+
+
+유치를 뽑아야 하는 경우는 다음과 같습니다.- 충치가 너무 심해 치료가 불가능한 유치 
+- 치아 뿌리 끝에 병이 생겨 다른 방법으로 감염을 없앨 수 없는 경우 
+- 잇몸뼈에 급성 감염이 생겼을 때 
+- 영구치가 제대로 나오는 것을 방해하는 오래 남아 있는 유치 
+- 정상적으로 빠지지 않는 유착된 치아 
+
+유치 발치를 하면 안되는 경우  
+기본적으로 성인과 동일합니다.
+- 유치를 뽑을 때는 아래에 있는 영구치를 항상 고려해야 합니다. 
+- 영구치가 다치지 않도록 주의하는 것이 중요합니다. 유치와 영구치 뿌리 사이의 관계를 잘 파악해야 합니다. 
+- 발치 과정에서 영구치가 다치거나 움직일 수 있으므로, 사전에 엑스레이 촬영으로 영구치 위치를 확인합니다. 
+
+3. 매복치의 발치  
+매복치는 제때 나지 못하고 뼈 속에 묻혀 있는 치아를 말합니다.주위 치아, 단단한 뼈, 혹은 연조직 때문에 나오지 못할 수 있습니다.나오지 않은 매복치는 수술로 제거하지 않으면 평생 남아 있을 수 있습니다.일반적으로 매복치는 문제가 생기기 전에 제거하는 것이 원칙입니다. • 환자가 나이가 많을수록 발치 후 회복이 느려질 수 있습니다.치과의사가 매복치라고 판단하면 가능한 한 조기에 발치하는 것이 좋습니다. 
+• 매복치를 남겨두면 주변 치아나 뼈 손실, 연조직 손상 등의 위험이 높아집니다. 
+
+특히 아래턱의 하치조 신경관은 아래턱 어금니 뿌리 근처에 있으며, 이 신경관 안에는 하치조 신경이 있습니다. 하치조 신경은 아래턱 치아, 잇몸, 아래 입술 주변의 감각을 담당합니다. 치아가 이미 나온 경우 발치 시 신경관을 건드릴 일이 거의 없지만, 매복치를 뺄 때는 신경관 내부에 있는 신경이 자극되거나 손상될 수 있으므로 주의가 필요합니다. 따라서 치아 뿌리와 신경관의 관계를 방사선으로 평가하는 것이 중요합니다.
+수술 전에는 환자의 두려움과 건강 상태를 고려하여 방법을 결정하고, 발치가 간단하지 않을 것으로 예상될 경우 구강악안면외과 전문의에게 의뢰합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 관련 주의사항]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[341]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치아 발치 및 구강 내 소수술 후 주의사항 • 물고 있는 거즈는 약 1시간 30분 동안 그대로 두고, 피나 침은 삼키십시오. 
+• 거즈를 제거한 후에는 수술 부위를 혀나 손가락으로 만지지 말고, 부드럽게 양치질을 하십시오. 
+• 수술 후 1~2일간은 수술 부위 쪽 얼굴에 얼음찜질을 하고, 자극적이지 않은 음식을 섭취하십시오. 얼음이나 아이스크림도 도움이 됩니다
+• 1~2일간은 뜨거운 목욕이나 사우나를 피하십시오. 
+• 3일간은 빨대 사용을 피하십시오. 
+• 며칠간은 충분한 휴식을 취하며, 술과 담배는 1주일 이상 삼가십시오. 
+• 수술 후 1~2일간은 심한 통증, 얼굴 부기, 입 벌림 제한, 삼키기 어려움, 목 당김, 미열 등이 나타날 수 있습니다. 증상이 지속되면 담당 의사에게 문의하십시오. 
+• 사랑니 발치 후 치유가 지연되는 경우가 흔하며, 처방받은 약을 모두 복용했음에도 통증이 지속되면 약속된 날짜 전에 병원을 다시 방문하십시오. 
+★ 중요! 수술 후 처방약 복용 중 두드러기, 발열, 호흡곤란 등의 과민반응이 나타나면 즉시 복용을 중단하고 병원을 방문하십시오.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 관련 합병증 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[342]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발치 시 발생할 수 있는 합병증 
+1.치근 파절(치아 뿌리가 부러지는 것) • 발치(이를 뽑는 과정)에서 가장 흔히 발생하는 문제는 치근 파절입니다. 
+• 치근이 길거나, 구부러져 있거나, 뼈 속에 깊게 박혀 있는 경우에는 치근이 부러질 가능성이 더 높습니다. 
+• 치근이 일부 남아 있을 때는, 상악동(코 옆의 빈 공간)이나 하치조 신경(턱을 지나는 신경) 손상의 위험을 고려하여 완전히 제거할지 여부를 신중하게 결정해야 합니다.
+
+
+2.인접 치아의 손상• 인접 치아의 동요(움직임): 발치 도구로 인접 치아가 압박되거나, 인접한 부위의 치조골을 많이 제거해야 할 때 발생할 수 있습니다. 치아 움직임이 경미하면 유동식을 섭취하며 경과를 관찰하지만, 움직임이 중등도 이상이면 치아를 고정해야 합니다.
+• 인접 치아의 정출(솟아오름): 치아 뿌리가 원뿔 모양일 경우 발생할 수 있습니다. 이때는 치아를 즉시 원래 위치에 다시 놓고 고정해야 합니다.
+• 인접 치아의 파절(치아가 부러짐): 발치 도구가 인접 치아나 맞물리는 치아에 충격을 주거나, 과도한 힘이 가해질 때 발생할 수 있습니다. 일부만 깨진 경우에는 수복치료를 시행하고, 신경이 노출되면 신경치료가 필요합니다. 파절선이 치아 뿌리까지 이어진 경우에는 발치가 불가피할 수 있습니다.
+
+
+3. 하악골(아래턱) 골절 
+• 하악골(아래턱) 골절은 매복된 아래턱 사랑니를 외과적으로 발치할 때 발생할 수 있는 합병증입니다.
+• 특히 사랑니가 깊이 박혀 있으면 작은 힘에도 턱뼈가 부러질 위험이 있습니다.
+• 골절이 발생한 경우에는 구강악안면외과 전문의와 상의하여 적절한 치료 방법을 결정해야 합니다.
+
+
+4. 상악동 천공  
+위턱 어금니 위에는 코와 연결된 빈 공간이 있는데, 이를 상악동이라고 합니다. 때때로 위턱 어금니의 뿌리가 상악동과 가까이 있거나 연결되어 있어, 발치 후에 입과 상악동이 서로 통하게 되는 경우가 있습니다. 이를 상악동 천공이라고 합니다. 
+상악동 천공이 생기면 적절한 조치를 통해 후유증을 예방해야 합니다. 대표적인 후유증은 다음과 같습니다.
+• 상악동염: 상악동에 염증이 생기는 것 
+• 구강-상악동간 누관: 입과 상악동이 계속 연결된 상태로 남는 경우
+
+이러한 합병증의 위험은 입과 상악동이 얼마나 크게 연결되었는지, 또 노출 직후에 어떤 처치를 받았는지에 따라 달라집니다.
+상악동 천공이 있을 때는 다음과 같은 행동을 피해야 합니다: • 코를 세게 푸는 것
+• 심한 재채기 
+• 빨대로 음료 마시는 것
+• 흡연 
+이러한 사항을 주의하면 후유증 발생 가능성을 줄일 수 있습니다.
+
+5. 상악동 내부로 전위된 치근  
+위턱 치아를 발치할 때 과도한 힘이 가해지면 치아 뿌리가 상악동 안으로 들어갈 수 있습니다.치근을 보존적인 방법으로 제거할 수 없는 경우에는 수술이 필요합니다.이때는 상악동(위턱의 빈 공간)에 접근할 수 있도록 상처를 열어, 시야를 확보한 상태에서 남아 있는 치근을 제거하는 비교적 큰 수술이 시행될 수 있습니다.
+
+6. 악하간극(턱밑 근육 사이 공간)으로 전위된 치근  
+아래턱 치아를 발치할 때 과도한 압력이 가해지면, 치아가 턱밑 근육 사이 공간으로 이동할 수 있습니다.이 경우에는 구강 안쪽이나 턱 주변 피부를 절개하여 수술로 치아를 제거해야 하며, 상황에 따라 입원이 필요할 수도 있습니다.하지만 이동된 치아 뿌리가 작고, 감염이 없으며 특별한 증상이 없다면 그대로 두고 경과를 관찰하기도 합니다.
+
+7. 연조직 손상  
+ 복잡한 발치 수술에서는 수술 도구 사용 중 잘못된 조작으로 손상이 발생할 수 있습니다.경미한 손상은 대부분 합병증 없이 치유되지만, 감염을 예방하기 위해 소독과 세정이 필요합니다
+
+8. 하치조 신경 손상 
+
+하치조 신경은 아래턱 치아와 잇몸, 그리고 아래 입술 주변의 감각을 담당하는 신경입니다.매복된 사랑니를 발치할 때 이 신경이 압박되거나 손상될 수 있습니다.신경에 이상이 생기면 입술, 뺨 아래쪽, 치아 부위에 지속적인 저림이나 감각 이상이 나타날 수 있습니다.의료진은 발치 과정에서 신경 손상을 피하기 위해 주의하지만, 충분히 주의하더라도 압박이나 손상이 발생할 수 있음을 환자에게 미리 설명해야 합니다.
+
+9. 출혈  • 이를 뽑을 때 피가 많이 나는 경우가 생길 수 있습니다. 대부분은 거즈를 물고 압박하면 멈추지만, 출혈이 계속되거나 양이 많을 때는 치과에서 추가 치료가 필요합니다. 
+• 혈액 응고를 방해하는 약을 복용 중인 환자는 발치 전에 반드시 치과의사에게 알려야 합니다. 
+• 입안이나 피부 밑으로 피가 스며들면 파랗게 멍이 들 수 있으며, 이는 고령 환자에게서 더 흔하게 나타납니다.
+
+
+10. 턱관절의 통증  
+아래턱 치아를 발치할 때 가해지는 압력 때문에 발치 후 아래턱을 움직이기 어렵거나 통증이 생길 수 있습니다.이 경우에는 턱을 충분히 쉬게 하고, 따뜻한 찜질을 하며, 부드러운 음식을 섭취하면서 회복을 기다리는 것이 좋습니다.그러나 증상이 오래 지속되거나 호전되지 않으면 치과의사의 진료를 받는 것이 필요합니다.
+
+11. 감염  
+단순 발치 후 처음 생기는 염증 반응은 대부분 약 2일 내에 사라집니다.하지만 그 이후에도 부기와 통증이 계속되면 감염일 가능성이 있습니다.이 경우에는 치과를 방문하여 진료를 받고, 필요 시 항생제와 소염제를 처방받아 계속 사용하는 것이 중요합니다.
+
+12. 건성 발치와 
+
+발치 후 보통 3~5일 후에 나타나는 합병증으로, 발치 부위에서 악취가 나고 심한 통증이 생길 수 있습니다.이 합병증은 발치 부위 치유를 지연시키지만, 감염과는 관련이 없습니다.통증이 주변으로 퍼지면서 매우 심해질 수 있으며, 이런 경우에는 식염수로 발치 부위를 세척한 후 치과를 방문하여 치료를 받아야 합니다.
+
+13. 개구 제한(입이 잘 벌어지지 않음)  
+발치 후 흔히 나타날 수 있는 문제 중 하나는 염증으로 인한 근육 경련입니다.통증이 근육 경련을 악화시킬 수 있으며, 발치 후 감염, 부분 마취, 발치 과정에서 턱관절 긴장 등도 원인이 될 수 있습니다.
+치료 방법은 다음과 같습니다: • 물리치료: 온찜질이나 가벼운 마사지로 근육을 풀어줍니다. 
+• 가까운 치과에서 전문적인 치료를 받습니다. 
+일반적으로 통증과 염증이 가라앉으면 증상도 자연스럽게 호전됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 관련 합병증 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[342]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d215402634]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 후 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[343]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수술 후 주의사항 
+1. 발치 후의 일반적인 증상 • 통증: 발치 직후 마취가 풀릴 때 가장 심하게 느껴집니다. 불편함이 시작되기 전에 의사가 처방한 진통제를 미리 복용하는 것이 좋습니다.
+• 출혈: 발치 후 하루 정도는 피가 날 수 있으며, 식사나 양치 후에 약간의 출혈이 간헐적으로 나타날 수 있습니다. 이런 현상은 약 1주일 정도 지속될 수 있습니다.
+• 부종(부기): 부기는 발치 후 2~3일에 가장 심하며, 약 1주일 정도 지속될 수 있습니다. 부기를 줄이려면 처방된 약을 정확히 복용하고, 발치 부위 주변 얼굴에 2~3일 동안 얼음찜질이나 냉찜질을 해주는 것이 도움이 됩니다. 이후에도 부기가 심해지면 치과 진찰을 받는 것이 좋습니다.
+
+
+2. 지켜야 할 일]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 후 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[343]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d215489c18]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 후 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[343]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 피해야 할 일]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 후 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[343]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d2154db113]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[344]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 종창을 줄이기 위해 2일간 얼음찜질을 하라고 하는데 3일째 부터는 종창이 있어도 얼음찜질을 하지 않고 그냥 두는 것이 좋은가요?
+
+A. 부기는 발치 후 2~3일에 가장 심하며, 약 1주일 정도 지속될 수 있습니다.
+부기를 줄이려면 처방된 약을 정확히 복용하고, 발치 부위 주변 얼굴에 2~3일 동안 얼음찜질이나 냉찜질을 해주는 것이 도움이 됩니다.
+이후에도 부기가 심해지면 치과 진찰을 받는 것이 좋습니다.
+
+Q. 사랑니는 꼭 뽑아야 하나요?
+
+A. 사랑니는 보통 만 18세 전후에 입안으로 나오는 제3대구치입니다.
+사랑니를 반드시 뽑아야 하는 것은 아니지만, 턱뼈, 잇몸, 주변 치아에 문제를 일으킬 가능성이 있습니다. 이러한 문제가 생기기 전에 미리 제거하는 것이 좋습니다.
+사랑니는 칫솔질이 어렵고, 충치가 잘 생기며 잇몸 염증이 발생할 수 있습니다. 이로 인해 통증이나 입 냄새가 생길 수 있으며, 발치를 권장하는 이유가 됩니다.
+특히 사랑니가 옆으로 누워 자라는 경우, 앞의 어금니를 손상시키거나 사랑니와 어금니 사이에 음식물이 끼어 염증이 발생할 수 있습니다.
+이러한 이유로 사랑니는 문제 예방을 위해 발치하는 경우가 많습니다.
+
+Q. 음주와 흡연은 언제부터 가능한가요?
+
+A. 음주와 흡연은 초기 치유 과정에서 회복을 늦추고, 감염 등 여러 합병증을 유발할 수 있습니다.
+따라서 발치 후 약 7~10일 동안은 음주와 흡연을 피하는 것이 좋습니다
+
+Q. 발치 수술은 수술 시에 아프진 않나요?
+
+A. 치아의 상태나 매복 정도에 따라 발치 과정은 차이가 있을 수 있습니다.
+하지만 요즘에는 다양한 마취 방법과 진통제가 개발되어, 환자에게 가장 적합한 방법을 선택할 수 있습니다.
+그 덕분에 과거보다 큰 통증 없이 안전하고 편안하게 치료를 받을 수 있습니다.
+
+Q. 발치 치료비는 어떻게 되나요?
+
+A. 치아의 상태, 매복 정도, 사용되는 재료에 따라 발치 치료비는 달라질 수 있습니다.
+또한, 치열 교정 목적으로 발치 수술을 시행할 경우에는 의료보험이 적용되지 않을 수 있습니다.
+따라서 정확한 비용과 치료 방법은 치과에서 상담 후 확인하는 것이 좋습니다.
+
+Q. 발치 수술 후에 수술용 봉합사는 언제 제거하나요?
+
+A. 일반적으로 입안에서 진행되는 발치 수술이나 비교적 작은 수술의 경우, 약 1주일 후에 실밥을 제거합니다.
+
+Q.  발치 수술 후에 음식은 어떻게 먹나요?
+
+A. 발치 수술 후 처음 12시간 동안은 부드럽고 차가운 음식을 섭취하는 것이 좋습니다. 차가운 음식은 수술 부위를 진정시키고 편안하게 해줍니다. 추천 음식으로는 아이스크림, 밀크쉐이크, 냉면 등이 있습니다.
+반대로 딱딱하거나 뜨거운 음식은 수술 부위를 자극하거나 피가 다시 나게 할 수 있으므로 피하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[359]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 김중민, 임창준. (1993). 임상구강ㆍ악안면외과학. 군자출판사. (p. 132–47). 
+2. 윤호준, 이종호, trans. (1995). 발치의 이론과 실제: A color atlas of teeth extraction in dental practice (Noma, H. &amp; Kaneko, Y. 번역). 지성출판사. 
+3. 이유미, 김무영, et al. (2015). Medication related osteoradionecrosis of the jaw: 2015 Position Statement of the Korean Society for Bone and Mineral Research and the Korean Association of Oral and Maxillofacial Surgeons. 대한구강악안면외과학회지, 22(4), 151–165. 
+4. 한정희. (2009). 하악 제3대구치 발치 후 주변 병변의 하악신경손상 및 설신경 손상에 관한 연구. 대한치과의사협회지, 47, 211. 
+5. Arani, D., Shankar, D. P., Mansoob, P., et al. (2018). Short-Term Evaluation of Gustatory Changes After Surgical Removal of Mandibular Third Molar: A Prospective Randomized Control Trial. J Oral Maxillofac Surg, 76(2), 258–266. 
+6. Ariaiba-Gumá, C., Jorba-García, A., Sánchez-Torres, A., &amp; Sánchez-Garcés, M. Á. (2021). Alveolar ridge preservation: an overview of systematic reviews. Int J Oral Maxillofac Surg, 50(2), 234–242. 
+7. Behnia, H., Kheradvar, A., &amp; Shahrokhi, M. (2000). An anatomic study of the lingual nerve in the third molar region. J Oral Maxillofac Surg, 58, 649–51; discussion 652–3. 
+8. Berger, A. (1936). Oroantral openings and their surgical correction. Arch Otolaryngol, 130, 400–2. 
+9. Bui, C. H., Seldin, E. B., &amp; Dodson, T. B. (2003). Types, frequencies, and risk factors for complications after third molar extraction. J Oral Maxillofac Surg, 61, 1379. 
+10. Diniz-Freitas, M., Lago-Méndez, L., Gude-Sampedro, F., et al. (2007). Pederson scale fails to predict how difficult it will be to extract lower third molars. Br J Oral Maxillofac Surg, 45(1), 23–6.
+11. Ebenezer, V., Balakrishnan, K., Asir, R. V., &amp; Sragunbar, B. (2015). Immediate placement of endosseous implants into the extraction sockets. J Pharm Bioallied Sci, 7(Suppl 1), S234–237. 
+12. Ertas, U., Yarus, M. S., &amp; Tozoglu, S. (2002). Accidental third molar displacement into the lateral pharyngeal space. J Oral Maxillofac Surg, 60, 1217. 
+13. Esen, E., Tascar, F., &amp; Akhan, O. (1999). Determination of the anti-inflammatory effects of methylprednisolone on the sequelae of third molar surgery. J Oral Maxillofac Surg, 57, 1201. 
+14. Falace, D. A. (1995). Emergency dental care. Williams &amp; Wilkins. (pp. 227–53). 
+15. Fonseca, R. J., Marciani, R. D., &amp; Turvey, T. A. (2009). Oral and maxillofacial surgery (2nd ed.). Saunders. (pp. 540–546). 
+16. Fonseca, R. J., &amp; Walker, R. V. (1991). Oral and maxillofacial trauma. W.B. Saunders. (pp. 13–57). 
+17. Frenkel, B., Givol, N., &amp; Shoshani, Y. (2015). Coronectomy of the mandibular third molar: a retrospective study of 185 procedures and the decision to repeat the coronectomy in cases of failure. J Oral Maxillofac Surg, 73(4), 587–94. 
+18. Garcia, A. G., Sampedro, F. G., Rey, J. G., Vila, P. G., &amp; Martin, M. S. (2000). Pell–Gregory classification is unreliable as a predictor of difficulty in extracting impacted lower third molars. Br J Oral Maxillofac Surg, 38, 585. 
+19. Hatano, Y., Kurita, K., Kuroiwa, Y., et al. (2009). Clinical evaluations of coronectomy (intentional partial odontectomy) for mandibular third molars using dental computed tomography: a case–control study. J Oral Maxillofac Surg, 67, 1806. 
+20. Kalantar Motamedi MR, Heidarpour M, Siadat S, et al. Orthodontic Extraction of High–Risk Impacted Mandibular Third Molars in Close Proximity to the Mandibular Canal: A Systematic Review. J Oral Maxillofac Surg 2015;73(9):1672–85. 
+21. Kim, H. S., Yun, P. Y., &amp; Kim, Y. K. (2017). Intentional partial odontectomy—a long-term follow up study. Maxillofac Plast Reconstr Surg, 39, 29. 
+22. Kim, J. C., Choi, S. S., Wang, S. J., et al. (2006). Minor complications after mandibular third molar surgery: type, incidence, and possible prevention. Oral Surg Oral Med Oral Pathol Oral Radiol Endod, 102(2), e4–11. 
+23. Kim, J. W., Jo, J. Y., Kim, J. Y., et al. (2019). Retrospective comparative clinical study for silk mat application into extraction socket. Maxillofac Plast Reconstr Surg, 41, 16. 
+24. Kim, M. K., Han, W., &amp; Kim, S. G. (2017). The use of the buccal fat pad flap for oral reconstruction. Maxillofac Plast Reconstr Surg, 39, 5. 
+25. Liedholm, R. (2005). Mandibular third molar removal: patient preferences, assessments of oral surgeons and patient flows. Swed Dent J, 175(Suppl 1). 
+26. Lysell, L. (2010). Current concepts and strategies for third molar removal. Wiley–Blackwell. (pp. 195–218). 
+27. Marx, R. E., Cillo, J. E., Jr., &amp; Ulloa, J. J. (2007). Oral bisphosphonate induced osteonecrosis: risk factors, prediction of risk using serum CTX testing, prevention, and treatment. J Oral Maxillofac Surg, 65, 2397. 
+28. Medeiros, R., &amp; Gaffrée, G. (2008). Accidental displacement of inferior third molar into the lateral pharyngeal space: case report. J Oral Maxillofac Surg, 66, 578–80. DOI: 10.1016/j.joms.2005.10.042]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

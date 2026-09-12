@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[이갈이]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6315]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[159]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이갈이는 반복적인 턱 근육 활동으로서 다음 두 가지 형태로 나타납니다.
+ㆍ치아를 꽉 물거나 이를 가는 움직임 
+ㆍ턱에 힘을 주는 상태]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[160]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이갈이는 수면 중 발생하는 수면 이갈이(sleep bruxism)와 낮에 깨어 있을 때 발생하는 주간 이갈이(awake bruxism)로 나뉩니다. 하지만 보통은 수면 이갈이를 의미합니다.
+수면 이갈이는 수면 중에 이를 옆으로 갈거나 꽉 무는 양상으로 나타나며, 주간 이갈이는 낮에 이를 꽉 물거나 턱에 힘을 주는 양상으로 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[160]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18bac7152593]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이갈이의 정확한 원인은 규명되어 있지 않으나, 다음과 같은 다양한 요인과 관련이 있습니다
+
+ㆍ	사회심리학적 요인: 정서적 스트레스, 불안증, 우울증
+ㆍ	수면 장애
+ㆍ	뇌신경계 질환: 기저핵 경색, 뇌성마비, 다운증후군, 뇌전증, 파킨슨병, 헌팅턴증후군 등
+ㆍ	머리 외상
+ㆍ	흡연
+ㆍ	알코올(음주)
+ㆍ	카페인
+ㆍ	약물: 마약(코카인), 향정신성의약품(암페타민, 엑스터시, 메틸페니데이트), 일부 정신병 치료제(클로르프로마진, 할로페리돌, 리튬), 일부 우울증 치료제
+ㆍ	위식도역류질환
+ㆍ	유전적 요인(이갈이 가족력)
+
+
+예전에 이갈이는 부정교합(위아래 치아 맞물림이 좋지 않은 상태) 때문에 발생한다고 생각했으나, 현재는 부정교합, 얼굴과 관절의 형태 등과는 관련이 없는 것으로 밝혀졌습니다.
+정서적 스트레스는 가장 관련성이 높다고 추정되는 원인으로 수면 이갈이, 주간 이갈이를 증가시킵니다. 또한 깨어 있는 동안 및 수면 중 근육 긴장도를 높여 턱관절 통증, 저작근(씹는 근육) 통증, 두통 등을 유발할 수 있습니다.
+2016년 연구(Bertazzo-Silveira E. 등)에 따르면 이갈이는 흡연자에서 비흡연자보다 2배 이상 흔하며, 음주 시 거의 2배, 커피를 하루에 8잔 이상 마시는 경우 약 1.5배 늘어납니다. 하지만 개인차가 있으므로 어느 정도의 흡연, 음주, 카페인 섭취가 이갈이에 영향을 미치는지 명확하게 얘기하기는 어렵습니다.
+유전적 요인도 이갈이에 어느 정도 영향을 미친다고 알려져 있으나 그 기전과 방식은 아직 밝혀지지 않았습니다. 이를 가는 부모의 자녀도 종종 이를 가는 것을 보면 유전적 요인이 이갈이에 영향을 미치는 것으로 추정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[163]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수면 이갈이는 수면 중 순간적으로 깨는 증상(일시적인 각성, transient arousal)과 연관된다고 알려져 있습니다.
+
+정상적인 수면 주기는 안구가 빠르게 움직이는 렘(rapid eye movement, REM) 수면과 그렇지 않은 비렘(non-REM) 수면이 하룻밤 사이에 3~5회 정도 번갈아 가며 나타납니다. 수면 이갈이는 깊은 수면인 비렘수면에서 얕은 수면인 렘수면 단계로 옮겨가는 과정에서 나타나는 일시적인 각성과 관련이 있습니다. 하지만, 이 과정이 정확히 어떻게 진행되는지는 아직 밝혀지지 않았습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Maluly 등(2013)과 Khoury 등(2016)에 의하면 수면 이갈이는 전체 인구의 약 8%에서 지속적으로 발생하고, 약 15%에서 가끔 발생합니다. Bulanda 등(2021)에 의하면 수면 이갈이는 어린이에서 성인보다 더 흔해 연구에 따라 13~49%로 보고됩니다. Manfredini 등(2015)에 의하면 성별 차이는 없으며, 나이가 들면서 줄어듭니다. De Oliveira 등(2023)에 의하면 주간 이갈이는 전체 인구의 16~32% 정도에서 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이갈이는 스스로 자각하지 못하는 경우가 더 많습니다. 대부분 배우자, 가족, 함께 자는 사람을 통해 알게 되지만, 때로는 스스로 느끼기도 합니다. 이갈이가 수면 중 계속 나타나는 것은 아니며 소리가 크지 않을 수도 있으므로 가족도 인지하지 못하는 경우가 상당히 있습니다. 따라서 병원에서는 설문지나 병력 청취를 통한 자가 보고 및 임상 검사 소견을 종합해 진단합니다.
+
+이갈이의 진단 과정은 다음과 같습니다(Beddis, H. 등, 2018; Lobbezoo, F. 등, 2018).
+1. 자가 보고 : 설문지, 의사와의 면담(병력 청취)
+2. 임상 검사 : 이갈이로 인한 입안 및 얼굴의 검사 소견
+3. 보조 검사
+1) 근전도 검사(electromyography, EMG) : 근육의 활성도 측정
+2) 수면다원검사(polysomnography, PSG) : 근육의 활성도 측정, 소리와 영상 녹화
+3) 구강 장치나 치아가 닳아 있는 면 측정
+
+1. 자가 보고
+
+자가 보고를 통한 이갈이 평가는 다음과 같습니다.
+1) 주간 이갈이
+① 낮 동안에 침을 삼키지 않을 때 위아래 치아가 닿아 있는 것을 느끼는가?
+② 낮 동안에 턱 근육에 힘이 들어가 있는 것을 느낀 적이 있는가? 
+
+2) 수면 이갈이
+① 자는 동안 누군가가(부모, 배우자, 함께 자는 사람) 이 가는 소리를 들었는가?
+② 자는 동안 스스로 이를 갈거나 꽉 물거나 턱에 힘이 들어간 것을 느낀 적이 있는가?
+③ 자고 일어났을 때 턱에 힘이 들어가 있거나 이를 꽉 물고 있는 것을 느낀 적이 있는가?
+④ 자고 일어났을 때 턱에 통증이나 불편감을 느낀 적이 있는가?
+
+2. 임상 검사
+수면 이갈이 및 주간 이갈이로 인해 발생할 수 있는 입안 및 얼굴의 검사 소견은 다음과 같습니다.
+① 저작근(씹는 근육)의 비대(사각턱)
+② 혀, 입술, 볼 안쪽의 물린 자국(압흔)
+③ 치아 씹는 면이 닳은 정도(교모)
+④ 치아와 잇몸의 경계 부위인 치아의 목 부위가 패이는  현상(치경부 마모)
+⑤ 치아에 금이 가거나 깨짐 
+⑥ 치료받은 치아 재료의 반복적인 깨짐
+⑦ 치아의 흔들림, 잇몸 질환 등
+⑧ 턱관절 질환]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b462edf252]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치아 씹는 면의 마모(교모)는 이갈이뿐 아니라 딱딱하고 질긴 음식, 알코올 또는 산성 음료의 섭취, 위식도역류질환, 약물 등에 의해서도 발생할 수 있으므로 특이적 소견이라고 볼 수는 없습니다. 또한 오래 누적된 변화이므로 교모가 심하다는 것만으로 최근에도 이갈이가 지속되는지는 알 수 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95b1659]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혀나 볼 점막에 물린 자국이 있으면 최근에 이갈이가 있었음을 알 수 있습니다. 아침에 일어났을 때 치아 통증, 두통, 근육통, 턱관절의 걸림 등이 있다면 역시 최근에 수면 이갈이나 주간 이갈이가 있었다고 의심할 수 있습니다. 치료를 위해 교합안정장치를 장착한 경우, 장치 표면에 나타난 이갈이 마모면이나 이를 악문 흔적을 통해 이갈이가 얼마나 심한지 확인할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b462f42d97]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 보조 검사
+근전도나 수면다원검사는 이갈이를 정량적으로 측정하는 가장 객관적이고 정확한 방법입니다. 하지만 장비가 필요하고 비용이 많이 들어 치과 진료실에서 자주 사용되지는 않고, 주로 연구 목적으로 사용합니다. 치과에서는 자가 보고와 임상 검사를 통해 이갈이 관련 증상 및 검사 소견을 평가해 진단합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이갈이는 다음과 같은 수면 관련 질환이 있는 경우에 더 많이 발생합니다(Kuang, B. 등, 2022).
+ㆍ폐쇄성 수면 무호흡
+ㆍ하지불안증후군
+ㆍ주기성 사지운동장애
+ㆍ수면 관련 위식도역류질환
+ㆍ렘수면행동장애
+ㆍ수면 관련 뇌전증]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 이갈이와 연관된 증상
+이갈이는 정작 본인은 불편감을 별로 느끼지 못하고 배우자나 가족, 친구들이 잠을 잘 수 없다고 호소하는 경우가 많습니다. 하지만 심한 이갈이가 계속되면 이를 갈 때 힘을 받는 치아, 잇몸과 뼈를 포함한 치아 주위 조직(치주조직), 씹는 근육(저작근), 턱관절에 영향을 줄 수 있습니다.이갈이로 인해 발생할 수 있는 증상은 다음과 같습니다. 
+
+ㆍ시끄러운 소리로 인해 다른 사람의 잠을 방해
+ㆍ치아와 잇몸의 통증 또는 불편감: 찬 음식을 먹을 때 시림, 치아 흔들림, 씹을 때 통증 등
+ㆍ두통
+ㆍ턱관절 질환: 턱관절이나 씹는 근육(뺨, 옆머리)의 통증, 턱관절에서 나는 소리, 아래턱이 움직일 때 어긋나거나 걸림, 입이 안 벌어짐 등. 턱관절 질환은 이갈이를 호소하는 환자가 치료를 위해 병원을 찾는 가장 흔한 증상입니다.
+
+ 2 .구강안면통증 및 턱관절질환의 관련 요인
+이갈이는 턱관절 질환을 포함해 입안과 얼굴 부위 통증을 일으키는 가장 중요한 관련 요인입니다. 이갈이와 함께 치아의 교모, 잇몸 질환, 씹는 근육의 통증, 턱관절 질환, 두통 등의 문제를 일으키는 나쁜 습관은 다음과 같습니다.
+ㆍ손톱 깨물기
+ㆍ껌 자주 씹기
+ㆍ혀 내밀기
+ㆍ턱 내밀기
+ㆍ음식을 한쪽으로 씹기
+ㆍ입술 깨물기]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b8f44fabb3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이갈이를 꼭 치료해야 하는 것은 아닙니다. 하지만 이갈이와 관련된 증상이나 불편감이 있다면 치료합니다. 이갈이 자체를 없앨 수는 없으므로 줄이거나 차단하는 방법을 씁니다. 이갈이가 심하거나 계속되는 경우에는 증상이나 불편감이 없어도 치아 교모를 예방하기 위해 구강장치 치료를 고려합니다.이갈이를 조절하고 관리하는 방법은 다음과 같습니다. 
+
+ㆍ구강장치 치료
+ㆍ보툴리눔 독소 주사
+ㆍ위험 요인 조절
+ㆍ인지행동치료
+ㆍ바이오피드백 치료
+ㆍ약물  치료
+ㆍ신장반사 이완법과 개구근 강화 훈련
+예전에는 위아래 치아 맞물림의 이상(부정교합, 교합 간섭)이 있는 경우 교합 조정(치아를 부분적으로 미세하게 갈아내는 것)을 통해 이갈이를 치료하려고 한 적도 있습니다. 하지만 부정교합은 이갈이의 원인이 아니므로 이갈이 치료를 위해 교합 조정을 시행할 필요는 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 보툴리눔 독소 주사
+씹는 근육(저작근)에 보툴리눔 독소(보톡스)를 주사하면 이갈이를 줄이고 통증을 완화하는 효과가 있습니다. 보툴리눔 독소는 근육의 수축력을 줄여 이악물기나 이갈이를 감소시킵니다. 이렇게 사용을 줄이면 근육의 부피가 줄어 씹는 근육 비대로 인한 사각턱 개선 효과도 있습니다. 보툴리눔 독소의 효과는 영구적으로 지속되지 않으므로 추가 주사가 필요할 수 있으나, 구강장치 치료로 통증이나 불편감이 해결되지 않는 심한 이갈이나 씹는 근육의 비대로 인한 사각턱 개선을 원하는 경우에 도움이 될 수 있습니다.
+
+2. 약물 치료
+클로나제팜(clonazepam), 라베프라졸(rabeprazole), 클로니딘(clonidine) 같은 약물은 이갈이를 줄이는 효과가 있습니다. 하지만 복용하는 동안에만 효과가 있고 장기간 복용 시 부작용의 우려가 있으므로 이갈이 치료에 일반적으로 이용되지는 않습니다. 이갈이 자체보다는 이갈이로 인해 생긴 치통, 근육통, 두통, 턱관절 통증 등을 치료하기 위해 단기간 사용을 고려할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 구강장치 치료
+구강장치는 이갈이 치료에 현재 가장 널리 쓰이는 방법입니다. 이갈이를 없애지는 못하지만 줄일 수는 있으며, 이갈이로 인해 치아, 치주조직, 근육, 턱관절 등에 힘이 가해지는 것을 차단합니다. 따라서, 이갈이로 인한 이차적 문제들을 치료하고 예방하는 데 도움이 됩니다.
+이갈이 치료에 사용하는 구강장치는 단단한 레진으로 제작하여 치아 전체를 덮는 교합안정장치(stabilization splint)입니다. 구강장치는 위쪽 또는 아래쪽 치아 중 한쪽에 장착하는데, 치과의사가 치아 배열 등 여러 가지 여건을 고려해 어느 쪽에 장착할지 결정하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95b1924]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[장치는 장착했을 때 편안해야 하며, 위아래 치아가 전체적으로 잘 닿도록 조정해야 합니다. 구강장치는 최소 1~3개월 간격으로 정기 점검을 받으면서 사용해야 부작용을 피할 수 있습니다. 잘 맞지 않는 장치를 장기간 장착하면 치아 위치가 변하는 등 불편감을 겪을 가능성이 있습니다. 또한, 치아를 부분적으로 덮는 장치 역시 치아 위치를 변하게 할 수 있으므로 사용하지 않는 것이 좋습니다.
+말랑말랑한 재료로 된 장치는 보호 역할은 할 수 있으나 이갈이 자체를 감소시키지 못하며, 이갈이가 오히려 늘었다는 보고도 있습니다. 또한, 단단한 재료로 된 장치에 비해 치아 이동 가능성이 높으므로 이갈이 치료에 적절하지 않습니다. 시판 중인 이갈이 장치는 말랑말랑한 재료로 되어 있고 위아래 치아 맞물림을 정밀하게 조절할 수 없으므로 장기간 사용을 추천하지 않습니다.
+
+
+2. 위험요인의 조절
+과도한 흡연, 음주, 카페인 섭취는 이갈이를 유발하거나 악화시킬 수 있으므로 피해야 합니다. 스트레스 또는 수면질환이 있다면 상담 및 치료를 통해 조절해야 합니다. 이갈이를 유발하는 약물을 복용하는 경우 주치의와 상의해 바꿔볼 수 있습니다. 하지만 질병의 치료가 더 중요하고 이갈이가 특별한 불편을 초래하지 않는다면 약물을 유지하고 구강장치 등 다른 방법으로 이갈이를 조절해야 합니다.
+
+
+3. 인지행동 치료
+자기감시(self-monitoring)는 주간 이갈이를 관찰하고 줄이는 방법입니다. 수면 이갈이는 스스로 조절하는 것이 불가능하지만, 주간 이갈이를 줄이기 위해 의식적으로 노력하면 수면 이갈이도 줄일 수 있습니다. 낮에 이를 악물지 않는다고 하던 사람도 스스로 잘 관찰해보면 대부분 턱에 힘을 주거나 이를 악무는 등의 나쁜 구강 습관을 가지고 있습니다.
+혀를 올바로 위치시키는 방법은 니은(ㄴ) 발음을 할 때처럼 혀끝을 입천장 앞쪽(위쪽 앞니 바로 뒤)에 가볍게 대고, 위아래 치아는 닿지 않도록 하며, 턱과 목, 어깨 근육이 이완된 상태를 유지하는 것입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b4630c1767]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[위아래 치아가 닿거나, 턱, 머리, 목, 혀의 위치가 잘못된 것을 깨닫는 즉시 올바른 위치를 유지합니다. 어떤 사람은 얼굴을 찡그리거나, 뺨의 안쪽 살을 깨물거나, 혀를 깨물거나, 혀로 치아 안쪽을 미는 등 무의식적으로 안면 근육을 긴장시키는 버릇이 있습니다. 따라서 치아 접촉뿐 아니라 평소 안면 근육이 이완된 상태를 유지하는지 주의 깊게 관찰해야 합니다.
+이처럼 규칙적인 감시와 교정을 통해 이악물기나 다른 악습관을 없앨 수 있습니다. 일관성 있게 감시와 교정을 지속하면 단기간에 효과적으로 습관을 변화시킬 수 있으며, 이런 변화는 장기간 유지됩니다. 단, 스스로 행동을 바꾸겠다는 의지가 있어야 합니다.
+
+
+4. 바이오피드백 치료
+바이오피드백 치료는 생리적 활성 측정 장비를 이용해 바람직한 변화가 무엇인지 알려줌으로써 환자 스스로 변화를 일으키도록 돕는 치료법입니다. 예를 들면, 근전도 기기를 사용해 근육 긴장도를 측정합니다. 근육 긴장도가 높아졌을 때 화면, 소리, 전기적 신호 등을 통해 알려 근육 긴장도를 낮추게 도와줍니다. 이런 훈련을 통해 이갈이를 스스로 조절할 수 있게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95b1873]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[5. 신장반사 이완법과 개구근 강화 훈련
+운동요법은 이갈이 자체보다 이갈이와 관련된 통증과 불편감을 치료하기 위한 방법이지만 이갈이 감소에도 도움이 됩니다. 특히 신장반사 이완법(stretch reflex relaxation)과 개구근 강화훈련법(depressor muscle strengthening)을 추천합니다. 신장반사 이완법은 입을 최대로 벌렸을 때의 약 70% 정도 벌린 상태에서 10∼20초 정도를 유지해 근육을 신장시키는 방법입니다. 개구근 강화훈련법은 입을 1∼2 cm 정도 벌린 상태를 유지하면서 손으로 턱 아래쪽에서 위쪽으로 힘을 가해 입을 더 이상 못 벌리게 하는 것입니다. 이렇게 하면 개구근(입을 벌리는 근육)이 강화되고 폐구근(입을 다무는 근육)은 이완됩니다. 이 방법을 쓸 때는 적은 힘으로 시작해 강도를 점차 증가시켜 통증이 생기지 않도록 해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b46311e8b2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[ㆍ과도한 흡연, 음주, 카페인이 포함된 식음료(커피, 녹차, 홍차, 초콜릿 등) 섭취를 피합니다.
+ㆍ스트레스를 줄이기 어렵다면 피하거나 극복하도록 노력합니다.
+ㆍ수면 위생(잠을 잘 자기 위한 기본 원칙)을 잘 지킵니다.
+
+- 대한수면학회: 수면 위생법
+- 대한수면연구학회: 정상수면]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 진단]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[173]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[아래 항목에 해당되는지 살펴봄으로써 이갈이 가능성을 평가할 수 있습니다(Lange, M. 2015).
+1. 이를 꽉 물고 자거나 이를 간다는 얘기를 들은 적이 있다. 
+2. 아침에 일어났을 때 턱 근육이 아프거나 피로하다. 
+3. 아침에 일어났을 때 옆머리 두통이 있다.
+4. 아침에 일어났을 때 입이 잘 안 벌어진다. 
+5. 아침에 일어났을 때 치아가 시큰거리거나 불편하다. 
+6. 턱 근육이 발달했다. 
+7. 치아 씹는 면이 전반적으로 많이 닳았다. 
+8. 혀 가장자리에 치아 자국이 있다. 
+1번에 해당하는 경우 이갈이가 있을 가능성이 매우 높다. 
+2번~8번에 해당하는 경우 이갈이가 있을 가능성이 있다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이갈이와 연관된 증상이나 입안 및 얼굴의 검사 소견이 있는 경우 병원을 방문해 상담해야 합니다. 이갈이가 심하거나 거의 매일 있다면 증상이나 불편감이 없어도 치아 교모 등의 문제를 예방하기 위해 구강장치 치료 상담이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[175]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 잘 때 이갈이 방지 테이프 등을 사용하는 것이 이갈이를 줄이는 데 도움이 될까요?
+
+A. 이갈이 방지 테이프는 구강호흡 방지 테이프입니다. 구강호흡을 줄여 구강건조증과 구취를 줄이고 코골이, 경미한 수면무호흡, 이갈이를 줄이는 데 일부 도움이 될 수는 있습니다. 하지만, 심한 수면무호흡이 있는 경우 증상을 악화시킬 위험이 있으므로 주의해야 합니다.
+
+Q. 우리 아이가 이를 갈아요. 어떻게 해야 하나요?
+
+A. 이갈이는 어린이에게 흔합니다. 부모는 자녀의 이 가는 소리를 듣고 깜짝 놀라 치과를 찾는 경우가 많습니다. 하지만 이갈이는 나이가 들면서 줄어들고, 이갈이로 인해 불편한 경우는 많지 않으므로 대부분 치료가 필요하지 않습니다. 이갈이가 심하면 젖니(유치)에 교모가 생길 수 있으나 치아, 치아 주위 조직, 씹는 근육, 턱관절의 문제가 발생하는 경우는 많지 않습니다. 이갈이가 있는 아이라면 치아, 턱 등에 불편감을 느끼거나 자주 두통을 호소하는지 관심 있게 지켜보고, 그런 증상이 있다면 치과를 찾아 평가를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[176]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[턱관절 장애]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1.	Andersen, M., Arima, T., Baad-Hansen, L., Barreiro, M. M., Carlsson, G. E., Cifuentes, F., ... &amp; London, B. (2010). Bruxism: theory and practice. Quintessence Publishing.
+2.	Beddis, H., Pemberton, M., &amp; Davies, S. (2018). Sleep bruxism: an overview for clinicians. British dental journal, 225(6), 497-501.
+3.	Bertazzo-Silveira E., Kruger, C. M., De Toledo, I. P., Porporatti, A. L., Dick, B., Flores-Mir, C., &amp; Canto, G. D. L. (2016). Association between sleep bruxism and alcohol, caffeine, tobacco, and drug abuse: A systematic review. The Journal of the American Dental Association, 147(11), 859-866.
+4.	Bulanda, S., Ilczuk-Rypuła, D., Nitecka-Buchta, A., Nowak, Z., Baron, S., &amp; Postek-Stefańska, L. (2021). Sleep bruxism in children: etiology, diagnosis, and treatment—a literature review. International journal of environmental research and public health, 18(18), 9544.
+5.	Castroflorio, T., Bargellini, A., Rossini, G., Cugliari, G., &amp; Deregibus, A. (2017). Sleep bruxism and related risk factors in adults: A systematic literature review. Archives of oral biology, 83, 25–32. https://doi.org/10.1016/j.archoralbio.2017.07.002
+6.	Cerón, L., Pacheco, M., Delgado Gaete, A., Bravo Torres, W., &amp; Astudillo Rubio, D. (2023). Therapies for sleep bruxism in dentistry: A critical evaluation of systematic reviews. Dental and medical problems, 60(2), 335-344.
+7.	Chemelo, V. D. S., Né, Y. G. S., Frazão, D. R., de Souza-Rodrigues, R. D., Fagundes, N. C. F., Magno, M. B., da Silva, C. M. T., Maia, L. C., &amp; Lima, R. R. (2020). Is There Association Between Stress and Bruxism? A Systematic Review and Meta-Analysis. Frontiers in neurology, 11, 590779. https://doi.org/10.3389/fneur.2020.590779
+8.	Cheng, Y., Yuan, L., Ma, L., Pang, F., Qu, X., &amp; Zhang, A. (2022). Efficacy of botulinum-A for nocturnal bruxism pain and the occurrence of bruxism events: a meta-analysis and systematic review. British Journal of Oral and Maxillofacial Surgery, 60(2), 174-182.
+9.	de Oliveira, J. M. D., Pauletto, P., Massigan, C., D'Souza, N., Gonçalves, D. A. G., Flores-Mir, C., &amp; Canto, G. L. (2023). Prevalence of Awake Bruxism: a systematic review. Journal of dentistry, 104715. Advance online publication. https://doi.org/10.1016/j.jdent.2023.104715
+10.	Kato, T., Higashiyama, M., Katagiri, A., Toyoda, H., Yamada, M., Minota, N., Katsura-Fuchihata, S., &amp; Zhu, Y. (2023). Understanding the pathophysiology of sleep bruxism based on human and animal studies: A narrative review. Journal of oral biosciences, 65(2), 156–162. https://doi.org/10.1016/j.job.2023.04.005
+11.	Khoury, S., Carra, M. C., Huynh, N., Montplaisir, J., &amp; Lavigne, G. J. (2016). Sleep Bruxism-Tooth Grinding Prevalence, Characteristics and Familial Aggregation: A Large Cross-Sectional Survey and Polysomnographic Validation. Sleep, 39(11), 2049–2056. https://doi.org/10.5665/sleep.6242
+12.	Kuang, B., Li, D., Lobbezoo, F., de Vries, R., Hilgevoord, A., de Vries, N., Huynh, N., Lavigne, G., &amp; Aarab, G. (2022). Associations between sleep bruxism and other sleep-related disorders in adults: a systematic review. Sleep medicine, 89, 31–47. https://doi.org/10.1016/j.sleep.2021.11.008
+13.	Lange, M. (2015). Screening for sleep and awake bruxism: protocol for routine use in daily practice Screening von Schlaf-und Wachbruxismus: Untersuchungsprotokoll für die tägliche Praxis. Zeitschrift für Kraniomandibuläre Funktion, 7(1), 47-54.
+14.	Lee, Y. C., Lu, C. T., Cheng, W. N., &amp; Li, H. Y. (2022). The Impact of Mouth-Taping in Mouth-Breathers with Mild Obstructive Sleep Apnea: A Preliminary Study. Healthcare (Basel, Switzerland), 10(9), 1755. https://doi.org/10.3390/healthcare10091755
+15.	Lobbezoo, F., Visscher, C. M., Ahlberg, J., &amp; Manfredini, D. (2014). Bruxism and genetics: a review of the literature. Journal of oral rehabilitation, 41(9), 709-714.
+16.	Lobbezoo, F., Ahlberg, J., Raphael, K. G., Wetselaar, P., Glaros, A. G., Kato, T., ... &amp; Manfredini, D. (2018). International consensus on the assessment of bruxism: Report of a work in progress. Journal of oral rehabilitation, 45(11), 837-844.
+17.	Maluly, M., Andersen, M. L., Dal-Fabbro, C., Garbuio, S., Bittencourt, L., de Siqueira, J. T., &amp; Tufik, S. (2013). Polysomnographic study of the prevalence of sleep bruxism in a population sample. Journal of dental research, 92(7 Suppl), 97S–103S. https://doi.org/10.1177/0022034513484328
+18. Manfredini, D., Ahlberg, J., Winocur, E., &amp; Lobbezoo, F. (2015). Management of sleep bruxism in adults: a qualitative systematic literature review. Journal of oral rehabilitation, 42(11), 862–874.
+19. Manfredini, D., Ahlberg, J., &amp; Lobbezoo, F. (2022). Bruxism definition: Past, present, and future–What should a prosthodontist know?. The Journal of Prosthetic Dentistry, 128(5), 905-912.
+20.	Minakuchi, H., Fujisawa, M., Abe, Y., Iida, T., Oki, K., Okura, K., Tanabe, N., &amp; Nishiyama, A. (2022). Managements of sleep bruxism in adult: A systematic review. The Japanese dental science review, 58, 124–136. https://doi.org/10.1016/j.jdsr.2022.02.004
+21.	Palinkas, M., De Luca Canto, G., Rodrigues, L. A., Bataglion, C., Siéssere, S., Semprini, M., &amp; Regalo, S. C. (2015). Comparative Capabilities of Clinical Assessment, Diagnostic Criteria, and Polysomnography in Detecting Sleep Bruxism. Journal of clinical sleep medicine : JCSM : official publication of the American Academy of Sleep Medicine, 11(11), 1319–1325. https://doi.org/10.5664/jcsm.5196
+22.	Quigley J. (2023). Mouth taping. British dental journal, 234(12), 845. https://doi.org/10.1038/s41415-023-6039-7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

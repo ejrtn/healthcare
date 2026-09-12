@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[융모막 융모 검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5518]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 융모막 융모 검사는 임신 10~13주 사이에 태반 조직을 채취하여 태아의 염색체 이상 여부를 확인하는 검사입니다.
+• 복부나 자궁경부를 통해 초음파로 위치를 보며 태반 일부를 채취하고, 세포를 배양해 분석합니다.
+• 다른 산전 검사보다 이른 시기에 시행할 수 있어 이상 발견 시 빠른 대응이 가능합니다.
+• 검사 정확도는 높지만 모체 세포 오염이나 드문 경우 태반과 태아 간 염색체 차이로 인해 결과 해석에 주의가 필요합니다.
+• 약 1~2%의 유산 위험이 있으므로 전문가와 충분한 상담 후 결정하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[융모막 융모 검사는 임신 10~13주 사이에 복부 또는 자궁경관을 통해 태반 조직을 채취하여 염색체를 분석하고 질환을 검사하는 방법입니다. 초음파 영상을 보면서 작은 튜브를 자궁경부 혹은 복부를 통해 삽입하여 태반 조직의 일부를 채취하고, 채취한 조직을 배양하여 염색체 이상을 확인합니다. 임신 초기에 시행하기 때문에 태아에 이상이 있는 경우 일찍 발견할 수 있다는 장점이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[<table border='0' cellpadding='0' cellspacing='0' style='text-align: center;' class='__se_tbl' id='4819_236_TB_bb9abb9a'> 
+ <tbody> 
+  <tr> 
+   <td colspan='2' rowspan='1' class='neoTableTitle'>융모막 융모 생검</td> 
+  </tr> 
+  <tr> 
+   <th class='neoTableCell' style='border-left:none;'>검사 목적</th> 
+   <td class='neoTableCell' style='background: white; text-align: left;'>&nbsp;태아의 염색체 이상 진단&nbsp;</td> 
+  </tr> 
+  <tr> 
+   <th class='neoTableCell' style='border-left:none;'>검사 방법</th> 
+   <td class='neoTableCell' style='text-align: left;'>&nbsp;초음파 영상을 보면서 작은 튜브를 자궁경부 또는 복부를 통해 삽입하여 태반조직 일부를 채취&nbsp;</td> 
+  </tr> 
+  <tr> 
+   <th class='neoTableCell' style='border-left:none;'>검사 시기</th> 
+   <td class='neoTableCell' style='text-align: left;'>&nbsp;임신 10~13주&nbsp;</td> 
+  </tr> 
+  <tr> 
+   <th class='neoTableCell' style='border-left:none;'>&nbsp;검사 결과</th> 
+   <td class='neoTableCell' style='text-align: left;'>&nbsp;채취한 태반조직세포를 배양하여 염색체 이상 유무를 진단</td> 
+  </tr> 
+  <tr> 
+   <th class='neoTableCell' style='border-left:none;'>&nbsp;확진</th> 
+   <td class='neoTableCell' style='text-align: left;'>&nbsp;융모막 융모 검사를 통해 태아 염색체 이상을 확진&nbsp;</td> 
+  </tr> 
+  <tr> 
+   <td colspan='2' rowspan='1' class='neoTableCaption'><br></td> 
+  </tr> 
+ </tbody> 
+</table>]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태반의 융모막 융모 조직 일부를 채취하여 세포를 배양 후 염색체 분석을 하기 위한 검사입니다. 염색체의 수와 구조적 문제뿐 아니라 특정 유전 질환을 진단하기 위해 시행하기도 합니다. 
+다음과 같은 경우에 융모막 융모 검사를 고려하게 됩니다. 
+ • 고령의 임신부 
+ • 임신부나 배우자가 염색체의 구조적 이상이 있는 경우 
+ • 선천기형, 염색체 이상이 있는 아기를 분만한 경험이 있는 경우 
+ • 산전 모체 혈청 선별 검사, 태아 DNA 선별 검사 결과가 고위험인 경우 
+ • 초음파 검사에서 태아의 구조적 이상 소견이 있는 경우
+ • 유전 질환 가족력이 있는 경우 
+ • 전문의 판단하에 검사가 필요한 경우]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태아의 산전 검사를 받기를 원하는 모든 임신부가 검사의 적응증이 됩니다. 모체 혈청 선별 검사, 태아 DNA 선별 검사와 양수 검사 같은 침습적  진단 검사의 장단점에 대해 전문가와 상담을 받고 산모와 가족이 어떤 검사를 받을지 최종적으로 결정하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[임신 10~13주 사이에 복부 또는 자궁경관을 통해 태반 조직을 채취합니다. 태반의 융모막 융모 조직 세포를 배양 후 염색체 분석을 하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d0349e7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태아의 세포유전학 검사를 통해 다운증후군이나 에드워드 증후군 같은 염색체의 수의 이상을 진단할 수 있습니다. 세포 배양 과정이 필요하므로 보통 3~5주 후에 결과를 알 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태아의 세포유전학 검사의 정확도는 99% 이상으로 알려져 있습니다. 하지만 염색체 분석 결과가 정상이라도 모체 세포의 오염, 염색체의 미세한 구조 이상이나 낮은 빈도의 모자이크현상(mosaicism) 등 검사 방법의 한계를 벗어난 결과는 진단하기가 어렵습니다. 또 간혹 태아와 태반 사이에 핵형이 불일치하는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[검사 후 유산의 위험이 약 1~2%로 보고되고 있습니다. 유산의 위험이 있으므로 융모막 융모 검사 전 충분한 상담을 통해 검사의 필요성을 설명을 듣고 결정하도록 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한모체태아의학회∙산전진단위원회. (2019). 태아 염색체 선별검사와 진단 검사에 대한 대한모체태아의학회 임상진료지침 (1판). 서울: 제이플러스.
+2. 대한산부인과학회. (2019). 산과학 (6판, 산전진단 및 유전상담, pp 187-214). 군자출판사.
+3. American College of Obstetricians and Gynecologists. (2007). Invasive prenatal testing for aneuploidy (Practice Bulletin No. 88). Obstet Gynecol, 110, 1459-1467.
+4. CUNNINGHAM FG, ed. (2018). Williams Obstetrics. (25th ed. Prenatal Diagnosis. pp 277-299). New York, McGraw-Hill.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[산전 기형아 검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5410]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[삼중 또는 사중 표지자 검사(Triple 또는 Quad test)와 통합선별검사 (Integrated test)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5515]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[양수 검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5517]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[초음파 태아 목덜미 투명대 측정]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5516]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[태아 DNA 선별검사 (NIPT 검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5530]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

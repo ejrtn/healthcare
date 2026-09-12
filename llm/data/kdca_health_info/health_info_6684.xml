@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[아나필락시스]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6684]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 아나필락시스는 급격하게 전신적으로 나타나는 생명을 위협할 수 있는 중증 알레르기 반응입니다.
+• 증상은 피부 발진, 호흡곤란, 어지럼증, 복통 등 다양하며, 몇 분 안에 빠르게 진행될 수 있어 즉각적인 응급처치가 필요합니다.
+• 흔한 원인으로는 식품, 약물, 벌독 등이 있으며, 연령에 따라 주요 원인이 달라질 수 있습니다.
+• 치료의 핵심은 에피네프린 주사를 신속히 투여하는 것이며, 이후 병원에서 경과 관찰과 원인 확인이 이루어져야 합니다.
+• 재발 방지와 안전한 대처를 위해, 환자와 보호자는 알레르기 원인 회피 교육과 자가 에피네프린 사용법을 익혀야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[알레르기란 주위 환경에 존재하는 항원(원인 물질)에 대한 면역 매개형 과민반응입니다. 알레르기 질환은 알레르기 염증이 나타나는 부위에 따라 나눌 수 있습니다. 코 속에 나타나면 비염, 기관지에 나타나면 천식, 피부에 나타나면 아토피 피부염이나 두드러기라고 합니다.
+
+대부분의 사람에서 문제를 일으키지 않는 원인 물질에 대해 감작(우리 몸이 어떤 물질을 처음 접했을 때 그것을 위험한 것으로 잘못 인식하고 기억해두는 과정) 과정을 통해 쉽게 과민반응을 일으키는 사람이 있습니다. 
+감작이 일어나면 혈액 속에 그 물질에 대한 특별한 항체인 E면역글로불린(IgE)이 만들어지고, 면역세포와 알레르기 염증세포들이 활성화됩니다. 이후 같은 물질에 다시 노출되면 알레르기 반응이 발생합니다.
+어떤 사람은 알레르기 반응이 신체 여러 부위에 빠르게 퍼져 피부가 가렵고, 목 안이 붓고, 숨도 차며, 어지럽고, 배가 아프거나 쓰러지기도 합니다. 
+이처럼 급격하게 전신적으로 발생하여 생명을 위협할 수 있는 중증 알레르기 반응을 아나필락시스(anaphylaxis)라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=182e95b8e113287]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[159]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[아나필락시스는 급격하게 전신적으로 나타나는 생명을 위협할 수 있는 중증 알레르기 반응입니다. 피부 발진이 생겨 가렵고, 목 안과 혀가 부으며(부종), 호흡기, 순환기, 소화기 등 신체 여러 부위에서 증상이 빠르게 진행해 생명을 위협할 수 있으므로 즉각적인 조치가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[아나필락시스의 원인은 지역, 연령, 계절에 따라 다릅니다. 
+우리나라 소아 청소년에서는 식품이 가장 흔한 원인이며, 성인에서는 약물, 식품, 벌독, 운동 순서로 흔합니다. 
+식품의 경우에도 나이에 따라 흔한 원인이 다릅니다.
+영유아는 계란, 우유, 밀, 콩 등이 주요 원인이며, 학령기 소아 및 청소년에서는 호두, 땅콩, 메밀, 잣 등 다양한 견과류와 곡물, 과일의 비중이 높습니다. 반면 성인에서는 새우와 해산물, 밀가루가 흔한 원인입니다.  
+약물 중에서는 아스피린을 포함한 소염진통제, 항생제, 조영제, 항암제가 주요 원인이며, 백신과 첨가제도 원인이 될 수 있습니다.
+드물지만 운동 자체가 아나필락시스를 일으킬 수 있고, 감염, 소염진통제, 스트레스 등과 함께 아나필락시스 증상을 악화시키는 보조인자로 작용할 수 있습니다. 또한 건강 상태와 보조인자에 따라 과거에 가려움, 발진 등 가벼운 반응만 일으켰던 요인이 예기치 않게 아나필락시스를 일으킬 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19ab9629adb5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[163]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[면역반응에 의한 경우, 우리 몸이 알레르기 원인 물질에 특별한 항체를 만들어 반응합니다. E면역글로불린(IgE)에 의한 반응이 가장 흔하며, 식품, 항생제를 비롯한 여러 약물, 벌독에 의해 일어납니다. IgE 외의 면역반응은 E면역글로불린을 제외한 면역 체계, 즉 G면역글로불린, 보체, 또는 E면역글로불린 수용체가 아닌 다른 수용체를 통한 알레르기 세포의 활성화 등에 의해 발생하며 조영제, 진통소염제, 주사형 철분제, 생물학적 제제 등이 이러한 기전에 해당합니다.
+면역반응과 관계없이 항체나 면역체계가 관여하지 않고, 알레르기 세포가 직접 자극을 받아 반응하는 경우로, 운동, 식품 보존제, 체온 변화, 알코올, 마약성 진통제 등에 의해 아나필락시스가 발생할 수 있습니다. 또한 같은 원인이라도 여러 기전이 동시에 작용해 아나필락시스를 일으킬 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[아나필락시스는 전 세계 인구의 약 0.3~5.1%에서 나타납니다.우리나라 건강보험심사평가원 자료에 따르면, 2017년 이후 매년 20,000명 이상이 아나필락시스로 진료를 받았습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a949c41489]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[아나필락시스는 증상을 기반으로 진단합니다. 
+알레르기 원인 물질 또는 특정 자극에 노출된 후 몇 분에서 몇 시간 이내에 아래 증상이 나타나면 아나필락시스를 의심합니다. 
+ 1. 몇 분에서 몇 시간 내로 갑자기 피부, 점막 증상(전신 두드러기, 가려움, 홍반, 입술·혀·목젖 부종)과 함께 호흡기 증상(숨가쁨, 쌕쌕거림, 기침, 기도수축, 저산소증 등), 심혈관 증상(혈압저하, 현기증, 실신 등), 또는 소화기 증상(복통, 구토 등) 중 한 가지 이상이 동반되는 경우
+ 2. 알고 있던 원인 물질이나 아나필락시스를 일으킬 수 있는 요인에 노출된 후, 피부 증상 없이 저혈압, 기도수축, 목안 부종이 갑자기 나타날 때 
+
+진단 시에는 우선 병력을 통해 증상이 나타나기 전에 섭취한 식품, 약물, 곤충에 쏘이지 않았는지, 운동을 했는지 알아보고, 어떤 증상이 나타났는지 확인합니다. 
+혈압과 산소포화도를 측정해 필요한 응급처치를 합니다.
+증상이 호전된 후 알레르기 전문의를 방문해 원인 물질을 확인하고, 피해야 할 음식이나 약물이 있는지 상담합니다. 필요한 경우 식단 조절이나 복용 중인 약물 변경이 필요할 수 있습니다. 
+혈액검사로 특정 원인에 대한 알레르기 항체(IgE)가 있는지 확인하거나, 피부반응검사를 통해 원인 물질을 확인합니다. 
+IgE 항체를 통한 반응이 아닌 경우에는 원인 물질을 확인하기 위해 유발시험을 할 수 있습니다. 유발시험은 응급상황에 대처할 수 있는 병원에서 시행해야 안전합니다. 
+아나필락시스와 비슷한 증상을 보일 수 있는 다른 질환으로는 급성 천식 발작, 급성 전신 두드러기, 혈관부종, 심장 또는 뇌혈관의 문제로 인한 실신, 불안 및 공황발작 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183d553477b7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183d553ae8b4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다른 질환이나 복용 중인 약물에 의해 아나필락시스 증상이 심해질 수 있습니다.
+ • 알레르기 비염, 아토피 피부염 같은 알레르기 질환, 천식 및 호흡기 질환, 심혈관 질환, 불안·우울이 있는 환자에게 심한 아나필락시스 증상이 나타날 수 있습니다.
+ • 혈압약, 소염진통제, 안정제, 수면제, 우울증약 등을 복용 중이거나 음주를 한 경우에도 심한 증상이 나타날 수 있습니다. 
+ • 운동, 감기, 발열, 급성 감염, 스트레스, 여행, 생리 주기 등도 아나필락시스를 악화시키는 보조요인이 될 수 있습니다.   
+ • 밀가루 알레르기가 없는 사람이 밀가루 음식을 먹고 운동을 하면 아나필락시스가 생기기도 합니다. 이를 식품 의존성 운동 유발성 아나필락시스라고 하며, 주요 원인은 밀과 갑각류로 알려져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=182e95943413272]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 몇 분에서 몇 시간 이내에 피부, 점막 증상(전신 두드러기, 가려움, 발적, 입술·혀·목젖의 부종)이 갑자기 나타나면서,  호흡기 증상(숨가쁨, 쌕쌕거림, 기침, 기도수축, 저산소증 등), 심혈관 증상(혈압저하, 현기증, 실신 등), 또는 소화기 증상(심한 복통, 구토 등) 중  한 가지 이상이 동반될 수 있으며, 
+ • 알고 있던 원인에 다시 노출된 후 두드러기, 가려움 같은 피부 증상 없이 혈압저하, 기도수축, 목안 부종이 갑자기 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=182e959c0683275]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[아나필락시스 치료에서 가장 중요한 것은 증상을 보고 아나필락시스를 빨리 알아차리는 것입니다.
+
+1단계- 아래와 같이 응급처치를 시행합니다.
+1. 가능한 원인을 제거하거나 중단합니다.
+2. 환자를 편평한 곳에 눕히고 의식, 맥박, 호흡을 확인합니다.
+3. 119에 신속히 연락하고, 주변에 도움을 요청합니다.
+4. '에피네프린'을 허벅지에 근육주사합니다. 
+5. 다리를 올려 심장과 뇌로의 혈액 공급을 유지합니다.
+ 6. 응급실 도착 후 증상이 호전되지 않으면 5~15분 간격으로 다시 에피네프린을 근육주사하고, 필요한 경우 정맥주사로 지속 투여할 수 있습니다.
+7. 호흡곤란이나 저산소증이 있으면 산소(분당 6~8 L)를 공급하고, 기도확장제를 흡입합니다.
+8. 혈압 유지를 위해 생리식염수 1~2 리터를 정맥주사합니다.
+9. 가려움, 두드러기 등 피부 증상에 대해서는 항히스타민제와 스테로이드 치료를 할 수 있습니다.﻿
+
+응급처치 후에도 6~12시간 이내에 후기 반응이 나타날 수 있습니다.
+특히 저혈압, 기도수축, 의식 소실 등 심한 아나필락시스 증상이 있었거나, 에피네프린을 여러 차례 투여한 경우 후기 반응이 나타날 가능성이 높습니다. 
+이런 경우에는 응급처치 후에도 하루 정도 경과를 관찰해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=182e95a934b3280]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2단계- 원인을 확인하고, 관련 질환, 약물, 보조요인 등 아나필락시스에 영향을 미치는 요인들을 평가하고 관리합니다.
+원인이 확인되면 반드시 피해야 하며, 아나필락시스 증상과 응급처치에 대해 교육을 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[171]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[원인이 확인된 경우에는 이를 회피하는 것이 가장 중요합니다.
+학교, 직장의 급식표를 확인하고, 식당에서도 주재료와 부재료를 꼼꼼히 확인해야 합니다.
+밀폐된 공간에서 원인 식품 조리 과정에 냄새나 접촉으로 노출되지 않도록 주의합니다.
+
+아나필락시스를 일으키는 약물과 구조나 작용이 유사해 조심해야 하는 약물도 알아야 하며, 안전하게 사용할 수 있는 대체 약에 대해 교육받습니다.
+운동에 의한 아나필락시스는 특정 식품을 섭취한 후 운동할 때 더 잘 발생할 수 있으므로,운동 전 어떤 식품을 먹었는지 확인이 필요합니다.
+원인을 알 수 없는 아나필락시스도 있습니다. 이런 경우에는 미리 응급 처치 계획을 세워두는 것이 중요합니다.
+
+아나필락시스 증상을 충분히 이해하고, 가족, 학교, 직장, 병원, 약국 등 노출 가능성이 있는 장소에 아나필락시스 관련 정보를 공유합니다.
+학교에서는 교사가 바뀌는 신학기에 반드시 아나필락시스 환자임을 반복해서 알립니다.
+
+휴대용 자가 에피네프린 주사의 사용법을 알고, 항상 지니고 다닙니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[원인을 피하면 아나필락시스를 예방할 수 있습니다.
+• 식사나 간식 섭취 후, 운동 후, 약물 복용 후, 벌이나 곤충에 쏘인 후 아나필락시스가 발생할 수 있음을 알고 주의합니다.
+
+• 학교나 식당에 어떤 식품을 섭취했을 때 문제가 되는지 알려줍니다. 
+• 식품 라벨을 확인하고, 성분이 불분명한 식품과 약물은 섭취하지 않습니다.
+• 현재 복용 중인 약물과 피해야 하는 약물을 기록해두고, 병원 방문 시마다 알려야 합니다.
+• 새로운 약 또는 건강보조식품을 사용할 때는 성분을 확인합니다.
+• 벌독 알레르기가 있다면 봄, 가을 야외 활동 시 주의해야 하며, 소매가 있는 옷을 입고 향수나 밝은 색 옷을 피합니다.
+• 여행 전에 전문의와 상담하고, 자가주사용 에피네프린과 이동 중 사용할 약물을 준비합니다.
+• 비행기를 이용할 경우 주의할 식품 또는 약물을 미리 항공사에 알립니다.
+• 여행지에서 이용할 수 있는 병원을 미리 알아 두고, 필요한 영문소견서를 챙깁니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a949d21943]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[아나필락시스는 드물지만 생명을 위협할 수 있는 전신 알레르기 반응입니다. 즉시 응급처치를 하지 않을 경우 생명을 잃을 수도 있습니다.
+급성 증상이 호전된 후 후기 반응이 나타나는 경우도 있어 24시간까지는 관찰이 필요합니다.
+아나필락시스 증상을 인지하지 못하면 단순한 피부 증상, 일시적인 현기증, 가슴 답답함 등으로 생각한 채, 원인을 확인하지 않고 지내다가 재발하는 경우가 있습니다.
+같은 원인에 다시 노출될 때는 더 빠르고 심한 증상이 나타날 수 있습니다. 
+이때 응급처치에 대해 잘 알지 못하면 적절히 대처할 수 없어 위험한 상황이 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[175]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 원인이 없는 아나필락시스의 경우 어떻게 해야 할까요?
+
+A. 드물게는 병원에서 여러 검사를 해도 아나필락시스를 유발한 정확한 원인(음식, 약물, 운동 등)을 찾지 못하는 경우가 있습니다. 이를 특발성(특정 원인이 없는) 아나필락시스라고 합니다. 이 경우에도 다음과 같은 예방과 응급대비가 매우 중요합니다. 
+첫째, 응급 처치 약(에피네프린 자가주사기)을 항상 휴대하고, 둘째, 증상이 시작되면 즉시 사용하고 병원에 가는 방법을 미리 익혀야 합니다. 셋째, 응급상황 시 주변인이 도와줄 수 있도록 가족이나 친구에게도 대처 방법을 알려두는 것이 좋습니다. 
+또한, 재발 위험이 있으므로 알레르기 전문의의 진료를 꾸준히 받고, 일지 작성(증상 발생 상황, 시간, 음식 등)을 통해 잠재적인 원인을 추적하는 것도 도움이 됩니다.
+
+Q. 알레르기 질환이 전혀 없었는데, 갑자기 아나필락시스를 겪는 이유가 있나요?
+
+A. 알레르기 병력이 없더라도 갑자기 아나필락시스를 겪을 수 있습니다.
+이는 본인이 알지 못하는 사이에 특정 물질에 몸이 민감해지는 ‘감작’이 진행되었거나, 일부 약물이나 조영제처럼 감작 없이도 알레르기 세포를 직접 자극해 반응을 일으킬 수 있기 때문입니다. 
+또한, 운동이나 음주 등 다양한 보조 인자가 함께 작용하여 알레르기를 유발하는 경우도 있습니다. 따라서 원인을 정확히 확인하고, 재발 방지를 위한 진단과 교육이 필요합니다.
+
+Q. 에피네프린 자가주사기는 모든 아나필락시스 환자가 가지고 있어야 하나요?
+
+A. 의사의 처방을 받은 아나필락시스 경험자라면 에피네프린 자가주사기를 항상 가지고 다니는 것이 매우 중요합니다.
+에피네프린은 아나필락시스가 시작될 때 가장 빠르고 효과적인 응급치료제로, 생명을 구할 수 있는 약입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 장광천, 장윤석, 최선화, 송우정, 이수영, 박해삼, …, 안영민. (2013). 한국 아나필락시스의 진료. Allergy Asthma Respir Dis. 1(3):181-96.
+ 2. Cardona, V., Ansotegui, I. J., Ebisawa, M., El-Gamal, Y., Fernandez-Rivas, M., Fineman, S., …, &amp; Worm, M. (2020). World Allergy Organization Anaphylaxis Guidance 2020. World Allergy Organ J. 13(10). 100472.
+ 3. Jang YS. Anaphylaxis diagnosis and management J Korean Med Assoc. 2024;67(11):701-707.
+ 4. Jeong, K., Ye, Y. M., Kim, S. H., Kim, K. W., Kim, J. H., Kwon, J. W., …, Lee, S. Y. (2020). A multicenter anaphylaxis registry in Korea: Clinical characteristics and acute treatment details from infants to older adults. World Allergy Organ J. 13(8). 100449. 
+ 5. Muraro, A., Worm, M., Alviani, C., Cardona, V., DunnGalvin, A., Garvey, L. H., …, &amp; Roberts, G. (2021 update). EAACI guidelines. Anaphylaxis. Allergy. 77(3). 357-37.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

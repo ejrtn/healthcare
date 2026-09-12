@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[응고검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6267]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우리 몸에 상처가 나서 출혈이 생기면 여러 기전에 의해 지혈이 일어납니다. 지혈에 가장 중요한 세 가지 요소는 혈관, 혈소판, 혈액응고인자입니다.
+
+
+
+지혈 과정은 다음과 같습니다.
+
+1. 다친 혈관이 수축해 출혈량을 줄입니다.
+
+2. 혈소판이 손상된 혈관내피세포에 달라붙고 서로 응집해 일차 혈전 (혈소판 덩어리)을 만듭니다.
+
+3. 혈액응고인자가 차례로 활성화되어 섬유소를 생성합니다. 섬유소가 일차 혈전에 더해지면 더욱 단단한 이차 혈전이 만들어져 출혈이 완전히 멈춥니다.
+
+
+
+세 가지 요소 중 하나라도 이상이 있으면 정상적으로는 출혈이 일어나지 않거나 곧 멈출 상황에서도 출혈이 발생하거나 다량의 출혈이 일어날 수 있습니다.
+
+살짝만 부딪혀도 쉽게 멍이 든다거나, 발치 후 지혈이 잘 안 된다거나, 출산 후 출혈이 멈추지 않고 지속되는 상황 등이 대표적인 예입니다.
+
+지혈이 된 후에 다친 혈관이 재생되고 상처가 치유되면, 섬유소 용해기전에 의해 섬유소가 분해되어 혈전이 녹아 없어집니다. 또한 혈액 내의 항응고물질(항트롬빈, C단백, S단백 등)은 응고인자가 과도하게 활성화되지 않도록 조절합니다.
+
+섬유소 용해기전과 항응고물질이 제 기능을 못하면 출혈의 반대 현상인 혈전증이 나타납니다. 심근경색, 뇌경색, 심부정맥혈전증 등이 대표적인 혈전성 질환입니다.
+
+즉, 지혈 과정에 이상이 있으면 정상적인 지혈이 안 되므로 출혈성 질환이 발생하고, 섬유소 용해기전과 항응고물질의 기능에 이상이 있으면 혈전이 녹아 없어지지 못하므로 혈전성 질환이 발생합니다. 출혈성 및 혈전성 질환의 진단을 위해 시행하는 검사들을 통틀어 ‘응고검사’라고 합니다.
+
+]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18acfdfb0462]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[응고검사(출혈질환의 검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6269]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[응고검사(혈전질환의 검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6268]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[치아외상(치아손상)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6704]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3673]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 치아파절이 발생한 경우 파절편이 있다면 이를 가지고 빠른 시일 내 치과를 방문하는 것이 좋습니다.
+• 치아가 완전히 빠진 경우에는 치아 뿌리가 마르지 않도록 우유, 타액, 식염수 등 보관용액에 넣어 신속히 치과를 방문해야 합니다. 치아 뿌리 표면을 마르지 않게 유지하는 것이 치아의 예후에 큰 영향을 미칩니다.
+• 치아 외상은 치아 자체에만 국한되기도 하지만, 치아를 지지하는 치주조직의 외상이 동반되는 경우가 많아 정확한 진단과 치료 계획 수립, 경과 관찰이 중요합니다.
+• 치아 외상이 발생하면 추후 치수괴사, 흡수, 유착 등 합병증이 생길 수 있으므로, 주기적으로 치과를 방문하여 검진을 받는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[225]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치아 외상은 교통사고, 추락, 폭행 등 외부의 충격으로 치아나 그 주변 구조물이 손상되는 경우를 말합니다. 
+주로 어린이와 청소년에게 자주 발생하며, 치아뿐 아니라 치아를 지탱하는 치주조직(치주인대, 치조골, 잇몸 등)도 함께 손상될 수 있습니다. 
+정확한 진단과 적절한 치료 계획, 꾸준한 경과 관찰이 중요하며, 이는 치료 결과(예후)에 큰 영향을 미칩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[발생원/원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[226]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치아 외상의 원인은 교통사고, 폭행, 운동 등입니다.어린이는 걷고 달리는 등 신체 활동이 활발해지는 시기에 접어들면서 추락, 충돌, 여가 활동 등으로 인해 사고가 빈번히 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 치아 및 치조골의 파절
+ (1) 법랑질 미세파절, 잔금(infraction) – 치아 구조물의 상실이 없는 법랑질의 불완전한 파절 
+   (2) 법랑질 파절(enamel fracture) – 법랑질만 포함하는 파절 
+   (3) 단순 치관 파절(enamel-dentin fracture) – 법랑질과 상아질을 포함하는 파절로, 치아 구조물 상실이 있으나 치수가 노출되지 않은 경우 
+   (4) 복합 치관 파절(enamel-dentin-pulp fracture) - 법랑질과 상아질을 포함하는 파절로, 치아 구조물 상실과 치수 노출이 있는 경우 
+   (5) 단순 치관-치근 파절(crown-root fracture without pulp exposure) - 법랑질, 상아질, 백악질을 포함하는 파절로, 치아 구조물 상실이 있으나 치수가 노출되지 않은 경우  
+   (6) 복합 치관-치근 파절(crown-root fracture with pulp exposure) - 법랑질, 상아질, 백악질을 포함하는 파절로, 치아 구조물 상실과 치수 노출이 있는 경우 
+   (7) 치근 파절(root fracture) - 상아질, 치수, 백악질을 포함한 파절 
+   (8) 치조골 파절(alveolar fracture) – 치아를 지지하는 치조골의 파절]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412fa873c4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 치아 지지조직의 손상 
+   (1) 진탕(concussion) – 치아의 변위(위치 변화)나 움직임 없이, 타진 시에만 예민하게 반응하는 치아 지지조직의 손상 
+   (2) 아탈구(subluxation) - 치아의 변위는 없으나, 비정상적인 움직임을 수반한 치아 지지조직의 손상 
+   (3) 정출성 탈구(extrusive luxation) – 치아가 장축 방향으로 치조와(alveolar socket) 외측으로 변위된 상태 
+   (4) 측방 탈구(lateral luxation) – 치아가 측방으로 변위된 상태 
+   (5) 함입성 탈구(intrusive luxation) - 치아가 장축 방향으로 치조와(alveolar socket) 내측으로 변위된 상태 
+   (6) 완전탈구(avulsion) – 치아가 치조와(alveolar socket)에서 완전히 탈락된 상태]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412fada227]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[228]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치아 외상은 전체 외상성 손상의 약 5%를 차지합니다.학령기 어린이의 25%가 치아외상을 경험한 적이 있으며, 성인의 33%가 영구치열외상 경험이 있습니다. 이들 대부분은 19세 이전에 외상을 입은 것으로 알려져 있습니다.0~6세 아동의 구강 부위 외상은 모든 신체 외상의 약 18%를 차지하며, 이는 모든 신체 외상 중 두 번째로 흔한 것입니다.최근 메타 분석 결과에 따르면, 유치열의 치아외상은 전 세계적으로 약 22.7%의 유병률을 보입니다.유치열기에는 탈구성 손상(luxation injury)이, 영구치열기에는 치관 파절(crown fracture)이 가장 흔하며, 영구치의 탈구는 모든 치아외상의 약 0.5~16%에서 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[229]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유치의 외상은 대부분 치주조직(잇몸 주변 조직)까지 함께 손상되며, 특히 뿌리끝(치근단)이 다치면 그 아래에서 자라는 영구치에 심각한 영향을 줄 수 있습니다.유치 및 치조골이 손상되면 발육 중인 영구치가 기형으로 자라거나 제대로 나오지 못하는 맹출장애가 발생할 수 있습니다.영구치 외상의 경우, 손상이 비가역적이며 영구적입니다. 외상을 입은 치아와 인접 치아는 치수괴사, 치근흡수, 치근유착, 발치 등의 합병증이 발생할 수 있으며, 심한 경우 발치 후 보철적 수복이 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 대처]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[232]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대부분의 치아손상은 어린이와 청소년기에 발생하며, 이때 치아가 손실되면 평생 되돌릴 수 없습니다. 따라서 치아를 최대한 보존하기 위해 모든 노력을 다해야 합니다.  치아 파절 또는 탈구성 손상이 발생한 경우, 가급적 빠른 시일 내 치과를 방문하여 진단과 처치를 받아야 합니다. 
+
+1) 치아가 파절된 경우 • 파절된 치아의 경우 파절편을 재부착하는 것이 가장 심미적인 치료 방법이므로, 외상 직후 파절편을 찾을 수 있다면 가지고 치과에 방문하는 것이 좋습니다. 
+• 치아가 파절되어 파절면이 노출될 경우 시린 증상이 있을 수 있으므로, 가급적 빠른 시일 내 치과를 방문하는 것이 권장됩니다
+2) 치아가 완전탈구된 경우
+• 영구치가 완전탈구된 경우에는 사고 현장에서의 적절한 응급 조치가 매우 중요합니다. 완전탈구된 영구치의 즉각적인 재식은 사고 현장에서 할 수 있는 가장 좋은 치료이지만, 오염된 치아를 무리해서 끼우면 감염 위험이 있습니다. 따라서 재식이 불가능한 경우에는 치근면(치아뿌리면)을 마르지 않게 유지하며 바로 치과에 방문하는 것이 좋습니다. 치아 재식이 가능한 경우, 다음 순서로 진행합니다(단, 유치는 재식 하지 않습니다).
+①  환자를 안정시킵니다. 
+② 치아가 더러운 경우에는 우유, 식염수 또는 환자의 타액으로 부드럽게 헹군 후 탈구된 부위에 넣어 줍니다. 
+③ 치아를 찾아 치관(머리) 부위를 잡고 즉시 탈구된 부위에 넣어 줍니다. 치근(뿌리)은 가급적 만지지 않습니다. 
+④ 치아를 원래 위치로 넣은 후, 환자는 거즈, 손수건 또는 냅킨 등을 물어 치아를 제자리에 고정합니다.
+⑤ 치아를 제 위치에 넣은 후에도 방사선학적 평가와 약 2주간의 치아 고정이 필요하므로, 치과 방문이 필수적입니다.
+• 현장에서 치아 재식이 불가능한 경우(예: 의식이 없는 환자)에는 가능한 빨리 현장에서 구할 수 있는 보관용액 또는 운반 매체에 치아를 보관합니다.치근의 탈수는 몇 분 이내에 발생하므로 신속하게 보관용액에 넣어야 합니다.추천 보관용액은 우유, HBSS(Hank's Balanced Salt Solution), 타액(용기에 뱉어서 사용), 식염수 순이며, 물은 권장되지 않지만 치아를 공기 중에 두어 건조되는 것보다는 낫습니다.이후 보관한 치아를 환자와 함께 병원으로 가지고 갑니다.
+• 치아가 깨끗하지 않은 경우 감염 위험성이 있으므로 무리해서 끼우지 않고 치과에 방문할 것을 추천합니다. 
+이외에도, 치근파절, 치아가 제 위치보다 들어가는 함입, 위치가 틀어지는 아탈구 등의 치아외상은 즉시 치과에 방문하는 것이 권장됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[평가 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[233]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치아외상이 발생한 경우 치아의 파절, 변위(위치 변화)뿐만 아니라 뼈의 골절, 타박상, 찰과상, 열상 등 연조직 손상이 동반될 수 있으므로 면밀한 검사가 필요합니다.임상 사진을 통해 외상 초기의 상태를 기록하면 연조직 치유, 치아 변색, 빠져 들어간(함입) 치아의 재맹출 및 유착, 치아의 저위 교합 등을 평가하고 관찰할 수 있습니다.
+방사선 사진은 치아 외상을 정확히 진단할 뿐만 아니라 치료법 선택에 필요한 정보를 제공하며, 후속 검사에서 비교 기준으로 활용되므로 반드시 필요합니다. 콘빔형 컴퓨터단층영상(cone-beam computed tomography, CBCT)은 치근파절, 치관-치근파절, 측방탈구를 평가하는 데 효과적이며, 골절의 위치, 범위 및 방향을 확인하는 데도 도움이 됩니다.다만, 어린이는 방사선 노출을 최소화하기 위해 정확한 진단과 치료에 필요한 최소한의 촬영만 권장됩니다. 
+또한, 치수 민감도 검사는 치수 상태를 평가하는 냉온 검사 및 전기 치수 검사를 포함하며, 치아외상 후 시간에 따른 변화를 확인하기 위해 초기와 후속 검사 모두에서 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[평가 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[233]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412fbbfa61]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[234]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 충격으로 치아가 뽑힌 경우 바로 다시 심어도 부작용이 없나요(뿌리방향이 어긋난다든지 등)?
+
+A. 적절한 압력으로 치아를 재위치할 경우 방향이 어긋날 가능성은 매우 낮으며, 이를 정확하게 확인하기 위해 재식 후 방사선 사진 촬영이 권장됩니다.
+재식한 치아는 향후 치수괴사가 발생할 수 있으므로, 통상적인 근관치료가 필요합니다.
+또한, 적절한 근관치료 후에도 치근 흡수, 유착 등의 합병증이 발생할 수 있으므로, 정기적인 검진이 필요합니다.
+
+Q. 외상 후 얼마 동안 경과 관찰이 필요한가요?
+
+A. 치아외상 후 추적 검사는 필수적입니다.
+치아외상 후 발생할 수 있는 주요 합병증으로는 치수괴사 및 감염, 치수강 폐색, 다양한 유형의 치근 흡수, 치은 경계부 흡수, 치조골 파괴 등이 있으며, 이러한 합병증을 조기에 발견하고 관리하면 치아의 예후를 향상시킬 수 있습니다.
+
+Q. 외상을 입은 치아는 무조건 근관치료를 해야 하나요?
+
+A. 무조건 근관치료가 필요한 것은 아닙니다. 다만, 완전탈구되거나 함입된 치아의 경우에는 반드시 빠른 시일 내 근관치료가 필요합니다. 또한 함입, 완전탈구 외에도 외상을 입은 치아의 경우 주기적인 치수 생활력 검사가 필요하며, 치수가 괴사된 것이 확인된 경우(예: 치근단 병소 발견 또는 치아 색의 회색빛 변화)에는 근관치료가 필요합니다.
+
+Q. 치아 지지조직의 손상 후 고정 기간은 얼마나 되나요?
+
+A. 치아 고정 기간은 외상 종류에 따라 달라집니다. 정확한 진단과 치료를 위해 치과 방문이 필수적입니다. 일반적으로 완전탈구는 약 2주, 측방탈구, 함입, 치근파절은 약 4주 정도 고정이 필요합니다. 
+
+Q. 아기가 치아외상을 받은 경우 항생제를 무조건 복용해야 하나요?
+
+A. 유치열에서 탈구가 발생했을 때 전신적 항생제 사용은 일반적으로 권장되지 않습니다. 다만, 연조직 손상이나 다른 조직 손상, 외과적 개입이 필요한 경우에는 임상의 판단에 따라 항생제를 사용할 수 있습니다. 또한, 환자의 의학적 상태에 따라 항생제가 필요할 수도 있습니다. 외상 부위가 오염된 경우에는 파상풍 예방 주사가 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[326]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한치과근관치료학회. (2017). 근관치료학 (제2판). 서울: 예낭아이앤씨.
+2. Bourguignon C et al. (2020). International Association of DentalTraumatology guidelines for the management of traumaticdental injuries: 1. Fractures and luxations. Dent Traumatol ;36(4), 314-330.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[235]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치아외상, 치아탈구, 치아파절, 응급처치, 근관치료]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

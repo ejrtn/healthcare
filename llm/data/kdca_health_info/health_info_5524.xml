@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[주혈흡충증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5524]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 주혈흡충증은 주혈흡충 감염으로 발생하는 기생충 질환으로, 전 세계적으로 2억 명 이상의 감염자가 있을 만큼 중요한 열대병 중 하나입니다.
+• 주로 감염된 달팽이가 배출한 유충(유미유충)이 있는 민물과 접촉하거나 오염된 물을 마실 때, 유충이 피부를 통해 침투해 감염됩니다.
+• 초기에는 피부 발진, 가려움증, 발열 등의 증상이 나타나며, 만성 감염으로 진행되면 간과 비장이 커지고, 혈뇨나 혈변 등 심각한 장기 손상을 일으킬 수 있습니다.
+• 예방을 위해 유행지역에서 민물과의 접촉을 피하고, 물은 반드시 끓여 마시는 것이 중요합니다.
+• 치료에는 프라지콴텔(Praziquantel)이 가장 효과적으로 사용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[주혈흡충증은 주혈흡충(Schistosoma haematobium, S. mansoni, S. japonicum, S. mekongi, S. intercalatum) 감염에 의한 질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 신고범위
+환자
+2. 신고시기
+주혈흡충 감염 확인 후 7일 이내 신고
+3. 신고를 위한 진단기준
+환자: 주혈흡충 감염 증상이 있거나 역학적으로 연관되어 있으면서 진단을 위한 검사기준에 따라 주혈흡충 감염이 확인된 사람
+4. 진단을 위한 검사기준
+검체(대변, 소변, 간·직장·방광 점막 조직)에서 충란 확인
+5. 신고 방법
+표본감시기관은 해외 유입 기생충 감염증 신고서를 작성하여 관할 보건소로 팩스 또는 웹 입력 방법으로 신고
+ *표본감시 대상 의료기관 여부 확인: 관할 보건소로 문의]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[주혈흡충에 감염된 패류(달팽이)에서 인체에 감염을 일으키는 유미유충(cercariae)이 물 속으로 배출됩니다. 사람은 이 유미유충이 들어있는 민물과 접촉하거나 유미유충에 오염된 물을 마실 경우 감염됩니다. 주로 수영, 목욕, 빨래 등을 할 때 주혈흡충의 유미유충이 피부를 뚫고 우리 몸 속으로 들어와 감염됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=197b05868578]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 국외현황
+세계보건기구가 정한 6대 열대병의 하나로 전 세계적으로 2억 명의 감염자가 있어 말라리아 다음으로 중요한 질병입니다. 주혈흡충증은 전 세계에 걸쳐 매우 광범위하게 분포되어 있으나 충체 종류별 분포 양상은 전혀 다릅니다.
+‒ 일본주혈흡충증: 동남아시아 지역, 즉 중국, 일본, 필리핀 등지에 널리 분포하고 있으며, 인도네시아까지 분포
+‒ 만손주혈흡충증: 아프리카의 나일 삼각주 지역에 농후한 유행지를 형성하고 있으며, 아프리카 전역에서 발견
+‒ 방광주혈흡충증: 예멘, 사우디아라비아 등 중동 지역과 남미의 브라질, 수리남, 베네수엘라, 푸에르토리코, 도미니카공화국 등도 유행지
+‒ 메콩주혈흡충증: 1978년 라오스의 메콩강 내에 있는 삼각주에서 처음으로 발견 되었고 이 지역이 가장 농후한 유행지이며 최근에 캄보디아와 태국에서도 인체감염 예가 보고
+‒ 말레이주혈흡충증: 1973년 말레이반도 원주민에서 발견되어 1988년에 신종으로 명명된 종으로 현재까지는 말레이시아에 국한되어 분포
+‒ 장간막주혈흡충증: 중앙 및 서부 아프리카의 제한된 지역, 즉 카이르, 가봉, 카메룬, 중앙아프리카 공화국 등에서 유행
+
+2. 국내현황
+우리나라에서는 예멘, 사우디아라비아 등에서 유입된 사례가 보고되었으며,2015년, 2016년, 2024년에 각각 1건씩 신고되었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[주혈흡충에 감염될 경우 보통 2~6주 정도의 무증상 잠복기를 거치게 됩니다. 증상이 있는 경우 풍토병과 비풍토병 지역의 영향을 받고 크게 급성기와 만성기 증상으로 진행할 수 있습니다.
+1) 급성기 증상
+주혈흡충 감염 후 1개월 내지 2개월 안에 피부발진이나 가려움증, 오한, 발열, 기침, 근육통 등이 나타납니다. 무증상 감염도 많으며 감염된 지 약 1개월 후 체내의 기생충이 충란을 낳기 시작하면 충란이 간, 장관, 방광, 중추신경계 등으로 운반되어 이에 따른 증상이 나타날 수 있습니다. 특히 일본주혈흡충증에서 증상이 심각하게 나타납니다.
+2) 만성기 증상
+대부분 증상이 없거나 경미하게 나타날 수 있으며, 증상과 관계없이 호산구증가증이 나타납니다.가벼운 감염 환자는 피로, 복통, 설사를 호소할 수 있으며, 초기 징후로 간비대가 나타납니다.방광주혈흡충증에서는 염증으로 인한 혈뇨, 배뇨곤란, 방광 점막의 궤양이 나타날 수 있으며, 일본주혈흡충, 만손주혈흡충에서는 혈변, 복수, 부종, 소화장애, 폐질환 등을 유발할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대변이나 소변검사에서 특징적인 충란을 발견하거나 간, 직장이나 방광의 점막 생검 검사에서 충란을 발견할 수 있습니다. 또 혈액에서 주혈흡충에 대한 특이 항체를 검출하여 진단합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[주혈흡충증이 유행하는 지역(아프리카, 동남아, 중국 남서부 등)에서는 수영이나 물 속에 들어가 강을 건너는 등 물과 접촉하는 행위를 하지 말아야 하고, 물은 1분 이상 끓여 먹어야 합니다. 또 유행지역에서 목욕을 할 때에는 목욕물은 65℃ 이상에서 5분 정도 데우거나 물탱크에 48시간 이상 저장한 후 사용하여야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[150]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[주혈흡충증의 가장 강력한 치료제는 프라지콴텔(Praziquantel)이며,주혈흡충의 종에 따라 복용 용량이 다릅니다.복용 시 두통, 복부 불쾌감, 현기증 등 가벼운 부작용이 있을 수 있습니다.
+- Schistosoma mansoni(만손주혈흡충), S. haematobium(방광주혈흡충): 40 mg/kg의 용량을 1일 2번 나누어 복용 
+- Schistosoma japonicum(일본주혈흡충), S. mekongi(메콩주혈흡충): 60 mg/kg의 용량을 1일 3번 나누어 복용]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[154]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 환자관리
+ 주혈흡충에 걸린 환자의 격리는 필요 없습니다.
+
+2. 접촉자 관리 
+ 주혈흡충에 감염된 환자와 접촉한 사람에 대한 격리는 필요 없으나  감염된 사람과 함께 여행했거나 활동했던 사람에 대해서는 추가 감염여부를 조사해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청, 2025년도 기생충감염병 관리지침]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[광동주혈선충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5526]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[리슈만편모충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5521]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[샤가스병]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5525]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[바베스열원충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5522]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[사상충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5528]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[아프리카수면병]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5523]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[악구충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5527]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[포충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5529]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[해외유입기생충감염증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5420]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

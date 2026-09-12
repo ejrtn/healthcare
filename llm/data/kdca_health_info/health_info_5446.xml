@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[총혈구검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5446]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 총혈구검사는 적혈구, 백혈구, 혈소판을 평가하는 검사로, 건강검진, 수술 전 기본검사, 혈액질환 진단 등 다양한 상황에서 시행됩니다​.
+• 적혈구는 조직에 산소를 공급하며, 적혈구 수와 혈색소 농도로 빈혈이나 폐질환 등을 진단할 수 있습니다.
+• 백혈구는 이물질이나 감염원으로부터 신체를 보호하며, 백혈구 수의 변화는 감염, 염증, 종양 등의 징후일 수 있습니다.
+• 혈소판은 상처가 났을 때 출혈을 멈추게 하는 역할을 하며, 혈소판 수의 변화는 골수증식질환, 재생불량빈혈, 백혈병 등에서 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[총혈구검사는 건강검진, 수술 전 기본검사에서부터 혈액질환의 진단에 이르기까지 다양한 상황에서 시행되며 적혈구, 백혈구, 혈소판을 평가하는 검사입니다.
+1. 혈액과 혈구
+혈액은 전신을 순환하면서 체내 모든 세포와 접촉합니다. 이때 혈액은 생명 유지에 필수적인 산소와 영양소를 공급하며 세균과 같은 외부 유해물의 침입으로부터 인체를 지켜주고, 출혈이 생기면 피를 멈추게 하는 등 중요한 역할을 담당합니다. 이러한 기능을 수행하는 혈액세포를 혈구라고 부르며 총혈구검사(Complete blood count, CBC)는 혈액 내 혈구(적혈구, 백혈구, 혈소판)를 평가하는 검사입니다.
+
+2. 적혈구의 역할
+적혈구는 혈색소를 함유한 적응성과 유연성이 뛰어난 세포입니다. 작은 혈관을 쉽게 통과하여 전신의 조직에 산소를 공급합니다. 적혈구는 골수에서 생성되고 평균 수명인 120일이 지나면 비장(지라)과 간에서 파괴됩니다. 가운데가 오목하게 패인 원반모양으로 핵이 없는 것이 특징입니다. 적혈구의 주요 성분인 혈색소는 산소와 이산화탄소를 운반하는 생명 유지에 가장 중요한 역할을 하는 물질입니다. 혈색소는 4개의 헴(Heme)과 1개의 글로빈(globin)으로 이루어져 있으며, 각 헴은 철(Fe)에 1개 분자의 산소와 결합합니다.
+
+3. 백혈구의 역할
+백혈구는 골수에서 생성되며 외부에서 침입한 이물질이나 감염원으로부터 신체를 보호하는 역할을 담당합니다. 정상인의 혈액에는 호중구, 림프구, 호염기구, 호산구, 단구 등 다섯 종류의 백혈구가 있습니다. 호중구와 단구는 아메바운동을 하면서 혈관 밖으로 나와 외부로부터 침입한 세균이나 이물질을 세포 내로 흡수한 다음, 세포 내에서 소화하고 분해하여 무독화하는 역할을 담당합니다. 림프구는 암세포나 바이러스 감염세포를 공격하고, 면역글로불린을 생산하여 인체를 방어합니다. 호산구는 주로 기생충 감염이나 알레르기 질환 등의 면역에 관여하며, 호염기구는 신체 손상과 염증을 조절하는 역할을 합니다.
+
+4. 혈소판의 역할
+혈소판은 상처가 생겼을 때 혈액을 멎게 해주는 역할을 합니다. 혈소판은 정상적인 부드러운 혈관 내벽에는 붙지 않지만, 내피가 손상되어 콜라겐 섬유가 노출되면 손상된 부위에 달라붙습니다. 부착된 혈소판들은 쌓여서 혈소판 덩어리를 만들고, 혈관수축을 일으키는 세로토닌을 방출하여 응고가 일어날 때까지 혈액 손실을 감소시킵니다. 혈소판은 혈구 중에서 크기가 가장 작으며 골수에서 거핵구로부터 세포질이 떨어져 나와 만들어지고 비장과 간에서 파괴됩니다. 이러한 혈소판의 수나 기능에 이상이 생기면 지혈 작용에 영향을 주어 출혈이 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01cec7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01cf61]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[총혈구검사는 혈구세포들의 수와 분포가 적당한지 확인하고 비정상 혈구들은 없는지 알아보기 위해 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 총혈구검사의 적응증
+총혈구검사는 건강검진, 수술 전 기본검사에서부터 혈액질환의 진단 및 추적관찰에 이르기까지 다양한 임상 적응증을 가지고, 혈액을 이용한 검사 중 가장 흔하게 시행되는 검사 중 하나입니다.
+
+ 2. 총혈구검사의 금기증
+총혈구검사의 특별한 금기증은 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[총혈구검사는 주로 정맥혈액을 이용하여 검사하고 예외적으로 피부를 찔러서 나오는 모세관 혈액을 이용하기도 합니다. 총혈구검사를 위해서는 EDTA(Ethylenediaminetetraacetic acid) 항응고제가 포함된 채혈관에 채혈합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[총혈구검사에 포함되는 검사 항목들은 적혈구 수, 혈색소, 적혈구 용적률, 적혈구 지수, 망상 적혈구 수, 백혈구 수, 백혈구 감별 계산, 혈소판 수가 일반적입니다. 경우에 따라서는 말초혈액 도말 표본을 제작하여 수기법으로 혈구의 수와 형태학적 상태를 검사합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 자동혈구분석기
+병원의 검사실에서는 자동혈구분석기를 이용하여 총혈구검사를 시행합니다. 자동혈구분석기는 전기저항(electrical impedance)과 광 산란(light scatter)의 원리를 주로 이용하여 혈구의 크기와 내부구조를 구별하고 혈구 수를 측정합니다.
+
+2. 수기법
+백혈구 감별 계산 등 일부 검사항목에 대해서는 필요한 경우 말초혈액 도말 표본을 제작하여 현미경으로 확인하는 단계를 거쳐 보고합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[총혈구검사의 특별한 준비사항은 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 정맥천자
+정맥혈액의 경우 충분한 양을 채혈할 수 있으며 채혈부위는 팔오금 중간 정맥, 요골측 피부정맥, 척골측 피부정맥 등 팔오금(팔꿈치 앞면에 있는 오목한 부분) 부위의 굵은 혈관을 주로 이용합니다.
+
+2. 피부천자
+신생아나 영유아, 정맥혈관이 가늘고 약한 성인에서는 정맥천자 대신 발뒤꿈치나 손가락 끝을 찔러 모세관 혈액을 채혈합니다. 혈액을 손쉽게 채취할 수 있으며, 혈액세포의 변화가 적은 방법입니다.
+
+3. 항응고제
+검사에 사용되는 혈액은 응고되면 혈구 수는 물론 혈구 관련 기타 검사를 수행할 수 없기 때문에 EDTA 항응고제가 포함된 채혈관에 혈액을 채취한 후 응고되지 않도록 완전히 섞은 후 이용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01cff4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 적혈구 
+1) 적혈구 수 
+탈수, 폐질환, 선천심장병, 진성 적혈구 증가증, 신장 질환, 과다한 수혈, 흡연, 조직 저산소증 등에서 적혈구 수가 증가합니다. 출혈, 빈혈, 골수부전, 대사장애, 만성질환, 외상, 화상 등에서는 적혈구 수가 감소합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01d474]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 혈색소(Hemoglobin, Hb) 농도
+혈색소 농도는 탈수, 흡연, 진성 적혈구 증가증, 폐질환 등에서 증가하며, 다양한 원인에 의한 빈혈에서 감소합니다.
+① 빈혈
+순환하는 적혈구의 총량이 정상범위보다 낮아 조직의 산소요구량을 충족시키지 못하고 조직의 저산소증이 이어지는 경우를 빈혈이라고 정의합니다.
+② 빈혈의 진단 기준
+적혈구 총량이 감소하면 헤마토크릿과 혈색소 농도가 감소하므로 혈색소와 헤마토크릿 검사를 통해 빈혈을 진단할 수 있습니다. 
+세계보건기구(World Health Organization, WHO)는 다음과 같이 성별, 연령별 혈색소 농도에 따라 빈혈을 정의하고 있습니다. 
+- 6개월 이상 5세 미만: 혈색소 &lt; 11.0 g/dL 
+- 5세 이상 12세 미만: 혈색소 &lt; 11.5 g/dL 
+- 12세 이상 15세 미만: 혈색소 &lt; 12.0 g/dL
+ - 15세 이상 성인 남성: 혈색소 &lt; 13.0 g/dL 
+- 15세 이상 성인 여성: 혈색소 &lt; 12.0 g/dL
+ - 임산부: 혈색소 &lt; 11.0 g/dL
+3) 헤마토크릿(hematocrit, 적혈구 용적률)
+헤마토크릿은 혈액 전체 부피에 대한 적혈구 부피의 비율을 의미하며 백분율(%), 소수 또는 L/L 단위로 표시합니다. 헤마토크릿은 혈색소와 마찬가지로 탈수, 흡연, 진성 적혈구 증가증, 폐질환에서 증가하며, 빈혈에서 감소합니다. 임신 중에는 혈장량이 증가하므로 헤마토크릿은 감소하지만 총 적혈구 수는 감소되지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01d307]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4) 적혈구 지수
+적혈구 지수는 빈혈의 원인에 따라 양상이 다르므로, 빈혈을 감별 진단하는데 매우 유용합니다. 적혈구 지수는 수백만 개 적혈구의 평균을 나타내므로 두 종류의 적혈구 군이 모두 존재하는 질환은 정상 범위로 나올 수도 있습니다. 이런 경우 말초혈액 도말 검사 등으로 확인하는 것이 필요합니다.
+① 평균 적혈구 용적(Mean corpuscular volume, MCV)
+적혈구의 평균 용적(부피), 즉 적혈구의 평균 크기를 반영합니다. 철 결핍성 빈혈, 만성질환 빈혈, 지중해 빈혈 등 소적혈구 빈혈에서 감소하고, 알코올 중독, 간질환, 비타민 B12나 엽산 결핍에 의한 거대 적혈 모구 빈혈 등 대적혈구 빈혈에서는 증가합니다. 용혈(적혈구가 파괴되어 내용물이 주변 액체안으로 용해되는 것)이나 출혈에 의한 정상 적혈구 빈혈에서는 정상범위를 보입니다.
+② 평균 적혈구 혈색소(Mean corpuscular hemoglobin, MCH)
+적혈구 한 개당 혈색소 양을 나타내며 혈색소 합성의 장애가 있는 빈혈에서 감소합니다.
+③ 평균 적혈구 혈색소 농도(Mean corpuscular hemoglobin concentration, MCHC)
+일정한 용적의 적혈구에 포함되는 혈색소 양을 나타냅니다. 혈색소 합성의 감소가 적혈구 크기의 감소보다 더 심한 빈혈의 경우 감소합니다.
+5) 망상 적혈구 수
+망상 적혈구는 골수에서 적혈구로 성숙, 분화되는 과정 중에서 생성되는 가장 젊은(미성숙) 적혈구입니다. 따라서 망상 적혈구를 측정하는 것은 골수가 적혈구를 생성하는 능력을 반영합니다. 망상 적혈구는 성숙 적혈구보다 크고, 세포질 내에 일부 잔여 유전 물질(RNA)을 가지고 있습니다. 출혈 및 용혈 등으로 많은 양의 적혈구 소실과 파괴가 있을 때에는 골수가 이를 보상하기 위하여 적혈구를 많이 만들어내므로 망상 적혈구 수가 증가합니다. 골수부전, 혈액종양, 결핍성 빈혈, 만성질환, 적혈구 생성 인자(erythropoietin, EPO)의 감소, 심한 감염, 항암치료 등 골수에서 적혈구를 충분히 생산하지 못하는 경우 망상 적혈구 수가 감소합니다.
+
+2. 백혈구
+1) 백혈구 수
+① 백혈구 증가증
+백혈구 수가 정상보다 높은 경우를 말하며, 세균감염, 염증, 악성종양(특히 백혈병), 외상, 심한 운동, 스트레스, 임신, 출산시 등에서 나타납니다. 신생아는 성인보다는 높은 백혈구 수치를 보이고, 노인에서는 감염이 있어도 백혈구 증가증이 없는 경우도 있습니다.
+② 백혈구 감소증
+백혈구 수가 정상보다 낮은 경우를 말하며, 혈액질환, 영양결핍, 중증감염, 항암치료, 면역체계에 영향을 끼치는 질환 등 다양한 원인에서 관찰될 수 있습니다. 또한 많은 종류의 약물이 백혈구 수에 영향을 미칩니다.
+2) 백혈구 감별 계산
+백혈구는 호중구, 림프구, 단구, 호산구, 호염기구, 5 종류로 나뉘는데 이들 각각을 측정하는 것을 백혈구 감별 계산이라 합니다. 백분율(%)로 표시하며 총 백혈구 수로부터 각각의 절대수치를 계산할 수 있습니다.
+① 호중구
+감염, 염증, 스테로이드 등의 약물, 종양, 조직손상 등에서 증가합니다. 호중구 수가 1,500/uL 미만인 경우를 호중구 감소증으로 정의하며, 골수질환, 악성종양, 약물, 항암치료, 방사선, 심한 감염, 화학 물질에 노출된 경우 등에서 나타날 수 있습니다.
+② 림프구
+바이러스 감염, 간염, 결핵, 림프구 백혈병, 림프종 등에서 증가하며 전신홍반루푸스 등의 자가면역질환, 사람 면역결핍바이러스(human immunodeficiency virus, HIV) 감염, 영양결핍, 외상, 면역억제제 투여시 감소합니다.
+ ③ 단구
+감염 후 회복기, 아급성 세균 심내막염, 혈액질환 및 일부 악성종양에서 증가합니다.
+④ 호산구
+알레르기, 피부질환, 기생충 감염 등에서 증가합니다.
+⑤ 호염기구
+만성 골수백혈병 등의 골수증식질환에서 증가합니다.
+⑥ 비정상 백혈구
+정상 백혈구에 비해 비정상 백혈구에 대해서는 자동혈구분석기의 분석능력에 한계가 있습니다. 따라서 총혈구검사에서 미성숙 백혈구나 비정형 림프구 출현이 의심되는 경우 수기법으로 확인하는 과정이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01d171]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01d3b1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 혈소판
+1) 혈소판 수
+골수증식질환(본태성 혈소판 혈증, 만성 골수백혈병, 일차성 골수 섬유증), 급성 출혈, 철결핍빈혈, 운동 후, 아드레날린 주사 후, 스트레스, 비장 적출 후 등에서 혈소판 수의 증가를 관찰할 수 있습니다. 혈소판 수 감소는 골수에서 잘 만들어지지 않는 경우(재생불량빈혈, 방사선 조사, 백혈병, 암의 골수 침범 등), 특발 혈소판감소 자반병, 혈전 혈소판감소 자반병, 파종성 혈관 내 응고 증후군, 신생아 혈소판 감소증, 용혈요독증후군, 혈전형성, 만성출혈, 비종대 등에서 나타납니다.
+2) 혈소판 수가 실제보다 더 높거나 낮게 측정되는 경우
+검체의 부적절한 항응고상태, 적혈구나 백혈구의 병적인 상태(예를 들어, 조각난 적혈구 혹은 백혈구) 등 다양한 원인에 의해 실제와 다르게 측정될 수 있습니다. 특히, EDTA 유발성 위혈소판 감소증(EDTA-induced pseudothrombocytopenia)의 경우, 병은 아니면서도 EDTA로 항응고처리가 된 혈액에서 혈소판 응괴(덩어리)가 일어나 실제보다 혈소판 수가 낮게 측정되므로, 의심이 될 때에는 말초혈액 도말 검사로 혈소판 응괴를 확인하고 수기법으로 측정하거나 다른 항응고제(citrate)가 들어간 채혈관에 다시 채혈한 후 자동혈구분석기로 측정해야 합니다.
+
+4. 총혈구 계산 참고범위
+적혈구 수: 성인 남성 4.2~5.4 x 1012/L, 성인 여성 3.8~5.2 x1012/L 
+혈색소(Hb) 농도: 성인 남성 14.0~17.5 g/dL, 성인 여성 12.3~15.3 g/dL 
+적혈구 용적률(Hct): 성인 남성 41~51%, 성인 여성 36~45% 
+평균 적혈구 용적(MCV): 80~96 fL 
+평균 적혈구 혈색소(MCH): 27~33 pg 
+평균 적혈구 혈색소 농도(MCHC): 33~36 g/dL 
+망상 적혈구 수: 0.5~1.5% 
+백혈구 수: 4,000~10,000 /uL 
+- 호중구: 40~72% 
+- 림프구: 20~45%
+- 단구: 4~12% 
+- 호산구: 0~7% 
+- 호염기구: 0~2% 
+혈소판 수: 150,000~450,000/uL
+
+5. 말초혈액 도말 표본을 이용한 수기 검사
+1) 검사의 의의
+총혈구검사에서 이상소견을 보이는 경우 말초혈액 도말 표본에서 혈구의 형태를 확인합니다.  말초혈액 도말 표본을 염색하여 현미경으로 관찰함으로써 각 혈구의 크기, 모양, 분포를 파악하고 이상세포를 감별하여 혈액질환 진단 및 경과관찰에 도움을 줄 수 있습니다. 적혈구, 백혈구, 혈소판의 수적 이상을 추정할 수 있을 뿐 아니라 혈구의 형태학적 검사로 이상 적혈구 및 백혈구, 거대 혈소판 등을 확인할 수 있습니다.
+2) 적혈구
+① 적혈구 분포
+적혈구 지수는 수백만 개 적혈구의 평균을 나타내므로 두 종류의 적혈구 군이 섞인 질환은 정상 범위로 나올 수도 있습니다. 이런 경우 말초혈액 도말 표본으로 적혈구 크기, 염색성, 분포 등을 확인하는 것이 필요합니다.
+② 적혈구 형태이상
+가운데가 오목한 원반형의 정상 적혈구는 현미경 관찰시 가운데 부분이 창백하게 보입니다. 대표적으로 용혈과 관련된 두 종류의 적혈구 형태이상은 구상 적혈구와 조각 적혈구(조각난 적혈구)입니다. 구상 적혈구는 정상 적혈구에서 보이는 가운데 오목한(창백한) 부분이 없고 현미경에서 작고 진하게 보입니다. 용혈빈혈에서도 나타나고 유전적으로 증가하는 경우도 종종 있습니다. 조각 적혈구는 작은 크기의 혈관에 이상이 나타나거나 심장 판막에 이상이 있는 경우, 심한 패혈증, 미세혈관병성 용혈빈혈 등에서 적혈구가 찢어지는 경우입니다. 이외에도 다양한 형태의 적혈구 형태 이상들이 있으며 각각 임상적인 의의도 다릅니다.
+③ 기타
+적혈구가 응집을 형성하는지, 유핵 적혈구가 출현하는지, 말라리아 같은 기생충이 있는지도 확인합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01d097]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 백혈구
+① 백혈구 분포 및 수적 이상
+말초혈액 도말 표본 관찰을 통해서 백혈구 수를 추정할 수 있으며 호중구 감소증이 매우 심한 경우 수기법으로 확인하는 단계를 거칩니다.
+② 백혈구 형태이상
+⦁ 과분엽 호중구: 정상 호중구는 2~5개의 분엽된(나눠진) 핵을 가지는데, 과분엽 호중구는 핵의 분절이 5~7개 이상으로 증가된 경우로 엽산 부족, 비타민 B12 부족, 거대적혈모구성 빈혈 등에서 볼 수 있습니다. 
+⦁ 호중구의 독성과립(Toxic granule): 독성과립은 정상 호중구 과립보다 호염기성 과립이 증가된 것을 말합니다. 심한 감염증(폐렴, 패혈증), 약물중독, 심한 화상, 악성종양 등에서 나타납니다. 
+⦁ 비정형 림프구(atypical lymphocyte): 전염성 단핵구증 등 바이러스 감염시 자주 나타나는 변형된 림프구를 말합니다. 간혹 악성 세포(백혈병, 림프종)들과 모양을 구분하기 어려운 경우가 있는데 이럴 경우에는 추가적인 검사를 통해서 이들 세포의 악성 여부를 확인하는 것이 필요합니다.
+③ 미성숙 백혈구
+감염이나 기타 원인에 의한 단순 반응으로 소수의 대상호중구, 골수구 등이 나타날 수 있으며 악성으로는 백혈병이 가장 중요합니다. 백혈병에서는 아세포(blast)라 불리는 매우 성숙도가 낮은 세포들이 나타나며, 정상인의 말초 혈액에서 아세포들은 관찰되지 않습니다. 말초 혈액에서 아세포들이 발견되면 급성 및 만성 백혈병이나 골수 이형성 증후군 등의 백혈병 전 단계 질환들, 골수에 전이된 기타 암, 만성 골수 증식성 질환 등을 의심하여 골수 검사와 기타 확진 검사를 시행하게 됩니다. 어떤 이유로 혈구 검사를 시행했더라도 아세포가 발견되면 즉시 전문의의 진료를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01d244]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4) 혈소판
+EDTA 유발성 위혈소판 감소증과 같이 혈소판 수가 환자의 임상상태와 맞지 않을 경우에는 수기법이 정확한 검사결과에 도움이 됩니다. 조각난 적혈구 혹은 백혈구, 거대 혈소판, 혈소판 응괴 등 자동혈구분석기에서 분석한 혈소판 수에 영향을 미치는 원인을 찾을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[총혈구검사의 특별한 주의사항이나 부작용은 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한진단검사의학회. (2014). 진단검사의학 제5판. 범문에듀케이션.
+2. 대한진단검사의학회. http://www.kslm.org/
+3. Lab Tests Online. https://www.labtestsonline.co.kr/
+4. McPherson RA and Pincus MR, eds. (2017). Henry's clinical diagnosis and management by laboratory methods. 23rd ed. St. Louis, MO: Elsevier.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

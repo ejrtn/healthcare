@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[황사와 미세먼지]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5482]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[6]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3673]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 황사는 미세한 모래 먼지로 대기 중으로 날아와 아래로 내려오는 흙먼지이며, 미세먼지는 지름 10 μm 이하의 유해 물질로 구성된 아주 작은 물질입니다.
+• 두 가지 모두 호흡기 질환과 폐렴 등의 감염 질환을 유발하며, 미세먼지는 천식과 같은 만성 질환을 악화시키고, 우울감, 고혈압 등의 발생 위험을 증가시킵니다.
+• 황사와 미세먼지 농도가 높을 때는 외출을 자제하고, 부득이 외출할 경우 긴 소매 옷과 마스크를 착용하며, 귀가 후 샤워와 양치질을 하는 것이 좋습니다.
+• 해로운 영향을 예방하기 위해 충분히 물을 마시고, 금연, 건강 체중 유지, 규칙적인 운동 등 건강한 생활습관을 유지하는 것이 중요합니다.
+• 실내에서도 흡연과 조리과정에서 미세먼지가 발생하므로, 미세먼지 농도가 낮을 때 실내 환기를 하는 것이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[225]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[황사란 무엇인가? 
+황사는 주로 중국 북부나 몽골의 건조, 황토 지대에서 바람에 날려 올라간 미세한 모래 먼지가 대기 중에 퍼져서 하늘을 덮었다가 서서히 내려오는 현상 또는 높은 곳에서 아래로 내려오는 흙먼지를 말합니다. 보통 저기압의 활동이 왕성한 3~5월에 많이 발생하나 최근에는 가을과 겨울에도 나타나며, 상공의 강한 서풍을 타고 우리나라를 거쳐 일본, 태평양, 북아메리카까지 날아갑니다. 황사 현상이 나타나면 태양 빛이 가려져 시야가 황갈색으로 보이고, 흙먼지가 내려 쌓이는 경우가 있습니다. 황사의 주성분인 황토 혹은 모래의 크기는 0.2~20 μm(마이크로미터)로 우리나라까지 날아오는 것은 1~10 μm 정도의 크기입니다. 황사는 삼국유사의 기록에 보면 신라 시대에도 '흙비가 내렸다'라고 하는 기록이 있을 정도로 오랫동안 존재해온 현상인데, 요즘 더 논란이 되는 이유는 황사가 올 때 급속하게 산업화하고 있는 지역을 거치면서 황사 속에 포함된 규소, 납, 카드뮴, 니켈, 크롬 등의 중금속 농도가 증가했기 때문입니다. 국내 연간 황사 발생 일수는 1980년대에는 2.9일이었으나 2000년대에는 9.8일로 증가했습니다. 지역별로 차이가 있는데, 주로 서쪽 지역이 동쪽 지역보다 황사 일수가 많습니다. 
+
+미세먼지란 무엇인가? 
+미세먼지는 우리 눈에 보이지 않는 아주 작은 물질로 대기 중에 오랫동안 떠다니거나 흩날려 내려오는 지름 10 μm 이하의 입자 물질입니다. 지름이 10 μm보다 작은 입자를 미세먼지(PM10)라고 하며, 그 중에서도 지름이 2.5 μm 이하의 입자를 초미세먼지(PM2.5)라고 합니다. 국내 PM10 농도는 지속적으로 감소하고 있으나, 위해성이 높은 PM2.5 농도에 대한 주의보･경보 발령 횟수는 증가 추세에 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[225]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d029c14]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[발생원/원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[226]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[황사의 발생원은 흙먼지와 같은 자연 토양 성분으로 구성되어 있습니다. 국내 황사 발원지인 중국, 몽골의 사막화 면적은 지난 10여 년 동안 거의 변화가 없었지만, 강수량이 감소하고 증발량이 증가하는 기후의 변화, 과도한 방목과 개간으로 초목이 감소하고 수자원이 말라서 없어지는 영향으로 인해 황사가 악화될 우려가 있습니다. 
+미세먼지는 자연적인 원인과 인위적인 발생원으로 구분되며, 대부분을 인위적인 발생원이 차지합니다. 대부분 연료 연소, 보일러나 자동차, 발전시설 등의 배출 물질이 주요 발생원입니다. 그 외 공사장, 도로 등에서 흩날리는 먼지도 영향을 줍니다. 초미세먼지는 자동차, 화력발전소 등에서 배출된 1차 오염물질이 햇빛과 함께 대기 중에서 반응해 2차 오염물질이 생성되며, 주로 황산염, 질산염, 유기 탄소 등으로 구성되어 있습니다.
+
+황사와 미세먼지의 차이점 
+황사는 바람에 의해 하늘 높이 올라간 미세한 모래 먼지가 대기 중에 퍼져서 하늘을 덮었다가 서서히 떨어지는 흙모래로, 주로 칼슘, 철분, 알루미늄, 마그네슘 등 토양 성분을 포함하는 반면, 미세먼지는 주로 연소 작용으로 발생하므로 황산염, 질산염, 암모니아 등의 이온 성분과 금속 화합물, 탄소화합물과 같은 유해물질로 이루어져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[중요성]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[230]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[황사와 대부분의 먼지는 코털이나 기관지 점막에서 걸러져 배출되지만, 미세먼지는 크기가 매우 작아 코, 구강, 기관지에 걸러지지 않고 우리 몸속에 스며들고, 기관지에서 다른 인체 기관으로 이동할 가능성도 커집니다.
+미세먼지의 영향으로 2016년에는 약 253만 명, 2017년에는 255만 명의 환자가 추가로 발생했으며, 약 600억 원의 의료비가 사용되었습니다.  황사와 미세먼지는 질병의 발생 및 악화와 같은 직접적 영향 외에도, 생태계 피해, 산림 손상 등 간접적으로도 우리의 건강에 큰 영향을 줍니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강문제]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[231]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[호흡기 질환 
+황사와 미세먼지에 노출되면 호흡기의 자극 증상(기침, 재채기, 콧물, 가래)이 증가하고 폐렴과 같은 감염 질환이 증가합니다. 또한 오랫동안 노출되면 폐기능이 감소하고 천식과 만성 폐쇄 폐질환의 발생과 악화에도 영향을 줍니다. 천식 환자에게서 미세먼지 농도가 10 ㎍/m3 증가할 때마다 병원 입원률이 18%씩 증가했습니다. 또한 황사가 자주 나타나는 지역에서의 비염 발생률이 증가했습니다. 이러한 영향은 영∙유아기, 동반 질환이 있는 노인에서 더 크게 나타났습니다. 
+
+호흡기외 질환 
+2013년 세계보건기구 산하의 국제암연구소에서 미세먼지를 1군 발암물질로 지정했습니다. 한 연구에서 천식 환자에게서 미세먼지 농도가 10 μg/m3 증가할 때마다 모든 질병 발생률(4%), 심폐질환 발생률(6%), 폐암의 사망률(8%)이 증가했습니다. 이는 미세먼지가 염증을 일으켜 혈관에 손상을 주기 때문입니다. PM10 농도가 증가할수록 국내 성인에서 스트레스(16%), 우울감(38%)이 증가했고, 고혈압(15%), 당뇨(23%), 고지혈증(28%), 비만(8%)의 위험이 증가했습니다. 70세 이상의 노인에서의 인지 기능 저하는 PM2.5 증가와 상관성이 있다고 알려져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 대처]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[232]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 외출 시 주의사항 
+흡입되는 황사나 미세먼지의 양은 활동의 강도와 시간에 비례하기 때문에 황사가 심하거나 미세먼지 농도가 높을 때는 외출을 자제하는 것이 좋습니다. 특히, 호흡기 질환자, 심혈관계 질환자, 어린아이, 노인, 임산부는 주의가 필요합니다. 부득이 외출해야 하면 신체 노출 부위를 최소화할 수 있도록 긴 소매 옷을 입고 마스크(의약품 안전나라(https://ezdrug.mfds.go.kr/)에서 인정한 미세먼지용 마스크)를 착용하는 것이 바람직합니다. 외출 후 귀가하면 샤워와 세수, 양치질로 몸에 남아 있는 황사와 미세먼지 성분을 제거해 주어야 합니다. 황사가 심한 날에는 콘택트렌즈보다는 안경을 쓰는 것이 좋지만, 부득이하게 콘택트렌즈를 착용할 때는 세정 관리를 철저히 하고 될 수 있으면 장시간 착용을 피해야 합니다.  
+
+2.  건강 생활 실천 
+수분이 부족할 경우 호흡기 점막이 건조해져 미세먼지 혹은 황사 성분의 침투가 더욱더 쉽게 되므로 물을 충분히 마시는 것이 좋습니다. 황사와 미세먼지의 건강 위해 정도는 흡연, 비만 정도, 운동량에 따라서 차이가 납니다. 따라서 금연, 건강 체중 유지, 규칙적 운동과 같은 건강 생활 실천이 황사와 미세먼지의 해로운 영향을 예방하는 데 도움이 됩니다.  
+
+3. 슬기로운 실내 생활 
+실내에도 미세먼지를 일으키는 요인이 있는데, 대표적으로 실내 흡연과 조리과정에서 발생하는 경우입니다. 공기청정기 사용으로 실내 미세먼지 및 오염물질 개선 효과가 일부 확인되기는 했지만, 아직 더 많은 연구를 통한 확인이 필요합니다. 따라서 황사와 미세먼지 예보를 관심 있게 살펴본 후 외부 농도가 높지 않을 때 실내를 환기해 주는 것이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[326]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 환경부. (2016). 미세먼지 바로알기.
+2. 환경부. (2020.9.). 미세먼지, 뭔지 3탄.
+3. 한국환경정책평가연구원. 이해춘, 안경애, 김태영. (2018). 미세먼지로 인한 호흡기 질환 발생의 사회경제적 손실가치 분석 : Panel VAR 모형을 중심으로 한국경영컨설팅학회. 2018;18;4:177-186.
+4. 질병관리청. (2020). 민감군별 미세먼지 건강수칙.
+5. Kim SR, et al. (2020). Combined Effects of Physical Activity and Air Pollution on Cardiovascular Disease: A Population-Based Study. J Am Heart Assoc.9(11):e013611.  doi: 10.1161/JAHA.119.013611.
+6. Shin J, et al. (2018). Long-term exposure to ambient air pollutants and mental health status: A nationwide population-based cross-sectional study. PLoS One. 2018;13(4):e0195607. 
+7. Bae S, Hong Y-C. (2018). Health effects of particulate matter. J Korean Med Assoc. 2018;61(12):749-55. 
+8. Shin J, et al. (2019). Association between long-term exposure of ambient air pollutants and cardiometabolic diseases: A 2012 Korean Community Health Survey. Nutrition, metabolism, and cardiovascular diseases. 2019;29(2):144-51. 
+9. Shin J et al. (2019). Exposure to Ambient Air Pollution and Cognitive Impairment in Community-Dwelling Older Adults: The Korean Frailty and Aging Cohort Study. Int J Environ Res Public Health.7;16(19):3767.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

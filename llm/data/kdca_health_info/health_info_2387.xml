@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[갑상선 검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[2387]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[목 앞에 위치해 있는 갑상선은 갑상선호르몬 분비하여 우리 몸의 신진대사 를 비롯한 단백질 합성, 성장 등 다양한 역할을 하는 내분비기관입니다. 갑상선 질환은 크게 갑상선에서 분비되는 갑상선호르몬의 이상으로 발생하는 질환에서부터 종양에 이르기까지 다양하기 때문에, 여러 가지 검사방법을 통해 진단하게 됩니다. 이러한 진단방법에는 의사-환자 사이 대화와 진찰을 통한 신체 진찰, 갑상선호르몬 수치와 관련 혈액지표를 보는 혈액검사, 갑상선 기능이나 모양 이상을 보기 위한 갑상선 스캔이나 초음파, 컴퓨터단층촬영(CT) 와  자기 공명 영상(MRI)등을 이용하는 영상학적 검사, 그리고 가는 침으로 실제 갑상선에서 세포를 뽑아 검사를 시행하는 조직검사 등 다양하게 존재합니다. 한 가지 검사 만으로 정확한 갑상선 질환 진단이 어렵고, 병의 경과에 따라 그때그때 상황과 치료에 대한 반응을 평가하고 향후 치료방향을 결정하기 위해 다양한 검사를 동시에 이용하게 됩니다. 
+
+
+현대의학의 발전과 함께 다양한 검사 수단들이 개발되었지만 여전히 진단의 기본이자 가장 중요한 것은 의사가 시행하는 병력 청취와 신체 진찰입니다. 
+체중이나 식욕 변화, 외부 온도에 대한 감각 변화나 땀, 두근거림이나 불안, 설사나 변비, 여성의 경우 월경 변화와 같은 다양한 증상 파악이 이뤄지며 과거 갑상선질환 여부와 치료 여부, 과거 약물 복용이나 방사선치료와 여부, 가족 내 환자 여부와 같은 구체적인 병력을 파악하는 것이 중요합니다. 
+신체 진찰 시 전반적인 모습을 보고 목을 만져봐서 갑상선의 형태를 파악하고, 청진과 맥박 측정이 일반적으로 이뤄집니다. 그러나 이는 전적으로 환자의 상태에 따라서 다르고, 몸 구석구석을 만져보고 들어보게 되는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(갑상선 세포검사 및 조직검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2393]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(방사성 요오드 섭취율)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2389]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(양전자방출단층촬영(PET))]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2392]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(전산화단층촬영(CT)과 자기공명영상(MRI))]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2391]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(초음파)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2390]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(혈액검사 및 요검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2388]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

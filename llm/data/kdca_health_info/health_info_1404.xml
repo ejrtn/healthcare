@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[안외상(각막이물)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1404]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 각막이물은 철조각이나 유리 조각 등이 눈에 들어가 각막 표면에 붙거나 박힌 상태를 말합니다.
+• 주요 증상은 이물감, 눈물흘림, 충혈이며 이물의 종류에 따라 심한 통증이 나타날 수 있습니다.
+• 진단은 외상 여부를 확인하고 세극등 현미경 검사 등을 통해 이물과 각막 손상을 확인합니다.
+• 치료는 국소 마취 후 이물을 제거하고 항생제 점안으로 감염을 예방하며 상처 회복을 돕습니다.
+• 치료가 늦어지면 각막궤양이나 각막혼탁 등의 합병증이 발생할 수 있어 빠른 안과 진료가 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[눈에 철조각이나 유리 조각 등의 이물이 튀어 각막 표면에 붙어있거나 박히는 경우가 있는데, 이를 각막이물이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9594801]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[각막이물에 의한 주요 증상은 이물감과 함께 눈물흘림, 충혈이지만, 이물 종류 및 독성에 따라 심한 통증을 느낄 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 문진 
+외상의 과거력 및 통증, 눈물 흘림, 충혈을 확인합니다.
+
+2. 안과적 검사 
+세극등 현미경 검사를 통하여 각막 이물과 갈색고리 등을 관찰하며, 동반된 각막부종이나 각막 염증이 있는지를 살핍니다. 각막에 세로 모양의 상처가 많이 나 있다면, 각막이 아닌 윗눈꺼풀 결막에 이물이 있을 가능성이 있으므로 그에 따른 검사가 필요합니다. 때로는 이물이 안구 내에도 동반될 가능성도 있어, 필요에 따라 CT, 초음파검사나 안저검사를 시행하여 확인하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 이물 제거 
+국소점안 마취제를 눈에 넣은 후 각막 이물을 제거합니다. 반드시 세극등 현미경 하에서 치료해야 하므로 안과를 방문하여 시행하기 바랍니다. 이물 제거 시에는 갈색고리도 함께 제거하여야 나중에 염증이 생기는 것을 막을 수 있습니다. 
+
+2. 동반된 각막 상처 치료 
+점안 항생제를 사용하여 이차 세균감염을 막고, 각막 상피 재생을 치료합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[각막이물의 합병증
+- 이차 세균감염 및 궤양
+- 각막혼탁 
+
+드물기는 하지만, 이물 제거가 늦거나 오염된 상태라면 각막 상처 주위로 이차 세균감염이 유발되어 궤양이 발생할 수 있으며 심할 경우 각막 혼탁이 생기기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[안외상(각막찰과상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1362]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(각막화상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1381]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(안와골절)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1382]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 망막박리)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1402]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 백내장 및 수정체 이탈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1403]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(전방출혈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1361]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(천공 외상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1401]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

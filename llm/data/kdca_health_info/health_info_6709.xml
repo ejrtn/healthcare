@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[지질 검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6709]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 이상지질혈증과 초기 단계의 죽상경화증은 대부분 무증상이므로 조기 검사가 중요합니다.
+• 이상지질혈증은 총콜레스테롤, LDL 콜레스테롤, HDL 콜레스테롤, 중성지방으로 구성되며, 이 중 가장 중요한 수치는 LDL 콜레스테롤입니다.
+• 검사 전날 저녁 식사 후 수분 섭취 외에는 금식(최소 9시간 이상)을 하는 것이 좋습니다.
+• 이상지질혈증 진단 후 추적 지질검사는 심혈관계 위험 단계에 맞게 정기적으로(최소 1년에 한 번 이상) 시행하는 것이 합병증 예방에 유리합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우리가 흔히 말하는 고지혈증(hyperlipidemia)은 필요 이상으로 많은 지질 성분(주로 나쁜 콜레스테롤)이 혈액 내에 존재하는 상태입니다. 여기에 정상적으로 적정량이 있어야 하는 지질 성분(좋은 콜레스테롤)이 부족한 경우를 포함하여, 혈액 내 지질 상태가 비정상적인 경우를 총칭해 이상지질혈증(dyslipidemia)이라고 합니다. 
+이상지질혈증을 치료하지 않으면 과다한 지방 성분이 혈관벽에 쌓이고(죽상동맥경화) 염증을 일으켜 혈관이 좁아지거나 막히는 관상동맥병 (협심증이나 심근경색증),  말초혈관 폐쇄병, 뇌졸중 등 주요 죽상경화성 심혈관질환(ASCVD, atherosclerotic cardiovascular disease)의 가장 중요한 원인이 됩니다. 
+
+&lt;이상지질혈증의 원인과 지질검사의 종류&gt; 
+이상지질혈증의 원인은 유전적 요인에 인해 혈액 내에 특정 지질이 증가하는 경우가 있고, 비만, 당뇨병, 음주, 기름진 음식이나 과다한 에너지 섭취 등과 같은 다른 원인에 의해서도 생길 수 있습니다. 
+흔히 측정하는 지질 검사의 종류에는 총 콜레스테롤(total cholesterol), 저밀도 지단백(LDL) 콜레스테롤(별명: 나쁜 콜레스테롤), 고밀도 지단백(HDL) 콜레스테롤(별명: 좋은 콜레스테롤), 중성지방(triglyceride,TG) 등이 있습니다. 본래 콜레스테롤은 세포막과 혈관벽을 구성하고 호르몬을 합성하는 원료이고, 비중이 낮은 LDL 콜레스테롤과 높은 HDL 콜레스테롤 등으로 분류되며, 혈청 총 콜레스테롤은 많은 부분이 LDL 콜레스테롤로 존재합니다. LDL 콜레스테롤은 반감기가 3~4일로, 관상동맥 질환의 위험을 높여서 나쁜(bad) 콜레스테롤로 불립니다. HDL 콜레스테롤은 말초 조직에 있는 콜레스테롤을 간으로 운반하여 제거하며 관상동맥 질환의 위험을 낮추어서 좋은(good) 콜레스테롤로 알려져 있습니다. HDL 콜레스테롤의 반감기는 5일 정도로 알려져 있습니다. 중성지방은 우리 몸의 지방산이 저장되는 형태이며, 분해되어 에너지원으로 이용되지만 과다하면 이 또한 동맥경화증의 원인이 됩니다. 중성지방과 HDL 콜레스테롤, LDL 콜레스테롤을 모두 반영하여 총 콜레스테롤을 계산할 수 있습니다.  
+
+&lt;이상지질혈증과 관련된 죽상경화성 심혈관질환의 위험인자&gt;
+이상지질혈증은 죽상경화성 심혈관질환(ASCVD)의 주요 위험 인자로, LDL 콜레스테롤 외에 아래와 같은 주요 위험 인자가 동반될 때 위험성이 더욱 높아집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19ae72e1b896]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[죽상경화성 심혈관질환(ASCVD)의 위험도를 예측하거나 진단받고 치료할 때, 치료 목표를 설정하기 위해 지질검사를 실시합니다. 이상지질혈증이 있는 사람은 동반된 ASCVD의 위험인자와 전체 위험도에 따라 저위험군, 중등도위험군, 당뇨병군, 고위험군, 초고위험군으로 분류됩니다. 각 위험군별로 측정된 LDL 콜레스테롤 수치를 확인하고, 각 군에서 정해진 LDL 콜레스테롤 목표치 이하로 낮추는 것이 치료 목표가 됩니다. 생활습관 개선이나 약물치료 중에도 합병증 예방과 치료 효과 평가를 위해 추적검사를 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19ae72ef20e2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[정맥 채혈을 통해 검사가 진행되며, 채혈 전에는 과도한 움직임으로 인한 혈액 농축을 피하기 위해 최소 5분 이상 앉아서 안정을 취할 것을 권장합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일반적인 지질 검사는 총 콜레스테롤, LDL 콜레스테롤, HDL 콜레스테롤, 중성지방 네 가지 항목으로 시행됩니다. 임상검사실에서는 LDL 콜레스테롤 수치를 구하기 위해 총 콜레스테롤, HDL 콜레스테롤, 중성지방 값으로 계산하는 Friedewald 공식을 널리 사용해왔습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19aed28d8395]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[˚ 단, 중성지방이 200~400 mg/dl 이상으로 높을 경우 계산이 부정확하여 사용하지 않습니다.
+ ˚ 이때에는 저밀도 지단백 이외의 지질단백을 선택적으로 억제하여 LDL 콜레스테롤을 정확하게 측정할 수 있는 직접법이 사용됩니다.
+
+
+필요에 따라 심혈관질환 위험도를 더 정밀하게 평가하기 위해 아포지단백과 Lp(a) 검사를 시행하기도 합니다.
+아포지단백은 지질과 결합하여 지단백 구조를 유지하는 데 필수적인 성분입니다. 또한 세포의 표면에 존재하는 수용체에 결합하여 지단백 대사에 관여하는 효소를 활성화하는 역할을 합니다. 아포지단백은 5가지(A, B, C, D, E)로 분류되며 일부는 더 세분화됩니다. 즉, 아포 A는 A-I, A-II, A-III로, 아포 B는 apo B-100과 apo B-48로 세분합니다. 이 중 아포 A-I은 고밀도 지단백의 주요 성분이고, 아포 B는 저밀도 지단백의 주요 성분입니다. 
+지단백에 존재하는 각각의 아포지단백은 그 지단백의 기능에 중요한 역할을 합니다. 아포 A-I 결핍은 청소하는 좋은 콜레스테롤의 결핍으로 조기 심혈관질환과 관계가 있고, 아포 B의 과다는 저밀도 지단백 대사와 관련하여 심혈관질환의 발생 위험 증가와 관련됩니다.Lp(a)는 LDL 콜레스테롤과 유사하지만 구조와 역할이 달라, 기존의 LDL 콜레스테롤이나 아포지단백으로 설명되지 않는 이상지질혈증과 죽상경화성 심혈관병의 위험도 예측에 부가적으로 사용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[지질 검사 항목 중 LDL 콜레스테롤과 중성지방(TG) 수치는 혈액 채취 전 12시간 이상 금식하는 것이 권장되며, 금식이 어려운 경우에는 최소 9시간 이상 금식해야 합니다. 
+LDL과 HDL 콜레스테롤은 금식에 비교적 영향을 적게 받지만, 중성지방은 금식 여부에 따라 수치가 크게 달라질 수 있어, 금식이 충분하지 않으면 검사 결과가 부정확할 수 있습니다. 최근에는 금식하지 않은 상태의 중성지방 수치도 임상적 의미를 가지는 경우가 있다는 보고도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[각 항목의 적정 수치와 진단 기준은 다음과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a958e7cf17]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 저밀도 지단백(LDL) 콜레스테롤 
+이상지질혈증이 진단되면, 개인의 혈관질환 위험도와 저밀도 지단백(LDL) 콜레스테롤의 농도에 따라 치료를 시작합니다. 치료 기준은 위의 심혈관 위험도 평가 그림을 참고하시기 바랍니다.
+
+2. 고밀도 지단백(HDL) 콜레스테롤 
+HDL 콜레스테롤은 다른 콜레스테롤과 달리, 수치가 낮을수록(1 mg/dL 감소 시) 관상동맥질환 발생 위험이 2~3% 증가합니다. HDL 콜레스테롤이 낮을 경우, 식이 관리, 운동, 체중 감소, 금연 등을 통해 수치를 높일 수 있습니다.  
+
+3. 중성지방
+중성지방은 체중 감량, 저지방식 섭취, 금주, 그리고 규칙적인 운동을 포함한 생활습관 개선으로 낮출 수 있습니다
+중성지방 농도가 500mg/dL 이상으로 높아지면 급성 췌장염 위험이 증가합니다. 이 경우, 중성지방 증가의 이차적 원인(체중 증가, 음주, 탄수화물 섭취, 만성콩팥병, 당뇨병, 갑상선기능저하증, 임신, 에스트로겐·타목시펜·스테로이드 제제 등의 투약력) 및 지질대사 이상을 일으킬 수 있는 유전적 요인을 확인해야 합니다. 이차적 원인이 없거나 교정 후에도 500mg/dL 이상이 지속될 경우, 췌장염 예방을 위해 중성지방을 낮추는 약제인 피브레이트(fibrate), 니코틴산(nicotinic acid), 오메가-3 지방산(omega-3 fatty acid) 등의 약물 치료가 필요합니다.
+또, HDL 콜레스테롤이 낮은 대사증후군 환자나 당뇨병환자의 경우에는 200mg/dL 이상인 경우에도 약제를 사용합니다.
+
+4. 아포지단백
+아포지단백의 남녀에 따른 정상수치는 아래와 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf27cc17]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 증가하는 경우
+˚ 아포 A-I 증가: 가족성 고알파지단백혈증, 운동, 임신, 체중 감소, 스타틴 사용 
+˚ 아포 B 증가: 당뇨, 갑상선기능저하증, 신증후군, 임신
+ 
+2) 감소하는 경우
+˚ 아포 A-I 감소: 만성 신부전, 흡연, 조절되지 않은 당뇨병, 불포화지방산이 많은 식사, 기타 약물
+˚ 아포 B 감소: 갑상선기능항진증, 영양실조, 레이 증후군, 체중 감소, 중증 질환, 수술, 간경화, 불포화지방산이 많은 식사, 콜레스테롤이 낮은 식단, 기타 약물]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 한국지질동맥경화학회. (2022).  이상지질혈증 치료지침 제5판 전체본.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[247]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이상지질혈증, 고지혈증, 고콜레스테롤혈증]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

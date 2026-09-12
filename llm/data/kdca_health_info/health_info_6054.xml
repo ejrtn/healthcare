@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[이상지질혈증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6054]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 이상지질혈증은 혈액 속의 콜레스테롤이나 중성지방 수치가 정상 범위를 벗어난 상태를 말합니다.
+• 주요 원인은 유전적 요인과 고지방·고탄수화물 식사, 운동 부족, 비만, 당뇨병 등 생활습관 및 내과 질환입니다.
+• 대부분 증상이 없어 정기적인 혈액검사를 통한 조기 발견이 중요하며, 심하면 심혈관질환, 뇌졸중, 급성 췌장염 등의 합병증 위험이 높습니다.
+• 치료는 식습관 개선, 운동, 금연 등 비약물 요법과 필요 시 스타틴 등 약물 요법을 병행합니다.
+• 한국 성인 약 절반이 이상지질혈증을 가지고 있으며, 조기 발견과 적극적 관리가 건강한 심혈관 상태 유지에 필수적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이상지질혈증은 혈액 검사에서 다음 중 하나 이상에 해당할 때 진단됩니다.
+
+• 총콜레스테롤이 200 mg/dL 이상일 때 
+• LDL 콜레스테롤이 130 mg/dL 이상일 때 
+• HDL 콜레스테롤이 남성 40 mg/dL 미만, 여성 50 mg/dL 미만일 때 
+• 중성지방이 150 mg/dL 이상일 때
+
+혈중 지질검사에서는 주로 총콜레스테롤, LDL 콜레스테롤, HDL 콜레스테롤, 중성지방을 측정합니다. 
+• 총콜레스테롤은 혈액 속 모든 콜레스테롤의 총량을 뜻합니다. 
+• LDL 콜레스테롤은 저밀도 지단백으로 구성되어 있으며, 동맥벽에 쌓여 죽상경화를 일으킬 수 있어 ‘나쁜 콜레스테롤’이라 불리며, 심혈관질환 위험과 가장 밀접한 관련이 있습니다. 
+• HDL 콜레스테롤은 ‘좋은 콜레스테롤’로, 혈관에서 과도한 콜레스테롤을 간으로 운반하여 심혈관질환을 예방하는 역할을 합니다. 
+• 중성지방은 음식물에서 유래하거나 간에서 만들어지는 지방이며, 높으면 비만, 당뇨병, 대사증후군과 관련되고, 심혈관질환과 급성 췌장염의 위험을 높일 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19f93097e965]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이상지질혈증은 유전적 요인과 후천적 요인으로 발생하는 대사 질환입니다.유전적 요인으로는 가족성 고콜레스테롤혈증이 대표적이며, 유전자 변이에 의해 발생해 조기에 관상동맥질환 위험을 높입니다.후천적 요인으로는 고지방·고탄수화물 식사, 과도한 음주, 운동 부족, 비만 같은 생활습관이 있으며,또한 제2형 당뇨병, 갑상선기능저하증, 신증후군, 간질환 등 내과적 질환도 원인이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이상지질혈증의 경과 
+이상지질혈증은 여러 대사 및 심혈관계 문제와 연결되어 염증, 산화 스트레스, 심혈관질환, 기타 대사 장애를 일으킬 수 있습니다. • 염증과 산화 스트레스: 지질단백이 혈관벽에 쌓이면 산화되고 염증 반응을 일으켜, 죽상동맥경화증 진행을 촉진하며 혈관 내피 기능을 손상시킵니다.
+• 심혈관질환: 이상지질혈증은 죽상동맥경화증을 통해 고혈압, 관상동맥질환, 말초혈관질환, 뇌졸중, 심부전 등의 위험을 높입니다.
+• 기타 대사 장애: 간, 췌장, 지방조직, 골격근 등 여러 기관의 지질·포도당 대사를 악화시키고 인슐린 저항성을 높이며, 염증을 증가시킵니다.
+• 비만, 당뇨병, 대사증후군과 연관되어 있으며, 이로 인해 합병증이 더 심화될 수 있습니다.
+
+
+이상지질혈증의 예후 
+이상지질혈증의 예후는 지질 이상 유형과 정도, 동반된 심혈관 위험인자의 개수, 생활습관 개선 여부, 약물 복용의 적절성, 그리고 합병증 발생 여부에 따라 달라집니다. 
+• 유전성 이상지질혈증(예: 가족성 고콜레스테롤혈증)은 조기에 심혈관질환 위험이 높아, 생활습관 관리와 함께 이른 시기부터 약물치료가 필요한 경우가 많습니다.
+• 후천적 이상지질혈증은 식습관, 비만, 운동 부족, 흡연, 음주 등 생활습관 요인과 관련이 많으며, 생활습관 교정으로 호전을 기대할 수 있습니다.하지만 목표 지질 수치에 도달하지 못하면 약물치료가 병행되어야 합니다.
+• 신질환, 간질환, 췌장염 등 기저 질환과 연관된 경우에는 해당 질환의 치료도 함께 이루어져야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유병율 및 관리 현황]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=197edd627be2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2024년 기준으로 한국 성인의 약 47.4%가 이상지질혈증을 가지고 있습니다. 이 중 고콜레스테롤혈증(총콜레스테롤 ≥240mg/dL 또는 지질저하제 복용)의 유병률은 27.4%로, 해마다 꾸준히 증가하는 추세입니다. 여성의 유병률(31.0%)은 남성(23.8%)보다 높게 나타납니다. 고콜레스테롤혈증 환자의 인지율은 68.0%, 치료율은 61.2%, 조절률은 54.1%로 보고되었으며, 약물 치료를 받는 환자의 경우 조절률이 87.4%로 비교적 우수합니다. 특히, LDL 콜레스테롤 ≥160mg/dL에 해당하는 고LDL콜레스테롤혈증은 2007년 8.8%에서 2022년 23.4%로 꾸준히 증가하고 있습니다. 고위험군의 특성]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=197edd6a5515]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198e4dd75db6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198a23d88e06]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이상지질혈증은 심혈관질환의 주요 위험요인으로, 당뇨병 환자의 87.0%, 고혈압 환자의 72.4%, 복부비만자의 55.2%에서 함께 나타납니다. 특히 지질 이상을 동반한 당뇨병 및 고혈압 환자들 중 상당수는 LDL 콜레스테롤 수치가 치료 목표치를 초과하고 있어, 보다 적극적인 관리와 치료가 필요합니다.건강행태 
+이상지질혈증 환자들의 식습관과 생활습관은 전반적으로 권장 수준에 미치지 못합니다. 하루 채소 섭취 비율은 남성 31.1%, 여성 27.2%에 불과하며, 탄수화물 섭취 권장 기준 충족률도 남성 33.6%, 여성 31.0%로 낮습니다. 전체 에너지 섭취와 신체 활동 기준 충족률 역시 절반 수준에 머물고 있습니다. 또한 흡연율은 남성 38.1%, 여성 5.5%, 음주율은 남성 70.4%, 여성 41.8%로 나타났습니다.이상지질혈증 환자의 심혈관질환 발생 현황
+이상지질혈증으로 진단되어 지질저하제를 복용 중인 환자 1,000명당 심혈관질환 발생률은 2019년 기준  20.9명으로, 2010년 36.9명에 비해 크게 감소했습니다. 세부적으로 살펴보면, 허혈성 심질환은 35.6명 → 18.1명, 허혈성 뇌졸중은 25.3명 → 13.0명으로 남녀 모두에서 발생률이 줄었습니다. 이러한 변화는 약물 치료율 증가와 이상지질혈증 관리의 향상 덕분으로 해석됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이상지질혈증은 대부분 뚜렷한 증상이 없이 서서히 진행되기 때문에 정기적인 지질검사, 특히 고위험군에서의 조기 선별이 중요합니다. 하지만 심한 이상지질혈증이 있거나 치료를 받지 않는 경우에는 다음과 같은 소견이 나타날 수 있습니다.  황색종: 눈꺼풀, 손바닥, 힘줄 등에 생기는 노란색 지방 침착물노년홍채윤부: 각막 주변에 생기는 회백색 고리 모양의 콜레스테롤 침착. 고령자에게 흔하지만, 젊은 이상지질혈증 환자에서도 보일 수 있음 망막지질혈증: 고중성지방혈증으로 인해 망막 혈관이 희뿌옇게 보이는 드문 소견하지허혈: 말초동맥질환의 대표적 증상으로, 걷거나 운동할 때 다리에 통증이 발생협심증: 운동이나 스트레스 등 심장의 산소 요구량이 증가할 때 발생하는 흉통 일과성 허혈발작(TIA) 및 뇌졸중: 뇌혈관이 막히거나 파열되면서 갑작스런 편마비, 언어장애, 시야 장애 등이 발생]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[진단
+이상지질혈증은 특별한 증상이 없는 경우가 대부분이므로, 선별검사를 통해 진단합니다. 공복 상태에서 시행하는 혈액검사로 총콜레스테롤, 중성지방, HDL 콜레스테롤, LDL 콜레스테롤을 측정하며, 검사 전에는 최소 9시간(권장 12시간) 이상 금식이 필요합니다. 만약 공복이 아니라면 총콜레스테롤과 HDL 콜레스테롤만 참고할 수 있습니다.진단은 인구집단의 지질 분포와 심혈관질환 위험도를 함께 고려해 내려집니다. 특히 환자의 심혈관 위험군에 따라 LDL 콜레스테롤 기준치가 달라지며, 해당 수치 이상이면 이상지질혈증으로 진단하고 치료를 시작합니다. 
+위험군별 LDL 콜레스테롤 치료 시작 기준은 다음과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=197edd9c25c5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[또한, 비고밀도지단백(non-HDL) 콜레스테롤도 보조적인 판단 지표로 사용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[(1) LDL 콜레스테롤의 약물 치료 이상지질혈증 치료는 먼저 환자의 심혈관질환 위험도 평가에서 시작합니다. 환자가 속한 위험군에 따라 LDL 콜레스테롤의 목표치가 달라지며, 치료의 강도도 이에 맞춰 결정됩니다.각 위험군별 LDL-C 목표 수치는 다음과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19aecb1c1ed3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치료는 보통 스타틴(Statin) 복용으로 시작하며, 이후 일정 기간이 지나면 목표 LDL-C 수치에 도달했는지를 확인합니다. 목표에 도달했다면 현재 치료를 유지하고, 도달하지 못했다면 스타틴의 용량을 최대치까지 늘립니다. 그럼에도 불구하고 목표에 이르지 못하면 에제티미브(Ezetimibe)를 추가할 수 있으며, 특히 초고위험군이나 고위험군에서는 PCSK9 억제제를 병용하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19aecb31bdf6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[(2) 중성 지방의 약물 치료 중성지방 수치가 높을수록 심혈관질환 위험이 커지며, 특히 중성지방이 500 mg/dL 이상인 경우에는 급성 췌장염 발생 가능성이 높아 치료가 필요합니다. 이때는 식이조절, 금주, 체중 감량 등 생활습관 개선을 먼저 시행하고, 동시에 피브레이트 계열 약제 또는 고용량 오메가-3 지방산 기반의 약물 치료를 시작합니다.중성지방이 200~499 mg/dL인 중등도 상승 환자는, 심혈관질환 고위험군이거나 LDL 콜레스테롤 치료 목표를 달성했음에도 중성지방이 높다면 추가 치료를 고려할 수 있습니다. 이때는 이미 복용 중인 스타틴에 피브레이트 또는 고용량 오메가-3 지방산을 병용할 수 있습니다.단, 스타틴과 피브레이트 병용 시 근육통, 근병증 등의 부작용 가능성이 있으므로, 고령자나 신장 기능이 저하된 환자에게는 신중하게 사용해야 합니다. 따라서 약물 치료는 환자의 중성지방 수치, 동반 질환, 전반적인 심혈관 위험도를 종합적으로 고려하여 결정됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이상지질혈증 치료에서 비약물 요법은 모든 환자에게 적용되는 기본 전략으로, 모든 지질 성분(LDL 콜레스테롤, 중성지방, HDL 콜레스테롤)에 긍정적인 영향을 주는 생활습관 개선을 중심으로 합니다.
+특히 포화지방 섭취 제한과 체중 감량은 LDL 콜레스테롤과 중성지방을 모두 낮추는 데 효과적이며, 금연과 규칙적인 유산소 운동은 HDL 콜레스테롤을 증가시키는 데 도움이 됩니다.중성지방이 높은 경우에는 당분과 음주 제한이 중요하고, HDL이 낮은 경우에는 금연과 규칙적인 운동이 가장 효과적인 비약물 전략입니다.
+
+• 식사 요법의 핵심은 포화지방과 트랜스지방 섭취를 줄이고, 식이섬유와 불포화지방산 섭취를 늘리는 것입니다.총지방 섭취는 하루 에너지 섭취량의 15~30% 이내로 유지하고, 포화지방은 7% 미만으로 제한하며, 트랜스지방은 가능한 한 섭취하지 않는 것이 바람직합니다.또한 채소, 콩류, 통곡물, 해조류 등 식이섬유가 풍부한 식단을 권장하며, 음주는 중성지방 상승과 관련이 있어 제한하는 것이 좋습니다. 
+• 운동 요법으로는 중등도 강도의 유산소 운동을 주 5회, 하루 30분 이상 실시하는 것이 권장됩니다. 빠르게 걷기, 자전거 타기, 수영 등은 중성지방을 낮추고 HDL 콜레스테롤을 높이는 데 도움이 됩니다. 여기에 주 2회 이상의 근력 운동을 병행하면 심혈관 건강과 대사 기능 개선에도 효과적입니다.
+• 체중 조절도 매우 중요합니다. 체중이 증가하면 LDL과 중성지방은 높아지고 HDL은 낮아지므로, 체질량지수(BMI)를 23 미만으로 유지하고, 복부비만(남성 90 cm 이상, 여성 85 cm 이상)을 피하는 것이 바람직합니다. 
+• 금연은 LDL과 중성지방을 낮추고 HDL을 높이는 데 도움이 되며, 동시에 심혈관질환 위험을 크게 줄입니다. 흡연은 이상지질혈증의 직접적인 위험인자이므로 반드시 중단해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19aecb4cfaf2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19aecb5d5d89]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[지원체계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[119]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[•  한국지질·동맥경화학회 홈페이지에서 이상지질혈증의 예방에 대한 정보를 얻을 수 있습니다.
+
+ 1) 이상지질혈증에 도움이 되는 음식
+ 2) 이상지질혈증에 도움이 되는 운동]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q.  콜레스테롤 수치가 폐경 이후 증가하는 추세를 보였다가 60세 이후 서서히 감소한다고 하는데, 그 원인은 무엇인 가요? 
+
+A. 폐경 전 여성은 에스트로겐(여성호르몬)의 보호 효과로 인해 HDL 콜레스테롤은 높고 LDL 콜레스테롤은 상대적으로 낮은 경향을 보입니다. 그러나 폐경 이후에는 에스트로겐 수치가 급격히 감소하면서 이러한 보호 효과가 사라지고, LDL 콜레스테롤은 상승하고 HDL은 감소하는 변화를 겪게 됩니다. 이 때문에 폐경 직후 여성에서 콜레스테롤 수치가 빠르게 증가하는 경우가 흔합니다. 다만 60세 이후에는 콜레스테롤 수치가 서서히 감소하는데, 이는 간기능 저하, 식사량 감소, 위장관 흡수 능력 저하 등과 같은 생리적 변화와 관련이 있습니다.
+
+Q. 유전적 원인에 의해 콜레스테롤 수치가 증가하는 이상지질환자의 경우 식습관 개선과 적절한 운동으로 콜레스테롤 수치를 개선시킬 수 있을까요? 
+
+A. 일부 조절은 가능하지만 한계가 있습니다. 가족성 고콜레스테롤혈증(Familial Hypercholesterolemia, FH)은 LDL 수용체의 유전적 결함이나 기능 저하로 인해 간에서 LDL 콜레스테롤을 충분히 제거하지 못하면서 혈중 농도가 비정상적으로 높아지는 질환입니다. 이 경우 식사 요법과 운동은 보조적으로만 도움이 되며, 유전적으로 LDL 수용체 기능이 손상된 경우에는 생활습관 교정만으로는 목표 LDL 수치에 도달하기 어렵습니다. 따라서 대부분의 환자는 스타틴 계열 약물치료가 필요하며, 고위험 환자의 경우 에제티미브 또는 PCSK9 억제제와 같은 추가 치료가 요구됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[121]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[LDL 콜레스테롤, HDL 콜레스테롤, 중성지방, 스타틴]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 보건복지부‧한국영양학. 2020 한국인 영양소 섭취기준 활용.
+2. 한국지질‧동맥경화학회. 2022 이상지질혈증 진료지침 5판. 
+3. 한국지질‧동맥경화학회. Dyslipidemia Fact Sheet in Korea, 2024. 
+4. Grundy SM, Stone NJ et al. 2018 AHA/ACC guideline on the management of blood cholesterol: a report of the American College of Cardiology/American Heart Association Task Force on Clinical Practice Guidelines. Circulation. 2019;139(25):e1082–e1143.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[갑상선스캔]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6277]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[갑상선은 요오드(iodine)를 이용하여 갑상선호르몬을 합성, 저장하고 내보내는 내분비 기관입니다. 갑상선은 갑상연골 아래쪽 기도의 앞쪽에 위치하며 나비 모양으로 생겼습니다. 좌우 2개의 엽이 아래쪽에서 연결되어 있고, 길이가 약 4 cm, 두께가 2~2.5 cm이며 성인의 갑상선 무게는 15~20 g 정도입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf290204]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf275361]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[갑상선스캔은 방사성 요오드나 이와 유사하게 갑상선으로 섭취되는 과산화테크네슘 같은 방사성 의약품을 투여하여 갑상선의 위치, 크기, 기능, 결절 유무, 염증 등을 평가하는 영상 검사입니다. 또한 갑상선암에서 방사성 요오드 치료의 평가와 전이를 진단하는 데에도 사용됩니다. 갑상선스캔은 감마 카메라를 사용하여 촬영합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b2e4072122]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[갑상선스캔의 가장 흔한 적응증(특정 검사나 치료를 시행할 수 있는 합당한 이유)은 갑상선 비대(커져있는 상태)가 있거나 결절이 만져질 때입니다. 주요 적응증은 다음과 같습니다.
+
+• 갑상선 비대 
+
+• 목에서 결절이 만져질 때 
+• 임상적인 갑상선기능항진증 또는 갑상선기능저하증 
+• 갑상선염의 경과 관찰 
+• 흉골(가슴뼈)하종양의 진단 
+• 갑상선 수술 전후 
+• 갑상선암 수술 후 전이를 찾을 때 
+• 갑상선자극이나 억제치료 후 그 효과 판정 시]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[감마 카메라를 이용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[방사성 요오드를 사용하여 검사할 때 요오드가 많이 함유되어 있는 식품인 해조류(김, 미역, 다시마 등)는 검사 전 병원에서 안내 받은 기간 동안 피해야 합니다.
+촬영 시 목걸이, 벨트, 단추 등의 금속이나 보형물은 영상소견에 영향을 줄 수 있으므로 가능한 제거한 후 촬영해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[방사성 요오드를 경구 복용하거나 과산화테크네슘을 정맥 주사로 투여 후 방사성의약품이 갑상선에 충분히 섭취될 때까지 기다린 후 영상을 촬영합니다. 생리적으로 볼 때 방사성 요오드의 사용이 가장 바람직하지만, 물리적 특성(반감기, 주 감마 에너지 등) 때문에 갑상선스캔에는 주로 과산화테크네슘을 사용합니다. 방사성 요오드의 경우 경구 복용한 후 24시간, 과산화테크네슘의 경우 정맥 주사 후 약 10~20분을 기다린 다음 촬영하게 되며, 촬영은 약 10분 정도 소요됩니다. 감마 카메라로 갑상선 부위 전면 영상을 얻으며,  이소성 갑상선(갑상선 조직이 정상적인 자리가 아닌 곳에 남아있는 갑상선)을 찾는 경우에는 턱 아래부터 흉부 상부까지 촬영합니다. 갑상선암의 전이를 찾는 전신스캔의 경우에는 방사성 요오드를 경구 복용한 후 24~72시간 뒤에 감마 카메라로 전신 촬영을 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 영상소견 상 갑상선이 안 보이는 경우
+다음의 경우 갑상선스캔에서 갑상선이 보이지 않을 수 있습니다.
+
+• 요오드 투여로 체내에 요오드 양이 증가된 경우   
+
+• 아급성 갑상선염(급성과 만성의 중간 정도의 갑상선염)이나 무통성 갑상선염(갑상선에 통증이 없는 갑상선염)의 급성기 
+•  만성 갑상선염 및 일차성 점액수종  
+• 항갑상선제 치료 시 
+•  갑상선호르몬으로 억제 치료 시 
+•  수술 또는 방사성 요오드로 잔여 갑상선 제거 시 
+•  선천적 갑상선 결손(모자람) 시 
+• 이소성 갑상선]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf2756e4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 결절
+갑상선 결절은 결절 자체가 갑상선호르몬을 분비하는 기능이 있는지, 다발성인지 등에 따라서 치료방침이 달라질 수 있습니다. 갑상선스캔 영상 소견에 따라 결절은 냉, 온, 열결절로 나눌 수 있습니다. 영상으로 발견된 결절 중 냉결절의 19.8%, 온결절의 4%, 열결절의 2.1%에서 갑상선암이 발견되는 것으로 알려져 있습니다. 
+
+
+1) 냉결절
+갑상선 결절 내에 방사성의약품의 섭취가 없거나 현저히 감소되어 나타나는 경우를 이르며, 원인은 낭종성 변성(cystic degeneration), 양성종양, 악성종양, 갑상선염, 갑상선의 섬유화  또는 석회화, 선종양 갑상선종(양성종양) 등 입니다. 
+그러나 갑상선 결절이 악성결절인지 양성결절인지는 영상소견만으로는 감별이 불가능하므로, 다음과 같은 소견이 동반될 때는 악성종양을 의심할 수 있습니다.
+
+• 40세 이하의 여자에게서 고립성 결절(하나의 결절)이 있을 때 
+
+ • 남자에게서 고립성 결절이 있을 때 
+• 40세 이하의 남자에게서 과거력이 없는 다발성 결절이 있을 때 
+• 고립성 결절이 최근에 갑자기 커지고, 딱딱하고 주위조직과 유착되어 있을 때 
+•  갑상선 결절과 함께 식도나 기관을 침범한 임상증상이 있을 때 
+• 수개월간의 갑상선 억제치료 후에도 결절의 크기가 작아지지 않을 때 
+ • 목 주위에 암전이가 의심되는 림프절이 만져질 때 
+• 과거력상 목에 방사선 조사력이 있을 때]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18bcc8f710e4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 온결절 및 열결절
+정상 갑상선 조직에 비해 결절 부위의 방사성의약품 섭취가 상대적으로 더 증가된 경우를 열결절이라고 합니다. 열결절에는 두 가지 형태가 있는데, 섭취가 결절에만 국한되어 있고 정상조직은 섭취가 없는 경우와 결절에 섭취가 현저히 증가되어 있으면서 결절 외의 정상조직에도 어느 정도 섭취가 나타나는 경우입니다.
+열결절이 자율적으로 갑상선호르몬을 생성하는 자율기능성 결절인지 여부를 확인하는 것이 치료법 및 예후를 결정하는데 중요합니다. 자율기능성 결절은 대부분 선종 혹은 선종양 갑상선종으로 양성종양이며 악성일 가능성은 낮습니다.
+한편 결절에 섭취가 나타나지만 그 정도가 결절 외의 정상조직과 차이가 없는 경우를 온결절이라고 부릅니다.
+
+3. 갑상선염
+갑상선염은 크게 급성, 아급성, 만성으로 나눌 수 있습니다. 급성 갑상선염은 세균이나 바이러스에 의하여 생기며 때로 농양(염증이 조직내에 생겨 그 부분의 세포가 죽고 고름이 몰리는 질환)이 되어 냉결절로 나타나기도 합니다. 아급성 갑상선염은 주로 상기도감염 후에 나타나며, 초기에는 압통이 있는  갑상선종을 보입니다.
+갑상선스캔의 영상소견은 갑상선염의 시기에 따라 다양합니다. 급성기에는 갑상선이 거의 안 보이게 되는데, 이 시기에 대부분 초기에 가벼운 갑상선기능항진증의 소견을 보입니다. 3~6개월 후에 갑상선염에서 완전히 회복되며 영상소견도 정상으로 돌아옵니다.  
+
+무통성 갑상선염의 영상소견은 아급성 갑상선염과 동일하게 급성기에는 거의 보이지 않다가 자연적으로 회복됩니다. 만성 갑상선염은 임상적으로 가장 흔히 보는 갑상선염으로 하시모토 갑상선염이 이에 속합니다. 영상소견은 특징적으로 울퉁불퉁한 모양을 보이는데, 이는 방사선 섭취량이 각 부위에 따라 차이가 많고 불균등하기 때문입니다. 때로는 작은 반점이나 냉결절을 보이기도 하고, 갑상선 조직이 위축되어 갑상선의 형성부전과 유사한 영상소견을 보일 수도 있습니다. 임상적으로 갑상선 기능은 정상이거나 떨어져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf2755e7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 그레이브스병 
+그레이브스병 진단을 위해 갑상선스캔이 필수는 아니지만 갑상선종과 갑상선기능항진증이 있을 때 감별진단을 위하여 시행합니다. 그레이브스병에서는 아급성 갑상선염이나 자율성 결절과는 달리 갑상선이 비대해지고 전반적으로 방사선 섭취가 증가된 소견을 보입니다. 갑상선스캔은 치료 후의 효과를 판정하기 위한 객관적인 자료로 쓰이기도 하고, 갑상선 크기를 측정하여 방사성 요오드 치료 시 그 용량을 결정하는데 쓰이기도 합니다.
+
+5. 갑상선암의 전이
+방사성 요오드를 사용한 전신스캔은 여포암이나 유두암과 같은 잘 분화된 갑상선암의 전이여부를 판정하기 위해 시행합니다. 갑상선암을 갑상선 제거술로 수술한 후, 3~4주 이상 갑상선호르몬제 복용을 중단하여 혈청 갑상선자극호르몬(TSH) 수치를 증가시킨 후 전신스캔을 시행합니다. 최근에는 갑상선호르몬제 복용을 중단하는 대신 재조합인간갑상선자극호르몬(rhTSH)을 주사하고 검사하기도 합니다.
+방사성 요오드 전신스캔은 I-123이나 I-131의 방사성 요오드를 경구 투여하고 24~72시간 후에 시행합니다. 평면으로 얻은 전신 영상에 추가적으로 단일광자방출컴퓨터단층촬영술(SPECT/CT)을 시행하면 병변의 위치를 정확히 파악하는데 도움이 되고 영상의 예민도와 특이도를 높일 수 있어 최근 많이 이용되고 있습니다.  
+
+갑상선암은 주로 목주위의 림프절에 전이가 되고 폐나 뼈 등에 발생할 수도 있습니다. 방사성 요오드 전신스캔은 전이된 갑상선암을 방사성 요오드로 치료한 후 경과관찰할 때에도 유용합니다. 갑상선암 환자가 고용량 방사성 요오드 치료를 시행한 후에는 정상적인 방사능 섭취 부위 이외에는 전신에 이상 방사능 섭취가 보이지 않아야 합니다. 만약 이상 섭취소견이 보인다면 재발이나 전이가 의심되므로, 경우에 따라 확진을 위한 추가적인 검사가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b2e49c9118]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[6. 이소성 갑상선 
+이소성 갑상선은 설갑상선, 종격동(종격)갑상선종, 난소갑상선종 등이 있습니다.
+갑상선은 태생기에 혀의 기저부에서 발생하여 아래로 내려와서 갑상선 연골 아래에 위치하게 되는데 선천적인 이상에 의해 갑상선이 혀의 기저부에 그대로 남아 있는 경우를 설갑상선 이라고 합니다. 갑상선스캔 상 정상부위에는 방사성 의약품의 섭취가 나타나지 않으며 혀의 기저부에서 방사성 의약품의 섭취가 나타납니다.
+종격동(종격)갑상선종은 선종양 갑상선종 등의 갑상선종이 상부  종격동(종격)으로 내려온 것으로, 흉부 방사선 사진에서 종격동(종격) 종양으로 우연히 발견되는 수가 있습니다. 갑상선스캔 상 상부 종격동(종격)에 방사성의약품 섭취가 관찰되며 갑상선과 연결되어 보일 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf2754e1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[여성의 경우 임신이나 수유 중인지 반드시 확인이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[246]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 갑상선스캔 시 어떤 기계로 스캔하나요? (X-ray인지 MRI인지 등)
+
+A. 감마 카메라로 촬영합니다.
+
+Q. 갑상선스캔 전에 유의사항은 어떤 것이 있나요?
+
+A. 주의사항 및 부작용을 참고하세요.
+
+Q.  갑상선스캔 후에 주의사항은 무엇이 있나요?
+
+A. 주의사항 및 부작용을 참고하세요.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

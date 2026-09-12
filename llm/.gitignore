@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+# models/ 전체를 제외한다 — *.gguf만 걸러내면 Ollama 캐시(models/blobs/sha256-...)처럼
+# 확장자 없는 대용량 중복 파일이 안 걸러지고 그대로 커밋될 뻔했다(실측: 4.6GB 발견).
+models/
+vector_db/
+eval/.tmp/
+.env
+# 파인튜닝한 임베딩 모델 체크포인트 (finetune/ko-sroberta-finetuned*/model.safetensors,
+# 각 422MB) — 재현 코드(finetune/*.py)와 결과 수치(RESULTS.md)는 남기되 가중치
+# 자체는 git에 안 올린다.
+*.safetensors

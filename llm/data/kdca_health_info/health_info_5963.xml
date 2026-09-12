@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[뇌동맥류]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5963]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 뇌동맥류는 뇌혈관이 부풀어 오르는 질환으로, 주로 뇌혈관이 나뉘는 부위에서 발생합니다.
+• 파열되면 심각한 뇌출혈을 일으킬 수 있어 빠른 치료가 필요합니다.
+• 뇌동맥류는 파열, 비파열, 크기나 모양에 따라 여러 가지로 분류됩니다.
+• 고혈압, 흡연, 가족력이 위험 요소로 작용하며, 유전적 요인도 영향을 미칠 수 있습니다.
+• 치료는 수술적 방법이나 코일색전술이 있으며, 치료 방법은 뇌동맥류의 상태와 환자 상태에 따라 달라집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뇌동맥류(뇌혈관꽈리)는 뇌혈관이 꽈리(풍선) 모양으로 부풀어 오르는 질병입니다. 주로 뇌혈관이 나뉘는 부위에 구조적으로 약한 뇌혈관벽에서 발생합니다. 뇌동맥류는 파열되어 심각한 뇌출혈(뇌지주막하출혈)을 일으키기도 합니다. 자발적 뇌출혈은 다양한 원인(고혈압, 뇌동맥류, 뇌동정맥기형, 약물 등)으로 발생되는데, 부위에 따라 뇌실질내출혈, 뇌실내출혈 그리고 뇌지주막하출혈 등으로 구별됩니다. 뇌동맥류는 뇌지주막하 공간에 위치하여 부풀어 오르다 파열되면 출혈이 발생되는데, 이를 뇌지주막하출혈이라고 합니다.혐오이미지 펼치기]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1854d9ceedf3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뇌동맥류는 파열 여부에 따라 파열 뇌동맥류와 비파열 뇌동맥류로 구분합니다. 크기에 따라 11~25 mm의 큰 뇌동맥류와 그 이상의 거대뇌동맥류로 구분하고, 모양 및 원인에 따라 낭성, 방추형, 박리, 외상 및 감염 뇌동맥류로 구분합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뇌동맥류 발생의 원인은 확실히 알려져 있지 않습니다. 유전적 요인이나 감염, 악성 종양의 특수한 상황에서 발생하기도 하나 극히 드문 경우에 해당합니다. 뇌혈관벽에 지속적인 압력이 가해져 생긴다고 추정하지만, 정확한 기전이나 인과 관계가 밝혀진 상태는 아닙니다. 여성과 고령자에서 더 많이 발견되며, 고혈압, 흡연, 가족력이 있는 경우 발생 가능성이 더 높습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뇌동맥류의 파열 여부가 예후를 결정하는 가장 중요한 요인입니다. 비파열 뇌동맥류는 증상이 없는 경우가 대부분이며, 수술 후 특별한 합병증이 없는 것이 일반적입니다. 다만 수술 중 합병증 발생을 고려해 파열 가능성이 낮다고 판단되면 생활습관을 교정하면서 추적관찰하기도 합니다.
+반면 뇌동맥류 파열 및 지주막하출혈을 보이면 예후가 불량한 편입니다. 병원에 도착하기도 전에 사망하는 경우가 있을 정도이며, 빠른 이송 및 적절한 처치가 이루어지더라도 사망에 이르거나 합병증이 발생할 수 있습니다. 예후는 출혈 당시 뇌손상 정도에 따라 달라집니다. 추가적인 뇌손상을 방지하고 지주막하출혈의 합병증을 예방하기 위한 치료는 환자의 악화를 방지하는 것이 목적이며, 상당 기간의 중환자실 치료 혹은 이에 준하는 집중 치료를 요합니다.
+지주막하출혈 시 서둘러 뇌동맥류 수술을 하는 이유는 파열된 뇌동맥류가 재파열되는 것을 막기 위해서입니다. 재출혈되면 예후가 더욱 불량하기 때문에 뇌손상에 대한 처치와 함께 동맥류 파열을 막기 위한 치료를 진행하는 것입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뇌동맥류의 유병률은 전 인구의 약 2~4% 정도로, 외상이나 감염에 의해 이차적으로 발생하기도 하지만 대부분 저절로 생깁니다(자발성). 뇌동맥류 파열은 연간 10만 명당 10~11명 정도 발생하고 있습니다.
+뇌동맥류가 파열하면 지주막하출혈이나 뇌내출혈이 발생하고 각종 합병증이 동반되어 결국 3분의 1의 환자가 사망에 이를 정도로 심각합니다. 과거에는 주로 뇌동맥류가 파열한 뒤에야 응급실을 방문해 진단받는 경우가 대부분이었지만, 근래 영상검사법이 널리 보급되고 건강검진이 보편화되면서 무증상으로 우연히 발견된 뇌동맥류를 치료하기 위해 병원에 찾는 분이 많아지고 있습니다.
+
+2016년 국내 통계상 비파열 뇌동맥류로 진단받은 성인은 38,000명으로 매년 증가하고 있으며, 파열 뇌동맥류는 6,500명으로 큰 변화는 없으나, 연령을 보정하면 매년 감소 추세입니다. 이런 경향은 비파열 뇌동맥류의 진단과 치료가 증가하면서 파열 뇌동맥류가 감소한 결과로 보고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=184a2c836ae9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[파열되지 않은 뇌동맥류는 증상이 없는 경우가 대부분입니다. 오심(메스꺼움)이나 구토를 동반한 두통으로 시행한 검사에서 뇌동맥류를 발견할 수도 있으나, 대개 특별한 증상을 보이지 않습니다. 증상이 있어 시행한 검사를 통해 비파열 뇌동맥류가 발견되더라도, 뇌동맥류와는 관련이 없는 다른 원인에 의한 증상으로 보는 것이 합당합니다.
+특정한 상황에서는 증상을 보이기도 하는데, 우선 뇌신경 주변의 혈관에서 뇌동맥류가 발생해 뇌신경을 압박하면 뇌신경 장애가 생깁니다. 동안신경이라는 뇌신경 근처에서 뇌동맥류가 발생하면, 파열되지 않은 상태에서도 뇌신경을 압박해 안구운동장애 증상을 보일 수 있습니다. 시신경을 압박하면 시력 저하나 시야 결손이 생기기도 합니다. 뇌동맥류가 뇌간을 압박하면 뇌 자체가 영향을 받아 의식 저하 같은 심각한 증상을 보일 수 있으나 극히 드뭅니다.
+
+파열된 뇌동맥류는 양상이 완전히 달라 극심한 두통, 경부강직, 메스꺼움 및 구토 등의 증상이 나타납니다. 뇌동맥류 파열에 의한 두통은 매우 심해 대부분의 환자가 “생애 처음 느껴본 고통”이라고 표현합니다. 뇌동맥류 파열로 인해 지주막하출혈이 생기면 뇌전증 발작, 의식 저하 등 더 심각한 증상이 나타나며, 두개강 내 압력이 크게 상승하면 파열 즉시 사망에 이를 수도 있습니다. 따라서 이런 증상을 보인다면 죽시 응급실에 내원해 적절한 진료를 받아야 합니다.
+
+
+1) 비파열 뇌동맥류 - 크기가 큰 뇌동맥류가 주변 신경조직을 압박해 아래와 같은 증상이 나타날 수 있습니다. 
+① 안와 주변 통증 
+② 감각저하 및 근력저하 
+③ 안면마비 
+④ 동공 확장 
+⑤ 복시 또는 시력저하 
+
+2) 파열 뇌동맥류 – 뇌동맥류가 파열되면 극심한 두통이 발생하며, 아래와 같은 증상이 동반되기도 합니다. 
+① 복시 
+② 구역 및 구토 
+③ 경부강직 
+④ 경련발작 
+⑤ 의식소실(일시적 또는 지속적) 
+⑥ 심정지]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183b1f0d6631]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뇌동맥류는 뇌혈관 상태를 확인하는 검사를 통해 진단합니다. 보통 뇌 컴퓨터단층촬영(brain CT) 또는 자기공명영상촬영(MRI) 검사를 이용하는데, 3차원 혈관조영 컴퓨터단층촬영(3D brain CT angiography) 혹은 자기공명혈관조영촬영(brain MR angiography)을 통해 뇌동맥류 유무를 일차적으로 진단할 수 있습니다. 뇌동맥류가 있다면 더 많은 정보를 얻기 위해 뇌혈관조영술(cerebral angiogram)을 추가로 시행합니다. 뇌혈관조영술을 통해 동맥류의 모양, 크기, 주변 혈관과의 위치 관계를 정확히 파악해 치료 필요 여부를 판단하고, 치료가 필요한 경우 어떤 방법으로 치료할지 계획을 수립할 수 있습니다.
+파열 뇌동맥류가 의심되면 우선 뇌 컴퓨터단층촬영검사로 지주막하출혈 여부를 확인합니다. 지주막하출혈 소견이 있다면 빠르게 시행할 수 있는 3차원 뇌혈관조영 컴퓨터단층촬영을 통해 뇌동맥류 존재 여부를 확인합니다. 뇌동맥류 파열로 인한 지주막하출혈로 판단되면 뇌혈관조영술을 시행해 치료 계획을 수립합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183b1f17fb16]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[①	뇌 3차원 혈관조영 컴퓨터단층촬영(CTA) - 3차원 영상을 재구성해 뇌동맥류 발견은 물론 뇌동맥류와 이웃한 골 구조와의 관계를 확인해 수술에도 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183b1f240924]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[②	뇌자기공명영상 혈관촬영 (MRA) - 최근 급속히 발전하는 진단 방법으로 90% 이상의 뇌동맥류 발견율을 보입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183b1ee70de2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[③	뇌혈관조영술 - 뇌동맥류 진단에 가장 정확한 방법으로, 뇌동맥류의 위치, 형태, 크기, 돌출 방향 및 동반 질환 등을 보여줍니다. 혈관 내로 카테터를 넣어 조영제를 투여하므로 CT나 MRI보다 침습적인 검사 방법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=184e622cf191]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일반적인 뇌동맥류에서 고려할 수 있는 수술 방법은 뇌동맥류 경부 결찰술과 코일색전술입니다. 거대뇌동맥류 같은 특수한 상황에서는 더 복잡한 수술이 필요할 수 있습니다. 
+뇌동맥류 경부 결찰술은 개두술을 통해 두개골을 열고 뇌동맥류를 박리한 후, 뇌동맥류의  경부(목)를 클립이라고 부르는 일종의 집게로 물어 차단하는 수술입니다.
+코일색전술은 다리나 손목의 혈관을 통해 뇌혈관 내부로 접근해 미세 도관을 뇌동맥류 안으로 진입시킨 후, 백금 합금된 아주 얇고 부드러운 코일을 뇌동맥류 안쪽에 채워 넣는 수술입니다. 최근에는 혈류전환 스텐트를 이용해 뇌동맥류를 통과하는 혈류를 감소시켜 폐색을 유도하는 혈류전환 스텐트 색전술을 시행하기도 합니다.
+뇌동맥류 및 환자 상태에 따라 적절한 치료 방법을 선택하고, 환자 및 보호자가 전문가와 충분히 협의해 치료 방법을 결정하는 것이 중요합니다.뇌동맥류 파열 시에는 우선 뇌압을 조절하고, 뇌동맥류가 재파열돼 추가적인 뇌 손상을 입지 않도록 서둘러 수술을 시행합니다. 이후 뇌지주막하출혈에 대한 신경외과적 집중치료를 시행합니다.
+
+수술 방법은 뇌동맥류의 위치, 모양과 크기 및 환자 상태를 검토해 결정하는데, 최근에는 코일색전술을 먼저 검토하고 어려울 경우에는 경부 결찰술을 고려하는 경향입니다. 비파열 뇌동맥류는 크기, 모양, 위치 및 환자의 전반적인 상태를 보아 예방적 수술을 고려합니다. 의사가 일방적으로 결정하기보다 환자, 보호자, 의사가 충분히 의견을 주고받으며 수술 방법을 결정하는 것이 바람직합니다.
+
+
+①	뇌동맥류 경부 결찰술 - 두개골을 열고 수술을 해야 하므로 위험 부담이 더 크지만, 성공하면 재발률이 낮은 치료법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183b1f375c93]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[②	코일색전술 - 덜 침습적이며 입원 기간이 짧기 때문에 고령에서도 시행할 수 있습니다. 하지만 재발율이 수술에 비해 높고, 장기간의 추적 검사와 항혈소판제복용이 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183b1f40af07]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183b1ed9c4d8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[금연해야 하며, 적절한 식습관과 운동, 금주로 뇌혈관을 튼튼하게 하면 뇌동맥류 예방에 도움이 됩니다. 비파열 상태에서 진단하는 것이 가장 중요합니다. 가족 내(부모, 형제 자매 및 자녀)에 2명 이상의 뇌동맥류 환자가 있는 경우 개인별로 뇌동맥류 발견을 위한 선별검사를 고려합니다. 상염색체 우성 다낭콩팥질환 환자는 선별검사를 권고합니다.비파열 뇌동맥류 진단 후 추적관찰을 권유받았다면 반드시 정기적으로 뇌동맥류의 변화를 확인해야 하며, 파열 위험인자를 줄이기 위해 노력해야 합니다.
+
+
+1) 뇌동맥류 발생과 관련된 위험요인 
+①	유전적 질환 
+②	상염색체 우성 다낭콩팥질환 
+③	뇌동정맥기형 
+④	뇌동맥류의 가족력 
+⑤	고혈압, 흡연, 이상지질혈증 – 동맥경화증에 의한 혈관벽의 변화 유발 
+⑥	마약 복용 – 혈압 상승 및 혈액 감염 유발 
+⑦	혈관내 감염 – 감염 뇌동맥류 발생 위험 
+⑧	두부외상 – 외상 뇌동맥류 발생 위험 
+
+2) 뇌동맥류의 파열과 관련된 위험요인 
+①	흡연 
+②	고혈압
+③	크기 – 크기가 큰 경우 파열 위험 증가 
+④	위치 – 위치에 따라 파열의 위험 증가 
+⑤	성장 – 추적관찰 중 크기의 변화 
+⑥	뇌동맥류 파열의 가족력 
+⑦	뇌지주막하출혈의 과거력 – 다발 뇌동맥류 환자에서 이전 파열의 과거력]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 뇌동맥류로 치료받은 가족이 있습니다. 다른 가족도 검사를 받아야 할까요?
+
+A. 가족 내에 부모, 형제 자매 및 자녀 중 2명 이상의 뇌동맥류 환자가 있는 경우 개인별로 뇌동맥류 발견을 위한 선별검사를 고려합니다. 상염색체 우성 다낭콩팥질환 환자는 선별검사를 받는 것이 좋습니다.
+
+Q. 뇌동맥류로 진단되면 꼭 치료해야 하나요?
+
+A. 뇌동맥류가 있다고 모두 치료를 하는 것은 아닙니다. 뇌동맥류가 파열되면 매우 위험한 상황에 처할 수 있지만, 평생 파열되지 않을 수 있는데도 수술 등 적극적인 치료를 했다가 합병증이 발생해 오히려 더 큰 위험을 초래할 수도 있기 때문입니다. 수술 등 적극적 치료를 할 것인가, 추적관찰을 할 것인가는 전문의와 충분히 상의한 뒤 결정해야 합니다.
+비파열 뇌동맥류가 발견된 경우, 환자의 나이, 동반 질환, 건강 상태 등 환자의 상황 및 뇌동맥류의 크기, 위치 및 모양 등의 병변의 측면을 고려하여 수술적 치료의 결정을 하게 됩니다. 치료를 하지 않고 경과 관찰을 하기로 한 경우에는 고혈압 치료, 금연 및 과도한 음주를 피해야 하고, 증상이 없더라도 주기적으로 영상학적 추적검사를 받아야 하며, 크기나 모양의 변화가 생긴 경우에는 적극적인 치료를 고려하게 됩니다.
+
+
+Q. 뇌동맥류는 약으로 치료할 수 있나요?
+
+A. 뇌동맥류에 대한 근본적인 치료는 수술적 치료이며, 약물 치료는 아직 연구 단계입니다. 증상이 없고 파열 위험이 낮다고 판단되면 경과 관찰만 할 수 있으나 고혈압 치료와 금연 그리고 과도한 음주를 피해야 합니다. 증상이 없어도 정기적으로 영상의학적 추적검사를 받아야 하며, 크기나 모양의 변화가 있다면 적극적인 치료를 고려합니다.
+
+Q. 결찰술과 색전술 중 어떤 것이 좋나요?
+
+A. 뇌동맥류 및 환자 상태에 따라 적절한 치료 방법을 선택해야 합니다. 환자 및 보호자가 직접 전문가와 충분히 협의해 치료 방법을 결정하는 것이 중요합니다.
+
+Q. 뇌동맥류 검사는 얼마나 자주 받아야 하나요?
+
+A. 뇌동맥류 치료를 받은 환자는 정기적인 추적 관찰을 고려합니다. 얼마나 자주 검사가 필요한 지는 재발 위험 인자와 뇌동맥류 치료 방법에 따라 달라질 수 있습니다. 치료를 받지 않은 비파열 뇌동맥류 환자도 추적 영상 검사가 필요합니다. 대개 처음 3년간 매년 검사를 시행하고, 안정적인 경우 2~5년마다 정기적인 추적 관찰을 추천합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[121]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뇌동맥류, 뇌지주막하출혈, 뇌혈관조영술, 뇌동맥류 경부결찰술, 뇌동맥류 코일색전술, 뇌전산화단층혈관촬영술, 뇌자기공명혈관촬영술]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한뇌혈관내치료의학회. (2020). 뇌혈관내치료의학. (주)범문에듀케이션. 
+2. 대한뇌혈관외과학회. (2016). 뇌동맥류 파열에 의한 지주막하 출혈 진료지침. http://www.kscvs.org 
+3. 대한뇌혈관외과학회. (2018). 뇌혈관외과학 (제2판). 고려의학. 
+4. 대한신경외과학회. (2012). 신경외과학 학생과 전공의를 위한 교과서 (제4판). (주)엠엘커뮤니케이션. 
+5. 서대희, 강현승, 김대원, 박석규, 송영, 신승훈, …, 박인성. (2011). 비파열 뇌동맥류 진료지침. KOR J CEREBROVASCULAR SURGERY. 13(4). 279-290.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

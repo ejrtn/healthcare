@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[전립선비대증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[3193]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[전립선은 방광 바로 밑에서 요도를 반지처럼 감싸고 있으며, 정액의 구성성분인 전립선액을 생산해 요도로 배출하는 남성 생식기관입니다. 전립선액은 정자를 감염에서 보호할 뿐 아니라, 외부 세균의 침입을 막아 여성에 비해 성인 남성의 요로감염이 적은 중요한 이유이기도 합니다. 또한 전립선은 방광에 고인 소변을 요도로 내보내는 배뇨기관이기도 합니다. 전립선은 골반 깊숙이 위치하며, 바로 뒤에는 직장이 자리 잡고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c1a03]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1886086b3a48]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[정액은 약 60%가 정낭에서, 약 30%가 전립선에서, 나머지 5% 정도가 요도에서 생산되는 분비물로 구성됩니다. 고환에서 생산된 정자는 정관을 타고 이동해 정관 팽대부에 모여 있다가, 사정할 때 전립선액과 정낭 분비물 등에 섞여서 요도를 따라 배출됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18874a099f88]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[젊은 남성의 전립선은 호두알 정도의 크기이지만 나이가 들수록 점점 커집니다. 전립선이 너무 커지면 전립선 내부를 지나는 요도를 눌러서 각종 증상을 일으키는데 이것을 ‘전립선비대증’이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c1b65]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[전립선비대증의 정확한 발생 원인은 밝혀지지 않았으나, 크게 다음 두 가지 요인을 주목합니다.
+
+[전립선비대증이 발생하는 원인]
+
+1. 노화(연령 증가)
+전립선비대증은 40대 이후부터 서서히 시작해 60대에는 60~70%, 70대 이상에서는 거의 모든 남성에서 나타날 정도로 매우 흔한 질환이므로 노화 현상으로 이해하기도 합니다.
+
+2. 남성호르몬
+
+연령이 증가하면 고환에서 생산되는 남성호르몬의 총량은 줄지만, 전립선 성장에 관여하는 활동형 남성호르몬의 양은 큰 변화가 없어, 이로 인해 전립선비대증이 발생한다는 연구 결과들이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[전립선비대증 발생 초기에는 특별한 증상이 없습니다. 그러나 전립선이 점차 커지면서 소변이 지나가는 전립선 요도를 압박하기 때문에 소변보기가 힘들어지며 다음과 같은 증상이 발생합니다.
+
+[전립선비대증의 주요 증상]
+˚ 소변줄기가 가늘고 힘이 없어지며, 중간에 끊어지기도 한다.
+˚ 소변을 보고 나서도 시원하지 않다.
+˚ 소변이 나오기 시작할 때까지 시간이 한참 걸리거나 힘을 주어야만 소변이 나온다.
+˚ 소변이 자주 마렵거나 갑자기 소변이 마려워 참기 힘들다.
+˚ 밤에 잠을 자다가 일어나서 소변을 보아야 한다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b6ad117347]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[한편, 전립선비대증으로 인해 소변을 본 후에도 방광이 완전히 비워지지 않으면 방광 속에 정체된 소변으로 인해 요로감염이나 방광결석이 생길 위험이 높아집니다. 방광에서 요관을 통해 신장으로 압력이 가해져 요관과 신우가 늘어나는 수신증(水腎症)이 생기고 신장이 손상될 수도 있습니다. 심하게 비대해진 전립선이 소변 배출을 완전히 막으면 전혀 소변을 볼 수 없는 요폐(尿閉)가 발생해 응급으로 소변줄을 꽂아 소변을 배출시켜야 하는 경우도 있습니다.
+전립선비대증이 얼마나 심한지 쉽게 확인하기 위해 전립선비대증으로 인한 증상을 점수화한 ‘국제전립선증상점수(International Prostate Symptom Score, IPSS)'라는 점수표가 널리 이용됩니다. 합계 점수가 1~7점인 경우는 경미한 증상, 8~19점은 중간정도 증상, 20~35점인 경우는 심한 증상을 의미합니다. 통상 8점 이상이면 전립선비대증으로 진단하고 약물치료를 고려합니다. 대한비뇨의학회에서 국내 50∼70대 남성을 대상으로 수행한 2022년 ‘전립선비대증 인식 설문조사’에 따르면 점수가 8점 이상인 남성의 52%가 불편한 데도 불구하고 진료를 받은 적이 없다고 답해 전립선비대증에 대한 인식이 상당히 저조한 것으로 나타났습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18aa1f0abee4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[[병원을 방문해야 하는 경우]
+상기 증상 중 어떤 것이든 생활에 불편이나 지장을 줄 경우에는 의사와 상의하는 것이 좋습니다. 상기 증상들은 전립선비대증뿐 아니라 요로감염, 방광암, 전립선암, 방광결석 등에서도 발생할 수 있으므로 정확한 감별진단이 필요합니다. 한편, 소변에 혈액이 나오는 경우(혈뇨), 소변을 볼 때 통증이 있는 경우, 요의가 있으나 소변을 볼 수 없는 경우에는 즉시 병원을 방문해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[상기 증상으로 병·의원을 방문하면 의사는 자세한 문진과 함께 증상을 평가한 후 직장손가락검사 등 신체검사와 소변검사, 혈액검사, 요속검사 및 잔뇨량 측정, 초음파검사 등 필요한 검사를 시행합니다.
+
+
+1. 문진
+증상의 발생 시기와 심한 정도, 과거 병력, 약물 복용 여부, 일반 건강상태 등을 확인합니다. 전립선비대증의 심한 정도를 확인하고 수치화하기 위해 국제전립선증상점수를 계산합니다. 국제전립선증상점수는 치료 전 환자 상태를 평가하기 위해서도 사용되지만, 치료 반응을 평가하기 위해서도 사용됩니다.
+
+2. 신체검사
+전립선 바로 뒤에 직장이 있으므로 항문을 통해 직장 내로 손가락을 넣어 보면 전립선을 직접 만져서 상태를 확인할 수 있습니다. 이를 ‘직장수지(手指, 손가락)검사’라고 하여 전립선의 크기와 단단한 정도를 평가할 수 있을 뿐 아니라 전립선암의 발생 여부도 어느 정도 확인할 수 있어 전립선비대증이 의심되는 환자에서 반드시 시행합니다.
+
+3. 소변검사
+소변을 검사해 염증, 적혈구의 존재(혈뇨 여부), 암세포의 존재 등을 확인합니다.
+
+4. 혈액검사
+전립선비대증이 의심되는 환자에게 시행되는 혈액검사는 크게 신장기능검사와 전립선특이항원(Prostate Specific Antigen, PSA) 검사 두 가지가 있습니다.
+
+1) 신장기능검사
+일부 환자는 전립선비대증으로 인해 신장 기능이 나빠져 있거나 다른 신장질환이 동반되어 있을 가능성이 있으므로 혈액검사를 통해 신장 기능을 평가합니다. 주로 다음 두 가지 검사를 이용합니다.
+① 혈중 요소질소 농도(Blood Urea Nitrogen, BUN)
+요소질소(Urea Nitrogen)는 소변을 통해 배설되는 물질 중 하나입니다. 신장 기능이 나빠져서 신장이 노폐물을 제대로 배설하지 못하면 혈액 속 요소질소 농도가 정상 범위 이상으로 상승하기 때문에 혈액 중 요소질소 농도를 측정하면 신장의 기능 상태를 알 수 있습니다.
+② 혈중 크레아티닌 농도(Creatinine, Cr)
+요소질소와 마찬가지로 신장의 기능이 나빠지면 혈액 속 농도가 상승합니다.
+
+2) 혈청 전립선특이항원 검사
+전립선암은 미국 남성의 암 발생 1위를 차지할 정도로 매우 흔하며, 우리나라에서도 식생활의 서구화 등으로 인해 매우 빠르게 증가해 2019년 남성 암 발생 순위 4위에서 2020년 3위로 상승했습니다. 전립선암은 중년 이후 남성에게 전립선비대증과 별도로 또는 동시에 발생할 수 있습니다. 전립선암은 전립선비대증과 증상이 유사하므로, 전립선비대증이 의심되는 환자를 검사할 때는 반드시 전립선암의 발생 여부도 함께 확인해야 합니다.
+
+전립선특이항원이란 전립선 세포에서 생산되는 물질로 정상인의 혈액 1 mL 속에 4 ng(10억 분의 1 g) 이하만 존재합니다. 그러나 전립선암 환자는 암세포의 기저층이 파괴되어 혈액 속 농도가 상승하므로 전립선암을 발견하고 진단하는 데 매우 유용합니다. 하지만 이 수치는 전립선염, 심한 전립선비대, 전립선 관련 검사에 의해서도 상승하므로 의사의 판단이 매우 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18aa1f770cb1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[5. 요속검사 및 잔뇨량 측정
+요속검사는 환자의 소변 배출 속도를 측정해 그래프로 표시해주는 검사법입니다. 정상인은 소변 배출 속도가 점차 증가해 일정 시간 유지되다가 소변이 거의 배출되고 나면 속도가 떨어지는데 비해, 전립선비대증이 있으면 비대해진 전립선에 의해 요도가 압박을 받아 좁아지므로 소변 배출 속도가 낮게 유지되거나 중간에 소변이 끊기는 현상을 관찰할 수 있습니다.
+요속검사는 방광에 150~200 mL 정도의 소변이 차 있어야 정확히 검사할 수 있으므로, 검사 2시간 전부터 소변을 참아야 합니다.
+잔뇨량 측정은 배뇨 직후 방광에 남아있는 소변량을 초음파 기기를 사용해 측정합니다. 잔뇨량이 많을 경우 방광 기능이 저하된 것으로 평가하며, 전립선비대증 치료 중인 경우에는 치료에 반응이 없는 것으로 간주합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c1d68]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[6. 전립선 초음파 검사
+전립선 초음파를 통해 전립선의 모양과 크기뿐 아니라 전립선암 의심 소견을 확인할 수 있습니다. 전립선 초음파는 하복부를 통해서 검사할 수도 있지만, 해부학적으로 전립선이 직장 바로 앞에 있기 때문에 항문을 통해 초음파 장치를 삽입해 촬영하면 더욱 선명한 전립선 영상을 얻을 수 있습니다.
+전립선 초음파 검사는 전립선의 크기를 정확히 측정해 전립선비대증이 얼마나 심한지 알 수 있고, 동시에 일부 전립선암의 발생 여부, 결석이나 전립선 석회화, 급성전립선염이나 전립선 농양, 때때로 방광 이상 소견도 확인할 수 있어 매우 유용한 검사법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c1eb1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[7. 기타 검사
+그 밖에 시행할 수 있는 검사는 다음과 같습니다.
+
+1) 방광경 검사
+요도를 통해 내시경을 삽입해 요도 입구부터 방광 내부까지 관찰하는 검사입니다. 이전 검사에서 요도협착(요도가 좁아진 것)이나 방광종양 등이 의심될 경우 시행합니다.
+
+2) 요류역학검사
+요역동학검사라고도 하며, 방광기능장애나 요실금 등 배뇨장애가 있을 때 정확히 원인을 파악하기 위해 시행합니다. 크게 다음 네 가지 검사 결과를 종합적으로 평가합니다.
+˚ 요속 측정: 소변의 배출 속도를 측정
+˚ 방광내압 측정: 방광 내부의 압력을 측정
+˚ 근전도 측정: 배뇨 시 요도괄약근 및 골반 주위의 근육들이 정상적으로 이완하는지 여부를 확인
+˚ 요도내압 측정: 요도 내부의 압력을 측정]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[단순히 전립선이 커졌다고 해서 치료를 시작할 필요는 없습니다. 그러나 다음과 같은 경우에는 치료를 적극적으로 고려해야 합니다.
+˚ 전립선비대증 증상으로 일상 생활에 불편을 느끼는 경우
+˚ 신장기능 저하, 반복적인 요로감염, 요폐(尿閉), 혈뇨, 방광결석, 방광게실(방광벽 일부가 늘어나 방광 바깥으로 돌출된 경우) 등 전립선비대증의 합병증이 발생한 경우
+
+전립선비대증 치료의 목적은 증상을 줄이고 전립선비대증의 진행을 막아 합병증을 예방하는 것입니다. 크게 대기관찰요법, 약물치료, 수술치료 등 세 가지 방법이 있으며, 의사는 환자의 증상과 전신 상태, 질병의 진행 정도, 환자의 선호도 등을 종합적으로 검토해 적절한 치료법을 선택합니다.
+
+
+[대기관찰요법]
+증상이 심하지 않거나 환자가 별로 불편해하지 않는 경우에 선택합니다. 별도의 치료 없이 1년에 한두 번 정기적으로 병원을 방문해 증상의 진행을 확인하고 전립선특이항원 등 필요한 검사를 시행하면서 지켜보는 방법입니다. 대기관찰요법은 배뇨에 영향을 주는 요소들을 환자에게 이해시키고 생활습관을 개선하는 데에도 초점을 둡니다. 가령 야간뇨를 줄이기 위해 저녁 식후 수분섭취를 줄이되 아침과 점심시간에 충분히 수분을 섭취하도록 하고, 취침 전 꼭 소변을 보고 주무시도록 권장합니다. 또, 카페인과 알코올 섭취를 줄이거나, 가급적 시간에 맞추어 배뇨하도록 안내합니다. 요폐를 유발할 수 있는 감기약 복용 등 배뇨에 영향을 미치는 약제에 대해 교육할 수도 있습니다.
+배뇨와 직접적인 관련은 없지만 특히 야간에 화장실에 드나들며 발생하는 낙상 사고가 적지 않습니다. 낙상의 위험성이 있는 노인은 실버카나 보행기 등 낙상 예방 기구를 이용할 수 있습니다. 배뇨 시 어지럼증이 있는 경우 좌변기 안전보조대 등을 사용하면 안전합니다. 낙상을 예방하는 안전한 환경을 위해 욕실이나 화장실 바닥이 미끄럽지 않게 하고 안전 손잡이 시설을 갖춥니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[약물치료는 전립선비대증의 일차적인 치료로서 다음과 같은 약물들이 있습니다.
+
+1. 알파차단제
+고혈압 치료제로 사용되던 약물의 일종으로 전립선과 방광목 부분 근육을 이완해 배뇨 기능을 호전시킵니다. 알파차단제 복용으로 인해 기립저혈압(누워있거나 앉아있다가 일어설 때 혈압이 순간적으로 떨어져 어지러운 상태)이 나타날 수 있으나, 최근 개발된 ‘선택적’ 알파차단제는 이러한 기립저혈압 부작용을 점차 줄여나가고 있습니다. 선택적 알파차단제도 사정장애나 코막힘 같은 부작용이 발생할 수 있습니다. 알파차단제는 국제전립선증상점수와 소변속도를 개선하고 배뇨 후 잔뇨량을 줄이는 데 효과적이지만, 전립선 크기를 줄이거나 질병의 진행을 예방하지는 못합니다.
+
+
+2. 남성호르몬 억제제
+전립선 성장에 영향을 미치는 남성호르몬의 생산을 차단하는 약물로서 알파차단제와 달리 전립선의 크기를 줄이는 효과가 있습니다. 그러나 이미 전립선이 너무 커져 있다면 효과가 미약할 수 있으며 성욕감퇴, 발기부전, 발기력 저하 등의 부작용이 나타날 수 있습니다. 이 약제를 복용하는 경우 전립선암 검사인 전립선특이항원 검사 수치가 낮게 측정되므로 전립선암 선별검사 시 이를 고려해야 합니다.
+이러한 약물요법은 전립선이 비대되어 있으나 수술을 필요로 하지 않는 환자에게 효과적인 치료법입니다. 보통 알파차단제와의 병용 투여하는 경우가 많습니다. 
+
+3. 방광 관련 약제
+
+많은 전립선비대증 환자가 급박뇨, 빈뇨, 야간뇨 등 방광 증상을 호소합니다. 이때는 상기한 두 가지 약제로만 치료 효과를 얻기 어려워 따로 방광 관련 약제가 필요합니다. 방광 관련 약제에는 항무스카린제, 베타-3-작용제가 있습니다.
+
+
+4. PDE5억제제
+발기부전치료제로 사용되어 왔으나, 최근 전립선비대증 치료제로도 사용됩니다. 알파차단제와 병용 투여하는 경우 소변 속도가 더욱 개선되기 때문에, 전립선비대증 증상과 발기부전을 동시에 겪는 환자에게 효과적입니다.
+
+
+5. 쏘팔메토
+주관적 증상 개선에 일부 효과가 있으나 작용기전이 명확치 않고, 효과가 위약과 비슷하다고 알려져 있습니다. 최근에는 추출 방식에 따른 효과 차이도 보고되는데, 헥산 추출된 쏘팔메토는 에탄올이나 이산화탄소 추출 시와 달리 객관적인 검사 소견을 개선한다는 연구 결과들도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[약물요법에도 불구하고 증상이 호전되지 않거나, 전립선비대증으로 인한 합병증이 발생한 경우, 환자가 약 복용을 불편해하는 경우, 약물 부작용이 발생하는 경우에 수술치료를 고려합니다. 수술치료는 내시경 전립선절제술, 레이저수술, 전립선적출술, 전립선결찰술 등이 있습니다.
+
+1. 내시경 전립선절제술
+전기칼이 장착된 내시경을 이용해 비대해진 전립선 내부를 절제해 막혀 있던 전립선요도를 넓혀주는 방법으로 현재 가장 널리 사용되는 전립선비대증 수술법입니다. 최근 다양한 수술법이 개발되었지만 여전히 표준수술법으로 자리 잡고 있습니다. 척추마취 또는 전신마취 하에서 시행되며 출혈이 어느 정도 발생하나 크게 우려할 정도는 아닙니다. 수술 후 수일간 소변줄을 꽂고 있어야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18aa1fb0b6d4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 레이저 전립선기화술
+내시경을 통해 광섬유를 삽입한 후 특수한 레이저를 쏘아서 비대해진 전립선 조직을 순간적으로 증발시키는 수술법입니다. 내시경 전립선절제술에 비해 출혈 합병증이 적다는 장점이 있습니다. 사용하는 레이저의 종류는 KTP(Potassium-Titanyl-Phosphate), 홀뮴(Holmium) 등입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c1ff3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 전립선적출술
+전립선이 매우 큰 경우에 고려하는 수술법으로 전립선 피막 내 전립선 조직을 좀 더 완전하게 제거합니다. 개복 하에 전립선을 적출하는 전통적인 수술법은 입원 및 회복기간이 길고 수술 전후 출혈 및 통증 우려가 컸지만, 최근에는 홀뮴 레이저나 복강경 또는 로봇장비를 이용한 적출술로 수술 합병증을 최소화합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18874a1f4226]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 전립선결찰술
+최근 개발된 수술법으로, 전립선 안쪽 요도 점막을 전립선 바깥쪽 피막으로 당겨주는 임플란트를 삽입해 전립선 요도를 넓혀줍니다. 실질적으로 전립선의 크기를 줄이는 것은 아니지만, 소변이 나오는 통로를 넓혀 소변 배출 속도를 개선합니다. 의료보험이 적용되지 않아 고가이며, 장기 추적 결과가 없지만, 최소한의 마취로 진행 가능하며 수술 후 일상 복귀가 빠르고 사정장애가 없다는 장점이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18874a2cdb58]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 전립선비대증을 예방할 수는 없나요?
+
+A. 전립선비대증은 나이가 들면서 발생하는 일종의 노화 현상입니다. 고환이 없거나 남성호르몬 분비에 이상이 있는 사람은 전립선비대증이 발생하지 않는 것으로 알려져 있으나, 이것이 예방법일 수는 없습니다. 과일이나 일부 야채류에 함유된 식물성 에스트로겐이 전립선비대증을 예방한다고 알려져 있으나, 효과가 확실치 않습니다. 현재 처방되는 약제 중 남성호르몬전환효소 억제제는 활동형 남성호르몬으로의 전환을 억제해 전립선비대의 진행을 억제하거나 전립선 크기를 줄이는 효과를 내므로 전립선비대증의 진행을 막아줄 것으로 기대합니다. 그러나 성기능 저하 등 부작용이 생길 수 있고, 전립선암 예방 효과가 있으나 반대로 치료가 어려운 고위험군암은 증가시킨다는 연구 결과도 있어 전문의의 판단 하에 사용해야 합니다. 비만이나 고지방, 고콜레스테롤 음식이 전립선비대증의 위험요인이라는 연구들이 있으므로 식이요법과 적당한 운동으로 적정 체중을 유지하는 것이 도움이 될 수 있습니다.
+
+Q. 전립선비대증 환자가 평소에 주의해야 할 사항은 무엇인가요?
+
+A. 전립선비대증으로 진단받은 사람은 소변을 너무 오래 참지 않도록 주의해야 합니다. 방광이 늘어나면서 힘이 없어져 소변을 전혀 볼 수 없는 요폐가 생기거나 장기적으로 방광 기능이 손상될 수도 있기 때문입니다. 마찬가지로 지나친 음주는 소변량을 늘리기 때문에 삼가는 것이 좋으며, 자극성이 강한 차나 커피도 가능하면 피하는 것이 좋습니다. 감기약(특히 코감기약)의 일부 성분(항히스타민제)은 배뇨 기능을 떨어뜨려 소변이 전혀 나오지 않을 수 있기 때문에 감기에 걸렸을 때는 반드시 전립선비대증이 있음을 의사에게 알리고 주의해서 약물을 처방받아야 합니다. 잠자기 전에 많은 양의 수분을 섭취하면 야뇨 증상이 심해지므로 저녁 7시 이후에는 수분섭취를 자제하는 것이 좋습니다.
+
+Q. 약물요법을 시행중인 환자가 알아야 할 사항은 무엇인가요?
+
+A. 모든 약물이 그렇듯이 전립선비대증 치료제 또한 부작용이 발생할 수 있습니다. 알파-교감신경 차단제의 대표적인 부작용은 기립저혈압입니다. 앉았다가 일어날 때 갑자기 혈압이 떨어지면서 순간적인 어지럼증이나 두통이 발생합니다. 기립저혈압이 심하면 쓰러지면서 낙상을 입을 수 있으므로 주의해야 합니다. 이를 예방하기 위해 알파-교감신경 차단제는 잠자리에 들기 직전에 복용할 것을 권합니다. 최근 개발된 약제는 부작용을 감소시켜 아주 민감한 환자를 제외하고는 이러한 심혈관계 부작용이 그리 흔하지 않습니다. 한편, 남성호르몬 억제제는 성욕감퇴, 발기부전 등의 부작용이 있을 수 있습니다. 앞에서 언급한 대로 전립선암의 예방에 관해 상반된 연구 결과가 존재하므로 반드시 전문의와 상의해야 합니다. 약물치료는 증상이 심하지 않은 환자에서 매우 효과적일 수 있지만 전립선비대증의 진행을 막는 데는 한계가 있습니다. 약물을 중단할 경우 약물 복용 전의 증상으로 되돌아가기 때문에 보다 근본적인 치료가 필요할 수 있습니다.
+
+Q. 전립선비대증 이외에 전립선에서 생기는 다른 질환은 없나요?
+
+A. [전립선에 발생하는 기타 주요 질환들]
+
+1) 만성 전립선염
+전립선 염증으로 인해 나타나는 증상군을 의미합니다. 배뇨장애 또는 회음부와 주위 통증 등이 나타나며 소변을 볼 때 통증을 느끼기도 합니다. 치료를 위해 다양한 약제를 수개월간 투여하기도 합니다.
+
+2) 전립선암
+전립선에 발생하는 암으로 대부분 초기에는 특별한 증상을 느끼지 못하지만, 암이 커지면 요도를 압박해 전립선비대증과 유사한 증상이 나타납니다. 전립선암은 수술로 전립선을 제거하는 방법에서 방사선치료, 호르몬치료 등 다양한 치료 방법이 있는데 환자의 연령과 건강 상태, 다른 부위로의 전이 여부에 따라 결정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한비뇨의학회. (2019). 비뇨의학 (제6판). 서울: 일조각.
+
+2. 대한전립선학회. (2023). 전립선 바로알기 (제4판). 서울: 일조각.
+3. European Association of Urology guideline (2023). Management of Non-neurogenic Male LUTS. 
+4. Lori B Lerner, Kevin T McVary, Michael J Barry, Brooke Bixler, Philipp Dahm, Anurag Kumar Das, ... , Timothy J Wilt. (2021). Management of Lower Urinary Tract Symptoms Attributed to Benign Prostatic Hyperplasia: AUA GUIDELINE. The Journal of Urology, 206(5), 806-826.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

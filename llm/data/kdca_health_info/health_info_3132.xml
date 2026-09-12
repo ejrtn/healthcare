@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[폐기물 소각과 다이옥신]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[3132]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[6]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3673]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 다이옥신은 쓰레기 소각이나 금속 가공 등에서 불완전 연소로 생성되는 환경 오염 물질로, 자연에서 잘 분해되지 않고 오래 잔류합니다.
+• 지방에 잘 녹아 먹이사슬을 통해 생물에 축적되며, 사람은 주로 식품 섭취를 통해 노출됩니다.
+• 다이옥신은 다양한 종류가 있으며, 특히 2,3,7,8-TCDD는 독성이 매우 강한 물질로 알려져 있습니다.
+• 국제암연구소는 다이옥신을 1군 발암물질로 분류하고 있으며, 암뿐 아니라 면역계·신경계·내분비계 등에 영향을 줄 수 있습니다.
+• 예방을 위해서는 쓰레기 소각을 줄이고 분리수거 및 재활용을 철저히 하며, 산업적 배출을 관리하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[224]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다이옥신은 쓰레기 소각 및 금속 가공 등의 과정에서 염소 또는 할로겐 원소를 포함하는 유기화합물이 불완전 연소해 발생합니다. 다이옥신은 열화학적으로 안정되어 있고, 미생물에 의해 거의 분해되지 않아 자연계에서 한번 생성되면 잘 없어지지 않습니다. 또한 지방에 잘 녹는 성질이 있어 몸속 지방조직에 쌓이기 쉽고, 먹이사슬을 따라 상위 동물로 갈수록 농도가 높아질 수 있습니다(생물농축). 
+사람은 주로 식품 섭취를 통해 다이옥신에 노출됩니다. 국제암연구소에서는 다이옥신을 1군 발암요인(사람에서 발암성이 확인된 물질)으로 분류합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[발생원/원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[226]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다이옥신은 폐기물 소각 시 불완전 연소, 염소 표백 또는 산불이나 화산 등을 통해 발생합니다. 한국환경공단의 국가 다이옥신 배출계수 및 배출량 자료를 살펴보면 폐기물 소각 및 철강, 비철 금속산업 등이 주요 다이옥신 배출원입니다. 다이옥신은 소각 전 폐기물에 이미 상당량이 포함되어 있을 뿐 아니라, 소각 과정에서 추가로 다량 발생합니다. 폐기물의 다양한 성분 중 특정 화합물은 완전 분해하려면 높은 온도가 필요합니다. 하지만 소각로의 온도가 충분히 높지 않으면 완전히 분해되지 않은 상태로 소각로를 빠져나가 연소 가스 내 다른 물질과 반응해 다이옥신을 생성합니다. 따라서 폐기물을 소각할 때 다이옥신 생성 및 발생을 줄이기 위한 제어 및 관리가 필요합니다.  
+다이옥신은 물에 잘 녹지 않고, 미생물에 의해서도 쉽게 분해되지 않아 자연계에서 한번 생성되면 수십 년간 잔류합니다. 이렇게 생성된 다이옥신은 물과 토양을 오염시켜 채소나 풀에 축적되고, 오염된 채소나 풀을 먹고 자란 가축의 축산물(쇠고기, 돼지고기 등)에 농축됩니다. 다이옥신은 일상생활 중 다양한 경로로 노출되며, 주로 식품 섭취를 통해 체내 지방조직에 축적됩니다. 소각시설 및 살충제 공장 등에서 일하는 근로자는 흡입 및 피부 접촉을 통해 다이옥신에 노출될 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다이옥신이란 염소가 결합된 두 개의 벤젠을 산소가 연결하고 있는 3고리 방향족 화합물들을 총칭합니다. 공통 뼈대에 치환된 염소의 위치와 개수에 따라 약 75종의 PCDD(polychlorinated dibenzo-p-dioxin)와 135종의 PCDF(polychlorinated dibenzofuran)로 분류합니다. 가장 독성이 강한 형태는 2,3,7,8-TCDD(tetrachlorodibenzo-p-dioxin)로, 베트남에서 사용된 고엽제 부산물 속에 극소량 함유되었음에도 유해한 건강 영향을 일으키며 알려지기 시작했습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강문제]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[231]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다이옥신의 독성은 1950년대 및 1960년대 제초제 생산 공장에서 염소성 여드름이 집단 발생해 처음 알려졌습니다. 1976년 이탈리아 세베소 지역에서 화학 공장 누출 사고가 일어나 인근 지역 주민들에게 염소성 여드름이 발생한 사례는 유명합니다.
+
+국제암연구소는 다양한 연구를 근거로 다이옥신을 1군 발암요인(사람에서 발암성이 확인된 물질)으로 분류합니다. 다이옥신은 폐암, 연부조직육종, 림프종 등의 암과 관련성이 높습니다. 또한 만성 노출 시 신경계, 면역계, 내분비계 및 생식계에 영향을 미칩니다. 일부 연구에서는 고혈압, 동맥경화, 당뇨, 신경계 손상 등의 질환과의 연관성 또한 보고되어 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 대처]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[232]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 일상생활 중 개인적 실천방안 
+다이옥신은 쓰레기 소각, 유기물의 연소, 산업 시설 등에서 발생하므로 노출 저감을 위해서는 발생원을 줄여야 합니다. 분리수거를 철저히 하고 일회용품 사용을 피해 쓰레기 발생 자체를 줄여야 합니다. 또한 고무나 비닐 등 연소 시 다이옥신을 생성하는 물질을 함부로 태우지 말아야 합니다. 소각장 근로자 등 직업적 노출이 우려되는 경우에는 작업환경을 적절히 관리해야 합니다. 
+
+2. 사회적 실천방안  
+사회적으로는 다이옥신의 발생을 줄일 수 있는 소각 과정 및 공정, 다이옥신의 환경 배출량을 줄일 수 있는 방지 시설, 오염 방지 및 청정기술에 대한 관심과 노력이 필요합니다. 아울러 관련 당사자 및 일반 소비자가 경각심을 갖고 다이옥신 배출량 및 인체 노출량을 지속적으로 모니터링하며, 폐기물의 발생 억제, 재이용, 재활용, 에너지 회수, 소각, 매립 전 과정을 종합적으로 관리하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[326]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. McGregor, D. B., Partensky, C., Wilbourn, J., &amp; Rice, J. M. (1998). An IARC evaluation of polychlorinated dibenzo-p-dioxins and polychlorinated dibenzofurans as risk factors in human carcinogenesis. Environmental health perspectives, 106(suppl 2), 755-760. 
+2. 한국환경공단. (2025). 국가 다이옥신 배출계수 및 배출량_20241231. 공공데이터포털.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

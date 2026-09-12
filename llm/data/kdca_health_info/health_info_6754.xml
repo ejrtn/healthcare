@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[남성갱년기]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6754]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 남성갱년기는 중년 이후 남성호르몬(테스토스테론)이 감소하면서 나타나는 신체적·정신적 증상으로, 서서히 진행되며 일부는 증상을 느끼지 못하기도 합니다.
+• 주요 원인은 노화이며, 비만, 스트레스, 수면장애, 만성질환 등이 복합적으로 작용해 호르몬 저하를 유발합니다. 
+• 대표 증상은 성욕 저하, 피로, 우울감, 근력 감소, 복부비만 등이며, 혈액 검사로 테스토스테론 수치가 3.5 ng/mL 미만일 경우 진단을 고려합니다. 
+• 치료는 생활습관 개선이 기본이며, 증상이 심할 경우 남성호르몬 보충요법(주사, 겔 등)을 전문의 상담을 통해 시행할 수 있습니다. 
+• 규칙적인 운동, 건강한 식습관, 수면·스트레스 관리, 금연·금주가 증상 예방과 관리에 매우 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[159]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성갱년기란, 중년 이후 남성호르몬(테스토스테론) 분비가 점차 감소하면서 신체적·정신적 변화가 나타나는 상태를 말합니다. 이는 여성의 폐경처럼 갑작스럽게 나타나기보다는 서서히 진행되며, 일부 남성은 뚜렷한 증상을 느끼지 못하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[159]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=199318c27be3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성갱년기의 가장 큰 원인은 노화로 인해 중추신경계와 고환의 기능이 점차 저하되는 것입니다. 여기에 비만, 당뇨병이나 고혈압 같은 만성질환, 지속적인 스트레스, 음주, 수면장애, 스테로이드와 같은 약물 사용 등이 복합적으로 작용해 남성호르몬 수치를 더욱 낮출 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[162]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성호르몬은 보통 30대 후반부터 매년 약 1%씩 서서히 감소하는 것으로 알려져 있습니다. 남성갱년기의 증상은 대개 수년간 점진적으로 나타나지만, 경우에 따라 수개월간의 짧은 기간 내에 급격히 나타나기도 합니다. 이를 방치하면 삶의 질 저하뿐 아니라 성기능 장애, 골다공증, 대사질환 위험 증가 등 다양한 건강 문제로 이어질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[162]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19933737e6b8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[163]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성호르몬은 성기능뿐만 아니라 근육량, 뼈의 밀도, 인지 기능, 심혈관 건강 등 신체와 정신 전반에 중요한 역할을 합니다. 이 호르몬이 부족해지면 성욕 감소는 물론 피로감과 우울감도 함께 나타날 수 있습니다. 또한 근육과 뼈가 약해지고, 복부 지방이 늘어나거나 인슐린 저항성이 높아질 위험도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[한국의 40세에서 80세 사이 성인 남성 1,587명을 대상으로 한 연구에서, 약 10.2%가 남성갱년기 상태에 해당하는 것으로 나타났습니다. 특히 50대 후반부터 남성호르몬 수치가 급격히 떨어지면서 성욕 감소와 발기력 저하가 자주 보고되었고, 당뇨병, 비만, 이상지질혈증 같은 대사 질환과도 밀접한 관련이 있었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2025년에 발표된 대한남성건강갱년기학회 성명서에 따르면, 남성갱년기를 진단하려면 다음 두 가지 기준을 모두 충족해야 합니다.
+1. 임상적으로 의미 있는 증상 존재(예: 성욕 저하, 발기력 저하, 피로, 우울감 등) 
+2. 반복 검사에서 총 테스토스테론 수치가 3.5 ng/mL(약 12.1 nmol/L) 미만으로 낮음
+
+• 3.5 ng/mL라는 수치는 절대적인 진단 기준은 아니며, 임상적인 판단을 돕기 위한 기준일 뿐입니다. 개인마다, 또 하루 중 시간에 따라 테스토스테론 수치가 변동할 수 있고, 성호르몬결합글로불린(SHBG) 수치 변화에 따라서도 해석이 달라질 수 있기 때문입니다.
+• 그래서 혈액 검사는 반드시 오전 7시에서 10시 사이, 공복 상태에서 시행해야 하며, 급성 질환이나 수술 후, 또는 전날 수면 부족 같은 상황에서는 반복 검사가 필요합니다.
+• 총 테스토스테론 수치가 3.5에서 4.0 ng/mL 사이로 경계에 있을 때는 유리 테스토스테론 수치를 추가로 계산해 평가하기도 합니다. 
+• 그리고 자가 설문지(예: ADAM, AMS)는 진단 도구가 아닌 참고용으로만 사용됩니다.
+
+남성갱년기 증상과 비슷하게 나타날 수 있어 구분이 필요한 질환으로는 갑상선 기능 저하증, 우울증, 수면무호흡증, 그리고 만성질환에 따른 전신 피로 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성갱년기와 관련된 주요 질환은 다음과 같습니다.
+• 성기능장애
+• 대사증후군, 2형 당뇨병 
+• 고혈압, 이상지질혈증 
+• 심혈관질환 
+• 골다공증 
+• 우울증 및 불안장애 
+• 수면무호흡증]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성갱년기에서 나타나는 증상들은 남성호르몬 부족과 연관된 전신적인 변화로, 여러 신체와 정신적인 영역에서 다양하게 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c7d9cec26]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c7d640bc9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성갱년기 치료의 목표는 증상을 완화하고 성기능, 신체 기능, 정신 건강을 회복해 전반적인 삶의 질을 높이는 데 있습니다. 치료 방법은 증상의 심각도, 혈중 남성호르몬 수치, 동반 질환 여부, 그리고 환자의 치료 의지와 기대를 모두 고려해 결정합니다. 모든 환자가 반드시 약물 치료를 받아야 하는 것은 아니며, 증상이 가볍거나 호르몬 수치가 경계선에 있을 때는 생활습관 개선 같은 비약물 치료만으로도 증상이 좋아질 수 있습니다. 약물치료(남성호르몬 보충요법)는 진단 기준에 부합하고 증상이 삶에 큰 영향을 줄 때 신중하게 선택하며, 비약물 치료는 모든 환자에게 기본적으로 권장됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성호르몬 보충요법은 감소한 테스토스테론 수치를 보충해 갱년기 증상을 완화하는 치료입니다. 그러나 이 치료는 단순한 호르몬 투여가 아니라, 전문가의 진단과 지속적인 관찰이 반드시 필요합니다. 무분별하게 사용할 경우 심혈관계나 전립선 건강에 부정적인 영향을 줄 수 있어, 전문의와 충분한 상담 후 신중하게 결정해야 합니다. 
+보충요법에는 다양한 제형이 있으며, 주사제, 피부에 바르는 겔(경피겔), 코에 사용하는 나잘겔 등이 대표적입니다. 각각의 제형은 사용법, 흡수 속도, 작용 시간, 부작용 발생 가능성 등이 다르기 때문에, 환자의 생활 패턴이나 선호도, 건강 상태, 약물에 대한 민감성  등을 종합적으로 고려해 적절한 방법을 선택하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198cae3a5c25]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 주사제(근육 주사)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19936a6f7745]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 경피겔(Testosterone Gel)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19936a0d8aa9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 나잘겔(Nasal Gel)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19936a16da33]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성갱년기의 기본 치료 전략은 무엇보다도 생활습관의 적극적인 개선입니다. 이는 약물치료를 받는 경우는 물론, 약물을 사용하지 않는 경우에도 모든 환자에게 권장되는 핵심적인 관리 방법입니다.
+
+다음과 같은 생활습관 개선 항목들이 남성호르몬 유지와 증상 완화에 효과적입니다.
+
+1. 규칙적인 운동 
+• 유산소 운동: 빠르게 걷기, 수영, 자전거 타기 등을 주 3회 이상, 회당 30분 이상 
+• 근력 운동: 팔굽혀펴기, 스쿼트, 아령 운동 등을 주 2~3회 유산소 운동과 병행 
+• 운동은 테스토스테론 수치 유지, 체지방 감소, 골밀도 유지에 효과적
+
+2. 식습관 개선 
+• 권장 식품: 단백질이 풍부한 음식(계란, 콩, 생선), 건강한 지방(견과류, 올리브유), 채소 
+• 주의 식품: 가공식품, 당분이 많은 간식, 트랜스지방 
+• 규칙적인 식사와 필요 시 절식은 인슐린 저항성 및 복부비만 개선에 도움
+
+3. 수면 및 스트레스 관리 
+• 매일 일정한 수면 습관 유지(7~8시간 수면)
+• 요가, 호흡법, 명상 등으로 스트레스 완화
+• 수면무호흡증이나 불면증이 있을 경우 전문가 상담
+
+4. 금주·금연 권장
+• 음주는 남성호르몬 저하, 수면장애, 복부비만 및 심혈관 질환 위험과 밀접하게 관련되어 있으므로 가능한 금주를 권장합니다. 특히 남성호르몬 보충치료 중에는 혈압·수면무호흡 악화 등과 맞물려 치료 효과와 안전성에 부정적일 수 있어 더 엄격한 절제가 필요합니다.
+• 흡연은 테스토스테론 생성을 억제하고 심혈관질환 위험을 높이므로 금연 권장]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[171]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성갱년기를 완전히 피할 수는 없지만, 다음과 같은 생활습관은 증상이 나타나는 시기를 늦추고 진행 속도를 완화할 수 있습니다.
+• 꾸준한 신체활동과 적정한 체중 유지 
+• 만성질환의 예방 및 조기 치료 
+• 금연, 절주, 규칙적인 수면 습관 
+• 정기 건강검진 및 증상의 조기 인지]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성갱년기는 단순히 남성호르몬 수치의 변화만을 의미하는 것이 아니라, 스트레스 관리, 신체활동, 수면의 질, 식습관 등 일상생활 전반과 밀접하게 연관된 복합적인 건강 상태입니다. 다음은 일상에서 쉽게 실천할 수 있는 자가관리 방법과 이를 점검할 수 있는 구체적인 도구들입니다.
+
+1. 증상 일지 작성
+성욕, 발기력, 수면의 질, 피로감, 기분 상태 등을 주간 단위로 기록하면 증상의 변화를 보다 명확히 파악할 수 있어, 필요할 때 의료진과의 상담 시 큰 도움이 됩니다.
+
+2. 생활습관 자가 점검표(예시)
+주 1회 이상 본인의 생활습관을 돌아보며 실천 여부를 점검하는 체크리스트로, 꾸준히 활용하면 스스로 건강 상태를 점검하고 관리하는 데 유용합니다. 자신과의 건강 약속을 확인하는 좋은 도구가 될 수 있습니다.
+
+다음 항목 중 해당되는 날에 ✔ 표시해보세요.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c7dce4dd2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 운동 루틴 예시(기초 수준) 
+신체활동은 테스토스테론 수치 유지, 인슐린 저항성 개선, 체중 조절에 큰 도움이 됩니다. 특히 근력 운동은 노화로 인한 근육 손실을 줄이는 데 매우 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c7dd63075]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 정서적 안정 및 스트레스 관리
+심리적 안정은 남성호르몬 분비뿐만 아니라 전반적인 건강에도 큰 영향을 미칩니다. 간단한 습관을 통해 스트레스를 줄이고 정서적 회복력을 높이는 것이 매우 중요합니다.
+• 하루 10분 정도 복식호흡이나 명상 습관화
+• 좋아하는 음악 듣기, 산책, 독서 등의 활동 지속
+• 우울감이나 불안이 심할 경우 전문적인 심리상담 고려]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198c7d5545c3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 진단]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[173]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성갱년기는 개인마다 증상의 양상과 심각도가 다르기 때문에, 조기에 자신의 상태를 인지하고 적절히 대응하는 것이 매우 중요합니다. 특히 성기능 변화, 피로감, 정서적 변화 등은 노화나 스트레스와 혼동되기 쉽기 때문에, 자신의 상태를 객관적으로 점검할 수 있는 자가진단이 큰 도움이 됩니다.
+
+다음은 남성호르몬 저하와 관련된 대표적인 증상으로, 이 중 2가지 이상에 해당된다면 전문의와 상담하는 것을 권장합니다.
+① 최근 몇 개월 간 성욕이 현저히 줄었다. 
+② 아침 발기가 잘 일어나지 않는다. 
+③ 쉽게 피로하거나 의욕이 없다. 
+④ 근력이 약해진 느낌이 든다. 
+⑤ 이유 없이 우울하거나 짜증이 늘었다. 
+⑥ 체중이 늘고 복부에 살이 찌는 느낌이다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[남성갱년기의 증상은 자연스러운 노화 과정과 혼동되기 쉽지만, 증상이 삶의 질을 크게 떨어뜨리거나 다른 건강 문제와 연관될 경우에는 반드시 전문의의 진료가 필요합니다. 
+다음과 같은 증상이 반복되고 지속된다면 비뇨의학과, 내분비내과, 또는 가정의학과 방문을 고려해 보시길 권장합니다.
+• 성욕 저하, 피로감, 감정 기복 등으로 일상생활에 어려움을 겪을 때
+• 발기력 저하, 수면 장애, 근육 약화 등 여러 증상이 함께 나타날 때
+• 체중이 급격히 늘거나 복부비만이 뚜렷해지고, 기존의 당뇨병, 고혈압, 이상지질혈증 같은 만성질환 관리가 어려워질 때
+• 우울감이나 의욕 저하가 지속되어 대인관계나 직장생활에 영향을 미칠 때
+• 건강검진에서 남성호르몬 수치가 낮게 확인되었거나 전립선 질환 소견이 함께 있을 때]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[175]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 남성갱년기는 보통 몇 살부터 시작하나요? 
+
+A. 대개 40대 후반~50대 중반부터 시작됩니다.
+
+Q. 모든 남성이 갱년기를 겪나요?
+
+A. 아닙니다. 약 10~20%만이 임상적으로 유의미한 증상을 보입니다.
+
+Q. 성욕이 줄어들면 무조건 갱년기인가요? 
+
+A. 피로, 우울, 관계 갈등 등 다양한 원인이 있어 감별이 필요합니다.
+
+Q. 남성호르몬(테스토스테론) 치료는 평생 하나요? 
+
+A. 반드시 그렇지는 않으며, 치료 목표 달성 후 중단하거나 조절할 수 있습니다.
+
+Q. 자연적으로 회복되기도 하나요? 
+
+A. 생활습관 개선만으로 회복되는 경우도 있습니다. 하지만, 일부 증상의 호전이 회복을 의미하는 것은 아니므로 전문가와의 상담이 필요합니다.
+
+Q. 남성갱년기와 우울증은 어떻게 구분하나요? 
+
+A. 혈중 테스토스테론 수치 측정 및 전반적 임상 평가가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한남성과학회. (2016). 남성과학 (제3판). 군자출판사.
+2. 대한비뇨의학회. (2024). 비뇨의학 (제7판). 일조각.
+3. Ahn, S. T., Kim, Y. S., Yu, S. H., &amp; Chung, Y. S. (2025). Male hypogonadism: The Korean Society of Men's Health and Aging position statement. World Journal of Men's Health, 43(3), 492–509.
+4. Moon, D. G., &amp; Park, H. J. (2019). The ideal goal of testosterone replacement therapy: Maintaining testosterone levels or managing symptoms? Journal of Clinical Medicine, 8(3), 362.
+5. Moon, D. G., Kim, J. W., Kim, J. J., Park, K. S., Park, J. K., Park, N. C., Kim, S. W., &amp; Lee, S. W. (2014). Prevalence of symptoms and associated comorbidities of testosterone deficiency syndrome in the Korean general population. The Journal of Sexual Medicine, 11(2), 583–594.
+6. Salonia, A., Boeri, L., Capogrosso, P., et al. (2025). EAU guidelines on sexual and reproductive health. European Association of Urology. https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-Guidelines-on-Sexual-and-Reproductive-Health-2025.pdf]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

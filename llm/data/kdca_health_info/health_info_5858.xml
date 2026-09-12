@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[복부 팽만]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5858]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+
+복부 팽만감은 배가 팽창된 느낌으로, 약 10~30%의 사람들이 경험하는 흔한 증상입니다.
+기능성 위장관 질환(과민 장증후군 등)뿐만 아니라 염증 장질환, 장 폐쇄, 간경화증 등의 질환과 특정 음식이나 약물 부작용도 원인일 수 있습니다.
+복부 팽만이 발생할 경우, 특히 증상이 갑자기 심해지거나 지속적일 경우에는 병원을 방문하여 원인을 확인하고, 필요한 치료를 받아야 합니다.
+자가 관리로는 가스를 생성하는 음식을 피하고, 과식을 하지 않고 소량씩 자주 먹는 것이 좋으며, 규칙적인 운동이 도움이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복부 팽만감(bloating)은 마치 배에 풍선이 들어 있는 것처럼 배가 팽창된 느낌을 말하며, 주관적인 증상에 해당합니다. 복부 팽만(distension)은 팽창된 복부를 실제 육안으로 확인할 수 있는 경우, 즉 객관적인 징후를 말합니다. 팽만감은 전체 인구의 약 10~30%가 경험하는 흔한 증상이며, 팽만감 및 팽만은 기능성 소화불량증, 과민 장증후군 등 기능성 위장관 질환에서 흔히 나타날 수 있습니다. 하지만 장마비, 감염 장염, 장 허혈, 간경화, 소화기관 종양 등 다양한 기질적 질환에서도 나타날 수 있으므로 이러한 원인에 대한 확인이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[159]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기능성 위장관 질환을 진단하는 데 가장 많이 쓰이는 기준은 2016년 로마 기준입니다. 이 기준에서는 주관적 증상인 복부 팽만감과 객관적 징후인 복부 팽만을 하나의 단위로 묶어 ‘기능성 복부 팽만감/팽만’으로 진단명을 부여하고, 기능성 장질환 그룹의 네 번째 질환으로 분류했습니다. 최소 6개월 전에 증상이 발생하여 최근 3개월 동안 지속적으로 존재했고, 1주일에 하루 이상 증상이 있을 때 ‘기능성 복부 팽만감/팽만’ 진단을 붙일 수 있습니다. 또한 증상은 기능성 소화불량, 과민 장증후군이나 다른 기능성 위장관 질환의 기준에 부합하지 않아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복부 팽만을 일으키는 원인은 매우 다양합니다. 만성적인 복부 팽만은 기능성 소화불량, 과민 장증후군, 변비 등의 기능성 위장관 질환과 관련이 높습니다. 하지만 염증 장질환, 장 폐쇄, 소화기관 종양 등도 복부 팽만을 일으킬 수 있습니다. 복강 내에 복수가 차면 팽만이 생기므로 복수를 일으키는 간경화증, 심부전, 신부전 등의 질환도 원인이 될 수 있습니다. 또한 가스를 많이 만드는 음식의 영향이나 특정 약 부작용으로도 복부 팽만감이 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1935e503f2a8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[163]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복부 팽만은 여러 요인들이 복합적으로 작용해 생기는 것으로 알려져 있습니다. 증상이 있는 환자는 대개 장 내부에 가스가 과도하게 차는 것이 원인이라 생각하지만, 이는 일부 원인일 뿐입니다. 장내 세균의 과다 증식과 젖당, 과당 등 탄수화물에 대한 불내성(intolerance)도 원인으로 작용할 수 있습니다. 장내 미생물의 불균형으로 장의 감각 및 운동 기능에 문제가 생기거나 장내 가스의 양과 종류에 변화가 생기는 것 역시 팽만감을 일으킬 수 있습니다. 장 운동 기능의 이상으로 장내 물질과 가스의 이동이 원활하게 이루어지지 못하는 것도 원인으로 꼽힙니다.
+
+또 다른 원인으로 내장 과민성이 있습니다. 동일한 정도의 장내 상태라도 내장과 연결된 신경의 과민성으로 인해 증상에 차이가 생깁니다. 내장 과민성이 높은 사람은 약간의 변화만으로도 팽만한 느낌이 발생하는 것입니다. 장내 내용물이나 가스가 많아지면 일반적으로 복부 근육은 수축하고 횡격막이 이완되어 복강의 용적이 늘어나는데, 복부 팽만을 호소하는 환자에서는 이러한 내장-체성 반응에 이상이 생겨 복강의 용적이 적절히 늘어나지 못하고 불편감이 생기기도 합니다.
+
+내장 이외 기관도 팽만감 발생에 영향을 미칠 수 있습니다. 비만으로 복강 내 지방이 과다하게 축적되면 감각 신경을 자극하고 염증 반응을 일으켜 내장 과민성을 악화시킬 수 있습니다. 여성에선 생리 주기에 따라 종종 팽만감이 나타나곤 합니다. 이와 같이 다양한 기전을 통해 복부 팽만이 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[미국에선 일반 인구의 15~30% 정도가 팽만감 증상을 경험한 것으로 보고된 바 있으며, 아시아에서 이루어진 연구에서도 15~23% 정도의 유병률을 보여 인종 간에 큰 차이는 없을 것으로 보입니다. 의원 혹은 3차 병원을 방문한 환자를 대상으로 한 국내 연구에서 팽만감의 유병률은 13.3%였습니다. 
+
+2016년 로마 기준에 따른 기능성 위장관 질환 국제 유병률 조사 결과가 2021년에 발표되었습니다. 33개국에서 이루어진 이 조사에서 ‘기능성 복부 팽만감/팽만’은 1.2~3.5%의 유병률을 보였으며, 우리나라의 경우 2.1%였습니다. 로마 기준에서 ‘기능성 복부 팽만감/팽만’ 진단은 다소 엄격한 기준에 따라 이루어지므로 기존의 단순 증상에 대한 유병률은 이보다 더 높을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[팽만감이 오래 지속되는 경우 우선 기질적인 원인이 있는지를 확인하는 것이 중요합니다. 복부 팽만이 갑자기 생겨 악화된 경우엔 염증 장질환이나 장 폐쇄 등의 급성 질환에 의한 것이 아닌지 확인할 필요가 있습니다. 일상생활에 영향을 미칠 정도로 증상이 심하거나 혈변, 만져지는 복부의 덩어리, 황달, 빈혈, 체중 감소 등의 증상이 동반된다면 원인을 찾기 위한 정밀 검사를 받아야 합니다.
+
+각각의 상황에 맞게 혈액 검사, 복부 X선 검사, 복부 초음파, 컴퓨터단층촬영(Computed Tomography, CT) 등의 영상 검사와 내시경 검사 등을 적절히 선택해 진단에 도움을 받을 수 있습니다. 최근에는 복부 팽만의 원인으로 지목되는 젖당, 과당 등에 대한 불내성과 소화 장애를 평가하기 위한 호기 검사를 시행하는 경우도 있습니다. 기능성 위장관 질환은 기질적 질환이 배제된 뒤, 증상을 통해 진단할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[팽만감을 일으키는 가장 흔한 질환은 기능성 위장관 질환입니다. 기능성 위장관 질환 환자의 절반 정도에서 팽만감을 경험하는 것으로 알려져 있습니다. 하지만 기질적 질환을 시사하는 증상이 있는지를 잘 살펴야 합니다. 체중 감소가 있다면 악성 종양을 의심할 수 있으며, 구역질이나 구토가 동반된다면 염증 장질환, 장 폐쇄 등을 감별해야 합니다. 복수로 인한 팽만이 의심된다면 복수를 일으키는 간경화증, 심부전, 신부전 등의 질환에 대해 확인해야 할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[팽만감과 함께 복통이나 변비를 경험하는 경우가 많습니다. 트림, 신물, 구역질 등의 소화기 증상도 종종 동반됩니다. 복부 팽만이 심한 경우엔 횡격막과 폐를 압박해 숨이 찰 수도 있습니다. 만성적인 복부 팽만과 통증은 삶의 질에도 나쁜 영향을 줄 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[복부 팽만의 원인은 매우 다양하기 때문에 모든 환자의 증상을 한 번에 해결하는 치료법을 찾는 것은 쉽지 않습니다. 각각의 의심되는 원인을 고려한 맞춤 치료가 필요합니다. 무엇보다 중요한 것은 기질적인 질환이 원인인 경우, 해당 질환에 대한 치료가 우선되어야 합니다. 기능적인 복부 팽만에 대한 치료는 다음 내용과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일부 위장관 운동 촉진제가 도움이 될 수 있습니다. 프루칼로프라이드(Prucalopride)는 세로토닌 수용체에 작용해 변비형 과민 장증후군 환자에서 변비와 팽만감을 줄이는 데 효과가 있습니다. 루비프로스톤(Lubiprostone), 리나클로타이드(Linaclotide) 등 최근 개발된 약제 역시 장액 분비를 유도하고 장의 연동 운동을 촉진시키는 기전을 통해 효과를 보이는 것으로 알려져 있습니다.
+
+복부 팽만과 동반된 변비가 있다면 배변 완화제가 도움이 될 수 있습니다. 내장 과민성을 줄이는 목적으로 진경제와 같은 장 운동 억제 약물을 사용하는 경우도 있지만 팽만감에 특이적으로 작용한다는 근거가 충분하진 않고 연구에 따라 다른 결과를 보이기도 합니다. 항우울제 역시 내장 과민성을 줄이는 데 도움이 될 수 있지만 부작용에 주의해 사용할 필요가 있습니다. 
+
+유산균으로 알려진 프로바이오틱스(Probiotics)는 장내 발효, 점막 염증 및 내장 과민성을 조절해 팽만감을 줄이는 것으로 알려졌습니다. 일부 연구에서 효과를 보였지만 잘 설계된 연구가 부족하고 연구에 따라 결과에 차이를 보이기도 해 추가적인 연구가 필요합니다.
+
+장내 세균에 의한 음식물의 발효가 가스 생성의 주된 원인이므로 이러한 세균의 증식을 줄이는 것이 팽만감 개선에 도움이 될 수 있지만 가스를 만드는 세균만 골라서 없애기는 쉽지 않습니다. 그럼에도 불구하고 장에서 체내로 거의 흡수되지 않는 항생제인 리팍시민(Rifaximin)은 과민 장증후군과 관련된 팽만감을 줄이는 것으로 알려져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[식사요법이 중요합니다. 발효로 인해 가스를 과도하게 만들거나 증상을 악화시키는 음식을 피하는 것이 도움이 될 수 있습니다. 솔비톨 등 흡수가 잘 되지 않는 인공 감미료는 피하는 것이 좋습니다. 유제품에 대한 소화 능력이 떨어지는 경우에는 유제품을 피해야 합니다. 과도한 섬유질의 섭취 역시 팽만감을 일으킬 수 있으므로 적당한 양의 섭취를 권장합니다.
+
+최근에는 기능성 팽만감을 호소하는 과민 장증후군 환자에서 포드맙 함량을 낮춘 저포드맙 식이가 각광을 받고 있습니다. 포드맙(Fermentable oligosaccharides, Disaccharides, Monosaccharides, and Polyols, FODMAPs)은 장내 세균에 의해 발효되는 올리고당, 이당류, 단당류, 폴리올 등 저분자 탄수화물을 말합니다. 소장에서 흡수되지 않고 미생물에 의해 발효되어 가스를 생성하며, 삼투압에 의해 대장 내 수분 증가 및 대장 내강의 확장을 일으킵니다. 이런 포드맙이 많이 포함된 음식을 제한하여 섭취하면 복부 팽만감이 좋아진다고 합니다. 저포드맙 식이에 대해서는 과민 장증후군 치료 관련 정보(링크)에서 좀더 구체적인 내용을 확인할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1935e515e642]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[앞에서 언급한 내장-체성 반응 이상이 있는 경우, 바이오피드백 치료가 도움이 될 수 있습니다. 이 치료에서는 환자의 복벽 근육 활동을 시각적으로 보여주는 장치를 통해 전 복근의 활동을 늘리고 횡격막과 늑간근을 이완시켜 복강 내부의 부피를 늘리는 연습을 하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[가스를 많이 만들거나 증상을 악화시키는 음식은 피합니다. 식사 후 팽만감이 심하다면 과식을 피하고 조금씩 자주 먹는 습관이 좋습니다. 규칙적인 운동이 증상 완화에 도움이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[팽만감이 갑자기 생겨 빠르게 악화된 경우, 점점 심해지는 경우, 일상생활에 영향을 미칠 정도로 심한 경우에는 정확한 원인을 찾기 위해 진료를 받는 것이 좋습니다. 혈변, 만져지는 복부의 덩어리, 황달, 빈혈, 체중 감소 등의 증상이 동반된 경우에도 원인을 찾기 위한 정밀 검사가 필요할 수 있으므로 병원을 방문해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 이현직, 박경식 (2017). 팽만감. Korean J Gastroenterol.70(6),288-95. 
+
+2. Lacy BE, Cangemi D, Vazquez-Roque M (2021). Management of chronic abdominal distension and bloating. Clin Gastroenterol Hepatol.19,219-31.e1. 
+
+3. Sperber AD, Bangdiwala SI, Drossman DA, Ghoshal UC, Simren M, Tack J,... Palsson OS (2021). Worldwide Prevalence and Burden of Functional Gastrointestinal Disorders, Results of Rome Foundation Global Study. Gastroenterology.160(1),99-114.e3.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

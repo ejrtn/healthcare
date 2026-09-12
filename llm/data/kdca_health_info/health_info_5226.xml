@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[노안]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5226]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 노안은 나이가 들면서 수정체의 탄력이 감소해 근거리 시력이 떨어지는 자연스러운 변화로, 40대 초반부터 증상이 나타나고 60대까지 진행됩니다.
+• 주요 원인은 수정체의 조절력이 감소하는 것으로, 그로 인해 근거리 작업을 할 때 불편함을 느끼게 됩니다.
+• 근시는 노안 증상이 늦게 나타나는 경향이 있는 반면, 원시는 일찍 나타납니다.
+• 기본적인 치료는 근거리용 안경을 사용하는 것이며, 이중초점렌즈나 누진다초점렌즈도 도움이 될 수 있습니다.
+• 수술적 치료 방법도 있지만, 이는 신중한 결정이 필요하고, 예방 방법은 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[노안은 수정체의 탄력이 감소되어 근거리 시력이 떨어지는 눈의 변화로, 나이가 들면서 생기는 자연스러운 현상이며 비가역적입니다. 보통 40대 초반부터 증상을 느끼기 시작하고, 60대까지 증상이 점점 심해집니다. 근거리용 안경을 이용하는 것이 기본적인 치료입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[159]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[노안은 나이가 들면서 수정체의 탄력이 떨어져 근거리를 보는 능력에 장애가 발생하는 현상을 의미합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[먼 곳을 보다가 가까운 곳을 볼 수 있는 것은 우리 눈이 조절을 하기 때문입니다. 조절이란 수정체의 중심부가 두꺼워지면서 굴절력을 증가시켜 가까운 사물을 보는 과정을 말합니다. 나이가 들수록 최대조절력이 감소하여 노안이 발생하고, 이는 섬모체(수정체의 양끝에서 수정체의 굴절력을 조절하는 근육이 존재) 기능 저하, 수정체의 탄력성 저하, 수정체의 비대 등과 관련이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf227407]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[최대조절력의 감소에 따라 근점거리(조절을 최대로 했을 때 사물을 명확하게 볼 수 있는 눈에서 가장 가까운 거리)가 멀어지고, 근점거리가 25 cm 이상이 되면 근거리 작업에 불편을 느끼며 노안 증상을 느끼기 시작합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf227151]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[본래 지니고 있는 굴절 이상의 정도와 관계없이 나이가 들수록 조절력은 감소하지만 개인마다 노안의 발생과 진행에 차이가 있을 수 있습니다. 보통 정시는 40대부터 노안 증상을 느낍니다. 그러나 근시는 안경을 벗거나 안경 도수를 낮추어 노안을 보상할 수 있기 때문에 노안 증상을 다소 늦게 느낄 수 있습니다. 원시는 조절력 감퇴로 인한 노안 현상을 더 일찍 느낍니다.
+다음과 같은 약물 사용이나 안질환에서도 노안 증상이 발생할 수 있습니다.
+- 산동 혹은 조절마비를 일으키는 안약 점안
+ - 산동 혹은 조절마비를 유발하는 약제 복용 혹은 접촉: 항콜린제(anticholinergics), 코카인, 항우울제, 멀미에 의한 구역 구토의 예방에 사용하는 스코폴라민(scopolamine) 성분의 약품을 복용하거나 귀 뒤에 붙일 경우 등 
+ - 섬모체띠, 섬모체근의 손상이 발생한 경우: 외상, 염증, 급성폐쇄각녹내장 등]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[162]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[보통 40대 초반부터 근거리 시력저하를 느끼기 시작하여 60대까지 노안이 진행되면 점점 더 근거리가 덜 보이게 됩니다. 60대에 조절력이 거의 남지 않게 되면, 이후 노안 증상은 더 이상 악화되지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[노안의 빈도는 노안을 정의하는 기준에 따라 다르지만, 원거리 시력은 0.5 이상이면서 근거리 시력이 0.4 이하인 경우로 정의하였을 때, 35~39세에서는 약 30%, 40세 이상에서는 약 70%의 대상자가 노안에 해당된다로 보고된 바 있습니다. 노안은 다양한 방법으로 교정이 가능하지만 인식 부족으로 선진국에서도 50세 이상 인구의 약 34%가 교정받지 못하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[문진을 통해 근거리 시력저하를 확인하고, 굴절검사를 시행하여 굴절이상을 교정한 후 원거리 및 근거리 시력을 측정합니다. 노안은 원거리 시력보다 근거리 시력이 나쁘고, 굴절이상을 교정한 렌즈에 볼록렌즈를 추가하여 근거리 시력표를 보게 했을 때 환자의 시력장애가 호전될 경우에 진단할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흔히 근거리 물체가 잘 보이지 않는 것만을 노안의 증상이라고 생각하지만, 수정체의 탄력성 감소에 따른 다양한 증상이 나타날 수 있습니다. 수정체는 먼 곳의 물체를 볼 때 가장 얇고 가까이 볼수록 두께가 증가해(조절, 굴절력  증가) 초점을 맞추는 역할을 하는데, 나이가 들면서 조절력이 감소하고 두께가 변하는 속도 자체도 늦어집니다. 또한 처음엔 가까운 물체에 초점이 맞는다 하더라도 그 상태를 유지하는 시간이 점점 줄어들게 됩니다. 따라서 노안은 수정체의 전반적인 기능 저하로 생각할 수 있고, 이에 따라 아래와 같은 증상들이 생길 수 있습니다.
+
+
+- 정상적인 독서 거리에서 글씨나 작은 물체가 잘 보이지 않음
+
+- 특히 피곤하거나 조명이 어두운 곳에서 가까운 거리의 물체를 보기가 어려움(어두운 환경에서 처음 노안 증상을 느끼는 경우가 흔함)
+
+- 책이나 스마트폰을 멀리 두어야 더 또렷하게 보임
+
+- 독서나 작은 물체를 이용한 작업 중 일정 시간 지나면 흐려지고 눈의 피로 혹은 두통을 느낌
+- 먼 곳과 가까운 곳을 교대로 볼 때 초점 전환이 느림]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf2275a7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[노안은 노화에 따른 자연스러운 현상입니다. 현대인은 스마트폰, 컴퓨터 작업 등 근거리 작업을 많이 하므로 노안에 의한 불편을 경감시키는 것이 치료의 목적입니다. 
+
+1. 습관 및 환경 개선
+주변 조명을 더 밝히면 동공이 축소되면서 초점 심도가 높아지므로 초기 노안 증상에 도움이 될 수 있습니다. 큰 글씨로 된 책을 보거나 컴퓨터 화면이나 스마트폰의 글씨와 그림을 확대 설정하는 것도 좋습니다. 또한 근거리 작업 중간중간 쉬는 시간을 많이 갖도록 합니다.
+약한 근시가 있는 눈은 안경을 벗으면 가까운 곳이 잘 보이기 때문에 단순히 안경을 벗는 것만으로도 노안 증상을 어느 정도 해결할 수 있습니다. 근시 안경(특히 고도근시)을 쓰는 사람들이 안경을 눈에서 멀리, 코 끝에 걸게 되면 안경 도수를 낮추는 효과가 있으므로 어느 정도 근거리 안경의 역할을 할 수 있습니다. 따라서 근시가 있는 사람들은 위와 같은 일종의 편법으로 가까운 곳의 물체를 볼 수 있으므로 상대적으로 노안이 늦게 온다고 느끼게 됩니다.
+
+2. 광학적 교정
+노안의 가장 기본이 되는 치료는 근거리 시력교정을 위한 안경(흔히 돋보기라 부름) 처방입니다. 근거리용 안경처방을 위해서는 원거리 안경도수(매우 멀리 있는 물체를 보고 있어 조절을 전혀 하지 않을 때 눈의 굴절력 측정치)를 정확하게 측정해야 하며, 이에 기초해 일정량의 볼록렌즈를 추가하여 제작합니다. 각 개인의 근거리 작업 거리, 연령, 팔 길이 등을 참조하며, 특히 남아 있는 조절력을 고려해 최소한의 볼록렌즈로 선명하고 안락한 근거리 시력을 얻을 수 있도록 근거리용 도수를 정합니다.
+노안 교정을 위해서는 필요에 따라 원거리용, 근거리용 안경을 따로 사용하거나, 이중초점 혹은 누진다초점렌즈 안경을 착용할 수 있습니다. 이중초점 혹은 누진다초점렌즈는 안경의 윗부분으로는 원거리, 아래부분으로는 근거리를 볼 수 있게 다른 굴절력의 렌즈를 합친 것으로, 거리에 따라 여러 개의 안경을 구비해야 하는 번거로움을 줄여줍니다. 한쪽 눈은 원거리, 반대쪽 눈은 근거리가 잘 보이도록 안경이나 콘택트렌즈를 사용하는 단안시(monovision) 방식의 교정도 일부 환자에서 효과적입니다.
+
+1) 단초점렌즈
+원거리용 안경이 필요 없는 정시는 근거리를 볼 때 근거리용 돋보기 안경만 착용하면 됩니다. 원거리에서 교정안경이 필요한 근시나 원시는 원거리용 안경 이외에 근거리용 안경이 따로 필요합니다.
+- 장점: 단초점렌즈는 어느 부위나 같은 도수로 근거리 작업에 시야가 가장 좋고 머리 방향이나 시선에 따른 영향을 덜 받습니다.
+- 단점: 중간거리나 원거리는 초점이 맞지 않기 때문에 거리에 따른 안경을 따로 구비해야 합니다.
+
+
+2) 이중초점렌즈
+이중초점렌즈는 한 렌즈에 원거리 및 근거리용으로 사용하는 구역(원용부 및 근용부)이 명확히 구분되어 있습니다.
+- 장점: 하나의 안경으로 원거리와 근거리 사물을 선명하게 볼 수 있으며, 누진다초점렌즈보다 시야가 넓고 주변주 흐림이 적으며 상대적으로 비용이 저렴합니다.
+- 단점: 중간거리의 사물은 잘 보이지 않을 수 있으며 구역의 경계에서 사물의 위치가 수직으로 급격히 변하고(이미지 점프), 타인이 보았을 때 원용부와 근용부의 경계선이 명확하게 보이기 때문에 미용적 효과가 떨어집니다.
+
+
+3) 누진다초점렌즈
+누진굴절력렌즈, 연속초점렌즈, 다초점렌즈 등으로도 불립니다. 누진다초점렌즈는 원거리와 근거리 구역 중간에 누진대가 있으며 이중초점렌즈와 비교해 보통 원용부 중심에서 근용부 중심까지 거리가 깁니다. 누진대는 원용부인 위쪽에서부터 근용부인 아래쪽까지 서서히 도수를 높여 만들어져 있으며 상하 시선에 따라 어느 거리에 있는 대상도 잘 볼 수 있습니다.
+컴퓨터와 같은 중간거리 작업이 중요한 현대 생활에 있어 보다 적합한 렌즈로 평가되고 있고, 실제 최근 사용량이 계속 증가하고 있습니다.
+- 장점: 이중초점렌즈에서 보일 수 있는 경계부위의 사물 갈라짐이 없고, 어느 거리의 물체도 잘 볼 수 있으며, 렌즈 경계선이 보이지 않아 심미적으로 좋습니다.
+- 단점: 렌즈내 위치에 따라 초점이 잘 맞는 거리가 다르기 때문에 사물의 거리에 따른 머리 방향과 시선의 위치를 적응하는데 시간이 오래 걸릴 수 있고, 이중초점렌즈와 마찬가지로 근용부가 아래쪽에 위치해 있어 누워서 책을 보기가 힘들거나 목이 너무 젖혀져 목이 아픈 증상을 호소하기도 합니다. 또한 또렷하게 보이는 시야가 좁고 주변부로 보면 상이 흐리게 보이거나 변형되어 보이며 가격이 상대적으로 비쌉니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf227834]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 수술적 요법
+엑시머레이저나 고주파를 이용한 각막수술, 각막인레이를 삽입하는 수술 등 각막 수술을 통한 방법, 백내장 수술과 동시에 다초점인공수정체를 삽입하는 방법 등 수정체를 통해 노안을 교정하는 여러가지 수술적 방법이 소개되고 있습니다. 수술은 안경이나 콘택트렌즈 착용과 달리 결과가 만족스럽지 않아도 되돌릴 수 없거나 재수술을 받아야 하기 때문에 신중하게 결정해야 합니다.  수술마다 장단점이 있으며 수술 후 발생할 수 있는 합병증을 충분히 이해해야 하므로 안과 전문의와 충분히 상담하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[171]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[현재 노안을 예방할 수 있는 방법은 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[노안은 연령의 증가와 함께 오는 자연적인 현상이나, 시력저하는 노안 이외의 다른  원인질환의 가능성이 있을  수 있으므로 안과 전문의의 진료가 필요합니다.
+아래와 같은 증상이 있는 경우에는 단순한 노안 증상이라기 보다 다른 원인질환의 가능성이 있습니다.
+- 갑자기 한쪽 눈의 근거리 시력이 떨어지는 경우
+- 갑자기 흐릿하게 보이거나 커튼으로 가린 것처럼 보이는 경우
+- 갑자기 근거리 시력 저하와 겹쳐서 보이는 복시가 함께 생긴 경우]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 김현승, 김효명, 성공제, 유영석. (2020). 안과학 (제12판). 일조각. 
+2. Caglayan HZ, Colpak IA, Kansu T. (2013). A diagnostic challenge: dilated pupil. Curr Opin Ophthalmol, 24(6), 550-557.
+3. Davidson RS, Dhaliwal D, Hamilton DR, Jackson M, Patterson L, Stonecipher K, et al. (2016). Surgical correction of presbyopia. J Cataract Refract Surg, 42(6), 920-930.
+4. Donaldson PJ, Grey AC, Maceo Heilman B, Lim JC, Vaghefi E. (2017). The physiological optics of the lens. Prog Retin Eye Res, 56 e1-e24.
+5. Mahrous A, Ciralsky JB, Lai EC. (2018). Revisiting monovision for presbyopia. Curr Opin Ophthalmol, 29(4), 13-317.
+6. Muhit M, Minto H, Parvin A, Jadoon MZ, Islam J, Yasmin S, et al. (2018). Prevalence of refractive error, presbyopia, and unmet need of spectacle coverage in a northern district of Bangladesh: Rapid Assessment of Refractive Error study. Ophthalmic Epidemiol, 25(2), 126-132.
+7. Wolffsohn JS, Davies LN. (2019). Presbyopia: Effectiveness of correction strategies. Prog Retin Eye Res, 68, 124-143.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[뼈스캔]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6278]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뼈스캔(Bone scintigraphy, Bone Scan)은 뼈에 잘 흡수되는 방사성의약품을 정맥주사 후 몸 속에 퍼져있는 방사성의약품에서 방출되는 감마선을 검출하여 체내에서 일어나는 골대사의 변화를 영상으로 평가하고 질병을 진단하는 검사입니다.
+암환자에서 뼈 전이를 진단하는 데 많이 이용되며, 뼈의 외상이나 골관절염 및 골 감염(또는 골수염) 등의 진단에도 이용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b291110732]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뼈스캔용 방사성의약품은 99mTc라는 동위원소로 표지한 이인산염제제들(dicarboxypropane diphosphonate 또는 DPD, methylene diphosphonate 또는 MDP, hydroxymethylene diphosphonate 또는 HDP)이 많이 이용되고 있습니다.
+
+정맥주사된 이인산염제제는 혈류를 타고 체내에 골고루 퍼졌다가 뼈의 무기질 부위의 칼슘과 반응하여 뼈에 선택적으로 섭취됩니다.  
+
+이때 뼈의 혈류와 뼈의 재구축 및 교체율 등의 생화학적, 생리적 인자에 의해 섭취 정도가 결정됩니다. 뼈에 암세포가 전이되거나 골질환에 의해서 뼈의 재구축과 교체율이 증가되면 해당 부위에 방사성의약품의 섭취가 높아집니다.
+뼈에 섭취되지 않은 방사성의약품은 콩팥을 통해서 소변으로 배설됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뼈스캔은 전신의 뼈에서 골대사의 이상소견을 영상으로 확인하는데 이용되며, 다음과 같은 임상 목적으로 주로 이용됩니다.
+
+1. 뼈 전이 진단 
+뼈는 암(악성종양)의 전이가 가장 많이 일어나는 장기 중 하나입니다. 뼈 전이가 흔한 암, 예를 들어 유방암, 전립선암, 폐암, 위장관암, 비뇨기계암, 신경계종양(신경모세포종), 여성생식기암, 흑색종, 갑상선암, 두경부암 등을 진단하기 위해 자주 이용됩니다.
+
+2. 뼈 외상 진단 
+골절(뼈가 부러짐)의 80%는 부상 후 24시간 이내에 뼈스캔에 이상 집적이 관찰되므로 방사선사진으로 진단이 곤란한 경우에 뼈스캔이 이용됩니다.  
+
+
+3. 골관절염 진단 
+뼈스캔은 관절의 혈류 증가, 골 대사 증가 등 골관절염의 초기 생리적 변화를 보여주기 때문에, X-ray에서 이상소견이 나타나기 전에 먼저 이상소견을 보이는 경우가 많아 골관절염의 진단에 이용됩니다.
+
+4. 골 감염(또는 골수염) 진단 
+골 감염 또는 골수염의 초기에는 X-ray 소견만으로 진단하기 어려운 경우가 많습니다. 그러나 뼈스캔에서는 증상이 나타나고 수 시간에서 수일 이내에 섭취 증가가 나타나기 때문에 진단에 이용됩니다.
+
+
+5. 기타 
+뼈스캔은 그 외 원발성 골종양, 골수질환, 무혈성 괴사, 이식뼈의 생존능 검사, 대사성 골질환, 척추질환 등 다양한 골질환의 진단에 이용되며, 이외에도 이영양성 석회화, 횡문근용해증과 같은 질환의 진단에도 이용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b2913569d5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[병원에서 시행되는 뼈스캔의 과정은 검사와 관련된 문진 및 주의사항 설명, 방사성의약품의 정맥주사, 촬영 전까지의 대기, 촬영 직전의 배뇨, 촬영으로 요약할 수 있습니다. 각 과정별 개요는 다음과 같습니다.
+
+1. 문진
+뼈스캔의 영상에서는 뼈 전이 여부 및 치료 후 병변의 변화 확인이	가능할 뿐만 아니라, 최근에 일어난 외상(상처)도 쉽게 관찰됩니다. 따라서 정확한 판독을 위하여 최근에 일어난 외상이나 타박상, 수술, 암 치료 과정에 관한 정보를 통해 보다 정확한 판독을 할 수 있습니다. 
+
+
+2. 방사성의약품의 정맥주사
+문진 후 뼈스캔을 하기 위해 주사를 맞게 됩니다. 뼈에 선택적으로 흡수되는 방사성의약품은 정맥주사를 통해서 체내에 주입됩니다. 각 병원마다 이를 위한 전용 공간이 마련되어 있는데, 일반적으로 핵의학과 주사실에서 시행됩니다.  
+
+
+3. 뼈에 흡수되기 위한 대기와 수분 섭취
+
+정맥주사된 방사성의약품이 전신의 뼈에 골고루 충분히 흡수되기 위해서는 일정 시간이 필요합니다. 정확한 대기 시간은 병원마다 약간의 차이가 있을 수 있지만, 일반적으로 2시간에서 5시간 사이입니다. 그래서 많은 병원에서는 오전에 방사성의약품을 주사하고, 그 후 2시간에서 5시간 동안 대기한 후에 촬영을 합니다.
+
+또한 금기사항이 없다면 주사시점부터 지연영상을 얻을 때까지 충분한 양(1리터 이상)의 수분을 섭취하는 것이 좋습니다. 
+
+
+4. 촬영 직전 배뇨
+체내에 주입된 방사성의약품은 주로 소변을 통해서 체외로 배출됩니다. 방사성의약품 주사 후 2시간에서 5시간이 경과하면 일정량의 방사성의약품이 소변을 통해서 방광에 모이게 됩니다. 이 때 영상을 획득하면 방광에 모인 방사성의약품 때문에 골반 뼈의 섭취 이상 여부를 판별하기 어려울 수 있습니다. 이를 방지하기 위해서 촬영 직전에 배뇨해야 합니다.  
+
+
+5. 카메라로 촬영 
+뼈스캔 촬영기기인 감마 카메라의 이동식 테이블에 누워서 진행합니다. 촬영에 소요되는 시간은 장비마다 차이가 있지만 일반적으로 20~30분 정도입니다. 다른 영상검사와 마찬가지로 촬영 중 움직이게 되면 영상 획득에 방해가 되므로, 편안한 호흡 외에 움직이지 않도록 합니다. 전신 촬영 후 필요한 경우에 늑골 부위 등 신체 일부분에 대한 추가촬영이 필요할 수 있습니다. 추가촬영에 소요되는 시간은 시행되는 부위의 개수에 따라서 달라지며, 추가 검사 당 약 10~20분 정도 소요됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b291561fe8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 뼈 전이]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b2915df642]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뼈 전이 소견은 전이된 부위의 골 대사에 따라 뼈스캔에서 주로 섭취 증가로 나타납니다.
+
+위의 증례는 다발성 뼈 전이가 있는 폐암 환자의 뼈스캔 영상입니다. 붉은 화살표들이 지시하는 흉추(가슴등뼈), 늑골(흉곽을 구성하는 뼈), 골반뼈 부위에 주변의 정상 뼈보다 국소적으로 섭취 증가되어 마치 검은 점처럼 보이는 소견들이 관찰됩니다.또한 화살표로 표시되어 있지는 않지만 경추(목뼈), 우측 골반뼈, 우측 대퇴골 등 기타 많은 부위에도 이러한 소견들이 다수 관찰되며, 이 소견들이 모두 뼈 전이를 의미합니다. 
+
+
+2. 골절 
+뼈스캔 상 골절은 해당부위의 섭취 증가로 나타납니다.
+아래의 증례는 오른쪽 갈비뼈에 골절이 있는 환자의 뼈스캔 영상입니다.화살표로 표시된 4곳의 늑골에서 주변의 정상 뼈에 비해 국소적으로 보다 강한 섭취를 보이는 검은 점들이 골절을 의미합니다. 
+
+또 다른 증례는 뒤로 넘어진 후 통증을 호소한 환자의 뼈스캔 입니다.화살표로 표시된 골반의 뒤쪽 벽을 이루는 천골(엉치등뼈)에 검은 점들이 마치 선을 이루듯이 관찰되는데, 이것 또한 골절을 의미합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b29176f695]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 퇴행성 관절염과 대퇴골두 무혈성 괴사 
+
+퇴행성 관절염은 관절과 근접한 뼈에 섭취가 증가되어 나타납니다. 아래의 증례에서는 오른쪽 무릎 관절의 내측면에 섭취가 증가되어 있는데, 퇴행성 관절염에 의한 것입니다.  
+
+또한 왼쪽 대퇴 골두에 섭취 감소가 관찰됩니다. 이것은 뼈에 혈액이 공급되지 않아 뼈 조직이 죽는 무혈성 괴사에 의한 것입니다. 무혈성 괴사 주변으로 섭취가 증가된 부위는 괴사된 뼈 조직과 연한 주변 뼈의 대사가 증가했기 때문입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b2917fd368]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 급성 골수염 
+급성 골수염은 감염된 뼈 부위의 섭취 증가로 나타납니다. 감염 시에는 해당부위에 혈류가 많이 증가되기 때문에 이를 진단하기 위해 뼈스캔을 위한 정맥주사를 시행하면서 동시에 촬영을 하는 3상 뼈스캔을 시행합니다.  
+아래 증례는 혈류영상에서 우측 엄지 부위의 중족골(발등뼈)에 혈류가 증가되어 있습니다. 혈액풀(Blood pool phase) 영상에서도 해당 부위의 증가가 있으며, 지연(delayed phase) 뼈 영상에서도 섭취가 증가되어 있는 전형적인 급성 골수염 소견의 3상 뼈스캔 사진입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b29188ca62]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 검사 전후 준비사항
+1) 음식물 섭취를 제한할 필요가 없습니다. 
+2) 수분 섭취를 충분히 하십시오. 
+체내에 섭취된 방사성의약품이 소변을 통해 원활하게 배출되도록 수분 섭취를 충분히(1리터 이상) 하는 것이 검사의 정확성을 높이는데 도움이 됩니다.
+
+3) 가벼운 옷차림을 하십시오. 
+두꺼운 옷이나 금속 단추가 있는 옷, 금속 벨트 및 귀금속은 촬영에 방해가 되므로 가벼운 옷차림을 권합니다.
+
+2. 기타 주의 사항 
+1) 예약된 시간의 준수
+뼈스캔에 사용되는 방사성의약품은 일정 시간이 지나면 자연히 사라지는 특성이 있습니다. 6시간이 지나면 약의 용량이 절반으로 줄어들게 됩니다. 따라서 예약된 검사시간보다 지체하게 되면 주사 용량의 부족으로 검사를 진행하지 못할 수도 있으므로, 예약된 검사 시간을 준수하시는 것이 필요합니다. 
+2) 임신과 관련된 주의 사항
+뼈스캔은 방사성의약품을 사용하는 검사이므로 임신을 한 경우에는 검사 전에 임신 사실을 꼭 알려야 하고, 검사의 필요성에 대해서 주치의와 상의를 해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[246]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 뼈스캔은 방사능을 이용한다고 하는데 인체에 해롭지 않은가요?
+
+A. 뼈에 이용되는 방사성의약품은 아주 적은 양의 방사선을 방출하므로 인체에 해를 주지는 않습니다. 뼈스캔을 하게 되면 5-10 mSv 정도의 방사선을 받게 됩니다. 국제방사선방호위원회(ICRP)에서는 일회 피폭량이 100-200 mSv를 넘어야지 인체에서 측정가능한 수준의 방사선에 의한 영향이 나타난다고 보고하고 있습니다. 따라서 의학적인 목적으로 방사선과 관련된 검사를 받는 경우에는 인체의 해로움보다 이득이 매우 크므로 걱정하지 않으셔도 됩니다.
+
+Q. X-선 검사를 받았는데도 뼈스캔 검사를 다시 해야 되나요? 하나의 검사만으로 해결될 수는 없나요?
+
+A. 부상으로 인해 뼈의 골절이 임상적으로 의심되나 단순 X-선 촬영에서 골절이 관찰되지 않을 수도 있습니다. 이런 경우 뼈스캔을 추가적으로 시행하여 비교 판정을 해야 합니다. 또한 뼈스캔을 시행하여 뼈 전이가 의심되는 병변이 발견되었을 때는 단순 X-선, CT, MRI 등의 검사를 추가로 시행하여 병변의 정확한 성상을 판정하는 것이 필요할 수 있습니다. 따라서 검사들마다 장단점이 있어서 한 가지 검사만으로 뼈의 상태를 완전히 파악하지 못하는 경우 다른 검사들로 보완해야 합니다.
+
+
+Q. 뼈스캔에 이용된 방사성의약품은 몇 시간 후에 완전히 배출되나요?
+
+A. 뼈스캔 후 몸에서 방사성의약품의 배출을 원활하게 하기 위하여 수분 섭취를 권장하고 있습니다. 인체에서 소변을 통해 배출되며, 보통 24시간 이내에 배출됩니다. 신장 기능이 떨어진 환자는 배출이 지연될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 고창순. 핵의학 제3판.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[247]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뼈스캔, 뼈 전이, 골 외상, 골 관절염, 원발성 골종양, 골수질환, 무혈성 괴사, 이식뼈의 생존능 검사, 대사성 골질환, 척추질환, 이영양성 석회화, 횡문근용해증]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

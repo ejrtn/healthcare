@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[시신경염]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6769]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 시신경은 눈에서 뇌까지 시각 정보를 전달하는 신경으로, 여기에 염증이 발생하는 것을 시신경염이라고 합니다.
+• 주로 한쪽 눈의 시력이 수일에 걸쳐 점차 저하되며, 동시에 눈 통증이 동반되는 것이 특징입니다.
+• 시력 저하의 후유증을 남길 수 있어 빠른 진단과 적절한 치료가 필수적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[시신경염이란? 
+시신경은 눈에서 받아들인 시각 정보를 뇌로 보내는 전선과 같은 역할을 하는 신경입니다. 이러한 시신경에 염증이 발생하는 것을 시신경염이라고 하며, 갑작스러운 시력 저하, 눈을 움직일 때 동반되는 통증, 색이 흐리게 보이는 증상 등이 대표적으로 나타납니다. 한쪽 눈에 발생하는 경우가 많지만, 경우에 따라 양쪽 눈에 동시에 시신경염이 발생하기도 합니다. 영구적인 시력 저하가 남을 수 있어 빠른 진단과 치료가 중요한 질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b103f01fd9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[시신경염 발생의 원인 
+• 시신경염은 특정 질환의 일부로 발생하는 경우가 많습니다. 따라서 발생 원인을 정확하게 찾기 위한 여러 검사가 필수적입니다. 
+• 중추신경계 탈수초성 염증성 질환에서 발생할 수 있으며, 대표적으로 다발성경화증(Multiple Sclerosis), 시신경척수염 범주질환(Neuromyelitis optica spectrum disorder, NMOSD), MOG항체연관질환(Myelin Oligodendrocyte Glycoprotein Antibody-Associated Disease, MOGAD) 등이 있습니다. 
+• 바이러스 감염(헤르페스 등), 세균 감염, 결핵, 매독, 또는 기생충 감염(톡소플라즈마 등)에서도 시신경염을 유발할 수 있습니다. 
+• 전신 자가면역 질환인 전신홍반루푸스, 혈관염, 쇼그렌 증후군 등에서도 시신경염이 동반될 수 있으며, 시신경 종양의 경우에도 간혹 초기에 시신경염과 감별이 어려운 경우가 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[시신경염의 예후 
+• 일반적인 시신경염은 수주에서 수개월에 걸쳐 서서히 시력, 시야, 색감을 회복합니다. 다만, 시력 회복의 정도는 개인에 따라, 그리고 원인 질환에 따라 차이가 납니다. 발병 후 3~6개월이 지나도록 회복이 더디면 시력 저하가 계속 남을 가능성이 큽니다. 
+• 적절한 치료를 받은 경우 절반 이상의 환자에서 이전 수준의 시력까지 회복합니다. 하지만 일부 질환에서의 시신경염(특히, 시신경척수염 범주질환)은 후유증을 남기는 경우가 많고, 시신경염이 재발하는 경우 시력 저하가 누적될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[시신경염의 증상 
+ • 몇 시간에서 수일에 걸쳐 시력이 떨어지고, 많은 경우 눈을 움직일 때 통증이 동반됩니다. 보통 1~2주 이내에 시력이 가장 나빠지게 됩니다. 눈 통증은 눈 뒤쪽 또는 주변부가 쑤시듯이 아프고 눈을 움직일 때 심해집니다. 이는 시신경 주위 염증이 근육 움직임과 마찰하면서 통증이 발생하는 것으로 알려져 있습니다. 초기에는 단순 두통으로 오인되는 경우도 있습니다. 
+ • 시신경 손상이 심한 경우에는 시야가 완전히 소실될 수 있으며, 시야의 일부가 보이지 않아 좁게 보이기도 합니다. 
+ • 시력 저하는 안개 낀 유리처럼 뿌옇게 보이는 경우가 많습니다. 따라서 책 글자, 표지판 등이 흐릿하게 보이게 됩니다. 색감도 저하되며, 색의 밝기 및 대비감이 떨어집니다. 대표적으로 빨간색이 갈색이나 회색처럼 보이게 됩니다. 또한 뜨거운 목욕이나 격한 운동 등 발열 뒤에 일시적으로 더 흐리게 보이기도 하며, 시각 신호가 왜곡되면서 직선이 곡선처럼 보이는 등 사물이 왜곡되어 보이기도 합니다. 
+
+##이런 경우 시신경염을 의심! ##
+ • 눈을 움직일 때 통증이 있으면서, 수일 사이에 시력이 갑자기 떨어진다. 
+ • 빨간색이 탁하거나, 사물이 회색 필터를 씌운 것처럼 보인다. 
+ • 이러한 시력 저하가 뜨거운 목욕이나 격한 운동 후에 악화된다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b103fb6b32]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[시신경염의 진단을 위한 검사 
+ • 시신경염이 의심되면, 우선 동공반응반사(Pupil light reflex), 시력, 시야, 색각 검사를 확인하며, 검안경(안저) 검사를 통해 시신경 부위의 손상을 확인하게 됩니다. 이후 시신경염의 가능성이 높다고 판단되면, 시신경유발전위(visual evoked potential, VEP) 검사와 빛간섭단층촬영(Optical coherence tomography, OCT)을 시행하여 객관적인 시신경의 손상 정도를 파악합니다. 
+ • 시신경염을 유발할 수 있는 다양한 질환에 대한 혈액 검사도 시행합니다. 대표적으로 AQP4-IgG(아쿠아포린-4에 대한 자가항체), MOG-IgG(수초 표면 단백질 'MOG'에 대한 자가항체) 등의 항체 검사가 있으며, 의심되는 경우 전신 자가면역질환 또는 시신경을 침범할 수 있는 감염성 질환에 대한 검사도 시행합니다. 영상학적 검사로는 뇌 또는 안구 부위 MRI 검사를 시행하게 되며, 필요에 따라 다른 질환과의 감별을 위해 뇌척수액 검사(Cerebrospinal fluid study)를 시행할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 급성기 치료 
+1) 고용량 스테로이드로 염증을 빠르게 가라앉힙니다. 보통 정맥을 통해 고용량 스테로이드를 3~5일 투여하게 됩니다. 이후에는 경구 스테로이드 약제로 변경하여 서서히 감량을 시도합니다. 
+2) 고용량 스테로이드 치료에도 불구하고 시력, 시야 회복이 부족한 경우, 추가적인 치료(혈장교환술, 면역글로불린 주사)를 시행하기도 합니다. 
+
+2. 장기적인 치료 
+1) 장기적으로 재발을 예방하기 위한 치료는 원인 질환에 따라 다릅니다. 특정 질환의 경우, 여러 차례 시신경염이 재발하거나, 다른 신경학적 장애가 누적될 수 있어 반드시 장기적인 치료가 필요합니다(다발성경화증, 시신경척수염 범주질환 등). 원인 질환에 따라 치료 약제가 다양하고, 상황에 따른 약제가 다르기 때문에 반드시 신경과 전문의와 상의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 시신경염이 있을 경우 라섹이나 라식을 해도 되나요?
+
+A. 라식, 라섹과 같은 시력교정술은 각막(렌즈) 부분에서 이루어지는 시술이고, 시신경염은 뇌로 이어지는 시신경에서 발생하는 질환으로, 두 구조물은 별개입니다. 따라서 시신경염 병력이 있다고 해서 시력교정술이 불가능한 것은 아닙니다. 현재까지 라식, 라섹 시술로 인한 시신경염 재발 위험도 증가는 알려진 바가 없기 때문에, 질환이 충분히 안정기에 있다고 판단하는 경우에는 가능합니다(안정기: 재발 없이 시력이 유지된 기간이 최소 12개월 이상).
+하지만 시신경염의 급성기이거나 회복 초기 단계에 있는 경우에는 시력 변동이 생길 수 있고, 시신경염의 원인을 고려하여 재발 위험이 높은 경우에는 시력교정술 후에 추가적인 시력 변동이 생길 가능성이 높습니다. 또한 시신경염의 후유증으로 시신경 위축이 심한 경우에도 시술 후의 결과가 불만족스러울 수 있습니다. 따라서 시신경염 병력이 있는 환자는 시력교정술 전에 반드시  안과 또는 신경과 전문의와 상의하여 결정하는 것이 좋겠습니다. 
+
+
+Q. 시신경염의 위험 인자는 무엇이 있나요?
+
+A. 시신경염은 여러 자가면역질환에서 동반되는 경우가 많습니다. 특히 다발성경화증, 시신경척수염 범주질환, 전신홍반루푸스 등의 자가면역질환을 가진 경우에 발생 위험이 증가합니다. 
+이러한 자가면역질환은 젊은 여성에서 발생 위험이 높으므로, 상대적으로 20~40대 젊은 여성에서 위험도가 높다고 볼 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[121]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다발성경화증, 시신경척수염, MOG항체연관질환, 시신경 위축]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한신경과학회. (2024). 신경학(신경과 교과서, 제4판). 서울: 범문에듀케이션. 
+2. Banwell B, Bennett JL, Marignier R, Kim HJ, Kleiter I, Asgari N, et al. (2023). Diagnosis of myelin oligodendrocyte glycoprotein antibody-associated disease: International MOGAD Panel proposed criteria. The Lancet Neurology, 22(3), 268–282.
+3. Petzold A, Wattjes MP, Costello F, Brandt AU, Chalmers J, Garcia-Martin E, et al. (2022). Diagnosis and classification of optic neuritis. The Lancet Neurology. 21(12), 1120–1134.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

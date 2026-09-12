@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[자극접촉피부염]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5689]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 자극접촉피부염은 피부에 자극을 주는 물질이 일정 시간 이상 닿으면 생기는 피부염으로, 누구에게나 발생할 수 있습니다.
+• 강산, 강알칼리, 물, 세제, 소독약, 시멘트 등 다양한 물질이 원인이 되며, 특히 주부, 의료종사자, 건설근로자 등에서 흔합니다.
+• 증상은 붉어짐, 갈라짐, 진물, 통증 등이 있으며, 주로 손, 접히는 부위에 잘 생깁니다.
+• 치료는 스테로이드 연고를 사용하고, 원인 물질을 피하며 보습제를 잘 바르는 것이 중요합니다.
+• 반복 자극은 알레르기접촉피부염으로 악화될 수 있으므로, 자극을 피하고 손 보호를 철저히 하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자극접촉피부염은 피부에 자극을 주는 물질에 일정한 농도 혹은 일정한 시간 이상 접촉하면 발생하는 피부염입니다. 알레르기접촉피부염은 같은 물질이라도 사람에 따라 피부염을 일으키지만, 자극접촉피부염은 농도나 시간이 늘어나면 대부분의 사람에게 피부염을 일으킵니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 강산, 강알칼리에 의한 피부염 
+2. 주부습진 
+3. 기저귀 피부염 
+4. 직업피부질환]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자극접촉피부염을 일으킬 수 있는 물질은 수없이 많습니다. 먼저, 산이나 알칼리가 피부에 닿으면 자극접촉피부염이 생길 수 있습니다. 산이나 알칼리의 농도가 진하거나, 접촉한 시간이 길면 화상을 입기도 합니다. 이러한 물질은 실험실이나 공장에서만 사용할 것 같지만 우리 주위에서 흔히 접할 수 있습니다. 식초나 빙초산, 락스 등이 좋은 예입니다.
+또한, 물은 사람에게 꼭 필요한 물질이지만 장기간 접촉하면 자극접촉피부염을 일으킬 수 있습니다. 특히, 설거지나 빨래를 할 때처럼 세제와 물에 동시에 노출되면 더 쉽게 피부염이 생깁니다. 그래서 주부들의 손에 자극접촉피부염이 잘 생깁니다(주부습진).
+아기의 기저귀를 자주 갈아주지 않으면 땀과 소변, 대변이 피부에 오래 닿아 자극접촉피부염을 일으킬 수 있으며, 기저귀를 차는 성인에게서도 발생할 수 있습니다(기저귀 피부염). 그 외에도 알코올 같은 소독약, 염색약, 비누, 세제, 농약, 시멘트, 공업용 용제 등 직업에 따라 자주 피부에 닿는 물질이 자극접촉피부염을 일으킬 수 있습니다. 따라서 가사노동자, 미용사, 의료종사자, 동물의료종사자, 청소근로자, 농업종사자, 원예나 수림산업종사자, 조리사, 금속가공업, 기계나 자동차 수리업, 건설근로자 등에게 자극접촉피부염이 잘 생깁니다.
+자극물질이 접촉피부염을 일으키는 데는 주변 환경과 피부의 상태도 영향을 미칩니다. 예를 들어, 아토피피부염 환자는 피부의 장벽이 손상되어 있어 더 쉽게 자극받기 때문에 자극접촉피부염이 잘 생깁니다. 온도가 너무 낮거나 높을 때, 너무 건조하거나 습할 때, 자극물질이 닿은 피부가 밀폐되어 있거나, 피부에 손상이 있어도 자극접촉피부염이 쉽게 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe9570df4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일부 환자는 자극물질에 계속 접촉하면 오히려 피부염이 사라지기도 하는데 이를 내성현상이라고 합니다. 안타깝게도 어떤 환자에게 내성현상이 발생해 피부염이 저절로 좋아질 것인지 미리 알 수는 없습니다. 반대로 처음에는 괜찮았다가 시간이 지나 피부염이 발생할 수 있는데 이를 피로현상이라고 합니다. 아토피나 알레르기접촉피부염이 같이 있으면 예후가 좋지 않고, 조기 진단과 치료를 받고 환자가 병에 대해 잘 알고 있으면 예후가 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자극접촉피부염은 자극물질에 노출되는 사람은 누구나 발생할 수 있습니다. 직업과 관련된 경우가 많아 직업피부질환의 80%를 차지합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자극물질이 닿은 부분이 붉어집니다. 갈라지거나, 진물이 나거나, 통증이 있기도 합니다. 피부가 접히는 곳에는 자극물질이 끼어 농도가 높아지기 쉬우므로 쌍꺼풀, 손가락 사이, 팔오금, 겨드랑이, 사타구니 등에 잘 생기고, 다른 부위보다 증상이 심할 수 있습니다. 손은 다양한 물질을 접하는 부위로 피부염이 생기는 경우가 흔합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자극접촉피부염은 환자가 설명하는 병력과 증상으로 진단하며 알레르기접촉피부염과 구분하는 것이 가장 중요합니다. 환자에 따라서는 첩포검사와 피부조직검사가 감별에 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[스테로이드제(연고, 크림, 로션)를 주로 사용합니다. 증상이 심하면 바르는 약과 먹는 면역억제제를 함께 사용하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[원인이 되는 자극물질을 알아내어 피하는 것이 가장 중요합니다. 접촉을 완전히 피하기 어렵다면 장갑 같은 보호장구를 착용합니다. 강한 자극물질에 노출된 경우 바로 물이나 중화제로 씻어내야 합니다. 손에 자극피부염이 발생한 경우, 보습제를 잘 사용하면 도움이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자극접촉피부염의 문제 중 하나는 자극이 반복되면 알레르기접촉피부염이 발생할 수 있다는 것입니다. 알레르기는 반복된 노출을 통해 면역계가 특정 물질을 기억하고 반응하는 것입니다. 자극접촉피부염 때문에 피부가 손상되면, 손상된 틈으로 알레르기를 일으키는 물질이 쉽게 침투할 수 있어 알레르기가 발생할 가능성이 높아집니다. 알레르기접촉피부염은 일반적으로 자극접촉피부염보다 증상이 심하고 예후가 좋지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다음과 같은 주의사항을 잘 지키면 예방과 치료에 도움이 됩니다. 
+• 가능한 손 씻는 횟수를 줄입니다. 
+• 무향, 무색의 일반 비누를 사용합니다(약용, 한방, 기능성 비누는 피합니다). 
+• 비누 사용 후 피부에 남지 않게 깨끗이 씻습니다. 
+• 물일을 하는 경우 면장갑을 끼고, 그 위에 고무장갑을 낍니다.
+• 장시간 더운 물에 손을 담그고 일하는 경우, 땀에 의해 면장갑이 젖으므로 여러 켤레 준비하여 자주 바꾸어 낍니다.
+• 채소, 과일즙이나 생고기 등이 직접 손에 닿지 않게 조심합니다.
+• 머리제품(샴푸, 린스, 헤어토닉 등)을 직접 만지지 않습니다.
+• 표백제, 세정제나 세척제 등을 직접 만지지 않습니다. 
+• 반지를 빼고 손을 씻습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe95716c4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 자극접촉피부염이 오래되어 피부가 두꺼워졌는데, 정상적으로 회복될 수 없나요?
+
+A. 피부가 두꺼워졌다면 피부에 태선화가 발생하였을 가능성이 큽니다. 태선화는 표피 전체와 진피의 일부가 가죽처럼 두꺼워지는 현상으로 피부는 광택을 잃고 유연성이 없어지며 딱딱해지고 피부주름이 뚜렷해지는 모습을 보입니다. 이러한 경우 정상적인 피부상태로 되돌아가기는 쉽지 않습니다. 하지만 원인 피부 질환의 치료를 꾸준히 한다면 정상적인 피부로 되돌릴 수 있으므로 꾸준히 치료를 받는 것이 중요합니다.
+
+Q. 손의 피부염이 만성적으로 악화와 호전을 반복합니다. 어떻게 해야 좋을까요?
+
+A. 주부들의 경우 손에 물이 닿는 경우가 더 자주 있기 때문에 손의 피부염이 악화하기 쉽습니다. 따라서 보통 면장갑을 낀 후 그 위에 고무장갑을 끼고, 면장갑을 여러 켤레 준비하여 바꾸어 끼면서 습기가 차지 않도록 하며, 가능한 한 일을 몰아서 하면 어느 정도 피부염의 예방에 도움이 됩니다. 또한, 자동세척기나 자동청소기를 사용하여 효과를 보는 경우도 있습니다. 피부염이 악화하거나 발병했을 때는 발병 초기에 치료하여 더 악화하는 것을 방지하여야 합니다.
+
+Q. 아기가 기저귀피부염이 지속되고 있는데, 가정에서 할 수 있는 치료 방법은 어떤 것이 있나요?
+
+A. 아기들의 기저귀피부염은 보통 기저귀의 습기나 마찰에 의하여 발생합니다. 이러한 경우에는 가정에서 아기의 사타구니 부위를 건조하게 해주거나 마찰을 줄여주는 방법을 강구하면 좋아질 수 있습니다. 하지만 다른 경우인 칸디다에 의한 피부염이 발생하였을 경우에는 대증적인 치료만으로는 증상이 호전되지 않을 수 있으므로 유아의 증상이 대증적인 치료에도 호전되지 않을 경우에는 병원에 내원하는 것이 바람직합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Sewon Kang. (2019). Fitzpatrick’s Dermatology. McGraw-Hill Education.
+2. Jean L. Bolognia, Julie V. Schaffer, Lorenzo Cerroni. (2018). Dermatology. expertconsult.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

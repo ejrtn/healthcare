@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[심낭염]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[2967]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 심낭은 심장을 둘러싸는 두 겹의 막으로, 내부의 액체가 심장 박동 시 마찰을 줄이는 역할을 합니다.
+• 또한 심장을 제 위치에 고정하고 과도한 팽창을 막으며, 주변 감염으로부터 보호하는 기능을 합니다.
+• 심낭 질환에는 심낭염부터 생명을 위협할 수 있는 심장눌림증까지 다양한 형태가 있습니다.
+• 심낭염은 가슴통증과 발열을 일으키며, 심낭액이 증가해 심장을 압박하면 혈압 저하와 호흡곤란이 나타날 수 있습니다.
+• 관리로는 충분한 휴식, 금연·절주, 건강한 식습관을 유지하고 필요 시 정기적인 검사로 합병증을 예방하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심낭은 심장을 싸고 있는 두 겹의 막(벽심장막, 내장심장막)으로 이루어진 주머니입니다. 그 사이에는 약 15~50 mL의 액체가 있어 심장 박동 시 마찰을 감소시키는 윤활제 역할을 합니다.
+
+심낭은 다음과 같은 기능을 갖습니다. 
+• 심장을 제 위치에 고정시키고 큰 혈관들이 꼬이는 것을 방지합니다.
+• 심방, 심실이 과도하게 늘어나는 것을 방지합니다.
+• 주위 구조들과의 마찰을 줄입니다.
+• 주위의 폐나 늑막강에서 감염이 전파되는 것을 막는 ‘방파제’ 역할을 합니다.
+
+심낭에 발생하는 질환은 경한 심낭염에서 응급을 요하는 심장눌림증까지 다양합니다.
+심낭염이란 다양한 요인에 의해 심장막에 염증이 생기는 질환입니다. 가슴통증이나 발열 등의 증상이 나타나며, 염증으로 심장막 내에 액체가 고여 안쪽의 심장을 압박하면 심장눌림증이 생겨 혈압이 떨어지고 숨이 찹니다. 
+증상의 양상과 기간에 따라 급성 심낭염, 교착 심낭염, 심장눌림증, 만성 심낭삼출 등으로 나눌 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173c16e0b149]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[충분한 휴식을 취하고, 급성기에는 운동을 하지 않는 것이 빠른 회복에 도움이 됩니다. 금연과 절주를 실천하고 건강한 식습관을 유지하는 것이 중요합니다. 교착 심낭염의 경우에는 저염식이 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 심낭염의 증상은 무엇인가요?
+
+A. 가슴통증이 가장 흔합니다. 날카로운 통증이 숨을 들이마시거나 기침할 때 혹은 누울 때 심해지지만, 앉아있거나 상체를 앞으로 기울이면 완화되기도 합니다. 이 외에도 부종, 발열, 두근거림, 복부팽만 등이 나타나기도 합니다.
+
+Q. 심낭염 환자에서 어떤 경우에 수술이 필요하나요?
+
+A. 교착 심낭염 환자에서 약물 치료에 반응하지 않고 호흡곤란 등 심부전 증상이 심한 경우에는 수술로 유착된 심장막을 제거합니다. 드물게 급성 심낭염, 원인이 분명하지 않은 심낭삼출, 심장눌림증이 있지만 심낭천자술이 어려운 경우 수술로 심낭액을 뽑아내거나 진단을 위해 심장막 조직검사를 시행할 수 있습니다.
+
+Q. 심낭염의 합병증을 예방하려면 어떻게 해야 하나요?
+
+A. 급성 심낭염을 진단받은 환자가 심낭삼출이나 심장눌림증, 교착 심낭염 등으로 진행할 수 있는데, 결핵, 심장 수술, 방사선 치료를 받은 경우 더욱 흔히 볼 수 있습니다. 질병 초기에 전문 진료기관에서 충분한 치료를 받고 주기적으로 심초음파 검사 등을 시행해 합병증으로 진행하지 않도록 해야 합니다.
+
+Q. 심낭염으로 목숨을 잃을 수 있나요?
+
+A. 급성 세균 심낭염처럼 드문 경우를 제외하고는, 급성 심낭염으로 목숨을 잃는 경우는 드뭅니다. 다만 흉통의 양상이 심근경색증 등 허혈 심장질환과 비슷하기 때문에 반드시 전문 의료기관에서 정밀 검사를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Libby, P., Bonow, R.O., Mann, D.L., Tomsalli, G.F., Bhatt, D.L., Solomon, S.D. (2021). Braunwald’s Heart Disease: A Textbook of Cardiovascular Medicine (12the ed.). Amsterdam:Elsevier.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[심낭염(급성 심낭염)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2968]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[심낭염(만성 심낭삼출)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2969]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[심낭염(심장눌림증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2970]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[심낭염(교착 심낭염)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2971]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

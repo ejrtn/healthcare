@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[회충증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5338]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 회충증은 감염형 충란(자충포장란)을 입으로 섭취하여 감염되는 기생충 질환으로, 대변 검사를 통해 진단할 수 있습니다.
+• 감염 시 영양장애, 복통, 구토, 설사 등의 증상이 나타나며, 심한 경우 장폐쇄증이나 담관 문제를 일으킬 수 있습니다.
+• 감염 예방을 위해 채소를 깨끗이 씻고, 인분으로 인한 토양 오염을 방지하는 것이 중요합니다.
+• 치료는 알벤다졸 400 mg을 1회 또는 메벤다졸 500 mg을 1회 복용으로 가능합니다.
+• 회충증은 법정감염병으로 지정되어 있으며, 현재 신고 건수는 연간 10건 내외로 매우 적습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[회충증은 회충(Ascaris lumbricoides)의 발육란(자충포장란) 감염에 의한 기생충 질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 신고범위 : 환자
+2. 신고시기 : 7일 이내 신고
+3. 신고를 위한 진단기준​
+• 환자 : 진단을 위한 검사기준에 따라 감염병병원체 감염이 확인된 사람
+4. 진단을 위한 검사기준
+• 검체(대변)에서 충란 확인
+• 감염부위에서 충체 확인
+5. 신고 방법
+• 표본감시기관은 기생충 감염병 신고서를 작성하여 질병관리청으로 팩스 또는 웹 입력 방법으로 신고
+ * 표본감시기관 여부 확인: 관할 보건소로 문의]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[회충의 감염형인 발육란(embryonated egg, 자충포장란)에 오염된 날채소(상추 쌈, 겉절이, 김치 등)섭취하거나, 대변(배설물)을 통해 오염된 손에 의해 경구 감염이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 국외현황
+전 세계적으로는 약 8~12억 명의 인구가 회충에 감염되어 있습니다. 온난, 열대, 아열대, 온대 지방에서 주로 유행하며 전 세계적으로 분포되어 있습니다.
+
+2. 국내현황
+회충은 대표적인 토양매개성 선충으로 우리나라도 이전에는 높은 감염률을 보였으나, 감염률이 점차 줄어들고 있으며, 2024년 신고건수는 1건으로 확인됩니다.
+※ 회충증 발생현황은 질병관리청 감염병포털의 '감염병통계'에서 확인할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[회충증의 잠복기는 60~70일입니다. 회충증은 회충 유충에 의해서 출혈, 염증반응, 호산구증가증(염증세포의 일종인 호산구가 증가되는 증상) 등이 나타나며, 유충을 중심으로 육아종을 형성하고, 회충성 폐렴 증세를 보이기도 합니다. 그리고 성충은 소장 내에서 기생하면서 환자들에게 영양장애, 복통, 식욕부진, 메스꺼움, 구토, 설사, 복부팽만 등을 일으키기도 하고, 위경련과 같은 통증을 일으키기도 합니다. 다수의 충체가 장내에서 뭉쳐 큰 덩어리를 만들면서 창자막힘증(ileus)을 일으키기도 합니다. 성충이 장 이외의 다른 기관으로 이동하여, 다양한 합병증을 일으킬 수 있는데, 성충이 특히, 쓸개관, 췌관, 충수로 탈출하는 경우가 많으며, 담관에서 발견된 회충은 황달과 담석을 유발시키기도 하고 담관을 막거나 구멍을 내어서 외과적인 수술이 필요할 수 있는 문제를 일으키기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf279061]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[진단은 대변 검사를 통해서 회충의 충란을 찾아내는 것으로 쉽게 할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[회충증을 예방하기 위해 다음을 생활화해야 합니다음식을 먹기 전, 음식을 준비하기 전, 그리고 화장실을 사용한 후에는 항상 손을 올바르게 씻어야 합니다.야채가 회충증의 가장 주요한 매개물이므로, 야채를 잘 씻어서 먹는 것이 중요합니다.인분을 위생적으로 처리하여 토양이 오염되지 않도록 유의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[151]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[회충증은 구충제를 복용하여 치료합니다.
+- 알벤다졸(Albendazole) 400 mg을 1회 복용
+- 메벤다졸(Mebendazole) 500 mg을 1회 복용]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[154]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 환자관리
+회충증은 장내 기생충 질환으로 환자의 격리는 필요 없습니다.
+2. 접촉자관리
+접촉한 사람에 대한 격리는 필요 없으나 함께 노출된 사람에 대하여 회충증의 추가 발생여부를 조사해야합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청 (2025). 감염병포털. https://dportal.kdca.go.kr/pot/index.do
+2. 질병관리청 (2025). 기생충 감염병 관리치침]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

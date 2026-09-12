@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[알레르기결막염]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5266]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 알레르기결막염은 눈의 결막이 꽃가루, 먼지, 진드기, 렌즈 등 외부 자극물에 의해 면역 반응을 과도하게 일으켜 생기는 염증질환입니다.
+• 대표적인 증상으로는 양쪽 눈의 가려움, 충혈, 눈물, 끈끈한 분비물, 이물감 등이 있으며, 특히 가려움이 가장 특징적입니다.
+• 계절성, 통년성, 봄철각결막염, 아토피각결막염, 거대유두결막염 등 다양한 유형이 있으며, 기저 질환(아토피, 천식 등)이 함께 나타나기도 합니다.
+• 치료는 항히스타민제나 비만세포안정제 점안약, 증상이 심할 경우 스테로이드 안약이나 면역억제제 등을 사용하며, 냉찜질과 인공눈물도 도움이 됩니다.
+• 예방을 위해서는 원인 물질을 피하고, 렌즈 관리, 실내 청결, 외출 시 안경 착용 등을 실천하며, 증상이 지속되면 안과 진료가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[결막은 눈꺼풀의 안쪽과 안구의 가장 바깥쪽을 덮고 있는 얇고 투명한 점막으로, 해부학적으로 세 부분으로 구분합니다. 눈꺼풀판 안쪽을 덮고 있는 눈꺼풀판결막(눈꺼풀결막), 안구 앞의 흰자위에 해당하는 공막을 덮고 있는 눈알결막, 그리고 이 두 부위를 연결하는 구석결막이 있습니다. 결막은 눈물의 점액층을 생성하고, 안구 표면을 보호하는 면역기능에 관여하며, 미생물 등 외부 물질로부터 눈을 보호하는 역할을 합니다.
+결막은 외부에 노출되어 있기 때문에 먼지, 꽃가루, 약품, 화장품 등 수많은 물질에 의해 염증이 발생할 수 있으며, 외부 물질에 의한 과민반응으로 나타나는 결막염을 알레르기결막염이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a52f51e422]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[알레르기반응은 외부 물질(알레르기항원)에 우리 몸의 면역계가 과도하게 반응하는 것으로, 선천적 또는 후천적으로 나타날 수 있습니다. 이러한 반응이 결막에서 일어나는 경우를 알레르기결막염이라 합니다. 알레르기결막염은 시력에 지장을 주는 경우는 드물지만, 만성적인 경과를 보이며 자주 재발하여 환자에게 많은 부담을 줍니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[알레르기결막염은 원인 물질, 임상양상, 동반된 전신질환 등에 따라 아래와 같이 분류합니다.
+
+1. 계절알레르기결막염(seasonal allergic conjunctivitis, SAC) 및 통년알레르기결막염(perennial allergic conjunctivitis, PAC)
+가장 흔한 형태의 알레르기결막염으로, 특정 계절에만 나타나는 경우를 계절알레르기결막염, 계절과 상관 없이 1년 내내 나타나는 경우를 통년알레르기결막염이라 합니다.
+
+2. 봄철각결막염(vernal keratoconjunctivitis, VKC)
+어린 나이에 발병하는 드문 질환의 심한 알레르기결막염으로, 보통 10세 전후에 시작되며 여자아이보다는 남자아이에서 더 많이 발생합니다. 덥고 건조한 환경과 관련이 있으며, 우리나라에서는 주로 늦봄에서 여름 사이 날씨가 따뜻해지면서 환자들의 증상이 심해집니다. 치료를 하지 않을 경우 각막이나 결막에 심한 손상을 남길 수 있어 주의해야 합니다. 일반적으로 2~10년 정도 증상이 지속되다가 성인이 되면 증상이 사라지는 경우가 많지만, 약 10%에서는 20세 이후에도 증상이 지속될 수 있습니다.
+
+3. 아토피각결막염(atopic keratoconjunctivitis, AKC)
+아토피피부염이나 습진이 있는 환자에서 결막과 눈꺼풀에서 발생하는 만성 염증질환을 아토피각결막염이라 합니다. 10대 후반에 발병하여 30~40대에 가장 많으며, 여성보다 남성에서 더 흔히 관찰됩니다. 눈꺼풀, 각막, 결막에 오랫동안 염증을 일으켜 수년간 치료해도 후유증이 남는 경우가 많습니다.
+
+4. 거대유두결막염(giant papillary conjunctivitis, GPC)
+콘택트렌즈나 의안의 착용, 수술 후 봉합사 노출, 안내 삽입물 등 특정한 원인에 의해 위눈꺼풀판결막에 발생한 알레르기결막염을 거대유두결막염이라 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다양한 외부 물질이 알레르기반응을 일으키는 원인이 됩니다.
+
+1. 계절알레르기결막염 및 통년알레르기결막염
+
+계절알레르기결막염은 다양한 공기매개 알레르기항원과 연관되어 있습니다. 봄에는 나무나 꽃가루, 늦은 봄과 초여름에는 풀의 꽃가루, 늦은 여름과 이른 가을에는 돼지풀의 꽃가루가 흔한 원인이 됩니다. 통년알레르기결막염과 관련한 가장 중요한 공기매개 알레르기항원은 실내의 먼지에서 주로 발견되며, 애완동물의 털, 집먼지진드기, 곰팡이 등이 원인이 됩니다.
+
+2. 봄철각결막염
+정확한 발생기전은 아직 규명되지 않았으나, 봄철각결막염 환자의 40~75%는 습진이나 천식 같은 다른 알레르기질환 병력이 있고, 40~60%는 아토피 가족력이 있습니다.
+
+3. 아토피각결막염
+정확한 원인은 알 수 없으나, 아토피피부염은 인구의 3%에서 발견되는데 그 중 15~67.5%는 결막염이 동반됩니다.
+
+4. 거대유두결막염
+기계적인 외상, 콘택트렌즈 표면의 침착물, 환경적 요소 등이 복합적으로 염증을 일으키는 것으로 생각하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[알레르기반응은 외부 물질(알레르기항원)에 우리 몸의 면역계가 과도하게 반응하는 것으로, 이러한 과민반응의 유무와 정도는 사람에 따라 다르며 선천적 또는 후천적으로 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[알레르기결막염 환자의 약 70% 정도는 알레르기비염, 천식, 아토피피부염 등 다른 알레르기병을 가지고 있습니다.
+알레르기결막염의 유병률은 점차 증가하는 추세인데, 이는 알레르기항원에 대한 노출 감소, 유전적 영향, 대기오염, 흡연 등 때문에 알레르기항원에 대한 감수성이 증가하기 때문으로 생각합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대개 날씨가 따뜻해지고 건조해지면 알레르기결막염에 의한 증상이 나타나며, 기후 변화나 활동 여부에 따라 심해지거나 좋아집니다. 원인이 되는 알레르기항원을 완전히 제거하지 않으면 증상이 쉽게 재발합니다. 그러나 환자의 연령이 증가하면 보통 발작 횟수가 감소하고 증상도 가벼워집니다.
+
+알레르기결막염의 대표적인 증상은 가려움증과 눈이 붉어지는 증상(결막충혈)입니다. 보통 양쪽 눈에서 가려움과 함께 끈적끈적한 점액성 분비물, 이물감, 눈물흘림, 눈부심 등의 증상을 호소합니다. 급성 발작 시에는 결막이 충혈되고 우윳빛을 띠면서 아주 심하게 붓는 경우가 있는데, 이것을 결막부종(chemosis)이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf236c04]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[봄철각결막염은 따뜻해지는 계절을 중심으로 매우 심한 가려움을 호소하며 끈끈하고 실 같은 점액성 분비물과 각막의 염증으로 인한 눈부심, 눈꺼풀처짐, 눈꺼풀연축이 발생할 수 있습니다.
+아토피각결막염은 알레르기결막염의 주요 증상과 함께 눈 주위 피부가 거칠어지고 종종 붉어지고 갈라집니다. 두 질환 모두 각막에 반복되는 상처, 신생혈관을 동반한 각막혼탁, 각막궤양 등의 합병증이 생길 수 있는데 심한 경우 영구적으로 시력장애가 남기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[환자의 병력을 자세히 청취하고 임상증상과 진찰 소견에 따라 진단합니다. 세극등현미경검사를 통해 충혈 정도와 부위, 분비물의 양상, 결막염증반응(유두반응)의 위치와 정도, 각막염의 합병 여부를 주의 깊게 관찰합니다. 알레르기결막염의 종류에 따른 특징적인 염증반응 여부도 파악합니다.
+필요한 경우 알레르기 유발 원인을 알아보기 위해 피부반응검사 또는 혈액검사를 시행합니다. 드물게 삼출물이나 결막의 표면을 긁어 채취한 검체에서 염증세포 유무와 종류를 분석하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf236d01]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[봄철각결막염과 거대유두결막염은 윗눈꺼풀판결막에 마치 자갈을 깔아 놓은 것 같은 거대유두가 생기는 것이 특징이며, 아토피각결막염은 아래결막구석에서 유두비대가 현저하고, 만성적인 눈꺼풀염증의 결과로 눈꺼풀속말림이나 겉말림이 나타나기도 합니다. 
+염증이 심한 경우 결막에 흉터를 남기거나 각막을 침범하기도 하여 산재성(여기저기 흩어져 있음) 표층각막염이나 표층각막궤양(corneal ulcer)이 발생할 수 있으며, 때때로 신생혈관과 함께 각막흉터를 남기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf236d84]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[알레르기결막염을 일으키는 유발 요인을 알고 있다면 그것을 피하는 것이 필수적입니다. 눈을 비비지 말고, 차가운 찜질 혹은 차가운 인공눈물이 도움이 됩니다. 알레르기결막염의 치료는 염증의 정도와 지속 기간에 따라 다르지만, 증상 완화를 목표로 안약과 경구약을 선택하는 대증치료가 주가 됩니다.
+염증과 증상이 심한 경우 단기간 강하게 치료하고 반응에 따라 약제를 줄이고 증상이 없는 경우 약제를 중단하기도 하며, 보통 이 과정을 오랫동안 반복하게 됩니다. 드물게 심한 염증으로 발생한 거대유두를 제거하거나 각결막의 합병증에 대해서 수술적 치료를 시행하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 점안약
+심하지 않은 알레르기결막염은 항히스타민제 안약을 투여하기도 하고, 만성적인 경우에는 비만세포안정제(mast cell stabilizers, 히스타민을 덜 나오게 하는 약제) 안약을 사용합니다. 요즘은 항히스타민 작용과 비만세포 안정효과를 동시에 나타내는 이중작용약물이 널리 사용되고 있습니다. 
+심한 염증반응을 보이는 경우 스테로이드 안약이 효과가 좋으나 장기간 사용으로 녹내장, 백내장 등의 합병증이 발생할 수 있기 때문에 정기적으로 안과를 방문해야 합니다. 
+그 외 비스테로이드소염제나 사이클로스포린 및 타크로리무스와 같은 면역억제제 안약이 염증을 줄이는 효과가 있어 경우에 따라 사용되기도 합니다.
+결막부종과 충혈을 감소시킬 목적으로 혈관수축제를 사용하기도 하는데, 약제에 의존이 되고 반동현상이 나타날 수 있어 반드시 안과 전문의에 의한 정기 진료를 받아야 합니다.
+
+2. 경구약
+경구 항히스타민제는 단독으로 계절/통년알레르기결막염에 사용되지는 않지만 전신 알레르기를 동반한 경우 이를 치료하기 위해 사용할 수 있습니다. 다만, 눈물 분비를 줄여 눈의 건조 증상이 유발되거나 악화될 수 있으므로 주의해야 합니다.
+알레르기반응이 심해 시력을 위협하는 합병증이 발생하거나 일반적인 치료 요법이 실패한 경우 경구 스테로이드를 사용할 수 있지만, 장기간 복용 시 전신에 많은 부작용을 일으킬 수 있어 상당한 주의가 필요합니다.
+
+3. 기타
+드물게 거대유두가 발생한 경우 크기를 줄일 목적으로 거대유두 내에 스테로이드를 주입하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[냉찜질을 하면 증상 완화에 도움이 되며, 인공눈물은 염증매개물과 알레르기항원을 희석하고 알레르기 원인 물질과의 접촉을 줄여주며 원인 물질의 재유입을 막는 장벽 역할을 하기 때문에 경증 알레르기결막염에 효과적입니다. 심하게 악화되는 계절 동안 환경을 정화하고 시원하게 유지하거나 추운 지방으로 이주하는 기후요법이 유용할 수 있습니다. 
+거대유두결막염은 콘택트렌즈를 사용하거나 렌즈 관리가 소홀한 사람에게서 많이 보이는 부작용이므로, 콘택트렌즈 착용을 중지하고, 치료가 끝난 후에는 가능하면 새 렌즈로 바꾸며, 렌즈 소독을 철저히 해야 합니다. 전신 알레르기병에서 시행하는 탈민감요법은 현재까지 알레르기결막염에서 효과가 입증되지 않았습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[합병증으로 각막염, 백내장, 원추각막, 망막박리가 발생할 수 있는데, 이 질환들은 모두 심각한 시력 저하를 유발할 위험이 있습니다. 알레르기결막염이 장기간 지속되거나 시력이상이 발생할 경우 안과를 방문해 다른 합병증이 동반되었는지 검사를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 알레르기의 원인 물질에 노출되는 것을 최대한으로 피하고, 청소와 환기를 자주 해야 합니다.
+• 꽃가루가 날리는 계절에는 되도록 외출을 삼가고, 외출해야 할 경우 안경을 착용합니다.
+• 특히 먼지가 많은 계절에는 콘택트렌즈를 착용하지 않는 것이 좋습니다.
+• 생활환경을 개선하기 위해 집먼지진드기를 막아주는 베개 커버나 매트리스를 고려합니다.
+• 애완동물은 침실 밖에 두는 것이 좋습니다.
+• 가려움이 생기면 눈을 비비지 말고 차가운 찜질을 하는 것이 좋습니다.
+• 일반적인 예방책으로도 증상이 심해진다면 점안약이나 경구약 등의 치료를 받는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf236e91]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 김현승, 김효명, 성공제, 유영석. (2019). 안과학. 서울: 일조각.
+2. 한국외안부학회. (2013). 각막 (제3판). 서울: 일조각.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

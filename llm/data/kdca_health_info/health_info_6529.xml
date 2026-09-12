@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[직업성 호흡기질환]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6529]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 작업환경의 위험요인은 호흡기 질환을 새로 일으키거나 기존 호흡기 질환을 악화시킬 수 있습니다.
+• 새로운 호흡기 질환은 직업 때문에 발생했을 가능성을 꼭 생각해보고, 만일 그렇다면 치료와 함께 작업환경을 관리해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대표적인 직업병인 진폐증은 일하는 중 노출된 분진을 흡입해 생기는 호흡기 질환입니다. 직업성 호흡기질환은 한 번 발생하면 완치가 어려운 만성적인 경과를 보이기 때문에 발생 전에 예방하거나 초기부터 철저히 관리해 심각한 상태로 진행하지 않도록 해야 합니다. 
+유해물질은 숨을 들이쉴 때 폐로 들어오며, 인체에 흡수된 후 혈액을 통해 몸 전체에 영향을 미칩니다. 직접 기관지 점막과 폐포를 자극해 염증을 일으킬 수 있고, 장기간 노출되면 염증이 반복되어 결국 폐에 흉터(섬유화)를 남기기도 합니다. 
+대기오염, 흡연 같은 환경적 유해물질과 더불어 작업환경의 위험요인은 호흡기 질환을 새로 일으키거나 기존 호흡기 질환을 악화시킬 수 있습니다. 특정 형태의 업무는 호흡기 질환을 겪는 근로자뿐만 아니라, 그들의 동료에게도 영향을 미칠 수 있기 때문에 호흡기질환과 업무는 밀접한 연관성을 가지고 있습니다. 
+여기서는 직업성 호흡기 질환 중 가장 흔한 진폐증, 직업성 천식, 직업성 만성폐쇄성폐질환, 직업성 감염성 폐질환, 직업성 폐암을 다루겠습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19416d45a229]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[작업환경에 의해 발생할 수 있는 대표적인 호흡기질환은 진폐증, 직업성 천식, 직업성 만성폐쇄성폐질환, 폐암 등이 있습니다. 거의 모든 종류의 분진, 가스, 흄, 증기가 만성폐쇄성폐질환을 유발할 수 있으며, 석탄 분진, 결정형 유리규산, 석면 등은 진폐증 및 폐암을 일으킬 수 있습니다. 특히 우리나라에서는 2009년부터 석면 사용이 전면 금지되었지만, 과거의 광범위한 사용과 오랜 잠복기로 인해 석면으로 인한 문제가 현재까지도 계속 발생하고 있습니다. 
+새로운 호흡기 질환은 직업 때문에 발생했을 가능성을 꼭 생각해보고, 만일 그렇다면 치료와 함께 작업환경을 관리해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2019년 기준 폐암과 호흡기계 감염을 제외한 만성 호흡기질환은 전 세계적으로 연간 400만명의 사망을 초래해 세 번째로 흔한 사망 원인이며, 유병률은 4억 5,460만 명으로 전체 질병부담의 4.1%를 차지합니다. 만성 호흡기 질환으로 인한 사망의 약 17%가 직업적 노출로 인해 발생하는 것으로 추정되며, 만성폐쇄성폐질환은 위험이 더 커서 전체의 15~20%가 직업적 요인으로 발생한다고 알려져 있습니다. 
+만성 호흡기질환으로 인한 근로 손실은 개인의 경제적 부담뿐 아니라 생산성 저하와 같은 사회적 비용을 유발합니다. 2022년 기준 영국에서 호흡기 질환으로 인한 근로 손실은 8.3%(연간 약 3천만 일)로 네 번째 주요 원인을 차지했으며, COVID-19 팬데믹 이전보다 두 배 이상 증가했습니다. 영국 국민보건서비스(NHS)에 따르면 천식과 만성폐쇄성폐질환으로 인한 연간 경제적 부담은 각각 30억 파운드(한화 약 4조 8천억원)와 19억 파운드(한화 약 3조 4백억원)로 추산됩니다. 국내에서는 만성폐쇄성폐질환으로 인해 연간 약 1조 4,200억 원의 사회경제적 비용이 발생하는 것으로 추정됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[지원체계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[119]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[업무 중 노출된 유해인자로 인해 발생한 호흡기계 질병은 산업재해보상보험법에서 산업재해 또는 업무상 질병으로 인정하고 보상과 진료를 제공합니다. 산업재해보상보험법에서 제시하는 업무상 호흡기계 질병에 대한 구체적인 인정 기준은 다음과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[지원체계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[119]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19416d680fc3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[지원체계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[119]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이 외에도 업무와 질병 사이에 상당한 인과관계가 성립하면 업무상 질병으로 인정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 석면 외에 직업성 폐질환을 유발하는 유해물질은 어떤 것들이 있나요?
+
+A. 석면은 진폐증의 한 종류인 석면폐증과 폐암, 악성중피종을 유발하는 대표적인 유해물질입니다. 석면 이외에도 직업성 폐질환의 종류에 따라 다양한 유해물질이 존재합니다. 먼지가 폐에 쌓여 폐 조직의 변화를 일으키는 진폐증의 경우 석탄 분진, 결정형 유리규산, 용접흄 등이 주요한 유해물질입니다. 만성폐쇄성폐질환의 경우 직업적으로 노출되는 거의 모든 종류의 분진, 흄, 가스, 증기에 장시간 노출될 경우 발생 위험이 상승합니다. 직업성 폐암의 대표적인 유해물질은 석면 외에도 비소, 니켈, 6가 크롬과 같은 중금속류와 결정형 유리규산, 용접흄, 디젤엔진 연소물질 등이 있습니다. 보다 자세한 내용은 각 콘텐츠를 참고하시기 바랍니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 국가법령정보센터. (2023). 산업재해보상보험법 시행령 [별표 3]. https://www.law.go.kr/법령별표서식/(산업재해보상보험법시행령,%20별표3)
+2. 대한직업환경의학회. (2022). 직업환경의학 개정판.
+3. GBD 2016 Occupational Chronic Respiratory Risk Factors Collaborators. (2020). Global and regional burden of chronic respiratory disease in 2016 arising from non-infectious airborne occupational exposures: a systematic analysis for the Global Burden of Disease Study 2016. Occupational and Environmental Medicine, 77(2), 142-150.
+4. Loomis, D. (2020). Estimating the global burden of disease from occupational exposures. Occupational and Environmental Medicine, 77(2), 131-132.
+5. Murgia N, Akgun M, Blanc PD, Costa JT, Moitra S, Muñoz X, Toren K, Ferreira AJ. (2024). Issue 3 - The occupational burden of respiratory diseases, an update. Pulmonology. S2531-0437(24) 00045-X. doi:10.1016/j.pulmoe.2024.03.004. Epub ahead of print. PMID:38704309.
+6. Momtazmanesh, Sara et al. (2023). Global burden of chronic respiratory diseases and risk factors, 1990–2019: an update from the Global Burden of Disease Study 2019. eClinicalMedicine, Volume 59, 101936.
+7. Office for National Statistics. (2023). Sickness absence in the UK labour market: 2022.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

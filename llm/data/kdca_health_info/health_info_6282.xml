@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[기관지내시경 검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6282]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 기관지내시경은 코나 입을 통해 가느다란 기구를 넣어 기관지와 폐를 직접 관찰하는 검사입니다.
+• 이 검사를 통해 염증, 종양, 출혈 등 호흡기 질환의 원인을 확인하고 조직검사도 할 수 있습니다.
+• 검사는 보통 15~30분 정도 걸리며, 필요에 따라 조직 채취나 치료도 함께 진행됩니다.
+• 검사 전에는 금식이 필요하고, 검사 중에는 기침이나 불편감이 있을 수 있지만 통증은 크지 않습니다.
+• 검사 후에는 일시적인 목 통증, 미열, 기침 등이 있을 수 있으나 대부분은 시간이 지나면 자연스럽게 회복됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지내시경 검사를 이해하려면 먼저 호흡기의 구조를 알아야 합니다. 코와 입에서 시작해 후두부, 성대, 기관, 기관지를 지나 폐까지 이어지는 부위를 통틀어 호흡기라고 합니다.
+기관은 우측과 좌측 주기관지로 나뉩니다. 우측 주기관지는 우상엽, 우중엽, 우하엽 등 3개의 엽기관지로 나뉘며, 좌측 주기관지는 좌상엽과 좌하엽 등 2개의 엽기관지로 나뉩니다. 일반적으로 우측 폐는 3개의 엽과 10개의 분절, 좌측 폐는 2개의 엽과 8개의 분절로 구성됩니다.
+엽기관지는 나무처럼 계속 가지를 치며 분절기관지와 가는 기관지를 형성하여 결국 폐포로 이어지며, 이곳에서 산소와 이산화탄소의 교환이 일어납니다. 이러한 기관지와 폐포는 가슴막과 갈비뼈에 싸여 보호를 받습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173c16dfde93]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지내시경은 위내시경처럼 흔히 시행되지는 않지만 일부 호흡기질환에 매우 중요하고 효과적인 검사입니다. 기관지내시경 검사의 주된 목적은 인후두, 성대, 기관과 기관지의 점막에 이상이 있는지 직접 눈으로 관찰하고, 질병이 발생한 폐 부위에서 분비물 또는 조직 검체를 얻어 질병의 원인을 밝히는 것입니다.
+최근에는 기관지내시경 초음파, 네비게이션 장비 등을 이용해 기존 기관지내시경으로 접근할 수 없었던 기관지 벽 밖의 림프절 또는 종양과 말초 부위 폐 병변까지 접근할 수 있습니다. 또한 경직성 기관지내시경으로 기도협착 환자에게 스텐트를 삽입할 수 있고, 종양으로 기관지가 막힌 환자에서 종양절제술을 시행할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다음과 같은 경우 기관지내시경 검사 혹은 기관지내시경 초음파 검사가 필요합니다. 
+˚ 폐암의 진단
+˚ 폐암의 종격동 림프절 전이 여부 평가 및 병기 결정
+˚ 폐결핵 및 기관지결핵의 진단
+˚ 폐렴 및 비정형 폐렴의 원인균 확인
+˚ 객혈 여부 평가 및 객혈의 위치 감별
+˚ 기도폐쇄 여부의 확인
+˚ 간질성 폐질환의 진단
+˚ 원인이 불분명한 만성 기침의 정밀 검사
+˚ 종격동 림프절에 발생할 수 있는 질환(유육종증, 림프절 결핵, 림프종 등)
+˚ 기타 기도 질환 및 폐질환의 진단
+
+기관지내시경은 진단 목적 외에 치료를 위해 시행하기도 합니다.
+예를 들어 기관지 내 이물질은 내시경을 통해 제거하며, 기관지가 좁아지거나 막힌 경우 전신마취하에 경직성 기관지내시경을 이용해 레이저소작술, 풍선확장술, 금속이나 실리콘 스텐트 삽입술 등을 시도할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지내시경 검사에 걸리는 시간은 대체로 15~30분 이내입니다. 그러나 기관지내시경 초음파 또는 치료 목적의 경직성 기관지내시경 등 복잡한 시술은 1시간 정도 소요될 수도 있습니다. 시술 중 시행하는 검사로는 기관지 세척술, 폐포 세척술, 기관지 점막 솔질, 기관지 점막 조직검사, 기관지를 통한 폐 조직 검사, 기관지를 통한 림프절 세침흡인검사 등이 있습니다. 대체로 흉부 전산화단층촬영(CT) 등을 통해 어느 부위에서 어떤 검사를 할지 미리 정하고 시작하지만 시술 중 필요에 따라 변경하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1874fc790f71]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지내시경은 크게 경직성 기관지내시경과 굴곡성 기관지내시경으로 나뉩니다.
+경직성 기관지내시경은 금속관으로 만들어져 구부러지지 않으며, 기도에 이물질이 있거나 기도가 좁아진 경우, 다량의 객혈이 있는 경우에 주로 치료 목적으로 사용합니다. 경직성 기관지내시경 시술은 대개 수술에 준한 전신 마취가 필요합니다.
+굴곡성 기관지내시경은 유리섬유에 스테인리스 망과 합성수지를 입혀 약 310도의 상하 굴곡이 가능하며, 국소마취로 편하고 빠르게 검사를 시행할 수 있어 호흡기질환 진단에 광범위하게 사용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95acf93]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[한편 광원에 따라 백색광 기관지내시경과 형광 기관지내시경으로도 분류합니다. 일반 백색광 내시경으로는 폐암의 조기 병소를 발견하기 어려운 경우가 많습니다. 따라서 최근에는 특정 파장(400~440 nm)의 푸른 빛을 기관지 점막 표면에 비추어 발산되는 빛의 파장을 증폭해 영상으로 표시하는 형광 기관지내시경으로 조기 폐암의 발견율을 높이려는 시도가 이루어지고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95ad044]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[좌측 그림은 일반 백색광 내시경으로 본 좌상엽 기관지 입구로 점막의 이상이 잘 보이지 않습니다. 우측 그림은 동일한 곳을 형광 내시경으로 관찰한 것으로 적갈색 부분은 이형성 또는 상피내암종이 의심됩니다.
+또한 폐암이 기관지 벽을 어느 정도 깊이까지 침범했는지, 기관지 주변 림프절에 전이가 있는지 등은 진단과 치료 방침의 결정에 중요하지만 흉부 전산화 단층촬영(CT)만으로는 판단하기 어렵습니다. 이때는 기관지내시경 초음파 검사가 도움이 됩니다.
+굴곡형 기관지내시경 초음파는 주로 폐암 환자에서 폐문부 주변 종괴 및 종격동 림프절의 전이 여부를 확인하는 데 사용합니다. 굴곡형 기관지내시경을 삽입한 후 생리식염수를 채운 주사기를 이용해 탐색자에 달린 풍선을 부풀려 기관지 점막에 대고 내부 구조물을 관찰하면서 그림과 같이 흡인용 바늘을 이용해 조직검사를 합니다. 최근에는 가이드시스를 이용한 횡축 기관지내시경 초음파가 등장해 효과적으로 말초 폐병변의 정밀 검사가 가능해졌습니다. 이 외에도 전자기 유도 기관지경술 , 내과적 흉강경 검사 등 다양한 기관지내시경 시술이 개발되어 활발하게 사용되고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기관지내시경 검사 전에 혈액 검사, 흉부 촬영(X-ray) 및 흉부 전산화 단층촬영(CT), 심전도 검사, 폐활량 검사 등을 시행합니다. 혈액 검사와 심전도 검사, 폐활량 검사를 통해 출혈 성향이 있는지, 심박동에 이상이 있는지, 폐기능 이상이 있는지 등을 확인해야 합니다. 흉부 전산화 단층촬영(CT)은 어느 부위에서 어떤 방법으로 기관지내시경 검사를 할 것인지 계획을 세우는 데 도움이 됩니다.
+평소에 항응고제를 복용한다면 출혈 경향성이 높은 상태이므로 기관지내시경 검사 종류에 따라 수 일 전에 중단해야 합니다. 이에 대해서는 주치의와 상의하십시오.
+검사 전날은 저녁 식사를 가볍게 하고, 자정부터 물을 포함해 완전 금식합니다. 단, 평소 아침에 복용하는 약이 있다면 기관지내시경 검사를 지시한 의사와 상의해 소량의 물과 함께 복용할 수 있습니다. 검사 전에는 틀니와 안경 등을 빼서 따로 보관합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[검사실에 도착하면 필요에 따라 혈관 또는 근육 주사를 맞습니다. 보통 검사를 보다 안전하고 편안하게 받을 수 있도록 입과 기도의 분비물을 줄이는 약물과 통증을 줄이는 약물을 투여합니다. 주사 약물의 종류는 검사실마다 다를 수 있습니다.
+이후 분무기로 입안에 국소마취제를 뿌립니다. 입안과 후두가 국소마취되면 검사 도중 구역이나 기침을 줄일 수 있습니다. 또한 팔에 혈관을 확보해 주사제 및 수액을 투여할 수 있도록 합니다.
+검사대에 누우면 코를 통해 산소를 투여하고 심전도, 산소포화도, 혈압, 맥박 등을 관찰할 수 있도록 모니터를 연결합니다. 검사 도중 이상이 발생하면 즉시 발견해 적절한 조치를 취하기 위해서입니다.
+굴곡성 기관지내시경은 코나 입을 통해 시술하지만, 경직성 기관지내시경은 전신마취하에 입을 통해서만 시술할 수 있습니다. 코를 통해 내시경을 삽입하면 구역감이 덜하며 입을 벌리기 어려운 환자에게도 시술할 수 있습니다. 하지만 코에 손상을 줄 수 있고 삽입 과정에서 코 점막에 서식하는 균에 내시경이 오염될 수 있습니다.
+기관지내시경 시술은 대개 심한 통증을 일으키지지는 않지만, 기침 반사나 이물감 때문에 불편함을 느낄 수 있고 기구가 기도로 들어가는 과정에서 불안과 긴장이 생길 수 있습니다. 이러한 이유로 수면(진정) 내시경을 시행하기도 하며, 이때는 검사 직전에 진정제를 투여합니다. 진정제는 불안과 긴장을 줄여 검사에 대한 거부감을 완화하고, 검사 과정이 덜 불편하게 느껴지도록 도와줍니다. 일부 환자에서는 검사 과정에 대한 기억이 흐려질 수 있습니다. 다만 진정제는 드물게 호흡 저하나 혈압 감소 등의 부작용을 일으킬 수 있어, 의료진의 모니터링 하에 신중하게 사용해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 정상 기관지의 내시경 소견
+정상적인 기관지는 점막 표면이 맑고 매끄러우며 촉촉한 옅은 분홍빛을 띱니다. 기관지 내부 통로가 좁아지거나 막힌 곳 없이 끝까지 깨끗하게 잘 열려 있는 상태를 의미합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95ad2a7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 기관지 결핵
+장기간 기침이 지속되는 젊은 여성 등에서 흔히 관찰될 수 있습니다. 흉부 X-ray상으로는 뚜렷한 이상이 보이지 않더라도 내시경으로 보면 기관지 벽 점막에 하얗게 치즈 같은 모양의 염증성 괴사 물질이나 궤양이 형성되어 기도를 좁히고 있는 모습을 관찰하여 결핵을 정확히 진단합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95ad1f6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 폐암 및 조기 폐암
+기침이나 객혈을 주증상으로 내원한 환자에서 점막 조직이 비정상적으로 자라나 주변 기관지를 꽉 막고 있는 종양을 직접 확인하고 바로 조직검사를 시행하여 비소세포암 등 폐암 여부를 판별합니다.
+특히 암으로 변해가는 미세한 초기 단계(이형성증)나 아주 미세한 조기 암(상피내암종)은 일반 내시경으로 발견하기 힘들지만, 특수 형광 내시경을 사용하면 암세포가 있는 점막 부위가 적갈색으로 확연하게 구분되어 조기에 암을 찾을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95ad115]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 검사 후 주의사항
+수면내시경 후에는 의식과 호흡 상태가 안정될 때까지 검사실 또는 회복실에서 안정을 취하는 것이 좋습니다. 검사 당일은 집중력이 떨어지고 판단력 저하가 있을 수 있으므로 운전이나 기계조작을 삼가야 합니다. 목 안이 마취되어 있기 때문에 바로 음식을 먹을 경우 폐로 흡인될 위험이 있으므로 검사 후 2시간 동안 금식합니다. 이후 물을 마셔보아 특별한 문제가 없다면 식사를 해도 됩니다.
+
+
+2. 검사 후 후유증/합병증
+기관지내시경은 안전한 검사입니다. 그러나 모든 수술이나 검사와 마찬가지로 드물게 합병증이 생길 수 있습니다. 따라서 시술 전에 여러 검사를 통해 후유증이나 합병증 발생 위험을 파악합니다. 협심증, 부정맥 등 심장 질환, 만성 콩팥 기능부전, 질병이나 약물(항응고제 등)로 인해 출혈 경향이 있는 경우에는 검사 위험도가 다소 높을 수 있으므로 시술 전 의료진에게 꼭 알려야 합니다.
+시술 후 비교적 흔하게 나타나는 후유증으로 기침이나 가래에 소량의 피가 섞이거나 열이 날 수 있습니다. 이런 증상은 하루이틀 지속될 수 있으나 시간이 지나면 대부분 나아집니다. 검사 후 2~3일이 지나도 발열이 지속되고 객혈의 양이 증가한다면 병원에 가야 합니다. 경험 많은 의사가 신중하게 검사를 시행해도 극히 드물게 불가항력적인 합병증이 생길 수 있습니다. 1만 명에 한 명 꼴로 사망할 수 있다는 보고가 있으며, 주된 사망원인은 대량 출혈과 심장마비입니다. 그러나 출혈 경향이나 심장질환이 없다면 중대한 합병증이 발생할 가능성은 희박합니다. 발생 가능한 합병증은 다음과 같습니다.
+
+
+˚ 출혈
+˚ 기흉, 공기색전증 
+˚ 심근경색, 부정맥, 또는 심정지
+˚ 폐렴
+˚ 후두 경련 및 기관지 수축
+˚ 의식 및 호흡 저하, 급성 호흡부전 
+
+출혈이 심하거나 후두 경련 및 기관지 수축이 발생하면 기관 삽관 등 필요한 응급처치를 시행하며 중환자실에서 경과를 관찰합니다. 기흉이 발생하면 우선 산소를 투여하고, 때에 따라서 흉관 삽관술이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[246]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 유아나 소아도 기관지내시경이 가능한가요?
+
+A. 소아는 기도가 성인에 비해 매우 좁고 연약하므로 소아용으로 특별히 제작된 가느다란 미세 기관지내시경 장비를 사용하여 숙련된 소아청소년과 전문의가 안전하고 정밀하게 시행합니다.
+
+Q. 기관지내시경 후 발열과 설사 증상이 있는데 병원에 바로 가봐야 하나요?
+
+A. 기관지내시경 후 발열은 흔히 나타나는 증상입니다. 해열제로 호전되나 반복적으로 열이 난다면 진료를 받아야 합니다.
+설사는 기관지내시경으로 인한 증상은 아닙니다. 기관지내시경 후 염증을 예방하기 위해 처방한 항생제 때문일 수 있으니 진료를 받으시기 바랍니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한결핵 및 호흡기학회. (2019). 기관지내시경 교과서
+2. Wang, K.-P., Mehta, A. C., &amp; Turner, J. F., Jr. (Eds.). (2020). Flexible bronchoscopy (4th ed.). Hoboken, NJ: Wiley-Blackwell.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

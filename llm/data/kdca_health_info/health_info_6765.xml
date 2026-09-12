@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[고혈압]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6765]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 고혈압은 초기에는 대부분 증상이 없지만, 조절하지 않으면 심장·뇌·콩팥과 같은 중요한 장기에 치명적인 손상을 일으킬 수 있는 질환입니다.
+• 혈압은 가정혈압을 포함해 표준화된 방법으로 정기적으로 측정해야 합니다.
+• 대부분의 고혈압 환자는 수축기혈압 140 mmHg 미만, 이완기혈압 90 mmHg 미만을 기본 목표로 하며, 표적 장기 손상이나 당뇨병 등 고위험 환자에서는 가능하다면 수축기 130 mmHg 미만, 이완기 80 mmHg 미만으로 조절하는 것이 권고됩니다.
+• 소금 섭취 줄이기, 규칙적 운동, 금연·절주 같은 생활습관 개선은 혈압약 한 알에 버금가는 효과가 있으므로 모든 환자에게 필수적입니다.
+• 약물치료로는 안지오텐신 전환효소 억제제 또는 안지오텐신 수용체 차단제, 칼슘통로차단제, 이뇨제, 베타차단제 등이 사용되며, 필요 시 두 가지 이상을 함께 복용해 조절합니다.
+• 무엇보다 꾸준한 치료와 정기적인 진료를 통해 합병증을 예방하는 것이 고혈압 관리의 핵심입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압이란 위팔에 혈압대를 감아 측정한 동맥의 압력을 기준으로 수축기혈압 140 mmHg 이상, 또는 이완기혈압 90 mmHg 이상인 경우를 말합니다. 수축기혈압과 이완기혈압이 각각 120 mmHg 미만, 80 mmHg 미만일 때 정상혈압이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈압은 정상혈압, 주의혈압, 고혈압 전단계, 1기 및 2기 고혈압으로 구분되며, 그 기준은 아래 표 '2022 고혈압 진료지침에 따른 혈압의 분류’와 같습니다. 정상혈압은 심혈관 및 뇌혈관질환 발생 위험이 가장 낮은 최적의 혈압을 말합니다. 
+원인이 명확하지 않은 경우를 본태성 고혈압이라 하며, 특정 원인에 의해 발생하는 경우는 이차 고혈압으로 분류합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b679d1fc27]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[평소에는 정상이지만 진료실에서만 혈압이 높은 경우를 ‘백의 고혈압’이라 하며, 반대로 진료실 혈압은 정상이지만 일상 활동 중에는 높은 경우를 ‘가면 고혈압’이라고 합니다. 이처럼 진료실 혈압만으로는 정확한 진단이 어렵기 때문에 24시간 활동혈압이나 가정에서 측정하는 혈압 수치가 매우 중요합니다. 이를 진료실 밖 혈압이라고 하며 혈압 측정 방법에 따른 대응 혈압은 아래 그림과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b679d9e521]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대부분의 고혈압은 여러 유전적 요인과 생활습관이 함께 작용해 발생하는 본태성(일차성) 고혈압으로, 가족력이 흔하고 다인성 유전 형태를 보입니다. 환경적 요인으로는 과도한 음주, 신체활동 부족, 체중 증가, 고염식 등이 고혈압 발생 위험을 높이며, 대시(DASH) 식단과 같은 건강한 식습관은 위험을 낮춥니다. 흡연과 스트레스는 일시적으로 혈압을 올릴 수 있으나, 만성 고혈압의 직접 원인이라는 근거는 제한적입니다. 한편, 이차성 고혈압의 주요 원인으로는 콩팥실질질환, 콩팥동맥협착, 원발성 알도스테론증, 크롬친화세포종, 갑상선 기능 이상, 쿠싱증후군, 수면무호흡증 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압을 제대로 치료하지 않으면 혈관에 지속적인 부담이 가해져 동맥경화가 진행되고, 여러 표적 장기에 다양한 합병증을 일으킵니다. 미세혈관에서는 소동맥과 세동맥의 벽이 두꺼워지고 내경이 좁아지며, 미세혈관의 수가 감소해 조직으로 가는 혈류가 줄어듭니다. 큰 동맥은 죽상경화로 인해 탄력이 떨어지고, 늘어나거나 구부러지는 변형이 생겨 강직도가 증가합니다. 이러한 변화는 결국 심장·뇌·콩팥·눈과 같은 장기에 고혈압성 손상을 초래합니다. 심장에서는 좌심실이 비대해지고 관상동맥의 혈류 공급 능력이 떨어져 심근 허혈과 심부전으로 이어질 수 있습니다. 뇌에서는 열공경색, 미세출혈, 뇌혈관 협착 등이 발생하여 뇌졸중 위험이 크게 증가합니다. 콩팥에서는 콩팥 혈관과 실질이 손상되어 사구체여과율이 감소하고 단백뇨가 나타나며, 만성콩팥병으로 진행할 수 있습니다. 눈에서는 고혈압성 망막병증이 발생하여 시력 저하나 망막 출혈 등이 나타날 수 있습니다. 반대로 혈압을 잘 관리하면 이러한 장기 손상을 예방하고, 심뇌혈관질환 위험을 크게 줄일 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압은 교감신경계, 레닌–안지오텐신–알도스테론 호르몬계, 그리고 체내 염분 민감도 변화 등 여러 요인이 함께 작용해 혈관의 압력이 지속적으로 높아지는 상태입니다. 스트레스나 비만 등으로 교감신경계가 과활성화되면 심장이 더 세게, 더 빠르게 뛰고 혈관이 수축하여 혈압이 올라갑니다. 또 레닌–안지오텐신–알도스테론 호르몬계가 과도하게 작동하면 몸이 소금과 물을 더 많이 흡수하여 혈액량이 증가하고, 이 역시 혈압 상승에 중요한 역할을 합니다. 신장이 나트륨을 충분히 배설하지 못하거나 염분에 민감한 경우에도 체액량이 쉽게 늘어나 혈압이 높아집니다. 시간이 지나면 혈관이 점점 딱딱해지고(동맥경직) 혈관 안쪽 내피 기능이 떨어져 혈관이 잘 확장되지 않으며, 이러한 변화는 말초혈관저항을 더 높여 고혈압이 쉽게 고착됩니다. 이런 변화가 반복되면 혈관벽이 두꺼워지고 탄력을 잃는 악순환이 생기며, 결국 심장·뇌·신장과 같은 장기에 부담이 쌓여 다양한 합병증으로 이어질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2023년 기준 우리나라 20세 이상 성인의 고혈압 유병율은 약 29%로, 전체 성인 약 1,260만 명이 고혈압을 가지고 있음을 의미합니다(남자 31%, 여자 27%). 고혈압 유병자 중 고혈압을 인지하는 비율은 79%이며, 실제로 치료를 받고 있는 비율은 76%입니다. 전체 고혈압 환자 중 치료 목표를 달성하는 비율은 62%입니다. 연간 1,191만 명이 고혈압으로 진료를 받고, 1,124만 명이 고혈압 치료제를 처방받고 있으며, 831만 명이 지속적으로 치료를 유지하고 있습니다. 
+약물 치료 양상을 보면, 고혈압 치료자의 40%는 단일요법, 44%는 2제 병합요법, 16%는 3제 이상 병합요법을 사용하고 있습니다. 약물 계열별 사용률은 안지오텐신 수용체 차단제(ARB) 77%, 칼슘통로차단제(CCB) 62%, 이뇨제 22%, 베타차단제 15% 순으로 나타나고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19afb76f8003]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19afb7654b09]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압은 심장·뇌·망막·말초혈관 등에서 표적 장기 손상이 발생하기 전까지 대부분 특별한 증상이 없습니다. 일부 환자에서는 두통, 두근거림, 어지러움, 호흡곤란 같은 비특이적 증상이 나타날 수 있습니다. 이러한 증상만으로 고혈압을 판단할 수 없기 때문에 정기적인 혈압 측정이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압의 진단, 치료, 예후 평가에서 가장 기본이 되는 것은 정확한 혈압 측정입니다. 혈압은 측정 환경, 측정 부위, 자세, 임상 상황에 따라 크게 달라질 수 있으므로, 표준화된 방법으로 여러 차례 반복 측정하는 것이 원칙입니다. 진료실 혈압뿐 아니라 가정혈압과 24시간 활동혈압을 활용하면 더 정확한 진단이 가능합니다. 가정에서 혈압을 정확히 측정하기 위해 모든 환자는 가정혈압 측정법을 교육받아야 합니다. 20세 이상 성인은 정기적인 혈압 측정을 권고하며, 특히 비만, 고혈압 가족력, 고혈압 전단계에 해당하는 경우 매년 진료실혈압 측정을 통해 고혈압 발생 여부를 평가하는 것이 권고됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18455d1cf982]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18455d220355]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[-가정혈압측정 교육 영상]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치료 목표
+고혈압 치료의 가장 중요한 목표는 심장·뇌·신장 등 표적 장기 손상을 예방하고, 심뇌혈관질환 발생을 줄여 건강한 삶을 유지하는 것입니다. 이를 위해 임상 진료지침에서는 연령과 동반질환에 따라 적정 혈압 목표치를 설정하고 있습니다. 
+표적 장기 손상이 없거나 알부민뇨가 없는 만성콩팥병 환자, 그리고 노인 고혈압 환자의 치료 목표는 수축기혈압 140 mmHg 미만, 이완기혈압 90 mmHg 미만입니다. 반면 고위험 당뇨병 환자를 포함하여 표적 장기 손상이 있는 환자에서는 보다 엄격한 조절이 필요하며, 수축기혈압 130 mmHg 미만, 이완기혈압 80 mmHg 미만을 목표로 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=184375edfa49]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압 치료에 가장 널리 사용되는 약제는 크게 4가지 계열입니다. 환자의 연령, 동반 질환, 표적 장기 손상 여부에 따라 적합한 약제를 선택하며, 필요 시 두 가지 이상의 약제를 병합해 치료합니다.
+1. 안지오텐신 전환효소 억제제 / 안지오텐신 수용체 차단제는 두 약제 모두 콩팥의 레닌-안지오텐신-알도스테론 호르몬계를 억제해 혈관을 확장시키고 혈압을 낮춥니다. 당뇨병, 단백뇨, 만성콩팥병, 심부전이 동반된 고혈압 환자에서 효과적입니다.
+2. 칼슘통로차단제는 혈관 평활근으로의 칼슘 유입을 억제해 혈관 확장 효과를 나타내 협심증이 있는 고혈압 환자에서 효과적입니다. 또한 노인이나 수축기 단독 고혈압, 심혈관질환 위험이 높은 환자에서도 효과적입니다. 
+3. 베타차단제는 교감신경계를 억제하여 심박수와 심장 수축력을 감소시켜 혈압을 낮춥니다. 협심증, 심근경색 후, 심부전, 빠른 부정맥이 동반된 고혈압 환자에서 우선적으로 사용됩니다. 서맥, 방실차단, 피로감 등의 부작용이 나타날 수 있습니다. 
+4. 이뇨제는 신장에서 나트륨과 수분의 재흡수를 억제하고 배설을 촉진함으로써 체액량 자체를 감소시켜 혈압을 낮춥니다. 심부전이 동반된 고혈압이나 수축기 단독 고혈압 치료에 효과적입니다. 전해질 이상, 탈수, 근경련, 부정맥 등이 발생할 수 있어 주의를 요하며, 정기적인 전해질 추적 검사가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[건강한 식사습관, 규칙적인 운동, 금연, 절주 등의 비약물치료(생활요법)는 혈압을 낮추는 효과가 뚜렷하여 모든 고혈압 환자에게 중요할 뿐 아니라, 주의혈압 및 고혈압 전단계인 사람에게도 고혈압의 예방을 위해 적극적으로 권장됩니다.
+좋은 생활습관은 혈압약 한 가지를 사용하는 것과 비슷한 혈압 강하 효과가 있으며, 약물치료 중인 환자도 생활요법을 함께 실천하면 복용 약제의 용량과 개수를 줄이고 약효를 높이며  부작용을 감소시키는 데 도움이 됩니다. 특히, 소금을 하루 6 g 이하로 줄이고, 체중을 체질량지수 25 kg/m2까지 줄이려는 노력을 해야 합니다.
+금연과 절주는 매우 중요하며, 주 5회 이상, 하루 30~50분 정도의 유산소 운동은 혈압 강하에 효과적입니다. 채소와 과일 위주의 식사, 칼로리와 포화지방의 섭취 감소, 생선류, 견과류, 저지방 유제품 등을 늘린 식단을 실천하는 것이 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1845b53659b8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압은 싱겁게 먹기·규칙적 운동·금연·절주 같은 생활습관을 꾸준히 실천하고 정기적인 혈압 확인을 통해 스스로 건강을 지킬 수 있는 질환입니다. 약물치료를 받는 환자뿐 아니라, 고혈압 전단계나 주의혈압 단계의 사람에게도 자가 관리는 매우 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압 환자는 약물 효과와 혈압 조절 상태를 확인하기 위해 정기적으로 의료기관을 방문해 혈압, 심장·신장 기능, 혈액검사 등을 점검해야 합니다. 정기 진찰은 합병증을 조기에 발견하고 치료 계획을 조정하는 데 필수적입니다. 증상 변화나 혈압 변동이 크다면 예정된 진료 일정과 관계없이 즉시 진료를 받는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압은 지속적인 혈관 손상을 통해 심장, 뇌, 콩팥, 망막, 말초혈관 등 주요 장기에 표적 장기 손상을 일으킵니다. 그 결과 심부전·심근경색·뇌졸중·만성콩팥병·망막병증·말초동맥질환 등 치명적 합병증으로 진행할 수 있습니다. 이러한 위험을 줄이기 위해서는 조기 진단과 꾸준한 혈압 조절이 필수적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압은 유전적 요인뿐 아니라 생활습관과 환경적 요인이 함께 작용해 발생합니다. 주요 위험요인으로는 가족력, 나이 증가, 비만(특히 복부비만), 과도한 염분 섭취, 운동 부족, 과음, 흡연, 스트레스, 수면무호흡증, 이상지질혈증, 당뇨병 등이 알려져 있습니다. 이러한 요인들은 혈관을 딱딱하게 만들거나 체액량을 증가시켜 혈압 상승에 직접적인 영향을 줍니다. 
+고혈압은 생활습관 개선만으로도 충분히 예방하거나 발생 시기를 늦출 수 있습니다. 소금 섭취를 줄이고 규칙적으로 운동하며, 적정 체중 유지, 금연, 절주, 채소·과일·생선 중심의 건강한 식단을 실천하는 것이 대표적인 예방 방법입니다. 또한 정기적인 혈압 측정을 통해 고혈압 전단계에서 조기에 발견하면 합병증 위험을 크게 줄일 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[소금 섭취 줄이기, 체중 조절, 규칙적인 운동, 금연·절주, 건강한 식단 실천은 혈압약 한 가지에 버금가는 효과를 낼 수 있으며, 모든 고혈압 환자에게 반드시 필요한 관리법입니다.
+
+1) 염분 섭취 줄이기 
+  : 하루 소금 섭취량 6 g 이하 권고.국물 음식과 가공식품 섭취를 줄이고 싱겁게 먹기. 
+2) 적정 체중 유지 
+  : 체질량지수(BMI) 25 kg/m² 미만, 허리둘레(남 &lt;90 cm, 여 &lt;85 cm) 유지.체중 감량.
+3) 규칙적 운동 
+  : 주 5회 이상, 하루 30분 이상 걷기·조깅·자전거 타기 등 유산소 운동 권장. 
+4) 금연 및 절주 
+  : 금연은 필수.음주는 남성 하루 2잔 이하, 여성 하루 1잔 이하, 가능하면 금주
+5) 건강한 식사(대시(DASH) 식단) 
+  : 채소·과일·통곡물·생선·저지방 유제품 섭취 늘리기.포화지방, 튀김, 가공식품 섭취 줄이기.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[지원체계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[119]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[가정혈압의 올바른 측정법]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 고혈압약을 평생 먹어야 하나요?
+
+A. 고혈압은 대부분 만성 질환이므로 진단 후에는 장기적으로 약물을 복용해야 하는 경우가 많습니다. 혈압이 안정되었다고 해서 임의로 약을 중단하면 다시 상승할 수 있습니다.
+체중 감량, 식습관 개선, 운동 등 생활습관을 잘 관리하여 혈압이 정상으로 유지된다면, 의사와 상담 후 약을 줄이거나 중단할 수 있는 경우도 있습니다. 그러나 이 경우에도 반드시 주치의와 상의하고, 정기적으로 혈압을 확인해야 합니다.
+
+Q. 혈압이 매번 다르게 나오는 이유는 무엇인가요?
+
+A. 혈압은 스트레스, 운동, 식사, 카페인 섭취, 수면 상태 등 여러 요인에 따라 달라질 수 있습니다. 예를 들어 긴장하거나 운동, 식사 직후, 수면 부족, 카페인 섭취 후에는 혈압이 일시적으로 상승할 수 있습니다. 또한 추운 곳이나 시끄러운 환경, 잘못된 자세나 팔 위치에서도 측정값이 달라질 수 있습니다.
+정확한 혈압 평가를 위해서는 일정한 시간대에 편안한 환경에서 올바른 자세로 여러 번 측정해 평균값을 확인하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한고혈압학회 진료지침 제정위원회. (2018). 2018년 대한고혈압학회 고혈압 진료지침.
+2. 대한고혈압학회 진료지침 제정위원회. (2022). 2022년 고혈압지침 개정안 변경대비표. 대한고혈압학회.
+3. 대한고혈압학회. (2020). 고혈압(개정판). 대한의학(대한의학서적). 
+4. 대한고혈압학회. (2025). 2025 고혈압 fact sheet. 
+5. 질병관리청 (2019). 2019 국민건강영양조사.
+6. 통계청. (2022.10.01). 고혈압 통계자료. https://kosis.kr/search/search.do?query=%EA%B3%A0%ED%98%88%EC%95%95]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

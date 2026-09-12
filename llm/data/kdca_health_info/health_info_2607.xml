@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[일과성 허혈 발작]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[2607]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뇌졸중은 뇌에 혈액을 공급하는 뇌혈관이 막히거나(뇌경색) 터져서(뇌출혈) 뇌세포 손상이 발생하는 질환입니다. 2021년 사망원인 통계자료에 따르면 우리나라 주요 사망원인 중 1위가 암이고 뇌졸중을 포함하는 뇌혈관질환이 4위를 차지합니다. 뇌에 산소 및 영양소를 공급하는 뇌혈관이 막히면 뇌세포 손상이 일어나 뇌경색이 발생하는데, 일부에서는 뇌손상이 완전히 일어나기 전에 뇌혈관을 막았던 혈전이 저절로 녹거나 막히지 않은 주변부 혈관들이 혈액 공급을 도와 증상이 저절로 호전되는 경우가 있습니다. 마치 기도에 음식이 걸려서 호흡을 못할 경우 산소 결핍으로 쓰러지고 호흡을 계속 못 하면 사망하겠지만, 수분 안에 음식물을 제거해 호흡이 회복되면 금방 정신을 차리는 것과 비슷합니다.
+이처럼 뇌혈관의 폐색으로 증상이 생겼으나 짧은 시간 내에 완전히 회복되는 경우를 일과성 허혈 발작이라고 하는데, 증상이 일시적이라서 환자는 별일 아니라고 생각해 적절한 진료를 받지 않는 경우가 많습니다. 뇌혈관의 문제라는 것을 몰라도 계속 불편하다면 병원을 찾겠지만, 증상이 호전되면 불편하지 않으므로 병원을 방문하지 않는 것입니다. 그러나 일과성 허혈 발작이 생겼다는 것은 혈전이나 색전이 뇌혈관을 막았거나 뇌혈관이 심하게 좁아 뇌혈류 공급이 제대로 되지 않았음을 뜻합니다. 즉, 뇌혈관이 막힐 만한 원인이 있어서 발생한 증상이기 때문에 원인을 적절하게 찾아 치료받지 않으면 뇌혈관이 다시 막혀서 비가역적인 뇌손상(뇌경색)이 발생할 가능성이 매우 높습니다.
+기존 연구에 따르면 일과성 허혈 발작이 발생한 환자가 3개월 이내에 다시 뇌경색을 겪는 비율은 약 17~20%입니다. 이러한 위험은 일과성 허혈 발작이 생긴 초반에 특히 높아 첫 2일과 7일 사이에 뇌경색이 생기는 비율은 각각 3.1%와 5.2% 정도였습니다. 장기적으로도 일과성 허혈 발작이 생긴 환자는 일반 인구에 비해 뇌졸중 발생 위험이 약 5배 정도 높습니다. 즉, 일과성 허혈 발작은 증상이 좋아졌다고 해도 악화 및 재발의 가능성이 매우 높은 응급 신경계 질환입니다. 단, 초기에 적절한 진료 및 치료를 받으면 추가적인 뇌경색의 약 80%는 예방이 가능합니다. 따라서 일과성 허혈 발작이 의심된다면 즉시 병원에 방문해 적절한 진료와 치료를 받아야 합니다. 또한 실신, 편두통, 부분성 경련발작, 저혈당 등과 같이 유사한 증상을 보이는 다른 질병과 구분할 필요도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일과성 허혈 발작은 뇌혈관의 혈액공급이 저하되어 발생하는데, 흔한 원인은 뇌혈관의 죽상경화증으로 인해 뇌혈관이 좁아지거나 막히는 것입니다. 또한 혈액이 응고되어 생긴 혈전이 뇌혈관을 막는 경우도 있습니다. 정확한 원인을 파악해 대책을 세우는 것이 일과성 허혈 발작 환자의 예방 및 치료에 매우 중요합니다. 뇌혈관 협착을 유발하는 죽상경화증을 일으키는 인자는 고혈압, 당뇨병, 이상지혈증, 비만, 흡연, 운동부족 등이므로, 이런 인자들을 개선하는 것이 일과성 허혈 발작이나 뇌졸중의 예방에 중요합니다. 죽상경화증 외에 혈전의 발생과 연관된 심장질환(심방세동, 심실 내 혈전, 인공판막 등)이나 혈관박리, 혈관염 등도 일과성 허혈 발작을 유발할 수 있습니다. 
+
+1) 연령과 유전요인
+일과성 허혈 발작은 뇌경색과 발생 기전이 비슷한 뇌혈관질환으로, 고령일수록 발생 위험이 높습니다. 일과성 허혈 발작의 원인인 죽상경화증 및 심장질환 등이 고령일수록 흔하고 고혈압, 당뇨병 같은 위험인자가 동반되는 경우가 많기 때문입니다. 일과성 허혈 발작이 발생한 환자들 중에서도 고령일수록 추가적인 뇌경색이 발생할 위험이 높습니다. 그 외에 협심증이나 심근경색과 같은 허혈성 심장질환 및 뇌졸중의 가족력이 있는 경우에는 그렇지 않은 사람에 비해 발생 위험이 더 높습니다. 
+
+2) 동반 질환 
+고혈압, 당뇨병과 이상지혈증은 일과성 허혈 발작뿐 아니라, 이차적인 뇌경색의 발생 위험도 높입니다. 철저한 혈압 조절 등 동반 질환의 개선은 일과성 허혈 발작 및 뇌졸중을 예방하는 데 효과적입니다. 
+
+3) 생활 습관  
+술과 담배는 뇌혈관 건강에 좋지 않습니다. 특히, 흡연자는 비흡연자에 비해 일과성 허혈 발작 및 뇌경색 위험이 월등히 높습니다. 비만 및 운동 부족도 위험을 높입니다. 적절한 운동과 금주, 금연을 통한 생활습관 개선은 뇌혈관질환의 예방에 매우 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일과성 허혈 발작은 뇌혈류의 감소로 인해 국소적인 신경학적 증상이 주로 나타나는데 뇌혈관이 지배하는 뇌 영역의 기능에 따라 매우 다양한 신경학적 증상을 보일 수 있습니다. 대부분의 증상은 갑작스럽게 발생하는 것이 특징입니다.
+
+
+1. 일과성 허혈 발작의 주요 증상 
+˚ 마비(paresis): 한쪽 팔다리의 힘이 반대편보다 약해지는 증상 
+˚ 감각저하(hypesthesia): 신체의 좌측 혹은 우측 감각이 반대측보다 둔해지거나 저린 증상 
+˚ 구음장애(dysarthria): 말을 할 때 혀가 꼬이거나 발음이 둔해지는 증상 
+˚ 언어상실증(aphasia): 갑자기 제대로 말을 하기 힘들거나 남의 말을 이해하지 못하는 증상 
+˚ 편측무시(unilateral neglect): 손상된 대뇌반구 반대편의 공간과 신체의 지각이 감소하는 증상 
+˚ 시야결손(visual field defect): 시야의 일부분이 안 보임
+˚ 복시(diplopia): 물건이 두개로 보임
+˚ 어지럼증(dizziness or vertigo): 어지러움을 느낌
+˚ 조화운동불능(ataxia): 팔다리의 힘은 정상이나 섬세한 움직임이나 균형을 잡기가 어려움]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18870a4e35f3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 원인 혈관에 따른 증상 
+뇌에 분포하는 혈관은 앞순환계(anterior circulation)와 뒷순환계(posterior circulation)로 나눌 수 있습니다. 그중 앞순환계가 전체 뇌혈류의 80% 정도를 담당합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173c16e035c6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[(1) 앞순환계질환  
+뇌로 혈류를 공급하는 혈관 중 가장 굵은 혈관이 속목동맥(내경동맥)입니다. 속목동맥은 크게 중간대뇌동맥과 앞대뇌동맥으로 분지되어 앞순환계로 혈류를 공급합니다. 죽상경화로 속목동맥에 심한 협착이 있으면 중간대뇌동맥질환과 앞대뇌동맥질환을 일으켜 다양한 신경학적 증상을 보일 수 있습니다. 속목동맥이 심하게 좁아져 일과성 허혈 발작이나 뇌경색이 발생했거나, 그럴 위험이 매우 높다고 판단되는 경우에는 목동맥내막절제술 또는 목동맥 스텐트삽입술을 시행할 수 있습니다. 중간대뇌동맥은 크게 위분지와 아래분지로 갈라진 후 무수한 작은 가지로 나뉩니다. 각 혈관이 담당하는 뇌세포들의 기능이 각기 다르므로 어떤 혈관이 막혔느냐에 따라 다양한 신체증상이 나타납니다. 보통 좌측 대뇌에 언어기능이 존재하기에 좌측 중간대뇌동맥이 막히면 언어 장애가 동반되는 경우가 많습니다.  
+
+(2) 뒷순환계질환  
+뒷순환계는 양쪽 척추동맥이 만나서 기저동맥을 이루며, 숨골을 포함한 뇌간, 소뇌, 후두엽 등에 혈액을 공급합니다. 뇌간은 뇌신경의 주요 핵과 주요 신경섬유들이 밀집되어 지나가는 곳이므로 조금만 혈관에 문제가 생겨도 의식이 없어지거나, 물체가 두 개로 보이는 현상(복시), 마비, 감각장애 등을 보일 수 있고 심한 경우 사망에 이를 수 있습니다. 척추기저동맥 영역에 일시적으로 뇌 혈류가 부족해지면 의식이 흐려지거나 어지럼증, 복시 등을 동반하는 경우가 많습니다. 짧은 시간 내에 증상이 좋아졌더라도 척추기저동맥 협착 가능성이 있기에 즉시 신경과 진료를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[힘이 없어지거나 감각이 떨어지는 증상, 말이 잘 나오지 않는 증상, 어지럼증 등으로 병원을 방문하면, 의사는 자세한 문진과 함께 환자의 증상을 평가하면서 치료를 시작합니다. 정확한 진단을 위해 진찰은 물론 혈액검사와 뇌 영상촬영 등 검사를 시행합니다.
+
+1. 문진
+증상의 발생 시기와 심한 정도, 지속 시간, 과거 병력, 약물 복용 여부, 일반 건강상태 등 전반적인 내용을 확인합니다. 신경학적 증상의 원인을 감별하고 문제가 된 뇌혈관 상태를 파악하기 위해 추가적인 검사를 시행합니다.
+
+2. 신체검사
+문진 후 신경학적 증상이나 징후가 없는지 진찰합니다. 의식수준, 뇌신경기능 평가, 근력, 감각, 심부건반사(deep tendon reflex) 등 신경계통의 이상을 알아내기 위해 자세한 검사를 시행합니다.
+
+3. 혈액검사
+일과성 허혈 발작과 증상이 비슷한 다른 질병을 구분하기 위해 기본적인 혈액검사를 시행합니다. 특히 재발을 막기 위해 당뇨병, 이상지혈증, 전해질, 빈혈 검사 등을 반드시 확인해야 합니다.
+
+4. 뇌실질과 혈관의 영상촬영
+일과성 허혈 발작은 병력과 진찰 소견이 중요하지만, 정확한 진단과 치료 방침을 정하기 위해서 뇌 영상을 촬영합니다. 뇌 영상에는 컴퓨터단층촬영, 자기공명영상, 혈관조영술, 초음파검사 등이 있습니다.
+
+1) 컴퓨터단층촬영
+뇌 컴퓨터단층촬영(Computed Tomography, CT)은 안전하고 빠르며, 결과를 보면 혈관이 막혀서 생긴 문제인지(허혈성), 터져서 생긴 문제인지(출혈성) 쉽게 구분할 수 있습니다. 일과성 허혈 발작이 의심될 때 즉시 시행하면 뇌출혈이나 종양 등 뇌 병변을 구분하거나 치료 방침을 정하는 데 큰 도움이 됩니다. 사진에서 뇌 경색 부위는 검게 보이며 뇌출혈은 희게 보입니다. 그러나 일과성 허혈 발작은 CT상 대부분 정상으로 보이므로 검사 결과가 정상이라고 해서 안심해서는 안 되며, 의사와 상의해 추가 검사 및 처치를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1896c17dd5d4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 자기공명영상(Magnetic resonance imaging, MRI) 
+자기공명영상(Magnetic Resonance Imaging, MRI)은 해상도가 뛰어나 CT에서 보이지 않는 작은 경색이나 출혈을 찾을 수 있습니다. 확산 강조 자기공명영상이나 관류 강조 자기공명영상같은 방법으로 초기에도 뇌경색이나 뇌혈류 상태를 평가할 수 있습니다. 다만, 촬영 시간이 상대적으로 오래 걸려 중환자나 의식이 저하된 환자, 검사에 협조가 되지 않는 환자에서 시행이 어려운 한계가 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95b0522]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 혈관조영검사
+일과성 허혈 발작이 의심되는 경우에는 뇌혈관의 협착 및 폐색을 확인하기 위해 컴퓨터단층촬영이나 자기공명영상을 활용한 뇌혈관조영검사를 시행합니다. 뇌혈관을 더 자세히 평가해야 한다고 판단되면 넓적다리동맥(대퇴동맥)에 가는 도관을 삽입하고 뇌혈관에 직접 조영제를 투여하는 침습적 뇌혈관조영술을 시행하기도 합니다. 대개 침습적 뇌혈관조영술은 뇌혈관이 심하게 좁아져 있어 목동맥내막절제술이나 스텐트삽입술의 시행 여부를 결정해야 하는 경우, 지주막하출혈, 동정맥 기형처럼 뇌혈관 상태를 근거로 추가적인 치료 방향을 결정해야 할 때 실시합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95b0644]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[5. 초음파 검사 
+초음파검사는 귀에 들리지 않는 높은 주파수의 음파(초음파)를 몸속으로 발사한 후, 장기나 조직에 반사되어 되돌아오는 음파를 전기적으로 처리해 모니터 상에 영상으로 보여줍니다. 간단히 짧은 시간내에 시행할 수 있고, 심한 부작용이 없기 때문에 널리 활용됩니다. 주로 목동맥초음파 검사와 경두개도플러초음파 검사를 활용해 뇌혈관의 동맥경화 정도, 혈류 속도, 방향 등을 측정함으로써 뇌혈관의 상태를 객관적으로 파악합니다. 방사선이나 조영제를 사용하지 않고 반복 측정이 수월해 목동맥이나 뇌 안쪽 혈관이 많이 좁아져 있는 환자에서 추적 검사로서 뇌혈관 상태를 비교, 평가하는 데 유리합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1894d008f171]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[6. 기타 검사 
+단일광자방출 컴퓨터단층촬영(Single Photon Emission Computed Tomography, SPECT), 양전자방출단층촬영(Positron Emission Tomography, PET) 등은 뇌의 혈류 상태, 포도당 대사 등을 파악해 뇌혈류 공급이 상대적으로 충분한지, 부족한지 평가합니다. 그 밖에 일과성 허혈 발작과 감별이 필요한 간질 발작을 확인하거나 실시간 뇌의 전기생리적 상태를 감시할 수 있는 뇌파검사(Electroencephalography, EEG)도 선택적으로 사용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일과성 허혈 발작은 증상이 일시적으로 사라졌다고 해도, 뇌경색이 발생할 위험이 높기에 반드시 즉각적인 진단과 치료, 예방이 필요합니다. 일과성 허혈 발작의 치료 목적은 뇌경색이 생기지 않도록 예방해 환자의 삶의 질을 유지하는 것입니다. 의사는 환자의 병력과 뇌혈관, 심장을 포함한 전신 상태, 환자의 선호도 등을 종합적으로 검토해 치료 계획을 세웁니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[약물을 이용해 뇌졸중의 발생을 예방하는 것이 목표입니다. 뇌혈관의 협착이 원인으로 추정되는 일과성 허혈 발작 환자에게는 항혈소판제 복용을 권고합니다. 뇌혈관의 협착이 아니라 심방세동과 같이 혈전이 쉽게 생기는 기저 질환으로 인해 일과성 허혈 발작이 발생한 환자는 항응고제를 복용하게 됩니다. 아스피린 같은 항혈소판제나 와파린 같은 항응고제는 일과성 허혈 발작 혹은 뇌경색이 발생했던 환자가 적절히 복용할 경우 장기적인 예방 효과가 있다는 것이 밝혀져 있습니다. 뇌 혈관에 이상이 생긴 원인과 전신 상태, 약을 계속 잘 복용할 수 있는지 고려해 적절한 약제를 선택합니다. 고혈압, 당뇨병, 이상지혈증 등의 동반 위험인자들도 심뇌혈관계 위험을 상승시키므로 각 질병에 대한 약물치료를 지속적으로 유지해야 합니다.
+
+
+1) 항혈소판제
+혈액 내 혈소판의 기능을 억제해 혈관 내 색전이 덜 생기도록 하는 약으로, 일과성 허혈 발작 환자에서 뇌경색을 예방하는 효과가 있습니다. 하지만 좁아진 혈관을 다시 넓히거나 죽상경화판(atherosclerotic plaque)을 줄이지는 못합니다. 따라서 일과성 허혈 발작이나 뇌경색, 심근경색 등 허혈성 심뇌혈관질환을 진단받은 환자에게 복용을 추천하지만, 해당 질병이 확인되지 않은 사람에게는 복용을 권고하지 않습니다. 항혈소판제 복용 시 위장관 출혈 등 출혈성 합병증 위험이 높아집니다. 변에서 피가 나오거나, 짜장처럼 검은 변을 보는 경우, 얼굴이 창백해지고 어지러워 빈혈이 의심되는 경우에는 반드시 진료를 통해 약물 부작용을 확인해야 합니다. 대표적인 약물로 아스피린이 있습니다.
+
+2) 항응고제
+혈액의 응고를 억제해 혈전의 형성을 막는 약제입니다. 심방세동 등 심장의 문제로 색전증 위험이 높은 환자에게 사용합니다. 항혈소판제보다 출혈 부작용이 더 흔하기에 반드시 의사의 진료와 처방에 따라 복용해야 합니다. 대표적인 약물로 와파린이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[약물치료 이외에 추가적인 수술이나 시술을 통한 예방이 도움이 되는 경우에 시행합니다. 
+
+1) 목동맥내막절제술(carotid endarterectomy) 
+속목동맥 시작 부위가 동맥경화로 인해 최소 50% 이상 심하게 좁아져 있고, 그로 인해 일과성 허혈 발작이나 뇌경색이 발생했다고 판단되는 경우 고려합니다. 증상의 정도, 협착 정도, 나이, 위험인자, 혈관의 상태 등을 종합적으로 고려해 수술 여부를 결정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95b07a6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 스텐트삽입술 
+혈관 내로 도관(카테터)을 삽입해 좁아진 부위를 넓히고, 이를 유지하기 위해 스텐트(stent)라는 망(網)을 삽입하는 방법입니다. 목동맥내막절제술과 마찬가지로 경동맥의 심한 협착으로 인해 일과성 허혈 발작 혹은 뇌경색이 발생한 경우에 고려합니다. 전신 마취가 필요 없고 회복 시간이 짧은 장점이 있어 많이 이용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95b0867]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 심장 수술 혹은 시술 
+뇌혈관 협착 외에 심장에서 형성된 혈전이 떨어져 나가 뇌혈관을 막는 색전증도 일과성 허혈 발작의 주요 원인입니다. 심장에서 혈전이 생기는 것은 심방세동이 제일 흔한 원인이며, 심장판막에 이상이 있거나 혈관의 구조적 이상 때문에 생길 수도 있습니다. 장기적 예방이나 치료를 위해 기저질환에 대한 수술 혹은 시술을 고려할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뇌혈관질환은 적절한 운동과 체중 유지, 금연, 금주가 반드시 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[118]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[[병원을 방문해야 하는 경우]
+일반적으로 일과성 허혈 발작은 증상이 수 분가량 지속되었다가 회복되며, 같은 증상이 반복되는 경우가 많습니다. 이런 증상이 한 번이라도 있었다면, 병원에 즉시 방문해 필요한 검사 및 처치를 받아야 합니다. 일과성 허혈 발작은 뇌경색에 준해 치료해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 일과성 허혈 발작과 뇌졸중은 다른가요?
+
+A. 의학적으로는 구분하지만, 뇌졸중은 위험하고 일과성 허혈 발작은 덜 위험한 것은 아닙니다. 일과성 허혈 발작도 재발 및 악화 위험이 매우 높기 때문에 뇌졸중과 마찬가지로 즉각적인 진료와 치료가 필요한 응급 질환입니다.
+
+Q. 일과성 허혈발작은 모두 뇌졸중으로 진행하나요?
+
+A. 일과성 허혈 발작이 발생한 환자가 3개월 이내에 다시 뇌경색을 겪는 비율은 약 17~20%이며, 장기적으로도 일반 인구에 비해 약 5배 정도 뇌졸중 발생 위험이 높습니다. 일과성 허혈 발작 발생 초기에 적절한 진료 및 치료를 받으면 추가적인 뇌경색의 약 80%는 예방이 가능하므로 의심되는 경우에는 즉시 병원에 방문해 적절한 진료와 치료를 받아야 합니다.
+
+Q. 두통이나 어지럼증이 뇌졸중의 전조 증상일 수 있다고 들었는데, 어떤 경우에 뇌졸중을 의심해야 하나요?
+
+A. 두통이나 어지럼증이 있으면서 1) 갑작스럽게 전에 없던 심한 두통이나 어지럼증이 생김, 2) 심한 두통과 함께 구토가 나거나 의식이 흐려짐, 3) 갑자기 나타난 어지럼증과 함께 똑바로 걸을 수 없거나 물건이 둘로 보임, 4) 두통, 어지럼증과 더불어 발음이 새거나 입이 비뚤어지는 등 전에 없던 동반 증상이 나타난 경우에는 뇌졸중을 의심해야 합니다. 이런 증상이 있다면 뇌졸중이나 뇌혈관계 질환이 아닌지 전문 진료를 받아보아야 합니다.
+
+Q. 항혈전제는 계속 먹어야 되나요?
+
+A. 현재 뇌졸중을 100% 예방하는 약은 없습니다. 하지만 뇌경색이나 일과성 허혈발작을 예방하는 데 항혈전 약물이 도움된다는 것은 이미 입증되었으므로, 위장관 출혈과 같은 부작용이 없다면 항혈전 약물은 평생 복용해야 합니다. 치과 치료나 수술을 받기 위해 일시적으로 약물 복용을 중단할 때도 반드시 주치의와 상의해 결정해야 합니다.
+
+Q. 수술적 치료를 받은 환자가 알아야 할 사항에는 어떤 것들이 있나요?
+
+A. 혈관이 많이 좁아져서 수술적 치료를 받은 환자는 정기적인 검사와 진료를 통해서 다시 혈관이 좁아지는지 관찰해야 합니다. 수술 여부에 상관없이 항혈전제도 계속 복용해야 합니다.
+
+Q. 뇌졸중을 예방하는 방법은 무엇인가요?
+
+A. 대한신경과의사회에서는 을 발표하였습니다. 일과성 허혈 발작이 있었던 분은 반드시 실천해야 합니다.
+
+1. 자신의 혈압을 알고, 적정한 수준의 혈압을 유지한다(120/70 이하).
+2. 혈당을 관리한다.
+3. 고지혈증을 치료한다.
+4. 흡연자는 무조건 담배를 끊는다.
+5. 적절한 체중을 유지한다.
+6. 매일 30분 이상 적절한 강도의 운동을 한다.
+7. 술은 남성 하루 두 잔, 여성 하루 한 잔 이하로 마신다.
+8. 소금 섭취를 줄이고, 과일과 채소를 충분히 섭취한다.
+9. 부정맥과 심장질환에 대한 치료를 한다.
+10. 뇌졸중 증상을 숙지하고 증상이 생기면 즉시 신경과 병원으로 간다.
+
+Q. 뇌혈관에 좋다고 오메가3 등 영양제를 추천받았는데 도움이 될까요?
+
+A. 아직까지 뇌혈관질환에서 영양제나 건강보조식품의 효과는 입증된 바가 없습니다. 의사의 전문 진료 및 처방을 받지 않은 보조식품이나 일반의약품은 추천하지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 통계청 (2022.9.27). 2021년 사망원인통계 [보도자료]. Retrieved from https://kostat.go.kr/board.es?mid=a10301060200&amp;bid=218&amp;act=view&amp;list_no=420715 
+2. 대한신경과의사회 (2023.05.01). 뇌졸중[홈페이지]. Retrieved from https://www.sinsamo.or.kr/disease/ 
+
+3. Amarenco, P. (2020). Transient Ischemic Attack. The New England journal of medicine. 382:1933-1941. doi: 10.1056/NEJMcp1908837. 
+
+4. Chandratheva, A., Mehta, Z,, Geraghty, O.C., Marquardt, L., Rothwell, P.M., Oxford Vascular, S. (2009). Population-based study of risk and predictors of stroke in the first few hours after a TIA. Neurology. 72:1941-1947. doi: 10.1212/WNL.0b013e3181a826ad.
+5. Giles, M.F., Rothwell, P.M. (2007). Risk of stroke early after transient ischaemic attack: a systematic review and meta-analysis. Lancet neurology. 6:1063-1072. doi: 10.1016/S1474-4422(07)70274-0.
+6. Johnston, S.C., Rothwell, P.M., Nguyen-Huynh, M.N., Giles, M.F., Elkins, J.S., Bernstein, A.L., Sidney,S. (2007).  Validation and refinement of scores to predict very early stroke risk after transient ischaemic attack. Lancet. 369:283-292. doi: 10.1016/S0140-6736(07)60150-0.
+7. Lioutas, V.A., Ivan, C.S., Himali, J.J., Aparicio, H.J., Leveille, T., Romero, J.R., … Seshadri, S. (2021). Incidence of Transient Ischemic Attack and Association With Long-term Risk of Stroke. JAMA. 325:373-381. doi: 10.1001/jama.2020.25071.
+8. Rothwell, P.M., Giles, M.F., Chandratheva, A., Marquardt, L., Geraghty, O., Redgrave, J.  … Early use of Existing Preventive Strategies for Stroke (EXPRESS) study (2007). Effect of urgent treatment of transient ischaemic attack and minor stroke on early recurrent stroke (EXPRESS study): a prospective 7.population-based sequential comparison. Lancet. 370:1432-1442. doi: 10.1016/S0140-6736(07)61448-2.
+9. Wu, C.M., McLaughlin, K., Lorenzetti, D.L., Hill, M.D., Manns, B.J., Ghali, W.A. (2007). Early risk of stroke after transient ischemic attack: a systematic review and meta-analysis. Arch Intern Med. 167:2417-2422. doi: 10.1001/archinte.167.22.2417.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

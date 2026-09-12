@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[간농양]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1241]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 간농양은 세균이나 기생충에 의해 간에 농양이 형성되는 것입니다.
+• 발열, 복부 통증, 오한, 식욕부진, 체중감소, 구역과 구토 증상이 나타나지만, 처음에는 감기증상과 같이 모호할 수 있습니다.
+• 세균에 의한 화농성 간농양은 4~6주간 항생제를 사용하고, 피부를 통하거나 수술로 농양을 제거하여 치료합니다.
+• 기생충에 의한 아메바성 간농양은 메트로니다졸을 7~10일간 사용하면 90% 이상 완치합니다.
+• 치료 시기를 놓치면 심각한 합병증을 초래할 수 있으므로 조기 진단이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[간농양이란 세균이나 기생충이 간에서 증식하면서 농양(고름 덩어리)을 형성하여 질병을 일으키는 것을 말합니다. 피부나 근육 같은 신체 외부에서 발생한 농양은 터트려 액을 빼내고(배액) 소독한 뒤 항생제를 투여하면 치료가 가능합니다. 그러나 간처럼 신체 내부에서 발생한 농양은 육안으로 확인할 수 있는 방법이 없습니다. 피부 등에 발생한 농양은 피부의 발적, 부종 등을 육안으로 확인할 수 있으나, 간과 같은 신체 내부 장기에 발생한 농양은 발열, 몸살과 같은 감기 증상, 염증 증상으로 나타날 수 있습니다. 때로는 상복부 통증처럼 위염 증상으로 나타날 수 있어 확인이 어렵습니다.
+간농양의 증상이 비특이적이기 때문에 진단이 늦어 적절한 치료 시기를 놓치게 되면 패혈증, 복막염 등으로 사망할 수 있는 위험한 질환이므로 빠른 진단과 치료가 중요합니다. 하지만 조기진단과 적절한 배액 치료, 그리고 항생제를 병용하면 비교적 기대하는 치료 결과가 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9591577]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[간농양은 발생 원인에 따라 크게 화농성 간농양과 기생충성(아메바성) 간농양으로 구분합니다.
+화농성 간농양은 세균이 원인이고 그중에서 클렙시엘라균(Klebsiella pneumoniae)에 의한 것이 전체의 약 80%에 해당합니다. 기생충성(아메바성) 간농양은 아메바(Entameoba histolytica)에 의해 발생하며, 국내의 경우 과거 위생 상태가 좋지 못했을 때는 흔했지만 1990년대 이후에는 국내에서 발생 보고가 거의 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[간농양의 발생기전은 크게 다음과 같이 구분됩니다. 
+˚ 감염경로를 모르는 경우(50%) 
+˚ 담도계 원인(40%) 
+˚ 혈행성 전파(10%)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9591638]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[간농양은 담도계가 원인인 경우가 상당수를 차지하는데, 여기에 연관된 질병으로는 간내 또는 간외 담석증, 간흡충증, 담낭염이 있고, 간내 악성종양에 의한 경우도 있기 때문에 간의 악성종양이 원인인지에 대한 검사도 시행해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[화농성 간농양이 생기면 세균 또는 기생충에 의한 간내 고름 형성과 이로 인한 염증으로 인해 다양한 임상적 증상과 증후가 나타나게 됩니다. 
+- 발열(90%) 
+- 복부 통증 및 압통(55~74%) 
+- 오한(38~49%) 
+- 식욕부진(38%) 
+- 체중감소(25~43%) 
+- 구역과 구토(28~43%) 
+- 허약감과 권태감(30%) 
+상복부를 눌렀을 때 통증이 있으며 간이 커져 있거나 황달(빌리루빈이라는 색소가 피부에 침착되어 얼굴이나 몸이 노랗게 되는 것)이 나타나기도 합니다. 대개 2주 이내에 이런 증상이 나타나지만, 어떤 경우에는 5~6개월 후에 증상이 나타나기도 합니다. 
+
+아메바성 간농양의 증상과 증후도 화농성 간농양과 거의 비슷합니다. 화농성 간농양보다는 증상이 약간 덜하며, 발열 및 오한, 무기력, 구역 및 구토, 식욕 부진, 체중감소 등을 보일 수 있습니다. 일부 환자는 가슴에 통증을 느끼거나 기침, 호흡 곤란 등을 호소하기도 합니다. 설사가 있는 경우는 20% 전후로 흔하지 않습니다. 간이 커져 있거나 오른쪽 상복부를 눌렀을 때 통증이 있기도 합니다. 황달은 화농성 간농양에 비해 다소 적어 5~8% 정도에서 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[간농양 의심 증상으로 병원에 오게 되면 의사는 자세한 문진과 신체검사를 시행하여 증상을 평가한 후에 혈액검사, 간 초음파, 복부 컴퓨터 단층촬영(CT) 등 필요한 검사를 시행하게 됩니다. 
+
+1. 문진 
+증상의 발현시기와 심한 정도, 과거 병력(간염, 담석증, 암, 당뇨 등), 일반적 건강상태, 여행경력, 거주지 파악 등 전반적 내용을 확인합니다. 
+
+2. 신체검사 
+간은 복부의 오른쪽 상부에 위치하기 때문에 환자가 이곳에 통증을 호소하는 경우도 있습니다. 그러나 이러한 복부 통증이 없는 경우도 있습니다. 이때 의사가 촉진하여 우상복부에 압통(눌렀을 때 통증이 발생하는 것)이 있게 되면 이것이 진단의 단서가 될 수 있습니다. 
+
+3. 혈액검사 
+간농양 환자에게 시행하는 혈액검사는 염증 수치 검사와 간기능 검사, 간농양과 관련이 있는 질병에 대한 검사(간염, 간암, 담도계 이상 등)가 있습니다. 하지만 혈액검사의 이상은 간농양 환자에서 특이적이지 않습니다. 백혈구 증가(80% 이상)와 혈청 알칼리 인산분해효소의 증가(60% 이상)가 가장 흔하게 나타나고, 그 외에 저알부민혈증, 간 효소(ALT/AST)증가, 빌리루빈 증가가 관찰됩니다. 
+
+ 4. 세균학적 검사 
+화농성 간농양은 다양한 균주에 의해 발생하며, 때로는 감염의 경로를 반영합니다. 세균은 크게 산소가 있는 환경에서 증식하는 호기성균과 산소가 없는 환경에서 자라는 혐기성균으로 분류되는데, 화농성 간농양에서는 대부분 호기성균과 통성 혐기성균이 혼합된 경우가 많습니다. 고름을 빼내어 세균의 존재 여부를 확인하는데, 배농액에서의 배농액 양성률은 41.4~51%이고, 혈액배양에서의 세균 양성률은 13.5~59.5%입니다. 현미경 검사를 위해 세균을 염색할 때, 호기성균은 그람(Gram)양성과 음성으로 분류하게 되는데, 화농성 간농양에서 그람음성균주가 70% 이상으로 가장 흔하게 발견됩니다. 그 중 클렙시엘라균(Klebsiella pneumonia)이 가장 흔한 화농성 간농양의 원인균주로 보고되고 있습니다. 
+아메바성 간농양 진단도 화농성 간농양 진단과 같은 방법을 사용합니다. 추가로 혈액학적 기생충 검사를 시행합니다. 대변에서 아메바를 발견할 확률은 15% 정도로 낮으며, 간접 적혈구응집검사(indirect hemagglutination assay)를 시행하면 95% 이상 확진이 가능합니다. 그러나 발병 1주 동안은 음성인 경우가 많으며, 결과가 나오는데 24~48시간이 걸립니다. 따라서 경험적인 치료를 시작하면서 검사 결과를 기다려야 합니다.
+
+5. 영상학적 검사 
+간농양의 진단에서 복부 초음파 검사, 복부 컴퓨터 단층촬영(CT)이 필수적입니다. 담도 조영술이나 내시경적 검사도 필요에 따라 시행하게 됩니다. 영상학적 검사에서 간농양은 간낭종이나 간암 등과 감별이 필요합니다. 구별이 어려운 경우에는 혈액학적 방법, 세균학적 방법, 배액과 조직검사, 암표지자 등의 검사가 필요한 경우도 있습니다. 영상학적 검사를 통해 간농양의 크기, 위치, 모양, 개수, 공기 방울 형성 유무, 배액 가능 여부, 동반질환(간암, 담도계 이상) 등을 파악할 수 있어 진단, 치료, 예후 등에 중요한 정보를 제공합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9591709]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[6. 병리학적 소견
+
+간농양은 크기가 수 mm에서 수 cm까지 다양하며, 한 개 또는 여러 개의 병변을 만듭니다. 간문맥, 간동맥, 또는 담관을 통해서 농양이 퍼지면 여러 작은 농양을 만들고, 직접 간실질로 침투되는 경우에는 하나의 큰 농양을 만듭니다. 병리조직 소견은 다른 부위에서 발생하는 화농성 농양과 같이, 간실질이 화농성 삼출액으로 대치되며 급성 또는 만성 염증세포들이 주위에 침윤하고 있는 양상을 보입니다. 농양의 가장자리에 형성된 육아조직은 시간이 지나면 캡슐로 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95917b1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[화농성 간농양의 성공적인 치료를 위해 일반적으로 항생제 치료와 배액 모두가 필요합니다. 하지만 영상학적 검사를 통해 배액이 가능한지 파악해야 하고, 간암, 담석, 담도계 이상 등 동반질환이 있는 경우 동반질환에 대한 치료 또한 시행되어야 합니다. 간농양의 치료는 개개인에 따라 다르고 개수에 따라 또는 원인 질환이 무엇인지에 따라 다릅니다. 치료법으로는 항생제 치료, 경피적 배액술, 외과적 배액 또는 절제술 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9591852]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치료 시 결과가 좋지 않을 것으로 예상되는 경우는,
+- 70세 이상 고령 
+- 다발성 간농양 
+- 담도계 질환으로 간농양이 발생한 경우 
+- 악성 종양이 동반된 경우 
+- 혈청 알부민이 낮은 경우 
+- 농양의 크기가 10 cm 이상인 경우 
+- 농양 내에 공기가 존재하는 경우 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[항생제 치료 
+일반적으로 배액 없이 치료받은 환자들은 더 오랜 기간 동안 항생제 치료를 받습니다. 장기간 항생제를 치료할 경우 항생제 내성문제가 발생할 수 있고, 세균 확인 없이 경험적 항생제로 치료하는 경우 항생제 남용문제 뿐만 아니라 패혈증으로 진행할 수 있는 위험성이 있습니다. 따라서 배액과 함께 항생제를 투여하는 것이 이상적인 치료 방법입니다. 화농성 간농양의 항생제 치료 기간은 대개 최소 4주에서 6주 정도입니다. 주사용 항생제는 첫 2~3주 혹은 적절한 임상적 반응이 있을 때까지 투여하고, 남은 기간은 경구용 항생제로 치료합니다. 아메바성 간농양의 경우 메트로니다졸(metronidazole)을 7~10일간 투여합니다. 이러한 치료로 90% 이상의 완치율을 기대할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 배액 치료 
+배액하는 방법에는 경피적 배액술이 가장 많이 사용됩니다. 경피적 배액술이란 피부를 통하여 바늘이나 배액관을 삽입하여 농양을 피부 밖으로 빼내는 시술을 말합니다. 경피적 배액에는 바늘을 삽입하는 세침흡인법과 배액관을 삽입하는 방법이 있습니다. 간농양의 직경이 5cm 이하면 세침흡인법을 우선 고려하고, 직경이 5cm 이상이면 배액관을 삽입하는 방법이 좋습니다. 배액관을 삽입한 경우 배액되는 양이 적어질 때까지 삽입하고 있다가 제거하면 됩니다. 보통 배액관 삽입 후 일주일 정도면 배액되는 양이 확연히 줄어들게 됩니다. 이 배액술은 전신 마취가 필요 없고 배를 여는 수술이 필요 없으며 관리하기가 편할 뿐 아니라 환자들의 적응도가 높다는 장점이 있습니다. 그러나 복수가 있는 환자나 혈액 응고에 장애가 있는 환자, 중요한 혈관 가까이 있는 농양에서는 주의가 필요합니다. 복수가 있는 경우 배액관을 따라 복수가 흘러나오고 농양이 복수를 통해 복강 내로 퍼질 위험이 있습니다. 혈액 응고에 장애가 있는 경우 배액관을 집어넣는 과정만으로도 출혈이 생겨 위험할 수 있습니다. 중요한 혈관 가까이 있는 경우 혈관 손상이 생겨 생명에 위험이 있을 수 있습니다. 
+이러한 배액술은 모든 간농양에서 시행할 수 있는 것은 아닙니다. 경피배액이 실패할 수 있는 요인들은 다음과 같습니다. 다발성, 크거나 소포체의 농양, 카테터를 잘 막을 수 있는 점착성의 농양, 일차적으로 수술적 치료를 필요로 하는 질환이 동반하는 경우(예: 담도계 질환) 등이 있습니다.
+아메바성 간농양의 치료는 항아메바성 약물 치료가 원칙으로 90% 이상 성공합니다. 항아메바성 약물로 3~5일 동안 치료하였는데도 반응을 하지 않거나, 간농양에 세균까지 감염이 합병된 경우, 간좌엽에 있어 파열의 위험이 큰 경우 등에서는 경피배액술을 시행합니다. 
+
+2. 수술적 치료 
+- 경피배액술이 기술적으로 어려운 경우 
+- 수술이 필요한 담도계 질환 등이 있는 경우 
+- 농양이 파열되어 다발성 복막염이 된 경우 
+- 장관과 간농양이 연결된 경우 
+- 경피배액술을 시도하였지만 실패한 경우 
+- 4~7일내 경피배액에 대한 임상적인 반응이 없을 때 
+- 다중격 간농양 
+등이 있을 때에는 수술적 배액술을 하게 되며 응급 수술이 필요한 경우에도 수술적 배액술을 하게 됩니다. 드물게 간을 절제해야 할 때도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[화농성 간농양의 경우 항생제의 발전으로 합병증 발생 및 사망률이 많이 감소하였지만, 여전히 사망률이 6~32%에 달합니다. 간농양으로 인한 합병증으로 인해 패혈증과 그로 인한 장기부전증이 발생하고 이로 인해 사망에 이르게 됩니다. 
+화농성 간농양의 합병증으로, 
+- 호흡기계 합병증(30%)-특히 늑막삼출 
+- 급성신부전 
+- 복막염 
+- 농양파열 
+- 창상감염 
+- 간부전 
+- 패혈증 
+- 재발 등이 있습니다.
+아메바성 간농양은 항생제 치료로 90% 이상이 치유되고 합병증과 사망률도 화농성 간농양에 비해 낮습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Ha, J., Choi, S. P., Lee, H. L., et al. (2008). A clinical study on pyogenic liver abscesses: The changes in the clinical features during the recent 12 years. Korean Journal of Medicine, 71, 37-50.
+2. Kaplan, G. G., Gregson, D. B., &amp; Laupland, K. B. (2004). Population-based study of the epidemiology of and the risk factors for pyogenic liver abscess. Clinical Gastroenterology and Hepatology, 2, 1032-1038.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

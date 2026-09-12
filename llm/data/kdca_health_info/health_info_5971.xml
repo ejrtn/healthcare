@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[다낭성 난소 증후군]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5971]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 다낭성 난소 증후군은 배란이 제대로 되지 않아 생리 불순, 무월경, 난임 등을 유발하는 호르몬 이상 질환입니다.
+• 난소에 여러 개의 작은 난포가 생기지만 성숙하지 못하고, 이로 인해 남성호르몬이 과다 분비되어 여드름, 다모증, 탈모 등이 나타날 수 있습니다.
+• 인슐린 저항성과 대사 이상이 흔하며, 제2형 당뇨병, 비만, 고지혈증, 고혈압 등의 위험이 높아집니다.
+• 진단은 생리 이상, 남성호르몬 과다, 다낭성 난소 초음파 소견 중 2가지 이상으로 하며, 청소년은 보다 엄격한 기준이 적용됩니다.
+• 치료는 체중 감량, 호르몬 치료, 배란유도제, 당대사 조절 약물 등을 활용하며, 장기적인 관리가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일반적으로 여성은 생리 주기마다 대부분 하나의 난포가 약 2 cm까지 자란 후 배란이 되며, 임신이 되지 않을 경우 2주 후에 월경이 시작됩니다.
+다낭성 난소 증후군은 작은 난포가 동시에 여러 개 발생하지만, 하나도 제대로 성장하지 못합니다. 배란이 되지 않으므로 정상적인 월경이 시작되지 않으며, 동시에 난소에서 남성호르몬 분비가 증가해 여러가지 건강 이상을 초래합니다.
+다낭성 난소 증후군 환자는 일반적으로 난소 하나에 2~9 mm의 작은 난포가 20개 이상 관찰됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=195f50c5df85]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[시상하부-뇌하수체-난소의 호르몬 불균형, 인슐린 저항성, 남성호르몬 과다분비 등 여러 가지 요인이 제시되나, 아직 확실한 원인을 규명하지 못한 상태로 많은 연구가 진행 중입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다낭성 난소 증후군 환자는 난소에서 여성호르몬인 에스트로겐은 정상 분비되지만, 배란이 되지 않아 난소에서 황체호르몬이 생성되지 않습니다. 황체호르몬은 자궁 내막이 과도하게 증식하는 것을 막아주는 역할을 하는데, 다낭성 난소 증후군 환자는 황체호르몬이 생성되지 않기 때문에 자궁 내막이 과도하게 증식해 자궁 내막암의 발생이 증가합니다. 실제로 다낭성 난소 증후군 환자에서 자궁내막암 위험이 3~6배 가량 높은 것으로 보고됩니다.
+배란 장애는 무월경, 비정상 자궁 출혈뿐 아니라 난임을 야기할 수 있습니다.
+배란 장애와 함께 난소에서 남성호르몬이 과다하게 생성되어 다모증, 탈모, 여드름, 남성호르몬 과다혈증 등의 문제가 생길 수 있습니다.
+다낭성 난소 증후군 환자의 35%에서 당 대사의 이상이 발견되는데, 이로 인해 40세 이전에 제2형 당뇨병이 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다낭성 난소 증후군은 여성에서 가장 흔한 내분비 질환 중 하나로 유병률은 6~15%로 보고됩니다.
+주로 젊은 가임기 여성에서 월경불순, 무월경, 자궁 이상 출혈, 또는 남성호르몬 과다 증상 등으로 병원을 방문해 진단 받게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 배란 장애와 관련된 증상: 무월경, 자궁 출혈, 생리 불순, 난임 
+2. 남성호르몬 과다와 관련된 증상: 다모증, 여드름, 탈모
+3. 대사 이상과 관련된 증상: 2형당뇨병, 이상지질혈증, 고혈압, 내분비 대사 장애, 비만]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18456f419a93]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다낭성 난소 증후군의 진단 기준은 학회별로 다양해 왔으나, 최근에는 기존의 로테르담(Rotterdam) 진단 기준을 최신 의학적 연구에 맞게 보완한 '2023년 개정 국제 근거중심 가이드라인'을 표준 진단 기준으로 사용합니다.이 기준에 따르면 다음 세가지 기준 중 두 가지 이상에 해당하면 다낭성 난소 증후군으로 진단합니다.
+
+1. 희발 월경(월경 주기가 35일을 초과하거나, 월경 횟수가 1년에 8회 미만) 또는 무월경(3개월 이상 또는 세 주기 이상 월경이 없는 경우)
+2. 임상적 남성호르몬 과다 증상(다모증, 여드름, 탈모) 또는 혈액검사로 확인된 남성호르몬 수치 상승
+3. 질식 초음파에서 확인된 다낭성 난소 소견(2~9 mm의 작은 난포가 20개 이상 관찰되거나 난소의 부피가 10 cm3이상인 경우) 또는 혈액검사로 확인된 항뮬러관호르몬(Anti-Müllerian hormone, AMH) 수치 상승]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1833fb026dd4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[&lt;청소년기 여아에서의 진단&gt;
+청소년기 여아에서는 다낭성 난소 증후군 진단에 신중을 기해야 합니다. 대부분의 여아에서 초경 이후 무배란성 월경이 상당 기간 지속되기 때문에 성인과 같은 기준을 적용할 경우 상당수의 정상 여아를 다낭성 난소 증후군으로 진단할 수 있습니다. 따라서 청소년기에는 월경 이상과 남성호르몬 과다 소견이 모두 있을 때 다낭성 난소 증후군으로 진단할 수 있습니다. 남성호르몬 상승은 혈액검사를 통해 확인해야 하며, 청소년기에는 초음파 검사나 항뮬러관호르몬 검사를 진단 목적으로 사용하지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 비만 환자의 경우 장기적인 생활 습관 개선이 가장 중요합니다.
+원래 체중에서 약 5% 정도의 체중만 감량해도 대사 기능과 배란 기능이 향상됩니다. 따라서 체중 감량은 다낭성 난소 증후군의 대사적 측면 및 월경장애, 임신 관련 문제까지 한꺼번에 해결할 수 있는 가장 일차적인 치료법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18456f56d386]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 월경 이상 및 자궁내막암 위험 예방: 경구 피임약, 프로게스토겐(progestogen) 호르몬제
+주기적으로 규칙적인 생리를 유도해 자궁내막암의 위험을 낮춥니다. 프로게스토겐은 배란 후 생성되는 호르몬과 유사한 작용을 해 자궁 내막 증식을 억제하는 약제로, 한 달에 10~14일 복용으로 규칙적인 월경을 유도할 수 있습니다. 복합 경구 피임제는 남성호르몬 감소 효과도 있어 다모증, 탈모, 여드름 개선에도 일부 효과가 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1833fb26baa1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 난임 치료
+다낭성 난소 증후군은 배란이 불규칙해지므로 임신이 어려워집니다. 임신을 원할 경우 우선 경구 배란유도제(클로미펜, 레트로졸)로 배란을 유도하며 대개 양호한 성적을 기대할 수 있습니다. 경구 배란유도제에 반응을 보이지 않는 일부 환자에게는 배란 유도 주사를 사용할 수 있습니다.
+인공수정이나 체외수정이 필요한 경우도 있습니다. 이때는 다른 난임 환자보다 난소 과자극 증후군 (배란유도제의 작용에 난소가 과다하게 반응하여 난소 크기가 커지며 복강 내 복수가 차서 복부 팽만, 복통, 체중 증가, 구토 등 증상이 발생) 위험이 증가할 수 있습니다.
+
+4. 필요시 적절한 내과적 약물 치료
+당뇨병, 이상지질혈증 등 대사 이상이 동반될 경우, 약물 치료가 필요합니다. 특히 당 대사 이상이 있으면 메트포민(metformin) 복용이 인슐린 저항성, 무배란, 남성호르몬 과다 증상을 치료하는 데 도움이 됩니다.
+
+메트포민 사용에 관한 2018년 국제 근거중심 지침은 아래와 같습니다.
+• 성인 다낭성 난소 증후군 여성의 체중, 호르몬, 대사 이상 교정을 위해 생활 습관 교정과 함께 사용할 수 있다.
+• 체질량지수 25 kg/m2이상인 성인 다낭성 난소 증후군 여성의 체중, 대사 이상 교정을 위해 생활 습관 교정과 함께 사용해야 한다.
+• 청소년 다낭성 난소 증후군이 확진 혹은 의심되는 경우에 생활 습관 교정과 함께 사용할 수 있다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다낭성 난소 증후군은 일생동안 관리가 필요한 만성 질환입니다. 단기 치료로 개선되는 것이 아니라 꾸준한 관리가 필요합니다. 그러므로 주기적으로 산부인과 외래를 방문해 다음과 같은 검사를 받으셔야 합니다.
+
+1. 기본 호르몬 검사: 남성호르몬 검사를 포함한 생식호르몬 수치 평가
+
+2. 당뇨병 선별 검사: 초기 당뇨 선별 검사에서 정상이어도 최소 3년 주기로 검사를 시행합니다.
+3. 이상지질혈증 검사
+4. 초음파 검사: 자궁내막 두께와 난소모양을 확인해 자궁내막 증식증, 자궁내막암의 위험을 평가합니다.
+
+검사상 이상소견이 있을 경우 추가 검사가 필요합니다]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1833fb414363]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다낭성 난소 증후군 환자는 무배란, 희발 월경, 남성호르몬 과다 및 당대사의 이상으로 아래와 같은 문제점이 발생할 수 있습니다.
+
+  • 월경이상
+• 자궁내막증식증과 자궁내막암 위험 증가
+• 다모증, 여드름, 탈모 등 남성호르몬 과다 증상
+• 난임
+• 2형당뇨병 위험 증가
+• 심혈관계 위험 증가]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[체중 감량은 과체중 혹은 비만인 다낭성 난소 증후군 환자에서 가장 중요한 1차 치료법입니다.
+2018년 국제근거중심 지침에서 아래와 같은 생활습관 관리 원칙을 제시했습니다.
+
+1. 식이
+하루 섭취 열량 감소: 30% 혹은 500~750 kcal 감량을 고려한다. 특별히 선호되는 식이요법은 없다.
+
+2. 운동
+성인의 경우 주당 150분 가량의 중등도 강도의 운동이나 주당 75분 가량의 격렬한 강도의 운동을 권한다. 두 경우 모두 주당 2회 정도 근육 강화 운동을 병행한다. 청소년의 경우 매일 적어도 60분 이상의 중등도-격렬한 강도의 신체 활동 및 주 3회 이상의 근육과 뼈 강화 운동을 한다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 임신이 불가능한 것은 아닌지요?
+
+A. 배란 장애가 있어 임신 확률이 감소하기는 하지만 불가능하지는 않습니다. 특히 클로미펜이나 레트로졸 같은 경구 배란유도제에 반응이 좋기 때문에 부인과 외래에서 초음파로 추적 관찰하면서 배란을 유도할 경우 임신 가능성이 상당히 높아집니다. 경구 배란유도제에 반응이 좋지 않은 경우에는 주사제로 배란을 유도하기도 하는데, 주사제를 쓰면 난소 과자극증후군 위험이 증가하기 때문에 난임 전문의에게 진료를 받는 것이 좋습니다.
+
+Q. 이노시톨 복용이 치료에 도움이 되나요?
+
+A. 다낭성 난소 증후군 환자에서는 인슐린 저항성에 따른 과인슐린혈증으로 미오-이노시톨(myo-inositol)이 D-카이로이노시톨(D-chiro-inositol)로 계속 전환되어 두 이노시톨의 비율에 불균형이 발생합니다. 이를 해소하기 위해서 이노시톨을 투약하는 방법이 10년 전부터 꾸준히 시도되었습니다.
+일부 연구에서 인슐린 저항성 개선, 배란율 및 임신 성공률 개선이 보고되었지만, 다른 통합 분석 결과 뚜렷한 이득은 없다는 보고도 있습니다. 논란의 여지는 있지만 영양 성분으로 큰 해가 없다는 점을 고려하면 원하는 여성은 복용해도 나쁘지 않을 것으로 생각됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한산부인과내분비학회 정혜원. (2022). 부인과 내분비학 (제2판). 군자출판사.
+2. 대한산부인과학회. (2021). 산부인과학 지침과 개요 (제5판). 군자출판사.
+
+3. 대한산부인과내분비학회 (2024). 대한산부인과내분비학회 임상지침 2024. 서울: 군자출판사.
+4. Teede, H. J., Tay, C. T., Laven, J. J. E., Dokras, A., Moran, L. J., Piltonen, T. T., ... International Evidence-based Guideline Development Group for PCOS. (2023). International evidence-based guideline for the assessment and management of polycystic ovary syndrome (PCOS). Melbourne, Australia: Monash University.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

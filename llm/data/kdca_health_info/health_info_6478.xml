@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[귀의 형태 이상(돌출귀)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6478]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[돌출귀(prominent ear)는 우리나라에서는 당나귀 귀 또는 바가지 귀로 불리며, 영어권에서는 protruding ear, bat ear, apostasis otum, otapostasis 등의 다양한 이름으로 불립니다. 서양 문화권에서는 놀림을 받기 때문에 귀 성형술이 가장 많이 시술되는 귀의 형태 이상입니다. 돌출귀는 귓바퀴의 해부학적 구조 중에서 대이륜(antihelix)이 발생 과정에서 후방으로 제대로 접히는 형태가 되지 않아서 발생하거나, 이갑개와(conchal bowl)의 높이가 과도하게 높게 형성된 경우에 생길 수 있습니다. 대부분 두 가지 형태의 기형이 같이 나타나므로 수술적 교정 시 모두 교정해주는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[서구에서의 유병률은 백인에서 5%를 보인다고 알려져 있으며, 동양인에서의 유병률은 보고된 바가 없습니다. 터키에서는 1096명의 소아를 대상으로 조사하였을 때 4.6%에서 돌출귀를 가지고 있는 것으로 보고된 적이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[돌출귀의 교정 방법은 문헌상 200가지가 넘게 보고되었고 각각의 장단점이 존재합니다. 출생 초기 귀연골의 유연성이 높은 시기에 귀의 비정상적인 부분에 외부에서 힘을 가하여 원하는 모양으로 교정하는 비수술적 귀교정술이 있으며, 생후 3일에서 6개월 이내에 부목 및 교정기를 4~6주간 지속적으로 대주면 수술하지 않고도 교정이 가능할 수 있습니다. 하지만 비수술적 귀교정술로 교정이 되지 않는 경우 수술적 방법을 고려해야 합니다. 
+
+수술의 핵심은 대이륜의 형성부전과 과도한 이갑개와의 교정이며, 이를 위해 크게 연골절개법과 연골보존법을 시행합니다. 연골절개법은 내재된 연골의 탄력을 약화시켜 재발을 줄이는 것을 목표로 하며, 재발 없는 비가역적인 효과를 낼 수 있으나, 수술 기법이 어렵고 절개된 연골 끝이 전방의 윤곽면을 불규칙적으로 만들 수 있다는 단점이 있습니다. 연골보존법은 술기가 쉽고 가역적이며, 덜 침습적이어서 자연스럽고 부드러운 모양을 얻을 수 있으나 재발의 위험이 높고 봉합사로 인해 수술 부위의 이물감이 발생할 수 있습니다. 두 방법은 종종 혼합해서 이용할 수도 있습니다. 환자의 나이가 어릴수록 연골이 더욱 유연해서 휘기 쉬우므로 연골절개법보다는 연골보존법이 더 좋은 것으로 알려져 있고, 대개 젊은 성인까지는 대부분 연골이 유연해서 봉합을 통한 연골보존법으로 교정이 가능하지만, 연골의 탄력성이 감소된다면 추가적으로 연골절개법을 이용하여 영구적인 결과를 얻을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a9d01]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈종 또는 감염 및 피부괴사와 같은 즉각적인 합병증의 발생은 드문 편입니다. 장기적으로 봉합에 사용된 비흡수성 봉합사의 노출 또는 육아종 등이 나타날 수 있으며, 연골절개법을 사용하는 경우 반흔(흉터)이 남아서 미용적으로 영향을 미칠 수 있습니다. 연골보존법을 사용하였을 때 가장 흔히 볼 수 있는 문제는 돌출이 충분히 교정되지 않거나 재돌출이 발생할 수 있는 것입니다. 교정이 불만족스러운 경우 3개월이 경과한 시점에서 재수술할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한이과학회 (2022). 선천성 외이 및 중이의 기형 in 이과학 (p.427-432). 세종의학사 
+
+2. 대한이과학회 (2022). 이개 경도기형의 비수술적 교정과 수술적 치료 in 이과학 (p.957-980). 세종의학사 
+
+3. 대한이과학회 (2022). 이개재건술 in 이과학 (p.981-994). 세종의학사 
+
+4. 대한이과학회 (2022). 측두골, 외이, 중이의 발생 in 이과학 (p.3-10). 세종의학사   ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[귀의 형태 이상]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6270]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[귀의 형태 이상(기타)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6479]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[귀의 형태 이상(소이증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6271]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

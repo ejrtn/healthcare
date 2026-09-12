@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[양수 검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5517]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 양수 검사는 임신 15~20주 사이에 임신부의 복부를 통해 양수를 채취하여 태아의 염색체 이상 여부를 확인하는 검사입니다.
+• 다운증후군, 에드워드 증후군 등 염색체 수나 구조 이상, 특정 유전 질환 진단에 사용되며, 검사 정확도는 99% 이상입니다.
+• 검사 대상은 고령 임신부, 선별 검사 결과 고위험군, 가족력 등 다양한 이유로 전문의가 필요하다고 판단한 경우입니다.
+• 시술은 초음파를 보며 안전하게 진행되지만, 드물게 유산이나 양막 파수 같은 합병증이 생길 수 있습니다.
+• 따라서 검사 전 반드시 주치의와 충분히 상담한 뒤 결정하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[양수 검사(양수 천자술)란 임신 15~20주 사이에 임신부의 복부를 통해 바늘을 넣어 양수를 채취하는 검사입니다. 일반적으로 태아의 염색체 분석을 위해 가장 많이 시행되는 검사입니다. 쌍둥이를 임신한 경우에도 양수 검사가 가능합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19aa044f44b7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[양수를 채취하여 양수 안 태아 세포를 배양 후 염색체 분석을 하기 위한 검사입니다. 염색체의 수와 구조적 문제 뿐 아니라 특정 유전 질환을 진단하기 위해 시행하기도 합니다.
+다음과 같은 경우에 양수 검사를 고려하게 됩니다. 
+ - 고령의 임신부 
+ - 임신부나 배우자가 염색체의 구조적 이상이 있는 경우 
+ - 선천기형, 염색체 이상이 있는 아기를 분만한 경험이 있는 경우
+ - 산전 모체 혈청 선별 검사, 태아 DNA 선별 검사 결과가 고위험인 경우 
+ - 초음파 검사에서 태아의 구조적 이상 소견이 있는 경우 
+ - 유전 질환 가족력이 있는 경우 
+ - 그 외 전문의 판단 하에 검사가 필요한 경우]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태아의 산전 검사를 받기를 원하는 모든 임신부가 검사의 적응증이 됩니다. 모체 혈청 선별 검사, 태아 DNA 선별 검사와 양수 검사 같은 침습적  진단 검사의 장단점에 대해 전문가의 상담을 받고 산모와 가족이 어떤 검사를 받을지 최종적으로 결정하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[임신 15주 이후에 임신부의 복부를 통해 바늘을 넣어 양수를 채취합니다. 양수를 채취하여 양수 안 태아 세포를 배양 후 염색체 분석을 하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d0348f1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태아의 세포 유전학 검사를 통해 다운증후군이나 에드워드 증후군 같은 염색체의 수의 이상을 진단할 수 있습니다. 세포 배양 과정이 필요하므로 보통 2~3주 후에 결과를 알 수 있습니다. 
+최근에는 필요한 경우, 염색체 마이크로어레이(microarray) 검사를 통해 염색체의 미세 결실 및 중복을 발견하는 검사를 진행하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태아의 세포 유전학 검사의 정확도는 99% 이상으로 알려져 있습니다. 하지만 염색체 분석 결과가 정상이라도 염색체의 미세한 구조 이상이나 낮은 빈도의 모자이크 현상(mosaicism) 등 검사 방법의 한계를 벗어난 결과는 진단하기가 어렵습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[양수를 채취하기 위해 복부를 바늘로 찌르게 되므로 많은 임신부들은 태아가 위험하지 않을까 걱정하게 됩니다. 양수 검사는 초음파를 보면서 태아, 탯줄, 태반을 피해서 바늘을 찌르기 때문에 태아를 찌를 가능성은 거의 없으며, 복부를 소독한 후에 멸균된 바늘을 사용하기 때문에 감염의 위험성은 매우 드뭅니다. 
+하지만 드물게 합병증이 있을 수 있는데 일시적인 질 출혈, 양막 파수가 약 1%에서, 융모막 염증은 0.1% 미만에서 발생할 수 있으며, 시술로 인한 유산은 0.1~0.3% 정도의 가능성이 있으므로 검사 전 주치의와 충분한 상담 후 검사를 결정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한모체태아의학회∙산전진단위원회. (2019). 태아 염색체 선별검사와 진단 검사에 대한 대한모체태아의학회 임상진료지침 (1판). 서울: 제이플러스. 
+2. 대한산부인과학회. (2019). 산과학 (6판, 산전진단 및 유전상담, pp 187-214). 군자출판사.
+3. American College of Obstetricians and Gynecologists. (2007). Invasive prenatal testing for aneuploidy (Practice Bulletin No. 88). Obstet Gynecol, 110, 1459-1467.
+4. CUNNINGHAM FG, ed. (2018). Williams Obstetrics. (25th ed. Prenatal Diagnosis. pp 277-299). New York, McGraw-Hill.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[산전 기형아 검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5410]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[삼중 또는 사중 표지자 검사(Triple 또는 Quad test)와 통합선별검사 (Integrated test)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5515]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[태아 DNA 선별검사 (NIPT 검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5530]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[융모막 융모 검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5518]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[초음파 태아 목덜미 투명대 측정]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5516]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

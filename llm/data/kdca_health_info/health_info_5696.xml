@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[상처관리와 흉터예방]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5696]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[4]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3670]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 상처는 피부가 손상된 상태로, 피부의 구조와 깊이에 따라 다양한 형태로 나타납니다.
+• 상처 치유는 지혈 → 염증 → 증식 → 성숙의 단계로 진행되며, 이 과정이 조화롭게 이루어져야 흉터가 최소화됩니다.
+• 초기 응급처치와 올바른 소독, 드레싱은 감염을 예방하고 치유를 촉진하는 데 매우 중요합니다.
+• 흉터 예방을 위해 실리콘 제품, 보습, 자외선 차단 등 꾸준한 관리가 필요하며, 심한 흉터는 전문 치료가 필요할 수 있습니다.
+• 상처가 깊거나, 감염이 의심되거나, 출혈이 멈추지 않을 경우 병원 방문이 꼭 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[192]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[상처는 피부가 손상된 부위를 뜻합니다. 피부는 표피, 진피로 이루어져 있고, 그 안쪽은 피하지방층으로 구성되어 있습니다. 피부에는 혈관, 땀샘, 모낭과 같은 피부 부속기가 포함되어 있습니다. 상처가 생기면 피부 조직이 끊어지고 이러한 부속기들도 함께 영향을 받을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[192]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dcecfa32]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[192]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[상처 치유 과정
+상처는 복잡한 과정을 거쳐서 치유되며, 다음과 같은 단계를 거칩니다.
+1. 지혈단계 
+상처가 생기면 혈관이 수축하여 출혈을 멈추려 합니다. 동시에 혈소판이 활성화되어 혈액 응고가 시작됩니다.
+2. 염증단계 
+지혈이 되면 면역세포들이 활성화되어 세균이나 이물질을 제거합니다. 이 과정에서 붉어짐, 부기, 약간의 통증이 나타날 수 있습니다.
+3. 증식단계 
+새로운 피부 조직이 자라며 상처를 채우고, 혈관이 새롭게 형성됩니다. 상처가 크면 치유에 수 일에서 수 주가 걸릴 수 있습니다.
+4. 성숙단계 
+새로운 조직이 성숙하게 되고 자리를 잡으며 피부가 점점 회복됩니다. 이러한 성숙도에 따라 흉터의 형태나 색깔의 차이를 보이게 되며, 비성숙 흉터는 붉은 색조가 남아 있는 경우가 많지만, 잘 성숙한 흉터는 더 연한 색을 띠고 편평해집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[192]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412e310738]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[192]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[상처 치유와 흉터 형성
+염증기가 과도하게 길어지거나 증식기의 지연, 또는 적절한 성숙기가 일어나지 못하면 흉터가 더욱 심하게 생길 수 있습니다. 각 단계가 적절한 시기에, 적절한 기간동안 조화롭게 일어나야 상처가 잘 치유되고, 흉터가 최소한으로 남을 수 있습니다. 또한 이러한 단계(특히 성숙단계)들의 진행 과정은 개인차가 크기 때문에, 흉터 형성은 개인의 소인에 따라 달라질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[중요성]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[193]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[피부는 외부로부터 몸을 보호하는 첫 번째 방어선입니다. 따라서 상처가 생겼을 때 적절히 관리하지 않으면 감염(국소 감염부터 심하면 패혈증까지), 치유 지연, 심한 흉터 등의 다양한 문제가 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 증상 및 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[194]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[상처는 원인과 깊이에 따라 여러가지로 나뉩니다.
+
+1. 원인에 따른 분류
+· 찰과상(scrape, abrasion): 넘어지거나 긁혀서 표피가 손상된 상태입니다.
+· 타박상(bruises): 둔탁한 충격으로 인해 피부 아래 혈관이 손상되어 멍이 드는 경우입니다.
+· 열상: 날카로운 물체에 베여서 생긴 상처로, 출혈이 심할 수 있습니다.
+· 자상: 바늘이나 못과 같은 뾰족한 물체에 찔린 상처로, 깊이 다칠 수 있어 주의가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 증상 및 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[194]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe9578884]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 증상 및 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[194]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 깊이에 따른 분류
+· 표면층 상처: 표피까지만 손상된 경우  
+
+· 부분층 상처: 표피와 진피 일부가 손상된 경우
+
+·  전층 상처: 피부의 전 층이 손상된 경우로, 출혈이 심하고 치유가 오래 걸립니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상 자가 관리 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[195]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 초기 응급처치
+· 열상, 찰과상: 흐르는 깨끗한 물로 세척 후 깨끗한 거즈로 압박하여 지혈합니다.
+· 타박상: 처음 48시간 동안 얼음주머니로 냉찜질한 후 온찜질을 하면 멍이 빨리 사라지는 데 도움이 됩니다.
+ · 자상: 깊이 찔린 경우 감염 위험이 높으므로 병원을 방문하는 것이 좋습니다.
+
+2. 상처 소독 및 드레싱 
+오염된 상처는 포비돈 요오드나 과산화수소를 낮은 농도로 사용하여 주변 피부를 소독합니다. 고농도에서는 세포독성이 있어 상처 치유를 방해하므로 가급적 상처 주변 피부에만 쓰고, 상처에 직접 약품을 사용하지 않도록 합니다.​
+· 거즈 드레싱: 간단한 보호용으로 사용됩니다. 
+· 습윤 드레싱: 상처를 촉촉하게 유지하여 치유를 촉진하며 흉터를 줄이는 데 도움을 줍니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상 자가 관리 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[195]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d11fbbdff8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상 자가 관리 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[195]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흉터 관리 
+상처가 아물어도 몇 개월 동안 조직이 재구성됩니다. 이 시기에 적절한 관리가 이루어지지 않으면 비후성 흉터나 켈로이드 흉터가 발생하여, 가렵거나 통증 등의 증상이 동반되고 당김이나 움직임 제한 등의 일상 생활에서의 지장이 발생할 수 있습니다.
+흉터 예방을 위해 다음을 고려할 수 있습니다.실리콘 젤이나 시트 사용보습제 사용자외선 차단테이핑 및 압박 치료
+또한 심한 흉터는 스테로이드 및 기타 약물의 병변내 주사 요법, 레이저 치료, 냉동요법 등을 통해 개선할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[199]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다음과 같은 경우에는 즉시 병원을 방문하세요.출혈이 멈추지 않는 경우신경 손상이 의심되는 경우(저림, 감각 이상 등)깊은 열상이나 자상 및 심각한 상처라고 판단되는 경우상처 부위가 오염되거나 감염된 경우(붉어짐, 부종, 고름 등)1주 이상 치유되지 않는 경우
+상처 관리는 적절한 초기 처치와 꾸준한 관리가 중요합니다. 상처의 상태에 맞는 방법을 사용하면 흉터를 최소화하고 빠르게 회복할 수 있습니다. 만약 감염이 의심되거나, 상처가 깊다면 반드시 빠르게 의료진의 도움을 받는 것이 가장 안전한 방법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[323]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Black KD, Cico SJ, &amp; Caglar D. (2015). Wound management. Pediatr Rev. May;36(5):207-15; quiz 216. doi: 10.1542/pir.36-5-207. PMID: 25934910. 
+
+2. Herman TF, &amp; Bordoni B. (2021). Wound Classification. May 4. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2021 Jan–. PMID: 32119343. 
+3. Lindholm C, &amp; Searle R. (2016). Wound management for the 21st century: combining effectiveness and efficiency. Int Wound J.  Jul;13 Suppl 2(Suppl 2):5-15. 
+ 4. Meaume S, Le Pillouer-Prost A, Richert B, Roseeuw D, &amp; Vadoud J. (2014). Management of scars: updated practical guidelines and use of silicones. Eur J Dermatol. Jul-Aug;24(4):435-43. 
+ 5. Rosenbaum AJ, Banerjee S, Rezak KM, &amp; Uhl RL. (2018). Advances in Wound Management. J Am Acad Orthop Surg. Dec 1;26(23):833-843. 
+ 6. Wilkins RG, &amp; Unverdorben M. (2013). Wound cleaning and wound healing: a concise review. Adv Skin Wound Care. Apr;26(4):160-3.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

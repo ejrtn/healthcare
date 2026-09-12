@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[각막혼탁 및 반흔]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6295]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 빛의 감지 
+각막을 지나 동공으로 들어온 빛은 수정체를 통과한 후 망막에 초점을 맺게 됩니다. 망막에서 빛은 전기적 자극으로 변해 시신경을 통해 뇌로 전달됩니다. 사람이 빛을 인지하려면 빛이 통과하는 모든 구조물이 투명해야 합니다. 이때 각막이 불투명한 경우를 각막혼탁이라고 하며, 수정체가 불투명해지는 질병을 백내장이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18bb6d364337]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 각막의 구조와 투명성 유지  
+각막은 눈의 가장 외부에 존재하는 투명한 조직으로 혈관이 없습니다. 각막은 앞에서부터 다섯 개의 층(상피층, 보우만층, 실질층, 데스메막, 내피층)으로 이루어집니다. 각막의 손상이나 변화가 각막상피층에만 국한된 경우에는 정상적으로 치유될 수 있으나, 보우만막부터 내피층 사이의 구조가 손상되거나 병이 발생하면 각막혼탁이 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18e509d2f992]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[각막혼탁은 다양한 원인에 의해 각막이 불투명해지는 것입니다. 심하지 않은 경우, 급성기라면 투명하게 회복될 수도 있습니다. 이와 달리, 각막반흔은 각막이 손상을 받고 비정상적인 조직으로 대체되어 영구적으로 각막의 투명성을 잃는 경우로 정의합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다양한 원인에 의해 각막의 반흔 및 혼탁이 발생할 수 있습니다. 크게 감염, 외상, 각막 변성 및 그 외의 경우로 나눕니다.
+
+1. 감염에 의한 각막혼탁
+각막궤양(미생물 등 여러 원인에 의해 각막 일부가 움푹 파임) 또는 감염성 각막염이 생기면 각막이 혼탁해질 수 있습니다. 시력장애가 나타나며, 이는 실명의 주요 원인 중 하나입니다. 원인 미생물 중 세균으로는 포도알균(Staphylococcus)과 녹농균(Pseudomonas aeruginosa)이 가장 많고, 곰팡이는 푸사륨(Fusarium), 바이러스는 단순포진 바이러스와 대상포진 바이러스가 가장 많습니다. 기생충으로는 콘택트렌즈나 오염된 수영장 물에 존재하는 가시아메바가 원인이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18bc61301958]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 외상에 의한 각막혼탁
+1) 각막이물 - 이물이 각막에 상처를 내거나 각막 내에 존재하면 각막혼탁이 발생할 수 있습니다. 철가루 등 부식 가능한 이물은 오래 방치하면 제거된 후에도 갈색 고리 등을 남길 수 있으므로 가능한 한 빨리 제거해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9590c72]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 각막열상 – 각막의 일부 또는 전층이 찢어져 각막혼탁이 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18bb6d43ecd4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 화학물질에 의한 손상 - 눈에 산성 혹은 알칼리성 물질이 들어가도 각막혼탁이 발생할 수 있습니다. 화학물질이 눈에 튄 경우 최대한 빨리 흐르는 물로 충분히 씻어내고, 응급실을 방문해 적절한 안과적 치료를 받는 것이 추후 시력을 보존하는 데 중요합니다. 
+4) 기타 - 라식이나 라섹 등 굴절교정각막절제술 후에도 각막혼탁이 발생할 수 있습니다. 
+
+3. 각막이상증 혹은 각막변성에 의한 각막혼탁
+
+ 1) 각막이상증 - 각막 중심부에 다양한 형태의 각막혼탁이 생기는 과립각막이상증(granular corneal dystrophy), 반점각막이상증(macular dystrophy), 격자각막이상증(lattice corneal dystrophy) 등의 유전성 각막이상증과 각막 내피층의 기능저하로 각막이 붓는 푹스각막내피이상증(Fuchs endothelial dystrophy)에서도 각막혼탁이 발생할 수 있습니다.
+  2) 원추각막(keratoconus) – 각막 중심부가 서서히 얇아져서 점점 앞으로 돌출되는 질환입니다. 데스메막 파열로 각막이 급격히 붓고, 이로 인해 각막혼탁이 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18db0c2c0d12]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 그 외 원인에 의한 각막혼탁
+
+1) 노출각막염 - 얼굴반쪽마비 등으로 눈꺼풀이 잘 감기지 않아 노출된 각막 표면이 말라서 각막혼탁이 발생할 수 있습니다. 
+
+2) 건성각결막염(keratoconjunctivitis sicca) - 쉐그렌 증후군을 비롯한 건성각결막염의 경우 눈물 분비량 감소로 인해 각막 표면이 반복적으로 말라서 각막혼탁이 발생할 수 있습니다.
+3) 다양한 원인에 의한 각막 신생혈관 - 콘택트렌즈 장기간 착용으로 인한 각막의 산소부족, 플릭텐각결막염, 단순포진 혹은 대상포진 바이러스 감염 후 각막에 혈관이 생기는 경우로 주로 각막 주변부에 혼탁이 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18db0c1885e8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2023년도에 미국 안과학회지(Ophthalmology)에 1984년부터 2020년까지 40세 이상 성인을 대상으로 한 연구 결과가 발표되었는데, 전 세계적으로 대략 550만 명(0.081%)이 각막혼탁으로 인해 실명한 것으로 보고했습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[각막혼탁이 생기면 시력이 저하됩니다. 각막혼탁이 주변부에만 있으면 특별한 증상이 없을 수도 있으나, 굴절이상 및 불규칙 난시를 동반해 시력이 저하될 수도 있습니다.각막혼탁이 중심부에 생기면 혼탁 정도에 따라 시력 저하 역시 경한 정도에서 심한 정도까지 나타날 수 있습니다. 그 외에 빛이 난반사되어 눈부심이 동반될 수 있습니다.초기에는 각막혼탁의 원인에 따른 통증, 분비물, 충혈, 눈물 등 다양한 증상이 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[각막혼탁은 안과에서 기본적으로 시행하는 세극등 현미경 검사로 진단하며, 이때 각막혼탁의 위치, 심한 정도, 급성 혹은 만성 여부, 기타 동반질환 등을 감별할 수 있습니다.각막혼탁을 일으키는 원인을 알기 위해 추가적인 진단 검사가 필요할 수 있습니다.
+。시력 및 굴절이상 검사 
+。안압 및 안저 검사
+。세균 배양 및 염색검사: 감염에 의한 각막염 및 각막궤양이 의심되는 경우 
+。각막지형도 검사: 원추각막이 의심되는 경우
+。각막내피세포 검사: 푹스각막내피이상증이 의심되는 경우]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95910a7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 급성기 치료
+
+1) 원인질환의 치료 
+
+각막혼탁을 일으킬 수 있는 원인 질환을 우선 치료해야 합니다. 감염성 각막염 혹은 각막궤양이 진행되거나 오래 지속되면 치료 후 정상조직으로 회복할 가능성이 떨어집니다. 예를 들어, 세균 감염에 의한 각막궤양에는 원인균에 알맞은 항생제를 빨리 사용하고, 바이러스에 의한 각막염은 항바이러스제를 사용하는 것이 우선입니다. 각막이물은 신속히 제거하고, 화학물질이 눈에 튄 경우에는 빨리 눈을 수돗물 혹은 생리식염수로 세척합니다. 외상을 입었다면 그 정도에 따라 안대, 항생제 사용, 수술 등 원인적 치료를 먼저 한 후, 각막혼탁을 예방하거나 줄일 수 있는 치료를 시행해야 합니다. 
+
+2) 각막혼탁 및 각막흉터를 줄이기 위한 치료 
+
+비스테로이드성 항염증제나 스테로이드제제는 염증세포의 침윤 및 증식을 줄이고 혈관 발생을 억제해 각막혼탁의 발생 및 진행을 예방할 수 있습니다. 자가혈청(autologous serum) 안약은 자신의 피를 뽑아 희석해 안약으로 사용하는 것입니다. 혈청 내에는 성장인자나 항염증물질이 풍부하므로 각막혼탁을 줄일 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 양막이식 
+
+양막은 태반의 가장 안쪽에서 양수를 둘러싸는 막입니다. 양막에는 세포 성장인자와 단백질 분해를 억제하는 물질들이 많이 존재하므로 각막혼탁을 예방하거나 줄일 수 있습니다.
+2. 각막이식   
+
+각막중심부를 포함하지 않는 각막혼탁 및 반흔은 불규칙 난시나 심한 시력 저하가 없으면 치료가 필요하지 않을 수도 있습니다. 경우에 따라 수년에 걸쳐 각막혼탁이 서서히 줄어들기도 합니다. 그러나, 각막 중심부를 가리는 각막혼탁 및 반흔은 심각한 시력 저하를 동반하므로 혼탁이 있는 부위를 투명한 각막으로 대체하는 각막이식술을 시행해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18bb6d550ed7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[각막이식은 혼탁이 있는 중심부 각막을 절제하고, 사망자가 기증한 안구 중 투명한 각막을 이식하는 수술입니다. 이식 수술 후 이식거부반응이 생기거나, 각막이식편이 수명을 다하거나, 심한 난시가 발생하거나, 원인 질환이 재발하는 등 다양한 합병증이 생길 수 있습니다. 그러나, 각막이식수술은 고정된 각막혼탁 및 반흔을 제거하고 시력을 회복할 수 있는 유일한 방법입니다. 최근에는 합병증을 줄이고, 필요한 부분의 각막만 이식하는 부분층 각막이식이 다양한 방법으로 시행되고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[콘택트렌즈를 착용하는 경우, 콘택트렌즈 및 보관 용기에 미생물이 감염될 가능성이 높습니다. 따라서, 올바른 방법으로 콘택트렌즈를 세척하고 주기적으로 소독해야 합니다. 다른 사람과 콘택트렌즈를 함께 사용해서는 안 되며, 콘택트렌즈를 끼고 자거나, 1회용 콘택트렌즈를 지속적으로 착용하지 않아야 합니다. 콘택트렌즈의 정해진 용법과 착용 시간에 맞게 사용해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[깨끗하지 않은 손으로 눈을 만지거나 비비지 않아야 합니다. 눈에 이물감이 있을 때는 인공눈물 혹은 생리식염수를 넣고 눈을 여러 번 깜박이는 것이 도움이 될 수 있습니다. 
+만약 실제로 이물이 눈에 들어갔다면 무리해서 제거하지 말고 즉시 안과 의사의 진료를 보는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[지원체계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[119]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[원추각막과 각결막염을 동반한 쉐그렌 증후군의 경우 국민건강보험에서 ‘본인일부부담금 산정특례 제도’를 통해 의료비의 일부를 지원받을 수 있습니다.
+-본인일부부담금 산정특례제도:  https://www.nhis.or.kr/nhis/healthin/wbhada15400m01.do]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 각막혼탁 및 반흔이 발생하는 가장 흔한 원인은 무엇입니까?
+
+A. 각막혼탁 및 반흔이 발생하는 가장 흔한 원인은 세균, 곰팡이, 바이러스, 기생충 등 미생물 감염입니다. 미생물 감염은 외상, 콘택트렌즈 착용, 스테로이드 안약 사용 시에 더 잘 생깁니다.
+
+Q. 콘택트렌즈를 많이 사용하면 각막혼탁이 더 쉽게 발생하나요?
+
+A. 콘택트렌즈나 렌즈보관 용기가 미생물에 오염되면, 감염성 각막염으로 인한 각막혼탁 발생 가능성이 높아집니다. 하루 중 콘택트렌즈 착용 시간이 길수록, 오랫동안 렌즈를 착용할수록 각막의 산소 접촉이 적어져 각막 주변부에 신생혈관으로 인한 혼탁이 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[121]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[국가건강정보포털 콘텐츠의 안외상(각막이물), 안외상(각막찰과상), 안외상(각막화상)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 곽상인, 김영훈, 김찬윤, 송종석. (2023). 안과학 (제13판). 서울:일조각.
+2. 한국외안부학회. (2013). 각막 (제3판). 서울:일조각. 
+3. 한국콘택트렌즈학회. (2015). 콘택트렌즈 임상학. 서울:군자출판사. 
+4. Wang, E.Y., Kong, X., Wolle, M., Gasquet, N., Ssekasanvu, J., Mariotti, S.P., ··· West, S. (2023). Global Trends in Blindness and Vision Impairment Resulting from Corneal Opacity 1984-2020: A Meta-analysis. Ophthalmology. 130(8):863-71. doi: 10.1016/j.ophtha.2023.03.012]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

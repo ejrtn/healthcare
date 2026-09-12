@@ -1,0 +1,27 @@
+# ragas_eval.py를 돌리려면 requirements.txt에 더해 이것도 설치해야 한다:
+#   pip install -r eval/requirements-ragas.txt
+#
+# 버전을 이렇게 구체적으로 고정한 이유: ragas==0.4.3을 그냥 `pip install ragas`로
+# 깔면 langchain-community 최신판(0.4.x)이 같이 깔리는데, ragas.llms.base가
+# 무조건 `from langchain_community.chat_models.vertexai import ChatVertexAI`를
+# import한다 — 그런데 langchain-community 0.4.x에서 이 서브모듈 자체가
+# sunset(삭제)되어 `import ragas`가 즉시 ModuleNotFoundError로 죽는다
+# (2026-09 기준 ragas 쪽 미수정 버그). langchain 계열을 전부 0.3대로 맞춰야
+# 우회된다.
+ragas==0.4.3
+langchain==0.3.30
+langchain-community==0.3.27
+langchain-core==0.3.86
+langchain-openai==0.2.14
+
+# .env 파일(llm/.env, .env.example이 템플릿)에서 API 키를 읽어오는 데 필요.
+# 없어도 로컬 judge는 동작하지만, .env로 편하게 키를 관리하려면 필요.
+python-dotenv
+
+# 아래 둘은 로컬 judge 외에 Gemini/Claude도 judge로 써보고 싶을 때만 필요
+# (ragas_eval.py는 이 둘이 없어도, GOOGLE_API_KEY/ANTHROPIC_API_KEY가 없어도
+# 로컬 judge만으로 정상 동작한다 — 자세한 건 ragas_eval.py 모듈 docstring 참고).
+# 둘 다 langchain 통합 패키지가 아니라 각 회사 공식 SDK라 위 langchain 0.3대
+# 고정과 버전 충돌이 없다(실제로 설치해서 확인함).
+google-genai
+anthropic

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[대장게실증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[3447]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 게실은 장기 벽이 바깥쪽으로 돌출되어 생긴 작은 주머니를 말하며, 특히 대장에서 흔히 발생합니다.
+• 여러 개의 게실이 있는 상태를 게실증이라 하고, 그 안에 대변 등이 들어가 염증이 생기면 게실염이라고 합니다.
+• 대장 게실은 선천적인 진성 게실과 후천적인 가성 게실로 나뉘며, 식습관과 변비 등 후천적 요인이 중요한 원인으로 여겨집니다.
+• 대부분 증상이 없지만 일부에서는 복통, 배변 습관 변화, 혈변 등이 나타나며 드물게 출혈이나 천공 같은 합병증이 발생할 수 있습니다.
+• 치료는 증상이 없으면 식이조절 중심으로 관리하고, 염증이나 합병증이 생기면 약물치료나 필요 시 수술을 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[“게실(憩室; diverticulum)”이란 내부에 공간이 있는 장기(위나 소장, 대장 또는 담낭, 방광 등)의 바깥쪽으로 돌출한 비정상적인 작은 주머니를 말합니다.
+게실은 위장관 중에서도 특히 대장에 많이 나타나는데, 대장 게실은 대장벽이 바깥쪽으로 동그랗게 꽈리 모양으로 튀어나오는 질환입니다. 게실이 여러 개 있을 때를 ‘게실증’이라고 하고, 이 튀어나온 주머니 안으로 변과 같은 오염물질이 들어가서 염증을 일으키는 것을 ‘게실염’이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cbca2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173c16e214a9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대장 게실에는 두 가지 종류가 있습니다. 돌출되는 대장벽이 장벽의 일부(점막과 점막하층 조직)에 국한되는 경우를 “가성(假性) 게실”이라 하고, 근육층을 포함한 장벽의 전층이 돌출되어 주머니를 형성하는 경우를 “진성(眞性) 게실”이라고 합니다. 
+진성 게실은 선천적으로 생기며 주로 한 개만 나타나는 경우가 많은데 대부분이 우측 대장에 생기고 동양인에게 흔하게 나타납니다. 
+가성 게실은 후천적이고 한 사람에게서 여러 개의 게실이 생기며 좌측 대장에 주로 발생합니다. 주로 서구인에게 많이 발생하는데 최근에는 동양에서도 증가하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cbd93]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대장 게실이 있다고 하더라도 모두 증상을 일으키지는 않고 일부에서만 증상을 나타내며, 그 중에서도 소수에서만 합병증을 동반합니다. 일반적으로 대장 게실을 가지고 있는 사람 중 약 70~90%에서는 증상이 나타나지 않는 것으로 알려져 있습니다. 
+대장 게실의 튀어나온 주머니 안으로 대변과 같은 오염물질이 들어가서 염증을 일으키는 것을 게실염이라고 하며 가장 흔한 합병증입니다. 이 외에도 드물게 천공, 출혈, 누공, 장폐색 등이 합병될 수 있습니다. 
+합병증이 없이 우연히 발견된 대장 게실은 증상이 없으면 특별한 치료는 필요 없습니다. 게실염이나 출혈 등이 합병된 경우 우선 내과적 치료를 하고 효과가 없는 경우에는 수술을 필요로 합니다. 그러나 천공, 누공 등의 합병증이 있는 경우에는 가능한 빨리 수술을 해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대장 게실의 원인은 아직까지 확실하게 밝혀지지 않았습니다. 다만, 지역과 인종에 따라 발생 정도와, 잘 생기는 부위 등이 다른 점으로 보아 인종적, 유전적 인자 등의 선천적 요인과 식생활 습관, 생활환경 등 후천적 요인이 함께 관여하는 것으로 봅니다. 그러나 선천적 요인보다는 후천적인 요인이 더 중요한 인자로 추정되고 있습니다.
+
+
+1. 우측 대장에 발생하는 게실(진성 게실) 
+대장벽의 특정 부위가 선천적으로 약한 상태에서 대장 내압이 증가하게 되는, 이 두 가지 요인이 복합적으로 연관되어 발생할 것으로 생각되나 확실하지는 않습니다.
+- 장벽에서 약한 부위는 맹장에 많으며, 이에는 인종적, 유전적 요인이 연관된 것으로 생각됩니다.
+- 즉, 선천적 게실은 정확한 원인은 알 수 없으나 특정부위의 장 안의 압력이 증가하면서 장벽이 밖으로 밀려나와 생긴다고 추측됩니다.
+
+2. 좌측 대장에 발생하는 게실(가성 게실)
+- 식생활, 변비, 대장 내압의 증가, 장 운동의 이상 등 여러 가지 복합적 요인이 연관된 것으로 생각됩니다.
+- 특히 음식물 중에서도 섬유질이 적은 식사와 밀접한 연관이 있는 것으로 알려져 있습니다. 즉 섬유질이 부족한 식사에 의해 상습적으로 변비가 유발되면 대변이 딱딱해지고 대장을 통과하기가 어려워집니다. 그러면, 대장 내의 압력이 높아져서 게실증이 유발되는 것입니다.
+- 좌측 대장게실증은 대장의 여러 부위 중에서 에스결장 및 하행결장에 가장 많이 발생합니다. 이 부위가 대장 내에서 가장 좁고 압력이 높기 때문입니다.
+간단히 말하면 후천적 게실은 식사습관과 관련이 있어 섬유질 부족으로 변의 양이 줄어 대장이 더 많은 압력으로 대변을 밀어내야 하므로 잘 생기고, 그 외 노화나 변비로 인해서도 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cbe84]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 대장 게실염 
+- 정확한 원인은 알 수 없으나 대장 게실을 가지고 있는 소수의 사람만에서만 증상이 나타납니다. 
+- 대장 게실의 가장 흔한 합병증인 게실염의 경우, 대변이나 세균이 주머니에 들어가서 염증을 일으켜 발생한다고 추측됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대장게실증은 유럽 및 미국 등의 국가, 즉 고단백, 고지방, 저섬유질 음식을 주로 섭취하는 국가에서 높은 빈도로 발생하는 질환으로, 서양인의 경우 좌측 결장, 특히 에스결장에 잘 발생하는 가성 게실이 흔하고, 우측 대장에는 상대적으로 발생률이 낮은 것으로 보고되고 있습니다. 서양의 경우 좌측 대장 게실이 전체의 80~90%, 우측 대장 게실이 5~10%이며, 특히 에스결장에 발생하는 경우는 좌측 대장 게실의 90~95% 정도 보고되고 있습니다. 미국인의 경우 60세에 이르면 약 절반이, 그리고 80세에 이르면 거의 모든 사람이 대장 게실을 가지고 있을 정도로 흔한 질환입니다.
+이에 비해 동양인의 경우 대장게실증은 서양과 달리 우측결장에 잘 발생하는 것으로(좌측 대장보다 우측 대장이 6~8배 정도 많음) 보고되고 있습니다. 대부분이 선천성, 진성형, 단발성 게실로 생각되는데 맹장 혹은 회맹관  근처에 호발합니다. 발생 원인 또한 식습관 등 후천적 요인에 의한 것으로 알려진 서구와 달리 선천적인 요인이 주요한 것으로 알려져 있습니다. 
+그러나 최근 식생활의 서구화와 인구의 고령화로 일본 및 우리나라에서도 좌측 대장 게실 질환의 빈도가 점차 증가하고 있으며, 대장게실증의 임상적 중요성은 점점 높아지고 있습니다. 우리나라 대장게실증의 유병률은 1980년대 초반에 5% 내외, 80년대 후반에 7% 내외, 그리고 90년대 이후 10% 이상으로 보고되고 있습니다. 2008년 연구에서는 국내 대장게실증의 유병률이 7.3%로 보고되었으나, 이후 식생활 서구화 및 고령화에 따라 유병률이 지속적으로 증가하고 있습니다. 최근 연구에서는 대장내시경 시행자 기준 유병률이 20% 이상으로 보고되는 경우도 있어, 국내 최신 역학 자료를 지속적으로 참고할 필요가 있습니다. 2008년 연구에서 대장게실증은 우측 대장에 발생한 경우가 81.8%, 좌측 대장에 발생한 경우가 13.1%, 좌측과 우측 대장 모두에서 발생한 경우가 5.1%라고 보고되었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[게실증을 가진 대부분의 사람들은 증상을 호소하지 않습니다. 대장게실증의 대부분은 무증상이지만 일부 환자(10~30%)에서는 증상이 나타날 수 있습니다. 흔히 동반되는 증상은 다음과 같습니다.
+
+- 복통 
+- 복부팽만
+- 변비 및 설사
+- 배변 습관의 변화 
+- 혈변(밝고 붉은 혈변, 통증이 없음) 
+그러나 위의 증상이 있다고 반드시 대장 게실에 의한 것이라고 단정할 수는 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대장 게실은 대부분 증상이 없기 때문에 있는지 모르고 지내는 경우가 많습니다. 보통 증상이 발생한 후에 진단되는 경우가 많은데, 만성적인 복통이나 혈변, 배변 습관의 변화 등으로 검사를 받다가 진단되는 경우가 있고, 갑자기 심한 복통이 발생하거나 대량 출혈 등의 응급 상황으로 진단과 치료를 받는 과정에서 진단받는 경우가 있습니다.
+대장 질환의 진단 방법인 대장조영술 및 대장내시경 검사가 보편화되면서 무증상의 대장 게실이 우연히 발견되는 경우가 있습니다. 하지만 이렇게 발견된 대장 게실은 대부분 증상이 없고 증상이 있어도 복통이나 혈변, 배변 습관의 변화 등 비특이적인 증상을 보일 경우가 많아 과민성대장증후군 등의 질환과 구별하기 힘듭니다. 
+우측 대장게실의 경우 맹장 부위에 잘 발생하고 게실염이 생겼을 경우 증상도 비슷하기 때문에 급성충수염(맹장염)과 감별하기가 어렵습니다. 따라서 합병증이 생긴 대장 게실을 급성충수염으로 진단하여 수술하다 우연히 진단하는 경우가 과거엔 많았으나, 최근 진단에 복부전산화단층촬영(CT)이 증가됨에 따라 수술 전 진단되는 경우가 증가하고 있습니다. 
+대장 게실 진단에 도움이 되는 진단 방법은 다음과 같습니다.
+
+
+1. 임상병력 
+건강상태와 생활습관 및 통증, 배변 습관, 식생활 및 약물 복용력 등에 대한 확인이 필요합니다. 
+
+2. 임상병리검사
+ 게실염 등의 염증이 발생하는 경우 혈액 속의 백혈구 수치가 상승하는 등의 변화가 나타납니다. 혈액을 통한 임상병리검사는 몸속의 감염여부를 확인하는데 도움을 줍니다. 
+
+3. 대변잠혈검사
+대변을 통해서 소화관에 출혈이 있는지 확인하는 검사로 대장게실증으로 인한 출혈이 의심될 때 시행합니다. 
+
+4. 직장수지검사
+의사가 장갑을 낀 손가락으로 항문과 직장을 직접 만져 검사합니다. 이 검사로 항문에 통증이 있는지 여부와 출혈이나 좁아지거나 막힌 부위가 있는지 알 수 있습니다. 
+
+5. 대장조영술
+일명 바륨관장이라고도 불리는 대장조영술은 과거에 게실 진단에 사용되었으나, 현재는 복부 CT(전산화단층촬영)가 게실염 진단의 표준 검사법으로 자리 잡아 임상에서 거의 사용되지 않습니다. 특히 천공이 의심되는 경우 바륨관장은 위험할 수 있어 금기입니다. 게실염이나 합병증이 있는 경우에도 진단할 수 있으나 천공 등의 합병증이 있을 때에는 이 검사가 위험할 수도 있습니다. 
+
+6. 복부전산화단층촬영(CT)
+CT는 대장게실염 진단에 가장 흔히 사용되는 검사법입니다. 조영제를 혈관을 통해 주입하면 X-선 촬영 시 기관을 더 잘 볼 수 있습니다. 큰 도넛 모양의 CT 기계에 들어가 촬영하게 됩니다. 
+게실염은 복부전산화단층촬영에서 염증이 있는 부위 장벽이 두꺼워지고 장주위에 염증이 있는 소견을 관찰할 수 있으며, 주위에 농양이 있는 경우도 쉽게 찾아낼 수 있습니다. 
+
+7. 대장내시경검사
+비디오 카메라가 부착된 가늘고 잘 휘는 관을 항문을 통해 집어넣은 다음 전체 대장을 관찰합니다. 검사 중에 다소 불편할 수 있지만 통증이 있는 경우는 흔하지 않습니다. 게실염이나 합병증이 있는 경우에도 진단할 수 있으나 천공 등의 합병증이 있을 때에는 이 검사가 위험할 수도 있습니다.우리나라에서는 좌측 대장게실이 증가하고 있지만, 아직도 서구와 달리 우측 대장게실이 더 많으므로 좌측 대장만 확인해서는 안 되며 전체 대장을 확인하여야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cbf75]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우연히 발견된 대장 게실은 대부분 특별한 치료를 할 필요가 없지만 합병증이 생기는 것을 예방하기 위한 고섬유질 식이를 권장합니다. 고섬유질 식이는 변비를 개선함으로써 대장내 압력을 낮춰줍니다. 대부분의 대장 게실 환자에서 식단 개선이 추천됩니다. 고섬유질 식이 외에도 충분한 수분 섭취와 규칙적인 운동은 게실의 합병증(염증이나 감염 등) 예방에 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[합병증이 없는 경증 단순 게실염의 경우, 면역 기능이 정상인 환자에서는 항생제 없이 식이 조절, 충분한 수분 섭취, 진통제 등 보존적 치료만으로도 대부분 나아집니다. 항생제의 일상적 사용은 최신 가이드라인에서 더 이상 권고하지 않습니다. 다만 발열, 백혈구 증가 등 전신 감염 징후가 동반되거나, 면역 저하 환자, 중등도 이상 게실염의 경우에는 항생제 치료가 필요합니다. 복부 통증 및 압통과 반발통을 동반하는 경우에는 금식하여 장을 쉬게 해주고 정맥주사로 수액을 보급해주면서 정맥 주사용 항생제 및 소염제와 필요에 따라서는 장 운동을 줄여주는 항경련제 등의 약물치료를 합니다. 증세가 좋아지면 식이요법을 시작합니다.
+단순 게실염에서 항생제가 필요하지 않다고 해서 임의로 치료를 중단하거나 병원 방문을 미루어서는 안 됩니다. 발열, 심한 복통, 혈변이 동반되거나 증상이 나아지지 않는 경우에는 반드시 의료기관을 방문하여 적절한 평가와 치료를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[게실염이 내과적 치료에 실패하거나 합병증(천공, 농양, 누공, 장폐색 등)이 동반된 경우에는 수술을 고려합니다. 단순 재발 횟수만을 근거로 예방적 수술을 시행하는 것은 최신 가이드라인에서 더 이상 권고하지 않습니다. 수술 여부는 재발 빈도보다 환자의 나이, 면역 상태, 삶의 질 저하 정도, 증상 중증도를 종합적으로 고려하여 개별화하여 결정해야 합니다.
+천공과 복막염, 누공, 대장 주위 농양 및 장폐색증 등의 합병증이 발생되는 경우와 대량 수혈이 필요한 출혈이 있을 때에는 응급수술을 해야 합니다.
+수술은 우측 대장 게실의 경우 게실 개수에 따라 게실이 발생한 부위의 대장의 일부를 절제하거나 우측 대장을 절제 후 소장과 우측 대장을 연결합니다. 하지만, 좌측 대장 게실의 경우 환자의 상태에 따라 좌측 대장과 직장 일부를 절제한 후 대장과 직장을 연결하거나 연결부위를 보호하기 위해 일시적 장루조성술을 시행합니다. 또한 좌측 대장 게실 천공은 오염이 심할 경우 대장 절제 후 연결하지 않고 일시적 장루조성술을 시행하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[게실증이 있는 사람의 약 4~5% 정도에서 게실염이 발생하는 것으로 최신 연구에서 보고되며, 이는 대장게실증의 가장 흔한 합병증입니다. 과거에는 약 15~25%로 높게 추정하였으나, 대규모 코호트 연구를 통해 실제 발생률이 이보다 낮음이 확인되었습니다. 대장 게실염에서는 다양한 증상이 나타납니다. 
+- 급성 복통 
+- 복부에 압통과 반발압통 
+- 발열 
+- 오한 
+- 백혈구증가증 
+- 복부불편감 
+- 오심 
+- 구토 
+- 배변 습관의 변화 
+
+
+게실염 외에도 천공, 출혈, 농양, 누공, 장폐색증 등의 합병증이 발생할 수 있습니다. 게실 출혈(diverticular bleeding)은 게실 내부 혈관이 파열되면서 발생하며, 하부위장관 출혈의 가장 흔한 원인 중 하나입니다. 대부분 통증 없이 갑작스럽게 선홍색 또는 적갈색의 혈변이 발생합니다. 출혈의 약 70~80%는 자연적으로 멈추나, 지속적이거나 반복되는 출혈의 경우 대장내시경을 통한 내시경 지혈술 또는 혈관조영술을 통한 색전술이 필요할 수 있습니다. 반복적인 출혈이 있는 경우에는 수술적 치료를 고려하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cc046]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 위험요인
+많은 사람들이 대장 게실을 가지고 있습니다. 보통 40세부터 발생하기 시작하여 60세에서는 약 50%, 80세 이상에서는 적어도 2/3가 대장 게실을 가지고 있습니다. 따라서 대장 게실염의 빈도도 나이에 따라서 증가하게 됩니다. 
+위험요인을 살펴보면 다음과 같습니다. 
+- 고령(연령이 증가 할수록) 
+- 고단백, 고지방, 저섬유질 음식 
+- 지역과 인종(서양&gt;동양) 
+- 비만 
+- 변비
+
+
+2. 예방
+고섬유질 식이요법이 대장 게실을 예방하는 가장 좋은 방법입니다. 충분한 식이섬유 섭취는 배변을 원활하게 하고 장관 내압을 낮추는 데 도움이 될 수 있습니다. 한국인 영양소 섭취기준(2020)에서는 성인 기준 하루 25~30g의 식이섬유 섭취를 권장합니다. 다만 식이섬유 섭취와 게실증 예방의 직접적 연관성에 대해서는 추가 연구가 필요합니다.
+특히 아래 음식을 많이 섭취하면 예방에 도움이 됩니다.
+
+- 과일 : 사과, 복숭아, 배, 그리고 귤 
+- 야채 : 신선한 브로콜리, 호박, 당근, 그리고 방울양배추(brussels sprouts) 
+- 녹말 야채 : 감자, 바싹 마른 콩, 키드니 빈즈, 그리고 리마 콩 
+- 곡물 : 호밀빵, 현미, 밀기울 시리얼, 그리고 오트밀
+
+
+또한 비만인 경우 체중을 감소시키고, 변비가 있는 경우에는 배변이 잘 이루어지도록 장 운동을 적절히 조절하여 평소에 대장 내 압력이 높아지지 않게 해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 게실염은 재발하나요?
+
+A. 게실염은 치료 후에도 재발할 수 있습니다. 따라서 고섬유질 식이, 충분한 수분 섭취, 규칙적인 운동 등 평소의 관리와 예방이 중요합니다.
+
+Q. 어떤 증상이 있을 때 병원에 바로 가야 하나요?
+
+A. 발열, 심한 복통, 혈변이 동반되거나 증상이 나아지지 않는 경우에는 지체하지 말고 의료기관을 방문하여 적절한 평가와 치료를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한소화기학회. (n.d.). 대장 게실증. 대한소화기학회 건강정보. https://www.gastrokorea.org/
+2. 한국영양학회. (2020). 2020 한국인 영양소 섭취기준. 세종: 보건복지부.
+3. Bharucha, A. E., &amp; Sharma, M. (2018). Dietary fiber for the prevention and management of diverticulosis. Mayo Clinic Proceedings, 93(12), 1829–1831.
+4. Chabok, A., Påhlman, L., Hjern, F., Haapaniemi, S., &amp; Smedh, K.; AVOD Study Group. (2012). Randomized clinical trial of antibiotics in acute uncomplicated diverticulitis. British Journal of Surgery, 99(4), 532–539.
+5. Daniels, L., Ünlü, Ç., de Korte, N., van Dieren, S., Stockmann, H. B. A. C., Vrouenraets, B. C., et al. (2017). Randomized clinical trial of observational versus antibiotic treatment for a first episode of CT-proven uncomplicated acute diverticulitis (DIABOLO trial). British Journal of Surgery, 104(1), 52–61.
+6. Feuerstein, J. D., &amp; Falchuk, K. R. (2020). ACG clinical guideline: Management of acute left-sided colonic diverticulitis. American Journal of Gastroenterology, 115(3), 384–413.
+7. Schultz, J. K., Azhar, N., Binda, G. A., Barbara, G., Biondo, S., Boermeester, M. A., et al. (2020). European Society of Coloproctology: Guidelines for the management of diverticular disease of the colon. Colorectal Disease, 22(Suppl. 2), 5–28.
+8. Shahedi, K., Fuller, G., Bolus, R., Cohen, E., Vu, M., Shah, R., et al. (2013). Long-term risk of acute diverticulitis among patients with incidental diverticulosis found during colonoscopy. Gastroenterology, 144(4), 743–748.
+9. Stollman, N., &amp; Raskin, J. B. (2004). Diverticular disease of the colon. The Lancet, 363(9409), 631–639.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[성홍열]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5317]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 성홍열은 A군 베타 용혈성 연쇄구균이 만드는 독소에 의해 발생하는 급성 감염병으로, 갑작스러운 발열과 인후통으로 시작해 12~48시간 안에 전신에 좁쌀 같은 발진이 나타납니다.
+• 주로 침방울을 통한 사람 간 접촉으로 전파되며, 어린이집, 학교, 군대처럼 밀접 접촉이 많은 곳에서 잘 퍼집니다.
+• 2급 법정감염병으로 지정되어 있으므로, 환자를 발견하면 24시간 이내에 보건소에 신고해야 합니다.
+• 진단은 인두(목)에서 균을 배양하거나 신속항원검사를 통해 이루어지며, 치료는 페니실린이나 아목시실린 같은 항생제를 사용합니다.
+• 드물게 중이염, 급성 사구체신염, 류마티스열 같은 합병증이 생길 수 있어 주의가 필요하며, 치료 시작 후 최소 24시간 동안은 격리해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[성홍열은 A군 베타 용혈성 연쇄구균(Group A β-hemolytic Streptococci)에 의한 급성 질환으로, 갑작스런 발열, 두통, 구토, 복통, 인후통 등으로 시작되어, 12~48시간 후에 전신에 전형적인 발진을 보이는 특징이 있습니다.
+우리나라에서는 2급 법정감염병으로 지정되어 있으므로, 환자를 발견하면 24시간 이내에 보건소에 신고해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[성홍열은 A군 베타 용혈성 연쇄구균의 발열성 외독소에 의한 급성 질환으로 우리나라에서 2급 법정감염병으로 지정되어 있어 아래와 같이 24시간 이내에 신고합니다
+
+1. 신고 범위: 환자, 의사환자
+2. 신고 시기: 24시간 이내 신고
+
+3. 신고를 위한 진단 기준 
+• 환자: 성홍열에 부합되는 임상증상을 나타내면서 확인 진단을 위한 검사 기준에 따라 감염병 병원체 감염이 확인된 사람 
+• 의사환자 
+ ◊ 의심 환자: 임상증상 및 역학적 연관성을 감안하여 성홍열이 의심되나 진단을 위한 검사 기준에 부합하는 검사 결과가 없는 사람 
+ ◊ 추정 환자: 임상증상 및 역학적 연관성을 감안하여 성홍열이 의심되며, 추정 진단을 위한 검사 기준에 따라 감염이 추정되는 사람     
+
+4. 진단을 위한 검사 기준 
+• 확인 진단: 검체(구인두도말, 혈액)에서 용혈성 연쇄상구균(S. pyogenes) 분리 동정
+• 추정 진단: 검체(구인두도말)에서 특이 항원 검출(신속 진단키트 포함)
+
+5. 신고 방법: 신고서를 작성하여 관할 보건소로 팩스 전송 또는 웹 입력 방법으로 신고]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[성홍열은 주로 환자와 보균자의 침방울이나 분비물과 직접 접촉에 의해 전파되지만 드물게 식품을 통해서 전파되기도 합니다. 성홍열은 주로 사람 사이의 긴밀한 접촉이 흔한 학교, 어린이 보호시설, 군대 등에서 유행하여 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 국외 현황 
+세계적으로 온대지역에서 흔하게 발생하며 아열대 지역에서 발생하기도 하지만 열대지역에서는 드물게 발생합니다.
+
+
+2. 국내 현황 
+주로 6~12세에 발생하며 이후 감소하는 양상을 보이며 일년 내내 발생할 수 있고 늦겨울과 초봄에 자주 발생합니다. 
+국내에서는 1954년 법정감염병으로 지정되어 1990년대 이후 연간 100명 내외로 신고 되었으나 2012년부터 성홍열의 신고범위가 기존 ‘환자’ 에서 ‘환자 및 의사환자’로 확대되고 2013년에 의사환자 정의가 변경됨에 따라 신고수가 크게 증가하였습니다.
+* 의사환자 정의 변경(2013.09.23.) : 합당한 임상적 특징을 나타내면서 항원검출법을 통해 감염이 확인된 자 → 임상적 특징 및 역학적 연관성을 감안하여 의심되나 검사방법에 대해 해당 병원체 감염이 확인되지 아니한 자
+국내 성홍열 발생현황은 질병관리청 감염병포털의 '감염병통계'에서 확인할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198cb75c17b8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198cb76596f6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 잠복기
+성홍열의 잠복기는 감염 후 1~7일(평균 2~5일)입니다
+
+2. 임상증상
+(1) 대부분 발열(38℃ 이상)과 인후통으로 시작, 오한, 두통 또는 몸살, 식욕부진, 복통, 오심·구토 등
+(2) 발진
+• 발열 1~2일 후면 작은 좁쌀 크기의 발진이 입주위 및 손발바닥을 제외한 전신에 나타남
+• 목, 겨드랑이, 가슴, 사타구니, 몸통 등 상부에서 시작하여 팔과 다리로 퍼져나감
+• 미만성의 선홍색 작은 구진으로 압력을 가하면 퇴색하는 것이 특징이며, 햇볕에 탄 피부에 소름이 끼친 것 같이 보이기도 함
+• 발진은 보통 7일 후면 사라지며, 손톱 끝, 손바닥, 발바닥 주위로 피부 껍질이 벗겨지기도 함
+(3) 이마와 뺨 등 얼굴은 홍조가 나타나지만, 입 주위는 창백
+(4) 혀: 처음에는 회백색이 덮이고 돌기가 현저히 두드러지는 모양이며(white strawberry tongue) 발병 후 2~3일 지나면 붉은색을 띠고 돌기가 붓는 딸기 모양이 됨(strawberry tongue)
+(5) 편도선이나 인두 후부에 점액 화농성의 삼출액, 경부 림프절 종창 등
+(6) 불현성 감염의 빈도는 확실하지 않으며, 보균율은 약 8.5~21.9%]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=198cb7c394f2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[성홍열의 진단은 환자의 인두 분비물, 혈액 등에서 균을 분리 동정하거나 항원 검출법을 통해 진단을 하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[151]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[성홍열 치료에는 페니실린이 우선적으로 권장되지만, 복용이 편한 경구용 아목시실린을 사용할 수도 있습니다.최근에는 에리스로마이신(erythromycin)에 대한 내성균이 증가하고 있으며, 감수성이 있는 항생제를 사용하더라도 증상 호전이 늦어지는 경우가 있습니다.이 외에도 세팔로스포린계 항생제(cephalosporins)를 4~5일간 복용하거나, 아지스로마이신(azithromycin)을 2~5일간 복용하는 방법도 가능합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[153]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[성홍열의 합병증은 감염 후 1주 이내에 생기는 화농성 합병증과 감염 2~3주 후에 생기는 비(非)화농성 합병증으로 나눌 수 있습니다.
+(1) 화농성 합병증
+•  중이염, 부비동염, 유양돌기염
+•  경부림프절염, 편도주위 농양, 인두후방 농양
+•  기관지 폐렴
+•  수막염
+•  골수염, 패혈증성 관절염 등
+(2) 비(非)화농성 합병증
+•  급성 사구체신염
+•  류마티스열 등]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[154]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 환자관리
+• 항생제 치료를 시작 후 최소 24시간까지 자택 격리(등교, 등원, 출근 등 금지)이 필요합니다.
+• 의학적 사유로 입원한 경우는 항생제 치료 시작 후 24시간까지 비말 격리를 실시합니다
+• 환자의 대변 등 배액 및 분비액과 사람이나 음식물 등이 오염되지 않도록 관리해야 하고, 오염된 물품을 소독해야 합니다. 
+
+2. 접촉자 관리
+• 마지막 노출일로부터 7일까지 접촉자 중 추가 발생 여부 감시하고 환자와 접촉한 가족은 최대 잠복기동안 추가 발생여부 확인합니다.
+• 만일 집단시설에서 침습성 A군 연쇄상구균 감염증*, 급성 류마티스열, 연쇄상구균 감염 후 사구체 신염 의심 시 접촉자에 대한 예방적 화학요법(항생제 치료) 고려할 수 있습니다
+ * 괴사성 근막염, 독성쇼크증후군(STSS) 등]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청(2025), 2025년도 호흡기감염병 관리지침
+2. 질병관리청(2025). 감염병포털. https://dportal.kdca.go.kr/pot/index.do]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

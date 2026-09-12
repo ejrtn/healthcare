@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[직업성 호흡기질환(직업성 만성폐쇄성폐질환)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6526]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 직업성 만성폐쇄성폐질환은 일하는 곳에서 먼지나 가스, 연기와 같은 유해한 물질에 오랜 시간 노출되어 새롭게 생기거나 나빠질 수 있는 질환입니다.
+• 만성폐쇄성폐질환은 전 세계적으로 사망 원인의 3위를 차지하고, 그중 직업적인 요인은 약 15%를 차지합니다.
+• 완치가 불가능하기 때문에 폐기능을 보호하기 위해서 금연은 필수적이고, 유해물질 노출을 최대한 피해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[만성폐쇄성폐질환은 기관지염이나 폐기종 같은 병으로 인해 작은 기도가 폐쇄되어 숨쉬기 어려운 상태가 계속되는 폐질환입니다. 그중에서 직업성 만성폐쇄성폐질환은 일하는 곳에서 유해한 물질에 노출되어 새로 질병이 생기거나 더 나빠지는 경우를 가리킵니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[만성폐쇄성폐질환의 가장 큰 원인은 담배를 오래 피우는 것이지만, 직업성 질환의 경우에는 업무 중에 노출되는 환경적인 요인이 주요 원인입니다. 곡물 분진이나 결정형 유리규산과 같은 물질은 직업적 요인으로 잘 알려져 있으며, 면 분진, 목재 분진, 염화비닐, 중금속 등도 직업성 만성폐쇄성폐질환의 주요 원인으로 알려져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19416f10c659]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[초기에는 기침, 가래, 가벼운 호흡 곤란 등의 증상이 나타날 수 있지만, 많은 경우 증상이 뚜렷하지 않거나 흡연에 따른 증상과 구분하기 어렵습니다. 유해 물질에 계속 노출되면 폐기능이 점차 악화되어 숨이 차거나 활동 중 호흡 곤란을 느끼며, 심한 경우 일상 생활에도 어려움이 생길 수 있습니다. 폐 손상이 심해지면 폐기능이 크게 감소해 산소 공급이 필요할 수 있습니다. 또한 폐렴, 기관지염 등 합병증의 위험이 높아지며, 심부전과 같은 중증 합병증이 발생할 가능성도 있습니다. 
+초기 단계에서 발견해 유해 물질 노출을 중단하면 질병의 진행을 늦출 수 있습니다. 그러나 유해한 작업 환경에 계속 노출되면 병이 악화될 가능성이 높습니다. 특히 흡연은 질환을 더욱 악화시키는 주요 요인이므로, 금연은 예후 개선에 매우 중요합니다. 중증 환자는 폐 감염과 심장 질환 같은 합병증을 겪을 위험이 높으며, 이런 합병증이 발생하면 예후가 더욱 나빠질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[유해한 입자나 가스가 폐에 들어오면 활성 산소라는 불안정한 물질이 생성되어 폐와 기도를 손상시키기 시작합니다. 이를 막기 위해 몸은 면역 시스템을 가동하는데, 선천 면역이라는 방어 체계가 먼저 작동하여 염증 유발 물질을 분비합니다. 이러한 물질은 대식세포와 호중구 같은 면역 세포를 활성화시켜 유해 물질을 제거하려고 하지만, 이 과정에서 기도와 폐 조직도 함께 손상될 수 있습니다. 시간이 지나면 몸은 유해 물질에 보다 정교하게 반응하기 위해 적응 면역 체계를 활성화합니다. 그러나 이 과정 역시 폐에 추가적인 손상을 일으켜 만성적인 염증과 기도 손상을 지속시킵니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[만성폐쇄성폐질환은 전 세계적으로 약 3억 명이 발병하며, 사망 원인 중 3위를 차지합니다. 전 세계 유병률은 약 4% 정도이며, 40세 이상에서는 10%까지 증가합니다. 만성폐쇄성폐질환으로 인한 장애와 조기 사망의 가장 큰 요인은 흡연으로 약 46%를 차지하며, 작업장의 먼지, 가스, 연기 노출 등 직업적 요인은 약 15%를 차지합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일반적인 만성폐쇄성폐질환과 유사하며, 만성 기침, 가래, 호흡곤란, 쌕쌕거림, 가슴 답답함, 피로감, 체중 감소 등의 증상이 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[만성폐쇄성폐질환의 위험 인자에 노출된 성인에서 호흡곤란, 기침, 가래 등의 증상이 만성적으로 지속되는 경우 의심해야 합니다. 폐기능 검사를 시행해 기관지확장제 투여 후 1초간 강제 호기량(FEV1)과 강제 폐활량(FVC)의 비율(FEV1/FVC)이 0.7 미만으로 감소된 것이 확인되면 만성폐쇄성폐질환으로 진단합니다. 흡연은 만성폐쇄성폐질환의 가장 중요한 원인이므로, 흡연력이 있는 작업자가 직업적인 노출을 동시에 겪는 경우 어느 원인이 더 큰 영향을 미치는지 판단하기 어렵습니다. 따라서 직업, 위험 요인, 근무 기간, 노출 정도 등 직업력을 상세히 파악해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[만성폐쇄성폐질환은 비가역적인 질환이므로 완치는 불가능합니다. 하지만 증상 완화를 위해 기관지확장제, 항콜린제, 흡입성 스테로이드 등의 대증치료를 시행할 수 있습니다. 치료에서 가장 중요한 것은 금연으로, 이를 통해 질병의 진행을 막을 수 있습니다.조기진단과 조기치료를 통해 폐활량 감소를 예방하는 것이 중요합니다. 또한 직업적 원인 물질에 지속적으로 노출될 경우, 이를 최소화하거나 완전히 차단하는 조치가 중요한 치료 방법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[만성폐쇄성폐질환은 폐와 호흡기계에 큰 영향을 미치며, 이로 인해 다른 신체 기관에도 합병증이 발생할 수 있습니다. 대표적인 합병증으로는 심혈관계 질환, 호흡기 감염, 폐렴, 기흉, 폐고혈압 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흡연은 만성 폐쇄성 폐질환의 주요 위험 요소 중 하나로, 특히 직업적 위험 요소와 함께 작용할 경우 질병의 발병과 악화를 빠르게 할 수 있습니다. 따라서 금연 교육을 통해 흡연 피해를 줄이고, 간접흡연으로부터 보호할 수 있는 조치를 취하는 것이 중요합니다. 또한 개인적으로는 작업 중에 보호 장비를 철저히 착용하는 것이 필요합니다. 작업장에서는 유해 물질과 위험 요소를 줄이거나 제거하기 위해 격리, 대체, 환기 등의 공학적 방법을 적용해야 합니다. 작업 환경에서의 먼지와 화학 물질에 대한 노출 기준을 설정하고, 유해 물질 농도를 정기적으로 측정하며 관리해야 합니다. 직업성 만성폐쇄성폐질환에 취약한 근로자는 폐기능 검사를 포함한 정기적인 건강검진을 통해 질병을 조기에 발견하는 것이 중요합니다. 조기 진단과 함께 조기 치료를 시작하면 질병의 진행을 늦추고 폐활량 감소를 예방할 수 있습니다. 또한 독감과 폐렴은 만성 폐쇄성 폐질환 환자에게 큰 위험을 줄 수 있으므로, 발병 위험이 있는 사람의 경우 독감 백신과 폐렴 예방접종을 권장합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 폐기능 검사에서 만성폐쇄성폐질환으로 진단받는 기준이 어떻게 될까요?
+
+A. 만성 폐쇄성 폐질환의 진단은 폐기능 검사를 통해 이루어집니다. 이 검사는 폐가 얼마나 효과적으로 공기를 들이마시고 내쉬는지를 측정하는 중요한 도구입니다. 진단의 핵심 지표는 기관지확장제 투여 후 첫 1초 동안 내쉬는 공기량(FEV1)을 최대한 깊게 들이쉰 후 내쉴 수 있는 총 공기량(FVC)으로 나눈 값입니다. 이 비율이 70% 미만일 경우, COPD로 진단할 수 있습니다.
+
+Q. 질환의 중증도에 따라 치료 방법이 달라지나요?
+
+A. 만성 폐쇄성 폐질환의 치료는 질환의 중증도에 따라 달라지며, 중증도가 높을수록 더 강력한 치료가 필요합니다. 치료의 목표는 증상을 완화하고, 폐기능 저하를 늦추며, 합병증을 예방하는 데 있습니다. 증상에 따라 기관지 확장제, 흡입형 스테로이드, 전신 스테로이드, 양압기 치료, 심한 경우에는 폐이식과 같은 수술적 치료까지 고려할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[121]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[천식, 직업성 폐질환, 직업성 폐질환(직업성 감염성폐질환), 직업성 폐질환(직업성 만성폐쇄성폐질환) 직업성 폐질환(직업성 폐암), 직업성 폐질환(진폐증)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한직업환경의학회. (2022). 직업환경의학 개정판. 
+2. 산업안전보건공단. (2021). 만성폐쇄성 폐질환 근로자의 건강관리 지침. 
+3. Blanc, P. D., Annesi-Maesano, I., Balmes, J. R., Cummings, K. J., Fishwick, D., Miedinger, D., Murgia, N., Naidoo, R. N., Reynolds, C. J., Sigsgaard, T., Torén, K., Vinnikov, D., &amp; Redlich, C. A. (2019). The Occupational Burden of Nonmalignant Respiratory Diseases. An Official American Thoracic Society and European Respiratory Society Statement. American Journal of Respiratory and Critical Care Medicine, 199(11), 1312–1334. 
+4. Global Initiative for Chronic Obstructive Lung Disease. (2025). Global Strategy for Prevention, Diagnosis and Management of COPD: 2025 GOLD Report. 
+5. Murgia, N., &amp; Gambelunghe, A. (2022). Occupational COPD – The Most Under-Recognized Occupational Lung Disease? Respirology (Carlton, Vic.), 27(6), 399–410. 
+6. Safiri, S., Carson-Chahhoud, K., Noori, M., Nejadghaderi, S. A., Sullman, M. J. M., Ahmadian Heris, J., Ansarin, K., Mansournia, M. A., Collins, G. S., Kolahi, A. A., &amp; Kaufman, J. S. (2022). Burden of Chronic Obstructive Pulmonary Disease and Its Attributable Risk Factors in 204 Countries and Territories, 1990-2019: Results from the Global Burden of Disease Study 2019. BMJ (Clinical Research ed.), 378, e069679. 
+7. Silver, S. R., Alarcon, W. A., &amp; Li, J. (2021). Incident Chronic Obstructive Pulmonary Disease Associated with Occupation, Industry, and Workplace Exposures in the Health and Retirement Study. American Journal of Industrial Medicine, 64(1), 26–38.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

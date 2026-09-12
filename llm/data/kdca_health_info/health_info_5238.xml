@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[연조직염(봉와직염)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5238]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 연조직염은 피부와 연부조직에 발생하는 급성 세균 감염으로, 주로 A군 용혈성 사슬알균과 황색포도알균이 원인입니다.
+• 이 질환은 피부가 빨갛게 부어오르며 통증이 생기는 특징이 있습니다.
+• 면역력이 약한 사람들, 예를 들면 노인이나 당뇨병 환자에게는 치명적인 합병증을 일으킬 수 있으므로 주의가 필요합니다.
+• 치료는 주로 항생제로 이루어지며, 심한 경우에는 입원 치료나 수술이 필요할 수 있습니다.
+• 예방을 위해서는 피부 청결 유지와 반복적인 마찰을 피하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연조직염은 피부 및 연부조직에 발생하는 감염증으로 대부분 세균, 특히 A군 용혈성 사슬알균이나 황색포도알균에 의해 발생합니다. 현재는 항생제 및 배농술로 대부분 합병증 없이 치료되지만 예전에는 이 때문에 해당 부위를 절단하거나, 생명이 위독해지기도 했던 질환입니다. 건강한 성인은 대부분 완치되지만, 면역 기능이 약한 소아나 노인, 그리고 면역이 억제된 환자에게 발생한 연조직염은 방치하면 치명적으로 진행할 수 있는 질환이므로 각별히 주의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연조직염(cellulitis)은 피부와 피하 조직에 생긴 급성 세균성 감염증으로, 세균이 침범한 부위가 빨갛게 되거나(홍반), 부종, 누를 때 통증(압통)이 생기는 것이 특징입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865de7fa577]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연조직염은 주로 피부 점막을 통해 세균이 침범하여 발생합니다. 주로 다리에 발생하며, 군인 같이 직업적으로 무좀이나 다른 피부질환이 전파되거나 외상에 노출되기 쉬운 환경에서 흔히 발생합니다. 드물게 감염된 혈액을 통해 염증이 연부조직으로 퍼질 수 있습니다. 이런 경우 원인 규명이 반드시 필요하며, 단독으로 생기는 경우는 드물고 여러 군데에 발생합니다. 가장 흔한 원인균은 사슬알균과 황색포도알균입니다. 
+
+▣ 위험요인 
+˚ 약물이나 알코올을 남용한 경우 
+˚ 암에 걸려있는 경우나 항암요법을 받고 있는 환자 
+˚ 만성 림프부종(유방암에 대한 유방절제술 후, 관상동맥 이식술 후, 이전 봉소염의 재발 등) 
+˚ 간경변증
+˚ 당뇨병 
+˚ 만성신부전 환자 
+˚ 의인성 면역 억제 
+˚ 면역 결핍 증후군 
+˚ 영양실조 혹은 영양장애 
+˚ 전신 죽상경화증]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연조직염 발병 초기에는 열이 나고 춥고 머리가 아프며, 근육통, 식욕 감소 등의 증상이 나타납니다. 국소적으로 염증 부위가 빨갛게 되면서(홍반) 주위로 퍼지며 해당 부위가 붓는 증상이 나타납니다. 좀더 진행되면 따뜻하게 만져지고, 손가락으로 누르면 들어가며(오목부종, 함요부종), 통증이 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[국소적인 열감과 피부가 빨갛게 부어오르는 소견이 있고, 그 부분이 주위와 경계가 모호하면서 병변이 솟아있지 않으면 연조직염으로 진단합니다. 연조직염은 임상소견으로 진단하게 되며, 진단을 위한 영상검사는 대부분 필요하지 않습니다. 다만, 골수염이 같이 발생된 것이 의심되거나 괴사근막염과 구분하기 어려운 경우 영상검사가 필요할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연조직염 치료에서 가장 중요한 것은 항생제를 사용하는 것으로, 항생제는 가장 흔한 원인균인 황색포도알균과 사슬알균에 효과적인 종류를 사용합니다. 그러나 병원감염이나 면역억제환자에게 연조직염이 발생한 경우 균배양검사 결과에 맞춰 항생제를 선택 투여해야 합니다.
+대부분의 연조직염 환자들은 항생제에 잘 반응하여 호전됩니다. 하지만 침범부위가 깊거나 당뇨병, 림프부종을 동반한 경우는 치료반응이 늦게 나타날 수 있습니다. 일반적으로 5~10일정도 항생제를 사용하지만, 정도가 심한 경우에는 좀더 장기간 치료합니다.
+가벼운 정도라면 먹는 항생제를 복용하는 것만으로 치료가 가능하지만, 그렇지 않은 경우에는 초기부터 항생제 주사를 맞으면서 치료를 시작하는 것이 필요합니다. 연조직염 부위를 높게 올린 채 유지하면 붓기와 염증을 줄이는 데 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연조직염의 재발을 막기 위해서는 연조직염을 일으킨 유발요인을 조사하고, 없애거나 바꿀 수 있는 유발요인이 있다면 이를 교정하는 것을 권장합니다. 림프부종이 있는 환자에게 연조직염이 재발한 경우, 부종이 있는 부위를 올리고, 피부 건조를 피하도록 교육하며, 필요하면 압박 스타킹 착용을 권장합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 출혈연조직염(hemorrhagic cellulitis) 
+- 출혈연조직염은 처음에는 일반적인 연조직염과 같은 증상이지만, 피부에 광범위한 출혈이 나타납니다. 증상이 가벼운 경우 뭉친 피딱지가 형성되어 치유되며, 증상이 심하면 피부 전체가 썩거나 괴사 근막염으로 진행됩니다. 대부분 전신질환이 있는 환자에서 발병합니다.
+
+2. 괴사근막염(necrotizing fascitis) 
+- 괴사근막염은 비교적 피부와 근육은 잘 보존되면서 근막과 주변 지방조직에 광범위한 괴사를 일으키는 연부조직 감염증입니다. 독소를 생산하는 병원균에 의해 발생하며, 특히 사지, 복벽, 회음부에 많이 나타납니다. 패혈증으로 진행되어 사망하는 경우가 30%에 이르는 무서운 형태의 연조직염입니다.
+
+3. 회음부괴저(fournier gangrene) 
+- 회음부괴저는 음경과 음낭에 국한되어 전격적으로 괴저를 일으키는 괴사근막염의 변화된 한 형태입니다. 회음부에서 시작된 병변이 사타구니와 복부로 퍼지면서 패혈증이 발생하여 사망하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연조직염을 예방하기 위해서는 항상 신체를 청결하게 하고, 피부에 반복적인 마찰이나 압박을 피합니다. 몸에 조이는 옷은 피하는 것이 좋습니다. 당뇨 환자는 혈당 조절이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 곽이경, 최성호, 김탁, 박성연, 서수홍, 김민봄, 최상호. (2017). 지역사회획득 피부 및 연조직감염 진료지침. 대한감염학회지 49(4):301-325.
+2. 최성호. (2012). 연부조직 감염 진료지침 권고안. 대한감염학회지 44(4):213-232.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

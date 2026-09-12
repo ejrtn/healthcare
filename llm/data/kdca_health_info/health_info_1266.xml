@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[간의 양성종양(담관낭선종)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1266]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[담관낭선종(담관낭샘종, biliary cystadenoma)은 간 내부의 담관에서 발생하는 물혹 모양의 종양으로 현재는 간의 점액낭샘종(mucinous cystadenoma)으로 명명합니다. 암으로 변하지 않는 단순 간낭종과 달리 악성화될 수 있어서 간낭종과 구별이 꼭 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2022년 유럽 간학회 가이드라인에 따르면 중년 여성에서 가장 흔합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[특이 증상은 없으나, 낭종의 크기가 커지면서 복통, 복부 불편감, 소화불량 등이 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈액검사에서 경미한 간 효소 수치 상승이나 황달 등을 보일 수 있으나, 대부분 혈액검사는 정상입니다. 복부 초음파 검사, 컴퓨터단층촬영(CT), 자기공명영상(MRI) 등의 영상의학 검사가 진단에 도움이 될 수 있습니다. 컴퓨터단층촬영에서 담관낭선종은 단순 낭종과 비교하여 둘러싸고 있는 벽이 두꺼워져 있으며, 내부에 고형 종괴가 보이거나 격막이 관찰되어 여러개의 방으로 나누어져 보이기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1894d1023fb1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[담관낭선종은 악성종양(낭선암)으로 진행할 수 있기 때문에 수술적 완전 절제가 원칙입니다. 수술 전 다른 양성 낭선종양이 아닌지 구별하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 담관낭선종은 혈액검사나 영상 검사로 발견하기 어려운데 어떻게 관리해야 하나요?
+
+A. 담관낭선종의 치료는 간절제 수술입니다. 진단이 명확한 경우가 아니면 수술적 치료를 권하기가 어려운데, 실제로는 영상 검사에서 단순 간낭종과 명확하게 구별이 되지 않는 경우가 많습니다. 진단이 명확하지 않으면 주기적으로 컴퓨터단층촬영(CT), 자기공명영상(MRI) 등의 영상 검사를 반복합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. European Association for the Study of the Liver. (2022). EASL Clinical Practice Guidelines on the management of cystic liver diseases. J Hepatol, 77(4):1083-1108. doi:10.1016/j.jhep.2022.06.002.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(간선종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1263]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간이식수술]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1321]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1261]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(국소결절증식증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1265]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(간혈관종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1262]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(간낭종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1264]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

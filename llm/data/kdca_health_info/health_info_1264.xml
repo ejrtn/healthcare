@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[간의 양성종양(간낭종)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1264]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[간낭종은 전 연령층에서 발생할 수 있는 간내 단순 물혹입니다. 낭종의 벽은 얇은 세포막으로 되어 있으며, 내부의 액체는 물과 전해질로 이루어진 맑은 액체입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발생 원인은 명확하지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[단순 간낭종은 암으로 변하는 경우가 거의 없으며, 아주 드물게 출혈이나 감염 등의 합병증이 동반될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[단순 간낭종은 흔합니다. 2022년 유럽 간학회 가이드라인에 따르면 영상 검사에서 우연히 발견되는 유병률이 2.5~18%입니다. 드물게 낭종 내 출혈이나 감염이 발생할 수 있는데, 합병증의 유병률은 알려져 있지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[증상을 동반하는 경우는 거의 없으나, 크기가 큰 경우는 드물게 복부 통증이나 팽만을 동반할 수 있습니다. 출혈이 있으면 갑작스러운 심한 통증이 발생하고 수일에서 수주에 걸쳐 점차 통증이 호전됩니다. 감염이 있으면 발열, 통증, 간이 있는 우측 상복부를 눌렀을 때 압통이 동반될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다른 질환의 진단을 위해 시행한 복부 초음파 검사나 복부 컴퓨터단층촬영(CT)에서 우연히 발견되는 경우가 대부분입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1894d0f2ea84]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[단순 간낭종이 악성종양으로 진행하는 경우는 없습니다. 낭종의 크기가 커서 복통이나 복부 팽만을 일으키는 경우에는 배액관을 삽입한 후 100% 에탄올을 주입해 낭종을 경화하거나, 수술로 절제합니다. 드물게 낭종 내부의 출혈과 감염이 발생합니다. 보통 낭종 내부 출혈은 특별한 시술 없이 출혈을 유발하는 약제를 중단하면서 경과를 관찰합니다. 낭종 내부 감염이 발생하는 경우 항생제를 장기간(4~6주간) 처방하며, 경우에 따라 배액관을 삽입해 염증성 액체를 배액합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. European Association for the Study of the Liver. (2022). EASL Clinical Practice Guidelines on the management of cystic liver diseases. J Hepatol, 77(4):1083-1108. doi:10.1016/j.jhep.2022.06.002.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[간의 양성종양]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1261]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(간선종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1263]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(국소결절증식증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1265]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(담관낭선종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1266]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[간의 양성종양(간혈관종)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1262]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

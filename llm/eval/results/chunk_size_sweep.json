@@ -1,0 +1,644 @@
+[
+  {
+    "chunk_size": 100,
+    "chunk_count": 1480,
+    "correct": 11,
+    "total": 12,
+    "detail": [
+      {
+        "question": "고혈압 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "고혈압 증상 알려줘",
+        "expected": [
+          "증상"
+        ],
+        "top": "증상",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 진단 검사는 어떻게 해?",
+        "expected": [
+          "진단 및 검사"
+        ],
+        "top": "진단 및 검사",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 무슨 약 먹어?",
+        "expected": [
+          "치료"
+        ],
+        "top": "자가 관리",
+        "ok": false
+      },
+      {
+        "question": "감기 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "감기 합병증 있어?",
+        "expected": [
+          "합병증"
+        ],
+        "top": "합병증",
+        "ok": true
+      },
+      {
+        "question": "고혈압 생활습관 관리 어떻게 해?",
+        "expected": [
+          "생활습관 관리",
+          "자가 관리"
+        ],
+        "top": "자가 관리",
+        "ok": true
+      },
+      {
+        "question": "간흡충증이 뭐야?",
+        "expected": [
+          "개요"
+        ],
+        "top": "개요",
+        "ok": true
+      },
+      {
+        "question": "간흡충증 치료법은?",
+        "expected": [
+          "약물 치료"
+        ],
+        "top": "약물 치료",
+        "ok": true
+      },
+      {
+        "question": "골다공증 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "고혈압 치료는 어떻게 해?",
+        "expected": [
+          "치료",
+          "약물 치료",
+          "비약물 치료"
+        ],
+        "top": "비약물 치료",
+        "ok": true
+      }
+    ]
+  },
+  {
+    "chunk_size": 200,
+    "chunk_count": 653,
+    "correct": 11,
+    "total": 12,
+    "detail": [
+      {
+        "question": "고혈압 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "고혈압 증상 알려줘",
+        "expected": [
+          "증상"
+        ],
+        "top": "증상",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 진단 검사는 어떻게 해?",
+        "expected": [
+          "진단 및 검사"
+        ],
+        "top": "진단 및 검사",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 무슨 약 먹어?",
+        "expected": [
+          "치료"
+        ],
+        "top": "진단 및 검사",
+        "ok": false
+      },
+      {
+        "question": "감기 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "감기 합병증 있어?",
+        "expected": [
+          "합병증"
+        ],
+        "top": "합병증",
+        "ok": true
+      },
+      {
+        "question": "고혈압 생활습관 관리 어떻게 해?",
+        "expected": [
+          "생활습관 관리",
+          "자가 관리"
+        ],
+        "top": "자가 관리",
+        "ok": true
+      },
+      {
+        "question": "간흡충증이 뭐야?",
+        "expected": [
+          "개요"
+        ],
+        "top": "개요",
+        "ok": true
+      },
+      {
+        "question": "간흡충증 치료법은?",
+        "expected": [
+          "약물 치료"
+        ],
+        "top": "약물 치료",
+        "ok": true
+      },
+      {
+        "question": "골다공증 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "고혈압 치료는 어떻게 해?",
+        "expected": [
+          "치료",
+          "약물 치료",
+          "비약물 치료"
+        ],
+        "top": "치료",
+        "ok": true
+      }
+    ]
+  },
+  {
+    "chunk_size": 300,
+    "chunk_count": 387,
+    "correct": 12,
+    "total": 12,
+    "detail": [
+      {
+        "question": "고혈압 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "고혈압 증상 알려줘",
+        "expected": [
+          "증상"
+        ],
+        "top": "증상",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 진단 검사는 어떻게 해?",
+        "expected": [
+          "진단 및 검사"
+        ],
+        "top": "진단 및 검사",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 무슨 약 먹어?",
+        "expected": [
+          "치료"
+        ],
+        "top": "치료",
+        "ok": true
+      },
+      {
+        "question": "감기 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "감기 합병증 있어?",
+        "expected": [
+          "합병증"
+        ],
+        "top": "합병증",
+        "ok": true
+      },
+      {
+        "question": "고혈압 생활습관 관리 어떻게 해?",
+        "expected": [
+          "생활습관 관리",
+          "자가 관리"
+        ],
+        "top": "자가 관리",
+        "ok": true
+      },
+      {
+        "question": "간흡충증이 뭐야?",
+        "expected": [
+          "개요"
+        ],
+        "top": "개요",
+        "ok": true
+      },
+      {
+        "question": "간흡충증 치료법은?",
+        "expected": [
+          "약물 치료"
+        ],
+        "top": "약물 치료",
+        "ok": true
+      },
+      {
+        "question": "골다공증 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "고혈압 치료는 어떻게 해?",
+        "expected": [
+          "치료",
+          "약물 치료",
+          "비약물 치료"
+        ],
+        "top": "치료",
+        "ok": true
+      }
+    ]
+  },
+  {
+    "chunk_size": 400,
+    "chunk_count": 296,
+    "correct": 12,
+    "total": 12,
+    "detail": [
+      {
+        "question": "고혈압 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "고혈압 증상 알려줘",
+        "expected": [
+          "증상"
+        ],
+        "top": "증상",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 진단 검사는 어떻게 해?",
+        "expected": [
+          "진단 및 검사"
+        ],
+        "top": "진단 및 검사",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 무슨 약 먹어?",
+        "expected": [
+          "치료"
+        ],
+        "top": "치료",
+        "ok": true
+      },
+      {
+        "question": "감기 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "감기 합병증 있어?",
+        "expected": [
+          "합병증"
+        ],
+        "top": "합병증",
+        "ok": true
+      },
+      {
+        "question": "고혈압 생활습관 관리 어떻게 해?",
+        "expected": [
+          "생활습관 관리",
+          "자가 관리"
+        ],
+        "top": "자가 관리",
+        "ok": true
+      },
+      {
+        "question": "간흡충증이 뭐야?",
+        "expected": [
+          "개요"
+        ],
+        "top": "개요",
+        "ok": true
+      },
+      {
+        "question": "간흡충증 치료법은?",
+        "expected": [
+          "약물 치료"
+        ],
+        "top": "약물 치료",
+        "ok": true
+      },
+      {
+        "question": "골다공증 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "고혈압 치료는 어떻게 해?",
+        "expected": [
+          "치료",
+          "약물 치료",
+          "비약물 치료"
+        ],
+        "top": "치료",
+        "ok": true
+      }
+    ]
+  },
+  {
+    "chunk_size": 500,
+    "chunk_count": 241,
+    "correct": 12,
+    "total": 12,
+    "detail": [
+      {
+        "question": "고혈압 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "고혈압 증상 알려줘",
+        "expected": [
+          "증상"
+        ],
+        "top": "증상",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 진단 검사는 어떻게 해?",
+        "expected": [
+          "진단 및 검사"
+        ],
+        "top": "진단 및 검사",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 무슨 약 먹어?",
+        "expected": [
+          "치료"
+        ],
+        "top": "치료",
+        "ok": true
+      },
+      {
+        "question": "감기 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "감기 합병증 있어?",
+        "expected": [
+          "합병증"
+        ],
+        "top": "합병증",
+        "ok": true
+      },
+      {
+        "question": "고혈압 생활습관 관리 어떻게 해?",
+        "expected": [
+          "생활습관 관리",
+          "자가 관리"
+        ],
+        "top": "자가 관리",
+        "ok": true
+      },
+      {
+        "question": "간흡충증이 뭐야?",
+        "expected": [
+          "개요"
+        ],
+        "top": "개요",
+        "ok": true
+      },
+      {
+        "question": "간흡충증 치료법은?",
+        "expected": [
+          "약물 치료"
+        ],
+        "top": "약물 치료",
+        "ok": true
+      },
+      {
+        "question": "골다공증 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "고혈압 치료는 어떻게 해?",
+        "expected": [
+          "치료",
+          "약물 치료",
+          "비약물 치료"
+        ],
+        "top": "치료",
+        "ok": true
+      }
+    ]
+  },
+  {
+    "chunk_size": 600,
+    "chunk_count": 211,
+    "correct": 11,
+    "total": 12,
+    "detail": [
+      {
+        "question": "고혈압 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "고혈압 증상 알려줘",
+        "expected": [
+          "증상"
+        ],
+        "top": "증상",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 진단 검사는 어떻게 해?",
+        "expected": [
+          "진단 및 검사"
+        ],
+        "top": "진단 및 검사",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 무슨 약 먹어?",
+        "expected": [
+          "치료"
+        ],
+        "top": "요약문",
+        "ok": false
+      },
+      {
+        "question": "감기 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "감기 합병증 있어?",
+        "expected": [
+          "합병증"
+        ],
+        "top": "합병증",
+        "ok": true
+      },
+      {
+        "question": "고혈압 생활습관 관리 어떻게 해?",
+        "expected": [
+          "생활습관 관리",
+          "자가 관리"
+        ],
+        "top": "자가 관리",
+        "ok": true
+      },
+      {
+        "question": "간흡충증이 뭐야?",
+        "expected": [
+          "개요"
+        ],
+        "top": "개요",
+        "ok": true
+      },
+      {
+        "question": "간흡충증 치료법은?",
+        "expected": [
+          "약물 치료"
+        ],
+        "top": "약물 치료",
+        "ok": true
+      },
+      {
+        "question": "골다공증 원인이 뭐야?",
+        "expected": [
+          "원인"
+        ],
+        "top": "원인",
+        "ok": true
+      },
+      {
+        "question": "당뇨병 예방법은?",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "top": "위험요인 및 예방",
+        "ok": true
+      },
+      {
+        "question": "고혈압 치료는 어떻게 해?",
+        "expected": [
+          "치료",
+          "약물 치료",
+          "비약물 치료"
+        ],
+        "top": "치료",
+        "ok": true
+      }
+    ]
+  }
+]

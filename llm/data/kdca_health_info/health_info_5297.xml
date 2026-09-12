@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[음주]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5297]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[5]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3672]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 우리나라의 전체 음주량은 줄고 있지만, 음주 방식이 바뀌면서 세대와 성별에 따라 고위험 음주가 증가하는 양상이 나타납니다.
+• 코로나19로 인해 술을 마시는 빈도는 줄었으나, '혼술'과 '홈술'이 증가하여 고위험 음주 가능성에 대한 주의가 필요합니다.
+• 고위험 음주는 심혈관질환, 암, 간질환, 정신 질환 등의 건강 문제를 유발할 수 있습니다.
+• 알코올 금단 증후군은 심각한 신체적, 정신적 문제를 일으킬 수 있으며, 치료가 필요합니다.
+• 적절한 음주 기준이 제시되지만, WHO는 건강을 위해 안전한 알코올 섭취량은 없다고 경고합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우리나라의 연간 1인당 순수 알코올 소비량은 최근까지 전반적으로 감소 또는 정체 상태를 보이고 있으나, 음주 방식과 위험 음주의 양상은 오히려 복잡해 지고 있습니다.코로나19 유행 이후 음주량과 빈도는 줄었지만, 혼자 또는 집에서 술을 마시는 ‘혼술·홈술’ 문화가 확산되어 고위험 음주로 이어질 가능성이 높아졌습니다.
+또한 최근 조사에서는 남성의 음주율은 감소하는 반면 여성은 증가 추세를 보이며, 특히 20~30대 여성의 증가폭이 크고, 일부 여성 고음주 집단은 사회적 음주문화 변화와 무관하게 높은 음주량을 유지하는 것으로 보고되었습니다.
+1. 음주 현황 및 통계1) 고위험 음주의 변화2023년 국민건강통계에 따르면, 성인의 고위험음주율은 남성 19.9%, 여성 7.7%로 나타났습니다.남성은 2014년 이후 완만한 감소 추세지만, 여성은 2020년 이후 다시 증가하는 양상을 보입니다. 이러한 변화는 고위험 음주가 성별에 따라 다른 방향으로 변화하고 있음을 보여줍니다.또한 ‘국민건강영양조사 기반 음주 심층보고서(2023)’에 따르면남성은 전반적인 음주율과 고위험 음주율이 꾸준히 감소,여성은 최근 출생 코호트일수록 음주율이 더 빠르게 증가,알코올 홍조가 있는 사람 중 약 10%는 고위험 음주,성인의 약 20%는 담배와 술을 함께 사용하는 이중사용자로 건강 위험이 높았습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b2008e2b46]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 연령대별 특징
+연령별 고위험 음주율은 성별에 따라 차이가 뚜렷합니다.
+2023년 기준으로,남성은 40대에서 가장 높고,여성은 20대에서 가장 높은 고위험음주율을 보였습니다.
+특히 50~60대에서는 거의 매일 위험하게 마시는 ‘지속적 위험음주’가 나타나고, 남성 비율이 여성보다 3배 이상 높아 관리가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b201026609]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[(3) 음주 문화의 변화: 혼술·홈술의 고착
+코로나19 시기를 거치며 술을 마시는 장소와 상대가 크게 변화했습니다.
+주점, 식당 등 외부 공간에서 지인과 함께 마시던 구조에서 벗어나,집이나 혼자 마시는 음주가 크게 증가하고 지금도 유지되는 추세입니다.
+혼자 마시는 술은 스스로 음주량을 조절하기 어려워 과음·폭음으로 이어질 가능성이 높으므로 주의가 필요합니다.
+
+2. 고위험 음주의 기준
+미국국립알코올남용중독연구소(National Institute on Alcohol Abuse and Alcoholism, NIAAA) 가이드라인은 주당 평균 음주량이 남성은 8잔 초과, 여성은 4잔을 초과하거나 1회 평균 음주량이 남성 4잔 초과, 여성 3잔을 초과하는 경우 고위험 음주로 정의합니다.
+1) 표준 1잔의 정의미국국립알코올남용중독연구소에서는 알코올 14 g을 표준 1잔으로 규정합니다. 이는 양주 1.5온스(≒ 45 mL), 포도주 5온스(≒ 150 mL), 맥주 12온스(≒ 350-360 mL)에 해당합니다. 맥주는 캔 맥주 1캔, 작은 병맥주 1병, 생맥주 350 mL입니다. 17%의 소주는 ¼병(≒ 90 mL)입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1845f719bb35]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 적절 음주미국국립알코올남용중독연구소는 적절 음주를 표준 1잔(알코올 14g) 기준 일주일에 남성 8잔(소주 2병) 이하, 여성 4잔(소주 1병) 이하로 정의하였습니다.하지만, 세계보건기구(World Health Organization, WHO)는 건강을 위해 안전한 알코올 섭취량은 없다고 선언하였으므로 적절 음주량은 0이라 할 수 있습니다.
+3) 위험 음주과음이나 폭음을 위험 음주라고 합니다. 과음은 신체적 질병이 발생할 위험을 높이며, 폭음은 사고 또는 정신 사회적 문제 발생할 위험을 높입니다.과음의 기준은 나이와 성별에 따라 다르며, 폭음은 미국국립알코올남용중독연구소에 따르면 표준 한잔 기준 남성 4잔(소주 1병) 초과, 여성 3잔(소주 3/4병) 초과입니다.보건복지부에서는 월간 폭음과 고위험 음주를 대표적인 위험 음주로 규정해 모니터링하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[211]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1845f71daf83]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[214]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[∙ 음주는 정신적, 신체적으로 다양한 해를 끼칩니다. 
+∙ 소량의 음주라도 고혈압, 암을 유발할 수 있으며, 과도한 음주는 간질환, 관상동맥, 심장질환 및 뇌졸중 위험을 높입니다. 또한 과도한 음주는 영양 결핍과 수면장애를 유발하고, 우울감 및 자살률 증가와 관련이 있습니다.
+∙ 알코올 금단 증후군의 증상은 가슴 두근거림, 식은땀, 손 떨림, 메스꺼움, 구토 등입니다. 심한 경우 환각, 경련, 금단 섬망(정신 상태의 혼란, 환각 등이 동반되는 응급 상태) 등 인지 기능 장애 및 사망에까지 이릅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[214]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1842cd6fb4d3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[214]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 음주의 위해]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[214]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183e99337b86]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[214]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 고혈압 및 심뇌혈관 질환 
+(1) 음주는 고혈압의 위험요인입니다. 하루 평균 남성 31 g 이상(약 소주 3잔), 여성 21 g 이상(약 소주 2잔) 알코올을 섭취한 경우 고혈압 발생 위험이 급격히 증가합니다. 현재 음주자는 음주량에 상관없이 비음주자나 금주자에 비해 고혈압이 생길 위험이 높으며, 소량의 음주도 추후 고혈압의 진단 확률을 높입니다.
+최근 음주와 고혈압 관련 연구들에서 서양 남성은 고용량 음주에서 고혈압 발생이 증가하지만 아시아 남성은 저용량 음주에서도 고혈압 발생이 증가해 음주에 따른 고혈압 발생에 더 취약하다는 결과가 보고되었습니다.
+(2) 일일 1~2잔의 음주는 관상동맥질환의 위험률을 낮출 수 있습니다. 하지만 음주량과 심혈관계 질환 위험도의 상관 관계는 인종, 성별, 체형 등 개인의 특성에 따라 다를 수 있으므로 해석에 주의해야 합니다. 음주와 관상동맥질환의 관계는 J 자 형태로 설명합니다. 즉 술을 전혀 마시지 않는 것보다 조금 마시는 것이 도움이 될 수 있지만, 술을 많이 마시면 관상동맥질환의 위험이 커집니다. 전혀 마시지 않는 사람에 비해 하루 20 g 알코올(약 소주 2잔)을 섭취하는 사람은 관상동맥질환 위험률이 가장 낮고(20% 감소), 72 g 알코올(약 소주 8잔)을 섭취할 때까지는 보호 효과가 있으나, 89 g(약 소주 10잔) 이상이 되면 오히려 위험률이 상승합니다. 폭음은 허혈성 심장질환(관상동맥이 막혀서 생기는 심장병)의 위험 및 급사 위험을 높일 수 있어 피해야 합니다. 
+(3) 소량의 음주는 심부전 발생 위험률을 낮추지만, 다량의 음주는 심부전 발생 위험률을 높일 수 있습니다.
+(4) 하루 14.9 g(약 소주 2잔) 이하의 음주는 뇌졸중의 발생 및 사망률을 감소시키지만, 하루 60 g(약 소주 7잔) 이상의 음주는 뇌졸중의 발생 및 사망률을 증가시킵니다. 
+(5) 위험 음주는 심방세동의 위험도를 높입니다. 심방세동은 심장의 심방이 빠르고 불규칙하게 뛰어 두근거림, 호흡곤란 등의 증상이 생기고, 심장 안에서 피가 굳는 혈전을 만들어 뇌졸중 등의 합병증을 일으킬 수 있는 병입니다. 특히 남성은 하루 1~2잔(10~12 g)의 음주에서도 비음주자보다 심방세동의 위험이 높아집니다.
+(6) 뇌졸중: 허혈성 뇌졸중(뇌혈관이 막혀서 생기는 뇌경색)과 출혈성 뇌졸중(뇌출혈)에 따라 다릅니다. 허혈성 뇌졸중(뇌경색)은 소량의 음주 시 발생 위험이 감소하지만 하루 2잔 이상 음주 시 발생 위험이 증가합니다. 출혈성 뇌졸중은 소량의 음주에도 발생 위험이 증가합니다.
+
+2) 암  
+(1) 국제 암연구소(International Agency for Research on Cancer, IARC)에 따르면 알코올은 1군 발암물질이며 암 발병률을 높입니다. 두경부암(구강, 인두, 후두 등), 식도암, 간암, 유방암, 대장암, 췌장암은 음주와 관련이 있습니다. 
+
+3) 간질환 
+(1) 음주는 간경변 발생과 사망률을 증가시킵니다. 같은 양의 술을 마셔도 여성은 간경변의 위험도가 더 높습니다.
+(2) 한국에서 알코올은 간경변의 두 번째 주요 원인이며, 간암의 세 번째 주요 원인입니다. 알코올성 간질환의 악화를 예방하는 방법은 금주입니다. 대한간학회는 남성에서 하루 평균 40 g(약 소주 4잔) 이상, 여성에서 하루 평균 20 g(약 소주 2잔)이상의 음주는 알코올성 간 손상의 위험을 높이므로 과도한 음주를 피하도록 권고하며, 알코올성 간질환 환자에서 술을 끊는 것이 가장 중요한 치료임을 강조합니다.
+
+4) 뇌
+음주는 뇌의 위축을 유발합니다. 음주량에 비례해 해마(학습 및 기억을 담당하는 뇌의 일부)와 대뇌 위축이 심해집니다. 특히 1주일에 14단위(표준 2잔/1일) 이상 음주하는 사람은 비음주자에 비해 해마 위축이 심합니다. 
+
+5) 영양 결핍
+음주는 영양 결핍을 유발합니다. 과도한 음주는 구토 및 설사, 비타민의 소실을 일으키고, 장의 흡수 능력을 저해합니다. 또한 간의 비타민 저장량을 감소시켜 결국 영양 결핍을 유발합니다. 특히 티아민(비타민 B1) 결핍으로 베르니케 뇌병증(Wernicke's encephalopathy)이 생길 수 있습니다.
+
+6) 수면 장애
+(1) 음주는 수면장애를 유발합니다. 알코올 의존 환자는 약 35~75%에서 수면장애가 나타납니다. 과음을 하면 수면의 질과 수면 시간이 모두 줄어듭니다.
+(2) 음주량이 늘수록 남성의 수면 시 호흡장애가 증가합니다. 수면 중 호흡장애가 있는 사람은 음주량을 줄여야 하며, 특히 늦은 시간에는 음주를 자제하는 것이 좋습니다. 
+
+7) 정신계 질환 
+(1) 알코올 사용 장애가 있는 사람은 일반인에 비해 약물 사용 장애가 있을 위험도가 10배, 우울증이나 양극성 장애 위험도가 4배, 불안장애를 겪을 위험도는 3배 높습니다. 특히 음주량이 많을수록 우울증의 위험도가 증가합니다.
+(2) 우리나라 알코올 중독자의 자살 시도 경험은 약 38.7%로 일반 성인 자살 시도율의 10배입니다. 특히 우울증이 심한 알코올 중독자는 음주량이 많아질수록 자살 생각이 급격히 증가합니다.
+
+8) 신경계 질환 
+과도한 음주는 치매 위험을 증가시킵니다. 하루 1단위 이하의 적절한 음주는 일반인보다 치매 위험도를 낮추며, 특히 하루 평균 0.5단위의 음주 시 치매 위험이 가장 낮습니다. 그러나 하루 약 2.7단위(약 소주 3잔) 이상의 음주는 치매의 위험을 높입니다. 
+
+9) 감염성 질환
+과도한 음주는 전염성 질환에도 영향을 미칩니다. 사람면역결핍바이러스(human immunodeficiency virus, HIV)/에이즈(acquired immunodeficiency syndrome, AIDS), 결핵, 하부 호흡기 감염/폐렴, 코로나 19를 포함한 중증 급성 호흡기 증후군 코로나바이러스 2(SARS-CoV-2)가 대표적인 예이며, 여기에는 음주로 인한 행동적 측면과 생물학적 측면이 함께 작용합니다.
+
+2. 알코올 금단 증상
+1) 알코올 금단 증후군
+알코올 금단 증후군이란 알코올 사용 장애 환자가 장기간 과음하다 신체 질환이나 기타 이유로 갑자기 음주를 중단했을 때 6~24시간 이내에 나타나는 변화를 말합니다. 가슴 두근거림, 식은땀, 손 떨림, 메스꺼움, 구토 등의 증상이 나타나며, 심한 경우 환각, 경련, 금단 섬망 등의 인지 기능 장애가 동반되거나 사망에 이를 수 있습니다. 섬망은 갑자기 발생한 정신 상태의 혼란으로 의식 장애, 인지 기능 장애, 환청이나 환시 같은 정신병 증상이 생길 수 있습니다.
+
+2) 알코올 금단 섬망 
+알코올 금단 섬망은 알코올 금단 증상의 심각한 합병증으로, 알코올 중단 후 3~5일에 가장 심합니다. 의식이 처지고, 시간, 장소, 사람을 구분하지 못하며, 하루 중에도 섬망 증상이 호전되었다가 나빠지기도 합니다. 알코올 금단 증상은 조기에 철저한 평가를 시행해 전문적인 치료를 받아야 합니다.
+
+3. 알코올 사용 장애
+1) 알코올 사용 장애의 선별검사
+한국판 알코올사용장애 선별검사(Alcohol Use Disorder Identification Test -Korea, AUDIT-K): 알코올 사용 장애가 의심되는 환자에게 음주와 관련된 10가지 질문을 한 후, 각 질문마다 0~4점까지 점수를 매겨 총합이 8점 이상일 때 위험 음주라고 정의합니다. 알코올 사용 장애뿐 아니라 위험 음주자를 선별하는 데 가장 적합한 표준검사로 활용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[214]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1845b6982587]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[214]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 알코올 사용 장애의 진단 
+알코올 사용 장애의 진단은 미국정신의학회에서 발간한 '정신장애의 진단 및 통계 편람(Diagnostic and Statistical Manual of Mental Disorders, DSM)'의 기준에 따릅니다. 최근 DSM-5에 따르면 진단 기준 11개 중 1개 이하의 기준에 해당하면 알코올 사용 장애가 없는 것이며, 2~3개의 진단 기준에 해당하면 중등도 알코올 사용 장애, 4개 이상의 진단 기준에 해당하면 중증 알코올 사용 장애로 진단합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[214]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1845b69d95e6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[일반적 실천 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[219]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[∙ 금단 증상은 영양 및 비타민 공급, 벤조디아제핀 약물로 대처할 수 있습니다.
+∙ 음주 갈망에 대처하기 위해서는 스스로 언제 술 생각이 나는지 파악하고, 술을 대신할 수 있는 활동을 하며, 항상 금주 필요성을 상기하면 도움이 됩니다.
+∙ 음주자의 스트레스 관리를 위한 6가지 방법을 실천하면 알코올 중독의 치료와 재발 방지에 도움이 됩니다.
+∙ 일상생활 속의 음주 습관 관리를 통해 위험 음주를 예방할 수 있습니다.
+∙ 날트렉손과 아캄프로세이트 같은 항갈망제를 알코올 중독 치료에 활용합니다. 
+
+1. 금단 증상의 대처
+1) 금단 증상은 예방이 중요합니다. 과도한 음주를 지속한 사람은 티아민(비타민 B1)을 비롯한 비타민 부족증이 생깁니다. 따라서 금단 증상을 예방하려면 적절한 영양 공급과 함께 충분한 비타민을 공급해야 하며 반드시 진료를 통해 처방 받은 용량을 경구 혹은 비경구요법으로 일정 기간동안 유지하도록 합니다.
+
+2) 금단증상이 나타나면 중추신경 억제제인 벤조디아제핀을 투여합니다. 초기에는 졸림을 느낄 정도로 충분한 용량(로라제팜 하루 2~8 mg, 디아제팜 하루 30~50 mg)을 사용하며, 금단증상이 회복되면서 용량을 낮추어 갑니다.
+ 
+3) 로라제팜처럼 작용 기간이 짧은 벤조디아제핀이나 디아제팜처럼 작용 기간이 긴 벤조디아제핀을 모두 사용할 수 있으며, 환자의 나이, 간질환 여부, 남용 가능성에 따라 약물을 선택합니다.
+
+2. 음주 갈망 대처
+1) 중독의 과정과 갈망
+(1) 보통 음주 후 기분이 좋아지고 우울, 불안, 불면 등의 불편감이 사라지는 경험을 통해 남용 및 의존 단계를 거쳐 중독에 이릅니다. 
+(2) 술을 마시게 되는 상황(스트레스, 주위 사람의 권유, 잠이 안 올 때, 우울하고 불안할 때 등)을 접하면 술 생각이 나고 술을 마시고 싶은 욕구, 즉 갈망이 생깁니다.
+(3) 음주 갈망은 알코올 중독이 지속되거나 치료 후 재발하는 주요 원인이므로 어떻게 대처하는지가 매우 중요합니다. 
+
+2) 갈망 대처 방법
+(1) 우선 스스로 언제 술 생각이 나는지 파악합니다. 
+(2) 갈망을 유발하는 상황을 피합니다. 술을 마셔야 하는 회식 자리는 되도록 참석하지 않고, 집에 있는 술이나 빈 술병을 치웁니다.
+(3) 음주를 대신할 수 있는 대체 활동을 찾습니다. 술 생각이 날 때 먹거나 마실 수 있는 대체 음식이나 음료를 활용하고, 운동을 포함한 취미활동을 합니다. 
+(4) 술 생각이 날 때는 술을 마시지 않고 대체 활동을 했을 때의 좋은 점과, 반대로 술을 마셨을 때의 부정적인 점을 떠올려 봅니다. 
+(5) 평상시 금주의 필요성에 대해서 스스로 계속 되뇌는 것도 음주 갈망 대처에 도움이 됩니다. 
+
+3. 음주자의 스트레스 관리 
+1) 스트레스 관리의 필요성
+스트레스는 직접 음주 갈망을 유발하기도 하고, 우울감, 불안, 불면을 통해 음주 갈망을 자극하기도 합니다. 스트레스 관리는 알코올 중독의 치료와 재발 예방에 매우 중요합니다.
+
+2) 음주자의 스트레스 관리
+(1) 첫째, 자신에게 스트레스가 되는 요인들을 파악합니다. 
+(2) 둘째, 규칙적인 생활 습관을 유지하는 것이 중요합니다. 충분한 수면과 적절한 식사를 통해 신체적인 균형을 바로잡아야 합니다. 
+(3) 셋째, 일의 우선순위를 정하고 현실적인 목표를 세웁니다. 할 수 있는 것만 하고, 할 수 없다고 생각되면 과감히 포기합니다. 할 수 있는 것들을 해 나가면서 성취감을 쌓아가야 합니다. 
+(4) 넷째, 즐겁고 편하게 할 수 있는 취미 활동을 가지는 것도 좋습니다. 하루 30분 이상의 운동은 스트레스 완화에 도움이 됩니다. 
+(5) 다섯째, 스트레스를 오래 받으면 몸의 근육이 긴장합니다. 근육 긴장은 두통 등 신체 다양한 부위에 통증을 일으킬 수 있으므로 복식호흡이나 요가, 명상 등을 통한 이완 훈련으로 긴장을 풀도록 합니다.
+(6) 여섯째, 더 중요한 것은 스트레스에 대한 인식을 전환하는 것입니다. 스트레스 상황을 애써 외면하거나 회피하기보다 적극적으로 대처하면서 긍정적이고 현실적으로 생각하는 습관을 지닐 필요가 있습니다. 
+
+4. 위험음주 예방관리 방법 
+1) 생활 속 음주 관리
+(1) 술자리는 되도록 피하고, 술자리에서는 남에게 술을 강요하지 않습니다.
+(2) 특히 한 잔만 마셔도 얼굴이 빨개지는 사람은 스스로 마시지도 말고, 권하지도 말아야 합니다. 
+(3) 원샷은 혈중 알코올 농도를 급격히 상승시켜 인체 유해성이 심하므로 절대로 피합니다.
+(4) 술을 마실 때는 조금씩 나누어 천천히 마시고, 중간에 물을 자주 마시며, 빈 속에 마시지 않도록 합니다. 
+(5) 술을 안 마시는 금주 요일을 스스로 정하고, 음주 후에는 적어도 3일은 금주합니다. 
+(6) 당당하게 술을 거절하는 것도 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[일반적 실천 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[219]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1845b6a6aeb1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[일반적 실천 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[219]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[5. 약물 요법
+
+음주 갈망이란 술을 마시고 싶은 주관적인 욕구로, 중독의 핵심 증상인 조절력 상실과 관련이 있습니다. 음주 갈망은 술을 마셔서 유발되기도 하지만, 환경적 요인이나 스트레스 등에 의해서도 유발됩니다. 음주 갈망을 억제하는 치료 약물을 항갈망제라고 하며, 현재 우리나라에는 두 가지 약물이 사용됩니다.
+
+1) 날트렉손 
+(1) 날트렉손(naltrexone)은 음주 갈망과 음주를 통해 얻는 쾌감을 감소시켜 음주를 억제하는 효과가 있습니다. 다양한 알코올 의존 환자 중, 특히 평소 술에 대한 갈망이 심한 환자들이 날트렉손에 더 잘 반응하는 것으로 알려져 있습니다.
+(2) 일반적으로 급성 알코올 금단 시기에서 벗어난 이후 투약하며, 하루 25 mg으로 시작해 하루 50 mg(하루 한 알)으로 증량합니다.
+(3) 부작용으로 오심, 구토, 두통, 피로감 등이 흔히 나타나지만, 대부분 치료 초기에 경미한 정도로 나타나며 저절로 호전되는 경우가 많습니다.
+
+2) 아캄프로세이트
+(1) 아캄프로세이트(acamprosate)의 정확한 작용기전은 밝혀져 있지 않지만, 금단에 의해 유발되는 음주 욕구를 감소시켜 알코올 금단 증상 해소와 음주 갈망 억제, 나아가 알코올 의존과 음주량 조절에 도움이 됩니다.
+(2) 한 알에 아캄프로세이트 333 mg이 함유되어 있는데, 일반적으로 한 번에 두 알씩 하루 세 번 복용합니다.  
+(3) 흔한 부작용으로 설사, 복통, 변비, 구역질, 두통, 어지러움 등이 있으나 대부분 경미한 정도입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[맞춤형 실천 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[220]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[∙ 고혈압 환자가 절주하면 혈압을 낮추는 효과가 있습니다.
+∙ 당뇨병 환자가 음주하면 저혈당 발생 위험이 증가합니다.
+∙ 지방간 환자가 과도하게 음주를 하면 알코올성 지방간염 및 간경변증이 악화됩니다.
+
+1. 고혈압 환자와 음주
+과도하게 술을 마시면 혈압이 상승하고, 혈압약의 효과가 떨어집니다. 대한고혈압학회에서는 고혈압 환자에게 금주를 권하며, 부득이한 경우 혈압 조절이 잘 될 때에 한해 하루 1잔(10 g) 이하로 알코올 섭취를 제한하라고 권고합니다. 전 세계 음주 관련 자료를 모아서 분석한 결과 알코올 섭취를 약 2/3 정도를 감소시키면 수축기 혈압 3.31 mmHg, 이완기 혈압 2.04 mmHg 정도가 낮아지며, 알코올 섭취량을 줄일수록 혈압 하강 효과가 더 크게 나타났습니다.
+
+2. 당뇨병 환자와 음주
+약물 치료 중인 당뇨병 환자가 술을 마시면 저혈당 발생 위험이 높아집니다. 혈당 조절이 잘 되는 당뇨병 환자에 한해 1일 1~2잔으로 제한하며, 간질환 또는 이상지질혈증이 있거나 비만한 당뇨병 환자에게는 금주를 권고합니다.
+
+3. 간/췌장 질환자와 음주
+1) 지방간
+알코올성 지방간은 만성적 음주에 의한 간 손상의 초기 변화입니다. 지방간은 과음하는 사람의 약 80~90%에서 나타나며, 술을 끊으면 정상 간으로 회복이 가능합니다. 그러나 매주 400 g 이상(약 소주 8병)을 계속 마시면 지방간 환자의 30%가 간경변증으로 진행합니다(알코올성 간 섬유화까지 포함하면 환자의 37%). 일부에서는 이보다 적은 양의 음주로도 간 손상이 발생합니다. 초음파로 지방간이 발견된 경우 남자 3잔/일, 여자 1잔 반/일 이상 술을 마시면 총 사망률이 증가하고, 대사증후군이 동반된 경우에는 사망률이 더욱 증가했습니다.
+
+2) 췌장염
+음주는 췌장염의 주요한 위험인자입니다. 급성 췌장염 환자가 금주 및 절주를 하면 췌장염 재발률이 감소하고 만성 췌장염으로 진행이 줄어듭니다. 췌장염 예방과 만성 췌장염 진행을 막기 위해 금주 및 절주가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[도움 및 지지]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[221]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[∙ 국내 지역별 중독관리 통합지원센터와 정신건강복지센터에서 음주 문제에 대한 국가 지원 서비스를 받을 수 있습니다. 
+
+○ 음주 문제 관련 국가 지원 기관
+(1) 중독관리 통합지원센터 
+- 지역사회 기반 중독 문제 관리체계를 구축해 중독자 및 가족에 대한 지원과 지역 주민에 대한 중독 예방 서비스를 제공합니다. 알코올 중독 예방 교육, 중독 선별검사를 통한 조기 발견 활성화, 지역사회 알코올 중독 고위험군 상담 서비스 등을 위해 전국 지역별로 설치 운영됩니다.  서울 4개소를 포함, 전국 50개소의 센터가 설치 운영되고 있습니다.
+
+(2) 정신건강복지센터 
+- 지역사회 내 정신질환자의 주간재활(day care), 교육·훈련, 타 기관 연계 등 정신질환자 관리, 재활사업 추진 및 지역 주민의 정신건강, 자살 예방 등 지역사회 정신건강 증진사업 수행과 지역 주민 정신건강 관리를 위해 각 시군구에 설치 운영됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[325]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 김동준. (2013). 알코올 간질환 진료 가이드라인.
+2. 김종성. (2015). 한국인의 적절음주량 가이드라인. 대한가정의학회 춘계학술대회 발표논문.
+3. 대한간학회. (2013). 알코올 간질환 진료 가이드라인. 
+4. 대한신경정신의학회. (2017). 신경정신의학 (제3판).
+5. 대한의학회·질병관리청. (2018). 일차 의료용 근거기반 고혈압 임상진료지침.
+6. 보건복지부. (2018). 음주폐해예방 실행계획.
+7. 식품의약품안전처. (2020). 2020년 주류 소비·섭취 실태조사.
+8. 윤명숙. (2011). 알코올중독자의 자살생각에 미치는 음주의 조절효과. 정신보건과 사회사업, 38, 113-140.
+9. 이해국. (2017). 주류 광고/마케팅과 음주문제. 알코올과 건강행동학회 학술대회 자료집, 25-44.
+10. 정진규, 김종성, 윤석준, 이사미, 안순기. (2021). 음주 진료 지침. Korean Journal of Family Practice, 11(1), 14-21.
+11. 조근호. (2011). 중독재활총론. 학지사.
+12. 질병관리청. (2023a). 국민건강통계플러스: 국민건강영양조사 기반의 음주 심층보고서.
+13. 질병관리청. (2023b). 2023년 국민건강통계. Retrieved from https://knhanes.kdca.go.kr/ 
+14. 한국건강증진재단. (2014). 저위험음주 가이드라인. 한국건강증진재단.
+15. 홍혜수. (2025). 고위험음주율 추이, 2014–2023년. 주간 건강과 질병, 18(38), 1431-1432. https://doi.org/10.56786/PHWR.2025.18.38.2
+16. Åberg, F., Helenius‐Hietala, J., Puukka, P., &amp; Jula, A. (2017). Binge drinking and the risk of liver events: A population‐based cohort study. Liver International, 37(9), 1373-1381.
+17. Anderson, B. O., Berdzuli, N., Ilbawi, A., Kestel, D., Kluge, H. P., Krech, R., ... Ferreira-Borges, C. (2023). Health and cancer risks associated with low levels of alcohol consumption. The Lancet Public Health, 8(1), e6-e7. https://doi.org/10.1016/S2468-2667(22)00317-6
+18. Arranz, S., Chiva-Blanch, G., Valderas-Martinez, P., Medina-Remon, A., Lamuela-Raventos, R. M., &amp; Estruch, R. (2012). Wine, beer, alcohol and polyphenols on cardiovascular disease and cancer. Nutrients, 4(7), 759-781.
+19. Bergmann, M. M., Schütze, M., Steffen, A., Boeing, H., Halkjær, J., Tjonneland, A., ... Rinaldi, S. (2011). The association of lifetime alcohol use with measures of abdominal and general adiposity in a large-scale European cohort. European Journal of Clinical Nutrition, 65(10), 1079-1087.
+20. Briasoulis, A., Agarwal, V., &amp; Messerli, F. H. (2012). Alcohol consumption and the risk of hypertension in men and women: A systematic review and meta-analysis. Journal of Clinical Hypertension, 14(11), 792-798.
+21. Brower, K. J. (2001). Alcohol’s effects on sleep in alcoholics. Alcohol Research &amp; Health, 25(2), 110-125.
+22. Burns, L., &amp; Teesson, M. (2002). Alcohol use disorders comorbid with anxiety, depression and drug use disorders: Findings from the Australian National Survey of Mental Health and Wellbeing. Drug and Alcohol Dependence, 68(3), 299-307.
+23. Cao, Y., Willett, W. C., Rimm, E. B., Stampfer, M. J., &amp; Giovannucci, E. L. (2015). Light to moderate intake of alcohol, drinking patterns, and risk of cancer: Results from two prospective US cohort studies. BMJ, 351, h4238.
+24. Cleophas, T. (1999). Wine, beer and spirits and the risk of myocardial infarction: A systematic review. Biomedicine &amp; Pharmacotherapy, 53(9), 417-423.
+25. Corrao, G., Rubbiati, L., Bagnardi, V., Zambon, A., &amp; Poikolainen, K. (2000). Alcohol and coronary heart disease: A meta-analysis. Addiction, 95(10), 1505-1523.
+26. Dawson, D. A., Goldstein, R. B., &amp; Grant, B. F. (2013). Differences in the profiles of DSM-IV and DSM-5 alcohol use disorders: Implications for clinicians. Alcoholism: Clinical and Experimental Research, 37, E305-E313.
+27. De Oliveira e Silva, E. R., Foster, D., McGee Harper, M., Seidman, C. E., Smith, J. D., Breslow, J. L., &amp; Brinton, E. A. (2000). Alcohol consumption raises HDL cholesterol levels by increasing the transport rate of apolipoproteins AI and A-II. Circulation, 102(19), 2347-2352.
+28. Djousse, L., &amp; Gaziano, J. M. (2007). Alcohol consumption and risk of heart failure in the Physicians’ Health Study I. Circulation, 115(1), 34-39.
+29. Gallagher, C., Hendriks, J. M., Elliott, A. D., Wong, C. X., Rangnekar, G., Middeldorp, M. E., ... Sanders, P. (2017). Alcohol and incident atrial fibrillation: A systematic review and meta-analysis. International Journal of Cardiology, 246, 46-52.
+30. Gemes, K., Janszky, I., Ahnve, S., Laszlo, K. D., Laugsand, L. E., Vatten, L. J., &amp; Mukamal, K. J. (2016). Light-to-moderate drinking and incident heart failure—the Norwegian HUNT study. International Journal of Cardiology, 203, 553-560.
+31. Grønbæk, M., Becker, U., Johansen, D., Gottschau, A., Schnohr, P., Hein, H. O., ... Sørensen, T. I. (2000). Type of alcohol consumed and mortality from all causes, coronary heart disease, and cancer. Annals of Internal Medicine, 133(6), 411-419.
+32. Griswold, M. G., Fullman, N., Hawley, C., Arian, N., Zimsen, S. R. M., Tymeson, H. D., ... Gakidou, E. (2018). Alcohol use and burden for 195 countries and territories, 1990–2016: A systematic analysis for the Global Burden of Disease Study 2016. The Lancet, 392(10152), 1015-1035.
+33. Haber, P., Lopatko, O., Proude, E., &amp; Lopatko, O. (2009). Guidelines for the treatment of alcohol problems. Sydney, Australia: Australian Government Department of Health and Ageing.
+34. Kamper-Jørgensen, M., Grønbæk, M., Tolstrup, J., &amp; Becker, U. (2004). Alcohol and cirrhosis: Dose–response or threshold effect? Journal of Hepatology, 41(1), 25-30.
+35. Kattimani, S., &amp; Bharadwaj, B. (2013). Clinical management of alcohol withdrawal: A systematic review. Indian Psychiatry Journal, 22(2), 100-108.
+36. Ko, K., Choi, S.-H., Namkoong, K., &amp; Lee, B. O. (2012). Risk factors associated with the development and the course of alcohol withdrawal delirium. Journal of Korean Neuropsychiatric Association, 51(6), 430-438.
+37. Kranzler, H. R., &amp; Soyka, M. (2018). Diagnosis and pharmacotherapy of alcohol use disorder: A review. JAMA, 320(8), 815-824.
+38. Law, B., Gullo, M. J., Daglish, M., Kavanagh, D. J., Feeney, G. F., Young, R. M., &amp; Connor, J. P. (2016). Craving mediates stress in predicting lapse during alcohol dependence treatment. Alcoholism: Clinical and Experimental Research, 40(5), 1058-1064.
+39. Luo, W., Guo, Z., Hao, C., Yao, X., Zhou, Z., Wu, M., &amp; Liu, J. (2013). Interaction of current alcohol consumption and abdominal obesity on hypertension risk. Physiology &amp; Behavior, 122, 182-186.
+40. Lucey, M. R., Mathurin, P., &amp; Morgan, T. R. (2009). Alcoholic hepatitis. New England Journal of Medicine, 360(26), 2758-2769.
+41. Marshall, A. W., Kingstone, D., Boss, M., &amp; Morgan, M. Y. (1983). Ethanol elimination in males and females: Relationship to menstrual cycle and body composition. Hepatology, 3(5), 701-706.
+42. Morgan, M. Y., &amp; Sherlock, S. (1977). Sex-related differences among 100 patients with alcoholic liver disease. British Medical Journal, 1(6066), 939-941.
+43. National Institute on Alcohol Abuse and Alcoholism. (2007). Helping patients who drink too much: A clinician’s guide. Bethesda, MD: Author.
+44. Numminen, H., Syrjala, M., Benthin, G., Kaste, M., &amp; Hillbom, M. (2000). The effect of acute ingestion of a large dose of alcohol on the hemostatic system and its circadian variation. Stroke, 31(6), 1269-1273.
+45. Oh, M. G., Han, M. A., Park, J., Ryu, S. Y., Park, C. Y., &amp; Choi, S. W. (2013). Health behaviors of cancer survivors: The Fourth Korea National Health and Nutrition Examination Survey (KNHANES IV, 2007-09). Japanese Journal of Clinical Oncology, 43(10), 981-987.
+46. Peppard, P. E., Austin, D., &amp; Brown, R. L. (2007). Association of alcohol consumption and sleep-disordered breathing in men and women. Journal of Clinical Sleep Medicine, 3(3), 265-270.
+47. Rehm, J., Taylor, B., Mohapatra, S., Irving, H., Baliunas, D., Patra, J., &amp; Roerecke, M. (2010). Alcohol as a risk factor for liver cirrhosis: A systematic review and meta-analysis. Drug and Alcohol Review, 29(4), 437-445.
+48. Ronksley, P. E., Brien, S. E., Turner, B. J., Mukamal, K. J., &amp; Ghali, W. A. (2011). Association of alcohol consumption with selected cardiovascular disease outcomes: A systematic review and meta-analysis. BMJ, 342, d671.
+49. Ruitenberg, A., van Swieten, J. C., Witteman, J. C., Mehta, K. M., van Duijn, C. M., Hofman, A., &amp; Breteler, M. M. (2002). Alcohol consumption and risk of dementia: The Rotterdam Study. The Lancet, 359(9303), 281-286.
+50. Saunders, J. B., Aasland, O. G., Babor, T. F., De la Fuente, J. R., &amp; Grant, M. (1993). Development of the Alcohol Use Disorders Identification Test (AUDIT): WHO collaborative project on early detection of persons with harmful alcohol consumption—II. Addiction, 88(6), 791-804.
+51. Sinha, R., Fox, H. C., Hong, K. A., Bergquist, K., Bhagwagar, Z., &amp; Siedlarz, K. M. (2009). Enhanced negative emotion and alcohol craving, and altered physiological responses following stress and cue exposure in alcohol dependent individuals. Neuropsychopharmacology, 34(5), 1198-1208.
+52. Stohs, M. E., Schneekloth, T. D., Geske, J. R., Biernacka, J. M., &amp; Karpyak, V. M. (2019). Alcohol craving predicts relapse after residential addiction treatment. Alcohol and Alcoholism, 54(2), 167-173.
+53. Takeyama, Y. (2009). Long-term prognosis of acute pancreatitis in Japan. Clinical Gastroenterology and Hepatology, 7(11 Suppl), S15-S17.
+54. Thomson, A. D. (2000). Mechanisms of vitamin deficiency in chronic alcohol misusers and the development of the Wernicke–Korsakoff syndrome. Alcohol and Alcoholism, 35(Suppl. 1), 2-7.
+55. Topiwala, A., Allan, C. L., Valkanova, V., Zsoldos, E., Filippini, N., Sexton, C., ... Ebmeier, K. P. (2017). Moderate alcohol consumption as risk factor for adverse brain outcomes and cognitive decline: Longitudinal cohort study. BMJ, 357, j2353.
+56. Wood, A. M., Kaptoge, S., Butterworth, A. S., Willeit, P., Warnakula, S., Bolton, T., ... Danesh, J. (2018). Risk thresholds for alcohol consumption: Combined analysis of individual-participant data for 599,912 current drinkers in 83 prospective studies. The Lancet, 391(10129), 1513-1523.
+57. Xin, X., He, J., Frontini, M. G., Ogden, L. G., Motsamai, O. I., &amp; Whelton, P. K. (2001). Effects of alcohol reduction on blood pressure: A meta-analysis of randomized controlled trials. Hypertension, 38(5), 1112-1117.
+58. Xu, W., Wang, H., Wan, Y., Tan, C., Li, J., Tan, L., &amp; Yu, J. T. (2017). Alcohol consumption and dementia risk: A dose-response meta-analysis of prospective studies. European Journal of Epidemiology, 32(1), 31-42.
+59. Younossi, Z. M., Stepanova, M., Ong, J., Yilmaz, Y., Duseja, A., Eguchi, Y., ... Global NC. (2018). Effects of alcohol consumption and metabolic syndrome on mortality in patients with nonalcoholic and alcohol-related fatty liver disease. Clinical Gastroenterology and Hepatology, 17(8), 1625-1633.e1.
+60. Yi, S. W., Sull, J. W., Linton, J. A., Nam, C. M., &amp; Ohrr, H. (2010). Alcohol consumption and digestive cancer mortality in Koreans: The Kangwha Cohort Study. Journal of Epidemiology, 20(3), 204-211.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

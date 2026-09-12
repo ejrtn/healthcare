@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[외상성 뇌손상]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5864]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3673]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 외상성 뇌손상은 교통사고, 추락, 스포츠 부상 등으로 발생하며, 증상은 두통, 현기증, 메스꺼움부터 신경세포 손상을 동반한 영구적 장애까지 다양합니다.
+• 뇌손상의 정도와 위치에 따라 치료 방법과 예후가 달라지며, 초기 의식 상태와 신경 손상 정도가 중요합니다.
+• 가장 흔한 원인인 교통사고나 추락 예방을 위해 안전수칙을 준수하고, 자전거나 오토바이를 탈 때는 꼭 헬멧을 착용합니다.
+• 의식을 잃는 사고나 넘어짐 후 두통, 구토 등의 증상이 나타나면 즉시 병원을 방문하여 신경외과 전문의의 진료를 받아야 합니다.
+• 노년층은 낙상에 의한 뇌손상이 많으므로 낙상 예방에 특별히 주의가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[224]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[외상성 뇌손상은 전 세계적으로 연간 6,800만 명에게 발생하는 질환입니다. 교통사고, 추락, 스포츠 부상, 산업 재해, 폭력 등이 주원인으로 가볍게는 두통, 현기증, 메스꺼움 등과 같은 증상에서부터 심한 경우 신경세포 손상을 동반한 영구적 장애를 야기할 수 있습니다.
+외상성 뇌손상은 그 정도에 따라 경도, 중등도, 그리고 중증의 세 단계로 나뉘며 치료 결과도 손상 정도에 따라 차이를 보입니다. 다행히 발생 빈도는 그 중 가장 경미한 경도가 90% 이상을 차지하지만, 초기에는 경도나 중등도였다가 수일 내로 악화되어 치명적인 결과를 초래하는 중증의 뇌손상으로 발전하는 경우도 자주 있어 집중적인 치료 관리가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[외상성 뇌손상은 다양한 손상이 복합적으로 발생하는 경우가 많습니다. 부위별 주요 외상성 뇌손상을 세분화하여 살펴보겠습니다.
+
+1. 뇌진탕 
+뇌진탕은 머리에 충격이 비교적 약하게 가해졌을 때 뇌의 육안적 구조 변화(주로 부종과 출혈 등)는 초래되지 않았으나 물리적 충격으로 인한 동시 다발적인 신경세포들의 기능 이상으로 일시적으로(몇 초~몇 분 동안) 뇌 기능(의식, 인지, 감각, 운동 등)의 감소 혹은 소실된 상태를 의미하는 진단명입니다.
+전형적인 뇌진탕은 의식 소실을 동반하게 되는데 보통 자연 회복이 됩니다. 가장 흔하게는 권투 시합에서 볼 수 있으며 머리에 가해진 타격으로 상대 선수가 몸을 잘 가누지 못하거나, 심하면 쓰러져 의식이 소실되기도 하는데 이것이 뇌진탕의 전형적인 사례라고 할 수 있습니다.  많은 경우 외상 전의 기억을 못하는 역행 기억 상실을 동반하거나 외상 후 기억 상실을 동반하기도 합니다. 그러나 기억 상실이나 의식 소실 없이 의식의 일시적 혼돈만이 있는 가벼운 형태의 뇌진탕도 있습니다.
+
+사전적으로 뇌진탕은 구조적 손상이 없음을 의미하나 최근의 연구에서는 그렇지 않다고 밝혀졌습니다. 의식 소실의 시간이나 기억 상실의 시간이 길거나 반복되는 뇌진탕의 발생은 영구적인 기능 저하로 이어지게 됩니다. 가장 흔히 관찰되는 후유증은 뇌진탕 후 증후군(Post-Concussion syndrome)이라고 하며 주증상으로는 두통 및 어지럼증, 귀울림(이명), 청력 감퇴, 시력 장애 등을 호소합니다. 또한 정신과적 증상으로 과민, 불안, 우울, 인격 변화, 피로, 수면 장애, 인지 장애, 기억 장애, 집중력 및 주의력 장애 등을 호소합니다. 
+대부분의 경우 3개월 내에 증상이 없어지지만, 드물게는 1년 이상 지속될 수 있습니다.   반복되는 뇌진탕의 경험은 인지 기능 저하와 연관이 있음이 최근 연구에서 밝혀지고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fca4e1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 두개골 골절
+두개골은 뇌를 보호하는 가장 중요한 뼈입니다. 두개골 골절은 뇌에 대한 충격을 의미할 뿐 아니라 이후로도 뇌가 위험에 노출될 가능성이 높아짐을 의미합니다. 사고나 상해, 또는 운동과 관련하여 두부에 강한 충격을 받았을 때 특히 의식의 변화가 있거나 심한 두통을 느끼는 경우는 응급실을 통하여 신경외과 전문의의 진료를 받아야 합니다. 만약 두개골 골절이 있거나 뇌 컴퓨터단층촬영(Computed tomography, CT)에서 두개골 안쪽에 피가 고인 경우는 신속한 치료만이 환자의 목숨을 구할 수 있습니다.
+단순한 두개골 골절은 후유증을 남기지 않습니다. 다만 두개골 골절이 동반될 정도의 외상은 뇌진탕 혹은 뇌출혈(특히 경막 외 출혈)이 동반될 수 있고 이로 인한 후유증이 환자의 예후를 결정하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fca6a4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6ee82f1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 외상 지주막하 출혈
+지주막하 출혈은 두부 손상 후 가장 흔하게 관찰되는 뇌출혈인 외상 지주막하 출혈과 뇌동맥류가 터져서 초래되는 자발 지주막하 출혈로 구분됩니다. 대개의 경우 두 질병은 지주막하 출혈의 발생 위치가 달라 구분할 수 있습니다. 외상 지주막하 출혈은 뇌간  앞 혹은 뇌의 겉표면에 주로 발생합니다, 동맥류에 의한 자발 지주막하 출혈의 경우는 뇌의 바닥에 별 모양의 특징적인 형태를 보입니다. 애매한 경우 뇌혈관 CT를 통하여 확인을 해야 합니다. 일부의 경우 뇌동맥류가 터질 때 의식을 잃고 넘어지면서 이차적으로 뇌손상을 당하여 마치 외상 지주막하 출혈 양상으로 오인될 가능성도 있기 때문입니다. 
+대부분의 외상 지주막하 출혈은 치료를 요하지 않아 임상적으로 의미는 크지 않습니다. 하지만 뇌의 바닥(기저부)에 많은 양의 지주막하 출혈이 동반된 경우는 이를 초래한 손상 자체가 크기 때문에 예후가 불량합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fca5c7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 외상 뇌내 출혈
+외상 뇌내 출혈은 다른 외상 뇌손상(두개골 골절, 경막외 출혈, 경막하 출혈, 지주막하 출혈)과 자주 동반하여 발생합니다. 두부가 심하게 부딪친 경우에 발생하고, 주로 전두엽과 측두엽에 80~90%가 발생하며, 20%는 다발성으로 나타납니다. 
+모든 외상 뇌내 혈종을 수술하지는 않습니다. 이는 수술을 하더라도 출혈이 발생하며 손상된 뇌조직이 복구되지 않기 때문이며, 손상 초기 출혈이나 시간이 경과되어 출혈량이 늘거나 지연성으로 발생하는 뇌내 혈종 모두에 해당되는 사항입니다. 수술 여부는 환자의 신경학적 상태, CT 소견 및 머릿속의 압력(두개강 내압) 등을 고려하여 결정합니다. 뇌내 혈종의 제거 목적은 머릿속 압력을 낮추어 환자를 살리기 위함이며, 초기 뇌손상의 결과 발생하는 이차성 뇌손상을 최소화하기 위함입니다.
+외상 뇌내 혈종의 후유증으로, 전두엽 출혈이 우성 반구 혹은 양측성으로 발생한 경우 성격 변화나 인지 장애가 동반됩니다. 측두엽의 출혈 역시 우성 반구에 발생할 경우 기억력 저하 및 언어장애를 유발하며, 재활 치료가 필요합니다. 뇌출혈이 발생하였던 위치는 시간이 지나 뇌조직의 소실로 남게 되며, 이는 장기적인 후유증이 됩니다.
+ 
+5. 외상 경막하 출혈
+경막하 출혈은 뇌를 싸고 있는 뇌경막 아래쪽으로 혈종이 고인 것을 말합니다. 경막하 출혈은 증상 발현 및 CT 소견에 따라 급성 경막하 출혈과 만성 경막하 출혈로 구분합니다.
+1) 급성 경막하 출혈
+외상 뇌출혈 가운데 가장 위중한 경우로 보통 사망률이 60%를 넘습니다. 설령 사망하지 않더라도 중증의 후유 장애를 남기는 아주 위험한 뇌출혈입니다. 가장 흔한 원인은 추락 사고, 폭행, 교통사고 등이 있습니다. 경막하 출혈의 두께가 1 cm를 넘거나 이로 인한 정중선 이동이 발생하면서 의식 저하가 동반되는 경우 응급으로 혈종을 제거하고 감압 개두술을 시행하여야 합니다. 혈종이 잘 제거되더라도 경막하 혈종이 발생한 경우는 혈종이 발생한 아래쪽 부위에 뇌손상을 심하게 동반하는 경우가 많아 수술적 치료 후에도 사망에 이르기도 하며, 생존하더라도 후유증으로 인해 사고 이전의 정상적인 생활로 돌아갈 가능성은 거의 없습니다.
+2) 만성 경막하 출혈
+주로 노년층에서 관찰되며, 알코올 중독, 간질 환자, 항응고제 혹은 항혈소판제 복약, 치매 환자 등에서 자주 발생하는 것으로 알려져 있습니다. 워낙 경미한 두부 외상으로 발생해서 환자의 약 50%는 자기가 언제 다쳤는지를 기억하지 못합니다. 두부 외상 후 약 3주 내외가 경과한 이후 진단되는 것이 일반적이며, 한쪽의 편마비, 언어 장애 혹은 인지 기능 저하의 증상을 보여 뇌졸중으로 오인하여 치료 시기를 놓치는 경우도 종종 있습니다. 
+증상이 동반되거나 출혈의 두께가 1 cm를 넘거나 이로 인한 정중선 이동이 보이면 수술을 계획합니다. 만성 경막하 혈종의 수술은 두개골에 작은 구멍을 내고 그 구멍으로 출혈을 빼주는 천공 배액술 만으로도 대부분 회복이 잘 됩니다. 하지만 양측성이거나 70세 이상의 노인, 항응고제 혹은 항혈소판제 복약, 알코올 중독의 경우에는 재발률이 25%까지 보고되고 있어 주의를 필요로 합니다. 금주가 필수적이며, 반복적으로 넘어지는 경우 그 원인을 감별하기 위한 신경과 진료가 필요하며, 낙상을 예방하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fca564]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[6. 외상 경막외 출혈
+   경막외 출혈은 두개골과 뇌를 싸고 있는 경막 사이에 피가 고인 것입니다. 이로 인하여 머리뼈 안에 압력이 상승하여 뇌기능이 저하되거나 혈종이 뇌를 직접적으로 누름으로써 마비 증상 등이 발생합니다. 경막외 혈종 환자의 증상으로는 두통을 호소하는 정도의 가벼운 증상으로부터 충격이 심한 경우 뇌손상 직후 혼수상태가 초래되는 경우까지 다양합니다. 대부분의 경막외 혈종은 수술이 요구됩니다. 그러나 드물게 혈종이 아주 작고 증상을 유발하지 않는 경우는 경과 관찰을 하다 보면 자연적으로 흡수됩니다. 
+경막외 혈종은 다치자마자 시행한 뇌 CT에서 이상이 없었다가 추적 CT상에서 확인되거나, 초기 CT에서는 적은 양이었던 혈종이 커져서 수술적 치료가 요구되는 경우가 종종 있습니다. 경막외 혈종은 대부분의 경우 경막하 혈종에 비해 예후가 좋습니다. 동반된 뇌내 손상이 심하지 않은 경우에는 일상생활로의 회복이 가능한 경우가 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fca631]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[228]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2024년 응급실에 내원한 전체 손상환자에서 외상성 뇌손상은 가장 흔한 손상부위로, 전체 손상환자의 약 37%에서 발생하였습니다. 또한 입원환자의 45.3%, 사망환자의 68.9%에서 외상성 뇌손상이 확인되어 중증 손상의 주요 원인으로 나타났습니다. 
+연령별로는 70세 이상에서 외상성 뇌손상의 비율이 44.5%로 가장 높았으며, 10세 미만(43.2%), 60대(43.0%)에서도 높은 비율을 보였습니다. 외상성 머리손상 환자만 따로 분석한 결과에서도 70세 이상이 전체 환자의 21.9%를 차지했으며, 고령일수록 입원과 사망의 비율이 증가하는 것으로 나타났습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강에 미치는 영향]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[229]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[모든 외상성 뇌손상 환자가 수술을 요하지는 않습니다. 뇌손상의 정도, 혈종의 위치, 양에 따라 결정됩니다.   뇌수술 후의 결과나 후유증의 정도는 뇌손상이 발생된 초기의 환자의 의식 및 신경 손상 정도에 따라 결정됩니다. 즉, 의식이 좋고 마비 증세가 경미한 환자는 수술 후 좋은 결과를 보이나, 수술 전 심한 마비가 있던 환자에게서는 신경 증세의 호전은 있으나 마비 증세가 완전히 회복되지는 못합니다. 두부 손상으로 이미 손상된 신경 조직은 재생되지 않으므로 후유증이 남게 되며, 이는 꾸준한 재활 치료로 호전을 기대할 수 있습니다.
+중증의 외상성 뇌손상은 뇌출혈을 제거하였다 하더라도 뇌가 부어오르는 뇌부종이 발병 후 수주까지 지속되어 뇌압 상승에 따른 이차성 뇌손상이 동반됩니다. 초기 의식이 좋지 않고, 동공 반사의 소실이 동반된 경우 향후 뇌부종이 심할 것이 예상되는 환자는 혈종 제거 수술 시 두개골을 잠시 제거하는 수술을 하기도 합니다. 뇌부종을 치료하는 다양한 방법이 있지만 심한 부종의 경우는 치료에 불응하여 수술 후 환자가 사망에 이르기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 대처]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[232]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[가장 흔한 원인이 교통사고 및 추락사고이기 때문에, 운전 및 산행 시 안전사고 예방에 주의해야 합니다. 또한 헬멧을 쓰지 않고 자전거나 특히 오토바이를 타다가 사고를 당하여 목숨을 잃거나 중증 장애를 갖게 되는 경우가 많기 때문에, 많은 나라에서 반드시 규정된 헬멧을 착용할 것을 법적인 강제 조항으로 정하고 있습니다.
+
+최근에 증가하고 있는 노인의 외상성 뇌손상은 낙상으로 인한 경우가 대부분으로 낙상을 예방하기 위한 노력이 필요합니다. 개별 낙상 위험의 평가 및 유발 약물의 조절, 근력 향상을 위한 운동 프로그램 적용 등 종합적인 평가와 예방 체계의 마련이 필요합니다.
+의식 소실을 동반한 사고 혹은 가벼운 넘어짐 후에도 두통, 구역과 구토, 신경학적 장애가 동반되는 경우 바로 병원을 방문하여 신경외과 전문의의 진료를 받아야 합니다. 의식 소실이 있는 경우 기도의 확보 및 혈압의 유지가 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[평가 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[233]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[초기 의식 상태 및 뇌신경 장애에 대한 신경학적 검진 소견이 매우 중요합니다. 이에 따라 환자의 장기적인 예후가 달라지기 때문입니다.
+두부 외상의 초기 검사는 두개골 골절 여부 및 출혈 여부 확인을 위하여 뇌 CT를 촬영하게 됩니다. 초기 CT에서는 출혈이 없거나 적었다가 시간이 경과한 시점에 출혈이 늘고 부종이 진행하는 경우가 많기 때문에 추적 CT 촬영이 필요하며, 초기 CT상에서 골절, 출혈이 확인된 경우에는 특히 적어도 24~72시간 경과 관찰이 반드시 필요합니다.
+환자가 안정화되면 장기적인 예후 판정 및 미만성 축삭 손상을 확인하기 위해 뇌 MR을 촬영합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[326]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청. (2025). 2024 손상 유형 및 원인 통계: 응급실손상환자심층조사. 질병관리청.
+2. 대한신경외과학회, 대한척추신경외과학회.
+3. 외상 표준진료지침 개발 결과 보고서. (2017.10).
+4. 이상헌. (2020). 외상성 뇌손상의 현황 및 예방 전략, 주간 건강과 질병, 13(12), 674-691.
+5. Centers for Disease Control and Prevention (CDC). (2013). CDC grand rounds: reducing severe traumatic brain injury in the United States. Morbidity and Mortality Weekly Report, 62(27), 549-552.
+6. Kim, H.-K., Leigh, J.-H., Lee, Y. S., Choi, Y., Kim, Y., Kim, J. E., Cho, W.-S., Seo, H. G., &amp; Oh, B.-M. (2020). Decreasing Incidence and Mortality in Traumatic Brain Injury in Korea, 2008–2017: A Population-Based Longitudinal Study. International Journal of Environmental Research and Public Health, 17(17), 6197. https://doi.org/10.3390/ijerph17176197
+7. Song,  SY., Lee, SK., Eom, KS. (2020). Analysis of Mortality and Epidemiology in 2617 Cases of Traumatic Brain Injury : Korean Neuro-Trauma Data Bank System 2010–2014. J Korean Neurosurg Soc. 59(5), 485-491. https://doi.org/10.3340/jkns.2016.59.5.485]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

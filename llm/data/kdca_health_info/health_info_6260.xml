@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[흉막염과 농흉]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6260]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흉막염은 다양한 원인에 의해 흉막에 염증이 생겨 발생하는 질환으로, 원인과 염증의 정도에 따라 다양한 증상과 경과를 보일 수 있습니다. 한편 농흉은 흉강 내 감염에 의해 고름으로 된(화농성) 흉수가 차있거나 흉수에서 세균이 검출되는 질환입니다. 흉막염과 농흉을 하나의 주제로 다루기 위해 여기에서는 감염에 의한 흉막염에 대해 중점을 두고 설명하겠습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b7e5e85563]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흉막염은 다양한 원인으로 발생할 수 있습니다. 주요 원인으로는 감염, 종양, 류마티스 질환, 석면과 같은 외부물질 등이 있습니다. 특히 감염에 의한 흉막염은 바이러스, 세균, 결핵균, 진균, 기생충 등 다양한 미생물이 원인이 됩니다.
+
+농흉의 원인으로는 폐렴, 흉막염, 흉부 수술에 의한 이차감염, 전신 패혈증 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[세균에 의한 감염성 흉막염은 대부분 항생제로 잘 치유됩니다. 농흉은 흉막염보다 장기간 항생제 치료가 필요합니다. 항생제 치료로 좋아지지 않는 경우에는 흉막비후(흉막이 염증으로 인해 붓고 두꺼워짐), 석회화(흉막이 딱딱하게 굳음), 흉막유착(흉막이 서로 붙어 통증을 유발함) 등의 후유증이 생기기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흉막에 다양한 미생물이 침범하여 염증이 생기면 흉막염이 발생하게 됩니다. 인접한 폐에 발생한 폐렴이 원인이 되어 흉막염이 발생하기도 하지만, 폐렴 없이 흉막염이 발생하기도 합니다. 염증으로 인해 흉막이 손상되면 이로 인해 흉수가 증가하여 흉강 내에 고이게 됩니다. 이 흉수가 화농성(고름)이거나, 흉수에서 세균이 검출되는 경우를 농흉이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[농흉은 성인의 경우 35세에서 65세 사이에서 주로 발생하여, 여자보다 남자에서 많이 생기는 것으로 알려져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흉막의 염증으로 인해 숨 쉴 때 날카롭거나 둔한 가슴통증이 나타날 수 있습니다. 염증에 의해 흉수가 증가하면 호흡곤란을 유발할 수 있습니다. 흉수의 양이 많아지면 흉막의 마찰이 감소하여 오히려 가슴통증이 감소할 수 있습니다. 이와 같은 이유로 농흉에서 가슴통증이 없을 수 있습니다. 기침, 가래 등 일반적인 호흡기 증상 및 발열, 오한, 체중 감소, 권태감 등이 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[가슴통증, 호흡곤란 등의 증상이 있을 경우 흉막염을 의심하여 검사를 받아보아야 합니다. 흉부 청진을 비롯한 신체 검진과 기본적인 흉부 X선 검사를 통해 진단할 수 있습니다.
+
+또한 흉막염의 원인을 감별하기 위해 주삿바늘로 흉수를 직접 뽑아서 검사하는 흉수천자, 흉부 CT 등의 추가적인 검사가 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b7e612eab6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b7e6197ee9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b7e61d77a3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흉막염과 농흉을 유발한 원인 미생물에 대한 항생제 치료가 주된 치료이지만 염증의 정도에 따라 비약물 치료를 병행해야 할 수 있습니다. ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[항생제 치료로 좋아지지 않는 흉막염과 농흉의 경우에는 흉관 삽입(흉강 내 관을 넣어 흉수를 배액하는 치료)이 필요합니다. 흉관 삽입 후에도 흉수 배출이 원활하지 않거나 흉막 유착 등의 합병증이 우려되는 경우에는 전신마취 후 가슴을 열어 흉강 내 고름을 제거하고 염증이 있는 흉막을 제거하는 흉막 박피 수술을 하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다른 감염성 질환과 마찬가지로 충분한 휴식과 영양, 수분공급이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성 감염성 질환이므로 조기에 발견하기 위한 정기 진찰은 필요하지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흉막염과 농흉을 적절히 치료하지 않을 경우 흉막 비후나 흉막 유착 등의 합병증이 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[의식을 잃을 정도의 과음, 구강질환, 당뇨병 등이 농흉의 위험인자로 알려져 있습니다. 과음하지 않도록 주의가 필요하며 구강질환을 잘 치료하고, 구강을 청결하게 유지하는 것이 예방에 도움이 됩니다. 당뇨병이 있다면 잘 치료받는 것이 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[세균 감염을 예방하기 위해 손씻기, 양치질 등 개인위생을 준수해야 합니다. ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 흉막염이 재발할 가능성이 있나요?
+
+A. 위험요인이 없다면 재발은 드뭅니다.
+
+
+Q. 흉막염 수술 후 운동이나 활동량에 영향을 줄 수 있나요?
+
+A. 흉막비후나 흉막유착과 같은 합병증이 발생한 경우 폐활량이 이전보다 떨어져 운동능력이나 활동량에 영향을 줄 수 있습니다.
+
+]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

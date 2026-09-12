@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[갑상선 결절]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6683]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 갑상선 결절은 우리나라 성인의 약 30~40%에서 초음파로 발견될 만큼 흔하며, 만져질 정도로 큰 결절은 약 5%에서 나타납니다. 
+• 대부분 양성이지만 2~6%는 갑상선암일 수 있고, 큰 결절은 숨쉬기나 삼키기 어려움, 목소리 변화 같은 증상을 일으킬 수 있습니다. 
+• 결절이 발견되면 병력 청취, 진찰, 갑상선기능검사 후 초음파와 필요 시 세침흡인검사를 진행합니다. 
+• 세포 검사 결과에 따라 지켜보거나, 재검사하거나, 수술 여부를 결정합니다. 
+• 암이 의심되면 보통 갑상선절제술을 하고, 전이나 재발 위험이 있으면 방사성 요오드 치료를 추가로 시행할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[갑상선은 목 앞부분, 특히 갑상연골 아래 약 2~3 cm 지점에 있는 나비 모양의 기관입니다. 우리 몸의 에너지를 조절하는 갑상선호르몬을 만들고, 저장한 뒤 필요할 때마다 혈액 속으로 내보냅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf273a77]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf28e5f4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[갑상선호르몬은 몸의 전체 대사 속도, 즉 몸이 에너지를 쓰는 속도를 조절하여 모든 기관의 기능을 적절히 유지시키는 역할을 합니다. 예를 들어, 체온을 유지하고 신체 각 기관의 대사량을 조절하며 태아와 신생아에서는 뇌와 뼈 성장에 꼭 필요합니다. 따라서 갑상선호르몬이 너무 많으면 맥박이 빨라지고 땀이 많아지고 손이 떨리며, 체중이 줄 수 있습니다. 이런 상태를 갑상선중독증 또는 갑상선기능항진증이라고 합니다. 
+반대로 갑상선호르몬이 너무 적으면 피로하고 힘이 없고 추위를 더 많이 느끼며 몸이 무기력해집니다. 이런 상태는 갑상선기능저하증이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1981c01894a6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[갑상선에 혹처럼 생긴 덩어리를 결절이라고 합니다. 크기는 수 밀리미터(mm)로 작을 수도 있고 몇 센티미터(cm)까지 클 수도 있습니다. 여러 역학 연구에 의하면 만져질 정도로 큰 결절은 전체 성인의 4~7% 정도입니다. 
+갑상선 결절은 우리나라 성인의 약 30~40%에서 초음파로 발견됩니다. 갑상선 결절의 대부분은 암이 아니며, 남성은 약 8%, 여성은 약 4%만이 암으로 판정됩니다. 즉, 결절의 90~95%는 암이 아닌 양성 결절입니다. 
+양성 결절의 종류에는 콜로이드 결절, 여포선종, 하시모토 갑상선염, 단순낭종(물주머니 혹) 등이 있습니다. 하지만 이러한 양성 갑상선 결절의 원인은 아직 뚜렷하지 않습니다. 전 세계적으로 보았을 때 가장 큰 원인 중 하나로 식품 중의 요오드 부족을 들 수 있습니다. 그러나 우리나라는 요오드가 부족한 지역이 아니기 때문에 대부분의 사람에게는 해당되지 않습니다. 오히려 건강기능식품 등을 통해 요오드를 과도하게 섭취하면 갑상선 기능에 이상이 생길 수 있으므로 주의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대부분의 갑상선 결절은 특별한 증상이 없습니다. 예전에는 결절이 비교적 커져서 환자가 직접 만져보거나, 거울을 보다가 목 앞쪽에 혹이 있는 것을 발견해 병원을 찾는 경우가 많았습니다. 그러나 요즘은 초음파 검사기기가 널리 보급되면서, 건강검진 중 우연히 갑상선 결절이 발견되는 경우가 많아졌습니다. 
+대부분의 결절은 갑상선호르몬을 만들지 않지만, 드물게 호르몬을 생성하는 자율기능성 결절이 있습니다. 이런 결절은 암일 가능성이 매우 낮습니다. 자율기능성 결절은 주로 요오드가 부족한 지역에서 생기며, 우리나라처럼 요오드를 충분히 섭취하는 지역에서는 대부분 비기능성 결절이고, 자율기능성 결절은 매우 드뭅니다. 
+일부 환자들은 결절이 갑자기 커지면서 목, 턱, 귀 주변에 통증을 느낄 수 있습니다. 결절이 아주 크면 삼킴 곤란이나 목의 압박감을 느낄 수 있고, 드물게 기도를 눌러 호흡 곤란이 생기기도 합니다. 또한, 성대 주변 신경을 자극해 목소리가 변하는 경우도 나타날 수 있습니다. 다음과 같은 증상이나 징후가 나타난다면, 결절이 악성일 수 있으므로 더 정밀한 검사가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=197d0ea5bf28]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[갑상선에 결절이 만져지거나, 초음파검사에서 결절이 발견되면 암인지 여부를 진단하기 위해 가장 먼저 시행하는 검사가 ‘세침흡인검사’입니다. 초음파 결과에 따라 확실히 암이 아닌 경우라면 검사가 필요 없으나 그렇지 않은 경우라면 세침흡인검사를 가장 먼저 시행합니다.
+
+
+1. 세침흡인검사(Fine Needle Aspiration, FNA) 
+ 매우 가는 바늘을 이용하여 갑상선 결절에서 세포나 액체를 뽑아 현미경으로 관찰하는 검사입니다. 대부분 국소마취 없이 시행되며, 바늘이 매우 얇아 통증은 크지 않습니다. 정확한 진단을 위해 2~3회 정도 바늘을 찔러 세포를 채취합니다. 이 검사는 금식이 필요 없고, 시행 후 바로 일상생활에 복귀할 수 있습니다. 세침흡인검사는 갑상선 결절이 암인지 여부를 판단하는 가장 정밀한 검사로 알려져 있으나 100% 정확성을 보이는 것은 아닙니다. 즉, 암이 아닌데 암으로 나오는 위양성, 또는 암인데도 양성으로 나오는 위음성 결과가 드물게 있을 수 있습니다. 
+검사 결과는 다음의 6가지 진단 범주 중 하나로 보고됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=197d0e9b49a3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 비진단적
+세포 양이 너무 적거나, 적절한 세포가 모이지 않아 정확한 판정을 내리기 어려운 경우입니다. 전체 검사 중 약 10~20%에서 이런 결과가 나올 수 있습니다. 특히 물혹(낭성 결절)이나 석회, 섬유화된 조직이 많은 결절에서 흔합니다. 이 경우에는 보통 세침흡인검사(FNA)나 중심바늘생검(Core Needle Biopsy, CNB)을 다시 시행하며, 상태에 따라 경과관찰을 하기도 합니다. 
+
+2) 양성 
+검사 결과가 양성으로 나오면 악성(암)일 가능성은 매우 낮아, 대부분 수술 없이 경과관찰을 하게 됩니다. 다만, 양성 결절이라도 크기가 너무 커서 음식 삼키기가 어렵거나 숨쉬기 불편한 경우, 또는 겉으로 보이거나 갑상선 호르몬을 많이 만드는 결절인 경우에는 수술 등의 치료를 고려할 수 있습니다. 
+
+3) 비정형 
+세포에 약간의 이상이 있지만, 양성이라고 단정하기도, 암이라고 판단하기도 어려운 중간 단계입니다. 암일 가능성은 약 10~30%이며, 보통 세침흡인검사(FNA)나 중심바늘생검(CNB)을 다시 시행합니다. 재검에서도 같은 결과가 나오는 경우에는 초음파 소견 및 임상적 상황을 종합적으로 고려하여 추적관찰 또는 수술을 결정합니다. 
+
+4) 여포종양 
+이 범주는 양성인 여포선종 또는 악성인 여포암 가능성이 있는 경우입니다. 암일 가능성은 약 25~40% 정도입니다. 세포 모양만으로는 양성과 악성을 구분할 수 없고, 결절이 피막이나 혈관을 침범했는지를 확인해야 진단이 가능합니다. 그래서 수술을 통해 조직을 떼어내 정밀검사를 해야 확실한 진단이 가능하므로, 일반적으로 수술을 권합니다. 
+
+5) 악성의심
+암일 가능성이 70~95% 정도로 높지만, 병리검사에서 암의 명확한 특징이 일부만 보이는 상태입니다. 암으로 간주하고 암 치료 방침대로 진행하는 경우가 많습니다. 
+
+6) 악성 
+검사에서 암이라는 증거가 확실하게 보인 경우입니다. 전체 검사 중 약 5% 정도에서 이런 결과가 나오며, 대부분은 ‘갑상선 유두암’입니다. 이 경우에는 보통 갑상선 절제 수술을 합니다. 다만, 암의 크기가 작고(보통 1 cm 이하) 주변 조직이나 림프절에 퍼지지 않았다면, 임상 소견과 환자의 선호도 등을 고려하여 바로 수술하지 않고 경과 관찰(정기 초음파 검사)도 가능합니다. 추후 암이 커지거나 림프절로 전이되는 등 변화가 생기면 수술을 시행합니다. 
+
+2. 갑상선스캔 
+갑상선스캔은 몸에 해가 없는 소량의 방사성 물질(주로 방사선동위원소 요오드 또는 테크네튬)을 사용해 갑상선의 모양과 기능을 살펴보는 검사입니다. 갑상선암세포는 방사성 요오드나 테크네튬을 잘 흡수하지 않기 때문에, 이 물질을 이용해 사진을 찍으면 암이 의심되는 부위를 확인할 수 있습니다. 또한, 갑상선기능항진을 일으키는 결절이 있는지 확인할 때도 사용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf2749c1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 갑상선초음파는 갑상선에 생긴 혹(결절)의 크기, 모양, 개수를 살펴보는 검사입니다. 갑상선 결절의 크기를 비교하면서 경과관찰을 하는데 사용되기도 합니다. 또한 초음파는 암이 의심되는 모양인지 어느 정도 판단 가능하지만, 초음파만으로는 암인지 확실히 알 수 없기 때문에, 필요하면 초음파를 보면서 세침흡인검사를 함께 진행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1979d0638915]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2024년 대한갑상선학회에서는 갑상선 결절이 발견되었을 때 먼저 병력 및 신체검사, 갑상선기능검사(갑상선자극호르몬, 갑상선호르몬)를 시행하고, 검사 결과에 따라 갑상선 스캔이나 초음파 검사를 진행하며, 초음파에서 암이 의심되면 병리진단검사(세침흡인검사[FNA], 중심바늘생검[CNB])를 시행하도록 하는 접근법을 제안하였습니다. 병리진단검사는 세침흡인검사의 정확도가 높고 비용 대비 효율도 좋아서 우선적으로 권장됩니다. 중심바늘생검은 세침흡인검사의 보완적인 수단으로서 숙련된 시술자에 의해 선택적으로 고려할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[갑상선 결절의 치료는 병리진단검사(FNA, CNB) 결과에 따라 다르게 진행됩니다. 
+병리진단검사에서 악성으로 확인되었거나 암이 의심되는 경우 보통 수술로 결절을 제거합니다. 한쪽 갑상선에만 암이 있고 위험도가 낮으면 해당 쪽만 제거하는 엽절제술을 시행합니다. 양쪽에 암이 있거나, 크고 주변 조직이나 림프절로 퍼진 경우에는 양측 갑상선을 모두 제거합니다. 갑상선을 모두 제거한 환자 중에서 암이 퍼졌거나 재발 위험이 높은 경우에는 방사성요오드 치료를 추가로 시행합니다. 
+양성 결절로 확인된 경우에는 수술 없이 경과 관찰만 합니다. 초음파 소견에 따라 검사 주기가 결정되며, 정기적으로 변화를 확인합니다. 결절이 커지거나 암이 의심되는 변화가 보이면 병리진단검사를 다시 합니다. 
+갑상선호르몬을 과다하게 만드는 결절은 보통 암은 아니지만 갑상선기능항진증을 일으킬 수 있습니다. 이 경우에는 증상이나 상태에 따라 수술, 방사성요오드 치료, 고주파절제술을 시행합니다. 하지만 우리나라에서는 이런 경우가 매우 드뭅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 갑상선 결절이 암이 될 수도 있나요?
+
+A. 갑상선 결절은 양성과 악성으로 구분되며, 전체 결절의 약 5%가 갑상선암(악성결절)입니다. 악성 여부를 판단하기 위해 초음파 검사와 병리진단검사를 시행하게 됩니다. 양성으로 진단된 결절은 암으로 발전하지 않으므로, 병원에서 권유하는 주기적인 추적관찰을 하면 됩니다.
+
+Q. 세침흡인검사를 꼭 해야 하나요?
+
+A. 갑상선 결절 중 일부는 갑상선암일 수 있으며, 이를 진단하는 데 가장 정확한 방법이 세침흡인검사입니다. 따라서 양성과 악성을 구분하는 데 필요한 검사입니다. 단, 초음파상 전형적인 물혹(낭종)으로 보이거나, 아주 작아서 암 가능성이 낮은 경우에는 경과관찰만 하고, 이후 결절의 크기나 모양에 변화가 있을 때 선택적으로 시행할 수 있습니다.
+
+Q. 결절이 많으면 암일 가능성이 더 높은가요?
+
+A. 결절이 많다고 해서 암일 확률이 높아지는 것은 아닙니다. 다발성 결절이 있는 경우에도, 각 결절마다 따로 검사해서 악성 여부를 확인합니다.
+
+Q. 양성결절은 치료하지 않아도 되나요?
+
+A. 양성결절은 대부분 치료 없이 지켜보면 됩니다. 하지만 결절이 점점 커져서 숨쉬기 어렵거나, 음식 삼키기 힘들어지는 증상이 생기면 치료가 필요할 수 있습니다. 
+또한 겉으로 보기에 많이 튀어나와 외모에 영향을 준다면 수술이나 고주파절제술 같은 치료를 고려할 수 있습니다.
+
+Q. 양성결절인데도 왜 병원에서 추적관찰을 하나요? 추적관찰은 얼마나 자주 해야 하나요?
+
+A. 세침흡인검사는 정확도가 높지만, 약 5%에서는 위음성 또는 위양성 결과가 나타날 수 있습니다. 또한 시간이 지나면서 결절의 모양이나 크기에 변화가 생길 수 있어서, 정기적으로 초음파 검사를 하게 됩니다. 추적관찰의 간격은 초음파 소견에 따라 결정되며, 보통 6개월~2년 간격으로 검사를 하고, 문제가 없으면 점점 간격을 늘려갑니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대한갑상선학회. (2024). 갑상선결절 진료권고안.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

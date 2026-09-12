@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[사마귀]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6537]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 사마귀는 사람유두종바이러스(Human Papilloma Virus, HPV)가 피부 또는 점막에 감염되어 특징적인 피부 병변을 보이는 감염성 피부 질환입니다.
+• 사마귀는 보통사마귀, 편평사마귀, 손발바닥 사마귀, 항문생식기 사마귀 및 뾰족콘딜로마로 나뉩니다.
+• 보통사마귀는 손등, 손발톱 주위, 얼굴 등에 잘 생기고, 편평사마귀는 얼굴, 목에 잘 생깁니다. 손발바닥 사마귀는 손발바닥에, 항문생식기 사마귀와 뾰족콘딜로마는 성기와 항문 주위에 잘 생깁니다.
+• 사마귀는 자연적으로 없어지는 경우도 있지만, 대개 치료하지 않으면 다른 부위로 퍼지거나 다른 사람에게 전염될 수 있습니다.
+• 사람유두종바이러스에 특이적인 항바이러스제는 아직 없으며, 냉동 치료를 가장 흔히 사용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사마귀는 사람 유두종 바이러스(Human Papilloma Virus, HPV)가 피부 또는 점막에 감염되어 각질세포 안에서 증식하면서 특징적인 피부 병변을 보이는 감염성 피부 질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사마귀는 보통사마귀, 편평사마귀, 손발바닥 사마귀, 항문생식기 사마귀 및 뾰족콘딜로마로 나뉩니다. 보통사마귀는 표면이 거칠고 융기된 형태를 보이며 주로 손등, 손발톱 주위, 얼굴 등에 잘 생깁니다. 편평사마귀는 표면이 일정하게 편평하고 주변 피부보다 조금 융기된 형태로, 직경은 2~4mm 정도이며 얼굴과 목에 잘 생깁니다. 손발바닥 사마귀는 손발바닥에 잘 생기고, 체중에 의해 눌리면 안으로 파고들어 티눈과 구분하기 어려운 경우도 많습니다. 항문생식기 사마귀와 뾰족콘딜로마는 성기와 항문 주위에 잘 생깁니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사마귀는 사람유두종바이러스의 감염으로 발생합니다. 피부가 사람유두종바이러스에 감염되면 처음에는 거의 눈에 띄지 않다가 서서히 증식해 두껍고 딱딱한 병변이 생기면서 점차 주변과 경계가 뚜렷해집니다. 사마귀의 종류에 따라 흔한 원인이 되는 사람유두종바이러스 유형에 차이가 있습니다. 항문생식기 사마귀의 원인이 되는 사람유두종바이러스 중 HPV 16, 18, 31, 33~35, 39 등은 자궁경부암의 발생과 연관이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사마귀는 특히 어린이에서 자연스럽게 없어지는 경우가 많습니다. 그러나 성인에서는 서서히 없어지는 경우가 상대적으로 적고 수 년 이상 지속되면서 다른 부위로 퍼지거나 다른 사람에게 전염될 수 있습니다. 장기이식 등으로 면역억제제를 복용해 면역 상태가 떨어졌을 때도 장기간 지속될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사람유두종바이러스는 DNA 바이러스입니다. 피부에 접촉하면 각질 세포로 침투하며, 특히 피부에 작은 상처가 있거나 피부가 젖어 있는 경우 잘 침투합니다. 사람유두종바이러스는 각질 세포 내에서 바이러스 단백질을 만들고 증식하며 성장합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사마귀의 전반적인 유병률은 정확히 알려지지 않았습니다. 어린이나 면역 기능이 저하된 사람에게서 흔하며, 항문생식기 사마귀와 뾰족콘딜로마는 성접촉이 활발한 젊은 성인에서 가장 흔합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[초기에는 별다른 증상이 없다가 거칠고 융기된 표면을 가진 병변이 점차 커지고 튀어나옵니다. 병변이 커지면 통증을 일으킬 수 있습니다. 특히 손발에 생긴 사마귀는 걷거나 손을 사용할 때 통증을 일으킬 수 있습니다. 일부 병변에는 출혈이 동반되기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[특징적인 모양으로 진단할 수 있으나, 일부에서는 피부암 등과 감별을 위해 조직 검사를 시행합니다. 병리 조직에서 바이러스에 의해 변형된 각질 형성 세포를 관찰할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사마귀 치료에는 1) 감염된 표피 세포를 손상시켜 제거하거나, 2) 면역 반응을 일으키거나, 3) 바이러스에 감염된 피부 각질 세포를 제거하고 성장을 억제하는 방법을 사용합니다. 아직 사람유두종바이러스에 특이적인 항바이러스제는 없습니다. 
+사마귀에는 냉동치료를 가장 흔히 사용합니다. 병변 및 주변 정상 피부에 액화 질소(-196℃)를 분사하거나 면봉으로 도포해 각질층을 얼리고 해동하는 과정을 반복하면 감염된 세포가 손상됩니다. 치료 중 통증이 동반될 수 있고, 치료 후에 흉터나 신경 손상, 손발톱 변형이 나타날 수 있습니다. 
+수술적 절제, 전기 소작, 레이저 요법 등은 병변을 직접 제거하는 방식입니다. 정확한 깊이와 넓이로 치료할 수 있다는 장점이 있지만, 흉터가 남을 수 있고 재발률이 높다는 단점이 있어 주로 기존 치료에 반응이 없는 손발바닥 사마귀나 큰 항문생식기 사마귀에서 시도합니다. 
+살리실산과 같은 각질용해제나 항암제 성분인 5-플루오로우라실은 단독제제 혹은 혼합제제로 사용하며, 약물을 바른 후 밴드 등으로 밀봉하면 치료 효과를 높일 수 있습니다. 
+이미퀴모드와 디페닐사이클로프로페논(diphenylcyclopropenone, DPCP)은 면역반응을 유도하는 치료법입니다. 이미퀴모드는 면역조절제로 주로 난치성 사마귀에 사용하고, DPCP는 사마귀 병변에 도포하면 알레르기 접촉피부염을 일으켜 치료 효과를 나타냅니다. 
+그 외에도 블레오마이신을 직접 병변 내로 주사할 수 있습니다. 광범위한 사마귀에는 경구 레티노이드를 복용하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사마귀는 초기에 발견해 치료하면 비교적 쉽게 제거되므로, 의심되는 병변이 있을 때는 즉시 가까운 병·의원을 방문해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사마귀 병변의 크기가 큰 경우에는 치료 후 흉터가 남을 수 있으며, 손발톱 주변에 생길 경우 손발톱이 변형될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사마귀는 전염될 수 있으므로, 다른 사람의 사마귀 병변에 직접 접촉하지 않도록 합니다. 특히 항문생식기 사마귀, 뾰족콘딜로마는 전염성이 강하므로 성적 파트너에게 사마귀가 있으면 치료받도록 해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[118]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[어린이에게서 흔하며, 단체 생활을 하면서 전염될 수 있습니다. 초기에는 별다른 증상이 없을 수 있으므로 보호자는 정기적으로 사마귀가 흔히 생기는 얼굴이나 손발 등을 관찰하고, 의심되는 병변이 있으면 전문적인 진료를 받도록 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 사마귀가 자주 재발합니다. 치료가 잘못되었기 때문일까요?
+
+A. 눈에 보이는 사마귀 병변이 깨끗하게 제거되어도 여전히 주변에 바이러스가 남아있을 수 있습니다. 이때 바이러스에 대한 면역상태가 중요합니다. 남아 있는 바이러스를 제거할 정도의 면역력이 없으면, 시간이 지나면서 사마귀가 다시 자랍니다. 즉, 사마귀가 자주 재발하는 것은 치료가 잘못된 경우보다는 환자의 면역 상태에 따른 현상일 가능성이 높습니다. 이때는 사마귀 치료를 반복해도 재발할 가능성이 높습니다.
+
+Q. 사마귀를 뜯어서 피를 내면 치료할 수 있나요?
+
+A. 사마귀 조직에는 혈관이 많아 피가 나기 쉽습니다. 사마귀를 손으로 뜯으면 충분히 치료가 되지 않으며, 출혈이 쉽게 멈추지 않을 수 있습니다. 또한 자꾸 만지다가 손가락이나 다른 부위에 사마귀를 옮길 수도 있으므로 뜯어서 피를 내는 것은 피해야 합니다.
+
+Q. 발바닥에 딱딱한 것이 생기고 걸을 때 아픈 것은 다 티눈인가요?
+
+A. 발바닥에 병변이 생겨 걸을 때 아프다면 티눈이나 굳은살일 수도 있지만 사마귀일 수도 있습니다. 티눈이나 굳은살은 바이러스 감염이 아니라 지속적으로 기계적인 자극이 가해져서 각질이 두꺼워진 것입니다. 예를 들어 꽉 끼는 신발을 오래 신으면 압력을 많이 받는 새끼 발가락의 발등 쪽이나 발가락 사이에 티눈이 생길 수 있습니다. 티눈은 누르면 아픕니다. 굳은살은 티눈과 비슷하게 압력이나 마찰이 반복되어 생기지만, 티눈보다 좀 더 크고 통증은 적은 편입니다. 사마귀는 직접 압력을 받지 않는 발바닥이나 발가락에 생기는 경우가 더 많습니다. 또한 사마귀는 표면을 칼로 깎아 보면 점상 출혈반이 보이므로 구별할 수 있습니다.
+
+Q. 발바닥에 생긴 사마귀는 수술로 잘라내는 것이 가장 좋은가요?
+
+A. 사마귀는 바이러스에 대한 면역이 뒷받침되지 않으면 병변을 제거해도 흔히 재발합니다. 또한 수술로 인해 발바닥에 흉터가 생기면 그 자체가 지속적 통증을 일으키는 티눈의 원인이 될 수 있으므로, 수술적인 제거보다 다른 방법으로 먼저 치료받아 보는 것이 바람직합니다.
+
+Q. 항문생식기 사마귀에 감염되면 100% 자궁경부암이 발생하나요?
+
+A. 항문생식기 사마귀의 유전자형에 따라 암 발생 위험도가 다르고, 개개인의 면역 상태와 치료 여부 및 그 결과에 따라서도 위험도가 달라집니다. 그러나 위험도가 높아지는 것은 확실하므로 자궁경부암으로 발전하기 전에 전문의에게 검사와 치료를 받아야 합니다. 
+
+Q. 물사마귀도 사마귀의 하나인가요?
+
+A. 속칭 물사마귀도 바이러스 질환의 일종입니다. 또한 언뜻 보면 사마귀와 비슷하기도 합니다. 하지만 물사마귀의 원인 바이러스는 일반적인 사마귀와 완전히 다르며, 자세히 보면 병변의 형태도 아주 다릅니다. 물사마귀는 손발보다 몸통과 팔다리에 잘 생기며, 치료 방법도 통상의 사마귀 치료와 다릅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 안효현, 허은필, 이운하, 김경문, 박철종, 안지영 등. (2020). 감염피부질환. 이원주 (편저), 피부과학 (7판), 371-374쪽. 서울: 도서출판 정우의학.
+2. Sterling, JC. (2019). Human papillomavirus infections. In S. Kang, M. Amagai, A. L. Bruckner, A. H. Enk, D. J. Margolis, A. J. McMichael, J. S. Orringer (Eds.), Fitzpatrick's Dermatology (9th ed., pp. 3095-3106). New York: McGrawHill Education.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

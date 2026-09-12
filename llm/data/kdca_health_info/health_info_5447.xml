@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[혈청검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5447]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 혈청검사는 혈청 내 성분들을 측정하여 질병 진단과 치료 경과, 예후 판단 등에 사용되며, 건강 검진, 수술 전 검사, 감염질환 진단 등에 활용됩니다.
+• 혈청검사는 단백질, 지질, 효소, 호르몬 등 정상 성분 뿐만 아니라 감염질환에서 항원이나 항체를 측정하기도 합니다.
+• 혈액검사의 대부분이 혈청검사로 그 종류와 적응증이 다양합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 혈청검사란 혈청 중에 포함된 성분이나 물질을 측정하는 검사로 그 종류와 적응증도 다양합니다. 
+• 혈액 임상 화학검사는 질환에 따라 검출되거나 증감하는 혈청 내 성분을 측정하며, 그 종류가 무척 다양합니다. 혈액 임상 화학검사는 건강 검진, 수술 전 기본검사, 진단을 위해 진행할 뿐 아니라 질병의 중증도, 치료경과 및 예후를 평가하기 위해 시행합니다. 
+• 종양표지자 검사는 악성 종양의 선별, 진단, 예후평가, 치료반응 예측, 병기 결정, 재발 발견 및 치료효과 감시 등에 도움을 받기 위해 시행합니다. 
+• 감염질환의 혈청검사는 감염 의심 증상을 보이거나 위험요인에 노출된 경우 진행하고  일상적인 건강검진, 수술 전 기본검사 등의 적응증에서 시행합니다. 이 밖에도 감염질환에서 출현하는 항원이나 항체를 측정하여 진단, 경과관찰, 치료 판정, 예후평가 등에 이용합니다.
+
+1. 혈액의 구성 성분 
+혈액 중 세포 성분을 제외한 부분이 혈장이고, 혈장에서 섬유소원을 제거한 것이 혈청입니다. 시험관에 채취한 혈액을 가만히 세워두거나 원심분리(원심력을 이용하여 액체 및 고체를 비중에 따라 분리하는 일)하면 짙고 어두운 붉은색의 덩어리(혈병)와 엷은 노란색의 투명한 액체(혈청)로 나뉩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d01d507]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 혈청검사 
+혈청검사란 혈청 중에 포함된 성분이나 물질을 측정하는 검사입니다. 흔히 혈액검사라고 할 때 전혈이나 혈장을 이용하는 일부 검사를 제외하고 대부분이 혈청을 이용한 검사이며 그 종류와 적응증도 다양합니다. 혈청검사는 분석하는 성분의 종류, 측정방법 및 관련된 질환 등에 따라 구분할 수 있습니다. 단백질, 지질, 당질, 효소, 호르몬, 전해질  등 정상적으로 혈청에 존재하는 성분을 측정하기도 하고, 감염 등의 질환에서 출현하는 항원이나 항체를 측정하기도 합니다. 혈청 중의 특정 성분을 검출하는 방법에 따라 화학적 검사법, 면역학적 검사법, 분자 검사법 등으로 구분할 수 있습니다. 관련된 질환이나 장기에 따라 간기능검사, 신기능검사, 종양표지자 검사, 감염질환검사 등으로 구분하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한진단검사의학회. 진단검사의학 제6판. 범문에듀케이션. 2021.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[임상 화학 검사 ]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5531]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[감염질환의 혈청검사 ]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5533]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[종양표지자 검사 ]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5532]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

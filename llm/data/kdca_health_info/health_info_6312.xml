@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[스포츠 손상과 안전(족관절(발목 관절) 손상)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6312]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[224]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[최근 생활 스포츠에 대한 관심이 커지면서 스포츠 손상 중 가장 높은 빈도를 차지하는 것이 발목 손상입니다. 발목을 다치고 난 후 괜찮겠지 하는 생각(OK approach)으로 치료 시기를 놓쳐 만성적으로 발목인대 불안정성이 발생하기도 합니다. ‘단순한 발목 염좌는 없다’라는 원칙으로 접근해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[225]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[외측 발목 염좌(Lateral ankle sprain, LAS)는 보통 발목을 삐었다, 돌아갔다, 꺾였다, 삐끗했다 등 다양한 용어로 불립니다. 발목 염좌는 운동 중 방향을 바꾸거나, 점프하고 착지할 때 상대방 발을 밟는 등 급작스럽게 발목이 안쪽으로 돌아가면서 발생합니다. 발목을 삐면 발목의 바깥쪽 인대뿐 아니라 다양한 동반 손상이 발생하기 때문에 정확한 진단과 치료가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[발생원/원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[226]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발목 염좌는 주로 내측으로 발이 꺾여 발생합니다(내번 손상). 스포츠를 즐기는 사람의 약 80%가 이런 염좌를 경험합니다. 특히 농구, 축구 등과 같이 신체를 접촉하면서 점프와 달리기가 모두 포함된 종목에서 더 많이 발생합니다. 
+발목이 내측으로 꺾이면 바깥쪽 인대가 손상되는데, 꺾인 정도가 심하면 내측 삼각인대도 손상되기 쉬우며, 외측으로 꺾이거나 발목을 엉덩이로 깔고 앉으면서 발이 외회전되는 부상을 입기도 합니다. 발목을 다친 형태에 따라서 손상된 인대가 다르고, 회복 시기도 다르기 때문에 발목을 어떻게 다쳤는지 알아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[발생원/원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[226]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b5f66bb2b4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 발목 염좌(Ankle Sprain) 및 인대의 파열(ligament rupture)
+발목 염좌는 발목의 외측 인대, 즉 뼈와 뼈를 연결하는 인대가 늘어나거나 파열되는 것입니다. 발목의 염좌는 넘어지거나 외력을 받아서 발목 관절이 꺾일 때 발생하는데 대부분 내번(inversion)되기 때문에 외측 인대가 손상되지만, 내측 인대 손상도 드물지 않습니다. 심하면 골절을 동반할 수도 있습니다. 아래 그림과 같이 발목 복숭아뼈 뒤쪽이 아프다면 골절이 있는지 꼭 확인해야 합니다(오타와 룰[Ottawa rule]).]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b5f67562f7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발목 염좌가 흔히 발생하는 인대는 전거비 인대(anterior talofibular ligament)이지만, 심하면 종비 인대(calcaneofibular ligament) 손상도 동반됩니다. 인대 손상 시 건이나 뼈, 연골에도 손상이 있을 수 있습니다. 발목을 다친 후 하루 이상 발을 바닥에 디딜 수 없으며, 붓고 통증이 가라앉지 않으면 보통 발목 인대가 완전 파열되고, 발목 관절 속에 출혈이 발생한 경우입니다. 이때는 병원을 방문해 손상 정도를 정확하게 평가해야 합니다. 
+발목 염좌 후 30분 이내에 걸을 수 있고, 멍이 들거나 붓지 않고, 하루 이내에 통증이 사라져 일상생활이 바로 가능하다면 보통 인대의 완전 파열보다는 약간의 신전(stretch)이나 부분 파열로 특별한 치료 없이 잘 회복됩니다. 그러나 발목관절이 잘 움직이지 않고, 통증이 심해서 혼자 걸을 수 없으며, 하루 이상 지나도 걷기가 힘들다면 발목 인대가 완전 파열된 것입니다. 이때는 POLICE원칙을 철저히 지켜야 잘 회복할 수 있습니다. 
+P(protection) - 보호해주어야 합니다. 다시 다치지 않도록 석고고정, 보조기 착용 등으로 발목이 움직이지 않게 합니다. 
+OL(optimal loading) - 적절한 체중부하를 합니다. 발목인대는 파열되어도 급성기가 지나면 발을 지면에 디딜 수 있습니다. 가능한 빠르게 체중을 싣는 것이 회복에 도움이 됩니다. 
+I(icing) - 얼음찜질을 해 통증과 부종을 줄여줍니다. 가능한 빨리 발목의 부종을 줄여야 회복이 빨라집니다. 
+C(compression) - 압박해줍니다. 압박붕대나 보조기를 착용해 움직일 때 더 붓지 않도록 합니다. 
+E(elevation) - 발을 심장 높이보다 조금 높게 둡니다. 역시 부종이 잘 빠지도록 하는 조치입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b6a5f0f4a1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발목인대가 파열된 초기 급성기에는 HARM원칙에 따라 피해야 할 것들이 있습니다. 
+H(heat) - 따뜻한 찜질은 보통 1주일이 지난 후에 시작하는 것이 좋습니다. 
+A(alcohol) - 술을 마시면 더 붓기 때문에 금기입니다. 
+R(running) - 통증을 참고 운동하면 더 심하게 다치거나 발목 부종이 심해지기 때문에 금기입니다. 
+M(massage) - 손상 직후 하루 이틀은 마사지를 하지 않는 것이 좋습니다. 급성기가 지나면 부종 조절을 위해 시행할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b5f68100a4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[보통 발목인대가 파열되면 꼬박 10일을 고정합니다. 보조기나 석고 부목으로 철저히 고정하고, 씻을 때 외에는 잠잘 때도 착용해야 합니다. 10일이 지나면 가능한 한 빨리 발목을 정상 상태로 회복하기 위해 여러 가지 치료를 시행합니다. 발목 돌리기(ankle circle)와 같은 관절 운동을 통해 부종을 줄이고 발목 움직임을 회복시킬 수 있습니다. 고무밴드를 이용해 발목 근력 강화 운동을 시행하고, 밸런스 패드를 이용해 하체 및 전체적인 밸런스 운동을 해야 합니다. 발목 부상 후에는 종아리 근육이 수축하는 경우가 많아 아킬레스와 종아리 근육 스트레칭이 도움이 됩니다. 다친 후 1주일은 소염진통제 등으로 통증 및 부종을 조절합니다. 발목 인대가 파열되면 폴리스(POLICE) 원칙을 철저히 지키고, 재활운동을 열심히 해야 합니다. 발목의 근력이나 밸런스 능력이 떨어진 채로 다시 스포츠를 시작하면 재부상 위험이 높습니다. 발목 염좌가 수차례 반복되면, 발목의 만성 인대 불안정성으로 진행하며 만성 통증이 동반되기도 합니다. 스포츠를 할 때 불안감이 들어 기량을 발휘할 수 없습니다. 발목 인대를 수차례 다쳐 인대 자체가 파열되어 붙지 않거나 늘어나면 수술로 인대를 봉합해주어야 합니다.   
+
+ 
+2) 발목 내측 삼각인대 손상 
+발목을 외번되는 방향으로 다치면 내측 발목 인대가 손상됩니다. 주로 공을 밟거나 상대방과 접촉해 발목에 과도한 힘이 가해지면서 다칩니다. 축구할 때는 바깥쪽에서 태클이 들어와 안쪽의 인대가 늘어나면서 발생합니다. 삼각인대는 얕은 층과 깊은 층이 있는데 깊은 층이 파열되면 발목이 매우 불안정해집니다. 또한 깊은 층 파열에는 바깥쪽 복숭아뼈(비골)의 골절이 동반되는 경우가 많습니다. 오타와룰에 따라 발목의 내측과 외측 후방이 아프면 골절 및 내측 삼각인대 파열을 의심하고, 실제 골절이 일어나 뼈 간격이 벌어졌다면 수술적 치료를 시행해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b5f687c6c7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 경비인대 파열 
+발목의 외회전으로 염좌가 생기면 경비인대가 파열될 수 있습니다. 이때는 외측이나 내측 발목인대를 다친 것에 비해 회복하는 데 2배 이상의 시간이 필요합니다. 운동선수가 경비간 간격이 벌어지고 뒤꿈치를 들 수 없는 정도로 심한 손상을 입으면 수술적 치료가 필요할 수 있습니다. 발목의 경비간 간격이 벌어지면 장기적으로 발목 관절염이 발생하므로 놓치면 안 되는 부상입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b5f68f9ca1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[경비인대 파열이 있으면 2주간 발목을 철저히 고정하고, 초기 재활을 시작할 때 발목 외회전이 일어나지 않도록 주의해야 합니다. 쪼그려 앉는 스쿼트 동작이나, 발로 바닥을 딛고 턴하는 동작도 초기 재활에서는 시행하지 않습니다. 운동 복귀에는 8주 이상의 재활 치료가 필요합니다. 
+
+
+4) 발목의 연골 손상
+발목 염좌를 적절히 치료했음에도 통증이 지속되는 경우가 있습니다. 보통 4~6개월간 비수술적 치료 및 재활을 열심히 하면 통증이 거의 줄어 일상생활에 문제가 없습니다. 그러나, 특정 동작을 취할 때 발목에 통증이 있으면서 붓거나, 비특이적인 통증이나 불편한 느낌이 있다면 자기공명영상(MRI)을 촬영해보는 것이 좋습니다. 연골 손상은 단순방사선 사진으로 잘 보이지 않기 때문입니다. 검사 후 연골 손상이 발견되고 손상 부위가 벌어져 있다면 지속적인 통증의 원인이 되므로 관절경으로 제거하고 다발성 천공술 등 연골 재생 수술을 시행합니다. 사이즈가 크다면 뼈이식이나 연골 이식이 필요합니다. 연골을 다쳐서 수술을 받았다면, 축구 같은 접촉성 운동을 다시 시작하는데 평균 7개월의 회복 기간이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b6a5f5e467]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[228]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2020년 스포츠안전사고 실태조사에 따르면 생활스포츠에서 발목을 다치는 경우가 38.15%로 보고되어 가장 흔한 손상으로 나타났습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[중요성]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[230]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발목 염좌로 파열된 인대를 적절히 치료하지 않으면 만성적인 발목 통증이나 불안정성이 발생합니다. 발목 인대 파열은 POLICE 원칙을 적용해 철저히 치료해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[건강문제]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[231]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발목인대 파열 후 적절한 치료를 받지 않으면 재부상 위험이 높아지며, 연골을 다치거나, 만성 발목인대 불안정성이 발생합니다. 만성 발목인대 불안정성을 진단받고 통증이 지속되면 발목인대 봉합술 등 수술이 필요하고, 장기적으로는 발목의 관절염으로 진행할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 대처]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[232]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발목을 다치지 않으려면 발목 보강운동과 밸런스 훈련이 중요합니다. 발목을 한 번도 다치지 않은 사람은 있지만, 한 번만 다치는 사람은 없다고 합니다. 한 번 다치면 발목 재활 운동을 철저히 시행해 재부상을 입지 않도록 해야 합니다. 발목인대가 파열되면 약 6개월간 운동 시 보조기를 착용하거나 테이핑으로 발목을 보호해주는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[평가 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[233]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발목인대가 파열되면 부종과 통증이 있기 때문에 부상 직후에는 검사해도 잘 나타나지 않습니다. 보통 다친 직후에는 보호, 부목 고정 등을 철저히 하고, 약 5일 후 부종이 빠지면 발목을 검사합니다. 전방전위검사를 시행해 인대가 파열된 위치가 벌어지는지 확인합니다. 경비인대 파열이 의심되면 외회전 검사를 시행해 경비인대 위치에 통증이 있는지 확인합니다. 외회전 검사가 양성이라면 더 철저히 고정하고 재활에 신경써야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[평가 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[233]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b6a5fae5c7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[234]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 발목인대가 끊어지면 저절로 붙나요?
+
+A. 네, 발목인대는 비수술적 치료로도 잘 붙습니다. 전방십자인대처럼 관절 내에 있어 파열되면 잘 붙지 않는 인대도 있지만, 발목인대는 POLICE 원칙을 잘 지키면 불안정성 없이 잘 낫습니다. 그러나 만성적으로 진행하는 경우가 약 30%에 이르므로 재활 치료를 철저히 해 재부상을 당하지 않도록 하는 것이 중요합니다.
+
+Q. 발목인대 파열 수술은 언제 필요한가요?
+
+A. 젊은 운동선수는 발목인대가 완전 파열되었더라도 이후 만성 불안정성이 발생할 가능성이 높다고 판단되는 경우에만 수술을 시행합니다. 그러나, 1주일 이내에 발을 디딜 수 있고 부종이 잘 빠지면서 회복된다면 비수술적 치료를 선호합니다.
+발목 인대 파열 후, 약 1년 정도 경과를 관찰할 때 계속 발목이 접질리고, 통증이 있고, 25% 이상 기능적 감소가 있는 경우 수술을 시행합니다. 이런 만성 발목 불안정성은 발목 관절염으로 진행할 수 있기 때문입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[스포츠 손상과 안전]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6309]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[스포츠 손상과 안전(견관절(어깨 관절) 손상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6311]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[스포츠 손상과 안전(슬관절(무릎 관절) 손상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6310]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

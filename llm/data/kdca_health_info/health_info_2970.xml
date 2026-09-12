@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[심낭염(심장눌림증)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[2970]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 심장눌림증은 심낭 내 체액이나 혈액이 증가해 심장을 압박하고, 심장 내로 혈액이 제대로 채워지지 않는 응급 상태입니다.
+• 주요 원인으로는 심낭염, 악성종양, 결핵, 요독증, 외상이나 수술 후 출혈 등이 있습니다.
+• 대표적인 증상은 호흡곤란이며, 저혈압으로 인한 어지럼증이나 실신, 심한 경우 심정지까지 발생할 수 있습니다.
+• 진단은 신체검사와 심전도, 심장초음파 등을 통해 심장 압박과 삼출액을 확인하여 이루어집니다.
+• 치료는 응급으로 심장막천자를 시행해 심낭액을 제거하며, 경우에 따라 수술을 시행할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심장눌림증은 심장을 둘러싼 심낭 안에 여러 가지 원인에 의해서 축적된 체액이나 혈액의 양이 증가해 심장을 압박하고, 그로 인해 심장 내로 전신 순환에 필요한 혈액이 충분히 들어오지 못하는 상태입니다. 이는 혈압이 떨어질 수 있는 응급 상황으로 심낭액을 뽑아내는 심장막천자를 응급으로 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심낭염을 유발할 수 있는 모든 질환에서 심장눌림증이 생길 수 있습니다. 특발성(원인불명) 혹은 바이러스성 심낭염, 악성종양, 결핵, 세균심낭염, 신장 기능이 감소되어 나타나는 요독증 등이 원인일 수 있습니다. 그 외에도 심장 시술이나 수술, 외상 등으로 인한 심장막내 출혈에 의해서도 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[가장 흔한 증상은 호흡곤란입니다. 저혈압으로 어지럼증을 호소하거나 실신하기도 하고, 처치가 늦어지는 경우 심정지가 발생할 수도 있습니다. 만성적으로 발생한 경우 가슴 답답함, 전신무력감, 피로감, 말초부종을 호소할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1894cfed3196]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[신체 검사에서 혈압이 낮고, 목정맥이 확장되며, 심음이 작고 희미하게 들릴 수 있습니다. 가슴 X선 검사에서 심장비대가 보일 수 있으며, 심전도에서 심장 파형이 전체적으로 낮아져 있습니다. 심장초음파 검사로 심낭 주위 삼출액에 의해 심장이 눌린 모습과 이로 인한 변화를 확인할 수 있어 진단에 큰 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심장눌림증은 응급상황으로 심장막 안의 액체를 뽑아내는 심장막천자를 응급으로 시행하며, 경우에 따라 수술을 시행하기도 합니다. 심장막천자나 수술을 준비하는 동안 수액이나 혈압을 상승시키는 약제를 투여할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Libby, P., Bonow, R.O., Mann, D.L., Tomsalli, G.F., Bhatt, D.L., Solomon, S.D. (2021). Braunwald’s Heart Disease: A Textbook of Cardiovascular Medicine (12the ed.). Amsterdam:Elsevier.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[심낭염]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2967]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[심낭염(급성 심낭염)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2968]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[심낭염(교착 심낭염)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2971]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[심낭염(만성 심낭삼출)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2969]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

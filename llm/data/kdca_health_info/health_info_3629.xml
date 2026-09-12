@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[척추의 형태 이상(척추후만증)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[3629]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[시상면에서의 척추 불균형의 대표적인 질환인 후만증은 척추체나 추간판 또는 주위 근육의 이상으로 인해 이러한 정상 만곡이 소실되고 흉부의 후만곡이 더욱 증가하거나, 경부와 요부에서 후만 변형을 보이는 경우를 말합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d0956]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 청소년기 후만증 (Scheuermann 병)
+
+청소년기에 등이 굽은 불량한 자세와 통증을 호소하는 대표적인 척추 후만을 보이는 질환입니다. 그 원인은 아직 확실히 밝혀지지 않았으나 호르몬 이상, 유전적 성향, 영양 부족, 골다공증, 물리적 요인 등 다양하게 언급되고 있습니다.
+
+청소년기에 0.4~8.3%의 유병률을 보이고 있으며 남녀의 비가 같고 주로 10대 후반에 굽은 등으로 인한 불량 자세, 흉추부 및 흉요추부, 요추부 통증을 호소합니다.청소년기 후만증은 불량 자세에 의한 후만 변형과 달리, 자세 교정으로 쉽게 치유되지 않는 편입니다. 성장이 왕성해짐에 따라 통증이 더욱 심해지고, 성장이 멈추면 통증은 사라지더라도 기형은 계속 남아 이차적인 척추 변형을 초래하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d0c21]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 강직성 척추염으로 인한 후만증
+염증성 요통 및 방사선학적 천장 관절염을 동반한 척추 관절병증을 말하며, 유전자 검사상 HLA B27과 관련이 높습니다. 이러한 염증성 요통은 40세 이전에 나타나고, 점진적으로 진행하며 3개월 이상 지속되고, 아침 기상 후 3시간 이상 강직 상태가 지속되며 운동 후 호전되는 점이 특징입니다. 
+질환이 더 진행하면 흉부 후만증과 경부 강직이 나타나 앞을 쳐다보는 것이 힘들게 될 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d0a17]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 외상 후 후만증 
+흉요추부 골절 후 나타나는 중요한 후유증의 하나로, 수술적 치료가 필요한 척추 외상 환자가 수술을 받지 않았거나 심한 전방추체의 손상이 있는데도 불구하고 수술적 보강이 불충분했던 경우에 나타납니다.  
+이런 경우 환자의 나이 및 골질, 특히 골다공증의 심한 정도가 중요한 요소로 작용합니다. 증상은 다른 후만증과 마찬가지로 변형 부위에 통증을 호소하며, 서서히 진행하는 불안정성과 척추관 협착증과 유사한 신경 증상이 나타나기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d0ab8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4) 노인성 척추후만증 (Senile kyphosis) 
+척추의 퇴행성 변화로 인한 추간판의 변화와 등 근육의 근력 약화, 폐경기 후 골다공증과 노인성 골다공증이 주요 원인으로 만성적인 자세 불량에 의해 더욱 악화됩니다. 나이가 많은 환자의 요추에서는 척추관 협착증이 흔히 동반되며, 이때 허리를 구부정하게 하는 후만 자세를 취하면 요통 및 하지 방사통이 감소하거나 소실되어 계속적인 후만 자세를 취하게 됩니다. 이로 인해 퇴행성 변화가 촉진되고, 등 근육의 쇠약 및 위축이 더욱 심해져 후만증이 고착되며, 생활 습관이나 쭈그리고 앉아 일하는 나쁜 자세 등도 노인성 후만증을 고착·악화시킵니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d0b79]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[척추후만증은 자세가 나쁜 경우에 가장 흔하게 발생합니다. 그 밖에 청소년기 후만증(Scheuermann 병), 선천성 척추 후만증, 종양에 의한 후만증, 노인성 척추후만증, 결핵성 척추후만증, 강직성 척추염 및 외상이나 광범위한 추궁판 절제술 후 등에서도 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[청소년기 후만증이나 강직성 척추염의 경우를 제외한 대부분의 척추후만증에서는 심한 요통과 척추관 협착증의 증상인 하지 방사통, 간헐적 파행, 보행 장애 등이 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치료는 자세를 바로 하도록 노력하며 동시에 복부 및 등쪽 근육을 강화시키는 운동을 해야 합니다. 하지만 심한 경우에는 보조기를 착용하는 것이 좋으며, 보존적으로 교정될 가능성이 적거나 후만곡이 진행하거나 신경 장애가 동반된 경우에는 수술적 치료가 필요합니다. 대표적인 수술적 치료로는 후방 척추경 절골술이 있습니다. 
+
+1) 운동 및 자세교정 
+대개의 환자가 허리가 구부정한 상태로 뒷머리, 등, 발뒤꿈치를 벽에 대고 서기가 어렵습니다. 항상 똑바른 자세를 유지하고 척추 신전 운동을 실시하며 되도록 베개 없이 엎드려 자거나 얇은 베개를 사용해야 합니다. 또한, 작업 자세나 환경을 구부정한 자세가 유발되지 않도록 고쳐야 합니다. 
+
+간단한 운동 방법은 매일 아침이나 저녁에 딱딱한 마루에 20분씩 엎드려 있는 것과 흉곽의 늑골 접합부가 강직되면 흉곽이 팽창하지 않아 숨이 차게 되므로 자주 심호흡 운동을 하는 것입니다. 운동은 조금씩이라도 매일 하는 것이 좋으며 에어로빅, 수영 등은 허리 및 등을 유연하게 해주며 다른 관절에도 도움이 됩니다. 
+
+반면 격투기 같이 신체 접촉이 많은 운동은 관절에 손상을 줄 수 있으므로 피하는 것이 좋고, 골프도 등을 구부린 상태에서 하기 때문에 좋은 운동이 아닙니다.
+
+
+2) 수술적 치료 
+강직성 척추염일 경우 수술적 치료는 정면을 바로 주시할 수 없을 정도로 심하게 척추가 휘어져 버린 경우나 관절의 유합과 변형으로 장애가 심한 경우 교정을 위해 시도합니다. 그러나 환자들에 따라 똑바로 누워 머리가 바닥에 닿지 않거나 후만증에 의해 복부가 심하게 압박되어 소화 장애가 오는 경우도 있습니다. 고관절염으로 관절 강직이 초래되면 인공 관절 치환술이 필요하고 척추의 굴곡 변형이 심한 경우 바른 자세를 위한 절골술 등이 필요할 수 있습니다. 절골술은 심한 척추 변형 환자에게 교정과 체간 균형의 만족스러운 결과를 얻을 수 있는 적극적인 수술 방법입니다. 절골술의 종류에는 개방성 쐐기 절골술, 다분절간 절골술, 폐쇄성 쐐기 절골술, 척추경 제거 절골술 등이 있으며, 각각의 방법에 따른 적응증과 장단점 등은 정형외과 전문의와 상담하는 것이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d0ce2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[척추의 형태 이상]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3627]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[척추의 형태 이상(척추측만증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3628]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[일자목(거북목)증후군]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5972]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 거북목 증후군은 스마트폰, 컴퓨터 사용 등으로 고개를 숙인 자세가 지속되어 목과 어깨에 통증이 생기는 질환입니다.
+• 고개를 15도 숙이면 목에 걸리는 하중이 12 kg으로 늘어나며, 각도가 커질수록 목에 가해지는 부담도 커집니다.
+• 주요 증상으로는 목과 어깨의 통증, 두통, 눈의 피로, 그리고 드물게 불면증 등이 있습니다.
+• 치료는 약물, 스트레칭, 근육 강화 운동, 도수 치료 등이 있으며, 급성기에는 얼음찜질, 이후에는 온찜질이 도움이 됩니다.
+• 예방을 위해 스마트폰 사용 시간을 줄이고, 올바른 자세를 유지하며, 중간 중간 스트레칭이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[거북목 증후군은 장시간 고개 숙인 자세를 유지하는 것으로 인해 목 통증이 발생하는 질환입니다. 우리나라에서는 주로 거북목 증후군이라고 부르지만, 외국에서는 일자목 증후군(Forward head posture), 라운드 숄더 자세(Rounded shoulder posture), 텍스트 넥 증후군(Text neck syndrome) 등으로 다양하게 지칭합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1837d6bbbb24]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고개를 숙인 자세로 스마트폰이나 태블릿, 컴퓨터 등을 자주, 장시간 사용하는 것이 주요한 발생 원인입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[거북목 자세가 오래 지속되면 목 뼈 주변의 근육 및 인대, 디스크의 미세 손상 및 노화로 작은 외력에도 부상이 쉽게 발생하고, 통증이 쉽게 유발될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[올바른 자세에서 머리의 무게는 5 kg 정도입니다. 15도 정도 고개를 숙인 자세에서는 머리의 하중이 12 kg으로 증가합니다. 고개를 숙인 각도가 30도, 45도, 60도로 증가하면 머리의 하중도 18 kg, 22 kg, 27 kg으로 증가합니다. 
+스마트폰을 이용할 때는 대개 고개가 37도에서 47도 정도로 숙여지는데, 이로 인해 평상시의 3~4배 정도의 하중이 목을 지지하는 근육, 인대, 관절에 부하됩니다.
+이로 인해 목 뒤쪽 근육 및 앞쪽 가슴 근육이 과도하게 수축해 근육 피로, 연축, 통증이 발생합니다. 또한 목 뒤쪽 인대가 약화되어 불안정해지면서 목 디스크 및 후관절의 미세 손상 및 통증이 생깁니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1837d6c9d351]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[한 연구에 따르면 일자목 혹은 거북목(경추의 전만이 12.5도 미만인 경우) 상태는 25~42세 인구 중 70%에 이를 정도로 흔합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[가장 흔한 증상은 목 주변과 어깻죽지의 통증입니다. 또한 허리나 팔에도 통증이 발생할 수 있습니다. 
+눈이 뻑뻑하거나 건조한 느낌, 두통도 생길 수 있습니다. 
+
+피로감, 정신적 압박감, 불안, 짜증 등 심리적 이상과 드물지만 불면증이 동반될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[거북목 상태는 외이도(귓구멍)에서 내린 수직선이 어깨의 중심에서 내린 수직선보다 앞에 놓인 상태입니다. 이를 이용하여 자가 진단해 볼 수 있습니다. 거북목 상태에 해당하는 사람이 목이나 어깨에 통증을 느낄 때 거북목 증후군으로 진단합니다.
+다른 목 질환과의 감별을 위해 경추부 X선 촬영(X-ray), 자기공명영상검사(MRI) 등의 정밀검사가 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1837d72ae6e6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[예방이 가장 중요합니다. 스마트폰 등의 전자기기를 사용할 때 목이 앞으로 구부러지지 않도록 의식하고 자세를 교정하도록 노력합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[거북목 증후군에 대해 약물로 치료하는 방법이 정립되어 있지는 않고, 경험적으로 소염제, 진통제, 근육이완제 등을 사용해볼 수 있으나 의사의 처방에 따르는 것이 안전합니다.
+통증이 심한 경우 경추부 근육이나 관절에 혹은 경추 신경에 주사 치료 등을 시도해볼 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 운동 치료에 대한 여러 문헌이 보고되었으나, 아직 표준화된 운동 치료 방법은 없습니다.
+2. 근육 강화 및 스트레칭을 이용한 기본 운동과 안정성 운동을 병행하면 효과적이라는 보고가 있습니다. 
+• 근육 강화는 주로 목 앞쪽의 속 근육과 등 뒤쪽, 날개뼈 사이의 근육을 대상으로 합니다. 턱을 당기거나 날개뼈를 모으는 동작을 약 20-30초간 유지합니다.
+
+• 스트레칭은 주로 목 뒤쪽 근육과 앞쪽 가슴 근육을 대상으로 합니다. 스마트폰 사용 중 30~40분마다 약 10 회 정도 목을 가볍게 돌리고, 약 10~30초 정도 목 전후면의 근육을 늘려줍니다.
+
+• 목 주변 근육 스트레칭은 근육이 가볍게 늘어난다는 느낌으로 수행해야 합니다. 목 주변 근육을 팔다리 근육 스트레칭을 할 때처럼 뻐근한 느낌이 들 정도로 과도하게 늘리게 되면 오히려 부상이 발생할 수 있습니다.
+• 안정성 운동은 주로 탄력밴드를 이용한 래터럴 레이즈 운동이 대표적입니다. 래터럴 레이즈 운동을 할 때는 빠르지 않은 속도로 3~5세트, 1세트 당 10~20회 정도 수행하는 것이 좋으며, 세트 간 약 1~2분 휴식을 갖습니다. 래터럴 레이즈 운동은 주 2~3회 정도 시행하는 것이 좋습니다. 운동 시 어깨 높이 이상으로 탄력 밴드 손잡이를 올리는 경우 어깨 부상이 발생할 수 있으므로 주의하여 시행합니다.
+
+3. 스마트폰을 사용하지 않고 쉬는 것도 중요합니다.
+
+4. 급성기에는 하루 이틀 얼음찜질을 시행하고, 이후 온찜질을 시행해볼 수 있습니다.
+
+5. 목 주변 근육을 가볍게 마사지합니다.
+
+6. 일부 연구에서 도수 치료나 침 치료도 도움이 될 수 있다고 보고했습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1837d7cc2da3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1837d6e1bfa8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1837d6e80775]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[거북목 증후군 예방을 위한 몇 가지 원칙은 다음과 같습니다.
+1. 스마트폰 등의 사용 시간을 가능한 한 줄이고, 중간 중간 쉬는 시간(스마트폰 사용을 중단하는 시간)을 자주 갖습니다.
+2. 한 자세로 오래 사용하지 않도록 합니다.
+3. 거치대 등으로 눈 높이에 맞도록 하여 목이 구부러지지 않게 합니다.
+4. 장시간 타이핑을 피합니다. 문자보다는 통화를 합니다.
+5. 무거운 장비를 한 손으로 오래 들고 있지 않도록 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1837d6f058f8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 거북목 교정기기는 의료적으로 효과가 입증되었나요?
+
+A. 거북목 교정기기의 효과에 대한 과학적 근거는 아직 부족합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[121]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[거북목, 거북목 증후군, 일자목, 라운드 숄더, 텍스트 넥 증후군, 목 통증]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Correia, I. M. T., Ferreira, A. S., Fernandez, J., Reis, F. J. J., Nogueira, L. A. C., Meziat-Filho, N. (2020). Association Between Text Neck and Neck Pain in Adults. Spine (Phila Pa 1976). 46(9). 571-578.
+2. Damasceno, G. M., Ferreira, A. S., Nogueira, L. A. C., Reis, F. J. J., Andrade, I. C. S., Meziat-Filho, N. (2018). Text neck and neck pain in 18-21-year-old young adults. Eur Spine J. 27(6). 1249-1254.
+3. David, D., Giannini, C., Chiarelli, F., Mohn, A. (2020). Text Neck Syndrome in Children and Adolescents. Int J Environ Res Public Health. 18(4). 1565. 
+4. Fiebert, I., Kistner, F., Gissendanner, C., DaSilva, C. (2021). Text neck: An adverse postural phenomenon. Work. 69(4). 1261-1270.
+5. Mahmoud, N. F., Hassan, K. A., Abdelmajeed, S. F., Moustafa, I. M., Silva, A. G. (2019). The Relationship Between Forward Head Posture and Neck Pain: a Systematic Review and Meta-Analysis. Current Rev Musculoskeletal Med. 12(4). 562-577.
+6. Neupane, S., Ali, U., Mathew, A. (2017). Text Neck Syndrome-Systematic Review. Imperial journal of interdisciplinary research. 3(7). 141-148.
+7. Salahzadeh, Z., Maroufi, N., Ahmadi, A., Behtash, H., Razmjoo, A., Gohari, M., Parnianpour, M. (2014). Assessment of forward head posture in females: observational and photogrammetry methods. Journal of Back and Musculoskeletal Rehabilitation. 27(2). 131-139.
+8. Sheikhhoseini, R., Shahrbanian, S., Sayyadi, P., O’Sullivan, K. (2018). Effectiveness of Therapeutic Exercise on Forward Head Posture: A Systematic Review and Meta-analysis. J Manipulative Physiol Ther. 41(6). 530-539.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

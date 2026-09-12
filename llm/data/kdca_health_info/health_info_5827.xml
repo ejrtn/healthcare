@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[변비]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5827]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 변비는 배변 횟수 감소(주 3회 미만), 단단한 변, 불완전한 배변감, 과도한 힘주기, 항문폐쇄감 등이 6개월 전부터 시작되어 지난 3개월 동안 지속되는 상태를 말합니다.
+• 변비는 대장과 직장의 운동기능장애, 갑상선기능저하증, 당뇨병, 치매, 특정 약물, 우울증 등으로 인해 발생하며, 나이가 들수록, 남자보다 여자에게서 더 자주 나타납니다.
+• 치료는 배변 습관 개선, 적절한 신체활동, 충분한 식이섬유와 수분 섭취, 균형잡힌 식사를 하며, 필요시 약물치료와 바이오피드백 훈련을 병행할 수 있습니다.
+• 배변 습관 개선에는 변의가 생기면 참지 않고 배변함, 일정한 시간에 변기에 앉는 것, 장시간(10분 이상) 앉아 있지 않는 것 등이 포함됩니다.
+• 체중 감소, 혈변, 빈혈, 발열 등의 증상이 동반되거나 대장암, 염증장질환의 가족력이 있는 경우에는 병원을 방문하여 검사를 받는 것이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[159]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[의학적으로 변비는 배변 횟수의 감소(주 3회 미만), 단단한 변, 불완전한 배변감, 배변할 때 과도한 힘주기, 항문 폐쇄감, 배변을 유도하기 위하여 수지조작이 필요한 경우 등으로 정의합니다. 증상은 최소 진단 6개월 전부터 시작되고 지난 3개월 동안 존재해야 합니다. 또한 복통이나 더부룩함(bloating)이 있더라도 주 증상이 아니어야 하며, 과민장증후군 진단에 부합하지 않아야 합니다. 변비는 전 인구의 5~20%가 증상을 호소할 만큼 매우 흔한 증상이며, 연령이 증가할수록 그 빈도가 증가하고 남자보다는 여자에게 흔하게 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대장은 기다란 관 모양으로 위치에 따라 맹장, 상행결장, 횡행결장, 하행결장, S-자결장(구불 결장), 직장으로 나눌 수 있으며 총 길이는 1.5 m 입니다. 대장의 내용물은 대부분 음식물 찌꺼기와 수분, 전해질, 세균 그리고 가스로 이루어져 있습니다. 대장은 이 중 수분과 전해질을 흡수하고, 배변과 배변 사이에 장 내용물을 저장하였다가 항문 밖으로 배출시키는 역할을 합니다. 직장과 연결된 항문 역시 배변에 아주 중요한 역할을 합니다. 항문관의 길이는 약 3~4 cm이며, 주변에 내항문괄약근, 외항문괄약근, 항문거근 등 배변과 관련한 근육이 많이 분포해 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc67b1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[변비를 이해하기 위해서는 정상적인 배변이 어떻게 이루어지는가를 이해하는 것이 중요합니다. 정상 배변은 대장 및 항문을 둘러싸고 있는 여러 근육의 협조에 의해 발생하게 됩니다. 실험적인 연구에 의하면 연동운동이 상행결장에서 시작해 직장 쪽으로 움직이면 동시에 내항문괄약근이 이완하게 됩니다. 아침에 일어나 식사를 하면 정상적인 대장 근육의 활동이 증가해 이러한 과정이 시작하게 됩니다. 항문강 윗부분에 대변이 밀려들어오면 배변을 재촉하게 되지만 배변을 참아야 할 때는 오히려 대장의 내용물이 거꾸로 움직이고 전 대장의 통과가 느려지게 됩니다.
+직장을 비우기 위해서는 앉거나 쭈그린 자세가 필요한데, 그렇게 되면 앞뒤 방향으로 있던 항문관이 하늘을 향해 바로 서게 되어 변이 쉽게 빠져나갈 수 있습니다. 이와 함께 횡경막과 복근이 수축하면 골반 내 압력이 올라가고 동시에 골반저는 이완하면서 변 배출을 보다 쉽게 할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6ee51e4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[변비의 원인은 크게 다른 질환에 의해 이차적으로 증상이 발생한 경우와 명확한 원인 없이 대장, 직장의 운동기능장애로 인해 발생하는 원발성 또는 기능성 변비로 나눌 수 있습니다. 
+
+1. 원발성 변비 
+원발성 변비는 크게 대변의 대장통과 시간이 지연되어 발생하는 서행성 변비와 대장통과 시간은 정상이지만 내항문괄약근이 이완되지 않는 등 항문 주위 근육의 협조장애(골반저 조율장애, Dyssynergic defecation)로 인한 직장출구 폐쇄증으로 나눌 수 있습니다. 정상인은 배변 시 힘을 주면 무의식적으로 골반저 횡문근이 이완을 하나 직장출구 폐쇄증이 있는 환자는 이완 대신 오히려 수축을 하게 합니다. 이러한 현상을 항문근 실조(Anal dyssynergia), 항문경(Anismus) 또는 강직성 골반(Spastic pelvic floor)이라고 합니다. 
+
+2. 이차적 변비 
+ 변비 증상이 이차적으로 발생할 수 있는 주요 원인은 다음과 같습니다.
+① 전신 질환에 의한 변비: 갑상선기능저하증, 당뇨병
+② 중추신경질환이나 장을 지배하는 신경의 이상에 의한 변비: 치매, 파킨슨병, 다발경화증(Multiple sclerosis), 척추의 외상
+
+③ 대장, 직장, 항문, 골반저의 기질적인 병변에 의한 변비: 유아의 항문폐쇄증, 항문협착증, 대장암, 평활근의 병변(근병증, 근이영양증 등), 직장탈(Rectocele), 골반저의 약화, 직장 내 점막의 탈출(Intrarectal mucosal prolapse), 전직장벽의 탈출(Full-thickness rectal prolapse), 고립성 직장궤양 증후군(Solitary rectal ulcer syndrome)
+
+④ 변비를 일으키는 약제들: 아편성분 진통제, 항경련제, 삼환계 항우울제, 칼슘차단제, 진경제, 알루미늄제산제, 철분제 등
+
+⑤ 변비를 일으키거나 조장시키는 정신적 질환들: 우울증, 거식증 또는 대식증]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc6747]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[163]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[원발성 변비의 경우 병태생리에 따라 배변장애형, 서행성 및 정상통과형 변비로 분류할 수 있습니다. 배변장애형 변비(Outlet constipation)는 직장 배출 기능이 부적절하거나 배출의 저항이 증가해 있는 경우 발생하며, 휴식기의 항문내압 증가(Anismus)와 골반저 기능장애(Pelvic floor dysfunction)를 포함합니다. 서행성 변비(Slow transit constipation)는 대장 통과 시간이 지연되는 변비로 정의하며 대장의 연동운동 저하 혹은 운동 부조화로 인해 발생합니다. 정상통과형 변비(Normal transit constipation)는 대장 통과 시간은 정상이나 환자가 변비 증상을 호소하는 경우를 일컫습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[변비는 가장 흔한 소화기 증상 중 하나이며 북미에서는 10~15%, 아시아에서 11~23%의 유병율을 보입니다. 우리나라의 인구 기반 연구에서도 16.5%의 유병율이 보고되었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이상의 증상으로 병원을 방문하면 의사는 자세한 문진과 함께 환자의 증상을 평가한 후 회음부 관찰과 직장수지검사 등 신체검사를 시행하며, 대장통과시간검사, 골반저 기능검사, 배변 조영술 등 필요한 검사를 시행합니다.
+
+1. 병력 청취 
+ 증상의 시작 및 정도 등 변비에 관한 증상 뿐 아니라 체중감소, 혈변, 복통 등의 동반 증상과 이차적으로 변비를 초래할 수 있는 질환과 관련된 증상들도 확인합니다. 또한 여자환자에서는 특히 대장통과 지연이나 골반저 근육의 약화와 동반될 수 있는 빈뇨, 긴장성 요실금 등의 비뇨기 증상이 중요합니다. 그 외에 산과력, 과거력, 약물 복용력, 식사의 양과 섬유 함량, 최근의 생활 변화, 사회 생활과 심리적인 문제도 면밀히 조사하게 됩니다. 
+
+2. 신체 검진 
+ 먼저 전반적인 신체 검진을 시행하고 복부 촉진으로 복부가 팽만되어 있는지, 딱딱한 변이 만져지는지, 다른 종괴는 없는지 확인합니다. 중추신경질환이나 장을 지배하는 신경의 이상에 의하여 변비가 유발될 수 있으므로 감별을 위하여 신경학적 검사를 함께 시행합니다. 직장수지검사로 잠혈, 분변 매복, 항문 협착, 직장 탈출, 직장 종괴 등을 확인하고 휴식 시와 수의적 수축시의 직장괄약근의 긴장정도 및 비정상적인 회음부 강하의 유무를 평가할 수 있습니다. 
+
+3. 배변 기록 
+ 환자들은 대부분 자신들의 배변 횟수를 과소평가하는 경향이 있습니다. 따라서 배변 횟수와 형태를 기록하는 것이 증상을 올바르게 파악하는 데 도움이 됩니다. 
+
+4. 혈액 검사 
+ 여러 생화학적 선별 검사로 염증질환, 종양질환, 대사질환 혹은 다른 전신 질환을 감별하기 위해서 시행합니다. 
+
+5. 대장 통과 시간 측정 검사 
+통과 속도가 느린 것에 대한 객관적인 증거가 필요할 때 시행하는 검사입니다. 방사선 비투과성 표지자 검사(Radiopaque marker study)는 20개의 방사선 비투과성 표지자를 한번 복용한 후 5일째 복부 X선 검사를 시행하는 방법이며, 표지자가 복용 후 5일 동안 80% 이상 대장을 통과하는 것이 정상인데 대장에 남아있는 경우를 장무력증(Colonic inertia) 또는 지연통과(Delayed transit)라고 합니다. 검사의 민감도를 올리기 위해 연속 3일간 24시간 간격으로 서로 다른 모양의 표지자를 복용하고 72, 96, 120시간 째에 X선 검사를 시행하는 방법도 있습니다. 이때는 120시간 후에 네 개 이상의 표지자가 계속 남아 있으면 통과 속도가 느리다고 할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc6814]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[6. 배변 조영술(Defecation proctography) 
+이 검사법은 항문을 통하여 주입된 조영제 또는 방사성 동위원소를 피검자가 배변하듯 배출하는 동안에 변화되는 항문 직장부위의 구조를 관찰하는 방법입니다. 기능적 원인으로 발생하는 배변곤란, 배변통, 불완전 배변감, 배변시 항문 긴장 등이 있는 경우에 시행할 수 있습니다. 또한 항문 직장부위의 형태학적 변화를 관찰할 수 있어 변비의 원인 및 진단 그리고 수술, 바이오피드백(Biofeedback) 등 치료 평가에도 도움을 줄 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc6877]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[7. 항문직장 기능검사 
+ 직장 및 항문의 압력 및 감각 기능을 측정하는 검사입니다. 검사 종류에는 풍선을 이용한 직장 감각용적 측정, 항문직장 내압검사, 50 cc 물을 채운 풍선배출검사 등이 있습니다. 검사 시 항문을 통하여 작은 풍선이 달려있는 가느다란 관을 삽입하여 직장 내에 위치시킨 뒤 검사 기구를 통해 이완기 및 수축기 시 직장 및 항문관의 압력, 직장 내 감각 능력, 항문 반사 기능 등을 측정합니다. 풍선배출검사는 항문을 통해 작은 풍선이 달려있는 가느다란 관을 삽입 후 실제 배변을 시도하며 풍선이 배출될 때까지의 시간을 측정합니다.
+
+8. 대장 내시경 검사
+ 만성 변비를 동반한 환자에서 대변에 피가 섞이거나 빈혈, 의도하지 않은 체중 감소, 새로 발생한 변비, 대장암의 가족력이 있는 경우 등 경고 증상이 있는 경우 이차성 변비를 감별하기 위하여 대장 내시경의 시행이 권고되고 있습니다. 또한, 50세 이상 성인에서 만성 변비가 발생한 이후로 적절한 대장암 선별 검사를 받지 않은 경우 대장 내시경 검사를 권고하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[변비 환자들이 호소하는 증상은 매우 다양하여 단지 배변 횟수만으로 변비를 진단하기 어려운 경우가 많습니다. 따라서 이를 해결하기 위해 여러 학자들이 주기적으로 모여 6가지 대표적인 증상으로 변비의 객관적인 기준을 정하고 있는데, 이를 로마기준이라 부릅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc68e1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 배변 습관과 생활 방식 
+ 변의가 생기면 참지 말고 바로 배변을 하고, 일정한 시간에 변기에 앉는 습관을 가지도록 하는 것도 중요합니다. 변기에 장시간(10분 이상) 앉아 있는 것도 피하여야 합니다. 배변이 어려울 때에는 변기에 앉은 발 밑에 15 cm 가량의 받침대를 받쳐서 고관절을 더욱 굴곡시킴으로써 보다 변을 보기 쉽게 할 수 있습니다. 또한 신체 활동의 증가는 배변을 도울 뿐 아니라, 삶의 질을 향상시키고 건강 상의 이익을 줄 수 있으므로 활동이 적은 변비 환자에게는 운동을 권합니다.
+
+2. 식사 
+변비와 관련된 식이 연구는 아직 근거가 부족하지만, 변비 치료를 위해서는 적절한 신체활동과 함께 균형된 식사를 하는 것이 바람직합니다. 식이섬유가 높은 음식의 섭취를 늘리고 충분한 수분 섭취를 하는 것이 도움이 됩니다.
+1) 식이섬유
+불충분한 식이섬유 섭취는 변비를 유발할 수 있는 중요한 원인 중 하나입니다. 충분한 식이섬유를 포함하는 음식 섭취는 약물 치료와 함께 변비의 치료에서 중요한 부분입니다. 식이섬유는 경도 및 중등도의 변비를 호전시킬 수 있지만, 과도한 섭취는 복부 팽만과 복통을 유발할 수 있으니 주의가 필요합니다.
+2) 과일
+건대추, 그린 키위, 프룬(말린 자두), 배, 껍질째 사과 등은 섬유소가 풍부합니다. 과일 껍질에는 불용성이고 비발효성의 식이섬유가 포함되어 있어 배변에 효과적이고 가스 형성이 적은 장점이 있습니다. 다만, 과다한 과일 섭취는 오히려 가스 형성으로 인해 복부 팽만을 유발할 수 있으므로 주의가 필요합니다. 또한 탄닌(떫은 맛)이 많이 함유된 덜 익은 과일(감, 바나나, 석류, 포도 등)은 장 점막 수축을 통해 장 분비를 저하시켜 변비를 유발할 수 있으므로 피해야 합니다.
+3) 육류 및 생선
+다량의 육류 위주의 식사는 상대적으로 식이섬유 섭취를 저하시키고 변비를 악화시킬 수 있습니다. 변비가 심한 환자는 육류보다는 생선 섭취가 도움이 될 수 있습니다.
+4) 그 외 음식과 음료
+발효식품(요구르트, 청국장)은 변비에 도움이 될 수 있으나, 가스 및 복부 팽만 증상이 함께 있는 환자에서는 오히려 복통 및 불편감을 악화시킬 수 있으므로 주의가 필요합니다. 카페인이 포함된 음료와 알코올은 장의 탈수를 일으켜 변비를 유발할 수 있으므로 피하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[비약물적 요법으로 4~6주간 치료하였는데도 환자가 계속하여 변비 증상을 호소하면 약물 치료를 시작합니다. 일반적으로 팽창성 하제를 사용하고 효과가 없으면 삼투성 하제나 염류성 하제를 사용하며, 여기에도 반응하지 않으면 조심스럽게 자극성 하제를 사용할 수 있습니다.
+1. 팽창성 하제(Bulk laxatives) 
+팽창성 하제는 대변의 양을 늘려 변의를 느끼게 하는 방법으로 식이섬유를 충분히 섭취하지 못하는 환자에게 유용합니다. 차전자씨(Ispaghula, psyllium)와 메틸셀룰로오스(Methylcellulose), 폴리카르보필칼슘(Calcium polycarbophil) 등이 있습니다.
+2. 삼투성 하제 
+ 락툴로오스(Lactulose)와 락티톨(Lactitol)은 합성 이당류로 소장에서는 흡수되지 않고 대장 세균에 의해 발효되어 지방산으로 변해 삼투작용을 증가시키고, 대장 운동을 자극합니다. 효과는 복용 후 2-3일이 지나야 나타나며 복부 팽만과 방귀를 일으킬 수 있습니다.
+3. 염류성 하제 
+ 마그네슘염은 장에서 잘 흡수가 되지 않고 삼투성 활성 물질로 작용하여 대장 내 수분을 증가시킵니다. 경도의 변비환자에서 산화마그네슘(Magnesium hydroxide)을 하루에 1.2~3.6 g정도 지속적으로 복용하는 것은 효과적이고 안전합니다. 그러나 마그네슘염은 적당량도 신기능 부전 환자와 아이들에게는 고마그네슘혈증을 유발할 수 있으므로 주의하여 사용해야 합니다.
+4. 자극성 하제 
+ 팽창성 하제나 삼투성 하제로 환자의 증상이 호전되지 않으면 자극성 하제를 사용해 볼 수 있는데, 수 주 내지 수 개월의 단기간만 사용하는 것이 좋습니다. 자극성 하제는 변비 환자들이 가장 많이 남용하는 약제로서 장기간 사용하면 수분과 전해질의 손실, 이차성 알도스테론증, 지방변, 하제성 대장(Cathartic colon), 단백소실위장염 등과 약제에 대한 의존성을 유발할 수 있으므로 주의를 요합니다. 비사코딜(Bisacodyl)과 센나(Senna), 알로에(Aloe), 카스카라(Cascara) 등이 대표적입니다.
+5. 선택적 4형 세로토닌 수용체 작용제
+ 선택적 4형 세로토닌 작용체로는 프루칼로프라이드(Prucalopride)가 있으며 위장관 운동 촉진 작용을 하는 약제로, 전통적인 완화제에 충분한 효과가 없는 경우 사용합니다. 비교적 안전하지만 두통과 복통, 설사, 오심 등의 증상이 흔히 발생하며, 복용 첫 날 주로 나타나고 서서히 호전됩니다.
+6. 관장약과 좌약(Enemas and suppositories) 
+여러 가지 약제를 직장으로 삽입하여 직장의 팽만이나 화학적 작용으로 유도하고 동시에 대변을 부드럽게 만들기 위해 시행합니다. 생리식염수를 통한 관장이나 세척은 주로 팽창에 의해, 그리고 대장 내시경 전 처치에 주로 사용하는 고장성 인산나트륨 관장은 팽창과 함께 대장 점막에 자극을 주어 변의를 느끼게 합니다. 단, 고장성 인산나트륨은 만성 신부전을 가진 노인에서 심각한 인산 신장병(콩팥병)을 유발할 수 있고, 신장 기능 장애, 전해질 불균형, 만성 염증장질환이 있는 경우는 주의가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 행동 요법-바이오피드백(Biofeedback) 훈련 
+ 근육의 수축, 이완 같은 생리적 과정을 기계적 장치를 통해 시각적, 청각적 신호로 변환시켜 환자에게 배변 시 작용하는 근육 운동의 문제점을 깨닫게 함으로써 수의적 조절능력을 향상시키는 것을 목적으로 합니다. 최근의 연구결과에 따르면 근실조성 배변 (Dyssynergic defecation) 환자에게 바이오피드백 치료가 효과적이었다고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6ee5397]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 수술
+ 변실금의 수술적 치료는 내과적 치료에 잘 반응하지 않거나 항문직장 부위에 해부학적 변화가 있는 환자들에게 필요합니다. 다수의 수술 수기가 있지만 월등히 효과적인 방법이 없기 때문에 수술 전 신중한 평가에 의해 각각의 환자에게 가장 적합한 수술법을 선택해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이상의 증상 중 어떤 것이라도 생활에 불편이나 지장을 줄 경우에는 의사와 상의하는 것이 좋습니다. 특히 체중감소, 혈변, 빈혈, 발열 등의 경고 증상이 있는 경우, 대장암이나 염증장질환의 과거력 및 가족력이 있는 경우, 50세 이상인 경우, 기타 기질적 질환이 의심되는 경우 병원을 방문하여 검사를 받는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc6964]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[175]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 자극성 하제가 실제로 장의 구조를 변화시켜 기능을 떨어뜨리나요?
+
+A. 비사코딜은 만성적으로 사용할 경우 장점막 세포 및 대장 점막하층 신경의 미세구조에 형태학적 변화를 유발한다고 알려져 왔습니다. 그러나 이러한 변화가 변비에 의한 것인지 혹은 자극성 하제의 사용에 의한 것인지 확실치 않으며, 특히 이러한 변화가 어떠한 기능상의 문제를 유발하는지 분명치 않습니다. 또한 변비약 중 세나 사용시 나타나는 대장 흑색증(melanosis coli)은 복용 시작 후 수개월 이내에 나타나며, 복용을 중지하여도 거의 1년간 지속됩니다. 대장 흑색증의 기능적 중요성은 잘 알려져 있지 않으나, 색소 침착은 장 점막에서 주로 나타나고, 근육층이나 신경층에는 침범하지 않습니다. 또한 복용을 중지하면 거의 완전히 없어지기 때문에 장 기능에 영향을 미치지는 않을 것으로 생각됩니다.
+
+Q. 자극성 하제를 장기간 복용하면 하제성 결장(대장 무긴장증)이 발생하나요?
+
+A. 하제성 결장의 진단은 대장 팽기(haustration)의 소실, 늘어난 대장 또는 회장 말단, 크게 벌려져 있는(gaping) 회맹장판(ileocecal valve, IC valve) 등과 같은 방사선 검사 결과를 통해 이뤄집니다. 최근의 연구에 의하면, 240명의 하제 남용 환자 중 단 한명도 하제성 결장을 보이지 않아 하제 남용과 하제성 결장은 상관관계가 없다고 하였습니다. 그러나 이와는 반대로 만성적으로 하제를 사용한 환자와 그렇지 않은 환자를 대상으로 바륨대장 검사를 하였을 때 하제사용 환자에서는 25% 정도가 대장 팽기의 소실이 나타났습니다. 그러나 하제를 사용하지 않은 환자에서는 팽기의 소실이 없었다는 보고도 있었습니다. 따라서 지금까지의 연구결과로 봤을 때 자극성 하제가 대장 무긴장증을 유발하는가는 아직 확실하지 않습니다.
+
+Q. 자극성 하제를 장기간 복용하면 대장암의 발생이 증가하나요?
+
+A. 이전에 사용되었던 페놀프탈레인(phenolphthalein)이란 변비약은 시판초기에는 안전한 약물로 FDA의 공인을 받았으나 연구결과 동물실험에서 난소, 신장, 혈액암의 발생을 증가시키는 것으로 나타나 시장에서 자발적으로 철수한 바 있습니다. 그러나 최근의 연구에 의하면 페놀프탈레인(phenolphthalein) 약물은 동물실험에서 암의 발생을 증가시키지 않으며, 이전 연구 결과는 통상의 치료용량보다 훨씬 많은 용량을 동물에게 사용한 결과라고 합니다. 또한 세나계열의 약물들도 대장암의 발생을 증가시킨다고 하였으나 이후의 연구에서는 서로 상반되는 결과를 보였을 뿐 아니라 만성 변비 자체가 암발생의 위험인자라는 보고도 있어서 역시 세나계열의 약물 또한 암발생과의 상관관계는 확실하지 않습니다. 따라서, 자극성 하제의 위험성은 과장된 경향이 있으며, 이러한 위험은 의사의 처방으로 최소화 할 수 있습니다. 일주일에 두, 세차례 배변을 하는 환자에게 세나계열의 약물을 사용하는 것은 합당한 처방으로, 충분한 양의 부피형성 완화제(bulk laxative) 또는 삼투성 완화제(osmotic laxative)와 함께 사용하면 대변을 보다 부드럽게 할 수 있으며, 필요에 따라서는 단독으로 사용할 수도 있습니다. 사용량은 환자의 증상에 맞도록 조절해야 하며, 만약 세나계열의 약물로 증상호전이 안될 때에는 비사코딜을 사용할 수 있습니다.
+
+Q. 숙변은 정말로 독성물질인가요?
+
+A. 과거 서구에 대변이 정체되면 장내 상재균이 독성물질을 분비하는 균으로 변화하여 자가중독이 발생한다는 가설이 있었으며, 우리나라에서도 이전부터 숙변이 만병의 근원이라 하여 장청소를 하면 몸에 좋다라는 막연한 얘기가 있었습니다. 그러나 실제 대변에서 독성물질이 검출된 적이 없었으며, 독성 물질에 의해서 발생한다고 알려진 증상은 변비가 해결되면 바로 소실되었습니다. 따라서 이러한 증상은 독성물질에 의한 증상이라기 보다는 장의 기계적 폐색에 의한 증상이라고 생각하는 것이 옳을 듯 합니다.
+
+Q. 장이 긴 사람이 변비가 잘 생기나요?
+
+A. 1920년대에 서구에서 사람이 서서 다니기 때문에 중력에 의해 장이꼬여 변비가 발생한다라는 가설이 있었으며 이로 인해 변비치료를 위해 대장 전절제술을 했었다고 합니다. 또한 장이 길면 대변이 장내 체류하는 시간이 증가해 수분흡수가 증가하여 변비가 잘생기는 것이 아니냐라는 설도 있었습니다. 그러나 실제 장이 긴사람과 짧은 사람의 대장통과시간을 검사한 결과 차이가 없어 장이 꼭 긴사람이 변비가 잘생기는 것은 아닙니다.
+
+Q. 섬유소 섭취 부족이 변비의 원인인가요?
+
+A. 일반적으로 변비인 사람은 섬유소 섭취가 적을 것이라고 생각하지만 실제 변비환자와 정상인의 섬유소 섭취량에 있어서 차이가 없다고 합니다. 또한 변비환자가 섬유소 섭취를 늘리면 장 통과 시간은 의미있게 증가하는 반면 대변량은 그리 많이 증가하지 않는다고 합니다. 그런데 변비환자가 느끼는 것은 대변양이지 대장통과시간은 아닙니다. 따라서 만족도는 적을 수 밖에 없습니다. 결론적으로 섬유소 섭취 부족은 만성변비의 일반적 원인이 아닌 일부 환자에게만 원인이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Bharucha, A. E., Dorn, S. D., Lembo, A., &amp; Pressman, A. (2013). American Gastroenterological Association medical position statement on constipation. Gastroenterology, 144(1), 211-217.
+2. Jun, D. W., Park, H. Y., Lee, O. Y., Lee, H. L., Yoon, B. C., Choi, H. S., …,&amp; Kee, C. S. (2006). A population-based study on bowel habits in a Korean community: prevalence of functional constipation and self-reported constipation. Digestive Diseases and Sciences, 51(8), 1471-1477.
+3. Lindberg, G., Hamid, S. S., Malfertheiner, P., Thomsen, O. O., Fernandex, L. B., Garisch, J., …,&amp; World Gastroenterology Organisation. (2011). World Gastroenterology Organisation global guideline: constipation--a global perspective. Journal of Clinical Gastroenterology, 45(6), 483-487.
+4. Mearin, F., Lacy, B. E., Chang, L., Chey, W. D., Lembo, A. J., Simren, M., …,&amp; Spiller, R. (2016). Bowel Disorders. Gastroenterology.
+5. Park, M. I., Shin, J. E., Myung, S. J., Huh, K. C., Choi, C. H., Jung, S. A., …,&amp; Choi, M. G., Korean Society of, N., &amp; Motility. (2011). [Guidelines for the treatment of constipation]. Korean Journal of Gastroenterology, 57(2), 100-114. 
+6. Shin, J. E., Jung, H. K., Lee, T. H., Jo, Y., Lee, H., Song, K. H., …,&amp; Shin, E. S., Clinical Management Guideline Group under the Korean Society of, N., &amp; Motility. (2016). Guidelines for the Diagnosis and Treatment of Chronic Functional Constipation in Korea, 2015 Revised Edition. Journal of Neurogastroenterology and Motility, 22(3), 383-411.
+7. Shin, J. E., Park, K. S., &amp; Nam, K. (2019). [Chronic Functional Constipation]. Korean Journal of Gastroenterology, 73(2), 92-98.
+8. Suares, N. C., &amp; Ford, A. C. (2011). Prevalence of, and risk factors for, chronic idiopathic constipation in the community: systematic review and meta-analysis. American Journal of Gastroenterology, 106(9), 1582-1591; quiz 1581, 1592.
+9. Wald, A., Scarpignato, C., Mueller-Lissner, S., Kamm, M. A., Hinkel, U., Helfrich, I., …,&amp; Mandel, K. G. (2008). A multinational survey of prevalence and patterns of laxative use among adults with self-defined constipation. Alimentary Pharmacology &amp; Therapeutics, 28(7), 917-930.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

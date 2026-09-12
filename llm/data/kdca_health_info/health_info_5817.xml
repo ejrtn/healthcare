@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[초음파를 이용한 세포조직검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5817]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 초음파를 이용한 세포조직검사는 몸속 병변의 위치를 실시간으로 확인하면서 조직을 채취하여 정확한 진단을 할 수 있는 방법입니다.
+• 이 검사는 주로 갑상선, 유방, 목 림프절, 간, 신장, 췌장 등에서 악성종양 진단, 악성·양성종양 감별, 염증 등을 판정하여 질병을 확진하는 데 사용됩니다.
+• 갑상선과 같은 피부 가까운 부위나 전립선 검사는 입원과 금식이 필요 없지만, 신장이나 간과 같은 몸속 깊은 곳의 검사는 입원과 6시간 이상의 금식이 필요합니다.
+• 검사 전에 아스피린, 항응고제 같은 약제는 출혈 위험성을 증가시킬 수 있으므로 일정 기간 복용을 중단할 필요가 있습니다.
+• 검사 부작용으로는 통증과 출혈이 있을 수 있으며, 특히 출혈이 멈추지 않고 증가하는 경우에는 추가검사나 수술이 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[초음파를 이용한 조직검사는 영상을 이용하여 우리 몸의 조직을 얻는 방법 중 하나입니다. 초음파로 몸속 병변의 위치를 실시간으로 직접 확인하면서 검사를 시행하므로, 기타 유도방법(투시, CT 등)에 비해 편리하면서도 유도 없이 하는 조직검사에 비해 정확한 방법으로 알려져 있습니다. 이 검사법은 우리 몸의 다양한 장기와 병변에 시행할 수 있습니다. 검사 방법은 장기에 따라서 약간씩 차이가 있으나, 기본적으로 가는 바늘로 된 기구를 몸속에 집어넣어 조직을 일부 떼어내는 방법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[초음파, 컴퓨터단층촬영(Computed tomography, CT), 자기공명영상(Magnetic resonance imaging, MRI) 등의 영상 검사에서 발견된 몸속의 비정상 소견에 대한 진단이 영상 검사만으로 어렵거나 조직에 근거한 확진이     필요한 경우, 비정상 조직 일부를 몸 속에서 얻어내어 직접 현미경으로 관찰하여 병을 진단함으로써 치료방침을 결정하기 위해서 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 검사 부위: 갑상선, 유방, 목 림프절, 피하 연부조직, 근육, 간, 신장, 췌장, 전립선 등 
+• 적응증: 악성종양의 진단, 악성종양과 양성종양의 감별, 종양과 염증의 감별, 염증의 진행정도 판정
+• 금기증: 혈액응고장애(출혈성향), 조직검사 바늘의 경로가 안전하지 않은 경우, 몸속 너무 깊은 곳에 위치하여 초음파에서 병변이 보이지 않는 경우, 협조가 안되고 움직임을 조절할 수 없는 환자의 경우, (복부검사시) 호흡조절이 어려운 환자의 경우]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[조직검사의 종류
+1) 미세침흡인생검술(세침흡인세포검사)
+길고 가느다란 주사기 바늘을 몸 속 병변에 삽입하여 세포를 흡인하는 검사방법입니다. 흡인된 세포는 유리 슬라이드에 얇게 펴서 현미경으로 확인합니다. 진단의 정확도를 높이기 위해 동일 병변에 대한 검사를 2회 이상 시행할 수 있습니다. 
+2) 중심바늘생검술(총생검술) 
+좀 더 굵은 특수 바늘로 이루어진 생검총을 사용하여 조직의 일부를 떼어내어 검사하는 방법입니다. 미세침흡인생검술에 비해 형태가 유지된 고형의 조직을 더 많이 채취하기 때문에 진단의 오류를 줄일 수 있습니다. 하지만 많은 조직을 떼어내기 때문에 조직 손상이나 출혈, 통증과 같은 검사와 연관된 합병증의 위험도는 증가할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[갑상선, 유방, 피하 연부조직과 같이 피부 가까운 부위나 전립선의 경우 보통 입원하지 않고 내원 당일에 검사하고 귀가 가능합니다. 하지만 신장, 간, 췌장 등과 같이 몸속 깊은 곳에 있는 부위는 보통은 입원이 필요합니다.
+갑상선이나 유방, 신장, 전립선 및 피하 연부 조직 등은 금식이 필요하지 않으나, 췌장이나 간, 신장 또는 위장관의 조직들은 6시간 이상의 금식이 필요합니다. 또한 전립선의 경우는 직장을 통해 검사하므로 관장이 필요하며 감염의 위험을 줄이기 위해 미리 항생제를 복용합니다.
+조직검사 후 출혈의 위험성을 증가시킬 수 있는 아스피린, 항응고제, 항혈소판제와 같은 약제들은 조직검사 전 일정 기간 복용을 중단할 필요가 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 갑상선
+검사 부위를 소독하고 소독포를 덮습니다. 초음파를 보면서 검사 위치를  확인 후 필요에 따라 국소마취를 시행합니다. 미세 바늘 혹은 중심바늘(생검총)을 이용하여 검사 부위 조직을 얻고 지혈을 합니다. 재소독 후 소독밴드를 붙이고 검사 부위의 출혈이나 통증, 붓는 증상이 없는지 확인 후 귀가합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc4d44]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 유방
+유방 검사는 앞에서 말한 미세침 흡인생검술과 중심바늘생검술(총생검술) 외에 맘모톰 조직검사가 있습니다. 검사 부위를 소독하고 소독포를 덮습니다. 초음파를 보면서 검사 위치를 확인 후 필요에 따라 국소마취를 시행합니다. 미세 바늘 혹은 중심바늘(생검총)을 이용하여 검사 부위 조직을 얻고 지혈을 합니다. 재소독 후 소독밴드를 붙이고 검사 부위의 출혈이나 통증, 붓는 증상이 없는지 확인 후 귀가합니다. 맘모톰 조직검사는 역시 초음파를 보면서 이루어지며 특수형태의 굵은 바늘을 종괴 내부에 고정을 하고 컴퓨터와 연결된 진공흡입장치를 작동하여 종괴조직을 잘라내어 밖으로 배출하는 방법입니다. 조직의 양이 크고 많아서 진단 정확도가 높습니다. 특히 양성종양의 경우는 조직검사를 겸하여 종양의 완전한 제거도 가능합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc4cc1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 전립선
+항문으로 길다란 초음파 기기를 넣고 직장을 통해서 전립선의 조직을 떼어냅니다. 6시간 정도 금식이 필요합니다. 또한 직장을 통해 검사하므로 미리 항생제를 복용하여 감염의 위험을 줄이고 관장을 시행합니다. 검사 방법은 하의를 무릎까지 내리고 옆으로 누워 무릎을 최대한 가슴 쪽으로 당겨 웅크린 자세를 취해 항문이 잘 보이도록 합니다. 검사 부위를 소독하고 소독포를 덮습니다. 직장 내 초음파를 보면서 검사 부위 국소마취를 한 후 총생검술로 수차례(최대 12회) 전립선 조직을 얻습니다. 검사 후 20분 정도 안정을 취한 후 항문 출혈이 없는지 확인하고 귀가합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc4dc7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 간
+간의 종괴 진단뿐 아니라 지방간이나 간염, 간경화의 진행정도, 간농양  등을 확인할 수 있는 검사입니다. 간조직검사는 주로 입원하여 검사를 진행합니다. 6시간 이상의 금식이 필요하며 검사 당일 정맥 주사라인을 확보한 후 검사실로 이동합니다. 초음파로 병변을 확인 후 검사 부위를 소독하고 소독포를 덮은 뒤 국소마취를 합니다. 호흡에 따라 간의 위치가 변하므로 검사 순간에는 의사의 지시에 따라 약 5초 이상 숨을 참아야 할 수도 있습니다. 병변의 종류에 따라 미세침흡인 또는 총생검술을 2~3회 시행합니다. 검사 후에는 출혈 위험을 줄이기 위해 검사 부위에 모래주머니를 대고 3~4시간 정도 절대 안정을 취합니다. 모래주머니를 제거한 후에도 하루 정도 더 안정을 취합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc4e41]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[5. 신장
+신장의 종괴 진단, 신장 사구체 질환 등을 진단하기 위해 시행합니다. 신장은 몸 뒤쪽 후복막강  좌우에 하나씩 위치하므로 보통 엎드린 자세에서 시행합니다. 그러나 경우에 따라서는 옆으로 누운 자세, 혹은 누워서 시행할 수도 있습니다. 초음파로 검사 부위를 확인하고 소독 후 국소마취를 합니다. 병변의 종류에 따라 미세침흡인생검술 또는 총생검술을 약 2회 시행합니다. 검사 후에는 출혈 위험을 줄이기 위해 검사 부위에 모래주머니를 대고 3~4시간 정도 절대 안정을 취합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc4c57]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1.통증
+ 조직검사의 가장 흔한 경증 부작용으로 대부분의 경우 진통제로 해결됩니다. 
+
+2.출혈
+ 가장 흔한 중증 부작용입니다. 검사 부위 주변에 소량의 출혈은 흔히 있을 수 있으며 대부분은 압박 지혈로 호전됩니다. 그러나 출혈이 멈추지 않고 증가하는 경우는 혈관 손상에 의한 활동성 출혈 여부를 확인하기 위해 컴퓨터단층촬영(CT) 등의 추가검사를 시행할 수 있으며, 활력징후에 영향을 미칠 수 있는 활동성 출혈(복강내 출혈 등)이 발견되면 혈관 색전술이나 수술이 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Kim, J.W., &amp; Shin, S.S. (2017). Ultrasound-Guided Percutaneous Core Needle Biopsy of Abdominal Viscera: Tips to Ensure Safe and Effective Biopsy. Korean Journal of Radiology. 18(2), 309-22. 
+2. Uppot, R.N., Harisinghani, M.G., &amp; Gervais, D.A. (2010). Imaging-Guided Percutaneous Renal Biopsy: Rationale and Approach. American Journal of Roentgenology. 194, 1443-49.
+
+3. Na, D.G., Baek, J.H., Jung, S.L. et al. (2017). Core Needle Biopsy of the Thyroid: 2016 Consensus Statement and Recommendations from Korean Society of Thyroid Radiology. Korean Journal of Radiology. 18(1), 217-37.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[잇몸병(치주질환)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5716]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 잇몸병(치주질환)은 치아를 둘러싼 조직에 염증이 생기는 질환으로, 초기에는 증상이 거의 없어 방치되기 쉽습니다.
+• 치주질환은 치은염(가벼운 염증)과 치주염(치조골 파괴)으로 나뉘며, 심해지면 치아가 흔들리거나 빠질 수 있습니다.
+• 주요 원인은 치태(세균 덩어리)이며, 호르몬 변화, 당뇨, 약물 복용 등도 영향을 줄 수 있습니다.
+• 치료 방법에는 치석 제거, 치근활택술, 치주수술, 항생제 치료 등이 있으며, 심한 경우 치아를 뽑아야 합니다.
+• 예방을 위해 올바른 칫솔질, 치실 사용, 정기적인 치과 검진 및 치석 제거가 필수적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환)은 치주조직에 생기는 염증질환을 말합니다. 치주란 치아를 둘러싸고 있는 조직을 말합니다. 치주조직에는 치아를 단단하게 잡아주는 치조골(잇몸뼈), 치아와 잇몸뼈를 연결하는 치주인대, 치아뿌리를 덮고 있는 백악질, 잇몸뼈를 덮고 있는 연조직인 치은으로 이루어집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=184183e54536]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환)은 소리 없이 진행되는 만성질환으로, 증상이 나타난 후 치과를 찾았을 때 치료가 불가능한 경우가 많습니다. 주기적인 치주 치료를 통한 치주질환의 예방은 건강한 잇몸을 유지하는 데 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환)은 미생물 또는 미생물 집단에 의해 발생하는 치아 주위 조직의 염증질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 치은염
+잇몸병(치주질환)의 초기 상태를 치은염이라고 부릅니다. 잇몸의 염증이 연조직에만 국한되어 있어 간단한 치료로도 회복이 가능합니다.
+2. 치주염
+잇몸병(치주질환)이 진행되면 잇몸뿐 아니라 잇몸 아래 치조골까지 파괴됩니다. 잇몸(치은)이 치아 뿌리 끝 쪽으로 이동하고, 치주인대와 치조골이 파괴되면 치아와 치주조직 사이의 부착소실이 일어납니다. 그 결과 치아와 잇몸 사이에 주머니가 형성되고, 주위 치조골의 밀도 및 높이가 변합니다. 이 상태까지 진행되면 원래 상태로의 회복은 어렵습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치태는 치아 표면에 붙어있는 세균 덩어리입니다. 잇몸병(치주질환)의 원인은 치태에 의한 것과 치태에 의하지 않은 것으로 나뉩니다. 
+    1. 치태에 의한 잇몸 염증 
+치태 내의 세균들이 만들어낸 독소가 잇몸에 염증을 일으켜 잇몸이 뻘겋게 붓고, 치아를 닦을 때 잇몸에서 피가 나고, 입 냄새가 납니다. 
+    2. 치태에 의하지 않은 잇몸 염증
+사춘기, 생리, 임신, 당뇨 같은 호르몬 변화나 백혈병 같은 혈액질환, 고혈압약, 항경련제, 면역억제제, 경구피임약 등 약물 복용의 영향으로 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환)은 만성 질환이라 초기에는 증상이 잘 나타나지 않습니다. 잇몸의 염증이 연조직에만 국한되어 있으면 간단한 치료로도 회복이 가능합니다. 그러나 조기에 치료를 받지 않으면 잇몸에서 피가 나거나 붓거나 곪는 증상, 치아가 시리고 흔들리는 증상이 나타납니다.  치아를 지지하는 치조골이 손상되면 잇몸이 내려가고, 음식물도 예전에 비해 치아 사이에 많이 끼어 불편하며, 씹을 때 치아에 힘이 주어지지 않는 느낌이 듭니다. 이 정도 증상을 호소할 때쯤 병원에 내원하면 치료 시기를 놓쳐 치아를 뽑아야 되는 경우가 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[입 속에는 300여 종의 세균이 삽니다. 음식을 먹고 난 후 세균들은 침과 음식물에 섞여서 치아에 붙어 끈끈한 무색의 얇은 막을 만듭니다. 이처럼 세균들이 덩어리져 치아 면에 부착한 얇은 막을 치태라고 합니다. 치아를 제대로 닦지 않고 시간이 지나면 치태가 그대로 굳어져 딱딱한 돌 같은 치석이 됩니다. 치석의 표면에는 세균이 더 쉽게 부착하고 번식하여 잇몸의 염증을 일으킵니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치주질환은 유병률(인구 중 환자 수의 비율)이 높은 질환입니다. 국민건강영양조사 제7기 3차년도(2018) 구강검사 결과에 따르면, 우리나라 19세 이상 성인의 치주질환 유병률은 23.4%입니다. 남성의 연령별 치주질환 유병률은 20대가 5.2%, 30대가 19.3%, 40대가 39.2%, 50대가 49.7%, 60대가 55.2%, 70대 이상이 53.2%로 보고됩니다. 여성의 경우에도 20대가 2.9%, 30대가 9.1%, 40대가 16.0%, 50대가 32.8%, 60대가 39.5%, 70대 이상이 44.1%로 보고됩니다. 전체적으로 연령이 증가할수록 유병률도 증가하며, 특히 50세 이상에서 유병률이 급격하게 높아집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환)은 만성 질환이라 초기에는 증상이 잘 나타나지 않습니다. 그러나 조기에 치료를 받지 않으면 잇몸에서 피가 나거나 붓거나 곪는 증상, 치아가 시리고 흔들리는 증상이 나타납니다. 잇몸이 내려가서 치아가 길어보여서 보기에 좋지 않거나, 음식물도 예전에 비해 치아 사이에 많이 끼어 불편하며, 씹을 때 치아에 힘이 주어지지 않는 느낌이 듭니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환)을 진단하고 적절한 치료계획을 수립하려면 면밀한 검사가 필요합니다. 진단에는 원인 요소에 대한 평가, 잇몸(치은) 염증의 정도, 치아 지지조직의 파괴 정도, 치료 성공과 실패에 영향을 주는 모든 요인에 대한 평가가 포함되어야 합니다.
+
+1. 치주조직 검사
+1) 치태와 치석
+치아 표면을 건조시킨 후, 치태와 치석의 양과 범위를 조사합니다.
+ 2) 치은 
+치은 표면을 건조시킨 후, 치은의 색상, 크기, 모양, 단단함, 바깥쪽 구조, 위치, 피가 나는지, 아픈지 등을 관찰합니다. 
+3) 치주낭 
+치주낭 측정기를 치주낭에 삽입 후 끼워 넣어서 조금씩 움직이며 치주낭 깊이를 측정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=184183efaf43]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4) 치아 동요도
+치아 양쪽에 금속기구를 대거나, 한쪽에는 손가락을 대고 다른 한쪽에는 금속 기구를 대고 눌러보아 치아가 흔들리는 정도를 측정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=184183f43da3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 방사선학적 검사  
+치조골 수준을 파악하기 위해 구내 방사선 사진을 촬영합니다. 방사선 사진은 삼차원적인 물체를 이차원적으로 보여주는 한계가 있어 방사선 사진만으로 치주질환을 진단할 수 없으며, 임상적인 검사를 병행해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 치석 제거와 구강위생 관리
+잇몸의 염증이 연조직에 국한된 초기에는 치석제거술과 구강위생 관리로 회복이 가능합니다. 
+2. 치근활택술, 치주수술  
+치주염으로 진행되었을 경우 치근활택술이 필요합니다. 치근활택술은 치근에 남아 있는 치석과 백악질의 일부를 제거하여 치근을 매끈하고 단단하며 깨끗하게 만드는 과정입니다. 경우에 따라서는 치주수술이 필요한 경우도 있습니다.
+3. 재생 수술 치료
+치주조직이 다시 생성되는 재생 수술 치료는 극히 아주 제한적인 경우 가능하며, 거의 대부분 질환의 진행을 정지시키거나 속도를 늦추는 것이 주요 목적입니다.
+4. 발치 
+치료의 시기를 놓쳐 질환이 심각하게 진행된 경우에는 남아 있는 치조골을 보존하고, 하악관(아래턱에 있는 큰 신경관), 상악동(위턱뼈에 있는 공기 주머니) 등 주변 해부학적 구조물이나 주변 치아로의 염증 확산을 막기 위하여 치아를 뽑아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[성공적인 치주치료를 위해서는 철저한 구강위생 관리와 치아와 잇몸 사이 세균을 제거하기 위한 외과적 처치 및 비외과적 치근활택, 3~6개월 간격의 주기적인 유지관리가 필요합니다. 중증 만성 치주염과 전신 질환과 연관된 치주염 등을 포함하는 특이한 형태의 치주질환 진행을 조절하기 위해서는 추가적인 화학요법이 필요합니다. 항생제는 의사와 상담 후 처방받는 것이 좋습니다.
+
+1. 화학적 치태조절제  
+치은염과 치태의 형성을 억제하지만, 이미 형성된 치태와 잇몸 염증에 대한 효과는 크지 않습니다.
+2. 항생제의 전신적 투여
+잇몸병(치주질환)은 일종의 감염이므로 항생제를 사용할 수 있습니다. 치주낭 내에 고름을 유발하는 원인균을 제거하려면 항생제를 복합처방해야 합니다.
+3. 항생제의 국소적 전달 
+항생물질을 감염 부위에 정확하게 위치시키고, 적절한 시간 동안 효과적으로 유지하기 위해 전신적 투여 대신 잇몸 속으로 적용하는 국소적 전달 방법이 개발되었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d12f950495]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 비외과적 치주치료
+치은 위에 존재하는 치석과 치태는 치석제거술(scaling)을 통해 제거할 수 있습니다. 치은 아래에 존재하는 치석과 치태는 치근활택술, 치은 절제술, 치은 박리 소파술, 골 이식술, 조직 유도 재생술 등을 통해 제거할 수 있습니다. 치근 활택술(root planing)은 치근에 남아 있는 치석과 백악질의 일부를 제거하여 치근을 매끈하고 단단하며 깨끗하게 만드는 과정입니다. 치근면의 불규칙한 면을 제거하고 매끈하게 만들어 치태의 제거를 쉽게 하고, 새로 형성되는 치석의 치근면 결합을 약화시켜 쉽게 제거할 수 있습니다. 그러나, 비외과적 술식만으로는 깊은 치주낭 내의 치석과 치태를 완벽하게 제거하기 힘든 경우에는 외과적 치료가 필요합니다.
+
+2. 외과적 치주치료 
+1) 치은절제술(Gingivectomy) 
+치주 질환이 진행되면 염증에 의해 잇몸이 자라날 수 있습니다. 일부 고혈압약이나 간질약, 면역억제제 등에 의한 부작용으로 잇몸이 자라는 경우도 있습니다. 치아 주위의 잇몸이 자라나면 치석제거술이나 치은연하 소파술을 해도 접근이 잘 안되고, 잇몸 염증이 완전히 없어지지 않습니다. 그러므로 자라난 잇몸을 잘라내어 치료할 때 더 잘 보이게 하고 치료 기구의 접근이 쉽게 해야 치근활택술 등을 효과적으로 시행할 수 있습니다. 환자 스스로 칫솔질 등을 통한 치태 조절이 용이해집니다. 치은 절제술 후에도 치주 질환이 진행되면 잇몸이 다시 자랄 수 있고, 특히 약에 의해 잇몸이 자란 경우 계속 복용하면 재발 가능성이 높기 때문에, 주치의와 상담하여 다른 종류의 약으로 바꾸어 주는 등의 방법을 고려해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d12f9c33d9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 치은 박리 소파술(치주판막수술, Flap operation) 
+치주판막수술은 중등도 이상 심하게 진행된 잇몸병(치주질환)에서 치주조직이 깊고 광범위하게 파괴되어 치근활택술 또는 치은절제술 등의 방법으로 치료가 불충분하다고 예상되거나 치조골에 대한 처치가 필요한 경우에 선택합니다. 치은 박리 소파술은 국소마취 후에 잇몸을 절개하고 치면에서 잇몸조직을 분리해 시술 부위를 직접 관찰하면서 괴사된 나쁜 조직을 제거하고 뼈를 이식하거나 다듬는 과정으로 이루어집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d12fa3cfb4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 골이식술(Bone graft) 
+심한 치주염으로 인해 치조골이 소실된 경우 골이식을 통해 치조골의 재생을 유도할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d12fa886d8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4) 조직 유도 재생술(Guided Tissue Regeneration)  
+잇몸병(치주질환)으로 인해 치조골이 파괴된 치아 주위에서 차폐막을 이용해 뼈 내부로 치주인대세포의 유입을 선택적으로 유도하여 치주인대, 치조골, 백악질 등 치아 주위 조직의 재생을 도모하는 치료입니다. 차폐막은 치주수술 후 치근표면에서 재생이 일어날 수 있도록 특정 세포를 차단하는 막입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d12fb53a27]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[5) 치은 치조 점막 수술(Mucogingival surgery)
+치은 치조 점막 수술은 치주낭을 제거하고, 단단한 치은을 형성해주며, 잇몸(치은)이 치아 뿌리 끝 쪽으로 이동한 경우를 치료하기 위해 사용됩니다. 잇몸(치은)이 치아 뿌리 끝쪽으로 내려간 부위에 더 두꺼운 조직이 필요할 때는 저작 점막을 이용한 유리치은 이식술(free gingival graft)이나 상피하 결합조직 이식술(subepithelial connective tissue graft)을 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d12fb94625]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환) 치료의 가장 핵심적인 요소는 환자가 스스로 치태를 제거하는 것입니다. 환자의 적극적인 참여 없이는 잇몸병(치주질환)의 예방은 물론 치료도 어려울 수 있습니다. 적절한 기구를 이용해 치태를 제거하는 것이 중요합니다.
+1. 칫솔
+가장 기본적인 기구로 치태 등의 침착물을 제거하고 치은을 마사지합니다.
+2. 치실
+치아 사이의 이물질을 제거하고, 치아와 치아 사이 접촉 부위와 치은열구(치아와 잇몸이 만나는 부위) 부위를 깨끗하게 합니다.
+3. 치간 칫솔 또는 치간 브러쉬
+칫솔로 잘 닦이지 않는 치아 사이 큰 공간이나 치아 뿌리 사이 공간을 청결하게 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=184183ff4bc7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환)은 지속적인 관리에 소홀하면 언제든 쉽게 재발하므로 3~6개월 간격으로 지속적인 점검이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환)을 조기에 치료하지 않으면 치아를 지지하는 치조골이 손상됩니다. 치조골 손상으로 잇몸이 내려가면 잇몸에서 피가 나거나 붓거나 곪는 증상, 치아가 시리고 흔들리는 증상이 나타납니다. 증상이 심하면 치아를 뽑아야 하는 경우가 많습니다. 따라서 증상이 없더라도 3~6개월 간격으로 치과를 찾아 잇몸 검진과 주기적인 치석제거술 및 치주치료가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환)에 영향을 주는 위험요인에는 비만, 흡연, 당뇨병 및 심리 사회적 요소가 있습니다.
+1. 비만
+신체비만지수(BMI, body mass index) 30 kg/m2 이상인 비만인 경우 잇몸병(치주질환)이 발생할 가능성이 더 높습니다.
+2. 흡연
+흡연자는 비흡연자에 비해 잇몸병(치주질환)이 발생할 가능성이 더 높습니다. 현재 흡연자는 담배를 끊은 사람이나 비흡연자에 비해 치주질환의 예후가 불량하며, 치주치료의 효과도 떨어집니다.
+3. 당뇨병
+일반적으로 당뇨 환자는 치주조직 파괴가 더 심하고, 잇몸병(치주질환)의 유병률(인구 중 환자 수의 비율)과 중증도(질환의 심각도)가 더 높습니다.
+4. 심리, 사회적 요소
+심리적 스트레스에 따른 행동변화나 두려움은 직접적으로 잇몸병(치주질환)에 영향을 미칩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환)은 예방이 무엇보다 중요합니다. 그중에서도 잇몸에 붙은 치태를 제거하는 칫솔질을 제대로 하는 게 중요합니다. 치태를 제거하려면 양치질을 할 때 칫솔을 잇몸에 밀착시킨 후 치아와 잇몸이 닿는 부위부터 닦아야 합니다. 일단 치석이 생기면 칫솔질만으로 완전히 제거하기 어려우므로, 정기적으로 치과 검진을 받고 1년에 1회 이상 치석제거술을 받는 게 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[118]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[잇몸병(치주질환)은 주로 30대 중반부터 시작됩니다. 구강 위생 관리를 소홀히 하면 치석이 쌓이고, 염증이 생기면서 치아 주위 잇몸과 치조골이 손상됩니다. 오랜 시간 질환이 진행되면 통증이 없다가 갑자기 잇몸이 붓고, 치아가 흔들리고, 아픈 증상이 나타나는 등 치주질환이 중등도 이상의 상태가 됩니다.
+따라서 20~30대부터 정기적인 치과 검사와 올바른 양치질 습관이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[지원체계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[119]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[만 19세 이상 국민이라면 누구나 매년 1월 1일부터 12월 31일 사이 건강보험 치석제거술을 1회 받을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 전국치주과학교수협의회. (2015). 치주과학(6판), 군자출판사.
+
+2. 전국치주과학교수협의회. (2020). 치주과학(7판), 군자출판사.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

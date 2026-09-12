@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[우울감]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6788]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3667]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 우울감은 단순히 '기분이 안 좋은 것'을 넘어, 마음과 몸까지 힘들어져 일상생활을 하기 어려운 '상태'를 뜻합니다. 또한 우울감은 슬픔과도 구별됩니다. 우울증은 의지가 약해서 생긴 것이 아니라, 뇌와 마음의 신호등에 잠시 문제가 생긴 것과 비슷합니다.
+• 최근 코로나19 팬데믹 이후 전 세계적으로 우울감을 겪는 사람들이 늘어났고, 특히 한국에서는 청소년과 청년층에서 크게 증가했습니다.
+• 중요한 것은 우울감이 ‘마음의 감기’처럼 누구나 겪을 수 있고, 전문가의 도움을 받으면 충분히 나아질 수 있는 치료 가능한 ‘상태’라는 점입니다. 다만 ‘마음의 감기’라고 해서 우울감을 겪는 이에게 대수롭지 않게 말해서는 안 됩니다. 왜냐하면 우울감으로 인한 고통을 겪는 정도는 사람마다 다르기 때문입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[122]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 우울감이란 기분의 저하와 함께 생각의 형태·흐름·내용, 동기와 의욕, 관심, 행동, 수면, 신체활동 등 인지적·신체적 증상을 포함하는 전반적인 기능이 저하된 상태를 말합니다.
+• 단순한 우울감은 누구나 겪을 수 있지만, 우울증과는 구분해야 합니다. 정신건강의학과에서 말하는 '우울증(주요 우울장애)'은, 2주 이상 거의 매일 우울한 기분이 지속되고, 이전에는 즐거웠던 일들(좋아하는 게임, 친구 만나기, 운동 등)에 대한 흥미나 즐거움이 현저히 감소한 상태를 말합니다. 이런 기분 변화뿐 아니라, 잠을 잘 못 자거나 너무 많이 자고, 식욕이 없거나 반대로 폭식하게 되며, 집중력이 떨어져 공부나 책이 눈에 안 들어오는 등의 마음과 신체 증상이 함께 나타납니다.
+• 우울증의 발생에는 신경생물학적 요인, 심리사회적 요인, 암이나 갑상선 질환과 같은 신체질환에 의한 요인 등 다양한 원인이 작용할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[123]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1.	정신의학에서 우울한 상태란 일시적으로 기분만 저하된 상태를 뜻하는 것은 아닙니다. 일시적인 우울감은 때때로 누구나 겪습니다. 그렇지만 우울증을 경험할 때는 기분 저하와 함께 생각의 내용이 우울해지고 생각하는 속도도 느려져 집중력이 떨어지기도 합니다. 우울증에 빠지게 되면 대개 식욕, 성욕, 수면 시간이 감소하지만, 때로는 수면 과다나 식욕 증가가 나타나기도 합니다.
+
+2.	우울 삽화(에피소드)란 기분의 저하와 함께 전반적인 정신 기능 및 행동의 변화가 나타나는 일정 기간을 의미합니다. '삽화'라는 용어는 증상이 존재하는 시기와 증상이 없는 시기가 뚜렷하게 구분된다는 의미로, 삽화가 끝나면 자연적으로 증상이 사라질 수도 있습니다. 우울 삽화 기간에는 대개 우울한 상태가 매일, 온종일 지속되는데, 이러한 특징은 정상과 병적인 상태를 구분하는 데 매우 중요합니다.
+
+3.	우울한 상태가 매우 심하고 2주 이상 지속되어 일상생활을 하기 어려운 경우 주요 우울장애로 진단합니다. 우울한 증상이 그보다 가볍거나, 지속 기간이 짧은 경우를 경도 우울장애라고 합니다. 경한 우울 증상이 2년 이상 장기간 지속되면서 일상생활에 어려움이 있는 경우에는 지속형 우울장애라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[124]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 우울감은 일시적인 기분 저하에서부터 일상생활에 심각한 지장을 초래하거나 자살 위험을 높이는 우울장애에 이르기까지 다양한 형태로 나타납니다. 정신건강의학과에서는 DSM-5 진단 기준에 따라 우울장애를 증상의 원인, 시기, 심각도에 따라 다음과 같이 세분화하여 분류합니다.
+
+주요 우울장애(Major Depressive Disorder): 가장 대표적인 형태의 우울증입니다. 우울한 기분이나 흥미와 즐거움의 상실이 2주 이상 지속되며, 식욕 및 수면 변화, 피로감, 무가치감, 죄책감, 집중력 저하 등이 동반됩니다. 이로 인해 학교나 직장 생활, 대인관계 등 일상 기능 수행에 큰 지장을 줍니다.
+
+지속성 우울장애(Persistent Depressive Disorder): 과거에 기분부전증(Dysthymia)으로 불리던 질환과 만성 주요 우울장애를 통합한 진단명입니다. 주요 우울장애보다 증상의 강도는 다소 약할 수 있으나, 우울한 기분이 성인의 경우 최소 2년 이상, 소아·청소년의 경우 1년 이상 지속되는 만성적인 경과를 보입니다.
+
+파괴적 기분조절부전장애(Disruptive Mood Dysregulation Disorder, DMDD): 주로 아동·청소년기에 나타나는 질환으로, 만성적이고 심한 짜증과 함께 상황에 맞지 않는 분노 폭발이 빈번하게 발생하는 것이 특징입니다. 분노 발작이 없는 시기에도 하루 대부분 과민하거나 화가 난 상태가 지속됩니다. 이는 단순한 사춘기 반항이 아니라 감정을 조절하는 뇌 기능의 문제로, 성인기 우울증이나 불안장애로 이어질 위험이 있어 전문적인 치료가 필요합니다.
+
+월경전 불쾌장애(Premenstrual Dysphoric Disorder, PMDD): 월경 시작 1주일 전부터 심한 정서적 불안, 분노, 우울감, 무기력감 등이 나타나 일상생활을 방해하는 질환입니다. 일반적인 월경전증후군(Premenstrual syndrome, PMS)보다 증상이 훨씬 심각하며, 월경이 시작되면 수일 내에 증상이 호전되고 월경이 끝나면 사라지는 양상을 보입니다.
+
+계절성 우울장애(Major Depressive Disorder with a Seasonal Pattern): 특정 계절, 주로 일조량이 줄어드는 가을이나 겨울에 우울 증상이 반복적으로 나타나고 봄이 되면 호전되는 경우입니다. 일반적인 우울증과 달리 무기력감과 함께 잠이 많아지는 과다 수면, 탄수화물을 많이 찾는 식욕 증가 및 체중 증가가 특징적으로 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[125]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 개인적, 사회적 요인이 스트레스가 되어 뇌 기능 활성을 저하시키고 염증 반응을 일으켜 우울감을 유발합니다. '뇌 속 신경세포 사이의 신경전달물질 불균형이나 염증 반응이 원인이 되어 우울증이 발생한다'는 것이 최근까지 정신의학계의 정설입니다. 우울 증상의 발현에는 신경생물학적 요인, 심리사회적 요인, 신체질환에 의한 요인 등이 다양하게 작용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[125]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf270261]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[125]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 신경생물학적 요인 
+유전적인 영향과 뇌의 신경전달물질 변화 등이 우울증 발생에 영향을 줄 수 있습니다. 가족 중 우울증을 앓은 사람이 있는 경우 그렇지 않은 경우보다 우울증이 나타날 가능성이 다소 높다는 연구 결과가 있습니다. 주변 환경과 스트레스를 비롯한 다양한 요인에 의해 신경전달물질의 불균형 및 시상하부-뇌하수체-부신(HPA) 축의 기능 이상이 흔히 발생하고, 최근에는 염증 반응 역시 우울증의 발생에 영향을 끼친다고 되어 있습니다.
+
+1) 신경전달물질 불균형- 신경전달물질(대표적으로 세로토닌, 노르에피네프린 등)의 결핍이나 불균형이 우울증을 유발한다는 이론이며, 이러한 이론을 바탕으로 신경전달물질의 기능을 조절하는 항우울제가 개발되었습니다. 
+2) 스트레스 호르몬 분비 인자 가설- 스트레스 호르몬 분비 인자가 활성화되면, 스트레스에 취약해져 우울증이 생긴다는 이론입니다. 개인의 유전적 요소는 스트레스 취약성에 영향을 줄 수 있습니다.
+3) 면역반응을 조절하는 신경화학물질의 장애- 외상, 감염, 스트레스 등 다양한 요인에 의해 뇌의 항상성이 깨지면, 면역계는 면역반응을 조절하는 신경화학물질(사이토카인)을 통해 이러한 정보를 중추신경계와 내분비계로 전달합니다. 많은 임상적, 실험적 연구를 통해 내·외적 스트레스에 의한 염증 반응이 우울 증상의 발현과 지속에 중요한 역할을 한다는 사실이 밝혀졌습니다.
+
+2. 심리사회적 요인 
+사랑하는 사람의 죽음, 이별, 외로움, 실직, 경제적 어려움과 같은 삶의 사건이 우울감 및 우울증을 일으키거나 악화시키는 원인이 되기도 합니다.
+특히 코로나19 팬데믹과 같은 환경 변화도 중요한 요인입니다. 실제로 코로나 유행 초기에 사람들의 이동이 제한되고 친구들을 못 만나 사회적 고립을 겪으면서 전 세계 우울증 환자가 약 25% 증가한 것으로 보고되었습니다. 주요 원인으로는 전례 없는 사회적 거리두기로 인한 고립감과 일상의 변화가 꼽힙니다. ‘코로나 블루’라는 신조어도 생겼는데, 코로나19와 우울함(blue)을 합친 말로, 코로나19로 인해 일상에 큰 변화가 생기면서 느끼는 우울감이나 무기력감을 뜻합니다. 이처럼 사회적 고립, 외로움, 감염에 대한 두려움, 사랑하는 사람의 상실, 그리고 가족의 경제적 불안정 등이 모두 우울감을 높이는 스트레스 요인입니다.
+최근에는 디지털 미디어 과다 사용도 우울감과 연관이 있다는 연구들이 있습니다. 예를 들어, 하루 4시간 이상 스마트폰을 사용하는 청소년은 그렇지 않은 청소년에 비해 우울감을 느끼거나 극단적인 생각을 하는 비율이 더 높게 나타났다는 국내 연구 결과가 있습니다. 디지털 미디어 과의존으로 수면이 부족해지거나 사회적 활동이 줄어들면 우울한 감정이 악화될 수 있습니다. 수면 부족 자체도 우울 위험을 높이는 요인인데, 한 연구에서는 밤에 5시간 미만으로 자는 사람은 충분히 자는 사람보다 향후 우울증이 생길 확률이 2.5배 높다고 보고했습니다. 이처럼 규칙적인 수면과 활동이 깨지고 디지털 미디어 사용이 과도해지면 감정 기복이 심해지고 우울감에 취약해질 수 있습니다.
+
+3. 신체질환에 의한 요인 
+갑상선 기능 이상, 뇌졸중, 고혈압, 암, 당뇨병, 만성 통증 등의 신체질환은 우울증의 원인이 되기도 합니다. 그 밖에 호르몬 변화(예: 산후 우울감, 갱년기 우울증)나 약물 부작용 등도 우울 증상을 유발할 수 있습니다. 반대로 우울증이 오랜 기간 지속되면 신체질환을 유발할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[126]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우울증은 적절한 치료를 받으면 충분히 회복될 수 있습니다. 하지만 우울증의 가장 큰 특징은 '재발' 위험이 높다는 것입니다. 치료로 증상이 좋아졌다고 해서 일찍 중단하면 재발할 수 있습니다. 여러 번 재발할수록 예후는 더 좋지 않을 수 있습니다. 따라서 좋은 예후를 위해서는 증상이 좋아진 후에도 재발을 막기 위해 주치의와 의논하면서 6개월에서 1년 이상 꾸준히 치료를 유지하는 것이 매우 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[127]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['병태생리'란 우리 몸에 병이 생겼을 때 어떠한 원리로 증상이 나타나는지를 설명하는 것입니다. 우울증은 단순히 마음이 약해서 생기는 것이 아니라, 뇌의 신경화학적, 호르몬적, 구조적 변화가 복합적으로 작용하여 발생하는 의학적 질환입니다. 현재 의학계에서 인정하는 가장 핵심적인 병태생리 기전은 다음과 같습니다.
+
+• 신경전달물질의 불균형(전통적 기전): 우리 뇌는 신경세포끼리 신호를 주고받으며 감정, 수면, 식욕 등을 조절합니다. 이때 '세로토닌', '노르에피네프린', '도파민' 같은 화학 물질이 신호등 역할을 합니다. 우울증은 이런 물질의 분비가 줄어들거나 균형이 깨지면서 뇌의 신호 전달 체계에 오류가 생긴 상태입니다. 하지만 최근 연구들에 따르면 신경전달물질의 부족만으로는 우울증의 모든 증상과 치료 과정을 설명하기 어렵다고 보고 있습니다.
+
+• 스트레스 호르몬 시스템(시상하부(Hypothalamus) - 뇌하수체(Pituitary) - 부신(Adrenal)을 연결하는 신경내분비 시스템, HPA 축)의 과활성: 우리 몸에는 스트레스를 받으면 코르티솔이라는 호르몬을 분비해 대처하는 시스템(HPA 축)이 있습니다. 건강한 상태에서는 스트레스 상황이 끝나면 이 시스템이 다시 정상으로 돌아옵니다. 그러나 만성적인 스트레스나 우울증 상태에서는 이 조절 기능이 제대로 작동하지 않아 스트레스 호르몬(코르티솔)이 과도하게 분비됩니다. 지속적으로 높은 농도의 코르티솔은 뇌세포에 독성을 유발하여 뇌 기능을 떨어뜨립니다.
+
+• 신경가소성의 저하와 뇌 구조의 변화(최신 지견): 뇌는 새로운 것을 배우거나 환경에 적응할 때 신경세포를 새로 만들고 연결망을 재구성하는 능력, 즉 신경가소성(Neuroplasticity)을 가지고 있습니다. 이 과정에서 뇌에 영양을 공급하는 뇌유래신경영양인자(Brain-Derived Neurotrophic Factor, BDNF)라는 단백질이 필수적입니다. 하지만 우울증이 지속되면 BDNF가 감소하여 신경세포가 위축되고, 기억과 감정을 조절하는 해마(Hippocampus)의 크기가 줄어드는 현상이 나타납니다. 즉, 우울증은 뇌가 스트레스로부터 회복하고 재생하는 능력이 떨어진 상태라고 할 수 있습니다. 항우울제 치료는 단순히 기분을 좋게 하는 것이 아니라, BDNF를 다시 증가시켜 위축된 뇌세포를 회복시키고 신경가소성을 복구하는 과정입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[128]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[•「국민건강영양조사」에 따르면, 2023년 기준 우울감 경험률은 11.6%입니다. 우울감 경험률은 성별과 연령에 따라 차이가 납니다. 성별로는 여자가 남자보다 우울 증상을 더 많이 경험합니다. 연령별로는 20~30대에 비교적 많이 경험하다가 40대에 감소하고, 50대에 다시 늘어나 70대 이상 노년층에서 가장 많이 경험한다고 알려져 있습니다. 또한 코로나19 팬데믹 이후 이러한 경향은 더욱 두드러집니다. 한국을 포함해 전 세계에서 우울증 환자가 크게 늘었습니다. 2025년 현재 국내 우울증 환자 수가 110만 명을 넘어 역대 가장 많은 수를 기록했습니다. 이는 5년 전인 2020년 83만 명 수준과 비교해 30% 이상 증가한 수치입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[129]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 우울증은 부정적인 기분 외에도 인지, 정신운동, 신체 등에 다양하게 나타납니다. 
+• 소아청소년기 우울증은 지속적이고 전반적인 슬픔, 무감동, 따분함, 자극 과민성 등이 주요 증상입니다. 
+• 노년기 우울증은 기분의 저하를 호소하기보다는 신체적 호소가 많은 것이 특징입니다.
+• 산후 우울감은 피로, 무기력, 의욕 상실, 짜증, 초조, 수면장애, 인지기능 저하 등으로 나타날 수 있습니다. 
+• 갱년기 우울증은 불안, 우울감, 심한 기분 변동, 수면장애, 인지기능 저하 등의 증상과 함께 다양한 신체 증상이 동반됩니다.
+
+1. 우울증의 주요 증상 
+
+1) 우울증의 가장 핵심적인 증상은 기분의 부정적인 변화입니다. 우울증의 기분 변화는 단순한 우울감으로 나타나지 않는 경우도 많으며, 고통스러운 기억의 회상, 불쾌한 사건에 대한 감수성 증가, 즐거운 사건에 대한 감수성 감소, 무쾌감증, 무감동, 감정 표현 및 기능 감소 등의 형태로 나타나기도 합니다.
+2) 우울증에서 흔히 나타나는 인지적 증상은 집중력과 주의력 저하, 부정적 사고, 죄책감, 자살 사고 등입니다. 우울 사고가 매우 심하면 망상적 상태에 이를 수 있으며, 증상이 심각한 일부 환자는 망상과 일치하는 불쾌한 내용의 환청이나 환시를 경험하기도 합니다. 
+3) 증상은 피로감, 주의력과 기억력 저하, 불쾌한 주제에 대한 고통스러운 생각을 계속 되풀이하는 등의 양상으로 나타나는 경우가 많지만, 일부 환자에서는 불안, 초조, 분노 폭발 등의 과민성 반응도 나타날 수 있습니다 
+4) 식사장애(거식증 또는 폭식증), 성기능 장애, 동기 및 에너지 저하 등 삶을 유지하는 데 필요한 신체 기능의 변화는 우울증의 중증도를 나타내는 지표입니다. 통증, 피로감, 신체적 불편감 등 신체감각 이상과 수면 패턴의 변화로 대표되는 생체리듬의 교란도 여기 포함됩니다.
+
+2. 연령 및 대상별 우울 증상]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[129]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18455e6a9fe2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[129]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 소아청소년기 우울증
+지속적이고 전반적인 슬픔, 무감동, 따분함, 자극 과민성 등이 주요 증상입니다. 소아기 우울증은 자극 과민성, 활동 과다, 공격적 행동, 친구 관계의 악화, 무단결석, 등교 거부, 가출, 학교 성적 저하, 신체 증상, 분노 발작, 공포증 등으로 위장되어 나타나는 경우가 있으므로 주의 깊게 관찰해야 합니다. 
+2) 노인 우울증
+기분 저하보다 신체적 호소가 많은 것이 특징입니다. 우울하냐고 물으면 '우울하지 않다'고 부정하는 경우가 많으며, 식욕 저하, 수면장애, 활력 감소 등 신체 증상을 주로 호소합니다. 또한 노인 우울증에서는 인지기능 장애가 흔히 나타나며, 이로 인해 치매로 오인되기 쉬워 가성 치매라고도 합니다. 
+3) 산후 우울감 및 우울증
+산모의 약 85%에서 발생하는 산후 우울감은 일시적이며 대부분 자연소실됩니다. 하지만 약 10~20%는 산후 우울증으로 진행해 피로, 무기력, 의욕 상실, 짜증, 초조, 수면장애, 인지기능 저하가 나타날 수 있습니다. 산후 우울증의 독특한 증상은 아기의 건강이나 사고 발생에 대해 과도하고 부적절한 걱정을 하거나, 반대로 아예 관심을 잃는 것입니다. 이로 인해 아기에게 적대적, 폭력적인 행동을 하거나 산모 스스로 아기나 자신에게 해를 끼칠 것 같은 두려움이 나타나기도 합니다. 
+4) 폐경 여성의 우울
+완전한 폐경까지는 대략 5~6년이 소요되는데, 난소 기능이 점차 감소하면서 여성 호르몬이 줄어 갱년기 증상이 생깁니다. 갱년기 우울증은 우울감과 더불어 불안, 심한 기분 변동, 수면장애, 인지기능의 장애 등으로 나타나며 홍조와 야간 발한, 질 건조, 성교통, 요실금 같은 비뇨생식기 증상을 동반합니다. 
+5) 기타
+화병은 '화가 날 만큼 충격적인 일을 경험한 결과'로 생긴 분노로, 행동 및 신체 증상으로 표출되기도 합니다. 과거에는 진단명으로 사용된 적도 있으나, 현재는 정식 진단명으로 인정하지 않습니다. 정신 행동 증상으로 분노, 우울, 불안, 죄책감, 생각이 많음, 피해 의식, 하소연, 눈물과 한숨 등이 나타납니다. 신체 증상으로는 열감, 가슴 답답함, 구갈, 가슴 두근거림, 식욕감퇴, 위장장애, 불면, 두통, 기타 만성 통증 등이 흔히 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 평가]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[131]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 자가 보고식 설문지를 이용해 우울감의 심각도를 간단히 파악할 수 있습니다. 하지만 이 점수가 높다고 해서 ‘진단’이 되는 것은 아니며, 각 설문지의 결과가 각각 다른 상태를 의미할 수 있기 때문에 반드시 전문가와의 상담과 도움이 필요함을 기억해야 합니다.
+
+1. 우울증 여부를 스스로 판단할 수 있는 방법에는 어떤 것이 있나요?
+ 
+1) 우울 증상을 평가하는 자가 보고식 설문지를 사용해 증상의 정도를 파악할 수 있습니다. 설문 결과가 반드시 우울증 진단을 의미하지는 않으며, 설문 결과에서 우울증이 의심된다면 정확한 진단을 위해 의사를 찾아야 합니다.
+
+(1) CES-D 척도(Center for Epidemiologic Studies-Depression Scale, CES-D Scale)는 우울증의 선별검사 및 자가진단에 가장 많이 사용되는 척도로 총 20개 문항으로 구성됩니다. 총점 16점 이상이면 경도, 21점 이상이면 중등도, 25점 이상이면 중증 우울 증상을 의심하여 전문가와의 상담이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 평가]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[131]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19b6982ea144]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 평가]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[131]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[(2) PHQ-9(Patient Health Questionnaire-9)는 DSM-5의 주요 우울증 진단 기준에 해당하는 9항목 자가 보고식 설문지입니다. 총점 9점 이상이면 우울증을 의심해 전문가와의 상담이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 평가]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[131]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1845b2b95727]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[132]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 우울증의 주요 증상이 있거나 우울 증상으로 인해 일상생활에 장애가 초래될 경우, 병원을 방문해 정신건강의학과 의사와 상의해야 합니다. 죽음이나 자살에 대한 생각이 반복적으로 떠오른다면 우울감이 심각한 것이므로 반드시 병원을 찾아야 합니다.
+
+1. 우울증이 의심되어 병원을 방문해야 하는 경우
+
+1) 우울증의 주요 증상이 있다면 병원을 방문해 우울증인지 확인하는 것이 좋습니다. 2주 이상 우울한 기분(슬픔, 공허함, 절망감 등)이 들거나 자꾸 울게 될 때, 거의 모든 일상 활동에 대한 흥미나 즐거움이 뚜렷하게 저하될 때 우울증을 의심할 수 있습니다. 우울증의 자가 진단 설문지를 이용해 우울 증상의 정도를 평가하는 것도 도움이 됩니다.
+2) 자신이 경험하는 것이 우울 증상인지 자각하지 못하는 경우가 많습니다. 스스로 생각할 때 가벼운 우울감이나 일시적인 스트레스 증상이라고 여겨지더라도 증상이 직업, 학업, 대인관계 등 일상생활에 계속 지장을 준다면 전문가와의 상담을 통해 우울증 여부를 판단할 것을 권고합니다.
+3) 자살 사고가 뚜렷하거나, 자살을 반복적으로 상상하거나 방법을 찾아보는 경우, 실제 자살을 계획하는 등 자살 위험이 큰 경우에는 주변의 가까운 보호자에게 도움을 요청하고 즉시 정신건강의학과 진료를 통해 치료와 함께 자살 예방 조치를 취해야 합니다.
+4) 표준화된 정부 지원 자살 예방 교육 프로그램인 '보고 듣고 말하기 교육', '자살예방 생명지킴이 교육'은 자살 위험에 처한 주변인의 '신호'를 인식해 적절한 도움을 받을 수 있도록 일반인을 교육하는 서비스입니다(자살예방 생명지킴이). 자살 예방을 위한 노력은 환자 본인뿐 아니라, 사회와 국가 차원의 도움과 지지가 필요합니다.
+
+2. 병원에서 시행하는 우울증 치료
+
+1) 약물 치료 
+가벼운 우울감이 아닌 의학적 질환으로서의 우울증이라면 약물 치료를 고려합니다. 항우울제도 많이 개선되어 부작용은 적으면서 효과적인 약물 치료가 가능해졌습니다. 우울 증상의 생물학적인 원인은 세로토닌이나 노르에피네프린, 도파민 등 다양한 신경전달물질의 불균형이라고 생각합니다. 항우울제는 이런 신경전달물질의 균형을 조절하여 증상을 개선합니다. 약물 치료는 수일에서 수주 후 효과를 나타내므로 4~6주 가량 꾸준히 약물을 복용하면서 증상에 따라 용량을 조절하거나 약물을 변경합니다. 꾸준한 치료가 필요한 만큼 주치의와의 신뢰 관계가 중요합니다. 증상이 호전된 후에도 약물을 중단하면 재발 위험이 있으므로 6개월 가량의 유지 치료를 권장합니다.
+2) 비약물 치료
+정신 치료는 정신건강 전문가와 대화해 가며 현재 및 과거의 정서적 어려움이나 갈등 상황 등을 돌아보는 치료 방법으로, 상담 치료 또는 면담 치료라고도 합니다. 가벼운 우울증은 정신 치료만으로도 호전될 수 있지만, 심한 우울증에서는 정신 치료와 약물 치료를 병행합니다. 대표적인 정신 치료 방법으로는 인지행동치료, 대인관계치료 등이 있습니다.
+최근 개발된 반복적 경두개 자기자극법(Repetitive transcranial magnetic stimulation, rTMS)은 머리에 전자기장을 적용해 뇌를 간접 자극하는 비침습적, 비약물 치료법으로, 우울증에서 효과가 입증되고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[133]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우울증은 단순한 기분 문제가 아니라, 스트레스에 반응하는 호르몬 시스템(HPA 축)이 과도하게 활동하거나 뇌세포를 보호하는 단백질(BDNF)이 감소하여 뇌의 회복력(신경가소성)이 저하된 상태입니다. 이로 인해 기억과 감정을 조절하는 뇌 부위인 해마가 위축되기도 합니다. 항우울제는 신경전달물질의 균형을 맞출 뿐만 아니라, BDNF를 활성화하여 위축된 뇌세포를 회복시키고 신경망의 연결을 다시 강화하는 역할을 합니다.
+
+• 오해와 진실: 항우울제는 중독성이 있거나 사람의 성격을 인위적으로 바꾸는 약이 아닙니다. 스트레스로 인해 손상되고 위축된 뇌 기능을 생물학적으로 회복시키는 치료제입니다.
+
+• 효과: 약을 복용한다고 해서 즉시 기분이 좋아지는 것은 아닙니다. 약물이 뇌 속의 신경세포를 성장시키고 새로운 신경망을 연결하는 뇌의 구조적 회복(신경가소성) 과정을 거쳐야 하므로, 보통 4~6주 가량 꾸준히 복용해야 치료 효과가 나타나기 시작합니다.
+
+• 중요한 점: 증상이 좋아졌다고 해서 임의로 약물을 중단하면 재발할 위험이 매우 높습니다. 뇌의 신경계가 완전히 회복되고 안정화되기 위해서는 충분한 시간이 필요하므로, 증상이 호전된 후에도 최소 6개월에서 1년 이상 유지 치료를 지속하는 것이 재발 방지에 필수적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[134]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[-	상담 치료(정신 치료): 전문가(의사, 상담사 등)와 대화를 나누며 내 마음의 어려움이 무엇인지, 나를 힘들게 하는 생각이나 행동 패턴이 무엇인지 함께 찾아가는 과정입니다.
+-	인지행동치료(CBT): 세상을 바라보는 부정적인 생각의 틀(인지)을 점검하고, 우울한 감정으로 이어지는 행동을 바꿔나가는 연습을 통해 증상을 개선하는 데 매우 효과적인 치료법입니다.
+-	우울증 디지털 치료제: 최근에는 '디지털 치료제'라고 불리는 앱(애플리케이션) 형태의 치료제도 개발되고 있습니다. 2023년 한국 식품의약품안전처는 불면증(우울증과 관련이 깊음)을 치료하는 데 도움을 주는 앱 '솜즈(Somzz)'를 국내 1호 디지털 치료제로 허가한 바 있습니다. 2025년 현재, 우울증을 치료하는 디지털 치료제의 연구와 개발 또한 활발하게 진행되고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[135]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 근거가 있는 우울감의 자가 관리법에는 아로마테라피, 독서요법, 컴퓨터 기반 자가 관리법, 광선요법, 이완 요법, 운동 등이 있습니다.
+
+1. 우울감의 자가 관리법– 정말 효과적인가요?
+ 
+1) 우울감의 자가 관리를 위한 방법으로 건강보조식품 섭취, 식습관 관리, 독서 등의 기분 전환 요법, 일상생활의 변화 등 수많은 방법이 제시되지만, 과학적으로 효과가 입증된 자가 관리법은 많지 않습니다. 자가 관리법에만 의존하면 오히려 위험할 수 있습니다. 적절한 치료 시기를 놓쳐 병을 키우거나, 부적절한 자가 관리법 자체가 우울증을 비롯한 정신건강에 부정적인 영향를 초래하기도 합니다. 따라서 자가 관리법을 맹신하기보다 스스로 일상생활의 범위 안에서 경제적, 시간적으로 부담이 되지 않는 정도로 활용하고, 우울감이 지속되거나 심해지는 경우에는 정신건강 전문가와 상의하는 것이 바람직합니다.
+
+2. 의학적 근거에 기반한 우울감의 자가 관리]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[135]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18455e73a1d5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[135]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 아로마테라피(aromatherapy): 아로마테라피란 대표적인 대체의학의 하나로, 식물에서 추출한 농축 오일 성분을 이용해 심신의 건강을 증진하는 방법입니다. 오일의 특정 화학 성분이 후각을 통해 기분과 불안을 조절하는 뇌 중추에 작용해 심신 이완 및 우울감, 불안함, 불쾌감의 감소 효과를 나타냅니다. 그러나 아로마테라피는 어디까지나 우울증 치료의 보조적인 방법일 뿐 표준적 치료를 대신할 수 없습니다.
+
+2) 독서요법(bibliotherapy): 독서요법은 우울감, 지나친 죄책감, 비관적 사고 등 부정적인 정서를 스스로 조절하기 위한 다양한 전략과 이를 실생활에 적용하는 방법을 알려주는 책(매뉴얼)을 읽는 자가 관리법입니다. 우울감을 자각하고 스스로 인지치료적 접근, 행동치료적 접근, 명상과 같은 심신 의학적 방법으로 이를 개선하기 위한 다양한 전략을 제시하고 연습할 수 있도록 쓰인 책이 점차 늘어나고 있습니다. 독서요법의 궁극적 목적은 독자 스스로 우울증에 도움이 되지 않는 생각이나 행동을 자각하고 변화시키며, 나아가 자기관리 기술이나 대처 기술을 증진하도록 가이드를 제공하고 격려하는 것입니다.
+ 
+3) 컴퓨터 기반 중재법(computerized intervention): 온라인 프로그램(웹사이트, 모바일 애플리케이션 등)을 이용해 정신건강을 증진하는 자가 관리법입니다. 독서요법과 비슷하게 인지치료나 행동치료적 접근, 심신의학적 접근(명상, 이완훈련 등)을 기반으로 자신의 감정과 기분, 생각을 점검하고 문제가 되는 생각이나 행동을 조절하는 대처 기술 증진 프로그램으로 구성됩니다. 보건복지부 국립정신건강센터 국가정신건강정보포털에서는 다양한 정신건강 관련 자가검사와 증상별 정보를 제공합니다(국가정신건강정보포털 서울시정신건강복지센터에서 개발 운영하는 '마인드스파' 프로그램 중 '마음터치'라는 프로그램도 있습니다). 마음터치 프로그램은 인지행동치료를 기반으로 한 온라인 자가 관리 프로그램으로, 현재 상황 돌아보기(1단계), 자동적 사고 파악하기(2단계), 인지적 오류 점검하기(3단계), 생각과 감정 바꾸기(4단계), 문제 해결하기(5단계), 정신건강 지키기(6단계)로 구성됩니다. 모바일로 접근 가능한 다양한 명상 애플리케이션도 도움이 될 수 있습니다.
+ 
+4) 광선요법(light therapy): 겨울처럼 일조량이 줄어드는 시기에는 생체의 24시간 주기 리듬이 지연되어 우울증이 쉽게 발생합니다. 광선요법은 이런 가설을 기반으로 이른 아침에 30분에서 1시간 정도 밝은 빛을 쬐어 우울 증상 개선을 도모합니다. 겨울에 반복되는 계절성 우울증뿐 아니라 비계절성 우울증에도 효과가 있다는 연구 결과가 있어, 항우울제 등 표준 약물치료에 보조적인 요법으로 권고됩니다.
+ 
+5) 이완요법(relaxation therapy): 스스로 심신을 이완하는 방법을 익혀 육체적, 정신적 긴장을 감소시키는 방법입니다. 복식호흡, 요가, 점진적 근육 이완법, 마사지, 명상 등이 대표적입니다. 특히 훈련을 통해 복식호흡과 점진적 근육 이완법을 익혀 두면 언제 어디서나 필요한 순간에 적용할 수 있습니다. 이완요법은 우울증, 공황장애 등의 불안장애, 불면증 등 다양한 정신질환의 치료에 효과적으로 이용됩니다.
+ 
+6) 운동(exercise): 운동은 우울증의 위험을 낮추고 증상을 경감시킬 수 있습니다. 유산소 운동과 근력 운동 모두 효과적이라고 알려져 있으나 어느 쪽이 더 우수한지에 대해서는 논란이 있습니다. 최근 캐나다 가이드라인에서는 주 3회 이상, 중등도의 강도로 최소 9주간 운동을 지속하는 것이 우울감 감소에 효과적이라고 합니다.
+ 
+7) 기타 
+(1) 스트레스 피하기: 우울증을 겪는 사람은 스트레스 노출 가능성이 2.5배 높으며, 우울 장애의 80%가 주요 인생 사건 후에 나타납니다. 직장에서 업무 긴장도가 높은 경우에도 우울증의 위험이 커집니다. 따라서 스트레스 상황을 피하는 것이 우울증 예방에 도움이 됩니다. 
+(2) 식이: 오메가-3 지방산 섭취의 우울감 감소 효과는 아직 논란이 있습니다. 하지만 현재까지의 연구를 종합해 볼 때 도움이 될 수 있으므로, 오메가-3 지방산이 풍부한 등푸른 생선 등을 섭취합니다. 탄수화물, 단백질, 채소를 골고루 규칙적으로 섭취해 뇌에 안정적인 에너지를 공급하고, 통곡물, 신선식품, 과일, 채소를 섭취하면서 가공식품을 피함으로써 충분한 미세영양소를 공급하는 것이 우울증 예방에 도움이 됩니다.
+(3) 절주: 알코올 의존은 흔히 우울 증상과 공존하며, 폭음하는 경우 우울증 위험이 2~4배 증가하고, 알코올 중독의 경우 우울증에 걸릴 확률이 약 44%로 알려져 있습니다. 따라서 절주하는 것이 우울증 예방에 도움이 됩니다. 
+(4) 적정 체중 유지: 비만과 저체중 모두 우울증 위험을 높입니다. 비만인 경우 정상 체중보다 우울증 위험이 13% 높으며, 특히 여성은 우울증 위험이 21%에 달해 남성(3%)에 비해 압도적으로 높습니다. 반대로 우울증이 있으면 비만 발생 위험이 높아집니다. 우울증은 식욕 및 체중, 수면과 활동 패턴의 변화를 동반하므로 비만 및 과체중을 유발할 수 있습니다. 저체중인 경우에도 정상 체중보다 우울증 위험이 약 16% 높습니다. 따라서 적정 체중을 유지하는 것이 우울증 예방에 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[동반 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[136]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 우울감과 관련된 대표적인 질환은 주요 우울장애, 지속성 우울장애, 월경전 불쾌장애, 물질/약물치료로 유발된 우울장애, 외상 후 스트레스 장애, 공황장애 등입니다. 
+• 신경계 질환, 만성 질환, 암 등의 신체 질환도 우울증과 관련이 있습니다.
+
+1. 우울감과 관련된 정신의학적 질환 
+우울감이 나타나는 대표적인 정신질환은 주요 우울장애, 지속성 우울장애, 월경전 불쾌장애, 물질/약물치료로 유발된 우울장애 등입니다. 그 밖에 외상 후 스트레스 장애, 공황장애 등에서도 우울감이 나타날 수 있습니다. 이들 질환에서는 일정 기간 이상 슬프고 우울한 기분, 공허하되 과민한 기분과 함께 개인의 기능 수행 능력에 영향을 주는 신체적, 인지적 변화가 공통적으로 나타납니다. 하지만 우울감의 원인과 지속 기간에는 차이가 있습니다.
+ 
+1) 주요 우울장애 
+(1) 정의: 주요 우울장애는 최소 2주 이상 거의 매일 지속되는 우울한 기분 및 흥미 저하와 함께 여러 신체 증상과 이로 인한 심각한 일상적 기능 저하가 동반됩니다. 
+(2) 진단: 주요 우울장애는 우울장애의 대표적인 질환입니다. 주요 우울장애의 DSM-5(Diagnostic and Statistical Manual of Mental Disorders-5) 진단 기준은 다음과 같으며, 하루 종일 우울함, 대부분의 활동에 현저하게 흥미 감소 중 적어도 한 가지 증상을 포함해 다섯 가지 이상의 증상이 2주간 나타나야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[동반 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[136]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1845b2c4b811]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[동반 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[136]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[(3) 경과
+① 발병: 2021년 정신건강실태조사에 따르면, 주요 우울장애의 1년 유병률(지난 1년 동안의 이환율)은 1.7%였습니다. 유병률은 나이가 들면서 증가하는 양상으로 18~29세 1.4%, 50~59세에 1.8%였고 70~79세에 3.1%로 가장 높았습니다. 다만 연령에 따른 유병률 차이는 그 시기의 다양한 사회문화적 상황이 영향을 미치므로 종합적인 판단이 필요합니다. 우울장애의 회복 기간은 대략 6~9개월로, 약 50%의 환자가 6개월 이내, 70%의 환자가 1년 이내에 회복합니다. 반면 10% 이상의 환자에서는 5년까지 지속되기도 합니다. 
+② 재발: 우울증 환자 중 재발을 경험하지 않는 환자는 15%에 불과합니다. 우울 삽화가 한번 발생할 때마다 재발 위험이 16%씩 증가하고, 재발 간격도 점점 짧아집니다. 보통 주요 우울장애는 일생 동안 평균 4회 정도 우울 삽화를 경험하며, 재발과 관련된 위험 인자는 치료 전의 긴 우울 삽화 기간, 이전 발병력, 미혼 등입니다.
+ 
+(4) 치료
+① 우울 증상이 가벼울 경우 정신치료 등의 비약물 치료로도 증상 호전이 가능하나, 증상이 중등도 이상일 경우 항우울제 치료가 가장 효과적입니다.
+② 우울증 치료는 급성기, 유지기, 지속기의 세 단계로 이루어집니다.
+③ 정신치료는 약물치료와 병행할 때 가장 효과가 좋으며, 어떤 정신치료가 적합한지는 의사와 상담 후 결정합니다.
+④ 항우울제 치료는 효과적이고 안전한 세로토닌 재흡수를 억제하는 약제를 가장 많이 사용합니다. 효과가 나타나기까지 최소 3~4주 이상의 시간이 소요되기 때문에, 담당 의사와 상의하면서 충분한 효과가 나타날 때까지 기다리는 것이 중요합니다.
+ 
+2) 지속성 우울장애(기분 저하증) 
+지속성 우울장애란 2년 이상 지속되는 만성적 우울감이 있으며(증상이 없는 기간은 2개월 미만), 식욕부진이나 과식, 과다수면, 활력 저하 및 피로감, 자존감 저하, 집중력 감소 및 결정 곤란, 절망감 중 두 가지 이상의 증상이 나타날 경우를 말합니다. 지속성 우울장애가 있으면 주요 우울장애의 위험이 약 5배 증가합니다.
+
+3) 월경전 불쾌장애 
+월경 시작 전 정서적 불안, 분노, 일상생활에 대한 흥미 감소, 무기력, 집중 곤란 등의 증상이 주기적으로 나타납니다. 원인은 난소 호르몬과 신경전달물질의 상호작용 때문으로 추정됩니다. 증상은 월경 시작 후 며칠 이내에 감소하고, 월경 후에는 사라지는 것이 특징입니다.
+ 
+4) 약물/물질 사용 장애 
+다양한 심혈관계 약물, 진정제, 항경련제, 항파킨슨 약물, 면역계 약물, 항생제, 항불안제가 우울 증상과 관련될 수 있습니다. 또한 우울증은 알코올 의존이나 물질 사용 장애에 동반되는 경우가 많습니다. 주요 우울장애 환자의 1/3 가량에서 특정 물질 의존 또는 남용에 관련된 사용 장애(정신적, 신체적, 사회적 기능 장애)가 동반되며, 이 경우 자살 위험이 증가합니다.
+ 
+5) 그 외 정신의학적 질환 
+(1) 외상 후 스트레스 장애- 환자의 45~50%에서 우울 증상이 동반됩니다. 수면 장애, 집중력 저하, 회피와 위축, 활동에 대한 즐거움 및 흥미의 감소, 고립감과 다른 사람에게서 멀어짐 등의 공통 증상이 존재합니다. 
+(2) 공황장애- 불안장애의 일종으로 예기치 않은 공황발작(극심한 공포 및 불편과 함께 신체적, 감정적 증상이 나타나는 상태)이 반복적으로 나타납니다. 외부의 위험이 없는데도 가슴이 두근거리거나 어지러움 같은 신체 증상과 심한 불안 및 두려움이 발생합니다. 공황장애를 겪는 사람은 대부분 우울 증상도 경험합니다. 주요 우울장애 환자의 약 10% 정도가 공황장애를 진단받는데, 일반 인구의 공황장애 진단 비율 0.8%에 비하면 매우 높은 수치입니다. 공황장애가 동반되면 우울장애의 경과가 더 나빠집니다.
+
+2. 신경계 질환 
+신경계 질환 중 파킨슨병, 치매, 뇌전증 등은 우울증과 관련되며, 노인 환자에서는 우울증이 흔히 치매로 오인되어 '가성 치매'로 불립니다. 파킨슨병 환자의 40~50%, 헌팅턴병(유전성 퇴행성 신경계 질환)의 40%, 다발성경화증(만성 신경면역계 질환)의 10~50%, 알츠하이머병 환자의 15~55%, 뇌졸중 환자의 30~50%가 평생 한 번 이상 우울증을 진단받습니다.
+
+3. 만성 질환 
+만성 질환자는 우울증이 동반되는 빈도가 높으며, 다른 질환에 비해 우울증이 동반되는 경우 건강 악화 위험이 높아집니다. 당뇨 환자의 우울증 유병률은 28.5%로 일반인보다 2배 정도 높으며, 우울증이 심해질수록 당뇨도 잘 조절되지 않습니다.
+
+4. 암 
+암 진단을 받으면 지속적인 우울감이나 활력 저하를 경험하고, 자살을 생각하거나 수면 패턴, 식욕, 피로, 인지기능의 변화가 나타나 신체 증상이 악화될 수 있습니다. 우울장애는 암 환자에서 삶의 질에 부정적인 영향을 미치며, 조기 사망률과 증상의 중증도를 높이는 것으로 알려져 있습니다. 특히 주요 우울장애의 증상 중 피로, 식욕 저하, 인지기능 저하, 통증 같은 증상은 암 자체로 인한 증상이나 치료 부작용과 비슷해 감별이 필요합니다. 암으로 유발되는 통증 자체나 마약성 진통제, 진정제, 항경련제 등 중추신경 억제제는 이전에 우울증이나 인지기능 저하를 겪었던 취약한 환자에게 우울장애를 유발할 수 있습니다.
+
+정기 진찰
+우울증은 한 번의 치료로 끝나는 병이 아닐 수 있습니다. 재발 위험을 낮추고 완전히 회복하기 위해 정기적인 진찰과 모니터링이 꼭 필요합니다.
+-	치료 초기: 약물 효과와 부작용을 확인하기 위해 1~3주 간격으로 비교적 자주 병원을 방문할 수 있습니다.
+-	안정기: 증상이 안정되면 1~3개월 간격으로 방문 주기가 길어질 수 있습니다.
+-	중요성: 정기 진찰은 증상이 다시 나빠지는 재발의 신호를 조기에 발견하고, 치료를 언제까지 유지할지 담당 의사와 함께 계획하기 위해 반드시 필요합니다.
+
+합병증
+우울증을 치료하지 않고 오래 방치하면, 일상생활이 무너지는 것 외에도 심각한 문제로 이어질 수 있습니다.
+-	학업 및 대인관계 문제: 집중력 저하로 성적이 떨어지고, 무기력감과 짜증으로 친구나 가족과의 관계가 망가질 수 있습니다.
+-	동반 질환: 불안장애, 품행장애 등 다른 정신건강 문제가 함께 나타날 위험이 높습니다.
+-	물질 사용 문제: 힘든 마음을 잊기 위해 술이나 담배, 다른 약물에 의존하게 될 위험(물질 사용 장애)이 있습니다.
+-	자해 및 자살: 가장 위험한 합병증은 자살 사고와 자해입니다. 우울감으로 인한 고통이 너무 크면, '이 고통을 끝내고 싶다'는 생각이나 스스로에게 상처를 입히는 행동으로 이어질 수 있습니다. 한국 청소년 5명 중 1명이 자살을 생각해 본 적이 있다는 통계도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[137]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우울증은 여러 위험 요인이 복합적으로 작용해 발생합니다.
+
+-	주요 위험 요인:
+유전적 요인(가족 중 우울증 환자가 있는 경우)
+환경적 스트레스(지속적인 학업 스트레스, 학교 폭력, 친구·가족과의 갈등)
+과거의 트라우마(충격적인 경험)
+스마트폰 과의존(특히 수면 부족과 연관될 때)
+
+-	예방을 위한 실천 방법:
+스트레스 관리: 나만의 건강한 스트레스 해소법(음악 듣기, 그림 그리기, 친구와 수다 떨기, 운동하기)을 찾아보세요.
+회복탄력성 기르기: 힘든 일이 생겼을 때 다시 일어설 수 있는 마음의 힘(회복탄력성)을 기르는 것이 중요합니다.
+적극적으로 소통하기: 혼자 고민하지 말고, 힘들 때는 친구나 가족, 선생님, 전문가와 적극적으로 소통하고 도움을 요청하는 것이 가장 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[138]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[건강한 생활 습관은 우울증을 예방하고, 치료 후 회복을 돕는 안전한 방법입니다.
+-	규칙적인 운동: 매일 30분 정도, 약간 숨이 찰 정도의 걷기나 좋아하는 운동을 꾸준히 해보세요. 운동은 뇌의 회복을 돕고 기분을 좋게 하는 신경전달물질을 만들어냅니다.
+-	건강한 수면 습관: 청소년기에 수면 부족은 우울감과 자살 생각 위험을 높입니다. 일정한 시간에 자고 일어나세요. 잠들기 1~2시간 전에는 스마트폰 사용을 멈추세요. 스마트폰의 블루라이트는 뇌를 깨워 숙면을 방해합니다.
+-	균형 잡힌 식습관:
+피해야 할 것: 설탕이 많은 음식, 패스트푸드, 카페인 음료(콜라, 커피, 에너지 드링크)는 기분 변화를 심하게 하고 수면을 방해할 수 있습니다. 술과 담배는 우울증을 악화시키므로 반드시 피해야 합니다. 
+도움이 되는 것: 오메가-3가 풍부한 등푸른 생선(고등어, 연어), 호두와 비타민 D(햇볕 쬐기, 달걀노른자 등)는 기분 안정에 도움이 될 수 있습니다.
+-	친구, 가족과 시간 보내기: 혼자 고립되기보다, 나를 이해해 주는 친구나 가족과 함께 시간을 보내는 것이 좋습니다. 꼭 깊은 대화를 하지 않아도, 함께 있는 것만으로도 힘이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[139]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우울감은 나이나 상황에 따라 서로 다른 모습으로 나타날 수 있습니다.
+
+-	청소년: '전 그냥 화가 많은 걸까요?' (파괴적 기분조절장애)
+청소년기 우울증은 슬픈 감정보다 짜증이나 분노로 나타나는 경우가 많습니다. 만약 사소한 일에도 불같이 화를 내고(분노 폭발), 이런 일이 일주일에 3회 이상 반복되며, 화가 나지 않을 때도 평소에 늘 짜증이 나 있거나 화가 난 상태가 1년 이상 지속된다면, '파괴적 기분조절장애(Disruptive Mood Dysregulation Disorder, DMDD)'를 의심해 볼 수 있습니다. 이것은 단순한 사춘기 반항이 아니라 치료가 필요한 우울장애의 한 종류입니다. 10세 이전에 증상이 시작되는 경우가 많으며, 부모나 교사와 상의하여 전문가의 도움을 받는 것이 중요합니다.
+   
+-	산모: '아기가 예쁘지 않아요' (산후 우울증)
+출산 후 며칠간 눈물이 나고 우울한 것은 '산후 우울감(베이비 블루)'으로, 산모의 80% 이상이 겪는 자연스러운 현상이며 대부분 시간이 지나면 좋아집니다. 하지만 산후 우울증은 다릅니다. 이는 '자연적으로 사라지는(자연소실)'것이 아니라, 치료가 필요한 '질병'입니다. 출산 후 3개월(100일 경)이 지나도 기운이 없고, 아기에게 관심이 생기지 않거나, '내가 나쁜 엄마야'라는 죄책감이 들고, 심하면 아기나 자신을 해치고 싶은 생각이 든다면, 반드시 전문가와 상담해야 합니다. 치료 시기를 놓치면 만성 우울증으로 이어질 수 있습니다.
+
+-	노인: '자꾸 깜빡깜빡해요' (가성치매)
+노인이 우울증을 겪을 때, '우울하다'고 말하기보다 '기운이 없다', '소화가 안 된다', '잠이 안 온다'고 몸이 아픈 것을 주로 호소하는 경우가 많습니다. 특히, 우울증 때문에 집중력과 기억력이 심하게 떨어져, 마치 '치매'에 걸린 것처럼 보일 수 있습니다. 이것을 '가성치매(거짓치매)'라고 부릅니다.
+중요한 차이: 가성치매는 뇌세포가 손상된 실제 치매와 다릅니다. 이것은 실제 뇌 손상이 없으며, 우울증으로 인해 뇌 기능이 잠시 떨어진 것이므로, 우울증을 잘 치료하면 기억력도 다시 회복될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[지원체계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[140]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혼자라고 생각하지 마세요. 도움을 받을 수 있는 곳이 많이 있습니다.
+
+-	자살예방 상담전화(24시간): 109
+2024년부터 통합된 번호입니다. 죽고 싶은 마음이 들거나, 지금 당장 너무 힘들 때 전화하세요.
+
+-	청소년사이버상담센터: 1388
+전화, 문자, 카카오톡, 채팅으로 24시간 청소년을 위한 상담이 가능합니다.
+
+-	국가정신건강정보포털: https://www.mentalhealth.go.kr
+보건복지부 국립정신건강센터에서 운영하며, 신뢰할 수 있는 정신건강 정보와 자가검진을 제공합니다.
+
+-	학교 위(Wee) 클래스 또는 상담센터
+학생이라면 가장 가까운 곳에 있는 학교 상담 선생님과 이야기해 보세요.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[141]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 우울증은 그냥 '병'이 아니라 '마음가짐'의 문제 아닌가요? 
+
+A. 아닙니다. 우울증은 '의지'나 '마음가짐'의 문제가 아니라, 뇌 기능의 변화(신경전달물질 불균형 등)로 생기는 '질병'입니다. 우울증을 포함한 여러 정신적인 문제가 질병이 되는 경우는 바로 우리의 자율성을 해치기 때문입니다. 당뇨병 환자가 마음껏 먹을 수 없는 것처럼, 우울증에 빠지면 무언가를 마음껏 해내기 어려워집니다. 그렇기에 '네가 의지가 약해서 그래'라는 말은 마음이 힘든 이에게 상처만 줄 뿐입니다. 감기에 걸리면 약을 먹듯, 우울증도 전문가의 진단과 치료가 필요한 병입니다.
+
+Q. 우울증 약(항우울제)은 한 번 먹으면 의존되거나 평생 먹어야 하나요?
+
+A. 아닙니다. 항우울제는 모든 정신과적 약물 중 가장 안전하다고 할 수 있습니다. 또한, 치료 기간은 사람마다 다릅니다. 재발을 막기 위해 증상이 좋아진 후에도 6개월~1년 정도 더 먹는 '유지 치료'가 필요하지만, 충분히 치료된 이후 담당 의사와 상의하며 얼마든지 약을 조절하고 끊을 수 있습니다. 
+
+Q. 우울증은 '마음의 감기'라는데, 그냥 두면 저절로 낫지 않나요?
+
+A. '마음의 감기'라는 표현은 우울증이 감기처럼 '누구나 흔하게 걸릴 수 있다'는 뜻이지만, 자칫 가벼운 병으로 오해하게 만들 수 있습니다. 우울증은 감기처럼 저절로 낫는 것을 기다리며 방치하면, 증상이 심해지고 만성화되어 더 큰 어려움(합병증)을 겪을 수 있습니다. 마음의 고통은 사람마다 다르기에, 우울증은 반드시 전문가의 도움이 필요한 '의학적 질병'으로 이해해야 합니다.
+
+Q. 산후 우울감은 다들 겪는 거니 그냥 참으면 낫지 않나요?
+
+A. '산후 우울감'과 '산후 우울증'은 다릅니다. 출산 직후 며칠간 겪는 가벼운 '산후 우울감'은 자연스럽게 좋아질 수 있지만, '산후 우울증'은 다릅니다. 이는 2주 이상 우울감이 지속되는 전문가의 치료가 필요한 질병이며, 방치하면 만성화될 수 있습니다. 출산 100일이 지나도 우울감이 지속되면 꼭 상담을 받아보세요.
+
+Q. 우울하면 치매에 걸리나요?
+
+A. 그렇지 않습니다. 노인이 우울증에 걸리면 기억력이 떨어져 '치매'처럼 보일 수 있지만(가성치매), 이는 뇌세포가 손상된 실제 치매와는 다릅니다. 가성치매는 뇌 손상 때문이 아니라 우울증으로 인한 증상이며, 우울증을 치료하면 기억력도 다시 좋아질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[318]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1.	국립정신건강센터. (2017). 국가 정신건강현황 3차 예비조사 결과 보고서. 
+2.	대한신경정신의학회. (2017). 신경정신의학. 
+3.	보건복지부. (2021). 정신건강실태조사. 
+4.	보건복지부·질병관리청. (2021). 국민건강통계-국민건강영양조사 제8기 1차년도(2019). 
+5.	교육부·질병관리청. (2021). 제17차 청소년건강행태조사 통계집(2019). 
+6.	오강섭. (2009). 아임상 및 경증 우울증 자기관리법의 효용성 연구. 한국보건의료연구원. 
+7.	질병관리본부. (2016). 청소년건강행태 온라인조사. 
+8.	최원정, 이병우, 김동욱, 이선구, 홍수정, 강지인, …김민경. (2009). 우리나라 암 환자에서 나타나는 정신질환의 위험도 및 정신과 진료의 특성 연구. 국민건강보험공단 일산병원 연구소.
+9.	American Psychiatric Association. (2010). Practice Guideline for the Treatment of Patients with Major depressive Disorder. (3rd edition).
+10.	Anderson, R. J., Freedland, K. E., Clouse, R. E., &amp; Lustman, P. J. (2001). The prevalence of comorbid depression in adults with diabetes: ameta-analysis. Diabetes Care, 24(6), 1069-1078. 
+11.	American Psychiatric Association. (2013). DSM-5. 
+12.	Gualano, M. R., Bert, F., Martorana, M., Voglino, G., Andriolo, V., Thomas, R., . . . Siliquini, R. (2017). The long-term effects of bibliotherapy indepression treatment: Systematic review of randomized clinical trials. Clin Psychol Rev, 58, 49-58. doi:10.1016/j.cpr.2017.09.006
+13.	Brady, K. T., Killeen, T. K., Brewerton, T., &amp; Lucerini, S. (2000). Comorbidity of psychiatric disorders and posttraumatic stress disorder. J ClinPsychiatry, 61 Suppl 7, 22-32.
+14.	Barefoot, J. C., &amp; Schroll, M. (1996). Symptoms of depression, acute myocardial infarction, and total mortality in a community sample.Circulation, 93(11), 1976-1980.
+15.	Bonde, J. P. (2008). Psychosocial factors at work and risk of depression: a systematic review of the epidemiological evidence. OccupEnviron Med, 65(7), 438-445. 
+16.	Chen, Y. W., &amp; Dilsaver, S. C. (1995). Comorbidity of panic disorder in bipolar illness: evidence from the Epidemiologic Catchment AreaSurvey. Am J Psychiatry, 152(2), 280-282. doi:10.1176/ajp.152.2.280 
+17.	Choi, K. W., Chen, C. Y., Stein, M. B., Klimentidis, Y. C., Wang, M. J., Koenen, K. C., . . . Major Depressive Disorder Working Group of thePsychiatric Genomics, C. (2019). Assessment of Bidirectional Relationships Between Physical Activity and Depression Among Adults: A 2-Sample Mendelian Randomization Study. JAMA Psychiatry. doi:10.1001/jamapsychiatry.2018.4175 
+18.	Davis, L., Uezato, A., Newell, J. M., &amp; Frazier, E. (2008). Major depression and comorbid substance use disorders. Curr Opin Psychiatry.21(1), 14-18. doi:10.1097/YCO.0b013e3282f32408
+19.	Frasure-Smith, N., Lesperance, F., &amp; Talajic, M. (1993). Depression following myocardial infarction. Impact on 6-month survival. JAMA,270(15), 1819-1825. 
+20.	Ford, D. E., &amp; Kamerow, D. B. (1989). Epidemiologic study of sleep disturbances and psychiatric disorders. An opportunity for prevention?.JAMA, 262(11), 1479-1484. 
+21.	Gilman, S. E., &amp; Abraham, H. D. (2001). A longitudinal study of the order of onset of alcohol dependence and major depression. DrugAlcohol Depend, 63(3), 277-286.
+22.	Horwath, E., Johnson, J., Weissman, M. M., &amp; Hornig, C. D. (1992). The validity of major depression with atypical features based on acommunity study. J Affect Disord, 26(2), 117-125. 
+23.	Jung SJ, Woo HT, Cho S, Park K, Jeong S, Lee YJ, … Shin A. (2019). Association between body size, weight change and depression:systematic review and meta-analysis. British Journal of Psychiatry, 211(1), 14-21. 
+24. Katon, W. J. (2003). Clinical and health services relationships between major depression, depressive symptoms, and general medicalillness. Biol Psychiatry, 54(3), 216-226. 
+25.	Kennedy, S. H. et al. (2016). Canadian Network for Mood and Anxiety Treatments (CANMAT) 2016 Clinical Guidelines for the Managementof Adults with Major Depressive Disorder: Section 3. Pharmacological Treatments. Can J Psychiatry, 61(9). 540-60. 
+26.	Kessler, R. C., Berglund, P., Chiu, W. T., Demler, O., Heeringa, S., Hiripi, E., . . . Zheng, H. (2004). The US National Comorbidity SurveyReplication (NCS-R): design and field procedures. Int J Methods Psychiatr Res, 13(2), 69-92. 
+27.	Klainin-Yobas, P., Oo, W. N., Suzanne Yew, P. Y., &amp; Lau, Y. (2015). Effects of relaxation interventions on depression and anxiety amongolder adults: a systematic review. Aging Ment Health. 19(12), 1043-1055. doi:10.1080/13607863.2014.997191 
+28.	Lai, J. S., Hiles, S., Bisquera, A., Hure, A. J., McEvoy, M., &amp; Attia, J. (2014). A systematic review and meta-analysis of dietary patterns anddepression in community-dwelling adults. Am J Clin Nutr, 99(1), 181-197. doi:10.3945/ajcn.113.069880 
+29.	Lesperance, F., Frasure-Smith, N., St-Andre, E., Turecki, G., Lesperance, P., &amp; Wisniewski, S. R. (2011). The efficacy of omega-3supplementation for major depression: a randomized controlled trial. J Clin Psychiatry, 72(8), 1054-1062. doi:10.4088/JCP.10m05966blu 
+30.	Ludman, E. J., Katon, W., Russo, J., Von Korff, M., Simon, G., Ciechanowski, P., … Young, B. (2004). Depression and diabetes symptomburden. Gen Hosp Psychiatry, 26(6), 430-436. doi:10.1016/j.genhosppsych.2004.08.010 
+31.	Luppino, F. S., de Wit, L. M., Bouvy, P. F., Stijnen, T., Cuijpers, P., Penninx, B. W., &amp; Zitman, F. G. (2010). Overweight, obesity, anddepression: a systematic review and meta-analysis of longitudinal studies. Arch Gen Psychiatry, 67(3), 220-229. 
+32.	Mammen, G., &amp; Faulkner, G. (2013). Physical activity and the prevention of depression: a systematic review of prospective studies. Am JPrev Med, 45(5), 649-657. doi:10.1016/j.amepre.2013.08.001 
+33.	Martin, C. S., Arria, A. M., Mezzich, A. C., &amp; Bukstein, O. G. (1993). Patterns of polydrug use in adolescent alcohol abusers. Am J DrugAlcohol Abuse, 19(4), 511-521. 
+34.	Mazure, C. M. (1998). Life stressors as risk factors in depression. Clinical Psychology: Science and Practice, 5(3), 291-313. 
+35.	McDaniel, J. S., Musselman, D. L., Porter, M. R., Reed, D. A., &amp; Nemeroff, C. B. (1995). Depression in patients with cancer. Diagnosis,biology, and treatment. Arch Gen Psychiatry, 52(2), 89-99. 
+36.	Mokhber, N., Namjoo, M., Tara, F., Boskabadi, H., Rayman, M. P., Ghayour-Mobarhan, M., . . . Ferns, G. (2011). Effect of supplementationwith selenium on postpartum depression: a randomized double-blind placebo-controlled trial. J Matern Fetal Neonatal Med, 24(1), 104-108.doi:10.3109/14767058.2010.482598 
+37.	Penders, T. M., Stanciu, C. N., Schoemann, A. M., Ninan, P. T., Bloch, R., &amp; Saeed, S. A. (2016). Bright Light Therapy as Augmentation ofPharmacotherapy for Treatment of Depression: A Systematic Review and Meta-Analysis. Prim Care Companion CNS Disord. 18(5).doi:10.4088/PCC.15r01906 
+38.	Pospos, S., Young, I. T., Downs, N., Iglewicz, A., Depp, C., Chen, J. Y., . . . Zisook, S. (2018). Web-Based Tools and Mobile Applications ToMitigate Burnout, Depression, and Suicidality Among Healthcare Students and Professionals: a Systematic Review. Acad Psychiatry, 42(1),109-120. doi:10.1007/s40596-017-0868-0 
+39.	Quarantini, L. C., Torres, A. R., Sampaio, A. S., Fossaluza, V., Mathis, M. A., do Rosario, M. C., . . . Koenen, K. C. (2011). Comorbid majordepression in obsessive-compulsive disorder patients. Compr Psychiatry, 52(4), 386-393. doi:10.1016/j.comppsych.2010.09.006 
+40.	Roy-Byrne, P. P., Stang, P., Wittchen, H. U., Ustun, B., Walters, E. E., &amp; Kessler, R. C. (2000). Lifetime panic-depression comorbidity in theNational Comorbidity Survey. Association with symptoms, impairment, course and help-seeking. Br J Psychiatry, 176, 229-235. 
+41.	Ross, H. E. (1995). DSM-III-R alcohol abuse and dependence and psychiatric comorbidity in Ontario: results from the Mental HealthSupplement to the Ontario Health Survey. Drug Alcohol Depend, 39(2), 111-128. 
+42.	Rutledge, T., Reis, V. A., Linke, S. E., Greenberg, B. H., &amp; Mills, P. J. (2006). Depression in heart failure a meta-analytic review ofprevalence, intervention effects, and associations with clinical outcomes. J Am Coll Cardiol, 48(8), 1527-1537.doi:10.1016/j.jacc.2006.06.055 
+43.	Sanchez-Vidana, D. I., Ngai, S. P., He, W., Chow, J. K., Lau, B. W., &amp; Tsang, H. W. (2017). The Effectiveness of Aromatherapy forDepressive Symptoms: A Systematic Review. Evid Based Complement Alternat Med, 2017, 5869315. doi:10.1155/2017/5869315 
+44.	Sheline, Y. I. (2000). 3D MRI studies of neuroanatomic changes in unipolar major depression: the role of stress and medical comorbidity.Biol Psychiatry, 48(8), 791-800. 
+45.	Solomon, D. A., Keller, M. B., Leon, A. C., Mueller, T. I., Lavori, P. W., Shea, M. T., . . . Endicott, J. (2000). Multiple recurrences of majordepressive disorder. Am J Psychiatry, 157(2), 229-233. doi:10.1176/appi.ajp.157.2.229 
+46.	Sullivan, P. F., Neale, M. C., &amp; Kendler, K. S. (2000). Genetic epidemiology of major depression: review and meta-analysis. Am J Psychiatry,157(10), 1552-1562. doi:10.1176/appi.ajp.157.10.1552 
+47.	Tuunainen, A., Kripke, D. F., &amp; Endo, T. (2004). Light therapy for non-seasonal depression. Cochrane Database Syst Rev(2), Cd004050.doi:10.1002/14651858.CD004050.pub2. 
+48.	United States. Department of Health and Human Services. (2008). 2008 physical activity guidelines for Americans : be active, healthy, andhappy! Washington, DC: U.S. Dept. of Health and Human Services. 
+49.	WHO. (2017). Depression and Other Common Mental Disorders.
+50.	Wilson, S., Vaidyanathan, U., Miller, M. B., McGue, M., &amp; Iacono, W. G. (2014). Premorbid risk factors for major depressive disorder: arethey associated with early onset and recurrent course? Dev Psychopathol, 26(4 Pt 2), 1477-1493. doi:10.1017/S0954579414001151 
+51.	Wittchen, H. U., Zhao, S., Kessler, R. C., &amp; Eaton, W. W. (1994). DSM-III-R generalized anxiety disorder in the National Comorbidity Survey.Arch Gen Psychiatry, 51(5), 355-364.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[142]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우울감, 우울증, 주요 우울장애, 청소년 우울증, 산후 우울증, 가성치매, 스트레스, 자살예방, 인지행동치료, 세로토닌, 항우울제]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[내시경적 역행성 담췌관조영술]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5251]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 내시경적 역행성 담췌관조영술(ERCP)은 내시경과 방사선을 이용해 담관과 췌관의 질환을 진단하고 치료하는 검사입니다.
+• 담석 제거, 협착 치료, 담즙 배액 등의 치료 목적에도 활용됩니다.
+• 검사 전 금식이 필요하며, 검사 후에는 합병증 여부를 확인해야 합니다.
+• 주요 합병증으로는 췌장염, 출혈, 감염 등이 있으며, 드물게 응급 수술이 필요할 수도 있습니다.
+• MRCP라는 비침습적 대안이 있지만, 치료적 접근은 ERCP가 더 효과적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[내시경적 역행성 담췌관조영술(endoscopic retrograde cholangiopancreatography, ERCP)은 내시경과 방사선을 이용하는 검사로, 내시경을 십이지장까지 삽입하고 '십이지장 유두부'라고 하는 작은 구멍을 통하여 담관과 췌관에 조영제를 주입시켜 병이 있는 부위를 관찰하는 검사법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf231f94]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[또한 이러한 진단적 목적 외에도 담관 내 담석증과 같은 담췌관계의 여러 가지 질병에 대한 치료에도 활용되고 있습니다. 이 검사법은 담췌관계 질환의 진단과 치료에 빼놓을 수 없는 중요한 시술이지만 여러 가지 합병증이 발생할 수 있으므로 시술 전에 시술의 목적과 과정 및 발생 가능한 부작용과 합병증에 대한 이해가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf232017]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[내시경적 역행성 담췌관조영술(ERCP)은 담관, 췌장, 십이지장의 질환을 진단하고 치료하기 위한 검사입니다. 필요하면 조직검사, 담석 제거, 담즙 배액 등의 치료도 할 수 있습니다. 
+
+검사 목적은 대략 다음과 같습니다.
+
+1. 담관 질환 
+• 총담관 담석의 치료
+
+• 담관의 양성 폐쇄로 인한 황달의 치료 
+• 담관 양성 협착의 치료 
+• 담관 누출의 진단 및 치료 
+• 담관암 또는 췌장암으로 인한 황달의 치료 
+
+2. 췌장질환 
+• 췌관 결석의 제거
+
+• 췌관 협착의 치료 
+• 담석으로 인한 췌장염의 치료 
+
+3. 십이지장 질환 
+• 유두부 선종의 진단 및 절제]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf232091]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf232114]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 검사 적응증 
+특별한 금기증이 없는 한 담관이나 췌장 질환이 의심될 때 검사할 수 있으며, 주요 대상 질환은 다음과 같습니다.
+
+• 담관이 막혀 발생한 황달의 정확한 원인을 알기 위하여 
+• 황달이 없더라도 복부 초음파나 컴퓨터단층촬영(CT)에서 담관이 좁아져 있거나 비정상적으로 늘어난 부분이 있을 때 
+• 담관 손상이 의심될 때 
+• 췌장염이 계속 재발할 때 
+• 췌장 종양이 의심될 때 
+• 만성 췌장염의 진단 및 평가 
+• 유두괄약근 기능부전이 의심될 때, 유두괄약근의 압력을 측정하기 위하여 
+• 췌장 가성낭종 및 췌장염 합병증을 평가하고자 할 때 
+• 담췌관의 선천성 기형을 진단할 때 
+
+2. 검사 금기증 
+절대적 금기증은 아니며, 환자의 상태에 따라 다를 수 있습니다.
+
+• 혈액 응고 장애나 출혈의 가능성이 있는 환자 
+• 상부 소화관 협착으로 내시경이 통과하지 못하는 환자]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[내시경적 역행성 담췌관조영술(ERCP)로 검사하는 장기는 담관과 췌관입니다. 도관이나 부속기구를 이용하여 담관이나 췌관을 조영하고 방사선(X-ray) 투시기를 이용하여 담관과 췌관의 영상을 얻습니다. 적응증에 따라 담석을 제거하거나 조직검사, 스텐트 삽입술과 같은 진단 및 치료를 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf2618b4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[시행 목적에 따라 검사 항목이 다릅니다. 기본 검사항목은 다음과 같으며, 환자의 질환에 따라 선택적으로 시행합니다. 
+
+1. 유두부 모양과 위치: 유두부의 모양을 관찰하여 유두부 선종과 같은 이상 유무를 확인하고, 유두부 주변의 게실이나 위치를 확인합니다.
+2. 담관 조영: 담관 내 담석이나 협착을 확인하기 위해 조영제를 담관 내로 주입하고 X-선 투시기로 담관의 모양과 이상 유무를 확인합니다.
+3. 췌장 조영: 췌관 내 담석이나 협착을 확인하기 위해 조영제를 췌관 내로 주입하고 X-선 투시기로 췌관의 모양과 이상 유무를 확인합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[검사 장비는 내시경 시스템, 방사선 영상장비, 의료정보 처리 시스템으로 구분됩니다. 
+
+1. 내시경 시스템: 내시경 시스템은 내시경적 역행성 담췌관조영술(ERCP) 내시경, 조영제 주입 및 담관과 췌관으로 삽입되는 부속장비, 진단과 치료에 필요한 부속장비(유도선, 배액관, 바스켓, 겸자 등)로 구성됩니다.
+2. 방사선 영상 장비: 일반 내시경과 달리 담관과 췌관을 보기 위해 X-선 투시기(fluoroscopy)가 필요합니다. 방사선 영상 장비는 방사선 선관, 영상증강 장치, 모니터, 검사대, 영상획득 및 저장기기로 구성됩니다.
+3. 의료정보 처리 시스템: 기록 시스템으로 검사로 얻어진 내시경 영상과 투시 영상은 환자의 치료와 경과 관찰을 위해 의료정보 처리 시스템에 보관됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf232211]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[내시경적 역행성 담췌관조영술(ERCP)은 일반적으로 병세가 심한 환자를 대상으로 하는 경우가 많고 시술 후에 여러 가지 합병증이나 부작용이 발생할 수 있기 때문에 대부분 입원하여 검사를 받는 것이 원칙입니다. 그러나 때에 따라 외래에서 검사할 수 있습니다. 
+
+1. 시술 동의서 작성: 검사의 목적과 방법 및 검사 후에 발생할 수 있는 합병증에 대하여 의료진에게 미리 설명을 듣습니다. 이 과정을 통해 환자와 보호자는 검사 과정을 잘 이해하여 불안감을 해소할 뿐 아니라 합병증이 발생할 때 올바로 대처할 수 있습니다. 그러므로 의료진의 설명을 듣고 동의서를 잘 읽은 후 시술 동의서에 서명합니다.
+2. 금식: 보통 검사 전날 저녁 식사 후부터 금식하여 위와 십이지장을 깨끗이 비운 상태에서 검사합니다. 금식으로 생기는 탈수와 영양장애를 예방하기 위하여 수액주사를 맞습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[검사실로 가기 전에 반드시 속옷을 포함한 모든 상의를 벗고 수술용 가운으로 갈아입습니다. 또한 몸에 부착된 모든 금속제품(시계, 반지, 목걸이 등)을 제거합니다. 
+
+1. 전처치: 검사 직전 장운동 억제를 위한 주사를 맞고 위와 십이지장의 거품 제거제를 복용합니다.
+2. 목 마취: 검사 중 목구멍의 자극으로 구역질이나 구토하는 것을 억제하기 위하여 목 마취를 합니다.
+3. 수기: 입으로 내시경이 삽입되어 식도와 위를 지나 십이지장까지 도달한 후 십이지장의 유두부를 통해 담관과 췌관에 조영제가 주입됩니다. 이때 조영제의 주입압력으로 인하여 어느 정도의 통증을 느낄 수도 있습니다. 검사 시간은 보통 10~20분 정도 소요되나, 환자나 시술 방법에 따라 30분 이상 걸릴 수도 있습니다. 담석을 제거하거나 담관 내로 배액관을 삽입하기 위해서는 유두괄약근 절개술을 시행할 수 있습니다.
+4. 추가 검사 및 처치: 시술 도중 병이 있는 부위가 발견되거나 합병증이 우려될 때에는, 조직 또는 세포 검사, 유두괄약근 절개술(십이지장 유두부를 1cm 가량 절개), 담관 또는 췌관 내 배액관 삽입 등의 추가 검사나 처치를 시행할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[내시경적 역행성 담췌관조영술(ERCP) 내시경으로 십이지장 유두부를 관찰하고, X-선 투시기를 이용하여 담관이나 췌관의 영상을 확인합니다. 담관이나 췌관의 이상 유무를 확인하고 질환에 따라 내시경을 이용하여 치료합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 주의사항
+검사 후 환자의 상태를 관찰하여 이상이 없으면 이동 침대로 옮긴 후 병실로 이동합니다.
+
+시술 후에 복통이 지속되거나 심해지는 경우, 열이 나는 경우, 출혈, 호흡 장애와 같은 증상이 나타나면 곧바로 담당 의료진에게 연락합니다. 
+복통이 없는 경우 검사 후 3~4시간 후 물을 마셔보고 이상이 없으면 죽과 같은 가벼운 식사를 할 수도 있으나, 반드시 담당 의료진의 지시에 따릅니다. 
+
+2. 특별히 주의해야 하는 환자 
+다음 질환이 있거나 약물을 복용하는 환자는 검사 전에 담당 의료진에게 반드시 알려야 합니다. 
+• 임산부 
+• 녹내장, 전립선 비대증 
+• 신장 질환, 간 질환, 폐 질환, 심장 질환 
+• 출혈성 질환 및 기타 혈액 질환 
+• 알레르기 및 약물 과민반응 
+• 과거 위장관 수술 이력 
+• 아스피린 또는 와파린을 복용 
+
+3. 합병증 
+내시경적 역행성 담췌관조영술(ERCP)은 담관이나 췌장의 양성 혹은 악성 질환, 담석, 췌장염 등이 있거나 의심될 때 개복수술을 하지 않고 질병을 정확히 진단하고 일부 질환의 경우 치료까지 시행할 수 있는 아주 유용한 방법입니다. 그러나 담관이나 췌장의 선천적 기형, 유두부 주위에 게실이 있는 경우, 이전에 위절제술을 시행 받은 경우나 기타 구조적 혹은 기능적 이상이 있는 경우에는 시술이 어려워 5~10% 정도는 검사에 성공하지 못할 수도 있습니다.
+또한 대부분의 환자에서 합병증이나 후유증 없이 검사가 끝나지만 3~5%에서 전처치 약제에 의한 알레르기, 내시경에 의한 점막 손상, 복통, 출혈, 천공, 췌장염, 담관염, 담즙성 복막염, 패혈증, 사망 등의 합병증이 발생할 수 있으며, 이로 인해 응급수술을 시행할 경우도 있습니다.
+
+이러한 합병증을 피하고자 자기공명담췌관조영술(magnetic resonance cholangiopancreatography, MRCP)을 시행하기도 하지만, 이 방법은 가격이 비싸며, 담췌관의 병이 있는 부위를 진단 및 치료하는 데 있어 그 역할이 제한적인 단점이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[246]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 수술로 담낭을 떼어내도 사는데 문제가 없나요?
+
+A. 현대 의학적인 측면에서 쓸개는 담낭에 해당합니다. 담낭에 병이 생겨서 수술로 담낭을 제거하게 되면 정말로 쓸개 빠진 놈이 되는데, 이 경우 정말로 무슨 문제가 있는지에 대한 의학적인 답변은 절대로 문제 되지 않는다 라고 할 수 있습니다. 이것은 맹장수술을 받고 살아도 아무 이상 없이 지내는 것과 마찬가지로 이해하면 될 것입니다.
+
+
+Q. 담낭과 담관(담도)은 우리 몸에서 어떤 일을 하나요?
+
+A. 쓸개는 의학적인 용어로 담낭이라고 하며 간 밑에 붙어 있습니다. 자세히 관찰하면 쓸개는 작은 애호박 모양의 주머니로 일부분은 간 밑에 붙어서 매달려 있습니다. 그 내부에는 담즙이라고 불리는 노란색의 끈적끈적한 소화액이 들어 있는데 그 양은 약 50cc 정도입니다. 담즙은 간에서 만들어져서 간 내부에 나뭇가지 모양으로 퍼져있는 가느다란 담관을 타고 내려와서 간 밑에 있는 간 입구에 모이게 되면 나무줄기에 해당하는 총담관을 통해서 간 바깥으로 나오게 됩니다. 총담관은 고무호스처럼 생겼는데 간 입구에 모인 담즙을 십이지장까지 보내는 통로 역할을 하게 됩니다.
+담낭은 마치 돼지꼬리 모양으로 꼬불꼬불한 낭관을 통하여 총담관의 중간과 연결되어 있습니다. 이처럼 담도란 간 안에 퍼져있는 작은 담관에서부터 시작하여 점차 굵은 총담관을 통해서 간 밖으로 나와 십이지장까지 연결되어 있는 통로로써 간에서 만들어진 담즙이 흐르는 길을 말합니다. 총담관의 중간부위에 담낭관을 통해서 매달려 있는 담낭(쓸개)은 담즙을 저장하고 농축하는 역할을 합니다. 우리가 식사를 하게 되면 담낭이 수축하게 되어 그 안에 저장되어 있던 담즙을 십이지장으로 분비하게 됩니다. 소화제 역할을 하는 담즙은 위에서 십이지장으로 내려간 음식물과 섞여서 소장에서 지방 및 지용성 비타민의 흡수에 중요한 역할을 하게 됩니다. 또한 담즙은 간에서 콜레스테롤의 분비 및 각종 해독작용에 관여합니다.
+
+
+Q. 담석증이란?
+
+A. 담석증은 담관이나 담낭에 결석(돌)이 생기는 질환을 말합니다. 소변이 만들어져서 내려가는 길에 생기는 요로결석이나 신결석과는 완전히 다른 질환이나 일반인들은 담석과 요로결석을 혼동하는 경우가 많습니다. 담석증 중에는 담낭에서 결석이 생기는 담낭 담석증, 담관에 생기는 담관 담석증, 간 내부에 생기는 간내 담석증이 있습니다. 이렇게 담석이 생기는 부위가 다르기 때문에 증상도 그에 따라 다르게 나타날 수 있습니다.
+담낭 담석증의 경우 초음파검사로 쉽게 진단할 수 있어서 건강검진 중에 발견되는 경우도 많습니다. 그러나 담낭에 담석이 있어도 아무런 증상이 없이 지내는 경우가 많으며, 또한 증상이 없는 담석증은 아무런 치료를 하지 않아도 문제를 일으키지 않기 때문에 특별히 치료하지 않아도 됩니다. 그러나 담석증으로 인해서 통증이 있거나 담석증의 합병증이 발생한 경우에는 반드시 치료를 받아야 합니다.
+
+
+Q. 담석증은 어떤 증상으로 나타날까요?
+
+A. 담석증으로 인한 가장 흔한 증상은 심한 복통입니다. 우리말로는 속앓이, 급체, 위경련 등으로 표현되기도 합니다. 특징적인 통증의 양상은 다음과 같습니다. 갑자기 윗배가 심하게 아프고, 특히 우측의 상복부의 통증과 등에서도 통증이 생길 수도 있습니다. 통증은 매우 심해서 진통제를 투여해야 하는 정도이며, 적어도 15분 이상 지속되고 길게는 하루 종일 아플 수도 있습니다. 그러나 증상이 없는 경우도 있어서, 이때는 아무런 이상도 없었다는 듯이 감쪽같이 통증이 사라지게 됩니다. 이와 같은 양상의 통증이 있는 경우는 담석증을 생각해야 합니다.
+통증이 발생하는 이유는 담석이 담낭관을 막아서 담낭이 부어 오르면서 통증이 유발될 수도 있고 총담관 끝을 막아서 올 수도 있습니다. 담석으로 막혀 있던 것이 다시 풀리게 되면 통증은 씻은 듯이 사라지게 됩니다. 그러나 담석이 막힌 채로 계속 진행되면 통증도 가라앉지 않고, 이차적으로 세균에 감염되어 염증을 유발하게 됩니다. 즉, 담낭염이나 담관염이 발생하게 됩니다. 이렇게 급성 염증이 발생하는 경우에는 응급으로 수술해야 하는 경우도 있습니다.
+
+
+Q. 담석 합병증으로 간이 나빠지거나 암이 발생할 수 있나요?
+
+A. 담석이 담관을 막은 상태에서 세균에 감염되면 합병증으로 급성 담관염이 발생하는데, 이 경우에는 통증과 함께 고열을 동반한 황달이 발생됩니다. 이때도 적절한 치료를 하면 완치될 수 있습니다. 그러나 담석증으로 염증이 반복되고 오랫동안 앓은 경우는 이차적으로 간이 나빠지게 되어, 간경변증이나 담도암과 같은 합병증이 발생할 수도 있습니다.
+
+
+Q. 담석을 약으로 치료할 수 있나요?
+
+A. 담석증을 치료하는 방법에는 약물 요법, 내시경 치료(내시경으로 돌을 빼내는 치료법), 쇄석술(담석을 부숴서 빼내는 방법), 수술하는 치료법들이 있습니다. 약물 요법은 먹는 약으로 담석을 녹여서 치료하는 방법으로 가장 쉽고 편한 치료법입니다. 그러나 약물 요법은 일부 환자에서만 담석의 용해가 가능하고 적어도 1년 이상 약을 매일 먹어야 하며 약을 중단하면 담석이 재발한다는 단점 때문에, 지금은 담석증의 치료법보다는 담석 발생예방을 위해서 쓰이고 있습니다.
+신문이나 잡지 등의 광고를 보면 먹는 약으로 담석을 완치한다는 건강식품 광고를 종종 볼 수 있는데, 의학적으로 효과와 안전성이 입증되지 않은 경우가 많습니다. 현재 의학적으로 담석을 용해시킬 수 있는 효과와 안전성이 증명된 몇 가지 약제가 있으며 실제로 임상에서 쓰이고 있습니다. 다만 이미 언급한 바와 같은 제한점 때문에 전문의와 상의하여 사용하는 것이 바람직합니다.
+
+
+Q. 담석을 초음파 쇄석기로 깰 수 있나요?
+
+A. 담석증도 신석증이나 요로 결석증처럼 쇄석술로 결석을 부스러뜨려서 몸 밖으로 배출시키는 치료법을 쓸 수 있습니다. 그러나 담석증의 경우, 요로 결석증과 달리 그 효과가 저조하고 설사 치료가 되었다 하여도 다시 재발하는 경우가 많기 때문에, 현재는 극히 제한된 경우에만 사용하고 있습니다.
+
+
+Q. 담석을 수술하지 않고 내시경으로 치료 할 수 있습니다.
+
+A. 내시경 치료는 담관 담석환자에서 주로 사용되는데 수술하지 않고 담석을 제거할 수 있는 최신의 좋은 치료법으로 각광받고 있습니다. 내시경 치료의 방법을 간략히 소개하자면 다음과 같습니다.
+위내시경 검사와 같은 방법으로 특수 내시경을 입을 통해서 식도, 위를 거쳐 십이지장에 삽입합니다. 십이지장에는 담즙이 내려오는 작은 구멍이 있는 십이지장 유두가 있는데, 유두부의 작은 구멍을 통해서 담관으로 들어 갈 수 있습니다. 즉 십이지장까지 들어간 특수 내시경을 통해서 각종 기구를 삽입할 수 있으며, 이러한 기구로 유두부의 작은 구멍을 넓히고 담관으로 담석제거용 기구를 넣어서 담석을 제거하는 치료방법입니다. 마치 어머니 뱃속에 있는 태아가 출산되는 과정과 유사하다고 보면 될 것입니다.
+담관 담석의 합병증(급성 담관염)으로 황달이 오고 열이 펄펄 나던 사람도 내시경 치료로 담석을 제거하면 바로 열이 떨어지고, 황달도 점차 사라져서 정상으로 회복되는 것을 보면 참으로 신통하다는 생각이 들게 하는 치료법입니다. 더구나 내시경 치료시에는 전신마취도 필요 없고, 몸에 칼을 대는 수술을 하지 않고도 담석을 한번에 완전히 제거할 수 있기 때문에, 안전하면서도 효과적인 치료로 손꼽히고 있습니다.
+
+
+Q. 담낭에 생긴 돌은 복강경 수술을 해야 합니까?
+
+A. 담낭에 돌이 생기는 담낭 담석증의 대표적인 치료법은 수술입니다. 맹장염(의학적으로는 충수돌기염)에 걸리면 수술해야 하는 것처럼 담낭 담석증의 경우에는 수술이 가장 확실하고 재발없이 완치시킬 수 있는 치료법입니다. 이미 100여년 전에 독일의 외과의사가 담석증을 수술한 이후 현재까지 맹장염 다음으로 많은 수술이 행해지고 있습니다. 다만 최근에는 배를 째는 개복술을 하지 않고 복강경을 이용한 담석증의 수술이 추천되고 있습니다. 
+복강경 수술은 일반인들에게는 일명 레이저 수술이라고도 알려져 있으며, 흉터가 거의 남지 않고 수술 후 통증과 합병증이 적고 회복이 매우 빨라서 수술하고 다음날 퇴원할 수 있을 정도입니다. 수술방법은 산부인과에서 복강경으로 나팔관수술(피임수술)을 하는 것과 유사하다고 보면 될 것입니다. 이 이외에도 담도 내시경이나 피부에서 간으로 심을 박고 치료하는 방법 등이 있으며 담석의 발생부위와 합병증 유무에 따라서 그 중 적절한 치료법을 선택하게 됩니다.
+
+
+Q. 황달이란 무슨 병인가요?
+
+A. 담도의 이상으로 오는 또 다른 대표적인 증상은 황달입니다. 황달은 담석증, 담도암, 췌장암 등으로 담관이 막히거나 간염, 간경변증, 간암 등의 간 질환으로 올 수 있는 증상입니다. 황달이 생기면 눈의 흰자위와 피부가 노랗게 되고, 소변색깔도 짙은 갈색으로 보이게 되며 피부에 가려움증이 생길 수도 있습니다. 이러한 황달도 담석증에서 발생할 수 있습니다. 담석이 담관의 끝부분은 막아서 담즙의 통로가 차단되면 황달이 오게 됩니다. 이 경우에 발생하는 황달은 만성간염이나 간경화증과 같은 간 질환으로 발생하는 황달과는 다르게, 담석을 제거하면 후유증 없이 완전히 정상으로 회복될 수 있습니다
+
+
+Q. 어떤 암에서 황달이 올 수 있나요?
+
+A. 담관이나 담낭에 악성종양(암)이 생기거나, 췌장암, 십이지장 및 유두부암, 간암, 기타 복강 내 암의 간전이나 담관을 막는 경우에도 황달이 발생하게 됩니다. 이처럼 황달 증상은 각종 간 질환, 담도 질환에서 모두 볼 수 있는 증상이기 때문에 황달만 보고서 그 원인이 무엇이라고 진단하기는 어렵습니다. 그러나 다행스럽게도 초음파검사와 혈액검사를 같이하면 원인을 찾을 수 있으며, 컴퓨터단층촬영이나 핵자기공명(MRI)촬영, 내시경적 역행성 담췌관조영술 등을 이용한 검사로 정밀진단이 가능하게 되어 적절한 치료를 할 수 있게 되었습니다. 암으로 인해서 담관이 막히고 황달이 발생한 경우에도, 내시경을 이용하여 막힌 부위를 뚫고 인공담도관을 설치하여 황달을 안전하고 효과적으로 치료하게 되었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Adler DG, Baron TH, Davila RE, et al. (2005). ASGE guideline: the role of ERCP in diseases of the biliary tract and the pancreas. Gastrointest Endosc, 62:1-8.
+2. Baron TH, Petersen BT, Mergener K, et al. (2006). Quality indicators for endoscopic retrograde cholangiopancreatography. Am J Gastroenterol, 101:892-897.
+3. Carr-Locke DL. (2002). Overview of the role of ERCP in the management of diseases of the biliary tract and the pancreas. Gastrointest Endosc, 56(6 Suppl):S157-S160.
+4. Chutkan RK, Ahmad AS, Cohen J, et al. (2006). ERCP core curriculum. Gastrointest Endosc, 63:361-376.
+5. Cockeram A. (1997). Canadian Association of Gastroenterology practice guideline for clinical competence in diagnostic and therapeutic endoscopic retrograde cholangiopancreatography. Can J Gastroenterol, 11:535-538.
+6. Glomsaker T, Søreide K, Aabakken L, Søreide JA. (2011). A national audit of temporal trends in endoscopic retrograde cholangiopancreatography in Norway. Scand J Gastroenterol, 46:116-121.
+7. Guyatt G, Haynes B, Jaeschke R. (2002). Introduction: the philosophy of evidence-based medicine. In: Guyatt G, Rennie D, eds. User's guides to the medical literature: essentials of evidence-based clinical practice. 2nd. p5-20, Chicago, AMA Press. 
+8. Hawes RH. (2002). Diagnostic and therapeutic uses of ERCP in pancreatic and biliary tract malignancies. Gastrointest Endosc, 56(6 Suppl), S201-S205.
+9. Loperfido S, Angelini G, Benedetti G, et al. (1998). Major early complications from diagnostic and therapeutic ERCP: a prospective multicenter study. Gastrointest Endosc, 48:1-10.
+10. Springer J, Enns R, Romagnuolo J, Ponich T, Barkun AN, Armstrong D. (2008). Canadian credentialing guidelines for endoscopic retrograde cholangiopancreatography. Can J Gastroenteroly, 22:547-551.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[해외유입기생충감염증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5420]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 해외유입기생충감염증은 기생충이 유행하는 국가에서 감염되어 귀국 후 진단되는 감염증입니다.
+• 종류에는 리슈만편모충증, 바베스열원충증, 아프리카수면병, 샤가스병, 주혈흡충증, 광동주혈선충증, 악구충증, 사상충증, 포충증이 포함됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[해외 유입 기생충 감염증은 기생충이 유행하는 국가에서 감염되어 귀국한 후 진단되는 기생충 감염증을 의미합니다.
+기생충에 따라 정의 및 임상적 특징, 진단기준을 달리하며, 해외 유입 기생충 감염증의 종류와 신고를 위한 진단기준은 다음과 같습니다.
+
+1. 종류
+리슈만편모충증, 바베스열원충증, 아프리카수면병, 샤가스병, 주혈흡충증, 광동주혈선충증, 악구충증, 사상충증, 포충증
+
+
+2. 신고범위
+환자
+
+3. 신고를 위한 진단기준
+ 환자: 해외 유입 기생충 감염증에 맞는 증상이 있거나 역학적으로 연관되어 있으면서 진단을 위한 검사기준에 따라 감염병 병원체 감염이 확인된 사람에 해당됩니다.
+
+4. 진단을 위한 검사기준
+ 감염병의 진단기준 공지 내 해외 유입 기생충 감염증의 감염병별 진단을 위한 검사기준을 참조하시기 바랍니다.
+
+5. 신고시기
+ 7일 이내 신고합니다.
+
+6. 신고 방법
+ 표본감시기관은 해외 유입 기생충 감염증 신고서를 작성하여 관할 보건소로 팩스 또는 웹 입력 방법으로 신고합니다.
+*표본감시 대상 의료기관 여부 확인: 관할 보건소로 문의합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청, 2025년도 기생충감염병 관리지침]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[포충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5529]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[리슈만편모충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5521]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[바베스열원충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5522]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[광동주혈선충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5526]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[샤가스병]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5525]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[사상충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5528]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[아프리카수면병]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5523]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[악구충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5527]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[주혈흡충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5524]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

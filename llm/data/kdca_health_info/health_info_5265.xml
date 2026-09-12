@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[다래끼와 콩다래끼]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5265]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 눈꺼풀에는 여러 분비샘이 있으며, 이곳에서 염증이 생기면 다래끼나 콩다래끼가 발생합니다.
+• 다래끼는 세균 감염으로 인해 생기는 급성 화농성 염증이며, 바깥다래끼와 속다래끼로 나뉩니다.
+• 콩다래끼는 세균 감염이 아닌 마이봄샘의 막힘으로 생기는 만성 염증으로, 때때로 감염될 수도 있습니다.
+• 다래끼는 시간이 지나면서 자연적으로 호전되며, 더운 찜질과 항생제 치료가 도움이 됩니다.
+• 콩다래끼는 초기에는 더운 찜질과 마사지로 치료하며, 크기가 크거나 지속되면 절개 시술이 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[눈꺼풀에는 다른 피부와 마찬가지로 여러 분비샘들이 있습니다. 눈꺼풀 바깥쪽으로는 속눈썹 주변에 땀을 분비하는 샘(몰샘, Moll's gland), 기름 성분을 분비하는 피지샘(짜이스샘, gland of Zeis)이 있고 안쪽으로는 눈꺼풀판 안에 눈물층의 기름 성분을 분비하는 마이봄샘(Meibomian gland) 등이 있습니다.  다래끼와 콩다래끼는 이러한 눈꺼풀의 분비샘에 생기는 염증질환을 말합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf2361f1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 다래끼(맥립종, hordeolum)
+일반적으로 다래끼라고 하면 세균감염으로 발생한 눈꺼풀분비샘의 급성 화농성(고름이 생기는) 염증을 의미합니다. 그리고 염증이 생긴 분비샘이 눈꺼풀 바깥쪽에 위치한 짜이스샘 혹은 몰샘에 생기면 바깥다래끼(외맥립종, external hordeolum)라고 하고, 안쪽에 위치한 마이봄샘에 생긴 경우를 속다래끼(내맥립종, internal hordeolum)라고 합니다.
+다래끼의 원인은 주로 포도알균(staphylococcus)에 의한 눈꺼풀분비샘의 감염으로, 특히 분비샘의 배출구가 막히거나 분비가 지연되면 잘 생깁니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf2367d7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 콩다래끼(산립종, chalazion)
+콩다래끼는 세균감염이 아니고 마이봄샘의 배출구가 막히면서 배출되지 않은 기름 성분이 눈꺼풀판과 주위 조직으로 침윤되어 생긴 만성적인 육아종성 염증입니다. 간혹 세균에 감염되면 속다래끼와 비슷한 모습을 보이기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf236754]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다래끼는 대부분의 경우 저절로 좋아지거나 피부 쪽으로 배농이 되어 낫지만, 더운 찜질을 하면 더 빨리 치유되기도 합니다.
+콩다래끼의 경우 더운 찜질과 눈꺼풀 마사지와 같은 보존적 치료만으로도 약 50%의 경우에서 회복될 수 있습니다. 콩다래끼는 비감염 육아종성 염증이지만 세균감염이 동반될 수 있고, 이 때에는 급성염증반응에 의한 눈꺼풀부종과 통증이 동반될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다래끼와 콩다래끼는 정확한 통계 자료는 없지만 전세계적으로 흔한 질환입니다. 남자와 여자에서 비슷하게 발생하고 어느 나이에서나 발생할 수 있습니다. 안검염(blepharitis), 지루피부염(seborrheic dermatitis), 주사(rosacea), 당뇨, 혈중 지방수치가 높은 경우 다래끼가 생길 위험도가 증가합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[바깥다래끼는 눈꺼풀 표면에 가까이 위치합니다. 초기에는 약간 빨갛게 붓고 가려운데, 곧 심하게 부어오르며 통증이 생깁니다. 며칠이 지나면 단단해지고 통증이 감소하며 농양(고름집)이 생기면서 결국은 피부로 배출됩니다. 그러나 경우에 따라서는 인접한 속눈썹뿌리로 감염이 확대되어 다발성으로 발생할 수도 있고, 자주 재발하기도 합니다. 속다래끼는 바깥다래끼보다 눈꺼풀 깊숙이 위치하고 눈꺼풀판결막에 노란 농양점이 관찰되는 것으로 구별할 수 있습니다.
+
+콩다래끼는 일반적으로 통증이 없이 눈꺼풀부종이 몇 주에서 몇 달 동안 지속됩니다. 다래끼의 크기가 클 경우 시력에도 영향을 줄 수 있습니다. 콩다래끼의 특징은 눈꺼풀테피부 아래에 팥알 크기의 단단한 결절이 만져지고, 피부가 붉게 변하거나 통증 같은 염증 증상이 보이지 않는 것입니다. 그러나 콩다래끼 병변에 상처가 나거나 세균감염이 되면 속다래끼와 비슷한 모습을 보일 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다래끼와 콩다래끼는 일반적으로 다른 추가적인 검사 없이 눈으로 보고(시진) 만져보고(촉진) 병력 청취를 통해 진단합니다. 병변이 언제부터 생겼는지, 얼마나 빨리 진행하는지, 다른 관련 증상이나 비슷한 병력이 있었는지를 확인합니다. 콩다래끼는 다래끼에 비해 상대적으로 눈꺼풀 안쪽에 위치하고, 다래끼는 일반적으로 좀 더 부드럽고 피부 바깥쪽, 속눈썹 근처에 생깁니다. 눈꺼풀이 붓고 통증이 심하고 농양이 생기는 것은 다래끼를 시사하는 소견이고, 통증이 없는 눈꺼풀종괴가 있고 눈꺼풀피부의 발적이 없다면 콩다래끼에 합당한 소견입니다.
+임상적 소견과 환자 병력이 일치한다면 추가적인 검사는 하지 않아도 됩니다. 단, 성인에서 콩다래끼가 동일한 부위에 자주 재발하면 피지샘암종(sebaceous gland carcinoma)과 같은 악성종양과 감별하기 위해 조직검사를 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다래끼는 시간이 지나면서 저절로 좋아지지만 더운 찜질이 효과적이고 자주 사용되는 치료 방법입니다. 더운 찜질 자체만으로 빨리 낫는다거나 부작용을 줄일 수 있는 것은 아니지만 염증을 줄이고 농양의 배출을 돕는 효과가 있습니다. 다래끼 병변이 크거나 지속되는 경우 항생제 치료가 필요할 수 있습니다. 눈꺼풀테에 항생제 눈연고를 바르면 주위 속눈썹뿌리로 감염이 퍼지는 것을 막을 수 있어 치료 기간이 단축되고 심한 정도가 완화될 수 있습니다. 만약 감염이 안구 주변이나 눈주위 피부로 번져서 봉와직염(cellulitis)이 발생한 경우 전신적인 항생제 치료가 필요할 수 있습니다. 농양이 배출되지 않거나 오래 지속될 경우 절개하여 배농시켜주어야 합니다.
+
+콩다래끼는 크기가 작고 별다른 불편함이 없는 경우 특별한 치료 없이 경과관찰합니다. 마이봄샘을 막고 있는 물질은 지방성분을 포함하고 있어, 더운 찜질은 이러한 물질을 부드럽게 해주어서 눈꺼풀 마사지를 통해 배출이 쉽게 해주며 콩다래끼가 발생한 초기에 보다 효과적일 수 있습니다. 세균 감염이 의심될 경우 항생제 및 항염증 효과가 있는 안약 및 안연고를 사용하기도 합니다. 크기가 커서 불편감이 있거나 오랫동안 호전되지 않는 경우 절개하여 내용물을 긁어내는 시술로 치료할 수 있습니다. 드물게 병변에 스테로이드를 소량 주사하는 치료를 하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf236957]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 안검염
+안검염이 있는 경우 마이봄샘의 기능장애가 더 흔하기 때문에 다래끼나 콩다래끼가 자주 발생할 수 있습니다. 하루 2회, 10분 정도 더운 찜질과 눈꺼풀 세척을 하면 분비샘들이 막히는 것을 예방할 수 있어 다래끼나 콩다래끼가 생기는 것을 예방할 수 있습니다. 더운 찜질은 40~43도 정도의 온도로 하는 것이 좋으며 일반적인 목욕탕 온탕의 온도에 해당됩니다. 
+
+2. 주사
+얼굴의 중앙 부위 피부가 붉어지고 혈관이 확장되는 주사가 있는 경우 안검염이 자주 동반되며, 안검염을 예방하기 위해 독시사이클린(doxycycline)과 같은 항생제 복용이 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Arbabi EM, Kelly RJ, Carrim ZI. (2010). Chalazion. BMJ. 341, c4044.
+2. Albert Y Wu et al. (2018). Conservative therapy for chalazia: is it really effective? Acta Ophthalmol. June ;96(4):e503–e509.
+3. Bragg KJ, Le PH, Le JK. (2020). Hordeolum. [Updated 2020 Jun 29]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing. Jan. 
+4. Jordan GA, Beier K. (2020). Chalazion. [Updated 2020 May 8]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; Jan.
+5. Perry HD, Serniuk RA. (1980). Conservative treatment of chalazia. Ophthalmology. 87:218–21
+6. Willmann D, Guier CP, Patel BC, et al. (2020). Stye. [Updated 2020 Jun 23]. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; Jan.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

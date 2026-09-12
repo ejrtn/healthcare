@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[언어장애]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[4027]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[언어란 인간이 의사소통의 수단으로 사용하는 체계입니다. 언어를 통한 의사소통 과정을 살펴보면 먼저 뇌에서 전달하고자 하는 뜻을 구상하고, 이를 표현하는 낱말과 말소리를 선택한 후에 특정 기관에서 말소리를 만들어 의사를 전달합니다. 말은 언어와 동의어로 사용하기도 하지만, 이렇게 특정 기관에서 소리를 산출하는 과정을 뜻할 때는 언어와 구분됩니다.
+
+언어는 생각과 의사소통을 다양한 방법으로 전달하기 위한 복합적인 상징체계입니다. 언어는 다섯 가지 척도, 즉 소리의 규칙에 관한 음성학(phonology), 단어의 의미와 조합에 관한 규칙인 의미론(semantics), 단어가 어떻게 구성되는지에 관한 형태론(morphology), 문장에서 단어가 문법적으로 잘 사용되는지에 관한 통사론(syntax), 그리고 문맥상 말을 적절하게 시작하고 화제를 잘 이어나가는지에 관한 화용론(pragmatics) 등에 의해 평가할 수 있습니다.
+
+말은 의사소통을 위해 호흡계, 후두, 구강 등이 소리를 만드는 운동 과정입니다. 그 과정은 횡격막과 늑간근, 복근, 흉쇄유돌근이 작용하는 호흡 과정과 후두에서 소리를 만드는 발성과정, 그리고 혀와 턱, 인두근의 움직임에 따른 조음과정으로 나눌 수 있습니다.
+
+일반적으로 언어장애라는 용어는 좁은 의미의 언어장애와 말 장애를 모두 뜻하기도 합니다. 세분해 보면 언어장애란 상대방의 말이 잘 이해되지 않거나, 하고 싶은 말의 단어가 잘 생각이 나지 않거나, 단어의 의미를 어떻게 조합해야 할지 모르는 등 문법의 문제가 있거나, 맥락과 상황에 맞지 않는 말을 하는 경우를 뜻합니다. 한편 말 장애는 의사소통하는 데 필요한 언어 소리를 만들거나 형성하는 데 문제가 있는 상태를 뜻합니다. ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[언어장애(성인 언어 및 말장애의 진단과 치료)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[4030]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[언어장애(아동 언어장애의 진단과 치료)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[4029]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[언어장애(성인 언어 및 말장애의 진단과 치료)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6189]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[언어장애(아동 언어장애의 진단과 치료)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6188]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[직업성 호흡기질환(직업성 감염성폐질환)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6525]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 직업성 감염성 폐질환은 특정 직업 환경에서 감염성 병원체에 노출되어 발생하는 폐질환입니다.
+• 직업성 감염성 폐질환을 예방하려면 마스크 등 개인 보호구 착용, 철저한 손 위생, 백신 접종 등의 개인적 예방 조치가 필수적이며, 공기 질 관리, 환기, 소독 등 직업 환경에서의 철저한 감염 관리도 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직업성 감염성 폐질환은 특정 직업 환경에서 감염성 병원체에 노출되어 발생하는 폐 질환을 말합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[감염성 질환의 원인은 일반적으로 의료 종사자(healthcare worker)와 비의료 종사자에 따라 다릅니다. 의료 종사자는 병원이나 요양 시설에서 환자를 돌보거나 의료 서비스를 제공하는 사람으로, 의사, 간호사, 임상 검사실 직원, 방사선 기술자, 응급 구조대원, 약사 등이 포함됩니다. 이들은 환자의 호흡기 분비물과 접촉해 감염될 수 있으며, 주요 감염원은 결핵, 인플루엔자, 코로나바이러스 등입니다. 
+비의료 종사자는 의료 분야 이외의 직업에서 감염성 병원체에 노출될 수 있는 농업 종사자, 폐기물 처리자, 공공 서비스 제공자 등을 말합니다. 대중교통 운전사나 공항 직원처럼 많은 사람이 모이는 장소에서 근무하는 경우, 인플루엔자나 코로나바이러스에 감염될 가능성이 큽니다. 건설업이나 폐기물 처리업 종사자라면 레지오넬라와 같은 환경적 요인에 의한 감염 위험도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[국제 노동 기구에 따르면, 2017년까지 전 세계 직업 종사자 중 전체 사망자의 9%가 감염성 질환으로 인한 것이었습니다. 이 비율은 저소득 국가에서 더 높아 아프리카에서는 30%에 달한 반면, 고소득 국가에서는 5% 미만으로 보고되었습니다. 직업성 감염성 질환 중 의료 종사자에서는 주사침 자상과 호흡기 감염이 가장 흔하며, 비의료 종사자에서는 호흡기 감염이 많습니다. 잠복결핵 검사에서 양성으로 확인된 직업 종사자는 일반 인구에 비해 결핵 감염 위험이 몇 배 높을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직업성 감염성 폐질환의 증상은 일반적인 감염성 폐질환과 유사하지만, 특정 직업 환경에서 병원체에 노출되어 발생하며, 병원체의 종류와 노출 강도에 따라 증상의 정도가 달라질 수 있습니다. 감염된 병원체에 따라 세균성, 바이러스성, 진균성 폐질환으로 나뉘며, 모두 폐에 염증을 일으켜 기침, 가래, 호흡곤란, 흉통 등의 호흡기 증상을 유발합니다. 발열, 피로감, 식욕 부진, 근육통, 관절통 등 전신 증상도 동반될 수 있습니다. 병원체에 따라 특이 증상이 나타날 수 있는데, 결핵은 만성 기침, 체중 감소, 야간 발한을, 레지오넬라는 고열(39~40°C), 두통, 혼미 등의 증상을 유발할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직업성 감염성 질환은 병력 조사와 신체 검사를 시작으로, 혈액 검사, 체액 검사, 영상 검사, 그리고 병원체 특이 검사를 통해 진단합니다. 이러한 과정을 통해 병원체를 정확히 확인하고, 적절한 치료 계획을 수립할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직업성 감염성 질환의 치료는 감염된 병원체에 따라 항생제, 항바이러스제, 항진균제, 항기생충제 등을 사용하며, 환자의 상태에 따라 적절한 대증 요법과 감염 관리를 병행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직업성 감염성 폐질환의 위험 요인은 직업 특성, 작업 환경, 개인의 면역 상태에 따라 달라집니다. 예방을 위해서는 개인 보호 장비 착용, 철저한 손 위생, 백신 접종 등의 개인적 예방 조치가 필수적이며, 공기 질 관리, 환기, 소독 등 직업 환경에서의 철저한 감염 관리도 중요합니다. 또한, 직업별 감염 예방 규정 수립과 감염 발생 시 대응 체계 구축 등 제도적 예방 조치가 필요합니다. 감염 위험이 높은 직군에서는 예방 교육과 정기적인 검진을 통해 감염 위험을 최소화하고, 결핵의 경우 IGRA 검사를 통해 잠복결핵 여부를 확인할 수 있습니다. IGRA 검사에서 양성 반응이 나오면, 결핵균에 감염된 상태일 수 있으므로 치료가 필요합니다. 잠복결핵 감염이 활동성 결핵으로 진행될 수 있기 때문에, 조기에 치료를 시작해 결핵의 발병을 예방하는 것이 중요합니다. 치료를 받지 않으면 결핵균이 활성화되어 전염될 위험이 커지므로, 적절한 약물 치료를 통해 감염이 확산되는 것을 방지해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 결핵 외에 다른 감염성 폐질환은 어떤 것이 있나요?
+
+A. 병원체의 종류에 무관하게 세균, 바이러스, 곰팡이, 기생충 등에 감염되면 감염성 폐렴이 발생할 수 있습니다. 병원체에 따라 구분하면 세균성 감염성 폐질환의 경우 주로 물이나 에어컨에서 잘 번식하는 레지오넬라균에 감염되어 발생하는 레지오넬라증이 대표적이며, 농업 종사자의 경우 곰팡이가 핀 건초의 호열성 세균에 감염되면 과민성 폐렴이 생길 수 있습니다. 바이러스성은 인플루엔자나  코로나19(COVID-19) 등이 가장 흔하며, 진균성은 히스토플라즈마증이 대표적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[121]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[천식, 직업성 폐질환, 직업성 폐질환(직업성 감염성폐질환), 직업성 폐질환(직업성 만성폐쇄성폐질환), 직업성 폐질환(직업성 폐암), 직업성 폐질환(진폐증)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Acke, S., Couvreur, S., Bramer, W. M., Schmickler, M. N., De Schryver, A., &amp; Haagsma, J. A. (2022). Global infectious disease risks associated with occupational exposure among non-healthcare workers: a systematic review of the literature. Occupational and Environmental Medicine, 79(1), 63–71. 
+2. Hämäläinen P, Takala J, Boon Kiat T. (2019). Global estimates of occupational accidents and work-related illnesses 2017. Workplace Safety and health Institute. Available: https://www.icohweb.org/site/images/news/pdf/Report%20Global%20Estimates%20of%20Occupational%20Accidents%20and%20Work-related%20Illnesses%202017%20rev1.pdf [Accessed 11 Sep 2024]. 
+3. Lee, Y. H., Kim, J. S., Park, Y. J., Kim, G., Kim, Y., Park, G., Kim, H. W., &amp; Myong, J. P. (2024). Comparison of the standardized incidence ratio of tuberculosis among workers at medical and educational institutions: a nationwide LTBI observational cohort study. Journal of Infection and Public Health, 17(12), 102569. 
+4. Ling, D., &amp; Menzies, D. (2010). Occupation-related respiratory infections revisited. Infectious Disease Clinics of North America, 24(3), 655–680. 
+5. Scott GY, Ezie KN, Dauda Z, Andigema AS, Amekpor F. (2023). Occupational Exposure to Infectious Diseases among Health Workers: Effects, Managements and Recommendations. J Infect Dis Epidemiol 9:295. 
+6. Shin, S., Yoon, W. S., &amp; Byeon, S. H. (2022). Trends in Occupational Infectious Diseases in South Korea and Classification of Industries According to the Risk of Biological Hazards Using K-Means Clustering. International Journal of Environmental Research and Public Health, 19(19), 11922. 
+7. World Health Organization. (2022). Occupational infections.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

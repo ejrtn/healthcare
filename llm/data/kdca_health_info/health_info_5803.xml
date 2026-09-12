@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[급성호흡곤란증후군]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5803]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 급성호흡곤란증후군은 폐의 기능이 급격히 저하되어 산소 부족과 이산화탄소 축적을 일으키는 질환으로, 흔한 원인은 패혈증(가장 많음), 외상, 위산 흡인입니다.
+• 주요 증상은 호흡수 증가, 호흡곤란, 불안, 초조, 흉부 불편감, 기침 등이 있으며, 패혈증에 의한 경우에는 저혈압과 고열이 나타날 수 있습니다​.
+• 치료에서 가장 중요한 것은 산소치료이며, 기계환기를 통해 폐 기능을 유지하면서 원인 질환을 치료합니다​.
+• 급성호흡곤란증후군은 전신 염증 반응과 연관되어 폐손상 외에도 콩팥 등 다기관부전 합병증이 발생할 수 있으며, 아직까지 예방법은 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐의 기능 
+사람이 삶을 유지하기 위해서 여러 장기가 정상적으로 기능해야 하지만, 특히 호흡을 담당하는 폐는 생존을 위해 필수적인 장기로 흔히 사람이 운명했을 때, '숨이 끊어졌다' '숨졌다'고 표현합니다. 폐의 가장 중요한 기능은 체외 공기로부터 산소를 얻고, 체내에서 발생한 대사산물인 이산화탄소를 체외로 배출하는 것입니다. 폐를 통해 공기 중의 산소가 혈액 내로 이동하고, 혈액순환을 통해 산소가 우리 몸의 모든 세포로 공급됩니다. 세포 안에 있는 미토콘드리아는 공급된 산소를 이용하여 에너지를 생산하고, 이 에너지는 세포를 유지하는데 필수적입니다. 만약 세포에 산소공급이 중단되면 세포는 죽어서 우리 몸의 여러 장기가 정상적으로 기능을 할 수 없게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6ee4964]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[여러가지 이유로 폐의 기능이 급격하게 저하되어 동맥혈 내 산소 분압이 떨어지거나, 이산화탄소가 축적되는 상태를 급성호흡부전이라고 합니다. 호흡부전을 유발하는 대표적인 질병이 급성호흡곤란증후군입니다. 일주일이내 발생한 폐 손상으로 동맥혈 내 산소 분압의 감소와 흉부 X-선 검사에서 양쪽 폐 침윤이 보일 때, 급성호흡곤란증후군으로 정의합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성호흡곤란증후군을 유발하는 임상질환은 매우 다양하며, 폐에 직접 손상을 일으키는 질환과 전신작용을 통해 폐에 손상을 일으키는 질환으로 나눌 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc3414]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[흔히 관찰되는 원인은 패혈증, 외상, 위산 흡인입니다. 그 중에서도 패혈증이 가장 흔한 원인질환으로, 발생 위험율이 약 40%에 이르고 있으며, 여러가지 위험 인자가 겹칠수록 발생률은 증가한다고 알려져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[산소공급 후 측정한 동맥혈 검사결과에 따라 중증도를 구분하며, 기계환기가 필요한 중증 급성호흡곤란증후군은 대략 40~50%의 치사율을 보이는 치명적인 질환입니다. 대부분의 사망은 유발요인 발생 후 첫 2주 내에 발생합니다. 질환의 처음 3일 간은 원인 질환의 악화에 의한 사망이 대부분이며, 그 후에는 패혈증이 사망의 주된 원인입니다. 질환의 후기에는 여러 장기의 기능 부전이 사망의 주된 원인이 됩니다. 예후를 예측할 수 있는 지표로는 기능 부전을 보이는 장기의 수, 간부전의 존재, 장기의 기능 부전 기간, 연령, 패혈증 여부 등이 알려져 있으나 급성호흡곤란증후군의 예후를 정확하게 예측할 수 있는 방법은 아직까지 밝혀지지 않은 상태입니다. 
+원인 질환이 다양하듯 환자마다 경과가 매우 다르지만 일반적으로는 회복하는 환자의 경우, 대개 10~14일에 걸쳐 증상이 호전됩니다. 회복된 환자 중에는 종종 폐에도 전혀 손상을 남기지 않고 향후에도 다른 문제를 보이지 않는 경우가 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐의 기능은 공기 중의 산소를 혈액내로 그리고 혈액내 이산화탄소를 공기중으로 전달하는 것입니다. 들이마신 공기와 혈액이 산소와 이산화탄소를 교환하는 장소가 폐포-모세혈관 장벽입니다. 이 장벽은 폐포 상피세포와 모세혈관 내피세포로 구성되어 있으며, 폐포 내 가스와 혈액 내 가스는 쉽게 이동할 수 있으나 혈액 내 성분이 폐포로 빠져나가는 것은 차단하는 기능을 가지고 있습니다. 다양한 원인에 의해 발생한 염증 폐질환은 폐포-모세혈관 장벽을 파괴하며, 이로 인해 급성호흡곤란증후군이 발생합니다. 폐포-모세혈관 장벽 파괴로 혈액 내 단백질이 풍부한 삼투액이 폐포 안으로 빠져나오고, 그 결과 폐포는 물로 가득 차는 폐부종이 발생합니다. 가스 교환이 일어나는 폐포에 물이 가득차면서 산소와 이산화탄소의 교환이 일어나지 못해 혈액내 산소 분압이 감소하고 이산화탄소 분압이 증가하게 됩니다.
+급성호흡곤란증후군은 시간 경과에 따라 급성기, 증식기, 섬유화기로 분류되는데, 급성기에는 염증반응이 주된 변화이고, 증식기에는 폐포상피세포의 증식이 일어나는 시기입니다. 섬유화기는 폐포에 섬유화가 발생하는 최종단계로서 기계호흡으로도 폐포에서의 가스교환이 잘 안되는 시기입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1994년 미국-유럽 호흡기학회에서 통일된 급성호흡곤란증후군 정의를 발표하기 전까지 역학조사마다 다른 정의를 사용했기 때문에 급성호흡곤란증후군의 발생률을 정확히 평가하기에는 제한이 있었습니다. 미국 국립보건원 주관하의 급성호흡곤란증후군 네트워크 팀에서 조사한 발표결과에 따르면 미국 내에서 연간 인구 10만명당 86명이 발생하였습니다. 2016년에 50개 국가에서 진행된 다기관 연구에서는 중환자실에 입원한 환자 3만명 중, 약 10%에서 급성호흡곤란증후군을 진단 받았으며, 이 중 80% 환자에서 기계환기기를 적용하였습니다. 지역별로 발생률이 상이하였고, 특히 미국과 유럽에서 급성호흡곤란증후군의 발생률이 높았습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성호흡곤란증후군 증상은 기저질환, 폐 손상 정도, 그리고 동반 장기의 기능부전에 따라 다양하게 나타날 수 있으며, 발병이후 시간에 따라 특징적인 경과를 보입니다. 처음 몇 시간 동안은 호흡기 증상이나 증후가 전혀 나타나지 않을 수도 있습니다. 종종 가장 먼저 나타나는 증상은 호흡수 증가이고, 뒤이어 호흡곤란이 생깁니다. 증상은 유발요인 발생 후 12~36시간 이내에 흔히 나타나지만, 드물게는 5~7일 후에 나타날 수도 있습니다. 대개 72시간 정도 지나면 약 85%의 환자가 명백하게 증상을 호소합니다.
+환자는 불안하고 초조해하며, 호흡곤란, 흉부 불쾌감, 기침을 호소하는데, 이러한 증상은 흉부 X-선에서 명확한 폐침윤이 보이기 수 시간 전에도 나타날 수 있습니다. 노인 환자들은 호흡기 증상이 아닌 원인 모를 의식장애를 보이기도 합니다. 진찰 결과 빠른 호흡과 빠른 맥박수를 보이며 청진에서는 폐부종에서와 유사한 수포음이 전체 가슴에서 들릴 수 있습니다. 급성호흡곤란증후군의 가장 흔한 원인인 패혈증에 의한 경우에는 저혈압과 고열을 동반합니다. 
+질환 초기에는 동맥혈 가스분석 검사에서 이산화탄소 분압 감소와 더불어 산소 분압 감소가 있으며, 이런 소견은 산소 투여로 좋은 반응을 보이지만, 질환이 점차 진행하게 되면 산소 투여에도 개선되지 않는 심한 동맥혈 저산소혈증을 보입니다. 심한 저산소혈증으로 인해 환자들은 빠른 호흡을 하며 호흡곤란이 더 심해지면서 청색증이 나타납니다. 흉부 X-선 에서는 양측 폐 전체에 걸친 광범위한 침윤소견이 뚜렷이 보이지만 심장의 크기는 정상이고 흉수가 동반되는 경우는 비교적 드뭅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc3467]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일주일 이내에 새롭게 악화되는 호흡기 증상이 있으면서, 흉부 X-선 검사에서 양쪽에 폐침윤 소견과, 동맥혈가스 검사 결과에서 저산소혈증 소견이 있을 때 급성호흡곤란증후군을 진단할 수 있습니다. 
+
+1) 방사선 검사
+
+폐가 직접적으로 손상을 받은 환자의 경우에는 초기 흉부 X-선 검사에서 국소적인 변화 소견을 관찰할 수 있습니다. 초기 흉부 X-선 검사 소견은 비특이적이거나 소량의 흉수를 동반한 울혈심부전증 환자와 유사한 소견을 보일 수도 있습니다. 그러나 질환이 진행하면 간질성 폐부종이 악화되면서 점차 미만성 침윤 소견이 관찰되고, 폐실질을 침범하면서 특징적인 양측성 폐포 및 간질성 음영이 뚜렷히 나타나게 됩니다. 
+급성호흡곤란증후군을 유발한 질환이나 원인이 교정된 후에도 호흡부전 상태가 호전이 안되는 경우에는 흉부 컴퓨터 단층촬영(computed tomography, CT)을 고려합니다. 흉부 컴퓨터 단층촬영은 급성호흡곤란증후군의 유발원인 질환에 대한 단서를 제공할 뿐 아니라 급성호흡곤란증후군으로 인한 여러 합병증(기계환기나 중심정맥도관 삽입 등에 의한 기흉, 종격동기종, 국소적인 폐렴, 폐색전증 등)을 더 예민하게 발견해 낼 수 있다는 장점이 있습니다. 또한 흉부 컴퓨터 단층촬영에 나타난 폐침범 정도는 환자의 가스교환능력과 폐유순도와 비례하기 때문에 급성호흡곤란증후군의 치료 반응과 경과를 판단하는데 도움을 줄 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc3534]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 동맥혈 가스분석 검사 
+동맥혈 가스분석 검사는 동맥혈내의 산도, 산소분압, 이산화탄소분압 등을 측정하는 검사로서 급성호흡곤란증후군의 진단 및 치료효과와 경과를 판정하는데 필수적인 검사입니다. 질환 초기에는 대개 호흡성 알칼리증과 다양한 정도의 동맥혈 저산소혈증을 보이며, 이러한 저산소혈증은 산소 공급에 의해서도 크게 개선되지 않습니다. 질환이 진행됨에 따라 폐포 내 부종이 점차 증가하면서 저산소혈증과 고탄산혈증은 악화됩니다. 
+
+3) 기관지폐포세척술 
+기관지 내시경을 이용한 기관지폐포세척술은 급성호흡곤란증후군 환자에서 원인 병원균의 발견과 원인이 분명치 않은 급성호흡곤란증후군의 감별진단을 위한 진단 도구로 사용됩니다. 또한 최근에는 급성호흡곤란증후군의 경과나 예후를 예측할 수 있는 생화학적 지표나 세포 소견을 밝히기 위한 수단으로도 사용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc34c1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4) 심장초음파 
+심부전에 의해서도 호흡곤란과 폐부종이 동반될 수 있어, 급성호흡곤란증후군과 심부전에 의한 폐부종을 감별하기 위해 심장의 기능과 구조를 평가하는 심장초음파를 시행할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc3597]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성호흡곤란증후군의 치료는 원인 질환의 치료, 심폐기능 유지를 위한 보조 치료, 폐손상에 대한 특이적 치료로 구분됩니다. 그러나 아직까지 폐손상에 대한 효과적인 치료방법은 없습니다. 현재 급성호흡곤란증후군 환자의 주된 치료는 원인 질환의 진단과 치료, 그리고 원인질환이 교정되기 전까지 심폐 생리적 기능을 유지하기 위한 보존적 치료에 의존하고 있습니다. 최근 급성호흡곤란증후군의 사망률 감소는 다양한 보존적 치료법의 발전 덕분입니다. 급성호흡곤란증후군의 치료 목표는 다음 표와 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc35f1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[최근에는 급성호흡곤란증후군의 아형(subtype) 또는 유전형(phenotype)에 따른 치료를 하고자 하는 정밀의학(precision medicine)이 도입되고 있으나 아직 초기 단계입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐렴이나 패혈증이 급성호흡곤란증후군의 원인인 경우 항생제를 투약하고 원인 질환을 교정하기 위한 약물치료를 시행합니다. 대부분의 환자는 중환자실에서 기계환기 치료를 받으므로 진통제와 안정제, 폐 색전증 예방약제를 투여합니다. 또한 폐부종을 완화하기 위한 이뇨제, 혈압저하에 대한 승압제 등 기계환기 중 발생하는 다양한 문제를 해결하기 위한 약물 치료를 시행합니다. 
+급성호흡곤란증후군에서 폐손상이 염증 반응과 밀접하다는 사실로 인해 부신피질호르몬(스테로이드)과 같은 항염증제 투약과 관련된 많은 연구가 발표되었습니다. 초기 연구 결과에서는 스테로이드 사용이 사망률 개선에 효과가 없었으며, 일부 연구에서는 오히려 기계환기 치료기간을 늘리고 병원 감염율도 높이는 부정적인 결과도 발표되었습니다. 그러나 최근 중증 급성호흡곤란증후군 환자에게 스테로이드 중 하나인 덱사메타손을 투여할 때 사망률이 개선되었다는 다기관 무작위 배정연구 결과가 발표되면서 스테로이드사용이 증가하는 추세입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성호흡곤란증후군의 치료에서 가장 중요한 것은 산소치료입니다. 일부 급성호흡곤란증후군 환자들 중 질환 정도가 경미하고 정신 상태가 비교적 명료한 환자들은 안면 마스크를 이용한 비침습적 기계환기(non-invasive ventilation)나, 고유량 비강산소요법(high flow nasal cannula)을 적용하여 기관삽관을 통한 침습적 기계환기를 피할 수 있습니다. 그러나 결국 대부분의 환자는 질환이 진행됨에 따라 폐에 직접적으로 고농도 산소를 공급하기 위해 기관삽관을 시행하고 기계환기기 치료를 시행합니다. 
+기계환기기 적용 목적은 손상된 폐가 치유될 때까지 환자의 호흡을 지탱해주는 것입니다. 폐가 회복되는 시간동안 기계환기는 산소 공급과 이산화탄소 배출에 매우 중요한 역할을 하지만 기계환기기를 통한 환기 자체가 폐 손상을 유발하기 때문에 기계환기 적용시에는 폐보호환기요법 전략을 통해 추가적인 폐손상을 최소화하는 것이 무엇보다 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc36e7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기계환기기 치료에도 산소공급이 불충분한 경우 복와위 체위변경 적용을 통해 산소 공급을 개선할 수 있다는 여러 연구결과가 발표되어 중증 급성호흡곤란증후군의 표준치료로 자리잡고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc3761]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[또한 기계환기기를 비롯한 여러 치료에도 산소공급과 이산화탄소 배출이 개선되지 않으면 체외막 산소화기계(extracorporeal membrane oxygenation, ECMO)를 적용하여 원인질환을 교정하고 손상된 폐가 회복될 때까지 생존을 유지할 수 있습니다. 최근에는 기계환기에 의한 폐손상을 줄이기 위해 조기에 ECMO치료를 적용하는 연구도 발표된 바 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc3664]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성호흡곤란증후군에서 폐손상은 전신적인 염증 반응과 연관성이 높으며 전신의 염증 반응으로 인해 급성콩팥손상을 비롯한 다기관부전 합병증이 발생할 수 있습니다. 급성호흡곤란증후군에 여러 기관의 복합손상이 동반될 경우 사망률은 더욱 높아집니다. 또한 중증 급성호흡곤란증후군 환자는 대부분 기계환기를 적용 받기 때문에 기계환기로 인한 폐손상이 자주 발생할 수 있으며, 대표적으로 기흉과 기계환기관련 폐렴이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성호흡곤란증후군의 발생을 예방할 수 있는 효과적인 예방법은 아직까지 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 급성호흡곤란증후군을 예측하고 예방할 수는 없나요?
+
+A. 패혈증, 폐렴, 외상, 흡인 등 급성호흡곤란증후군과 연관된 기저질환이 있는 환자에서 호흡곤란이 증가하면 이를 의심하게 됩니다. 과거부터 발생여부를 예측할 수 있는 지표를 찾고자 하는 많은 노력이 있었지만, 임상적으로 이용할 만한 정확성을 가진 지표는 아직 없습니다. 급성호흡곤란증후군이 발생할 수 있는 기저질환이 있는 환자에서의 발생을 예방하려는 여러 방법이 시도되었지만 아직 효과적인 예방법은 없습니다.
+
+Q. 사망률을 감소시키는 획기적 치료법이 있나요?
+
+A. 모든 질병의 근본적인 치료를 위해서는 질병의 발병기전이 밝혀져야 합니다. 최근 20여 년간 급성호흡곤란증후군에 대한 여러 연구결과를 통해 발병기전에 대한 많은 사실들이 밝혀졌습니다. 밝혀진 발병기전을 바탕으로 미국 국립보건원 급성호흡곤란증후군 팀에서 많은 대규모 임상시험을 시행하였지만, 아직까지 급성호흡곤란증후군의 사망률을 감소시킬 수 있는 특이적이고 효과적인 치료법은 없습니다.
+
+Q. 예후는 어떤가요?
+
+A. 급성호흡곤란증후군에서 회복된 생존자들은 대부분 질병 발생 후 2주 이내에 호전되는 양상을 보입니다. 여러 집중치료술의 발전에도 불구하고 아직까지 사망률은 40%를 넘습니다. 대부분의 사망은 유발요인 발생 후 첫 2주 내에 발생합니다. 질환의 처음 3일 간은 원인 질환의 악화에 의한 사망이 대부분이며, 그 후에는 패혈증이 사망의 주된 원인입니다. 질환의 후기에는 여러 장기의 기능 부전이 사망의 주된 원인이 됩니다. 남성과 흑인의 경우 여성과 기타 인종에 비하여 사망률이 더 높다고 알려져 있습니다. 예후를 예측할 수 있는 지표로는 기능 부전을 보이는 장기의 수, 간부전의 존재, 장기의 기능 부전 기간, 연령, 패혈증 여부 등이며 초기의 동맥혈 저산소혈증의 정도는 사망률과 연관성이 없다고 알려져 있습니다. 하지만, 급성호흡곤란증후군의 예후를 정확하게 예측할 수 있는 방법은 아직까지 밝혀지지 않은 상태입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 이상민, 유철규. (2005). 급성호흡곤란증후군. Korean J Med, 68(5), 476-487.
+2. Bellani, G., Laffey, J., Pham, T., Fan, E., Brochard, L., Esteban, A.,…&amp; Pesenti, A. (2016). Epidemiology, Patterns of Care, and Mortality for Patients With Acute Respiratory Distress Syndrome in Intensive Care Units in 50 Countries. JAMA, 315(8), 788-800. doi: 10.1001/jama.2016.0291.
+3. Combes, A., Hajage, D., Capellier, G., Demoule, A., Lavoue, S., Guervilly, C., ...&amp; Mercat, A. (2018). Extracorporeal Membrane Oxygenation for Severe Acute Respiratory Distress Syndrome. N Engl J Med, 378(21), 1965-1975. doi:10.1056/NEJMoa1800385 5.
+4. Combes, A., Schmidt, M., Hodgson, C. L., Fan, E., Ferguson, N. D., Fraser, J. F., ...&amp; Brodie, D. (2020). Extracorporeal life support for adults with acute respiratory distress syndrome. Intensive Care Med, 46(12), 2464-2476. doi:10.1007/s00134-020-06290-1.
+5. Fan, E., Lorenzo, D.S., Ewan, C.G., Carol, L.H., Laveena, M., Allan, J.W., ...&amp; Laurent J.B. (2017). An Official American Thoracic Society/European Society of Intensive Care Medicine/Society of Critical Care Medicine Clinical Practice Guideline: Mechanical Ventilation in Adult Patients with Acute Respiratory Distress Syndrome'. American Journal of Respiratory and Critical Care Medicine, 195(9), 1253-63. https://doi.org/10.1164/rccm.201703-0548ST
+6. Hadaya, J., &amp; Benharash, P. (2020). Prone Positioning for Acute Respiratory Distress Syndrome (ARDS). JAMA, 324(13), 1361. doi:10.1001/jama.2020.14901
+7. Rubenfeld, G.D., Caldwell, E., Peabody, E., Weaver, J., Martin, D.P.,Margaret, N.,…&amp; Leonard, D. (2005). Incidence and outcomes of acute lung injury. N Engl J Med, 353(16), 1685-93. doi: 10.1056/NEJMoa050333
+8. Villar, J., Ferrando, C., Martinez, D., Ambros, A., Munoz, T., Soler, J. A., ...&amp; Gonzalez-Martin, J. M. (2020). Dexamethasone treatment for the acute respiratory distress syndrome: a multicentre, randomised controlled trial. Lancet Respir Med, 8(3), 267-276. doi:10.1016/s2213-2600(19)30417-5.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

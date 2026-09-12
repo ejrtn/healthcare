@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[연조직염과 종기(연조직염)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6494]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 연조직염은 피부와 피하 조직에 발생하는 급성 세균 감염으로, 피부가 붉어지고 붓고 통증이 생기는 것이 특징입니다.
+• 주로 피부 손상 부위를 통해 세균이 침입하며, 다리에 흔히 발생합니다.
+• 초기에는 발열, 오한, 근육통 등의 전신 증상이 나타나고, 이후 감염 부위에 홍반과 부종, 열감이 생깁니다.
+• 치료는 주로 항생제 사용이 기본이며, 경우에 따라 주사 치료나 장기 치료가 필요할 수 있습니다.
+• 적절히 치료하지 않으면 괴사근막염이나 패혈증 같은 심각한 합병증으로 진행할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연조직염(cellulitis)은 피부와 피하 조직에 생긴 급성 세균 감염증으로, 세균이 침범한 부위가 빨갛게 되거나(홍반), 부종, 누를 때 통증(압통)이 생기는 것이 특징입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf272cd1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연조직염은 보통 피부 점막 부위를 통해 세균이 침범해서 발생되며, 주로 다리에 발생합니다. 직업적으로는 군인에서 흔한데, 이는 무좀이나 다른 피부질환이 전파되거나  외상에 노출되기 쉬운 환경 때문이라고 생각되고 있습니다. 드물게 감염된 혈액을 통해 연부조직으로 퍼지기도 하는데 이러한 경우 원인규명이 반드시 필요합니다. 단독으로 생기는 경우는 드물고 여러 군데에 발생하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[발병 초기의 증상은 열이 나고 춥고, 머리가 아프며 근육의 통증과 식욕이 떨어지는 것 등입니다. 
+국소적으로 염증이 생긴 부위가 빨갛게 되면서(홍반) 주위로 퍼져가고, 해당 부위가 붓는 증상이 나타납니다. 
+좀 더 진행되면 따뜻하게 만져지고, 손가락으로 누르면 들어가며(오목부종, 함요부종), 통증이 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일반적으로 합병증이 발생하지 않은 연조직염의 경우 특징적인 임상양상을 기준으로 진단할 수 있습니다.
+특징적인 증상으로는 국소적인 피부의 홍반과 부종, 열감, 그리고 해당 부위를 눌렀을 때 통증을 느끼는 압통이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치료에서 가장 중요한 것은 항생제를 사용하는 것입니다. 항생제는 가장 흔한 원인균인 황색 포도알균과 사슬알균에 효과적인 항생제로 1세대 세팔로스포린(Cephalosporin) 혹은 페니실린(penicillin)계열 항생제를 사용합니다. 그러나 병원 감염이거나 면역억제환자의 경우 균배양검사 결과에 맞춰 항생제를 조정해야 합니다. 
+일반적으로 5일에서 10일 정도 항생제를 사용하지만, 정도가 심한 경우에는 좀 더 장기간 치료하게 됩니다. 가벼운 정도라면 먹는 항생제로 치료가 가능하지만, 그렇지 않은 경우에는 초기부터 항생제를 주사로 맞으면서 치료를 시작하는 것이 필요합니다.
+해당 부위를 높게 올리면 붓기와 염증을 줄이는 데 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 출혈연조직염(Hemorrhagic cellulitis)
+처음에는 연조직염과 같은 증상이지만, 피부에 광범위한 출혈이 나타나는 질환입니다. 가벼운 경우는 응혈된 가피를 형성하며 치유되고, 심한 경우에는 피부 전체 층이 썩거나 괴사근막염으로 진행되며, 대부분 전신질환이 있는 환자에서 발병합니다. 
+
+2. 괴사근막염(Necrotizing fasciitis)
+  비교적 피부와 근육은 잘 보존되면서 근막과 주변 지방조직에 광범위한 괴사를 일으키는 연부조직 감염증으로, 독소를 생산하는 병원균에 의해 발생합니다. 특히 사지, 복벽, 회음부에 많이 나타나며, 패혈증으로 진행하여 사망하는 경우가 30%에 이르는 무서운 형태의 연조직염입니다. 
+
+3. 회음부괴저(Fournier gangrene)
+ 음경 및 음낭에 국한되어 전격적으로 괴저를 일으키는 괴사근막염의 한 변형입니다. 회음부에서 시작된 병변이 사타구니와 복부로 퍼지면서 패혈증을 일으켜 사망에 이르기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[연조직염과 종기]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5779]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[연조직염과 종기(종기)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6493]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[불임증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5429]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 불임은 임신 과정에서 정상적인 진행에 문제가 발생하고, 이 문제가 어떤 원인에 의해 긴 기간 동안 임신이 되지 않는 상태를 말합니다.
+• 여성요인은 배란장애, 난관 폐쇄, 자궁요인(유착, 기형, 근종 등), 자궁내막증 등이 있으며, 남성요인은 덩굴정맥류, 정관 폐쇄, 정자 수 감소, 무정자증 등이 있습니다.
+• 다양한 검사를 통해 정확한 원인을 밝혀서 원인에 따라 적절한 치료를 하면 임신이 가능해질 수 있습니다.
+• 불임 치료법은 인공수정, 시험관아기 시술, 착상 전 유전자 검사, 미성숙 난자 체외수정, 동결보존법 등이 있습니다.
+• 불임의 원인은 남성요인이 35~40%를 차지하므로 진단과 치료를 위해 여성과 남성 모두 검사와 상담을 받는 것이 바람직합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[불임의 원인과 치료에 대해 이해하기 위해서는 여성과 남성의 생식기에 대한 지식과 여성의 생리주기에 대한 지식이 필요합니다. 
+
+1. 여성 생식기의 구조와 기능 및 생리 주기
+1) 여성 생식기의 구조
+여성의 생식기는 자궁, 난소와 난관으로 구성되어 있으며, 난소와 난관은 좌ㆍ우측에 각각 하나씩, 두 개가 있습니다.
+자궁은 여성의 복부 아래에 방광과 직장 사이에 위치하는 조롱박 혹은 서양배 모양의 생식기관입니다. 자궁의 길이는 약 7.5 cm, 폭은 약 5 cm, 그리고 두께는 약 2.5 cm 정도로 손바닥 정도 크기입니다.
+자궁은 안이 비어 있는 두터운 근육으로 이루어진 장기입니다. 자궁 안의 빈 공간(자궁내강)은 앞뒤로 납작한 삼각형의 틈새 공간으로서, 위쪽으로는 난관을 통하여 골반강과 연결되며, 아래쪽으로는 자궁 경부를 통하여 질과 연결됩니다. 
+양쪽 난관 끝에는 난소가 위치하고 배란일이 되면 난소에서 난자가 배란되어 난관을 통해 자궁 안으로 들어옵니다. 난관에서 난자가 정자와 만나 수정이 이루어지면 수정란은 자궁내막에 착상됩니다.
+
+자궁경부는 자궁의 아래쪽에 위치하는 좁은 부분으로, 자궁내강에서 질로 연결되는 자궁경관을 형성합니다. 평활근이 대부분인 자궁 체부와는 달리, 자궁경부는 대부분 치밀한 아교질(콜라겐) 조직으로 구성되어 있어서 자궁이 골반 중앙에 위치하도록 고정하는 역할도 담당합니다. 자궁경부의 길이는 위아래로 약 3~4 cm이며, 단면을 내었을 때의 지름은 약 1~3 cm입니다.
+자궁내막은 자궁 안을 구성하는 조직으로 혈관이 잘 발달되어 있으므로 이곳에 수정란이 착상하여 태반을 형성합니다. 
+
+여성 생식기의 구조는 아래와 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d0162f4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 자궁의 기능 
+자궁의 가장 중요한 기능은 생식, 즉 임신입니다. 남성의 정자가 들어오는 통로이고, 수정란이 착상하는 장소이며, 태아가 태반을 형성하고 성장, 발달하는 곳입니다. 또한 자궁은 궁극적으로 분만을 담당합니다.
+
+3) 자궁 주위의 장기들
+자궁은 복부 아래쪽 중앙에 위치하며 앞으로는 방광, 뒤로는 직장이 있습니다. 자궁의 양 옆으로는 여성호르몬을 생산하고 난자를 배란하는 난소가 있고, 배란된 난자를 자궁으로 받아들이는 난관이 자궁으로부터 양쪽으로 나와 있습니다.
+
+4) 자궁의 혈관계
+자궁은 대동맥에서 양쪽 다리로 뻗어 나온 장골동맥에 의해 혈액공급을 받는 장기입니다. 자궁은 임신이 되었을 때 태아에게 충분한 혈액과 영양을 공급하기 위하여 여러 혈관이 서로 연결되어 있습니다.
+
+5) 여성의 생리주기
+여성의 생리주기란 생리가 시작되는 날부터 다음 생리가 나타날 때까지의 기간을 말합니다. 건강한 여성의 생리주기는 28일이며, 첫 출혈이 시작되고 14~15일째에 난소에서 난자가 배출되는 배란이 일어납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dc97b378]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[여성의 생리주기는 다양한 호르몬의 복합적인 작용에 의해 주기적으로 반복되는데 불임증에 대한 이해를 위해서는 다음의 기본적인 용어들에 대해 알고 있어야 합니다. 
+
+① 생식샘자극호르몬
+사람의 뇌하수체에서 분비되는 호르몬으로, 여성의 생식샘인 난소를 자극하여 여성호르몬 분비를 돕는 역할을 담당합니다.
+② 에스트로겐(estrogen) 
+난소의 난포에서 생산되는 호르몬으로, 소위 '여성호르몬' 또는 '난포호르몬'으로 불립니다.
+③ 프로제스테론(progesterone) 
+난소의 난포는 난자를 배란한 후 황체라는 조직으로 변화합니다. 프로제스테론은 황체가 생산하는 호르몬의 일종으로, '황체호르몬'이라고도 불립니다.
+
+2. 남성 생식기의 구조와 기능
+남성의 생식기는 정자를 생산하는 고환, 고환에서 생산된 정자를 실어 나르는 정관(또는 수정관), 정자를 일시적으로 보관하는 정낭, 정액의 대부분을 생산하는 전립선, 그리고 성교를 위한 음경 등으로 구성됩니다. 
+정액의 약 60%는 정낭에서, 약 30%는 전립선에서, 나머지 5% 정도는 요도에서 생산되는 분비물로 구성되며, 고환에서 생산되는 정자는 정관을 타고 정낭으로 이동하여 저장되었다가 남성이 사정할 때 전립선액과 함께 섞여서 요도를 따라 배출됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dc9e7512]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1874f92afd54]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[불임은 임신의 과정에서 정상적인 진행에 문제가 발생하고, 이러한 문제가 어떤 원인에 의해 긴 기간 동안 지속되는 것입니다.
+난임과 불임은 종종 혼동하여 사용되고 있습니다. 난임은 정상적인 부부관계에도 불구하고 1년간 임신이 되지 않을 때로 정의합니다. 정상적인 부부에서 한 주기 당 임신 확률은 15~25% 정도이며, 1년 안에 약 85~90%의 부부가 임신하는 것으로 알려져 있습니다. 난임의 빈도는 연구에 따라 다양하게 보고되나, 약 10~15% 정도로 알려져 있습니다. 1년이 되지 않더라도 여성이 고령이면 좀 더 일찍 난임의 요인을 찾기 위한 검사를 할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 일차불임: 과거에 한 번도 임신을 해 본 적이 없는 불임
+• 이차불임: 과거에 임신을 해 본 과거력이 있으나, 그 후 임신이 되지 않는 불임]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[불임의 원인은 여성 측이나 남성 측, 또는 양측 모두에서 발견할 수 있습니다. 또한 환경적 요인, 유전적 요인, 질병 요인 등이 복합적으로 작용하여 불임의 원인이 되기도 합니다. 남녀 성별에 따른 불임의 원인으로는 여성이 약 55%, 남성이 35% 정도이며, 원인을 찾을 수 없는 불임도 10~15% 정도를 차지합니다. 
+여성요인으로 배란장애, 난관 이상 및 손상, 자궁요인, 자궁내막증 등이 있습니다. 남성요인으로는 발기장애, 정자 수 감소(희소정자)나 정액 내 정자가 없는 경우(무정자증), 역행사정 등이 있습니다.
+
+불임의 원인을 이해하기에 앞서 정상적인 임신 과정에 대해 간략히 살펴보도록 하겠습니다.
+한 달에 한 번 생리를 하는 여성이라면 생리를 시작한 지 14~15일이 되면 난소에서 난자가 배란이 됩니다. 이 시기를 전후로 성관계를 통해 남성의 정자가 여성의 생식기 속으로 사정되어 들어오면 정자는 질과 자궁경부, 자궁 내부를 거쳐 난관으로 이동합니다.
+
+배란된 난자가 난관 속으로 들어와 이동하면서 정자와 만나게 되는데, 이때 수많은 정자 중 단 하나의 정자만이 난자 속으로 뚫고 들어와 수정이 일어납니다. 
+정자와 난자가 만나서 만들어진 수정란은 세포분열을 거듭하면서 난관을 따라 자궁 내부로 들어가 자궁내막에 착상을 하게 되고, 자궁내막이 부풀어 올라 수정란을 감싸면서 태반을 형성하면 임신이 이루어집니다. 
+이 과정 중 어떤 단계에서 정상적인 진행에 문제가 발생하면 임신이 일어나지 않으며, 이러한 문제가 어떤 원인에 의해 긴 기간 동안 지속되어 불임이 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1874f945c507]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 불임의 여성 측 원인
+
+1) 배란장애
+난소에서 배란이 제대로 일어나지 않는 배란장애는 여성 측 불임원인의 약 40%를 차지하는 가장 중요한 요인입니다. 배란장애를 일으키는 대표적인 요인에는 '조기 난소 기능 저하'와 '다낭난소증후군'이 있습니다.
+
+① 조기 난소 기능 저하(Premature ovarian insufficiency)
+조기 난소 기능 저하란 정상적으로 폐경이 일어나기에는 너무 이른 40세 이전에 난소가 기능을 멈춰버린 상태를 말합니다. 조기 난소 기능 저하가 있는 경우엔 불규칙적인 생리주기를 가지며, 임신의 가능성은 있으나 임신 확률은 낮습니다.
+② 다낭난소증후군(Polycystic Ovary Syndrome, PCOS)
+다낭난소증후군은 가임기 여성의 6~15%에서 발생하는 가장 흔한 내분비질환으로,  만성 무배란 및 남성호르몬 과다가 주증상입니다. 다낭난소증후군은 1) 무배란 또는 배란이 드뭄, 2) 임상적 또는 생화학적 고안드로젠증, 3) 다낭난소, 이 3가지 중 2가지 이상에 해당하는 경우 진단을 내릴 수 있습니다.
+③ 기타 배란장애 요인
+생식샘자극호르몬의 분비에 이상이 발생하는 경우, 뇌하수체에 '유선자극호르몬'이라고도 불리는 프로락틴(Prolactin)을 분비하는 종양이 발생하는 경우, 그리고 갑상샘(갑상선)이나 부신  등 호르몬을 생산하는 내분비샘에 이상이 발생한 경우에도 여성의 생식주기에 영향을 미쳐 불임을 일으킬 수 있습니다. 거식증이나 심한 다이어트로 극심하게 체중이 낮거나 반대로 지나치게 비만한 여성의 경우에도 배란장애가 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1874f94fd3e1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 난관 폐쇄
+정상적으로 열려 있어야 할 난관이 폐쇄되면 정자와 난자가 만나서 수정란을 만들 수 없기 때문에 불임의 원인이 됩니다. 
+이러한 난관 폐쇄는 골반 내부의 염증질환이나 과거의 수술 등으로 인한 유착, 자궁의 내막조직이 복강 내부로 흘러 들어가 반복적인 염증을 일으키는 자궁내막증 등이 원인이 되어 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dca6c275]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dcabbbf8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 자궁요인 
+자궁 안에 유착이 발생하는 경우, 자궁의 형태에 기형이 있는 경우, 그리고 자궁에 근종이 있는 경우 착상을 방해하여 불임이 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dcb20862]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4) 기타 위험요인
+연령, 스트레스, 영양결핍 또는 무리한 다이어트, 과체중 혹은 저체중, 흡연, 약물, 음주, 환경적인 독소, 유전적 요인, 감염병 관련 요인들(예: 성병 등)이 여성의 불임증 발생 위험을 증가시킵니다.
+
+2. 불임의 남성 측 원인
+정상적인 임신을 위한 남성 측의 조건은 성숙하고 건강한 정자가 생산되어야 하고, 정자가 자궁을 통과하여 난자에 도달한 후 난자를 뚫고 수정을 할 수 있을 정도의 운동능력이 있어야 합니다. 그 외에도 정자가 정확한 방향을 향해 이동할 수 있도록 정상적인 모양을 가지고 있어야 하고, 정자가 여성의 생식기 속으로 쉽게 들어갈 수 있을 정도로 충분한 정액의 양이 필요하며, 또한 충분한 숫자의 정자가 정액 속에 포함되어 있어야 합니다. 그리고 정상적인 성행위가 가능하도록 발기 능력이나 심리적 요인 또한 중요합니다. 만약 이들 요소 중에서 어느 하나라도 문제가 있는 경우 불임이 발생할 수 있습니다. 
+남성의 불임 요인은 덩굴정맥류가 37%, 원인을 알 수 없는 경우가 23%, 정관 폐쇄가 13%, 잠복고환/고환 이상이 각각 3%, 사정장애/면역학적 이상이 각각 2%, 유전적 원인이 1% 정도를 차지합니다.
+ 
+1) 정관 폐쇄 
+정관이나 부고환 등 정자의 이동경로가 폐쇄되면 정액이 이동할 수 없어 불임의 원인이 됩니다. 일부 경우에는 선천적인 이상으로 발생하기도 하지만, 요로감염이나 염증, 수술 등에 의해 후천적으로 발생하기도 합니다.
+2) 덩굴정맥류 
+덩굴정맥류는 고환에서 나가는 정맥에 혈류장애나 역류가 일어나 압력이 높아지고 혈액이 정체되면서 정맥혈관이 굵어지고 구불구불하게 늘어난 것을 말합니다. 덩굴정맥류의 90% 이상이 좌측 고환에서 발생합니다. 덩굴정맥류는 고환의 혈액순환을 나쁘게 하고 고환의 온도를 높여 불임을 일으키는 주요한 원인이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dcb708a5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dcbb8258]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 기타 위험요인 
+연령, 스트레스, 고환 부위가 높은 온도에 노출되는 것, 잠복고환, 꽉 조이는 속옷, 흡연, 약물, 음주, 환경적인 독소, 유전적 요인, 감염병 관련 요인들(예: 성병 등)이 남성의 불임증 발생 위험을 증가시킵니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 여성의 불임증 검사
+1) 기초 체온표(Basal body temperature) 
+기초체온이란 순수하게 기초대사만을 반영한 체온으로 매일 아침에 눈을 뜨자마자 일어나지 않고 바로 여성의 입안의 체온을 측정하여 기록한 것입니다. 배란 이후 황체에서 분비되는 황체호르몬(프로제스테론)은 체온을 상승시키는 작용이 있으므로 배란이 일어나기 전까지는 체온이 상대적으로 낮게 유지되다가 배란이 일어난 직후부터는 체온이 상대적으로 상승합니다. 기초 체온표를 정확히 작성하면 배란일을 알 수 있을 뿐 아니라 여성의 생리주기가 정상적으로 유지되는지 간접적으로 알 수 있습니다.
+
+2) 호르몬 검사 
+정상적인 호르몬 상태는 성공적인 임신을 위해 매우 중요합니다. 불임의 원인을 찾기 위해 검사하는 호르몬은 다양한 종류가 있으며 검사 시기에 따라 그 의미가 다릅니다. 
+① 프로락틴(Prolactin) 검사 
+유선자극호르몬으로도 알려져 있는 프로락틴은 배란기, 황체기(생리주기에서 황체가 형성되어 프로제스테론을 분비하는 기간) 중기에 상승하는 호르몬으로, 난포의 발육부전, 경증의 황체기능부전 시 증가하게 됩니다. 또한 원발성 갑상샘기능저하증에서 시상하부에서 갑상샘자극호르몬 분비호르몬이 항진되어 뇌하수체의 프로락틴의 분비를 돕게 됩니다.
+② 갑상샘자극호르몬 검사
+갑상샘기능항진증이나 갑상샘기능저하증의 경우 정상적인 배란을 방해합니다.
+③ 생식샘자극호르몬 검사
+생리 시작 3일째 혈청 내 생식샘자극호르몬의 일종인 난포자극호르몬(follicle stimulating hormone, FSH)의 혈중농도를 측정하면 난소의 노화를 예측할 수 있습니다. 또 다른 생식샘자극호르몬인 황체형성호르몬(luteinizing hormone, LH)의 혈중농도를 측정하면 시상하부, 뇌하수체의 장애 평가 및 다낭난소증후군의 진단에 이용될 수 있습니다.
+④ 에스트라디올 검사
+에스트라디올은 에스트로젠의 한 종류로서 난소에서 분비되는 호르몬입니다. 호르몬 수치는 생리 시작 3일째 측정하며 시상하부, 뇌하수체, 난소기능의 장애평가에 사용되고 이 시기에 높은 농도로 확인될 경우 음성 되먹임 기전(체내의 어떤 물질 혹은 상태가 변화되었을 때 그 변화를 최소화하려는 작용)으로 인해 난포자극호르몬이 과소평가 될 수 있습니다. 배란이 된 이후인 황체기 중기의 에스트라디올의 농도는 뒤에 설명될 프로제스테론의 농도와 함께 황체기능을 평가하는데 사용될 수 있습니다.
+⑤ 황체호르몬(프로제스테론) 검사
+황체기 중간에 황체호르몬을 측정하여 배란 여부와 황체 기능의 정상 여부를 알 수 있습니다. 배란과 다음 생리 시작시기의 중간 시점에 황체호르몬의 혈중 농도를 검사하였을 때 일정 수준 이상으로 농도가 높게 나오면 황체가 정상적으로 기능하고 있음을 알 수 있습니다.
+ 
+3) 초음파검사 
+생리 시작 3일째 질식 초음파검사를 시행하여 자궁의 크기, 모양과 함께 내막형상(궁상, 쌍각자궁, 중복자궁의 유무), 자궁내막 용종 유무, 자궁 부속기 종양의 유무, 기본 난포 크기 및 개수를 관찰할 수 있습니다. 또한 난포 크기와 자궁내막을 동시에 관찰함으로서 배란일이나 내분비 변화를 간편하게 측정할 수 있습니다.
+ 
+4) 자궁 난관 조영술 
+난관의 폐쇄는 여성 측 불임의 매우 중요한 원인입니다. 자궁 난관 조영술은 방사선을 통과시키지 않는 조영제라는 약물을 자궁 안으로 주입하면서 방사선 사진을 촬영하는 검사입니다. 만일 난관이 막히지 않고 정상적으로 열려 있으면, 조영제가 자궁내부에서 난관을 통해 복강 속으로 빠져나가는 것이 관찰됩니다. 그러나 난관이 막혀 있을 경우에는 조영제가 자궁 속에만 머물러 있습니다. 그 외에도 자궁 난관 조영술을 통하여 자궁 기형, 자궁 근종, 자궁내막 용종, 자궁내막 유착, 난관주위 유착, 난관 수종 등을 진단할 수 있습니다.
+ 
+5) 자궁경 
+자궁경은 자궁 안에 카메라를 진입시켜 이상을 진단하면서 동시에 치료할 수 있는 방법입니다. 자궁경을 통해 내강의 크기, 모양을 확인할 수 있으며 병변의 위치를 정확히 파악할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dcc3df22]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[6) 복강경술
+복강경술은 불임의 난관요인을 평가하는 확실한 방법입니다. 복강경술은 자궁 난관 조영술에서 발견할 수 없으나 불임을 일으킬 수 있는 자궁내막증이나 골반 및 자궁 부속기의 유착, 원위난관 폐쇄 등을 확인할 수 있습니다.  복강경술의 가장 중요한 장점은 진단과 치료가 동시에 가능하다는 것입니다. 즉, 유착박리 및 자궁내막증의 절제, 난소의 자궁내막종의 제거, 난관 성형술 등을 할 수 있습니다.
+
+7) 난소 예비력(ovarian reserve) 검사 
+난소 예비력이란 난소에 남아있는 난자의 개수 및 질(quality)과 이로 인한 생식력 측정을 의미합니다. 현재 임상에서 많이 사용되는 지표로는 혈중 난포자극호르몬(FSH), 항뮬러관 호르몬(antimullerian hormone, AMH), 초음파로 확인하는 동난포 개수(antral follicle count) 등이 있습니다. 이 지표들은 약제에 대한 난포의 반응과 관련이 있으나 이것이 반드시 임신율을 의미하지는 않습니다. 
+① 난포자극호르몬(FSH) 검사 
+생리 시작 3일째되는 시점에 혈중의 난포 자극 호르몬 농도를 측정합니다. 난포 자극 호르몬의 수치는 노화와 함께 증가하기 때문에 높을수록 생식력의 감소를 의미합니다.
+② 항뮬러관 호르몬(AMH) 검사
+항뮬러관 호르몬은 난소의 과립막 세포에서 생성 및 분비되는 호르몬으로 다른 생식샘자극호르몬의 영향을 받지 않습니다. 항뮬러관 호르몬의 수치는 생리주기에 따른 변화가 적으며 연령에 따른 생식능력 감소를 잘 반영하여 최근 들어 난소 예비력을 반영하는 지표로 널리 사용되고 있습니다.
+③ 동난포 개수(antral follicle count) 검사
+초음파로 확인할 수 있는 동난포의 수는 난소 예비력 검사의 지표로 사용됩니다.
+
+2. 남성의 불임증 검사
+실제적으로 불임의 원인에 있어서 남성 측 요인이 차지하는 비율은 전체 불임의 35~40%를 차지할 정도로 매우 흔합니다. 그러므로 불임의 진단과 치료를 위해 여성을 검사할 때에는 남성에 대한 검사도 같이 시행하는 것이 바람직합니다.
+
+1) 정액 검사
+정액 검사는 불임증의 가장 기본적인 검사로, 2~7일간의 금욕기간을 두고 소독된 용기에 정액을 받습니다. 채취 1시간 후에 정액의 색깔, 양, 점도와 정자 수, 운동성, 정자형태 등을 관찰하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[적절한 불임 치료를 위해서는 다양한 검사들을 통해 불임의 원인을 정확히 밝히는 것이 가장 중요합니다. 불임이 발생한 원인에 따라 적절한 치료를 시행하면 많은 불임 환자에서 임신이 가능해집니다. 불임 치료법은 다음과 같습니다.
+
+1. 인공수정 
+인공수정의 주요 적응증은 정자의 수와 운동성이 떨어진 경우와 원인을 알 수 없는 난임인 경우입니다. 여성의 배란기에 맞추어 남편의 정액을 받아 원심 분리를 통해 불필요한 성분을 제거하고 정자만 고농도 배양액에 처리해서 모은 후 여성의 자궁 속으로 직접 주입합니다.
+인공수정은 보조생식술의 가장 첫 단계에 해당됩니다. 필요에 따라 여성은 자연 배란주기를 따르기도 하고, 배란유도제 혹은 주사제를 이용해 배란 유도할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dcc92045]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 시험관아기 시술 
+시험관아기 시술이 필요한 경우는 난관요인에 의한 불임증(나팔관 폐쇄, 나팔관 유착), 남성요인 불임증, 자궁내막증, 원인을 알 수 없는 불임증, 인공수정에 여러 번 실패한 경우입니다. 
+시험관아기 시술에 필요한 다수의 난자를 얻기 위해 과배란주사를 맞으며, 초음파 검사를 통해 난포의 개수, 크기를 주기적으로 관찰합니다. 이후 정자와 난자를 채취하여 배양 접시에서 자연스러운 수정을 유도하거나 난자 내 정자 직접주입술(Intracytoplasmic sperm injection, ICSI)방법을 사용하기도 합니다. 정관 폐쇄 등 무정자증에 의한 불임증의 경우 수술에 의해 정자를 채취할 수도 있습니다. 발달된 배아를 자궁내막에 이식합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865dcce9348]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 최신기술
+
+1) 착상 전 유전자 검사 (Preimplantation Genetic Test) 
+염색체 이상이나 심각한 단일유전자 질환을 가진 아이를 출산할 유전적 위험성이 있는 경우 수정된 배아가 자궁에 착상하기 전에 이를 진단하는 방법입니다. 이는 비정상 태아의 임신과 유산을 예방하여 산모의 건강을 증진하고 건강한 아이를 출산할 수 있도록 하는 방법입니다.
+2) 미성숙 난자 체외수정
+다낭난소증후군과 같이 과배란 유도시에 합병증이 생기기 쉬운 환자에게 적합한 치료방법으로, 과배란 주사를 사용하지 않거나 단기간 사용한 후 미성숙 난자를 채취하게 됩니다. 채취된 미성숙 난자들을 체외에서 성숙시키고 수정시킨 후 가장 잘 발달된 배아를 이용해 이식을 시행합니다. 
+3) 동결보존법 
+동결보존이란 세포(난자, 정자, 수정란)를 초저온상태에서 보관하여 생명활동을 일시적으로 중단시킨 다음 필요 시 해동하여 사용할 수 있도록 하는 방법입니다. 수정란 동결보존법은 배아이식을 시행받은 후 남은 수정란이 있을 경우, 환자의 건강 상태나 자궁내막의 상태 등의 요인에 의해 배아이식을 미뤄야 할 경우에 이용할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한산부인과내분비학회 (2022). 부인과 내분비학 (제2판). 군자출판사. 
+2. 대한산부인과학회. (2021). 산부인과학 지침과 개요 (제5판). 군자출판사. 
+3. 대한산부인과내분비학회 (2024). 대한산부인과내분비학회 임상지침 2024. 서울: 군자출판사.
+4. Berek, Jonathan S., Berek, Deborah L. (2020). Berek &amp; Novak's gynecology(16th ed.).  Philadelphia : Lippincott Williams &amp; Wilkins.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[딸꾹질]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6252]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 딸꾹질은 횡격막과 갈비뼈 사이 근육이 반복적으로 수축하면서 성대가 닫혀 소리가 나는 증상입니다.
+• 대부분은 일시적으로 나타났다가 자연히 사라지지만, 2일 이상 지속되면 일상생활에 불편을 줄 수 있습니다.
+• 딸꾹질은 지속 기간에 따라 급성, 지속성, 난치성으로 나뉘며, 위장 질환이나 신경계 질환 등 다양한 원인이 관여합니다.
+• 원인에 따라 치료가 달라지며, 약물치료나 호흡 조절 등 비약물적 방법이 도움이 될 수 있습니다.
+• 증상이 오래 지속되거나 다른 증상이 동반되면 정확한 진단과 치료를 위해 병원을 방문하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질은 숨을 쉬려고 할 때, 본인 의지와 상관없이 가슴과 배의 경계인 횡격막 근육이 반복적으로 수축하면서 성대가 닫힐 때 소리가 나는 증상을 말합니다. 대부분 금방 좋아지지만, 오랫동안 증상이 계속되거나 좋아졌다가 심해지기를 반복하면 대화, 식사, 수면 등 일상생활이 불편해집니다. 
+심하면 피곤함, 우울함을 느끼거나 체중이 줄고 심장이 불규칙하게 뛰는 증상이 나타나기도 합니다. 그렇기 때문에 딸꾹질에 대한 원인과 진단, 치료 등에 대해 알고 있는 것이 도움이 됩니다.
+딸꾹질은 지속 기간에 따라 2일 이내에 멈추는 급성 또는 일과성 딸꾹질, 2일 이상~1개월 미만으로 지속되는 지속성 딸꾹질, 1개월 이상 지속되는 난치성 딸꾹질로 나뉩니다. 또한 위식도 역류 질환이 동반되는 경우도 많습니다.
+딸꾹질이 생기면 분당 4~60회까지 다양한 횟수로 “힉' 소리가 납니다. 동맥 내에 이산화탄소가 적을수록 딸꾹질 횟수가 많아집니다. 그러므로 숨을 몰아쉬면 이산화탄소가 줄어들어 딸꾹질을 많이 하게 되고, 숨을 참거나 봉지를 입에 대고 숨을 쉬면 이산화탄소가 늘어나 딸꾹질이 줄어들게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183c215877c7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[159]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질은 숨을 쉬려고 할 때, 본인 의지와 상관없이 가슴과 배의 경계인 횡격막 근육이 반복적으로 수축하면서 성대가 닫힐 때 소리가 나는 증상을 말합니다. 대부분의 딸꾹질은 물이나 음식을 삼키면 별다른 의학적 처치 없이도 사라집니다. 그러나 48시간 이상 지속되는 지속성 딸꾹질은 대화, 식이, 수면을 방해하고 탈수, 영양실조, 체중감소, 불면증, 피로 등을 유발하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[160]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질은 증상 지속 기간에 따라 2일 이내에 멈추는 급성 또는 일과성 딸꾹질, 2일 이상~1개월 미만으로 지속되는 지속성 딸꾹질, 1개월 이상 지속되는 난치성 딸꾹질로 나뉩니다. 지속 시간에 따라 원인도 다양합니다. 
+딸꾹질이 너무 오래 지속될 경우 위식도역류, 부정맥 등이 생길 수 있고 생명까지 위협할 수 있으므로, 정확한 원인을 파악하고 적절한 치료를 하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질은 여러 신경과 신경전달물질이 복잡하게 연관되기 때문에 원인도 매우 다양합니다. 위팽만이나 역류식도염 등 흔한 원인부터 파킨슨병과 같은 신경계질환, 심장질환 등 다양한 원인을 종합적으로 고려해야 합니다.
+급성 딸꾹질은 흔히 식사를 빨리하거나 과식할 때 위가 빨리 부풀어서 생깁니다. 매우 맵거나 차거나 뜨거운 음식, 탄산음료, 술 등을 먹거나 위내시경 검사를 받을 때 발생하기도 합니다. 감정적인 충격, 공포감, 흥분감 등의 심리적 원인과 급격한 온도 변화로 인해 시작될 수도 있습니다.
+1개월 이상 지속되는 난치성 딸꾹질은 위가 늘어나거나, 위산이 식도로 역류하는 역류식도염, 위장장애 등이 가장 흔한 원인입니다. 미주신경, 수술 등으로 인한 횡격막신경 자극, 횡격막 이상, 양쪽 폐 사이에 생긴 종양, 알코올 중독, 전신마취, 스트레스나 불안과 같은 심리적인 요인이 원인이 될 수도 있습니다. 머리의 외상, 다발경화증, 뇌수막염, 수두증(뇌수종) 등 신경계 이상이 있는 경우에도 난치성 딸꾹질이 생길 수 있으므로 전문가의 진료가 필요합니다.
+약물도 딸꾹질을 일으킬 수 있습니다. 특히 스테로이드나 벤조디아제핀 계열의 안정제, 마약진통제, 특정 항암제 등이 딸꾹질을 유발할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cc9c1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[162]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질은 대부분 자연적으로 멈추기 때문에 별다른 문제를 일으키지 않습니다. 하지만 너무 길어지면 위식도역류, 부정맥 등이 발생할 수 있고, 심한 경우 생명을 위협할 수도 있습니다. 따라서 과도하게 지속되는 딸꾹질은 정확한 원인을 파악해 적절히 치료해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[163]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질의 기전은 잘 밝혀져 있지 않지만, 다양한 신경회로에 걸친 반사궁(reflex arc)이 관여하는 것으로 생각합니다. GABA(γ-aminobutyric acid), 도파민, 세로토닌 등 뇌신경 전달에 관여하는 물질과 여러 수용체가 관련된 것으로 알려져 있습니다. 특히 GABA는 딸꾹질 반사에 중요한 매개 물질입니다. 
+이외에도 횡격막신경, 미주신경, 교감신경과 뇌의 뇌간(뇌줄기), 시상하부도 관여한다고 알려져 있습니다. 특히 횡격막 신경의 운동성 섬유들이 횡격막 수축에 주로 관여하여 딸꾹질 발생에 중요한 역할을 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질이 얼마나 자주 일어나는지에 대한 정확한 통계는 없지만, 대부분의 사람에서 일생 중 한 번 이상 경험하는 흔한 증상입니다. 딸꾹질은 분당 약 4~60회로 다양하게 나타납니다. 짧게 나타나는 딸꾹질은 남녀 간 발생 빈도가 비슷한 것으로 알려져 있으나, 48시간 이상 지속되는 딸꾹질은 남성과 고령에서 더 흔하게 나타나는 경향이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 병력 청취 
+급성 딸꾹질은 대부분 금방 좋아지므로 특별히 진료를 받을 필요는 없습니다. 그러나 2일 이상 지속되는 지속성 딸꾹질, 또는 1달 이상 지속되는 난치성 딸꾹질은 원인을 찾는 것이 좋습니다. 
+딸꾹질은 지속 기간과 중증도가 중요합니다. 언제 시작되었는지, 얼마나 오래 지속되는지, 이전에 나타난 증상은 없는지, 동반 증상은 없는지, 수면 중에 문제는 없는지, 악화 및 완화 요인이 있는지, 충분한 수면을 취하지 못했거나 스트레스 등 심리적 원인은 없는지 확인합니다. 
+또한 약물을 복용하는지, 최근에 약을 바꾸었는지, 항암제 등 특수한 약물치료를 받았는지도 원인을 찾는 데 매우 중요합니다. 최근 질환, 수술 여부, 외상, 과식, 음식 섭취, 위장관, 신경계, 심장 또는 호흡기계 증상도 딸꾹질의 원인과 관계가 있으므로 확인합니다. 
+
+
+2. 진찰 
+환자가 불편해하는 증상에 맞춰 신체검사를 하고, 다른 질병에 의해 유발된 딸꾹질이 아닌지 확인합니다. 귀, 코, 목을 진찰해서 갑상선이나 림프절이 커져 있는지 확인합니다. 청진기로 숨소리를 들어보고, 복부에 비정상적인 덩어리가 만져지지는 않는지 확인합니다. 드물게 귀의 고막이 원인인 경우도 있을 수 있으므로 이경 검사를 하기도 합니다. 신경과적 진찰을 통해 뇌와 중요한 신경에 이상이 없는지도 점검합니다.
+
+3. 검사
+급성 딸꾹질은 대개 저절로 좋아지기 때문에 정밀 검사는 필요하지 않습니다. 하지만 지속적이거나 난치성인 경우 진찰 후에 정밀 검사를 수행합니다.
+
+1) 임상 검사 
+자세한 진찰 후 필요한 검사를 시행합니다. 적혈구, 백혈구, 혈소판 등 혈구 검사, 염증 수치, 혈청 전해질, 신장 수치, 간 수치, 혈액 요소 수치, 혈당 수치 등 여러 가지 혈액 검사와 함께 환자의 증상과 진찰 결과에 따라 가래 검사, 뇌척수액 검사를 할 수도 있습니다.
+
+2) 영상의학적 검사 
+흉부 X선 검사로 폐나 심장에 이상이 있는지 확인하고, 필요하면 흉부 컴퓨터단층촬영(CT) 등을 추가합니다. 신경학적 증상과 신경과적 진찰 결과에 따라 뇌나 척추의 자기공명영상(MRI) 검사, 혈액 검사와 복부 진찰 결과에 따라 복부 초음파나 복부 컴퓨터단층촬영(CT)을 추가합니다. 
+
+3) 기타 검사 
+심전도로 심장 기능에 이상이 있는지 확인할 수 있습니다. 또한 위 내시경 검사를 통해 딸꾹질의 가장 흔한 원인인 위식도 역류질환이 있는지, 위가 늘어나지는 않았는지 확인합니다. 위식도 역류질환을 정확히 진단하기 위해 24시간 식도 내 위산 농도를 측정하기도 합니다. 발작이 의심되는 경우, 뇌검사(EEG)를 시행하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질은 하나의 질환이라기보다 다양한 원인에 의해 나타나는 증상입니다. 많은 질환이 지속성 딸꾹질을 일으킬 수 있으므로 진찰과 검사를 통해 앞서 정리한 관련 질환들을 확인할 필요가 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질 증상에만 집중할 것이 아니라 다양한 전신 증상이 동반될 수 있음을 염두에 두어야 합니다. 최근 수술, 외상, 과식 등 음식 섭취 이상, 위장장애 등 위장관 증상, 두통이나 어지럼증 등 신경계 증상, 가슴통증, 호흡곤란, 두근거림 등 심장 또는 호흡기계 증상이 딸꾹질을 일으킬 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질은 대개 특별한 검사나 치료가 필요하지 않습니다. 하지만 2일 이상 지속되는 지속성 딸꾹질이나 난치성 딸꾹질은 전문가의 진찰 및 치료가 필요합니다.
+딸꾹질은 다양한 원인에 의해 발생하므로 가장 효과적인 치료는 원인을 해결하는 것입니다. 예를 들어 역류식도염에 의해 생긴 딸꾹질은 역류식도염 치료제를 복용하면 좋아집니다. 뇌나 척수신경 등 중추 신경계 이상이나 파킨슨병, 암이나 혈관 이상에 의해 생긴 딸꾹질 역시 원인 질환을 치료하면 완화됩니다. 복막 투석 환자는 투석액을 바꾸면 증상이 줄어들기도 합니다.
+이렇듯 원인을 찾는다면 딸꾹질을 조절하기 위한 여러 가지 방법을 써볼 수 있지만, 원인을 정확하게 찾지 못하는 경우도 많습니다. 안타깝게도 모든 지속성, 난치성 딸꾹질에 효과적인 단 하나의 치료법은 없습니다. 하지만 여러 연구를 통해 다음과 같은 치료가 제안되었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[난치성 딸꾹질의 치료에 과학적으로 효과가 확실히 입증된 치료제는 많지 않습니다. 딸꾹질의 기전에 중요한 GABA(γ-aminobutyric acid)와 관련된 가바펜틴(gabapentin), 바클로펜(baclofen) 등이 제한적인 효과를 보입니다. 역시 뇌, 척수 등 중추신경계에 작용하는 메토클로프라마이드(metoclopramide)와 클로르프로마진(chlorpromazine)도 종종 사용됩니다. 
+이러한 약을 사용할 경우 다양한 부작용이 일어날 수 있으니 반드시 주치의와 상의 후 의사의 지시에 따라 정확한 사용이 필요합니다. 
+바클로펜은 근육이완제로, 딸꾹질 유발 자극을 차단함으로써 딸꾹질을 멈추게 한다고 생각됩니다. 주로 신경성 통증에 사용되는 가바펜틴은 딸꾹질에 단독으로 사용하거나 역류식도염 치료제인 프로톤 펌프 억제제 혹은 바클로펜 등의 약물과 함께 사용합니다. 특히 가바펜틴과 바클로펜은 부작용으로 어지럼증과 졸린 증상이 나타날 수 있으므로 주의해야 합니다. 
+메토클로프라마이드는 위장관 운동 개선제로 딸꾹질에도 효과적으로 활용할 수 있습니다. 고용량을 장기간 사용할 경우 근육 이상, 운동 장애 등의 부작용이 발생할 수 있으므로 주치의와 상의해야 합니다. 
+클로르프로마진은 고령의 환자에서 치매 관련 정신증, 장기간 사용 시 지연성 운동 장애 등을 일으킬 수 있습니다.
+일부 연구에서 항경련제, 항우울제, 중추신경계 자극제, 항부정맥제 등이 효과를 보였으며, 여러 가지 약제를 함께 사용할 경우 효과를 나타내기도 했지만 아직 확실한 근거는 없습니다. 중추신경계 약물은 경우에 따라 심각한 부작용을 일으킬 수도 있기 때문에 약물 치료가 필요할 경우 반드시 주치의와 충분한 상담을 하고 치료를 시작해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[약물치료 외에도 놀라게 하기, 두 눈을 누르기, 경동맥 문지르기, 발살바 호흡법(숨을 깊게 들이마신 뒤 참기), 천천히 또는 빨리 물 마시기, 얼음물로 가글하기, 레몬 물기, 설탕 삼키기 등의 다양한 비약물치료가 사용되었습니다. 
+미주신경, 입 안과 식도 자극, 체내 이산화탄소 증가 등 어느 정도 과학적인 근거가 있으며, 때때로 효과를 나타내기도 합니다. 혀의 깊숙한 곳을 칫솔로 눌러 구역질을 유발하거나, 코를 통해 고무관을 넣는 것도 도움이 될 수 있습니다. 
+그러나 일시적 딸꾹질에는 효과를 보이더라도 지속성 혹은 난치성 딸꾹질에는 효과가 제한적인 경우가 많기 때문에 정확한 원인을 찾아 치료하는 것이 올바른 방법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95ccb23]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[난치성 딸꾹질의 치료법으로는 횡격막신경이나 목 부근 경막외신경 차단법(신경차단술), 미주신경 자극술도 제한적으로 사용됩니다. 충분한 근거가 있다고 할 수는 없으나 부분적으로 활용됩니다. 
+이렇듯 약물적 치료와 비약물적 치료가 모두 활용되지만, 명확한 과학적 근거가 있다기 보다는 소규모 연구와 개별적 치료 수준에 가까운 것이 현실입니다. 무엇보다 중요한 것은 원인 질환을 찾아 정확히 치료하는 것입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[171]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질의 원인이 될 수 있는 질환을 예방하고, 횡격막 수축을 피하는 생활습관을 유지합니다. 
+느긋하게 식사하고, 과식을 피하고, 뜨겁거나 차갑거나 자극적인 음식을 피하고, 술을 많이 마시지 않고, 급격한 기온 변화나 탄산음료를 빨리 마시는 등 갑자기 공기를 삼키지 않도록 주의합니다. 스트레스 등 심리적인 원인에도 유의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[지속성, 난치성 딸꾹질은 원인 질환을 예방하는 것이 가장 중요합니다. 올바른 생활 습관과 조기 진단을 통해 원인을 찾아 치료해야 합니다.
+과식이나 급하게 식사하는 습관을 피하고, 너무 차거나 뜨거운 음식을 먹지 않도록 합니다. 
+딸꾹질이 시작될 경우 호흡 참기, 안구 압박, 물 마시기, 얼음물 가글, 레몬 물기 등 비약물적 치료가 도움이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 진단]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[173]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[딸꾹질이 얼마나 심각한지 판단하는 것이 가장 중요합니다. 대부분 별 문제를 일으키지 않고 좋아지지만, 2일 이상 지속되거나 여러 가지 증상이 동반된다면 정밀 검사가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대부분의 딸꾹질은 특별한 조치 없이 좋아지기 때문에 병원을 방문할 필요가 없습니다. 그러나 2일 이상 지속되는 지속성 딸꾹질 또는 1달 이상 지속되는 난치성 딸꾹질은 정밀한 검사가 필요하기 때문에 병원을 방문해야 합니다. 
+또한 최근 수술이나 외상, 속쓰림, 명치 통증 등 지속적인 위장관 증상, 두통이나 어지럼증 등 신경계 증상, 가슴 통증, 호흡곤란, 두근거림 등 심장 또는 호흡기계 증상이 동반되는 경우에도 반드시 병원을 방문해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[175]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 딸꾹질이 멈추지 않을 때, 가장 좋은 방법은 무엇일까요?
+
+A. 안타깝게도 확실한 방법은 없지만 전통적으로 사용되는 것 중에서 각자 효과적인 방법을 찾아볼 수 있습니다. 놀라게 하기, 두 눈 누르기, 경동맥 문지르기, 발살바 호흡법(숨을 깊게 들이마신 뒤 참기), 천천히 또는 빨리 물 마시기, 얼음물로 가글하기, 레몬 물기, 설탕 삼키기 등의 방법을 시도해 보십시오. 그래도 딸꾹질이 멈추지 않으면 병원을 방문하시기 바랍니다.
+
+Q. 딸꾹질이 계속되는데, 멈추질 않습니다. 어느 과에 가야 할까요?
+
+A. 딸꾹질의 원인은 매우 다양합니다. 흔히 과식, 갑작스러운 온도 변화, 음주, 흡연, 스트레스, 정신적 어려움이 증상을 일으킵니다. 하지만 딸꾹질이 멈추지 않는다면 중추신경계(뇌, 척수) 질병이나 염증, 암이 횡격막을 자극하는 경우, 혈관 질환, 대사 이상, 복부 질환, 감염 질환 등 심각한 질환이 아닌지 확인해야 합니다. 증상이 멈추지 않으면 가정의학과나 내과 진료를 받으시기 바랍니다.
+
+Q. 딸꾹질이 자주 발생하는 편인데 건강에 이상이 있을까요?
+
+A. 딸꾹질의 원인은 매우 다양하여 일률적으로 말하기 어렵습니다. 지속 기간이 길지 않거나 특별한 동반 증상이 없다면 크게 걱정하실 필요는 없습니다. 증상이 너무 오래 지속되거나 속쓰림, 명치 통증 등 지속적인 위장관 증상이 있는 경우, 두통 어지럼증 등 신경계 증상, 가슴통증, 호흡곤란, 두근거림 등 심장 또는 호흡기계 증상이 동반되는 경우에는 병원을 방문해 정밀 검사를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한가정의학회, ㈜제이피앤씨. (2019). 가정의학 개정 5판.
+
+2. Kolodzik, P. W., &amp; Eilers, M. A. (1991). Hiccups (singultus): Review and approach to management. Annals of Emergency Medicine, 20(5), 565–573. doi:10.1016/S0196-0644(05)81620-8
+3. Leung, A. K. C., Leung, A. A. M., Wong, A. H. C., &amp; Hon, K. L. (2020). Hiccups: A Non-Systematic Review. Current Pediatric Reviews, 16(4), 277-284. https://doi.org/10.2174/1573396316666200508112951 
+4. Loscalzo, J., Fauci, A., Kasper, D., Hauser, S., Longo, D., &amp; Jameson, J. (Eds.). (2022). Harrison's Principles of Internal Medicine (21st ed.). McGraw Hill.
+5. Moretto EN, Wee B, Wiffen PJ, Murchison AG. (2013). Interventions for treating persistent and intractable hiccups in adults. Cochrane Database Syst Rev. 2013(1), CD008768. doi: 10.1002/14651858.CD008768.pub2. PMID: 23440833; PMCID: PMC6452787. 
+
+6. Polito, N. B., &amp; Fellows, S. E. (2017). Pharmacologic Interventions for Intractable and Persistent Hiccups: A Systematic Review. The Journal of Emergency Medicine, 53(4), 540-549. https://doi.org/10.1016/j.jemermed.2017.05.033 
+7. Reichenbach, Z. W., Piech, G. M., &amp; Malik, Z. (2020). Chronic Hiccups. Current Treatment Options in Gastroenterology, 23. https://doi.org/10.1007/s11938-020-00273-3  
+
+8. Rouse, S., &amp; Wodziak, M. (2018). Intractable Hiccups. Current Neurology and Neuroscience Reports, 18(8), 51. https://doi.org/10.1007/s11910-018-0856-0    
+
+9. Saylor D, et al. (2024). Hiccups. In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing.
+10. Totomoch-Serra, A., Ibarra-Miramon, C. B., &amp; Manterola, C. (2021). Persistent Hiccups as Main COVID-19 Symptom. The American Journal of the Medical Sciences, 361(6), 799-800. https://doi.org/10.1016/j.amjms.2021.01.001]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

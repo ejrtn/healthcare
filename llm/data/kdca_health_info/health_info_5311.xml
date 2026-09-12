@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[연성하감]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5311]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 연성하감은 헤모필루스 두크레이균에 감염되어 성기나 회음부에 통증을 동반한 궤양이 생기는 질환입니다.
+• 궤양은 붉은 발진에서 시작해 고름이 찬 농포로 발전하며, 이후 심한 통증을 동반하는 서혜부 림프절염으로 이어질 수 있습니다.
+• 주로 성접촉을 통해 전파되므로, 감염이 확인되면 병변이 완전히 나을 때까지 성접촉을 피해야 합니다.
+• 치료는 항생제를 사용하며, 증상이 없더라도 환자와 최근 10일 이내 성접촉한 사람은 예방적 치료가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연성하감은 헤모필루스 두크레이균(Haemophilus ducreyi)에 감염되어 성기나 회음부에 통증이 있는 궤양이 생기는 질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 신고범위 : 환자
+2. 신고시기 : 7일 이내 신고
+3. 신고를 위한 진단기준​
+• 환자 : 연성하감에 부합되는 임상증상을 나타내면서 진단을 위한 검사기준에 따라 감염병병원체 감염이 확인된 사람
+4. 진단을 위한 검사기준
+• 검체(병변의 분비물, 궤양부위 삼출물)에서 헤모필루스 두크레이균(H. ducreyi) 분리 동정
+• 검체(병변의 분비물, 궤양부위 삼출물)에서 특이 유전자 검출
+5. 신고 방법
+• 표본감시기관은 성매개감염병 신고서를 작성하여 질병관리청으로 팩스 또는 웹 입력 방법으로 신고
+* 표본감시기관 여부 확인: 관할 보건소로 문의]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[성접촉에 의해 헤모필루스 두크레이균 (Haemophilus ducreyi)에 감염되면 4~10일의 잠복기를 거친 후 성기 붉은 작은 발진이 생깁니다. 이 발진은 빠르게 고름이 찬 농포로 발전하고, 농포가 터져 통증성 궤양을 형성하게 됩니다. 이 궤양은 고름같은 분비물이 나오고 유연해서 '연성하감'이라고 불립니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 국외현황 
+연성하감은 성접촉으로 전파되는 질환으로 전 세계적으로 분포하며 주로 동남아시아와 아프리카 국가들에서 많이 발생하고 있습니다. 미국의 경우 2011년 이후로는 매년 10명 전후로 보고되었고, 최근에는 2020년 0명, 2021년 3명, 2022년 1명의 환자만이 보고되었습니다.
+
+ 2. 국내현황 
+국내에서는 균주의 검출이 어려운 이유로 발생 환자의 상당수가 진단이 안 되는 것으로 추정되고 있으며, 표본감시를 통해 신고되는 사례도 극소수에 불과합니다. 2023년은 남성 1건만 보고되었습니다.
+※ 연성하감 발생현황은 질병관리청 감염병포털의 '감염병통계'에서 확인할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[전형적인 성기 궤양은 경계가 뚜렷하고 지름이 약 2cm입니다. 이 궤양은 남성의 경우 포피, 음경귀두관, 음경에 주로 생기며, 여성의 경우에는 음순, 질입구, 항문 주위에 주로 나타납니다. 성기 궤양이 생긴 후 1~2주가 지나면 심한 통증을 동반한 서혜부 림프절염이 생길 수 있습니다. 이 림프절염은 남성의 경우 약 1/3의 환자에게 발생하고, 여성에게는 더 드물게 나타납니다. 만약 적절한 치료를 받지 않으면, 침범된 림프절이 액화되어 부보(buboes)라는 병변을 형성하고, 그때 저절로 터져서 고름이 흘러나옵니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf272c57]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[진단은 환자의 병변에서 나온 분비물로 헤모필루스 두크레이균을 분리해서 하게 되며, 궤양이나 국소림프절에서 나온 고름을 도말염색과 배양하여 검사합니다.
+- 그람염색이나 김자(Giemsa)액(Giemsa)염색에서는 균이 닫혀진 안전핀 모양으로 보입니다. 이 균이 쇠사슬처럼 모여 고기떼처럼 보이는 것을 관찰할 수 있지만, 이 검사의 특이도는 낮은 편입니다.
+- 배양검사는 특이도가 높지만, 특수한 배지를 사용해야 합니다.
+- 병리조직검사에서는 괴사층, 중간층, 심층부의 세 층으로 이루어진 소견을 관찰할 수 있으면 진단에 도움이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[151]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연성하감의 치료는 항생제를 사용하게 되는데, 아지스로마이신 1 g을 1회 먹거나, 세프트리악손 250 mg을 1회 근육주사로 맞게 됩니다. 심한 경우 궤양부위를 수술로 제거하기도 합니다. 1회 요법은 순응도가 좋아 주로 사용되지만, 아지스로마이신이나 세프트리악손을 사용할 수 없는 경우에는 대안으로 시프로플록사신 500mg을 하루 2회씩 3일간, 또는 에리스로마이신 500mg을 하루 4회씩 7일간 복용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[154]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[연성하감은 성접촉으로 감염되기 때문에 병변이 완치될 때까지 성접촉을 금해야 합니다. 연성하감 증상발현 10일 이내에 환자와 성접촉을 가진 사람은 증상이 없어도 예방적 치료가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청(2023), 2023년 감염병 신고 현황 연보
+2. ​질병관리청(2025). 감염병포털
+3. CDC MMWR Summary of Notifiable Infectious Diseases (2002∼2015), NNDSS Annual S]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

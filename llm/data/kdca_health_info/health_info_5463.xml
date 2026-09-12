@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[골절]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5463]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 뼈는 우리 몸의 중요한 지지 구조로서, 중요한 장기를 보호하고 혈액을 만들어내며, 이동을 가능하게 합니다.
+• 골절이 되면 심한 통증이 나타나고, 골절 부위의 비정상적 흔들림이나 모양 변화, 부종, 감각 손상 등이 나타날 수 있습니다.
+• 골절의 치료는 부러진 뼈의 위치를 바로잡아 통증을 줄이고, 뼈가 잘 아물어 붙도록 도와 신체 기능을 회복시킵니다.
+• 골절의 응급 처치는 골절 부위의 부목 고정이며, 본 치료는 크게 비수술적 방법과 수술적 방법이 있습니다.
+• 골절의 합병증으로 혈관 및 신경 손상, 지방 색전증, 구획증후군, 감염, 부정 유합 등이 있으며, 적절한 초기 대응과 치료가 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우리 몸에는 크고 작은 뼈가 200여개 정도 있습니다. 이들은 근육과 힘줄로 서로 단단히 연결되어 뼈대를 이루고 있습니다. 뼈는 몸 속의 중요한 장기들을 보호하고, 혈액을 만들어내며, 이동을 가능하게 하는 중요한 구조물입니다.
+
+골절이란 뼈가 부러지는 것을 의미하며, 뼈의 연속성이 완전하게, 혹은 불완전하게 깨져서 끊어진 상태를 말합니다. 외력의 형태에 따라 다양한 양상(횡형, 사선형, 나선형 등)의 골절이 발생할 수 있으며, 여러 개의 골절편(뼛조각)이 있는 경우를 분쇄 골절이라고 합니다. 또한 뼈 주위 연부 조직(근육, 인대, 피부 등 뼈나 연골이 아닌 조직)의 손상도 불가피한데, 특히 피부가 손상되어 골절된 부분이 피부 밖의 공간과 통하는 경우 개방 골절이라고 합니다.
+뼈는 상처 조직 형성없이 치유되는 조직이므로 골절이 치유되면 원래의 강도, 기능을 회복합니다. 다만, 이는 여러 단계를 거치는 복잡한 생물학적 과정이므로 과정 중 한 부분이 잘못되면 치유가 제대로 되지 않을 수 있습니다. 실제로 2.5%에서 많게는 10%의 환자에서 치유가 정상적으로 되지 않았다는 해외의 관찰 연구결과들이 있습니다.  따라서, 적절한 치유를 위해서는 골절 부위가 적절한 모양으로 잘 고정되어야 하며, 충분한 혈액 공급과 적당한 자극이 주어져야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[특이한 골절 형태로 다음과 같은 종류가 있습니다.
+1. 병적 골절
+뼈에 침투한 병(골 종양, 골수염 등)으로 인하여 뼈가 약해져서 약한 힘만으로도 골절이 생기는 상태를 말합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d022d37]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 스트레스 골절
+금속 막대를 반복해서 구부리면 금이 가는 것처럼 뼈도 반복적인 힘을 견디지 못하여 골절이 일어나기도 하며, 일명 피로 골절 혹은 행군 골절 등으로도 잘 알려져 있습니다. 운동선수나 훈련소에서 갑작스럽게 심한 훈련을 받은 군인에게서 자주 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d022cb4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 개방성 골절
+부러진 뼈의 끝부분이 피부를 뚫고 나오거나, 피부 등이 사고로 인하여 사라진 경우입니다. 골절된 뼈가 외부 환경에 노출되어 심한 근육 손상과 함께 감염의 위험이 높아집니다.
+혐오이미지 펼치기]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d022da1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 골단판 (성장판) 손상
+어린 뼈가 자라서 큰 뼈가 되기 위해서는 골단판에서 계속 뼈를 만들어야 합니다. 그런데, 사고로 손상을 받으면 성장의 장애가 발생하여 팔다리가 짧아지거나 휘게 됩니다. 골단판 손상은 소아 골절의 15~30%에서 발생하며, 성장 기간이 많이 남아 있을수록 결과가 나쁩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d022e14]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[뼈가 부러지면 극심한 통증이 나타나며, 함께 나타나는 주요 증상은 다음과 같습니다.통증 및 압통: 골절 부위의 부기(종창), 근육 경련, 골막의 손상에 의해 통증이 발생하고, 골절 부위를 압박하거나 움직일 때 더욱 심해집니다. 정상 기능의 상실: 골절된 부위가 비정상적으로 흔들리고 주위 관절이 아파서 움직이지 못합니다.골절로 인한 변형: 팔, 다리의 모양이 변합니다. 부종: 체액과 혈액이 손상 부위로 스며들어 팔, 다리가 붓습니다. 
+그 외에 감각 손상, 근육 경련, 마비 등이 올 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[골절의 증상으로 병원을 방문하면, 의사는 환자의 증상을 기초로 진찰을 합니다. 진찰이 끝나고 단순 방사선 사진(X-ray)을 촬영하며, 필요 시 컴퓨터 단층 촬영(Computed tomography, CT) 등의 특수 검사를 시행합니다.
+1. 병력 조사(문진) 
+골절 당시의 상황, 증상의 발생 시기와 심한 정도, 과거 병력, 일반 건강 상태 등을 의사에게 전달합니다. 특히 추락했다면 떨어진 높이, 교통사고를 당했다면 당시 차량의 속도 등을 자세히 전달합니다. 일반적으로 골절을 일으킨 외력의 크기는 뼈 손상 정도와 비례하기 때문에 골절이 발생했을 때의 상황이 중요합니다.
+2. 신체 검진(진찰) 
+골절이 의심되는 부위의 통증과 압통, 기능 장애, 변형, 비정상적 움직임 등을 확인하고 특히 혈관이나 신경 손상이 있는지를 평가하게 됩니다. 
+3. 단순 방사선 검사(X-ray) 
+골절 진단에 있어 가장 중요하고 기본이 되는 검사입니다. 골절 형태를 정확히 알기 위해 여러 각도에서 촬영하며, 손상 부위의 위아래의 관절을 함께 촬영하여 동반 손상 여부를 확인합니다. 정확한 진단을 위해서 다친 부위 뿐만 아니라 다치지 않은 반대편 부위도 함께 촬영하여 비교합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d0224d1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 컴퓨터 단층 촬영(Computed tomography, CT) 검사 
+단순 방사선 사진으로는 골절 진단이 애매하거나 골절의 형태를 명확히 파악하기 어려운 경우에 CT 검사를 시행할 수 있습니다. CT는 인체의 횡단면을 촬영할 수 있으며, 3차원 입체 컴퓨터 단층 촬영(3D-CT)은 골절을 직접 눈으로 보는 것과 같은 3차원 영상을 얻을 수 있어 골절의 진단과 치료에 많은 도움을 주고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d0223c4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[골절의 치료는 부러진 뼈의 위치를 바로잡아 환자의 통증을 감소시키고, 유합(골절된 뼈가 아물어 붙음)을 도와 신체 기능을 회복시킵니다. 이는 골절 이후에 발생 가능한 합병증을 예방합니다. 골절의 치료 방법은 응급 처치와 본 치료로 구분할 수 있습니다.
+
+1. 응급 처치 
+가장 먼저 시행해야 할 중요한 응급 처치는 골절 부위의 부목 고정입니다. 부목 고정이 반드시 필요한 이유는 부러진 팔다리가 흔들리거나 꺾여 골절된 뼈의 날카로운 끝 부분이 주위에 있는 근육, 혈관, 신경 등의 연부 조직에 2차 손상을 주기 때문입니다. 또한 부목 고정은 통증을 줄여주고, 지방 색전증이나 쇼크(shock)와 같은 합병증을 감소시키며, 환자의 이송과 병원에서의 방사선 촬영을 쉽게 할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d022704]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 본 치료 
+골절의 본 치료는 크게 비수술적 방법과 수술적 방법으로 나눌 수 있습니다.
+1) 비수술적 방법 
+수술을 하지 않고 부러진 뼈를 원래 모양대로 맞춘 상태를 유지하여 골 유합을 얻는 방법입니다. 
+(1) 도수 정복 
+정복(술)(整復)이란 어긋난 뼈를 제자리에 다시 맞추는 작업으로, 의사가 손으로 골절 부위를 당겨서 원래의 위치나 만족할 만한 위치로 교정하는 방법을 말합니다. 골절 발생 후 최대한 빨리 시도하는 것이 좋으며, 정복(술)을 시행하기 전에 방사선 사진을 찍어 뼈가 어긋난 상태를 정확히 알아야 합니다. 
+(2) 고정 
+도수 정복으로 골절된 뼈를 만족할 만한 위치로 교정한 후에는 뼈가 붙을 때까지 정복을 잘 유지해야 합니다. 고정하는 방법으로는 깁스(석고 붕대, 섬유 유리 붕대), 보조기나 핀, 석고 고정법 등이 있습니다. 소아는 성인에 비하여 골절이 빠르게 유합되기 때문에, 주로 비수술적 방법을 많이 사용합니다. 피부 견인 혹은 골격 견인 치료 후, 가골이 보이면 석고나 보조기로 추가 고정을 실시합니다. 
+(3) 고정 유지 기간 
+골절의 전이 정도를 포함한 손상 정도와 골절의 위치, 그리고 환자의 연령 및 전신 상태 등에 따라 골절 치료(고정)기간이 다릅니다. 또한 3-4주간의 상대적으로 짧은 기간의 깁스 고정 후 관절운동을 허용하는 기능적 보조기를 사용하는 경우도 있습니다.  또한 깁스를 푼 이후 관절운동 회복과 완전한 체중부하를 하기까지 회복의 과정을 거쳐야 하는 경우가 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d022797]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 수술적 방법 
+수술적 방법을 통하여 핀, 나사, 금속판 등을 이용하여 골절을 고정합니다. 크게 금속전체를 몸 속(피부속)에 넣는 내고정과 금속이 피부밖으로 노출되는 외고정으로 나눌 수 있습니다. 외고정은 심한 개방성 골절이나, 골결손(뼈의 소실)으로 인하여 내고정을 바로 하지 못하는 경우에 시행되는 경우가 많습니다. 일반적으로는 내고정을 시행합니다. 내고정은 골절 부위를 절개하여 노출시킨 후에 직접 골절된 조각들을 눈으로 보면서 정확하게 맞춰 고정을 시행하는 관혈적 방법(개방 정복)과 골절 부위를 노출시키지 않고 뼈를 맞춘 후 내부 고정을 시행하는 비관혈적 방법(폐쇄 정복)이 있습니다. 골절 부위, 형태, 손상 정도 등을 종합적으로 판단하여 수술적 방법을 결정하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d022811]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 응급 수술이 필요한 골절 
+혈관 손상을 동반한 구획증후군이 발생한 경우(합병증 참조)나 척추 골절로 인해 신경 손상이 악화되는 경우에는 응급 수술이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 혈관, 신경 손상 
+뼈가 부러지면 날카로운 골절 면이 주변을 지나가는 주요 혈관이나 신경에 손상을 줄 수 있습니다. 혈관이나 신경이 손상되면 저림 증세, 마비 등이 나타날 수 있습니다.
+ 
+2. 지방 색전증 
+뼈가 골절되면 뼈 속의 골수에서 미세한 지방 조직이 혈류를 통하여 폐, 뇌, 심장 및 신장 등의 중요 장기에 손상을 주어 급격한 호흡 장애를 비롯한 중증의 증상을 일으킬 수 있습니다. 지방 색전증을 최소화시키기 위해 골절 부위를 부목 등으로 고정해 주어야 하며, 과도한 움직임은 증상을 악화시킬 수 있으므로 불필요한 이동은 피하는 것이 좋습니다.
+ 
+3. 구획증후군 
+골절로 인해 조직 내 압력이 지나치게 올라가거나, 혈관 손상으로 인하여 구획 내 혈액 순환이 원활하지 않게 될 수 있습니다. 일정 구획에 혈액 순환이 원활하지 않으면 조직에 충분한 산소 공급이 되지 않아 근육과 신경이 손상되며, 구획증후군 같은 심각한 후유증을 남깁니다. 구획증후군이 의심되는 경우에는 신속하게 근육을 싸고 있는 근막을 절개하여 구획 내 압력을 떨어뜨려야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d0228d7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 감염 
+감염은 폐쇄성 골절보다는 뼈가 외부에 노출되는 개방성 골절에서 자주 관찰됩니다. 수술적으로 골절을 치료하는 경우에도 수술 후에 감염이 발생할 수 있습니다. 
+
+5. 골절 유합의 합병증 
+1) 부정 유합 
+부러진 뼈가 원래의 위치가 아닌 상태로 유합되어 미용 상의 문제나 기능 장애가 발생하는 경우입니다. 관절면의 부정 유합은 심각한 장애를 일으킬 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d022ad1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[소아에서 발생하는 사지(팔과 다리)의 골 간부(몸통) 골절은 자연 교정 능력이 성인보다 우수하며 도수 정복(술)시 허용 각의 범위가 넓습니다. 그렇기 때문에 단순 방사선 사진에서 다소 어긋난 모습으로 보여도 성장하면서 기능 장애 없이 치유되는 경우도 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d022a67]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 지연 유합 
+유합될 수 있는 충분한 기간 동안 골절을 치료했음에도 불구하고 유합이 지연되는 상태를 말하며, 아직 치유 과정이 완전히 정지된 상태는 아닙니다. 
+3) 불유합
+골절의 치유 과정이 정지된 상태를 말합니다. 자연적으로는 골절 유합을 얻을 수 없고, 골 이식과 같은 재수술이 필요로 하는 경우입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d022864]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[6. 무혈성 골괴사(avascular necrosis) 
+골절 또는 탈구로 인하여 뼈로 가는 영양 동맥이 손상되어 '피가 공급되지 않는 부분의 뼈 조직이 죽는' 현상을 말합니다. 대퇴골두, 손목과 발목 뼈 등에 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d0229d4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 뼈가 부러졌나요, 아니면 금만 갔나요?
+
+A. 골절이란 뼈의 연속성이 완전 혹은 불완전하게 소실된 상태를 말합니다. 따라서 금이 간 상태도 골절의 한 형태로 간주되며 골절이라 말할 수 있습니다.
+
+
+Q. 골절 상태를 더 정확히 알기 위해 CT를 촬영 해야 하나요, 아니면 MRI를 찍어야 하나요?
+
+A. 골절의 형태를 정확히 파악하기 위해서는 CT 검사가 적절합니다. 그러나, 불완전 골절 중 어긋나지 않아서 형태변화가 없는 골절의 경우 CT에서도 확인되지 않는 경우가 드물게 있습니다. 이때 통증 등 증상이나 환자 상태로 보아 골절이 의심되는 경우 MRI를 시행하여 골절을 확인할 수 있습니다. 또한, MRI는 골절 시점을 추정하거나 주변의 연부 조직 손상을 더 잘 관찰하고 싶을 때 사용할 수 있습니다.
+
+
+Q. 우리 아이는 한쪽만 다쳤는데, 왜 양쪽 모두 X-ray를 찍나요?
+
+A. 소아의 경우 나이에 따라 골단판의 모양이 다르고, 골절선이 잘 안보일 수 있으므로 정확한 진단을 위하여 다친 부위뿐만 아니라 반대측도 촬영하여 비교 관찰하여야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Einhorn, T. A., &amp; Gerstenfeld, L. C. (2015). Fracture healing: Mechanisms and interventions. Nature Reviews Rheumatology, 11(1), 45-54.
+2. Zura, R., Braid-Forbes, M. J., Jeray, K., &amp; et al. (2017). Bone fracture nonunion rate decreases with increasing age: A prospective inception cohort study. Bone, 95, 26-32.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

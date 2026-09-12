@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[발진티푸스]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1750]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[리케치아균(Rickettsia prowazekii ) 감염에 의한 급성 발열성 질환입니다. 사람에서 폭발적인 대유행을 일으킬 수 있는 질환으로 사망률과 이환율이 높은 질환입니다.
+
+]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd959fb95]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 신고 범위 : 환자, 의사환자  
+
+
+
+2. 신고를 위한 진단 기준 
+
+ 환자 : 발진티푸스에 부합되는 임상증상을 나타내면서 진단을 위한 검사 기준에 따라 감염병 병원체 감염이 확인된 사람 
+ 의사환자 : 임상증상 및 역학적 연관성을 감안하여 발진티푸스가 의심되나 진단을 위한 검사 기준에 부합하는 검사 결과가 없는 사람
+
+
+3. 진단을 위한 검사 기준 
+
+ 검체(혈액, 몸 니)에서 리케치아균(R. prowazekii) 분리 동정 
+ 회복기 혈청의 항체가가 급성기에 비하여 4배 이상 증가 
+ 검체(혈액, 몸 니)에서 특이 유전자 검출 
+
+
+4. 신고 시기 : 지체 없이 신고 
+
+
+
+5. 신고 방법 : 감염병 발생 신고서를 작성하여 관할 보건소로 팩스 또는 웹(http://is.kdca.go.kr)의 방법으로 신고]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[주로 몸니(Pediculus humanus corporis)를 매개로 전파되지만 몸니의 대변으로 배설된 균이 구강점막이나 결막 혹은 비말 감염을 통해 전파될 수 있습니다. 주로 몸니의 증식에 좋은 조건인 장마철이나 겨울철에 호발합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 세계 현황 
+
+2차 세계대전 이후 대유행은 주로 아프리카 (이디오피아, 르완다, 버룬디)에서 발생하였고, 전 세계적으로 과거 20년간 거의 사라진 것으로 보고 있습니다. 
+
+
+
+2. 국내 현황 
+
+국내에서는 1960년대 이후 발진티푸스 발생에 대해 보고된 바 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[6일~15일 (평균 7일)의 잠복기를 거쳐 심한 두통, 발열, 오한, 발한, 기침, 근육통이 갑자기 발생합니다. 몸니에 물린 자리의 가려움증을 호소하며 긁은 상처가 있으나 가피는 없는 것이 특징입니다. 피부 발진은 짙은 반점 형태로 발병 4일에서 6일경 나타나는데 몸통과 겨드랑이에서 시작하여 사지로 퍼지고 손바닥이나 발바닥에는 발생하지 않습니다. 
+
+치료하지 않은 경우 약 2주 후 빠르게 열이 내리며 상태가 호전됩니다. 
+
+치명률은 1~20%로 특히 60세 이상의 노인 환자에서 높은 것으로 보고된 바 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈액과 같은 환자의 검체에서 균을 분리 동정하여 진단합니다. 미세간접형광항체법으로 급성기와 회복기 혈청에서 항체가가 4배 이상 상승하거나 미세간접형광항체법으로 면역글로불린 M 항체가가 1:16 이상 혹은 검체(혈액 등)에서 리케치아균(R. prowazekii) 유전자나 항원이 검출되는 경우 진단할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[몸니에 의해 매개되는 질환으로 몸니를 박멸하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[151]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[항생제 투여가 치료이며 사용할 수 있는 항생제로는 독시사이클린 (100 mg, 1일 2회 복용), 테트라사이클린 (25~50mg/kg/일, 1일 4회로 나누어 정주 또는 경구 500mg/회, 1일 4회 복용), 클로람페니콜 (50mg/kg/일, 1일 4회 복용)이 있으며 발열이 소실된 후 2~3일까지 치료하는 것을 원칙으로 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[154]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[환자나 접촉자의 침구, 의복, 거처에 내성이 없는 살충제로 구충을 시행하며 환자의 몸니가 제거된 경우 특별한 격리는 필요하지 않습니다. 
+
+발진티푸스 환자와 접촉했거나 환자가 발생한 장소에 같이 있었던 사람 등 접촉자에 대해서는 2주 동안 발병 여부에 대한 감시가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

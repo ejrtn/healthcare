@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[담관염]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5821]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 담관염은 담관에 발생하는 염증으로, 주로 담석에 의해 담관이 막히면서 세균 감염이 발생하며 극심한 복통, 구토, 고열, 오한, 황달 등이 나타납니다.
+• 담관염은 주로 급성 형태로 발생하며, 심하면 혈압 및 의식저하를 동반한 패혈증으로 진행되어 사망할 수도 있으므로 신속한 진단과 치료가 필요합니다.
+• 급성 담관염은 즉각적인 치료가 필요한 응급 질환이므로, 의심되면 입원하여 수액과 항생제 치료, 담관 배액술 치료를 시행합니다.
+• 담관염이 발생했을 때 담관 폐쇄와 세균 감염에 대해 적절한 치료를 하지 않으면 패혈증 및 간농양과 같은 심각한 합병증이 발생할 수 있습니다.
+• 지방이 많은 음식 섭취는 줄이고, 섬유질이 풍부한 식단과 수분 섭취, 운동이 중요하며, 담관염이 의심될 경우 스스로 판단하여 진통제를 복용하지 않도록 주의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[담즙은 각종 영양소의 흡수, 간에서 콜레스테롤의 배설 및 각종 해독작용에 중요한 역할을 합니다. 이러한 담즙은 간에서 만들어져 장으로 분비되어 작용을 하게 되는데, 담관은 간에서 장으로 담즙을 보내는 통로와 같은 역할을 하는 장기입니다. 담관은 위치에 따라 직경이 다양한데, 간의 내부에 퍼져있는 작은 담관인 간내담관에서 시작하여 점점 굵은 담관으로 합류하여 간의 외부로 나와 총담관을 이루어 마지막에 팽대부를 통해 십이지장과 연결되는 구조로 되어 있습니다. 간외담관의 중간부위에 담낭관을 통해서 담낭(쓸개)이 매달려 있어 담즙을 저장하고 농축하는 역할을 합니다. 우리가 식사를 하게 되면 담낭이 수축하여 내부에 저장하고 있던 담즙을 담관을 통해 배출하여 최종적으로 십이지장으로 내보내게 됩니다.
+이러한 담관계통에 염증이 발생할 수 있는데, 담낭을 중심으로 일어나면 담낭염, 담관을 중심으로 일어나면 담관염이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc5794]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[담관염은 담관계통에 발생하는 급성 또는 만성의 염증질환으로 일반적으로 담관염은 급성 담관염을 의미합니다. 염증이 심한 경우, 혈압 및 의식저하를 동반하는 패혈증과 같은 전신의 염증으로 빠르게 진행되어 사망할 수 있으므로 신속한 진단과 치료가 필요한 응급질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[담관이 막히게 되면 담즙이 배출되지 못하고 세균이 감염될 수 있습니다. 담즙에 세균이 감염되면 매우 빠르게 번식하게 되어 염증이 발생하게 됩니다. 이러한 담관 폐쇄를 일으키는 가장 흔한 원인은 담관계통에 발생한 결석(담석)으로, 담관염이 발생한 대부분의 환자들은 담관의 담석을 가지고 있습니다. 담관의 담석은 대부분 담낭으로부터 기원하며 간흡충, 회충에 의한 감염이 있거나, 선천적으로 담관의 구조적 이상이 있는 경우에도 발생할 수 있습니다.
+담석이 없는 경우에도 담관에 악성 혹은 양성 종양, 기생충 감염, 양성 협착이 있는 경우에도 담관염이 발생할 수 있습니다. 담관 폐쇄를 일으킬 수 있는 악성 종양으로는 췌장암, 담관암, 십이지장의 팽대부암, 그리고 전이성 암 등이 있을 수 있습니다. 담관 폐쇄를 일으키거나 담관에 염증을 유발하는 기생충에는 간디스토마, 간흡충 등이 있으며, 드물지만 회충이 장에서 담관으로 기어들어가서 담관 폐쇄나 담관염을 유발시킬 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc5817]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[담관염에 걸린 환자는 극심한 복통을 호소하게 되는데 주로 우상복부에 통증을 호소하며 오심(메스꺼움), 구토, 소화불량과 같은 증상도 함께 나타납니다. 대부분 담관의 염증으로 인해 춥고 떨리는 오한과 고열 증상이 나타나고, 눈과 피부색이 노랗게 변하는 황달이 동반되는 것이 담관염의 특징적인 증상입니다.
+담관염이 중증으로 진행되는 경우에는 이러한 증상 외에 의식장애와 혈압 저하와 같은 패혈증  증상이 나타날 수 있습니다. 만성적인 담관의 염증이 있는 경우에도 체중감소, 피로감, 우상복부 통증, 가려움증, 일시적인 황달 등이 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc58a1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[담관염은 증상, 혈액검사, 영상검사 세 가지를 종합적으로 고려해 진단하게 됩니다. 증상이나 혈액검사에서 전신의 염증을 보이는 환자가 혈액 혹은 영상검사에서 담관 폐쇄로 인한 담즙 정체가 확인되면 담관염을 의심할 수 있습니다.
+  전신의 염증을 보이는 증상으로는 발열, 오한이 있으며 담관 폐쇄를 시사하는 증상으로는 황달이 있습니다. 발열, 오한, 황달 등 담관염이 의심되는 증상을 보이는 환자에서 혈액검사와 영상검사를 시행합니다. 혈액검사에서는 전신의 염증으로 인해 백혈구, C-반응단백질(C-Reactive Protein, CRP)과 같은 수치가 증가되어 있고 담즙 정체로 인하여 아미노기전이효소, 빌리루빈 및 알칼리인산분해효소 수치의 상승이 함께 있을 수 있습니다.
+담낭의 복부 초음파 검사에 비해 담관에 대한 복부 초음파의 경우 진단에 대한 예민도가 감소할 수 있습니다. 따라서 복부 컴퓨터단층촬영(Computed Tomography, CT) 혹은 자기공명영상촬영(Magnetic Resonance Imaging, MRI), 초음파 내시경(Endoscopic Ultrasonography, EUS), 내시경 역행 담췌관 조영술(Endoscopic Retrograde Cholangiopancreatogram, ERCP)과 같은 검사들을 고려해 볼 수 있습니다. 영상검사를 통해 담관이 늘어난 정도와 범위를 확인하며 담관의 담석, 종양, 췌장의 병변 등 담관염의 원인을 파악하게 됩니다. 내시경 역행 담췌관 조영술은 진단과 동시에 조직검사 및 치료가 가능한 방법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성 담관염의 경우 패혈증과 같은 심각한 합병증으로 빠르게 진행할 수 있기 때문에 즉각적인 치료가 필요한 응급 질환입니다. 따라서 급성 담관염이 의심되면 우선적으로 입원하여 수액과 항생제 등의 약물치료와 담관 배액술 등의 비약물 치료를 시작해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc5924]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[세균 감염에 대하여 주사 항생제 치료를 시행합니다. 탈수 및 동반된 콩팥기능 저하가 있을 경우 충분한 수분 공급을 위해 수액을 투여합니다. 복통 및 구토, 소화불량 등의 증상에 대해서는 진통제를 포함한 약제를 투여하여 증상을 완화시킵니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성 담관염은 담관의 폐쇄가 동반되어 있으므로 막혀있는 담즙이 흐를 수 있도록 담관 배액술을 시행해야 합니다. 담관 배액술의 방법으로는 ERCP를 이용하여 십이지장에서 담관으로 배액관을 삽입하는 방법(내시경 담관 배액술)과 몸 밖에서 간 부위의 피부를 뚫고 간을 통해서 간내담관으로 배액관을 삽입하는 방법(경피적 담관 배액술)이 사용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc5a84]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. ERCP를 이용한 치료법(내시경 담관 배액술) 
+급성 담관염의 원인인 담관 폐쇄를 호전시키고 정체된 담즙을 효과적으로 배출시키기 위해 내시경으로 치료하는 방법이 최근 널리 사용되고 있습니다. 특히 담석에 의해 담관염이 발생하였을 경우, 내시경적 치료만으로도 담관염의 원인을 완전히 치료할 수 있기 때문에 효과적인 치료로 손꼽히고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc5a11]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 경피적 담관 배액술을 이용한 치료법
+피부를 통하여 직접 간 내부의 담관으로 튜브를 삽입하여 담즙을 배액하는 경피적 담관 배액술도 효과적인 치료방법입니다. 경피적 담관 배액술을 시행한 경우, 배액 통로를 통하여 직접 내시경을 삽입하여 치료하는 경피적 담관 내시경 검사를 할 수 있습니다. 입을 통해 삽입하는 일반적인 내시경으로 제거가 어려운 간내담관의 담석이나 십이지장 유두부로 꺼낼 수 없는 큰 담석, 그리고 이전에 복부 수술을 받아 내시경으로 십이지장 유두부까지 도달이 어려운 경우에 효과적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc5997]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[담관염이 발생하였을 때, 담관 폐쇄와 세균 감염에 대한 적절한 치료를 시행하지 않을 경우 패혈증 및 간농양 등 심각한 합병증들이 발생할 수 있습니다.
+ 담관 폐쇄로 인하여 담관 내에서 빠르게 증식하고 있는 세균들이 담관 주위에 있는 혈관으로 침투하여 혈류를 따라 전신으로 퍼져 패혈증이 발생할 수 있습니다. 혈액 속의 세균과 세균이 만들어 내는 독소는 전신의 염증반응을 일으켜 발열, 오한, 의식장애, 저혈압 등의 증상을 나타냅니다. 또한 세균이 뇌막, 안구, 폐, 간, 뼈 등의 다른 장기로 이동하여 증식하는 전이 감염이 발생할 수도 있습니다. 이 같은 증상을 보이는 환자가 혈액검사 상 백혈구, C-반응단백질 수치가 높고 혈액 속의 세균을 검출할 수 있는 혈액배양검사에서 세균이 확인되면 패혈증으로 진단할 수 있습니다. 패혈증은 매우 빠르게 악화되기 때문에 의심될 경우 필요한 검사를 시행한 뒤 즉시 주사 항생제 치료와 수액 치료를 시행해야 합니다. 의식장애, 혈압 저하로 인해 상태가 불안정할 경우에는 중환자실에서 집중치료가 필요할 수 있습니다.
+담관이 막히면 담즙이 원활하게 흐르지 못하게 되고 이에 따라 장 내의 세균들이 역류되어 간내로 이동할 수 있습니다. 간내담관으로 이동한 세균들은 간에서 증식하여 고름집을 형성하는데 이를 간농양이라고 합니다. 패혈증이 발생한 상태에서는 혈액 속에 세균들이 혈관을 따라 간으로 이동하여 간농양을 형성하기도 합니다. 간농양은 담관염을 진단하기 위해 시행하는 복부 CT 등의 영상검사들을 통해 함께 진단할 수 있습니다. 간농양이 발생하였을 때는 원인인 담관염에 대한 주사 항생제 치료 및 담관 배액술을 시행해야 하며 농양의 크기가 큰 경우 농양에 대한 배액술을 추가로 시행해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[담관의 담석 발생을 예방하기 위해 지방질이 많은 음식의 섭취를 줄이고 섬유질이 많은 채식 위주의 식사를 권하며, 적당한 수분섭취와 운동이 도움이 될 수 있습니다. 평소 담낭 혹은 담관에 담석이 있는 환자가 담관염이 의심되는 증상이 발생하였을 때, 스스로 판단하여 진통제를 복용하는 경우 증상이 은폐되어 응급질환인 담관염의 진단이 늦어질 수 있으므로 주의하도록 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1.김정룡. (2016). 김정룡 소화기계 질환 (제4판). 일조각.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

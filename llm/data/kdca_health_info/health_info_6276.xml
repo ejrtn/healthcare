@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[얼굴떨림(얼굴연축_반얼굴연축)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6276]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[반얼굴연축은 얼굴 근육에 경련성으로 혹은 근육 긴장도가 증가되면서 나타나는 이상 운동 질환의 하나입니다. 이상 운동 질환이라는 것은 본인이 의도하지 않게(불수의적으로) 저절로 움직이는 질환을 말합니다. 이 병은 1884년에 Gowers라는 신경과의사가 얼굴신경이 담당하는 근육에 부분적으로 경련성 떨림이 발생한다고 하면서 상세하게 설명되기 시작하였습니다. 대부분의 경우 한쪽 얼굴에만 나타나지만, 양쪽에서 나타날 수도 있습니다. 처음에는 눈가 주변 근육부터 떨림이 일어나다가 점차 수년에 거쳐서 다른 얼굴 부위로 진행됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[160]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[[원인에 따른 분류]]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[160]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18c197d69028]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[얼굴신경의 자극이 얼굴신경핵에 과민성을 일으키고, 비정상인 얼굴신경의 흥분성이 반쪽 얼굴 근육의 간대성 경련성 연축을 일으킵니다. 종양이나 동정맥기형, 파제트병과 같은 두개뼈에 병이 있는 경우 얼굴신경을 압박하여 증상을 일으킬 수 있으며, 뇌졸중이나 다발성 경화증과 같은 신경계 질환에 의해서도 발생할 수 있습니다. 대부분의 경우 발생 원인을 알 수 없지만, 얼굴신경 가까이에 있는 혈관에 의해 눌려서 발생할 수도 있는데 이러한 경우라면 주로 작은뇌와 뇌줄기가 만나는 부위 주변의 혈관에 의해서 발생하는 경우가 흔합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9596655]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[​반얼굴연축은 남자보다 여자에게 더 많이 발생하며, 40대와 50대에 주로 발생합니다. 40대 이전에 발생하는 경우는 흔하지 않으므로 발생 시 다른 신경과적 질환이 있는지를 확인해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 진찰소견
+얼굴 근육의 의도하지 않은 수축이 반얼굴연축의 주요 증상입니다. 과로나 불안감, 독서가 증상을 유발시키거나 악화시킬 수 있습니다.
+
+2) 필요 검사 
+
+얼굴에 생기는 다른 종류의 불수의 운동과 구별하기 위하여 눈 깜박임 반사검사, 얼굴신경전도검사, 근전도검사와 같은 신경생리학적 검사가 필요합니다. 
+
+3) 영상 검사
+얼굴신경을 누르는 질환이 의심되는 경우에는 뇌MRI 검사를 시행해야 합니다. 특히 혈관에 의하여 눌려서 증상이 발생되는 것이 의심된다면 혈관조영검사나 MRI를 이용한 혈관촬영을 해야 합니다. 미세혈관감압술과 같은 수술적 치료를 하는 경우에는 꼭 영상 검사를 해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 비슷한 다른 이상한 얼굴의 움직임을 보이는 경우 
+2. 반쪽 얼굴과 씹는 근육 연축: 반쪽 얼굴과 음식물을 씹는 근육이 같이 움직이는 것을 말합니다. 
+
+3. 얼굴 이외에 턱이나 입술 혹은 목젖 및 고개 등에 원하지 않는 움직임을 보이는 경우가 있는데, 이런 경우는 반쪽 얼굴경련과는 다른 질환으로, 그 원인에 따라 치료 방법이 달라집니다. 경우에 따라서는 MRI와 같은 뇌영상검사와 신경전도나 근전도와 같은 신경생리검사가 필요한 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[비압박성 반쪽 얼굴 떨림이 있는 환자나 초기 증상이 심하지 않은 환자에게는 약물치료를 해볼 수 있습니다. 가장 효과적인 약물은 카바마제핀(carbamazepine)과 같은 항경련약물과 클로나제팜과 같은 벤조다이아제핀 계열의 약물이며, 이외에도 항콜린제, GABA성 근육이완제를 사용하기도 합니다. 그러나 약물의 효과가 점차 약해질 수도 있어 수술이나 보툴리눔 독소 주사법과 같은 치료가 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 보툴리눔 독소 주사법 
+대부분의 경우 근전도를 이용하여 수축이 일어나는 근육을 찾아서 보툴리눔 독소를 주사합니다. 눈꺼풀연축 치료에서 설명한 것처럼, 보툴리눔 독소는 운동신경의 지배를 없애는 치료법으로 비교적 안전하게 치료 성과를 얻을 수 있습니다. 특히, 이 치료법은 증상이 심하여 지속적으로 얼굴 근육이 수축되어 있는 환자에게 매우 도움이 됩니다. 주사를 맞고 3-5일이 지나면 효과가 나타나서 약 3-6개월 정도 효과가 지속됩니다. 부작용으로 눈꺼풀 처짐이나 얼굴 마비로 인한 비뚤어짐이 나타날 수 있습니다.
+ 
+2) 수술적 방법 
+압박성 병변의 경우 수술적 방법이 선호됩니다. 뇌줄기에서 나오는 얼굴신경을 혈관이 누르는 경우 반쪽 얼굴연축을 일으킬 수 있는데, 수술적 방법으로 신경과 혈관을 분리하여 효과를 볼 수 있습니다. 이런 수술을 미세혈관감압술이라고 합니다. 근육절개술과 같은 방법은 거의 사용되지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한신경과학회. (2012). 신경학 (2판). (주)범문에듀케이션.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[얼굴떨림(얼굴연축)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6481]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[얼굴떨림(얼굴연축_눈꺼풀연축)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[6275]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

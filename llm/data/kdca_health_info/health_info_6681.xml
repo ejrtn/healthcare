@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[다제내성균감염증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6681]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 다제내성균(Multidrug-Resistant Organisms, MDROs)은 여러 항생제에 듣지 않아 치료가 어려운 세균입니다. 
+• 병원에서 쉽게 전파될 수 있어 환자와 의료진 모두 주의가 필요합니다. 
+• 대표적인 다제내성균으로는 MRSA, VRE, CRE, MRPA, MRAB 등이 있습니다.
+• 이런 균은 항생제의 남용, 손 위생 부족, 병원 환경 등을 통해 확산됩니다. 
+• 예방을 위해서는 항생제를 꼭 필요할 때만 사용하고 손 씻기 등 기본 수칙을 지켜야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[항생제 내성이란 세균이 특정 항생제에 죽지 않고 살아남거나 계속 증식할 수 있는 능력을 갖게 되는 현상을 말합니다. 이렇게 내성이 생기면 예전에는 잘 듣던 약이 효과를 내지 못하게 됩니다. 그 결과 감염 질환 치료가 점점 더 어려워지고, 치료 기간이 길어지거나 합병증 위험도 커질 수 있습니다.
+
+다제내성균(Multidrug-Resistant Organisms, MDROs)은 여러 항생제에 내성을 가져 치료할 수 있는 약제가 거의 없는 세균을 말합니다. 내성 정도에 따라 다음과 같이 분류합니다.• 다제내성(Multi-drug resistant, MDR): 3가지 이상의 항생제에 내성 
+• 광범위내성(Extensively drug resistant, XDR): 1~2가지를 제외한 모든 항생제에 내성 
+• 범약제내성(Pan-drug resistant, PDR): 모든 항생제에 내성 
+
+
+국내에서는「감염병의 예방 및 관리에 관한 법률」에 따라 6종의 대표적인 다제내성균을 법정감염병으로 지정하고 있습니다. 그래서 일반적으로 우리나라에서 ‘다제내성균’이라고 하면 아래의 6개 균주를 가리킵니다.• 메티실린 내성 황색포도알균(Methicillin-resistant Staphylococcus aureus, MRSA) 
+• 반코마이신 내성 장알균(Vancomycin-resistant Enterococcus, VRE) 
+• 반코마이신 내성 황색포도알균/반코마이신 중등도 내성 황색포도알균(Vancomycin-resistant Staphylococcus aureus, VRSA / Vancomycin-intermediate Staphylococcus aureus, VISA) 
+• 카바페넴 내성 장내세균속균종(Carbaepenem-resistant Enterobacterale) 
+• 다제내성 녹농균(Multidrug-resistant Pseudomonas aerogenes, MRPA) 
+• 다제내성 아시네토박터 바우마니균(Multidrug-resistant Acinetobacter baumannii, MRAB)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[항생제는 인류 건강에 크게 기여했지만, 사용이 늘어나면서 국내외에서 항생제가 듣지 않는 ‘다제내성균’이 빠르게 증가하고 있습니다. 우리나라는 「감염병의 예방 및 관리에 관한 법률」에 따라 6종의 다제내성균을 법정감염병으로 지정하고 있습니다. 이 중 반코마이신 내성/반코마이신 중등도내성 황색포도알균(VRSA/VISA)과 카바페넴 내성 장내세균(CRE)은 제2급 법정감염병으로 전수감시를 시행하며, 메티실린 내성 황색포도알균(MRSA), 반코마이신 내성 장알균(VRE), 다제내성 녹농균(MRPA), 다제내성 아시네토박터 바우마니균(MRAB)은 제4급 법정감염병으로 지정된 의료기관에 한정하여 표본감시를 통해 연도별 추이를 확인하고 있습니다.   
+
+제2급 법정감염병인 VRSA/VISA와 CRE는 모든 의료기관에서 확인 시 24시간 이내에 감염병 발생 신고서를 작성하여 관할 보건소로 팩스를 보내거나 웹사이트(http://eid.kdca.go.kr)를 통해 신고해야 합니다. 반면, 제4급 법정감염병인 MRSA, VRE, MRPA, MRAB는 표본감시 의료기관에서 균이 확인될 경우 7일 이내에 동일한 방식으로 신고해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[세균은 외부에서 우리 몸에 침입해 감염을 일으킬 수 있으며, 평소에는 피부나 장에 존재하는 정상 세균(상재균)도 특정 조건에서는 감염을 일으킬 수 있습니다. 항생제를 불필요하게 사용하면 민감한 세균은 사라지고 내성을 가진 세균만 살아남아 증식하게 됩니다. 이런 일이 반복되면 내성균이 점점 늘어나고, 결국 치료가 어려운 다제내성균 감염으로 이어질 수 있습니다. 따라서 항생제는 꼭 필요할 때만, 정확한 용법과 용량에 맞게 사용해야 합니다. 또, 가축 사육 과정에서 사용된 항생제로 인해 동물의 장내 세균이 내성균으로 바뀌고, 충분히 익히지 않은 고기나 가공품을 통해 사람에게 전파될 수도 있습니다. 또한 동물의 배설물에 포함된 내성균이 비료나 물을 오염시킬 수 있으며, 이렇게 오염된 물로 재배된 농작물을 충분히 씻거나 익히지 않고 먹으면 감염으로 이어질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 메티실린 내성 황색포도알균(MRSA) 
+황색포도알균(Staphylococcus aureus)은 일부 사람들의 피부나 코 점막에 정상적으로 존재할 수 있는 세균입니다. 그중 메티실린 내성 황색포도알균(MRSA)은 베타락탐(β-lactam)계열 항생제에 내성을 보여 지역사회와 의료기관 감염에서 모두 중요한 원인균으로 꼽힙니다. 우리나라에서는 제4급 법정감염병으로, 지정된 의료기관을 대상으로 표본감시가 이루어지고 있습니다. 국내 MRSA 분리율은 2011년 이후 꾸준히 감소하는 추세이며, 2023년에는 재원일수 1,000일당 혈액 검체에서 0.09건, 혈액 외 검체에서 0.79건이 보고되었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1979d0e282d9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 반코마이신 내성 / 반코마이신 중등도내성 황색포도알균(VRSA/VISA) 
+메티실린 내성 황색포도알균(MRSA)의 대표적인 치료제는 반코마이신(Vancomycin)입니다. 하지만 반코마이신에도 내성을 가진 균주는 반코마이신 내성 황색포도알균(VRSA)이라 부르며, 치료가 매우 어렵습니다. VRSA는 2002년 미국에서 처음 보고된 이후 2019년까지 전 세계적으로 52건만 확인될 정도로 드물지만, 전염성과 치료 곤란성 때문에 주요 감시 대상이 되고 있습니다. 국내에서는 2024년까지 VRSA 보고 사례는 없습니다. 한편, 반코마이신 중등도내성 황색포도알균(VISA)은 반코마이신에 완전한 내성은 아니지만 치료 효과가 떨어질 수 있는 균주로, VRSA와 함께 제2급 법정감염병으로 지정되어 전수감시가 이루어지고 있습니다. VISA는국내에서 1998년 첫 발생 이후 산발적으로 발생하고 있으며, 2023년까지 총 18건이 신고되었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1979d0e9dcb5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 반코마이신 내성 장알균(VRE) 
+장알균(Enterococcus spp.)은 사람과 동물의 장관 및 비뇨생식계에 정상적으로 존재하는 상재균으로, 평소에는 병원성이 낮습니다. 그러나 면역이 약한 환자나 중증 입원 환자에서는 패혈증, 요로감염, 심내막염 등 다양한 감염을 일으킬 수 있는 기회감염균으로 작용합니다. 그중 반코마이신 내성 장알균(VRE)은 반코마이신(Vancomycin) 치료에 잘 듣지 않아 감염 치료가 매우 어렵고, 병원 내 전파 위험이 높습니다. VRE는 제4급 법정감염병으로 지정되어 있으며, 지정 의료기관에서 표본감시를 통해 분리율 추이가 모니터링되고 있습니다. 2020년까지는 분리율이 꾸준히 증가했으며, 이후에도 높은 수준을 유지하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1979d0f044b3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 카바페넴 내성 장내세균(CRE) 
+장내세균목(Enterobacterales)은 사람의 장에 정상적으로 존재하는 세균 집단으로, 대표적으로 대장균(Escherichia coli), 폐렴막대균(Klebsiella pneumoniae), 엔테로박터(Enterobacter spp.) 등이 있습니다. 카바페넴은 이들 장내세균목 감염 치료에 흔히 사용되는 강력한 항생제입니다. 하지만 최근에는 카바페넴에도 듣지 않는 카바페넴 내성 장내세균(CRE)이 빠르게 증가하여 심각한 보건 문제로 떠오르고 있습니다. 국내에서는 2017년 CRE를 제2급 법정감염병으로 지정하고, 전국 의료기관을 통해 환자와 병원체 보유자를 전수감시하고 있습니다. 연도별 신고 건수는 2018년부터 2023년까지 꾸준히 증가하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1979d0f6aa86]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[CRE는 크게 두 가지 유형으로 나뉩니다. 하나는 카바페넴 분해효소(carbapenemase)를 생성하는 CPE(Carbapenemase-Producing Enterobacterales)이고, 다른 하나는 효소 외의 기전으로 내성을 나타내는 non-CPE입니다. 특히 CPE는 카바페넴 분해효소를 암호화하는 유전자가 플라스미드(Plasmid)에 위치하여, 다른 세균으로 내성 유전자가 쉽게 전파될 수 있습니다. 이 때문에 CPE는 CRE의 확산과 의료기관 내 집단 발생에 큰 영향을 미치는 것으로 알려져 있습니다.
+
+5. 다제내성 녹농균(MRPA) 
+녹농균(Pseudomonas aeruginosa)은 물과 토양 등 자연환경에 널리 존재하며, 욕창, 도뇨관, 인공호흡기 등 습한 의료환경에서도 쉽게 생존해 병원 감염의 주요 원인균 중 하나입니다. 이 균은 본래 어느 정도 항생제 저항성을 가지고 있으며, 다양한 기전을 통해 내성을 획득하면서 점점 강한 내성균으로 변할 수 있습니다. 특히 카바페넴 계열 항생제에도 내성을 가진 경우, 대부분의 항생제에도 내성을 가진 다제내성 녹농균(MRPA)일 가능성이 높습니다. MRPA는 제4급 법정감염병으로 지정되어, 지정 의료기관에서 표본감시를 통해 발생 현황을 지속적으로 모니터링하고 있습니다. 혈액 외 검체에서의 분리율은 2015년 이후 꾸준히 증가하여 2023년 기준 0.40으로 보고되었고, 혈액 검체에서는 낮은 수준을 유지하고 있지만, MRPA에 의한 혈류 감염은 주로 중증 환자에서 발생하며 예후가 나쁠 수 있어 주의가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1979d100f7b8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[6. 다제내성 아시네토박터 바우마니균(MRAB) 
+아시네토박터 바우마니균(Acinetobacter baumannii)은 흙, 물, 식물, 인체 피부와 기도 등 다양한 환경에 존재할 수 있는 상재균입니다. 이 균은 건조한 환경에서도 며칠에서 몇 주까지 생존할 수 있어, 침대, 의료기기, 환자 피부 등 병원 환경에 쉽게 집락(colonization)하여 병원 내 감염의 주요 원인균이 됩니다. 본래 병원성이 낮지만, 장기 입원 환자, 중환자, 면역저하자, 기계적 환기 또는 중심정맥관을 사용하는 환자에서는 폐렴, 패혈증, 수술 부위 감염 등 심각한 감염을 일으킬 수 있습니다. 아시네토박터는 다양한 기전을 통해 항생제 내성을 획득하며, 특히 OXA형 카바페넴 분해효소(OXA-type carbapenemase)를 통해 카바페넴 계열 항생제에 내성을 가지게 됩니다. 이로 인해 여러 항생제에 동시에 내성을 가진 다제내성 아시네토박터 바우마니균(MRAB)이 출현하며, 치료 선택이 제한적입니다. 국내에서는 MRAB를 제4급 법정감염병으로 지정하고 표본감시 의료기관을 통해 분리율을 모니터링하고 있습니다. 혈액 외 검체에서의 분리율은 2015년 1.06에서 2020년 0.64로 감소했다가 2022년 0.94로 일시 증가했으며, 혈액 검체 분리율은 낮지만, 중증 감염 시 치명률이 높고 치료가 어려워 지속적인 감시가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1979d1070259]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 메티실린 내성 황색포도알균(MRSA) 
+황색포도알균(Staphylococcus aureus)은 피부나 인두 점막에 존재할 수 있는 상재균으로, 피부·연조직 감염, 골관절염, 균혈증, 폐렴 등을 일으킬 수 있습니다. 그중 MRSA는 의료기관에서 발생하는 중심정맥관 관련 감염, 병원 내 폐렴 등 중증 감염의 주요 원인균으로, 특히 고령자, 중환자, 면역저하자에서 더 흔하게 나타납니다.
+
+2. 반코마이신 내성 / 반코마이신 중등도내성 황색포도알균(VRSA/VISA) 
+VRSA/VISA는 당뇨, 신장질환 등 기저질환이 있거나, 과거 MRSA 감염 병력, 반코마이신 치료 경험, 침습적 기구 사용이 있는 환자에서 발생 위험이 높습니다. 감염 형태는 균혈증, 피부 및 연조직 감염, 수술 부위 감염 등 다양하며, 치료가 어렵고 전파 가능성이 있어 철저한 감시가 필요합니다.
+
+3. 반코마이신 내성 장알균(VRE) 
+장알균(Enterococcus spp.)은 사람의 장관과 비뇨생식계에 존재하는 상재균으로, 평소에는 병원성이 낮습니다. 하지만 만성질환자, 면역저하자, 장기 입원 환자에서는 요로감염, 중심정맥관 관련 감염, 복강 내 감염, 피부 및 연조직 감염 등을 일으킬 수 있습니다. 특히 반코마이신 내성 장알균(VRE) 감염은 항생제 선택이 제한되어 치료가 어렵고, 병원 환경을 통한 전파 위험도 높습니다.
+
+4. 카바페넴 내성 장내세균목(CRE) 
+CRE 감염은 감염 부위에 따라 복강 내 감염, 요로감염, 폐렴, 패혈증 등 다양한 형태로 나타납니다. 특히 중심정맥관, 인공호흡기, 도뇨관 등 침습적 기구가 필요한 환자에서 발생 위험이 높습니다. CRE는 대부분 여러 항생제에 동시에 내성을 보여, 감염 시 치료가 매우 어렵고 사망률도 높은 것으로 알려져 있습니다.
+
+5. 다제내성 녹농균(MRPA) 
+MRPA는 장기 입원 환자나 항생제를 반복적으로 투여받은 환자에서 주로 발생하며, 호흡기계나 비뇨기계의 침습적 처치와 관련된 감염으로 나타납니다. 대표적으로는 기관지 분비물 흡인에 의한 병원 내 폐렴과 도뇨관 관련 요로감염이 있으며, 이외에도 피부 감염, 균혈증, 뇌수막염을 유발할 수 있습니다.
+
+6. 다제내성 아시네토박터 바우마니균(MRAB) 
+MRAB 감염은 일반적으로 지역사회에서는 드물고, 면역저하자, 장기 입원 환자, 중환자실 입원 환자에서 주로 발생합니다. 대표적인 감염 형태로는 기계환기 관련 폐렴, 중심정맥관 관련 혈류감염 등이 있으며, 감염 시 항생제 선택이 매우 제한적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다제내성균 감염은 혈액, 객담, 소변, 대변, 피부, 상처, 농양, 뇌척수액, 기관 흡인액, 체액 등 다양한 임상 검체에서 균이 분리될 때 진단을 고려합니다. 균이 검체에서 분리되면, 항생제 감수성검사를 통해 해당 균주가 어떤 항생제에 감수성(효과 있음) 또는 내성(효과 없음)을 가지는지 평가합니다. 필요 시 유전자 검사를 통해 내성 유전자의 존재 여부를 확인하여 내성 균주 여부를 확정할 수도 있습니다. 
+
+하지만 균이 분리되었다고 해서 반드시 감염을 의미하는 것은 아닙니다. 예를 들어, 혈액이나 뇌척수액처럼 원래 무균이어야 하는 검체에서 균이 검출되면 감염 가능성이 높지만, 기관흡인액, 도뇨관을 통한 소변, 대변 등에서는 정상적으로 세균이 존재할 수 있어, 단순한 집락(colonization)인지 실제 감염인지는 의학적 판단이 필요합니다. 
+
+또한, 소변이나 대변에서 다제내성균이 반복적으로 분리되지만 임상 증상이 없는 경우에는 감염보다는 보균(carrier) 상태로 간주하며, 항생제 치료 없이 경과를 관찰하고 시간이 지나면서 내성균이 자연 소실되기를 기대합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다제내성균 감염을 예방하려면 먼저 불필요한 항생제 사용을 줄여 다제내성균의 출현을 막는 것이 가장 중요합니다. 항생제를 과도하게 사용하면 정상 상재균이 내성을 획득할 수 있으며, 이는 향후 다제내성균 출현으로 이어질 수 있습니다. 
+
+또한 다제내성균 전파를 막기 위한 감염 관리가 필요합니다. 감염 관리의 기본은 표준주의(Standard precautions)를 철저히 지키는 것입니다. 다제내성균은 감염 환자, 접촉한 손, 오염된 의료기구 등을 통해 쉽게 전파될 수 있으므로, 알코올 손소독제나 비누와 물로 손을 철저히 씻고, 의료기구를 멸균·소독하며, 시술이나 수술 등 침습적 처치 시 무균술을 준수해야 합니다. 
+
+환자에서 다제내성균이 확인되면 격리, 의료진의 개인보호구 착용, 접촉자 검사 등을 통해 병원 내 전파를 차단해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[150]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다제내성 그람양성 균주(MRSA, VRE)가 보균 상태가 아닌 실제 감염을 일으킨 경우, 항생제 감수성 검사 결과를 바탕으로 적절한 항생제를 치료에 사용할 수 있습니다. 반면, 보균자는 감염이 없으므로 항생제 치료 없이 경과를 관찰합니다. VRSA의 경우, 표준 치료법은 아직 정립되지 않았으며, 항생제 감수성 결과를 고려해 여러 항생제를 조합하여 치료를 시도합니다. 
+
+다제내성 그람음성 균주(CRE) 보균자 역시 항생제 치료 없이 내성 패턴이 자연스럽게 변하기를 관찰합니다. 그러나 CRE가 실제 감염 원인균이거나, MRPA, MRAB 감염이 발생한 경우에는 아직 확립된 치료법이 없으며, 항생제 감수성 결과를 기반으로 여러 항생제 계열을 조합한 복합 치료를 시도합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[151]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다제내성균 감염의 치료는 균 종류, 감염 부위, 환자 상태에 따라 달라지며, 항생제 감수성 검사 결과를 바탕으로 결정합니다. 다제내성 그람양성 균주인 MRSA, VRE가 보균이 아닌 실제 감염을 일으킨 경우에는 감수성 검사 결과에 따라 적절한 항생제를 선택해 치료할 수 있습니다. 반면, 보균자(carrier)는 감염 증상이나 염증 반응이 없는 상태이므로 항생제를 사용하지 않고 경과를 관찰합니다. VRSA는 표준 치료법이 정립되지 않았으며, 감수성 결과를 참고해 여러 항생제를 조합하여 치료를 시도합니다. 
+다제내성 그람음성 균주에 대해서는 최근 세프타지딤-아비박탐(Ceftazidime-avibactam), 세프톨로잔-타조박탐(Ceftolozane-tazobactam), 세피데로콜(Cefiderocol) 등 새로운 항생제가 개발되어 일부는 국내에서도 허가 및 사용되고 있습니다. 그러나 일부 다제내성균은 새 항생제에도 내성을 가지거나, 불필요한 사용을 통해 내성을 획득할 수 있으므로 사용에 주의가 필요합니다. 보균 상태에서는 항생제 치료를 하지 않고 자연적인 소실을 기다리며 경과를 관찰하는 것이 원칙입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[156]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 다제내성균이란 무엇인가요?
+
+A. 다제내성균(MDROs)은 여러 종류의 항생제에 내성을 가진 세균으로, 기존 치료제로는 효과가 없어 감염 시 치료가 어렵고 전파 위험이 높은 병원성 균주입니다.
+
+Q. 다제내성균은 어떻게 감염되나요?
+
+A. 다제내성균은 병원 환경, 의료기구, 감염된 사람과의 접촉, 오염된 음식이나 물 등을 통해 전파될 수 있습니다. 
+
+Q. 감염되지 않으려면 어떻게 해야 하나요?
+
+A. 손씻기 등 기본적인 손위생을 철저히 지키고, 불필요한 항생제 사용을 줄이는 것이 중요합니다.
+
+Q. 다제내성균에 감염되면 치료가 불가능한가요?
+
+A. 치료가 어렵기는 하지만, 감염된 균의 종류와 항생제 감수성 결과에 따라 일부 항생제나 항생제 조합으로 치료가 가능합니다. 다만 치료 선택지가 제한적이므로, 예방과 전파 차단이 매우 중요합니다.
+
+Q. 다제내성균을 보균하고 있어도 치료가 필요한가요?
+
+A. 감염 증상이 없고 단순히 균이 몸에 존재하는 보균 상태라면 일반적으로 치료보다는 경과관찰이 원칙입니다. 불필요한 항생제 사용은 오히려 내성을 악화시키고 부작용을 유발할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한감염학회. (2024). 감염학. 군자출판사.
+2. 질병관리청. (2025). 2025년도 의료관련감염병 관리지침.
+3. Magiorakos, A. P., Srinivasan, A., Carey, R. B., Carmeli, Y., Falagas, M. E., Giske, C. G., … Monnet, D. L. (2012). Multidrug-resistant, extensively drug-resistant and pandrug-resistant bacteria: An international expert proposal for interim standard definitions for acquired resistance. Clinical Microbiology and Infection, 18(3), 268–281. https://doi.org/10.1111/j.1469-0691.2011.03570.x]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

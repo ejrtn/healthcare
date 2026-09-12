@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[안외상(외상성 백내장 및 수정체 이탈)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1403]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 외상성 백내장은 눈의 외상으로 수정체가 손상되거나 혼탁이 생기고, 경우에 따라 수정체가 제자리에서 벗어나는 질환입니다.
+• 초기에는 시력 저하가 경미할 수 있으나 한눈 복시가 나타날 수 있으며, 심한 경우 통증과 충혈, 시력 저하가 발생합니다.
+• 진단은 외상 병력 확인과 세극등 검사 등을 통해 수정체 혼탁이나 이탈 여부를 확인하여 이루어집니다.
+• 치료는 상태에 따라 경과 관찰을 하거나 시력 저하가 심하면 수술적 치료를 시행합니다.
+• 합병증으로는 포도막염, 녹내장, 망막 손상 등이 발생할 수 있어 주의가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[외상으로 수정체가 파열되거나, 파열되지 않더라도 수정체에 혼탁이 오는 경우를 외상성 백내장이라고 합니다. 일부에서는 수정체가 부분 또는 완전 이탈이 일어나는데 수정체가 제 위치에서 벗어나는 것을 수정체 이탈이라 합니다. 이는 수정체를 섬모체근에 고정해주는 섬모체 돌기의 일부가 약해지거나 없어졌기 때문입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[초기에는 시력장애가 별로 심하지 않을 수 있으며, 부상 당한 눈의 한눈 복시를 호소하기도 합니다. 수정체가 완전이탈하여 전방으로 이동하거나, 유리체내에 가라앉게 되면 시력 저하 및 포도막염이나 속발(성) 녹내장을 유발할 수 있으며, 충혈도 심하고 통증이 심해질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 문진 
+환자의 외상 과거력이 가장 중요하며 무엇에, 언제, 어떻게 손상되었는지에 대한 정보가 중요합니다. 
+
+2. 안과 검사 
+백내장의 경우는 세극등 검사상 꽃잎 형태의 수정체 혼탁이 발견될 수 있습니다. 수정체 이탈이 있는 경우는 환자가 눈을 움직일 때 홍채가 떨리는 홍채떨림이나 수정체가 기울어지는 것을 확인할 수 있습니다. 환자가 누운 경우 중력에 의하여 확인이 더 쉬워집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 외상성 백내장 
+수정체낭의 파열이 있는 경우에는 수정체낭 안의 물질들이 전방으로 나와 포도막염을 일으킬 수 있습니다. 따라서 환자에 따라 초기에 수술적 치료를 고려하기도 합니다. 이 외에도 초기에는 비교적 투명한 꽃모양 백내장을 보이다가 점차 수개월에서 수년 뒤에 늑골 모양의 심한 혼탁으로 진행할 수 있습니다. 시력 저하가 심하여 환자가 불편할 경우 수술을 고려할 수 있습니다. 
+
+2. 수정체 이탈 
+합병증이 우려되는 경우, 즉 전방 내로 탈구되거나 유리체로 수정체가 가라앉을 가능성이 높은 경우에는 유리체 절제술 후 수정체를 제거하는 수술적 치료가 요구되기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[합병증으로 수정체가 염증 반응을 일으키는 포도막염이나 안압이 상승하는 녹내장이 생길 수 있습니다. 또한 수정체나 섬모체 돌기 손상이 심하여 완전이탈되면 유리체로 떨어지면서 망막 열공 등을 유발할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[안외상(각막이물)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1404]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(각막찰과상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1362]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(각막화상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1381]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(안와골절)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1382]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 망막박리)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1402]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(전방출혈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1361]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(천공 외상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1401]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

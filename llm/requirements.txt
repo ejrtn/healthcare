@@ -1,0 +1,19 @@
+fastapi==0.139.0
+uvicorn==0.51.0
+pydantic==2.13.4
+chromadb==1.5.9
+sentence-transformers==5.6.0
+llama-cpp-python==0.3.35
+
+# mcp_server.py(MCP 서버)를 돌리려면 추가로 필요. 버전을 명시하는 이유: mcp
+# 1.x -> 2.x에서 FastMCP가 MCPServer로 이름이 바뀌는 등 API가 깨지는 변경이
+# 있었다(mcp_server.py는 2.x의 mcp.server.mcpserver.MCPServer 기준으로 작성됨).
+mcp==2.2.0
+
+# finetune/ 스크립트(임베딩 모델 파인튜닝)를 돌리려면 추가로 필요:
+# datasets
+# accelerate
+
+# eval/ragas_eval.py(생성 품질 평가)를 돌리려면 추가로 필요 (버전 고정 이유는
+# eval/requirements-ragas.txt 참고):
+#   pip install -r eval/requirements-ragas.txt

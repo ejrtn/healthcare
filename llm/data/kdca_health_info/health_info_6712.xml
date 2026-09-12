@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[소변이상(혈뇨)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6712]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 혈뇨란 소변에 피가 섞여 나오는 상태를 말하며, 눈으로 보이는 육안적 혈뇨와 검사에서만 확인되는 현미경적 혈뇨로 나눕니다.
+• 혈뇨는 단순한 요로감염부터 신장질환, 비뇨기계 종양까지 다양한 원인에 의해 발생할 수 있으므로 적절한 검사가 필요하며, 증상이 없더라도 병원을 방문해야 합니다.
+• 원인에 따라 신장내과, 비뇨의학과, 산부인과 등과의 협진이 필요할 수 있으며, 정확한 진단과 치료를 통해 질병을 예방하거나 완치할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈뇨란 소변에 피가 섞여 나오는 것을 의미하며, 소변 색이 붉게 보이는 육안적 혈뇨와, 혈액의 양이 적어 현미경 검사에서만 확인되는 현미경적 혈뇨로 나눌 수 있습니다. 
+현미경적 혈뇨라도 심각한 질환의 초기 증상일 수 있으므로 혈뇨가 의심되면 병원 진료가 필요합니다.다만, 소변이 붉게 보인다고 해서 모두 혈뇨는 아닙니다.비트 등 붉은색 식품 섭취로 인해 소변이 붉게 보일 수 있고, 갑작스러운 격한 운동 후 발생하는 횡문근 융해증, 적혈구가 파괴되는 용혈, 일부 약물 복용으로 인해 소변에 색을 띠는 대사물질이 배출될 때도 적색뇨가 나타날 수 있습니다. 
+혈뇨가 아닌 적색뇨는 진단과 치료가 완전히 다르기 때문에 두 경우를 정확히 구분할 필요가 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[159]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈뇨란 소변에 비정상적으로 많은 양의 적혈구가 섞여 나오는 상태를 말하며, 현미경 소변검사에서 고배율 시야당 적혈구가 3개 이상 관찰되면 혈뇨로 진단합니다.적혈구의 양이 많을 경우 소변 색이 선홍색, 핑크색, 또는 콜라색처럼 보일 수 있습니다. 다만, 소변이 붉게 보이는 모든 경우가 혈뇨는 아니므로, 혈뇨 여부를 정확히 확인하기 위해서는 소변검사가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[160]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈뇨는 육안적 혈뇨와 현미경적 혈뇨로 나눌 수 있습니다.소변 색이 붉게 보이면서 현미경 검사에서 적혈구가 확인되면 육안적 혈뇨이며,소변 색은 정상이라도 현미경 검사에서 고배율 시야당 적혈구가 3개 이상 보이면 현미경적 혈뇨로 진단합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 요로감염
+혈뇨의 가장 흔한 원인으로, 특히 여성에서는 대부분 요로감염으로 인해 혈뇨가 발생합니다.소변을 자주 보거나, 소변 볼 때 통증이 있거나, 소변검사에서 백혈구와 균이 함께 관찰되면 우선 요로감염으로 진단하고 항생제를 사용할 수 있습니다.  
+
+2. 사구체 신염 및 간질성 신염
+사구체 신염은 콩팥에서 노폐물을 거르는 필터 역할을 하는 사구체에 염증이 생기는 질환입니다. 이 경우 소변검사에서 적혈구 증가와 함께 단백뇨가 동반될 수 있습니다. 이 질환이 의심되면 중증도가 매우 다양하고 콩팥 기능이 서서히 악화될 수 있으므로, 신장내과 전문의 진료가 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc4891]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 상부 요로계 질환
+콩팥의 낭종, 결석, 콩팥결핵, 콩팥 종양 등 상부 요로계 질환에 의해서도 혈뇨가 발생할 수 있습니다. 
+
+4. 방광 및 하부 요로계 질환
+방광의 염증, 종양, 결석, 외상 등으로 인해 혈뇨가 생길 수 있습니다. 이 경우 요실금, 빈뇨, 배뇨 시 통증 등의 배뇨 증상이 동반되기도 합니다.
+
+5. 혈관질환
+혈관염, 동정맥류, 혈전증, 혈관종 등의 혈관질환에서도 혈뇨가 나타날 수 있습니다. 특히 혈관질환이 있는 경우 운동 후 혈뇨가 악화되는 양상을 보이기도 합니다.
+
+6. 기타
+모든 검사를 시행해도 혈뇨의 원인을 찾지 못하는 경우가 약 13% 정도 있습니다. 이럴 때는 정기적으로 병원에 방문해 소변검사를 반복하면서 혈뇨의 양상 변화나 새로운 증상의 발생 여부를 확인해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc4817]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈뇨 환자를 평가할 때는 나이, 인종, 성별이 매우 중요합니다.청소년과 50세 미만 성인에게서 흔한 혈뇨의 원인은 고령층과 뚜렷하게 다릅니다.예를 들어, 소아에서는 고칼슘뇨나 고요산뇨가 혈뇨의 흔한 원인입니다.반면, 50세 이상 성인에서 혈뇨가 나타날 경우 방광, 상부 요로, 신장 등의 악성종양 가능성을 반드시 배제해야 합니다.또한 방광암은 남성과 백인에서 상대적으로 더 흔합니다.여성에서는 혈뇨의 원인으로 요로감염이 흔하고,노인 남성에서는 전립선 질환이 혈뇨의 원인이 될 수 있어 이를 감별하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[162]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈뇨의 예후는 원인 질환에 따라 달라집니다. 운동, 약물, 신장 결석, 요로감염, 전립선염과 관련되어 혈뇨가 생긴 경우에는 적절한 치료와 관리로 완전히 회복될 수 있습니다. 소아에서 나타나는 사구체 신염 중 연쇄상구균 감염 후 발생한 것이라면 대부분 자연스럽게 호전됩니다. 반면, 성인에게 발생한 사구체 신염은 소아에 비해 회복이 더디고, 경우에 따라 콩팥 기능이 서서히 악화되어 말기 신부전증으로 진행해 투석이 필요할 수도 있어 꾸준한 관리가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈뇨의 다양한 원인을 파악하기 위해서는 환자의 증상을 바탕으로 여러 검사를 적절히 시행하게 됩니다. 예를 들어, 혈액검사에는 일반 혈액 검사, 생화학 검사, 혈액 응고 검사가 있으며, 소변검사에는 현미경 검사, 단백뇨 검사, 배양 검사, 암세포 검사 등이 포함됩니다. 방사선학적 평가로는 단순 복부 촬영, 경정맥 신우 촬영, 신장 초음파 검사, 복부 컴퓨터촬영, 신혈관 촬영 등이 있으며, 방광 내부를 직접 관찰하는 방광내시경도 필요할 수 있습니다. 또한 경우에 따라 콩팥 질환의 정확한 원인을 밝히기 위해 콩팥 조직검사가 시행되기도 합니다. 
+단, 모든 환자에게 이러한 모든 검사를 시행하는 것은 아니며, 환자의 증상, 나이, 성별, 인종 등에 따라 필요한 검사만 선택하게 됩니다.
+특히, 요로계에 특징적인 증상이 있는 경우에는 가장 먼저 의심되는 질환에 대한 검사를 우선 시행합니다. 반면, 특별한 증상이 없는 경우에는 가장 흔한 원인부터 순서대로 검사하게 되며, 일반적인 검사 순서는 다음과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc4904]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[최근에는 컴퓨터단층촬영(Computed tomography, CT) 검사가 결석, 종양 등 대부분의 요로계 질환을 평가할 수 있어 활용 빈도가 높습니다. 컴퓨터단층촬영을 시행할 수 없는 경우에는 신장 초음파가 다음으로 시행할 수 있는 영상 검사입니다. 방광 내부의 이상을 확인하기 위해서는 방광경 검사가 필요합니다. 방광경을 통해 비정상적 부위의 조직검사를 시행할 수 있으며, 출혈 부위를 직접 확인할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈뇨 자체만으로는 거의 증상이 나타나지 않습니다. 혈뇨 증상은 혈뇨 자체보다는 그 원인 질환에 의해 발생하며, 원인에 따라 다양한 증상이 나타날 수 있습니다. 사구체 신염이 있는 경우 거품뇨, 다리 부종, 고혈압, 소변량 감소가 나타날 수 있습니다. 콩팥 염증이 있는 경우 등 중앙에서 한쪽으로 치우친 심한 통증이 나타날 수 있으며, 발열, 오한, 메스꺼움(오심), 구토 등이 동반될 수 있습니다. 방광 염증이 있는 경우 치골 부위나 방광 쪽 통증, 악취 나는 소변, 소변 횟수 증가, 배뇨 시 통증이 나타날 수 있습니다.
+남성의 경우, 전립선염이 있다면 등 아래쪽, 고환과 항문 사이 부위에 통증이 있을 수 있습니다. 방광에 응고된 혈액이 많이 있다면, 소변 배출이 막히면서 요로 폐색이 발생하고, 막힌 부위에 통증이 나타납니다. 신장 결석이 있는 경우 요관 한쪽이 막히면서 등, 옆구리, 서혜부에 산통과 유사한 심한 통증이 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈뇨의 원인이 다양하기 때문에 치료 방법도 원인 질환에 따라 달라집니다. 
+가장 흔한 원인인 요로감염의 경우, 염증의 위치, 동반 증상, 세균 종류와 항생제 감수성에 따라 항생제의 종류와 치료 기간이 달라집니다. 사구체 신염인 경우에는 신장 조직검사 결과에 따라 면역억제제 등 적절한 약물 치료가 시행됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[소변이 붉게 나오는 경우, 대부분 매우 당황하여 병원을 찾게 됩니다. 결석이나 감염과 관련된 경우에는 원인 질환을 치료하면 혈뇨가 완전히 회복될 수 있고, 약물이나 식품에 포함된 색소로 인해 생긴 경우라면 별도의 치료가 필요 없는 경우도 있습니다. 그러나, 고령자나 흡연자에서 나타나는 혈뇨는 악성종양과 연관될 가능성이 있으므로, 병원을 방문하여 간단한 소변검사를 통해 정밀 검사가 필요한지 확인하는 것이 안전합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한신장학회. (2022). 임상신장학 (제3판). 군자출판사.
+2. 대한신장학회. (2024). 콩팥병 환문명답 (제1판). 범문에듀케이션. 
+3. 대한신장학회. (2024). 대한신장학회 신장학용어집. 대한신장학회 진료지침위원회.
+4. 대한신장학회. (2023). 2023 현미경혈뇨 근거기반 진료지침. 대한신장학회 진료지침위원회.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

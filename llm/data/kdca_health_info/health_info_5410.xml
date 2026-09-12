@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[산전 기형아 검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5410]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 임신부는 태아 건강에 대한 걱정을 많이 하지만, 선천기형 발생 확률은 낮습니다.
+• 산전 검사는 태아의 염색체 이상을 미리 확인하는 중요한 방법입니다.
+• 선별 검사(혈액·초음파)와 진단 검사(양수검사·융모막 검체 검사)로 나뉩니다.
+• 다운증후군, 신경관 결손, 복벽 결손, 에드워드 증후군·파타우 증후군 등을 검사합니다.
+• 검사 선택은 정확도·위험도 등을 고려해 전문가와 상담 후 결정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[임신부나 그 가족은 임신 기간 내내 태아가 건강할까 하는 불안감으로 많은 걱정을 하게 됩니다. 하지만 선천기형을 가지고 태어나는 아이는 약 3% 정도이며, 심각한 기형을 가지고 태어나는 경우는 1% 정도로 그 빈도가 높지는 않습니다. 그럼에도 불구하고 염색체 이상이 있는 경우는 대개 여러 기형이 함께 발생하고 평생 장애를 가질 수 있으므로 이를 미리 확인하는 것이 중요합니다. 
+최근 의학이 발전함에 따라 산전에 태아의 염색체에 이상이 있는지 알 수 있는 방법이 많이 개발되어, 대부분의 산모들이 산전에 이 중 한 가지 이상의 검사를 받습니다. 산전에 염색체 이상을 발견하기 위한 선별 검사로는 혈액 검사, 초음파 검사 등이 있으며, 진단을 확진하는 검사로는 양수검사, 융모막 융모 검사 등이 있습니다. 임신부의 나이가 증가하면서 산전에 태아 염색체 이상을 확인하기 위한 검사는 언제 받는지, 그리고 그 결과는 무엇을 의미하는지 궁금해 하는 임신부들이 더 많아졌습니다.
+
+산전 기형아 검사는 다음과 같이 선별 검사와 진단 검사로 나눌 수 있습니다.
+1. 선별 검사
+임신부의 혈액을 이용하여 태아 염색체 이상의 위험도를 평가 
+1) 모체 혈청 선별검사: 삼중 표지자 검사, 사중 표지자 검사, 통합 선별 검사 
+2) 태아 DNA 선별 검사: 비침습적 산전 검사(Non-invasive prenatal test, NIPT)
+3) 초음파 검사: 태아 목덜미 투명대 측정 검사
+2. 침습적  진단 검사
+태아에서 유래한 검체를 이용하여 태아의 염색체 이상을 직접 진단 
+1) 융모막 융모 생검 
+2) 양수 천자술 또는 탯줄 천자술]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 다운증후군 선별/진단 검사 
+산전 기형아 검사의 가장 중요한 목적은 태아 다운증후군의 위험도를 평가하는 것입니다. 다운증후군이란 1866년 다운(Down)이라는 의사가 처음으로 설명한 질병으로, 양쪽 눈썹 사이가 넓으며, 코와 머리 뒤통수가 납작하고 넓어 동양 사람의 머리 모양과 비슷하다 하여 몽골리즘이라고 부르기도 하였습니다.
+그 후 1959년 다운증후군이 염색체 이상에 의한 질환이라는 것이 밝혀졌는데, 정상인은 23쌍의 염색체를 가지고 있어 모두 46개인데 반해 다운증후군은 21번이 세 개의 염색체로 모두 47개인 염색체를 갖습니다. 일반적으로 엄마와 아빠의 염색체 중 상염색체 22쌍이 각각 반으로 나뉜 뒤 수정되어 22쌍을 이루고 여기에 성염색체 1쌍이 합쳐져 총 23쌍이 됩니다. 각각의 염색체는 엄마와 아빠로부터 하나씩 받아 수정 후 쌍을 이룹니다. 하지만 다운증후군은 엄마 염색체 21번이 분리되지 않은 상태로 아빠 염색체와 수정되어 21번 염색체가 3개인 삼염색체가 됩니다.
+다운증후군의 핵형분석에서 가장 많이 발견되는 형태는 염색체 21번이 2개가 아닌 3개인 삼염색체로 되어 있는 경우로 전체 다운증후군의 대부분을 차지합니다. 나머지 5%에서 염색체의 위치가 바뀐 전위, 그리고 3% 미만에서 정상 염색체와 삼염색체가 섞여 있는 모자이크 현상이 발생됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d00dd11]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[21번 염색체가 삼염색체를 이루는 다운증후군의 90% 이상이 모계(엄마)로부터 유전됩니다. 임신부의 나이가 증가하면서 21번 염색체의 분리가 잘 되지 않는 경향이 있습니다. 따라서 임신부의 나이는 다운증후군의 발생 확률을 예측하는데 전통적인 기준이 되어 임신부의 나이가 35세 이상이면 다운증후군의 아이를 낳을 확률이 1/250 이상으로 증가합니다.
+이를 근거로 이전에는 분만 시 산모의 나이가 만 35세 이상이면 양수검사를 시행하도록 기준을 정하였습니다. 최근에는 양수검사의 위험도가 감소하고 혈청 선별 검사의 정확도가 증가하여 임신부의 나이를 기준으로 산전 검사의 종류를 동일하게 정하지는 않습니다.
+모체 혈청 선별 검사, 태아 DNA 선별 검사와 양수검사 같은 침습적 진단 검사의 장단점에 대해 전문가와 상담을 받고 산모와 가족이 어떤 검사를 받을지 최종적으로 결정하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d00dc97]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 태아 신경관 결손 또는 복벽 결손 검사  
+산전 기형아 검사에서 사용되는 호르몬으로 다운증후군 외에 태아의 다른 선천기형을 발견할 수 있습니다. 모체 혈청 내 알파태아단백이 정상 임신부보다 의미 있게 증가한 경우 태아의 신경관 결손 또는 복벽 결손과 같은 기형의 가능성이 있어 정밀검사를 받게 됩니다.
+신경관 결손은 태아 발달 초기에 태아의 척수나 뇌를 만드는 신경관이 완전하게 닫히지 않아 생기는 문제로 무뇌아, 척추 이분증(spina bifida) 등이 있습니다. 복벽 결손은 태아 발달 시 복벽이 완전하게 닫히지 않은 것으로 복벽 파열증(gastroschisis) 등이 해당됩니다.
+임신 15~20주 사이에 혈중 표지자 검사를 하여 표지자 중 알파태아단백이 증가한 경우에는 우선 초음파 검사를 시행하여 태아의 크기와 임신 주수가 맞는지 확인하도록 합니다. 이후 정밀 초음파 검사 또는 양수검사를 하여 태아의 신경관과 복벽 결손을 진단하기 위한 추가 검사를 고려합니다. 
+양수검사를 통해서도 양수 내 알파태아단백의 농도 측정을 통해 태아의 신경관 결손 또는 복벽 결손과 같은 기형의 가능성을 선별할 수 있습니다.   
+
+3. 에드워드 증후군 및 파타우 증후군 검사 
+산전 기형아 검사에서 태아의 에드워드 증후군 및 파타우 증후군 위험도도 평가할 수 있습니다. 에드워드 증후군은 18번 염색체가 3개인 경우이고 파타우 증후군은 13번 염색체가 3개인 경우입니다. 에드워드 증후군 및 파타우 증후군에서는 심각한 정신지체와 선천기형이 발생하여 대부분 생후 1년 이내 사망하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한모체태아의학회∙산전진단위원회. (2019). 태아 염색체 선별검사와 진단 검사에 대한 대한모체태아의학회 임상진료지침(1판). 서울:제이플러스.
+2. 대한산부인과학회. (2019). 산과학 (6판, 산전진단 및 유전상담. pp. 187-214.). 군자출판사.
+3. American College of Obstetricians and Gynecologists. (2007). Invasive prenatal testing for aneuploidy (Practice Bulletin No. 88). Obstet Gynecol, 110, 1459-1467.
+4. American College of Obstetricians and Gynecologists. (2015). Cell Free DNA Screening For Fetal Aneuploidy (Committee Opinion No. 640). Obstet Gynecol, 126, e31-37 
+5. American College of Obstetricians and Gynecologists. (2016). Screening for fetal aneuploidy (Practice Bulletin No. 163). Obstet Gynecol, 127, e123-137.
+6. Cunningham, F. G. (Ed.). (2018). Williams Obstetrics (25th ed. Prenatal Diagnosis. p 277-299). New York, McGraw-Hill.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[삼중 또는 사중 표지자 검사(Triple 또는 Quad test)와 통합선별검사 (Integrated test)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5515]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[양수 검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5517]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[융모막 융모 검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5518]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[초음파 태아 목덜미 투명대 측정]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5516]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[태아 DNA 선별검사 (NIPT 검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5530]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

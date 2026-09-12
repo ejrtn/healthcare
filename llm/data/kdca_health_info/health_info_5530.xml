@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[태아 DNA 선별검사 (NIPT 검사)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5530]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 태아 DNA 선별 검사는 임신부의 혈액 속에 있는 태아 DNA를 분석해 다운증후군, 에드워드 증후군 등의 위험도를 평가하는 비침습적 검사입니다.
+• 임신 10주부터 가능하며, 정확도가 높아 다운증후군의 경우 약 99%의 검출률을 보입니다.
+• 그러나 확진 검사가 아니기 때문에 고위험군으로 나와도 반드시 양수 검사 같은 추가 진단이 필요합니다.
+• 삼태임신에서는 정확도가 떨어지며, 쌍태임신도 제한이 있을 수 있어 사전에 전문가 상담이 중요합니다.
+• 신경관 결손 등은 이 검사로 확인할 수 없어 추가적인 혈청 검사나 초음파가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태아 DNA 선별 검사는 산전 기형아 검사 중 한 가지로 비침습적 산전 검사(Non-invasive prenatal test, NIPT)에 해당합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d035791]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태아 DNA 선별 검사는 임신부의 혈액을 채취하여 임신부 혈액 안에 소량으로 존재하는 태아의 DNA의 차이를 정상군과 비교하여 다운증후군, 에드워드 증후군, 파타우 증후군과 같은 염색체 이상의 위험도를 알아보는 검사입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태아의 산전 검사를 받기를 원하는 모든 임신부가 검사의 적응증이 됩니다. 검사의 장단점에 대해 전문가의 상담을 받고 산모와 가족이 어떤 검사를 받을지 최종적으로 결정하게 됩니다. 
+다만 삼태임신(세쌍둥이 임신)의 경우에는 혈청 검사의 정확도가 매우 떨어지므로 혈청 검사의 적응증이 되지 않으며, 쌍태임신(쌍둥이)의 경우에도 검사의 정확도에 대한 논란이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[임신부의 혈액을 채취하여 혈액 안에 존재하는 태아의 DNA를 분석합니다]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태아 DNA 선별 검사는 임신 10주부터 가능합니다. 태아 DNA 선별 검사는 산모의 혈액 안에 소량으로 존재하는 태아의 DNA 양의 차이 또는 유전자 차이를 정상군과 비교 분석합니다. 
+태아 DNA 선별 검사의 다운증후군 검출률은 약 99% 정도이고, 고위험군이라고 나온 경우에도 실제 태아가 다운증후군일 확률은 임신부의 나이에 따라 달라집니다. 따라서 전문가와 정확한 상담이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d035984]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[• 태아 DNA 선별 검사는 확진 검사가 아니라 선별 검사이므로 태아가 정상이어도 고위험군 결과가 나올 가능성이 있습니다. 따라서 반드시 정확한 확진을 위한 침습적  진단 검사로 추가 확인이 필요합니다. 
+• 마찬가지로 검사 결과가 저위험군으로 나오더라도 태아의 염색체 이상 가능성이 전혀 없는 것은 아닙니다. 
+• 가끔 '판정 불가'로 결과가 나오는 경우는 임신부 혈액 안의 태아의 DNA 양이 너무 적은 이유 등으로 인해 정확한 분석이 어렵다는 의미입니다. 이 경우에는 침습적 진단 검사를 고려하기도 합니다. 
+• 태아 DNA 선별 검사는 태아의 염색체 이상의 위험도에 대한 검사이므로 태아의 신경관 결손, 복벽 결손에 대한 검사 항목이 포함되어 있지 않습니다. 따라서 임신 15~20주에 신경관 결손 선별 검사를 위한 모체 혈청 알파 태아 단백 검사 또는 초음파 검사가 추가로 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[태아 DNA 선별 검사는 혈액 검사이므로 태아에게 안전한 검사입니다. 다만 확진 검사가 아닌 선별 검사인 만큼 검사의 정확도에 한계가 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한모체태아의학회∙산전진단위원회. (2019). 태아 염색체 선별검사와 진단 검사에 대한 대한모체태아의학회 임상진료지침 (1판). 서울: 제이플러스. 
+2. 대한산부인과학회. (2019). 산과학 (6판, 산전진단 및 유전상담, pp 187-214). 군자출판사.
+3. American College of Obstetricians and Gynecologists. (2015). Cell Free DNA Screening For Fetal Aneuploidy (Committee Opinion No. 640). Obstet Gynecol, 126,, e31-37. 
+4. CUNNINGHAM FG, ed. (2018). Williams Obstetrics. (25th ed. Prenatal Diagnosis. pp 277-299). New York, McGraw-Hill.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[산전 기형아 검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5410]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[삼중 또는 사중 표지자 검사(Triple 또는 Quad test)와 통합선별검사 (Integrated test)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5515]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[양수 검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5517]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[융모막 융모 검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5518]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[초음파 태아 목덜미 투명대 측정]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5516]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

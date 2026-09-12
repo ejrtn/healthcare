@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[세포검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6293]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 세포는 우리 몸의 가장 작은 단위로, 모여서 조직과 장기를 이루고 결국 사람을 구성합니다.
+• 세포검사는 몸에서 세포를 채취해 정상인지, 질병이 있는지를 확인하는 검사입니다.
+• 이 검사는 칼로 조직을 떼어내는 생검보다 간단하고 통증이 적으며, 비교적 빠르게 결과를 확인할 수 있습니다.
+• 자궁경부암의 조기 발견과 갑상선·유방 종양 등을 진단하는 데 널리 사용됩니다.
+• 다만 검사 결과는 전문가의 판독에 따라 달라질 수 있어 정확한 해석이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[세포가 모여 조직을 만들고 조직이 모여서 장기를 만들고 장기가 모여서 한 사람의 개체를 이루게 됩니다. 따라서 각각의 장기를 이루는 정상 세포와 질병이 있을 때 나타날 수 있는 비정상 세포에 대한 정보를 알고 있다면, 어떤 사람의 조직이나 장기에서 세포를 채취하여 세포의 종류나 상태를 검사하여 정상 및 질병의 유무를 알 수 있게 됩니다. 이것이 바로 세포검사입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18bdbf34fe45]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 세포 병리 검사의 장점 
+1) 용이성과 접근성
+환자의 몸에 직접 칼로 절개를 해서 조직을 얻는 생검에 비해서 세포 검사는 환자에게 통증을 적게 주고, 마취가 불필요한 경우가 대부분이어서 검사가 간단합니다. 또한 생검에 비해 표본 채취 면적이 넓어 광범위한 영역을 포함할 수 있으며, 생검으로 채취하기 어려운 부위에서도 검체를 얻을 수 있어 접근성이 높습니다. 
+2) 신속성
+조직 생검의 처리 과정은 복잡하여 24시간 이상의 시간이 소요되는데 비해, 세포검사는 빠르면 한 시간 이내의 신속한 진단이 가능합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[[세포검사의 임상 적용]
+1. 암의 조기 발견을 위한 선별검사 
+세포검사는 증상이 없는 암의 조기 선별검사 방법에 적용함으로써, 암의 예방 영역에서 많은 기여를 하고 있습니다. 자궁경부암을 조기 진단하기 위한 팝 스미어(pap smear)가 대표적입니다(국가암검진 자궁경부암편). 이를 통해 우리나라를 비롯한 세계 여러 나라에서 자궁경부암의 빈도가 현저히 감소하였습니다. 이 외에도 객담(가래) 검사를 통한 폐암의 진단, 요 검사를 통한 방광암 진단 등에도 적용되고 있습니다.
+
+2. 암의 진단  
+장기에 종괴가 있는 경우에 시행하는 세포검사도 다양한데, 종괴 병변을 직접 찔러서 검사하는 세침흡인 세포검사(fine needle aspiration cytology, FNA)를 더 많이 적용합니다. 이 검사법은 유방암, 갑상선암, 폐암 환자에서 많이 쓰이고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a3563]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 환자의 추적 관찰 
+암 환자는 진단을 하고 치료를 끝낸 뒤 대개 5년 동안 추적 관찰을 하게 됩니다. 5년을 기점으로 재발률이 현격하게 낮아지고, 여러 치료법의 효과를 판단하는 기본 지표로 가장 많이 이용되기 때문에 5년 생존율을 가장 중요하게 여기고 평가합니다. 
+추적 관찰에는 주로 영상의학적 방법을 사용하지만, 이외에 세포검사를 시행하기도 합니다. 예를 들어 자궁경부암 환자의 경우 일정한 간격을 두고 팝 스미어(pap smear)를 시행합니다. 또한 방광암 환자의 경우에는 요 검사를 시행하기도 합니다. 
+또한 유방암을 비롯한 다른 암에서 재발이나 전이가 의심되는 결절이 만져지거나 영상의학적 소견이 보일 경우 이에 대해 생검을 하기도 하고, 세침흡인 세포검사를 시행하여 진단하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 탈락세포검사(exfoliative cytology) 
+자연적으로 떨어져 나오는 세포들을 관찰하는 것입니다. 다양한 장기의 암 진단에 이용되고 있으며, 자궁경부암 검진에 가장 많이 사용되고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a36f5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 자궁경부 세포검사
+흔히 George N. Papanicolaou의 이름을 따서 팝 스미어(pap smear)라고 부르기도 합니다. 
+특수하게 제작된 솔을 이용하여 자궁 경부 부위 세포를 채취하여 고정액으로 고정한 후 염색을 하여 이상한 세포가 있는지를 관찰하여 진단합니다. 선진국에서는 이 세포검사를 통하여 자궁경부암 발생률이 현저하게 감소하였습니다. 
+
+자궁경부암의 경우 1990년대 우리나라 여성암 발생률 1위였으나, 2020년 통계상 10위로 발생률이 현저히 감소하고 있습니다.
+
+
+① 일반 도말검사와 액상 세포검사 
+
+일반 도말 검사는 1990년대 이전부터 사용하던 방법으로, 임상의사가 솔(brush)로 자궁경부의 세포를 채취하여 슬라이드에 도말 후 솔을 폐기하고 도말한 슬라이드를 특수 보존액이 들어있는 검체 통에 담가 병리과로 보냅니다. 
+1990년대 후반에 액상 세포검사라고 하는 새로운 검사 방법이 개발되었는데, 이는 임상의사가 솔(brush)로 자궁경부의 세포를 채취한 후 그 솔을 특수 보존액이 들어있는 검체 통에 담가 병리과로 보냅니다. 이 방법으로 세포의 소실이 줄어들고 기존 방법보다 세포의 보존 상태가 양호하게 되어 암 진단율이 많이 향상되었습니다. 국내에도 2000년대 초반에 도입되어 많은 병원에서 사용하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18c5c767f338]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 객담(가래) 세포검사 
+객담 세포검사는 폐암, 결핵, 진균 감염 등 호흡기 질환의 기본 검사로 사용되며, 일반적으로 피검사자가 스스로 뱉은 객담을 제출하면 그것을 가지고 검사를 진행하게 됩니다. 상기와 같은 질환이 의심되는 환자뿐만 아니라, 건강 검진을 하는 일반인을 대상으로도 선별 검사 및 조기 진단의 목적으로 사용하기도 합니다. 
+최근에는 기구를 사용하여 세포를 얻기도 하는데, 예를 들면 기관지 내시경 검사를 할 때 기관지 솔질이나 세척 검사를 이용하는 것입니다. 이는 피검자가 스스로 뱉는 객담 검사보다 침습적이지만, 세포를 좀 더 정확하게 많이 얻을 수 있다는 장점이 있습니다. 
+
+
+3) 요 세포검사 
+요 세포검사는 방광암이 의심되거나 검진을 하는 일반인을 대상으로 비뇨기계 암 진단을 위하여 사용됩니다. 최근에는 방광내시경으로 검사할 때 병변이 의심되는 부위를 세척하여 세포를 얻어 진단에 도움을 얻기도 합니다. 
+
+4) 체액 세포검사 
+복수 및 흉수 등 체강에 물이 찼을 경우 이 체액을 빼내어 치료나 진단에 이용하기도 합니다. 
+
+5) 뇌척수액 세포검사 
+백혈병이나 전이성 암종이 뇌척수액에 전이될 경우가 있는데, 이때 뇌척수액의 세포검사를 통해 진단을 도와줄 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18bdbf4d4ca2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 세침흡인 세포검사(fine needle aspiration cytology, FNA)
+일반적으로 만져지는 병변이면 모두 세침흡인 세포검사를 할 수 있습니다. 또한, 초음파나 단층 촬영기를 사용하여 심부에 있는 병소를 검사할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a37c6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[세침흡인 검사 분야는 다양한 부위의 종괴(덩어리)를 선별하고 진단합니다. 현재에는 갑상선 종괴에 가장 흔히 시행되고, 그 다음으로 유방, 림프절, 타액선 및 기타 장기 순으로 시행되고 있습니다. 또한 영상 의학 기술의 발달로 폐 등 심부 장기들도 검사의 대상이 됩니다. 최근에는 위내시경, 기관지내시경을 할 때 초음파 기기의 도움을 받아 이전에는 접근이 어려웠던 췌장 및 심부 쪽에 있는 림프절 등에 대한 검사도 시행하고 있습니다.   
+
+세침흡인 방법의 도입으로 갑상선 양성 병변의 경우 불필요한 수술이 많이 줄어들었습니다. 검사 비용 면에서도 경제적인 방법입니다. 그러나 이 검사법은 누가 시행하고 판독하느냐에 따라 진단율의 차이가 커서 검사를 제대로 하고 정확한 판독을 하는 것이 중요합니다.  만져지는 종양에 대한 세침흡인 세포검사의 검체 채취는 훈련받은 병리의사, 영상의학과 의사 및 임상 의사 중 누구든지 할 수 있습니다. 그러나 만져지지 않는 병소일 경우는 대개 초음파를 비롯한 영상 의학의 도움이 필요합니다. 세포 검사의 수행과 판독은 훈련받은 전문 의료인에 의해 이루어져야 합니다.
+
+3. 새로운 보조적 요법(New ancillary technique) 
+탈락 세포나 세침흡인 세포를 이용한 다양한 분자 병리 기법이 접목되고 있습니다. 자궁경부암의 인체유두종 바이러스(human papilloma virus, HPV) 검사, 결핵환자의 Tb-PCR, 갑상선암의 b-raf 변이 검사 같은 것이 병리과에서 흔히 시행하는 검사 항목들입니다. 이외에도 다양한 새로운 검사들이 진단의 향상을 위해 시도되고 있습니다]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[세포검사의 한계 
+세포검사는 민감도와 특이도가 높은 검사법이지만, 다른 모든 검사와 마찬가지로 판독하는 병리의사 사이에서 드물게 불일치가 있을 수 있습니다. 그러나 요즘은 이런 오차를 줄이기 위해 기관 간 병리검사 슬라이드의 대출과 자문, 재판독 등이 활발히 이루어집니다. 또한 장기별로 정해진 공통의 진단 체계(Bethesda system of cytological reporting)를 따르는 등 표준화된 진단을 통한 질 향상을 도모하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[246]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 자궁경부 세포검사는 언제부터 시작하여 얼마나 자주 검사를 받는 것이 좋은가요?
+
+A. 국가 조기암 검진프로그램에 따르면 20세 이상 여성이 대상이며, 첫 검사 이후 2년마다 검사할 것을 권장하고 있습니다.
+
+Q. 갑상선이나 유방에 결절이 만져져 암에 대한 걱정이 많습니다. 어떻게 암 검사를 받을 수 있나요?
+
+A. 갑상선이나 유방뿐만 아니라 림프절이 커져 있거나 다른 신체 부위에서 결절이 만져질 때 쉽게 조직 검사나 세침흡인 세포검사로 먼저 진단을 받을 수 있으며, 그 결과에 따른 악성위험도를 평가하여 수술 여부를 결정하게 됩니다.  특히 갑상선 결절의 진단에 흔히 세침흡인세포 검사가 이용되는데, 이 검사는 마취가 필요 없을 정도로 통증이 거의 없습니다. 가는 바늘로 병변 부위를 찔러 세포를 추출해서 현미경으로 관찰하여 암 세포가 있는지 여부를 보는 검사로 실제 세포 추출 시간은 20~30초면 됩니다. 세포 추출 후 현미경 관찰까지도 오랜 시간이 걸리지 않아 빨리 결과를 알 수 있다는 장점이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1.	국가암검진 자궁경부암편. https://youtu.be/aB0iovONaCE
+2.	Cancer Over Time (iarc.fr). https://gco.iarc.who.int/overtime/en
+3.	국가암검진사업 &gt; 국가암관리사업 소개 &gt; 국가암관리사업 | 국립암센터. (ncc.re.kr) 
+4. 홈 &gt;통계로 보는 암&gt;발생률&gt;암종별 발생 현황. (cancer.go.kr)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

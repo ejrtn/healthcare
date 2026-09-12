@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[갑상선 검사(양전자방출단층촬영(PET))]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[2392]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[양전자단층촬영(PET) 은 널리 사용되는 검사는 아니지만, 갑상선암의 전이나 재발암을 찾아내기 위하여 사용됩니다. 때로는 수술 전 전이 여부를 확인하고 수술의 범위를 결정하기 위해서도 사용됩니다. 
+일반적으로 전신을 촬영하기 때문에 다른 목적으로 PET 검사를 하다가 갑상선 이상을 발견하는 경우가 간혹 있습니다. 이 경우 대개 증상이 분명하지 않은 작은 크기의 갑상선암이거나 만성 갑상선염입니다. 다른 부위에 생긴 암이 갑상선에 전이된 경우도 가끔 이렇게 나타날 수 있습니다. 이런 경우 초음파 촬영과 함께 세포검사 등을 해 보면 어렵지 않게 진단이 가능합니다. 또한, 갑상선 수술 후 경과 관찰을 할 때도 PET촬영을 하기도 합니다. 
+최근에는 한 번의 촬영으로 PET과 CT를 동시에 찍어서 정확히 알아볼 수 있을 정도로 기술이 발전되어 효과적으로 다른 암의 조기발견도 가능하지만 PET 촬영결과 이상 소견이 없어도 아무 이상도 없다고 할 정도는 아닙니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[갑상선 검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2387]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(갑상선 세포검사 및 조직검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2393]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(방사성 요오드 섭취율)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2389]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(전산화단층촬영(CT)과 자기공명영상(MRI))]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2391]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(초음파)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2390]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(혈액검사 및 요검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2388]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

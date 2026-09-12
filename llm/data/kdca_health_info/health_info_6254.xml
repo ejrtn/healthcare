@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[고혈압과 눈(고혈압망막병증)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6254]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[망막은 안구 안쪽을 2/3정도 덮는 얇은 신경조직으로, 안구의 뒷부분에 위치합니다. 눈에 들어오는 빛은 각막을 통과한 후 수정체에서 굴절되어 망막에 상을 맺습니다. 우리 몸에서 동맥, 세동맥, 모세혈관, 세정맥, 정맥 등 모든 종류의 혈관을 직접 관찰할 수 있는 유일한 부위가 망막입니다. 따라서 망막검사를 통해 고혈압으로 인한 미세 혈관 변화를 관찰할 수 있습니다. 망막의 세동맥은 심장, 뇌의 세동맥과 비슷한 특성을 가집니다. 따라서 고혈압에 의한 망막 혈관 변화를 관찰하면 높은 혈압에 의한 심장과 뇌의 혈관 손상 정도를 유추할 수 있어 심장혈관질환과 뇌혈관질환의 위험도 평가에 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b2999a9d42]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압망막병증은 망막 혈관의 비정상적인 수축과 경련에 의한 급성 이상과 동맥경화증에 의한 망막 구조와 기능의 만성 이상이 동반되는 질환입니다. 혈압이 조절되지 않으면 눈의 망막 혈관도 손상되어 출혈, 삼출액(혈관 투과성이 증가해 혈액 성분이 혈관 밖으로 스며 나온 것), 유두 부종(망막 신경 다발이 모여 있는 곳이 부어오름), 면화반점(망막에 솜털 같은 하얀 손상), 망막 부종 등이 나타나고 시력이 감소합니다. 이런 상태를 고혈압망막병증이라고 합니다. 혈압이 높은 상태가 지속되면 혈관을 이루는 근육과 내피 세포가 손상되어 망막에 혈액이 고이고, 이로 인해 시력 장애가 유발됩니다. 고혈압망막병증은 고혈압 환자에서 혈압이 조절되지 않은 기간이 길수록 잘 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압망막병증은 다음과 같이 4단계로 분류합니다.
+1단계: 망막동맥이 약간 좁아짐
+2단계: 망막동맥이 좁아져 있으며 굴곡이 관찰됨
+3단계: 2단계 소견과 더불어 망막출혈, 삼출, 면화반점, 망막 부종이 동반됨
+4단계: 3단계 소견과 더불어 유두 부종이 동반됨]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b299a9edd5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압 환자에서 혈압이 적절한 범위로 조절되지 않아 발생합니다. 높은 혈압이 지속되면 망막 내 세동맥, 모세혈관, 세정맥의 구조와 기능이 손상되고 결국 망막까지 손상됩니다. 뇌, 심장, 신장과 더불어 고혈압의 대표적인 합병증입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압을 조절하지 않으면 망막병증이 지속적으로 악화해 실명에 이를 수 있습니다. 자료에 의하면 2~17% 정도로 다양하게 보고되지만, 주로 조절되지 않는 고혈압 유병 기간과 관련이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압에 의한 망막 혈관의 초기 변화는 혈관수축입니다. 혈관이 경련을 일으켜 직경이 좁아지는 연축(vasospasm)과 혈관의 굵기를 적정 범위로 조절해주는 혈관운동긴장(vasomotor tone)의 이상으로 인해 망막동맥이 가늘어집니다. 이후 만성적인 동맥경화성 변화가 진행하면서 일부 또는 망막 혈관 전체가 가늘어지고, 망막세동맥벽의 혼탁, 망막세동맥에 의한 망막세정맥의 눌림 등이 발생합니다.
+혈압이 적절히 조절되지 않으면 삼출단계로 진행합니다. 심한 고혈압에서는 망막 혈관벽이 손상되고, 약해진 혈관벽을 통해 혈액 성분인 지질이 빠져나옵니다(경성 삼출물). 망막출혈 및 망막신경섬유층의 국소적 산소 공급이 줄어드는 허혈 상태가 되면 면화반이 발생합니다.
+그래도 혈압이 조절되지 않으면 위의 손상에 더해 시신경유두의 혈액 공급이 상대적으로 부족해지고(허혈), 뇌압 상승에 따른 시신경유두 부종이 관찰되기도 합니다. 이러한 고혈압성 망막 혈관 변화는 다른 망막 질환을 일으키기도 하는데, 대표적인 것이 망막분지정맥 폐쇄입니다. 이는 고혈압에 의한 망막세동맥의 동맥경화성 변화와 혈관 주위 교세포의 증식으로 인해 망막 세정맥이 압박되고 눌리면서 내경이 좁아지다가 결국 완전히 폐쇄되는 것입니다. 그 외에도 고혈압에 의해 혈관이 늘어나는 동맥대혈관류, 비동맥염성 허혈시신경병증, 망막동맥폐쇄 등 시력에 영향을 미치는 합병증이 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b299bbab78]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[두통, 안구통증, 시력저하를 호소할 수 있습니다. 신경학적 이상, 심부전 증상(흉통, 호흡곤란, 운동시 숨참, 야간 발작성 호흡곤란)과 두근거림 등 고혈압에 의한 전신 증상도 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[특징적인 안저 소견을 관찰해 진단합니다. 안저 검사는 모든 환자에서 동공확장제를 넣은 후 망막을 관찰하는 산동 검사가 원칙입니다. 렌즈를 이용한 세극등 현미경 안저 검사 또는 도상검안경검사가 있습니다. 세극등 현미경 안저 검사는 고배율의 입체시가 가능하며 황반, 망막 내 미세혈관이상 등을 관찰하는 데 적합합니다. 도상검안경검사는 시야가 넓어 전반적인 출혈이나 삼출 정도를 파악할 수 있고 주변부 이상 검사가 용이합니다. 두 가지 검사는 서로 보완적이므로 두 가지 모두를 시행해 반복적이고 세밀하게 관찰합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압망막병증의 치료는 혈압 조절이 가장 중요합니다. 망막 변화가 진행되면 시력이 떨어질 수도 있으나, 대부분은 증상이 없어 조기발견이 어렵습니다. 따라서 고혈압을 적극적으로 치료해야 합니다. 안저검사는 고혈압성 응급 상황, 악성고혈압 또는 당뇨병이 동반된 경우 선택적으로 권고하기도 하지만, 고혈압 환자는 다양한 망막 질환 위험인자를 가진 경우가 많아 정기 검사를 추천합니다. 갑자기 시력이 급격히 저하되거나 심한 두통이 발생할 경우 즉시 병원을 찾아야 합니다. 고혈압에서 나타날 수 있는 망막변화는 혈압이 정상인 경우에도 나타날 수 있습니다. 특히 동맥경화성 변화는 연령과도 관련이 있기 때문에 고혈압망막병증의 진단에는 정확한 혈압 측정이 필수적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[환자의 특성에 맞는 약물치료를 병행해 고혈압을 적극적으로 조절해야 합니다. 3단계 이상의 망막질환이 동반되어 있다면 안과 전문의 치료가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[생활 습관을 교정해 적극적으로 혈압을 조절합니다. 유산소 운동과 근력운동을 병행하고 나트륨 섭취를 줄이고 칼로리 섭취를 적절하게 조절합니다. 금연과 절주는 필수입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압 조절이 불충분하면 고혈압망막병증의 진행과 더불어 동맥대혈관류, 비동맥염성 허혈시신경병증, 망막동맥폐쇄 등 같은 시력을 저하시키는 합병증을 초래합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[지원체계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[119]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[임상진료지침 정보센터에서 다음의 고혈압 관리 관련 정보 및 교육자료를 받으실 수 있습니다.
+
+- 고혈압 환자에게 꼭 필요한 정보
+- 노년용 고혈압 환자용 브로셔
+- 대국민용 고혈압 예방관리 수칙
+- 대국민용 고혈압 예방관리 리플렛]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 고혈압이 조절되면 고혈압망막병증은 되돌아오나요?
+
+A. 고혈압망막병증 제3군까지는 혈압이 잘 조절되면 망막 이상이 좋아져 시력이 저하되는 상태까지 이르지는 않습니다.
+
+Q. 시력이 좋으면 고혈압망막병증은 걱정 안 해도 되나요?
+
+A. 고혈압이 있어도 안저에 변화가 생기고 시력이 저하되려면 오랜 시간이 걸립니다. 그 전에 혈압을 조절해 고혈압망막병증 등의 합병증을 막고 건강을 유지할 수 있습니다. 혈압 조절이 잘 되어도 고혈압성 망막 변화가 있을 수 있으므로 정기 검사를 받는 것이 바람직합니다.
+
+Q. 고혈압으로 진단받으면 반드시 정기적인 안과 검사를 받아야 하나요?
+
+A. 대부분의 고혈압망막병증 환자는 무증상으로 조기에 발견되지 않습니다. 하지만 망막 변화가 진행되면 시력이 떨어질 수도 있으므로, 적극적인 고혈압 치료가 필요하며 1년에 1-2회 정밀 안저 검사를 시행해야 합니다. 특히 급격히 시력이 저하되거나 심한 두통이 있을 때는 즉시 병원을 찾아야 합니다. 고혈압망막병증은 고혈압 약물 요법으로 조절할 수 있습니다. 당뇨병이 동반된 경우에는 정기검사가 필수적입니다.
+
+Q. 고혈압 때문에 생기는 안과적 질환은 무엇이 있나요?
+
+A. 고혈압은 눈에 영향을 미칩니다. 가장 흔한 망막 혈관질환인 당뇨망막증은 잘 조절되지 않는 고혈압이 있으면 더욱 빨리 진행합니다. 분지정맥폐쇄, 중심정맥폐쇄 등 정맥폐쇄 질환과 중심동맥폐쇄, 분지동맥폐쇄 등 심각한 시력저하를 일으키는 질환도 생길 수 있습니다. 고혈압은 최근 증가하는 노인성 황반변성에도 위험인자가 될 수 있습니다. 전신적으로 건강해야 눈도 건강할 수 있습니다.
+
+Q. 고혈압망막병증이 심해지면 시력을 완전히 잃을 수도 있나요?
+
+A. 고혈압과 당뇨병은 대표적인 실명의 원인입니다. 3단계 이후에도 적절한 혈압 조절과 안과적 치료를 받지 못하면 실명할 수 있습니다.
+
+Q. 시력 저하나 두통 외에 고혈압망막병증을 의심해야 할 증상이 있나요?
+
+A. 고혈압은 눈에만 영향을 주는 것이 아닙니다. 전신 증상으로 호흡곤란, 흉통 등 심장 증상이 나타날 수 있고 죽상경화성 뇌혈관 질환, 만성 콩팥병과 관련된 증상도 동반될 수 있습니다.
+
+Q. 고혈압망막병증이 한쪽 눈에만 생길 수도 있나요?
+
+A. 고혈압은 눈뿐만 아니라, 전신의 혈관에 영향을 미칠 수 있습니다. 따라서, 고혈압망막병증은 대개 양쪽 눈에 동시에 비슷한 양상으로 나타납니다. 한쪽 눈에만 문제가 생긴 경우에는 다른 질환을 의심해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[121]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[고혈압, 고혈압성 합병증, 심부전, 만성 콩팥병]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한고혈압학회. (2022). 고혈압 진료지침.
+2. American Academy of Ophthalmology (AAO). (2006). In Basic and Clinical Sciences Course (Lifelong Education for Ophthalmologist, San Francisco, CA).
+3. Nwankwo, T., Yoon, S. S., Burt, V., &amp; Gu, Q. (2013). Hypertension among adults in the United States: National Health and Nutrition Examination Survey, 2011–2012. NCHS Data Brief, 133, 1-8.
+4. Williams, B., Mancia, G., Spiering, W., Agabiti Rosei, E., Azizi, M., Burnier, M., ... &amp; Wang, J. G. (2023). 2023 ESH Guidelines for the management of arterial hypertension. Journal of Hypertension, 41(000), 000-000.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

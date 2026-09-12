@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[안외상(각막화상)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1381]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 각막 화상은 열이나 화학물질에 의해 각막이 손상되는 질환입니다.
+• 원인으로는 알칼리성·산성 화학물질, 소독약, 뜨거운 금속이나 화염, 자외선 등이 있습니다.
+• 증상은 통증, 작열감, 충혈, 눈부심 등이 나타나며 경우에 따라 지연되어 발생하기도 합니다.
+• 치료는 화학 화상의 경우 즉시 물이나 생리식염수로 세척하는 것이 가장 중요하며, 이후 약물치료를 시행합니다.
+• 심한 경우 각막궤양이나 시력 저하, 실명으로 이어질 수 있어 신속한 치료가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[각막이 피부처럼 열이나 화학물질 등에 의해 화상을 입는 경우를 말합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[각막 화상을 일으키는 화학약품의 종류에는 양잿물, 시멘트, 석고가루와 같은 알칼리성 물질, 빙초산, 염산, 황산과 같은 산성용액, 소독약이나 제초제 등이 포함됩니다. 
+열화상은 폭발화염이나 뜨거운 금속, 담뱃재 등에 의해 발생합니다. 최근에는 뜨거운 불가마나 스키장의 자외선 등에 의하여 화상을 입기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심한 경우 안구 통증, 작열감, 충혈과 눈부심 등을 동반할 수 있으며, 경증인 경우에도 약한 통증 등이 있을 수 있습니다. 손상 직후에 증상이 바로 나타나기도 하지만, 며칠이 지나고 난 후에 증상이 생기는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 문진 
+뜨거운 열이나 화학 물질에 가까이 간 적이 있는지, 화학 물질이 눈에 튄 적이 있는지, 어떤 종류의 화학 물질인지 등을 확인합니다. 
+
+2. 전신 증상
+피부의 화상이 동반되었는지 확인하며 함께 치료합니다. 
+
+3. 안과 검사 
+화학물질로 인한 각막과 결막의 손상 정도와 안압을 측정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 화학 화상
+화학약품이 눈에 들어간 경우 치료는 무엇보다도 즉시 생리식염수로 충분히 씻어내는 것입니다. 만약 생리식염수가 없다면 시간을 지체하지 말고 깨끗한 물로 씻어내도 괜찮습니다. 그 후 통증이 심하므로 진통제를 투여하며, 점안 항생제와 인공눈물을 투여합니다. 안압이 올라가면 안압약을 처방하기도 합니다. 괴사된 조직은 될 수 있는 한 제거하며, 포도막염이 발생할 수도 있기 때문에 조절마비제나 산동제를 투여합니다. 점안용 국소마취제는 상처 치유를 지연시킬 수도 있으므로 사용하지 않고, 스테로이드는 화상 정도에 따라서 사용하기도 합니다. 
+
+2. 열화상 
+각막화상으로 의심되는 증상이 있을 때에는 차가운 물수건 등으로 눈을 마사지하면서 안과로 가는 것이 좋습니다. 안과에서는 냉찜질, 항생제, 진통 소염제 투여 등을 통해 1차 치료를 하게 되며, 심하면 치료용 콘택트렌즈나 압박 안대를 사용하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이차적 세균 감염이 동반될 경우 각막 궤양이 발생할 수 있습니다. 그리고 각막 화상이 심한 경우 각막 표면의 결막화가 발생하게 되고, 각막의 투명성을 잃게 되어 실명의 원인이 될 수도 있습니다. 이러한 경우 나중에 각막 이식이나 윤부세포 이식술이 필요할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[안외상(각막이물)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1404]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(각막찰과상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1362]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(안와골절)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1382]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 망막박리)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1402]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 백내장 및 수정체 이탈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1403]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(전방출혈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1361]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(천공 외상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1401]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

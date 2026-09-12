@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[갑상선 검사(혈액검사 및 요검사)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[2388]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[갑상선호르몬은 요오드를 주성분으로 티록신(thyroxine, T4)과 트리요오드티로닌(triiodothyronine, T3) 두 종류가 있습니다. 머리에 있는 뇌하수체에서 분비하는 갑상선자극호르몬(thyroid stimulating hormone, TSH)이 혈액을 통해 분비되어 갑상선을 자극하면 갑상선 소포세포(thyroid follicular cell)에서 갑상선 호르몬(T3, T4)을 생성합니다. 뇌하수체는 혈중 갑상선호르몬 농도를 감지해서 갑상선호르몬 수치가 떨어진 경우 갑상선자극호르몬 분비를 늘려서 갑상선에서 갑상선호르몬 생성을 촉진시키고, 갑상선호르몬 수치가 높은 경우에는 반대로 갑상선자극호르몬 분비를 줄여서 갑상선에서 갑상선호르몬 생산을 감소시킵니다. 이와 같은 되먹이기 기전에 의해 정상적으로 혈액 속 갑상선호르몬의 수치가 항상 일정하게 유지가 됩니다. ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://chs.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173c16dfb652]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 혈액검사(갑상선 기능검사)
+
+갑상선 기능검사에서는 TSH, T4, T3를 측정하며, 상황에 따라 관련된 추가검사를 시행합니다. 이러한 갑상선과 관련된 여러 호르몬 및 검사 항목들을 측정하여 그 변화 양상에 따라 적절한 진단과 치료를 할 수 있습니다. 간혹 갑상선 호르몬 분비에 이상이 있어도 그 정도가 심하지 않은 경우 환자 본인도 증상을 거의 느끼지 못해 진찰만으로는 알기 어려운 경우도 있습니다. 그래서 대부분의 갑상선 질환에 대한 첫 검사에는 갑상선 호르몬의 측정이 포함됩니다. 
+
+통상적으로 젊은 연령이고 다른 질환의 병력이 없는 경우에는 단지 갑상선호르몬만을 측정하게 됩니다. 그러나 고령자이거나 특별히 증상이 심한 경우, 수술을 받아야 하는 경우, 다른 질환이 같이 있는 경우 등에는 혈당의 측정이나 간기능 검사와 같은 일반적인 생화학 검사가 흔히 같이 시행되기도 합니다. 하지만 명심할 것은 혈액검사가 정상이라고 할지라도 갑상선에 아무런 이상이 없다는 것은 아닙니다. 특히 갑상선에 혹이 생긴 경우 갑상선호르몬의 분비에는 별다른 이상이 없는 경우가 대부분입니다.
+
+많은 수의 갑상선질환이 자가면역질환이므로 환자의 혈액 내에 갑상선에 대한 자가항체가 나타납니다. 이러한 자가항체의 측정은 갑상선질환의 원인별 진단을 가능하게 하고, 때론 치료 경과와 환자의 예후를 판정하는 지표가 되기도 합니다. 갑상선암 수술을 한 후에는 핏속의 갑상선글로불린(티로글로불린) 혹은 암의 종류에 따라 칼시토닌 수치를 측정하여 전이 혹은 재발여부를 알아보기도 합니다.
+
+간혹 갑상선과 뇌하수체와의 관계를 알아보기 위하여 뇌하수체를 자극하는 호르몬을 정맥주사하고 주사하기 전과 주사 후 30분 정도의 간격으로 두세 번 채혈하여 검사를 하게 되는 경우도 있습니다. 티알에이치(TRH) 자극시험이라고도 불리는 이 검사는 매우 정확하고 특별한 부작용도 없지만 여러 번 채혈하여야 하는 점이 다소 번거롭기 때문에 몇 가지의 특별한 경우를 제외하면 흔히 시행되지는 않습니다. 그러나 뇌하수체의 이상이 있는 경우에는 갑상선 자체의 이상이 없이도 갑상선 기능에 이상이 나타나므로 이러한 경우에는 티알에이치 자극시험이 도움이 됩니다.
+
+
+
+2. 요검사 
+
+갑상선 질환이 있는 경우 요검사는 제한적으로만 실시하며, 요검사를 통해 소변에 당이나 단백질 같은 것이 나오는지를 보게 됩니다. 그러나 갑상선 질환 자체로 인하여 그런 경우는 별로 없기 때문에 요검사를 시행하는 경우는 처음 환자의 상태를 종합적으로 판단하기 위하여 한 번 정도 시행되는 것이 보통입니다. ]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[갑상선에 대한 혈액검사(갑상선 기능검사)는 시간이나 식사상태와 무관하게 하루 중 아무 때나 혈액을 채취하면 되므로 갑상선 검사만을 위하여 아침식사를 굶을 필요는 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[갑상선 검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2387]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(갑상선 세포검사 및 조직검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2393]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(방사성 요오드 섭취율)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2389]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(양전자방출단층촬영(PET))]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2392]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(전산화단층촬영(CT)과 자기공명영상(MRI))]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2391]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[갑상선 검사(초음파)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2390]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

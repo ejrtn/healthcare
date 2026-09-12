@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[난소 양성 종양]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5697]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 난소는 여성의 생식기관으로 자궁 양측에 위치하며, 난자를 생산하고 여성 호르몬을 분비합니다.
+• 난소에 발생하는 종양은 양성 종양과 악성 종양으로 나눌 수 있으며, 양성 종양은 주로 20~40대 여성에게 발생합니다.
+• 가장 흔한 양성 종양은 기능성 낭종으로, 자연스럽게 없어지는 경우가 많습니다.
+• 특별한 증상이 없는 경우가 많으며, 통증이나 배뇨 및 배변 장애 등이 나타날 수 있습니다.
+• 크기가 커지거나 증상이 심할 경우 초음파, 혈액검사, CT, MRI 등의 검사를 통해 진단하고, 필요 시 수술로 치료합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[난소는 골반 내 자궁의 양측에 위치하며, 난자를 생산하고 여성호르몬을 분비하는 여성의 생식기관입니다. 난소는 월경주기에 맞추어 배란을 일으키고, 난관은 배란된 난자를 수집하고 이송하며, 자궁은 수정된 배아가 착상하여 수태하는 장소를 제공합니다.  난소는 가임기에 지름이 약 3~4 cm이지만, 폐경 후에는 크기가 작아집니다. 경구피임약, 생식샘자극호르몬방출호르몬, 배란 유도제 등 외부적 요인에 의해 난소 기능이 촉진되거나 억제될 수 있고, 난소 크기도 영향을 받을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe957ae67]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe9402ec1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[난소에는 다양한 종양이 생길 수 있는데 크게 암에 해당하는 악성종양과 암이 아닌 양성종양으로 나눌 수 있습니다.
+난소의 양성종양은 대부분 주기적으로 배란을 하는 20~40대 가임기 여성에서 발생하지만, 일부는 소아나 사춘기에 발생하기도 합니다. 난소 양성종양은 구성 세포의 종류에 따라 분류하며, 연령별로 자주 발생하는 양성종양의 종류가 다릅니다.  젊은 연령에서 가장 흔한 양성종양은 기능성 낭종으로 유병률은 15~20%이며, 특별한 치료를 하지 않아도 자연소실되는 경우가 많습니다. 그러나 낭종도 양상에 따라 다른 원인이 의심되거나 고형 종양일 경우, 충분한 의학적 검사가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d21d415668]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[난소 양성종양의 정확한 원인은 아직 밝혀지지 않았지만, 지속적인 배란이나 외부 자극에 의해 상피세포가 난소 내부로 함몰되면서 낭종이 형성되고, 그 안에 액체가 고여 크기가 점점 커진다는 가설이 가장 유력합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d21d47e573]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[난소는 복강 내 비교적 넓은 공간에 위치하므로 직경 7~8 cm 이상으로 커지기 전에는 특별한 증상이 없는 경우가 대부분입니다. 그러나 혹이 아주 크지 않아도 난소가 자궁 주위에서 꼬이면 갑자기 극심한 복통이 발생할 수 있습니다.
+크기가 점점 커지면 주위 장기를 압박하여 다양한 증상을 초래할 수 있습니다. 앞쪽으로 방광을 압박하면 소변을 자주 보는 등 배뇨곤란을 일으킬 수 있고, 뒤쪽으로 직장을 압박하면 변비 등 배변장애가 생길 수 있습니다. 복부가 팽창될 정도로 커지면 복통이나 소화장애를 초래할 수도 있습니다.
+때로는 생리통이나 성교통을 일으키고 난임을 유발할 수도 있습니다. 드물게 낭종이 저절로 파열되면 내용물이 복강 내에 퍼져 복부 전체에 통증을 일으키거나, 출혈이 멈추지 않아 생명이 위태로워지는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[난소 종양은 대부분 자각증상이 없어 정기검진에서 발견되는 경우가 많습니다. 가장 널리 이용되는 난소검진 방법은 골반검진과 더불어 초음파 촬영을 하는 것입니다. 초음파 촬영은 종양의 위치, 크기, 내부 구성 등을 비교적 정확히 평가하여 양성 혹은 악성 가능성을 예측합니다. 초음파검사 상 난소 종양의 파악이 힘들거나, 악성종양이 의심되는 경우에는 컴퓨터단층촬영(computed tomography, CT)이나 자기공명영상(magnetic resonance imaging, MRI) 같은 정밀촬영이 필요할 수 있습니다. 또한, 악성종양에서 상승하는 혈중 종양표지자를 검사하여 난소 종양의 감별진단에 도움을 받을 수 있습니다. 그러나 최종적인 진단은 종양절제술 후 조직검사를 통해서만 정확히 이루어질 수 있습니다.
+
+ 1. 골반신체검사 
+골반신체검사는 산부인과의 기본 진찰 중 하나로 외성기, 질, 자궁경부의 시진과 자궁과 난소에 대한 촉진으로 구성됩니다. 통증 부위를 찾아내고 골반유착을 발견할 수 있으며, 자궁경부세포검사 등 다른 여성기관에 대한 검진도 함께 할 수 있습니다.  그러나 난소 종양의 크기가 작거나 환자가 비만하면 골반촉진이 어려울 수 있고, 난소의 내부 상태를 알기 어려운 단점이 있습니다. 
+2. 초음파검사 
+
+난소를 검진하는 가장 용이한 방법 중 하나로, 복부 초음파와 질 초음파가 있습니다. 복부 초음파는 골반 내 장기와 함께 복부 및 후복막의 구조물도 평가할 수 있지만, 질 초음파와 달리 소변을 참아 방광을 채워야하는 불편이 있고, 난소의 세밀한 구조를 관찰하는 데 정밀도가 떨어집니다. 질 초음파는 난소에 더 가깝게 접근하기 때문에 난소의 세밀한 구조에 대한 고해상도 영상을 얻을 수 있으며, 환자가 소변을 오랫동안 참아야 하는 불편이 없어 산부인과 검진에서 가장 많이 사용됩니다. 
+ 3. 혈액검사 
+혈중 종양표지자란 악성종양에서 상승하는 물질로 난소암에서는 CEA, CA 19-9, CA 125 등이 알려져 있습니다. 초음파 검사상 난소낭종이 여러 개의 공간으로 구성되어 있거나 고형 종양이 공존한다면 혈중 종양표지자를 검사하는 것이 추천됩니다. 그러나 종양표지자는 자궁근종, 자궁내막종, 자궁선근증 등 다른 양성 질환에서도 상승할 수 있으므로 신중하게 해석해야 합니다. 
+4. 기타 검사(CT/ MRI) 
+
+초음파 촬영 및 혈중 종양표지자 검사에서 악성이 의심되거나, 추가적인 골반/복강 내 검사가 필요할 경우 컴퓨터단층촬영(computed tomography, CT) 또는 자기공명영상(magnetic resonance imaging, MRI) 등을 시행할 수 있습니다. CT 또는 MRI를 통해 난소 종양 외에도 골반 및 복강 내 여러 기관과 림프절 등 후복막 내 구조물에 대한 영상을 얻을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d21d772fe2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[양성 난소 종양의 치료 여부는 증상의 유무, 환자의 연령, 종양의 크기, 악성 가능성 등 여러 요소들을 고려하여 결정합니다.  양성 난소 종양의 대부분을 차지하는 작은 기능성 낭종은 치료하지 않아도 자연소실되는 경우가 많아 대개 주기적 관찰만으로도 충분합니다. 하지만 종양이 갑자기 커지거나, 향후 임신에 영향을 주거나 불임의 원인이 될 가능성이 있을 때, 악성의 가능성을 배제할 수 없을 때는 수술로 제거하는 것이 좋습니다. 특히 폐경기 이후 여성에서는 악성종양의 위험이 크게 증가하므로 세심한 주의가 필요하며, 젊은 여성에 비해 적극적으로 처치해야 합니다.
+  1. 보존적 요법 
+젊은 여성에서 단순 기능성 낭종이 발견된 경우, 2~3개월 후 다시 초음파검사를 실시하는 등 주기적 관찰만으로 충분한 경우가 많습니다. 단순 기능성 낭종은 배란억제제인 피임약을 복용하면 더 빨리 소실되기도 합니다. 아직 난소 종양의 예방이나 치료에 아주 효과적인 약물은 없으며, 악성이 의심될 경우에는 종양표지자 등 혈액검사와 더불어 컴퓨터단층촬영(computed tomography, CT), 자기공명영상(magnetic resonance imaging, MRI) 등 추가적 영상 검사가 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수술적 요법 
+수술 방법에는 개복 수술과 내시경을 이용한 복강경 수술이 있습니다. 복강경 수술은 개복 수술에 비해 짧은 입원 기간, 빠른 회복, 적은 합병증, 작은 수술 상처 등 장점이 많아 최근에 많이 시행됩니다. 그러나 악성 종양이 의심되거나 난소 낭종이 매우 큰 경우에는 개복 수술이 더 효과적일 수 있습니다. 과거 제왕절개술, 충수돌기 제거술 등 반복적인 수술로 심한 유착이 예상되는 경우에도 개복 수술이 보다 안전합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17d21d862606]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

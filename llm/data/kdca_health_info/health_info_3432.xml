@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[심초음파검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[3432]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[초음파란 사람이 들을 수 있는 소리의 한계 주파수를 넘어선 음파를 의미하며, 방향성을 갖고 전달되며 물체에 반사되는 특징이 있습니다. 
+
+이러한 초음파의 특성을 이용하여 심장의 모습을 살펴보는 검사가 심초음파검사입니다. 
+
+즉, 심초음파검사란 심장에 초음파를 보내어 반사되어 돌아오는 초음파를 분석하여 영상을 만들어서 심장의 형태적인 구조와 기능을 평가하는  기법을 말합니다.
+
+이 검사는 몸속으로 기구를 삽입하지 않고도 심장의 내부 구조, 심장의 기능 및 움직임을 눈으로 직접 볼 수 있고, 통증이나 위험성이 없어 반복해서 할 수 있는 편리한 검사입니다. 또한, X-선 촬영이나 방사선 동위원소 검사처럼 방사선에 노출될 염려가 없으므로 임신부나 어린이도 안심하고 검사할 수 있습니다. 
+
+하지만 초음파는 공기, 지방, 뼈 등은 잘 투과하지 못하는 특수성 때문에 비만 환자나 폐 질환이 있는 환자는 좋은 영상을 얻을 수 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 심장의 크기와 기능의 평가 
+심장의 심방과 심실의 크기 측정이 가능하며, 심장의 펌프로서의 기능(좌심실의 수축기능)과 심장 내로 혈액을 받아들이는 기능(좌심실의 이완 기능)을 평가할 수 있으며, 이는 심장질환의 평가와 치료에 매우 중요합니다.
+
+2) 심장벽의 두께 평가 
+심장벽의 두께를 직접 측정할 수 있어 심실비대나 심근병증 등을 쉽게 진단할 수 있으며, 환자의 생존율과 예후 등을 평가할 수 있습니다. 
+ 3) 심장 판막의 평가 
+심장 내의 판막의 형태와 혈류역학적인 정보를 알 수 있어, 초음파 검사만으로도 판막 질환의 원인과 심한 정도를 평가할 수 있습니다.
+4) 허혈성 심질환의 평가 
+허혈성 심질환에서는 심장의 국소적인 심장벽의 움직임 장애를 확인할 수 있으며, 특히 사망률이 높은 심근경색의 감별진단에서 중요한 역할을 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 이면성(2 dimensional; 2D) 심초음파
+부채꼴 모양으로 초음파를 발사한 다음, 여러 부위에서 돌아오는 초음파의 강도를 점(dot)들로 배열하여 실시간으로 이면성 평면 영상을 얻는 기법을 말합니다. 심방과 심실, 혈관의 크기와 기능, 판막의 형태학적인 평가를 할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cb317]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 삼면성(3 dimensional; 3D) 심초음파 
+최근 3D입체영상이 가능한 최신 심장 초음파장비가 도입되어 일반 심초음파 검사보다 정확한 진단에 도움을 주고 있습니다.
+ 
+3. M형(motion mode) 심초음파 
+일직선으로 초음파를 보내며, 그 선상에 놓여 있는 조직에서 반사되는 초음파를 심장의 주기에 따라 연속적으로 기록합니다. 주로 각 구조물의 두께와 깊이 등을 측정하는 데 유용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cb3e8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 도플러(Doppler) 심초음파 
+도플러 효과란 소리를 발생하는 음원이 소리를 듣는 관찰자로부터 멀어질 때 소리의 주파수가 감소하고 가까워질 때 증가하는 현상으로, 사이렌을 울리며 달려오는 구급차의 사이렌 소리가 높게 들리다가 지나가면 소리가 낮아지는 현상이 도플러 효과에 의한 것입니다. 도플러 현상을 이용한 것이 도플러 심초음파인데, 우리의 심장 내 혈액의 이동 속도에 따른 주파수 변화를 기록하여 혈류 속도를 측정할 수 있습니다. 이를 이용하여 혈류역학적인 정보, 심박출량, 혈류량, 판막의 면적 및 심장 내 압력 등을 측정할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cb1a5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 간헐파형(pulsed wave) 도플러 
+심장 내부의 일정한 한 부위의 속도에 따른 측정값을 나타내는 영상 
+2) 연속파형(continuous wave) 도플러 
+ 심장 내부의 일정한 선을 따라 속도에 따른 측정값을 나타내는 영상 
+ 3) 색 도플러(Color flow mapping) 
+ 혈류의 방향, 속도에 따라서 색으로 표시되는 영상
+
+5. 기타 심초음파의 기법 
+ 1) 경흉부(transthoracic) 심초음파와 경식도(transesophageal) 심초음파 
+두 초음파의 원리는 같지만, 경흉부 심초음파(일반적인 심초음파)는 피검사자의 앞가슴에 탐촉자를 위치하여 검사하는 방식이며, 경식도 심초음파는 내시경을 시행하는 방법과 같이 식도 내로 탐촉자를 삽입하여 심장을 검사하는 방식입니다. 
+일반적으로, 경흉부 심초음파 검사에서 얻은 정보가 불충분하거나, 더 자세한 영상 정보가 필요한 경우에 경식도 심초음파 검사를 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cb266]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 조영 심초음파 검사 
+특수하게 제작된 조영제(미세기포)를 사용하여 심장 초음파를 시행하여 심장 내 구조물과 혈액 내 구조물 등을 구분하여 심장내 구조 이상, 심장의 기능 평가, 관류 상태 등을 더 정확히 확인 할 수 있는 검사입니다. 
+
+3) 부하(스트레스) 심초음파 검사 
+
+허혈성 심질환이 있어도 안정 시에는 심장 기능이 정상인 경우가 많아서, 운동하거나 약물을 이용하여 심장에 스트레스를 준 상태에서 심장 기능을 측정하여 허혈성 심질환을 진단하는 데 사용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 경흉부 심초음파 검사(일반적인 심초음파 검사) 
+
+1) 검사 전 준비 
+금식이나 사전에 처치를 할 필요가 없습니다. 검사는 통증이나 위험이 없으며 편안히 누워있는 상태에서 진행하게 됩니다.
+
+2) 검사 과정 
+검사는 조용하고 어두운 방에서 시행됩니다. 
+상의를 벗은 상태에서 가슴에 심전도 전극을 부착한 후 선명한 초음파 영상을 얻기 위해 탐촉자에 젤리를 묻힌 상태로 시행하게 됩니다. 통증은 없지만 울거나 움직이면 초음파 영상을 얻기 어려우므로 어린이 환자에서는 진정제나 수면제를 투여한 후 자는 상태에서 검사를 시행하기도 합니다. 좋은 영상을 얻기 위해 검사 중 잠시 숨을 들이마신 후 참아야 할 때도 있으며, 검사 시간은 보통 20~30분 정도 소요되며 검사 결과는 바로 알 수 있습니다. 
+
+2. 경식도 심초음파 검사(내시경 심초음파 검사) 
+경식도 심초음파는 식도를 통해 심초음파를 실시하는 것으로 식도와 심장 부위가 해부학적으로 근접하여 심장의 형태학적 구조를 구체적으로 보여 줄 수 있습니다. 또한 경흉부 초음파보다 훨씬 선명한 영상을 얻을 수 있습니다. 
+
+1) 검사 전 준비 
+˚ 검사하기 6시간 전부터 음식과 음료수를 드시지 마십시오. 
+˚ 특정 약이나 진정제에 대한 부작용이 있다면 미리 의사에게 말씀하여 주십시오. 
+˚ 연하곤란(삼키기 어려움)이 있다면 미리 의사에게 말씀하여 주십시오. 
+
+2) 검사 과정 
+˚ 검사를 받기 위해서 가운으로 갈아 입고 검사실로 들어갑니다. 
+˚ 검사 전 틀니, 안경, 콘택트렌즈, 의안 등을 빼서 안전한 곳에 보관합니다. 
+˚ 목의 감각을 둔하게 하기 위해서 마취제를 입에 뿌리거나 삼키게 됩니다.
+˚ 필요한 경우 긴장을 풀어주기 위해서 정맥으로 진정제를 맞게 됩니다. 
+˚ 의사가 기구를 입안에 넣게 되며, 식도를 통하여 검사를 진행합니다. 
+˚ 입안에 고인 분비물은 삼키지 말고 입 밖으로 흘려보냅니다. 
+˚ 기구가 삽입되는 동안은 위내시경과 같이 다소 불편을 느낄 수 있습니다. 
+˚ 소요시간은 약 20~30분입니다. 
+
+3) 검사 후 주의사항 
+˚ 목의 감각이 회복될 때까지는 음식물을 섭취하면 안됩니다.    
+
+
+3. 부하(스트레스) 심초음파 검사(운동, 약물) 
+부하(스트레스) 심초음파 검사는 운동이나 약물주입을 통해 심장에 스트레스를 줌으로써 심근 허혈을 유발하여 협심증과 같은 허혈성 심질환을 진단하는 유용한 검사입니다. 단, 심근 허혈을 유발하기 때문에 위험성이 있으나 모니터링과 표준화된 검사 방법과 순서에 따라 시행하므로 비교적 안전하게 시행할 수 있습니다.
+
+
+1) 검사 전 준비 
+˚ 검사하기 6시간 전에 음식과 음료수를 드시지 마십시오. 
+˚ 운동 부하 심초음파 검사의 경우에는 편한 운동화를 준비하는 게 좋습니다. 
+˚ 특정 약이나 진정제에 대한 부작용이 있다면 미리 의사에게 말씀하여 주십시오. 
+
+2) 검사 과정 
+ ˚ 검사를 받기 위해서 가운으로 갈아 입고 검사실로 들어갑니다. 
+˚ 검사 전 틀니, 안경, 콘택트렌즈, 의안 등을 빼서 안전한 곳에 보관합니다.
+ ˚ 검사 도중 가슴에 통증을 느끼거나 호흡이 곤란한 등의 이상이 있을 때는 즉시 검사자에게 알려야 합니다. 
+˚ 소요 시간은 약 30~40분입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[각종 심장 질환에서 심초음파 소견 
+
+ 1. 판막질환 
+심장 내에는 혈액의 역류 방지를 위해서 4개의 판막이 존재하며, 우심방과 우심실 사이에 삼첨판막, 우심실과 폐동맥 사이에는 폐동맥 판막, 심장의 좌심방과 좌심실 사이에 승모판막과 좌심실과 대동맥 사이에 대동맥판막이 존재합니다.
+
+
+1) 승모판 협착증 
+승모판의 비후, 석회화, 유착 등이 관찰되며 판막이 정상적으로 열리지 않아 혈류 장애가 발생합니다. 
+2) 승모판 폐쇄부전증(역류증) 
+승모판막의 형태학적 이상소견이 관찰되며 좌심실에서 좌심방으로 역류하는 혈류가 관찰됩니다. 
+3) 대동맥 판막 협착증 
+대동맥판막의 비후, 석회화 등의 이상소견이 관찰되며 그로 인하여 판막이 정상적으로 열리지 않고 혈류장애가 관찰됩니다. 
+4) 대동맥판 폐쇄부전증(역류증) 
+대동맥판막의 형태학적 이상소견이 관찰되며 대동맥에서 좌심실로 역류하는 혈류가 관찰됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cb4a9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 허혈성 심질환 
+ 허혈성 심질환이란 심장으로 혈액 공급을 담당하는 관상동맥의 이상으로 충분한 혈액 공급이 되지 않아 심장의 기능이 떨어지는 질환입니다. 흔히 협심증, 심근경색 등이 허혈성 심질환에 해당합니다. 질환이 발생한 관상동맥의 위치에 따라서 심초음파에서 국소적인 벽운동 장애가 관찰됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cb703]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cb571]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 심근증 
+ 심근증은 심장 근육에 문제가 생겨 심실 기능이 저하되거나 심실 벽의 두께가 증가하는 질환입니다. 심초음파는 심근증의 진단에 중요한 역할을 하며 치료에 도움을 주는 검사 방법입니다.
+ 
+4. 기타 심초음파 소견 
+ 심장을 싸고 있는 심장막이 두꺼워지거나, 삼출액이나 염증이 있는 경우 쉽게 진단이 가능합니다. 또한, 심장 내에 혈전이나 종양이 발생한 경우 심초음파를 통해 쉽게 진단할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cb642]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[성인에서 흔히 발견되는 선천성 심질환인 심방중격결손이나 심실중격결손을 진단할 수 있으며, 질환의 진행 정도나 치료 방향 결정에 중요한 정보를 제공합니다]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[246]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 일반적인 초음파 검사와 심초음파 검사는 뭐가 다른가요?
+
+A. 복부나 경부 초음파, 산부인과나 비뇨기과 초음파나 혈관 초음파 검사 등 초음파는 의학 전반에 걸쳐 유용하게 사용되고 있습니다. 이러한 일반적인 초음파(ultrasound) 검사와는 다르게 심초음파(echocardiography) 검사는 심장이라는 움직이는 구조를 본다는 점에 우선 다릅니다. 다른 구조들도 움직이긴 하지만 분당 60~100회 수축과 이완을 반복하는 심장의 움직임을 정확히 관찰하기 위해서는 해상도와 성능이 뛰어난 기계를 필요로 합니다. 또한, 심초음파 검사는 일반 초음파 검사들과 다르게 도플러 등을 이용하여 심장내의 용적과 압력 등을 측정함으로써 심장의 기능을 평가한다는 점도 다릅니다.
+
+Q. 경식도(내시경) 심초음파 검사는 왜 하나요?
+
+A. 일반적인 심초음파에서는 앞가슴의 갈비뼈 사이 공간을 통해 탐촉자를 대고 보는 이유로 폐가 안 좋다거나 근육이나 지방이 많은 분들에서는 좋은 영상을 얻을 수 없습니다. 또, 심장의 뒷부분에 위치하는 좌심방과 대동맥이나 승모 판막, 심방중격은 잘 볼 수 없을 때도 많습니다. 특히 뇌경색 환자들에서는 좌심방과 좌심방이라고 불리는 부위에 혈전이 원인이 되는 경우가 많습니다. 이런 경우 식도를 통해 탐촉자를 넣어서 식도 바로 앞의 좌심방과 좌심방이를 관찰하면 혈전이 있는지 알아낼 수 있습니다. 같은 이유로 심장의 판막질환이나 감염성 심내막염이 의심되는 경우도 관찰이 편리합니다.
+
+Q. 부하(스트레스) 심초음파 검사는 위험하지 않나요?
+
+A. 부하(스트레스) 심초음파는 심장에 스트레스를 주어서 심장 근육 내에 혈액공급이 원활하게 되지 않는 심근허혈을 진단하는 검사로 피검사자 자신이 운동을 하거나, 약물을 사용하는 검사입니다. 당연히 위험성을 수반하는 검사지만, 검사 도중 피검사자의 증상을 바로 볼 수 있고, 혈압측정, 심전도 모니터링과 함께 심초음파를 통한 벽운동을 실시간으로 보기 때문에 그 위험성을 줄일 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

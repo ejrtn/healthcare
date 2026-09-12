@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[안외상(각막찰과상)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1362]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 각막은 눈의 앞쪽을 덮는 투명한 조직으로, 빛을 굴절시켜 망막에 상을 맺게 하는 역할을 합니다.
+• 각막찰과상은 외상으로 각막 표면의 상피가 긁히거나 벗겨지는 손상을 의미합니다.
+• 주요 증상은 심한 통증, 눈부심, 이물감, 눈물흘림과 함께 충혈과 눈꺼풀 부종이 나타날 수 있습니다.
+• 진단은 외상 여부 확인과 세극등 검사로 상처의 위치와 깊이를 평가하여 이루어집니다.
+• 치료는 항생제 점안과 필요 시 안대나 치료용 렌즈를 사용하며, 감염 시 각막궤양이나 재발성 각막 미란을 예방하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[각막이란 안구의 앞쪽을 덮는 혈관이 없는 투명한 층으로 눈에 들어온 빛을 굴절시켜 망막에 상을 맺게 하는 창문과 같은 역할을 하는 조직입니다. 상피, 보우만층, 각막간질, 데스메막, 내피층의 5개의 층으로 구성되어 있는데, 각막표면, 즉 각막 상피가 외상으로 인해 긁혀서 벗겨지는 손상을 각막찰과상이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심한 통증이 있는 경우가 많으며 눈부심, 이물감, 눈물흘림, 눈 깜빡일 때 불편감 등을 호소하기도 합니다. 결막 충혈과 안검 부종 등도 함께 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 문진 
+각막찰과상은 눈을 심하게 비비거나 어떤 물체에 긁힌 적이 있는지 혹은 콘택트렌즈의 착용 유무를 확인합니다. 식물(나뭇가지 등)이나 손톱에 의한 경우라면 예후가 좋지 않을 수도 있습니다. 
+
+2. 안과 검사
+세극등 검사를 통해 염색약으로 염색이 되는지, 상처의 크기와 깊이 등을 관찰하며 심한 염증이나 각막의 관통이 없는지 관찰합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 항생제 점안 
+액체 혹은 연고로 된 안약을 상처가 생긴 눈에 점안합니다. 항생제의 종류와 횟수 등은 어떤 물체에 의해 상처가 생겼는지와 상처가 생긴 정도, 콘택트렌즈 사용 유무 등에 따라 달라질 수 있으므로 반드시 안과 전문의와 상의해야 합니다. 손상 정도가 심하거나 상처가 지저분하다면 먼저 배양검사를 시행한 후 항생제를 사용하기도 합니다. 
+
+2. 압박 안대나 치료용 렌즈의 착용
+안대를 붙이는 것이 반드시 필요하지는 않으나, 식물이나 손톱에 의한 상처가 아닌 경우에는 상황에 따라 안대로 가려주는 것이 상처 치유나 통증 조절에 도움이 될 수 있습니다. 
+
+3. 소염제 
+필요에 따라 통증이 심한 경우에 한하여 다른 안과 질환이 없다면 고려해 볼 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 각막궤양 
+상처가 생겼을 때 세균이나 곰팡이 감염 등으로 인하여 각막이 녹고 파이는 궤양이 발생할 수도 있습니다. 이에 대비해 식물이나 손톱 등에 의해 상처가 생긴 경우 먼저 배양 검사 후 항생제를 사용하기도 하며, 이때 대개의 경우 안대나 치료용 콘택트렌즈 등은 사용하지 않습니다.
+
+2. 재발성 각막 미란 
+상처가 생긴 이후 상당 기간이 지난 후 특별히 각막에 손상을 주지 않더라도 갑자기 각막 찰과상이 발생할 수 있으며 이를 재발성 각막 미란이라고 합니다. 각막이 상처를 받았을 때 상피의 바닥막이 손상받게 되면 상피와 실질 사이의 부착력이 떨어져 상피가 재생되더라도 반복적으로 각막 미란이 재발할 수 있습니다. 이 경우 치료용 콘택트렌즈 및 인공눈물 등의 처방이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[안외상(각막이물)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1404]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(각막화상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1381]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(안와골절)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1382]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 망막박리)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1402]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 백내장 및 수정체 이탈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1403]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(전방출혈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1361]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(천공 외상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1401]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

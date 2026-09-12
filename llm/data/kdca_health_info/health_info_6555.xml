@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[강직척추염]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6555]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 강직척추염은 주로 척추와 엉덩이 관절에 염증을 일으키며, 시간이 지나면서 척추뼈들이 융합되어 움직임이 제한될 수 있는 만성 질환입니다.
+• 이 질환은 주로 10대 후반에서 30대 초반 사이에 발병하며, 남성에게 더 흔합니다.
+• 특징적인 증상과 함께 단순 X-선 검사와 자기공명영상(MRI)을 통해 진단하며, 조기 진단이 중요합니다.
+• 치료로는 주로 비스테로이드성 소염제, 생물학적 제제, JAK 억제제 등을 투여하며, 운동과 같은 비약물적 요법도 중요합니다.
+• 정기적인 진찰과 관리로 증상을 완화하고 질병의 진행을 늦출 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[강직척추염(Ankylosing Spondylitis, AS)은 면역 이상으로 인해 척추(엉덩이 골반관절 포함)를 비롯해 관절, 눈, 피부, 장 등에 염증이 발생하는 전신 질환입니다. 주로 척추와 엉덩이 관절을 침범하며, 시간이 지나면서 척추뼈들이 서로 융합되어 강직이 발생할 수 있습니다. 강직이 생기면 허리와 목의 움직임이 제한되고, 심한 경우 허리가 굽는 자세 변형이 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[염증성 허리통증이 있는 환자가 단순 X-선 검사에서 엉치엉덩관절(천장관절)손상이 보이면 강직척추염으로 정의합니다. 최근에는 초기 단계에 X-선으로 천장관절 손상이 보이지 않아도, 자기공명영상에서 천장관절의 구조적 손상 이전에 발생하는 염증 소견을 찾아내 조기 진단할 수 있는데, 이때는 '강직'이라는 용어가 적합하지 않아 축성 척추관절염(Axial Spondyloarthritis)이라고 합니다. 축성 척추관절염은 비방사선학적(초기 단계로 X-선에서 손상이 보이지 않으나, 자기공명영상에서 염증 소견이 확인됨)과 방사선학적(진행된 단계로 X-선에서 뼈의 손상과 척추 강직이 명확하게 보임) 등 두 가지 유형으로 구분합니다. 따라서 강직척추염은 축성 척추관절염이 진행해 천장관절에 구조적 손상이 발생한 형태를 말합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1951691ad6b8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[국제척추관절염연구회(The Assessment of SpondyloArthritis International Society, ASAS) 분류에 따르면, 환자가 호소하는 주 증상 부위가 척추인지 말초 관절인지에 따라 축성 척추관절염과 말초 척추관절염으로 나뉩니다. 
+축성 척추관절염의 기준은 45세 이전에 발병해 3개월 이상 허리 통증이 있는 것입니다. 분류 기준은 크게 두 가지로 나뉩니다. 첫째, 자기공명영상이나 X-선에서 천장관절염 소견이 나타나면 특징적인 임상 증상이 하나 이상 있으면 됩니다. 둘째, HLA-B27 유전자가 양성이라면 특징적인 임상 증상이 두 가지 이상 있어야 합니다. 특징적인 임상 증상이란 염증성 요통, 관절염, 부착부염, 포도막염, 손가락염, 건선, 염증성 장질환, 척추관절염의 가족력, 비스테로이드성 소염제에 대한 좋은 반응, C-반응단백 수치 상승 등입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=193668db5544]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[말초 척추관절염(Peripheral Spondyloarthritis)은 관절염, 부착부염(힘줄이 뼈에 부착되는 부위의 염증), 손발가락염(손가락이나 발가락이 부어오르는 증상)이 있으면서 임상적 특징이나 유전적 소견이 동반된 경우를 말합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=193668e8e077]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이러한 기준은 연구와 치료를 분류 목적으로 사용되며, 정확한 진단과 치료는 반드시 전문의의 판단에 따라 이루어져야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[강직척추염은 주로 유전적 요인과 면역 체계의 이상 반응으로 인해 발생합니다. 가장 중요한 유전적 요인은 HLA-B27 유전자입니다. HLA-B27 양성인 사람은 강직척추염에 걸릴 확률이 높습니다. 그러나 이 유전자만으로 질환이 발생하는 것은 아니며, 감염, 환경적 요인 등이 복합적으로 작용해 면역계가 척추와 관절에 염증을 일으키는 것으로 추정됩니다. 염증이 지속되면 척추뼈가 서로 융합되어 굳어지는 특징적인 변화가 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[강직척추염의 경과와 예후는 개인마다 다르지만, 대개 점진적, 만성적으로 진행합니다. 초기에는 허리와 엉덩이 부위에 지속적인 통증과 강직감이 나타납니다. 염증이 지속되면 척추의 이동 범위가 제한되고, 척추뼈가 서로 융합될 수 있습니다. 이로 인해 자세가 굽거나 움직임이 더 어려워집니다. 또한 눈(포도막염), 피부, 장(염증성 장질환) 등 다른 기관에도 염증이 발생할 수 있습니다. 예후는 치료에 대한 반응, 초기 관리 정도, 환자의 전반적인 건강 상태에 따라 달라지지만 조기에 진단해 적절히 치료하면 삶의 질을 향상하고, 중증 합병증을 예방할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 유전적 요인 
+1)	HLA-B27 유전자: HLA-B27은 면역 반응과 관련된 유전자로, 이 유전자를 가진 사람은 강직척추염에 걸릴 확률이 높습니다. 그러나 HLA-B27 양성자 중 실제로 강직척추염에 걸리는 사람은 일부에 불과하기 때문에, 다른 유전적 및 환경적 요인이 질병 발병에 관여하는 것으로 추정합니다. 
+
+2. 면역 반응의 이상 
+1)	자가면역 반응: 강직척추염에서는 면역계가 자기 자신의 척추, 천장관절, 기타 관절 및 근육힘줄뼈 부착부위를 공격합니다. 
+2)	염증성 사이토카인: 병리학적 변화의 주요 원인은 종양괴사인자 알파(TNF-α), 인터루킨-17(IL-17)과 같은 사이토카인이 염증 반응을 일으키는 것입니다. 
+
+3. 골형성의 이상 
+1)	이소골화: 염증이 지속되면 손상된 근육힘줄뼈 부착부위에 새로운 뼈가 형성될 수 있습니다. 더 시간이 지나면 뼈가 서로 융합(강직)되어 척추가 점차 유연성을 잃고 굳습니다. 
+2)	관절강직(Ankylosis): 척추뼈 사이의 관절 공간이 좁아지고, 새로운 뼈가 형성되어 척추의 움직임이 제한됩니다. 결국 척추가 하나의 단단한 뼈처럼 되어 '대나무 척추'라고 불리는 전형적인 모습이 나타날 수 있습니다. 
+
+4. 전신적인 영향 
+1)	포도막염: 강직척추염 환자의 상당수는 눈의 포도막에 염증이 생길 수 있습니다. 
+2)	장염: 염증성 장질환(크론병, 궤양성 대장염)과도 관련이 있습니다. 
+3)	심혈관계 합병증: 일부 환자는 대동맥판 기능부전이나 심혈관계 질환과 같은 합병증을 겪을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[강직척추염은 보통 10~20대에 시작되며, 남성에서 여성보다 2~3배 더 흔합니다. 북유럽과 북미 지역 유병률이 상대적으로 높고(약 0.5%~1.4%), 아시아와 아프리카 지역에서는 HLA-B27 유전자 보유율이 낮아 상대적으로 유병률이 낮습니다. 우리나라의 강직척추염 유병률은 정확한 연구가 없으나, 심평원 자료를 기준으로 약 0.06~0.1%로 추정되며, 최근 높아지는 추세입니다. 환자의 90%가 HLA-B27 유전자 양성을 보이므로 진단에 도움이 되지만, HLA-B27 유전자 양성인 사람 중 약 1~2%만 강직척추염이 발생하므로, 이 유전자의 유무가 질환을 진단하고 예측하는 데 결정적인 것은 아닙니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1.	염증성 허리통증  
+첫 증상은 특징적인 허리통증입니다. 허리통증의 주요 특징은 40세 이전에 시작되고, 3개월 이상 지속되며, 아침에 뻣뻣하고(조조강직), 운동으로 통증이 호전되는 반면 휴식 시에는 악화되는 경향이 있습니다. 통증이 심해 새벽에 잠을 깨기도 합니다. 종종 디스크 문제나 단순 근육통으로 오인될 수 있어 세심한 감별 진단이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1951693c3872]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 말초 관절 및 근육힘줄뼈 부착부위 증상  
+척추 외에도 무릎, 발목, 발가락 등의 말초 관절염이 자주 생기며, 아킬레스건염이나 족저근막염 같은 근육힘줄뼈 부착부염도 흔합니다. 힘줄이나 인대가 뼈에 부착되는 부위에 염증이 생기는 것은 강직척추염의 특징입니다. 특히 아킬레스건염이 발생하면 뒤꿈치가 붉게 부어오르고 통증이 심해져 걷기가 어려울 수 있습니다.  
+
+3. 관절 외 증상  
+강직척추염은 척추와 관절 외에도 전신을 침범하는 질환으로, 다양한 관절 외 증상이 동반될 수 있습니다. 주요 관절 외 증상은 포도막염(눈의 염증으로 인해 통증, 발적, 시력 저하를 유발), 염증성 장질환(크론병, 궤양성 대장염 등으로 인한 복통, 설사 등), 심혈관계 합병증(대동맥판 기능부전, 심장판막질환 등)입니다. 이 외에도 건선, 골다공증 등이 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1936694cf5d5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[강직척추염 진단 및 질병진행 상태 평가를 위한 신체 진찰과 검사는 다음과 같습니다.
+ 
+1. 신체 진찰
+1)	쇼버(Schober) 검사는 허리뼈의 유연성을 평가하는 주요 방법으로, 환자가 허리를 구부릴 때 척추의 움직임 범위를 측정합니다(그림 신체진찰-A). 척추 측굴 검사(Spinal Lateral Flexion)는 척추의 측면 유연성을 평가하는 방법으로, 서 있는 상태에서 몸을 옆으로 구부리게 해 척추의 움직임을 확인합니다(그림 신체진찰-B). 유연성이 떨어진다면 강직척추염의 증상일 수 있습니다. 
+2)	흉곽 팽창능 검사는 흉곽의 팽창 제한을 확인하는 방법으로, 숨을 깊이 들이쉴 때와 내쉴 때 가슴 둘레의 차이를 측정합니다(그림 신체진찰-C). 이 차이가 적다면 흉곽의 유연성이 감소한 것으로 볼 수 있습니다.
+3)	복사뼈 간 거리 검사(Intermalleolar Distance Test)는 엉덩이 관절의 유연성을 평가하는 방법으로, 두 다리를 벌린 상태에서 복사뼈 사이의 거리를 측정합니다(그림 신체진찰-D). 이 거리가 좁으면 엉덩이 관절의 운동이 제한된 것으로 볼 수 있습니다.
+4)	후두에서 벽의 거리 검사(그림 신체진찰-E) 및 경추 회전 검사(그림 신체진찰-F)는 경추의 유연성과 회전 범위를 평가하는 방법입니다. 이들 검사 결과가 비정상이라면 경추의 침범을 의심할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=193669696768]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 영상 검사
+강직척추염이 의심되면 먼저 단순 X-선 촬영으로 천장관절과 척추의 병변을 확인합니다. 천장관절염의 소견으로는 연골밑뼈의 경화, 골미란, 관절 간격의 변화 등이 있으며(그림 영상검사-A), 질환이 진행되면 천장관절이 융합되고 뼈인대 골극, 대나무 척추 등의 소견이 나타날 수 있습니다(그림 영상검사-B). 초기에는 X-선에서 이상 소견이 보이지 않을 수 있는데, 이때는 자기공명영상으로 골수부종(염증)을 확인할 수 있어 초기 진단에 필수적입니다(그림 영상검사-C).]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=195169595875]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 혈액 검사
+강직척추염 환자의 90%에서 HLA-B27 유전자가 양성이므로 혈액 검사를 통해 확인할 수 있습니다. C-반응단백 등 염증 수치 상승, 경도의 빈혈, IgA 수치 상승 등의 소견도 나타날 수 있습니다. 장기적인 약물치료가 필요하므로 간 및 신장 기능 등 기본 혈액 검사를 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[강직척추염의 치료는 운동 치료, 약물 치료, 수술 치료로 나뉩니다. 최근에는 조기 진단으로 수술까지 가는 경우가 드뭅니다. 치료의 핵심은 환자의 운동과 전문가(류마티스내과 전문의)의 관리이며, 두 가지를 병행할 때 최상의 효과를 기대할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 비스테로이드성 소염제 
+비스테로이드성 소염제는 강직성 척추염 치료의 기본 약물로, 통증을 줄이고 운동성을 개선합니다. 질병 활성이 지속되는 환자도 꾸준히 복용하면 척추 변형을 늦출 수 있다는 보고도 있습니다. 보통 2주 정도 복용하면 약물의 효과를 판단할 수 있습니다. 두 종류의 비스테로이드성 소염제에 치료 반응이 없을 경우 생물학적 제제 등 다음 단계의 치료를 고려합니다. 
+
+2. 생물학적 제제와 JAK 억제제 
+생물학적 제제는 소염진통제와 운동 요법으로 효과를 보지 못하고 염증이 지속되는 환자에게 사용합니다. 주요 약제는 tumor necrosis factor(TNF) 차단제와 interleukin(IL)-17 차단제로, 두 약물의 효과와 안전성은 유사합니다. 정맥주사와 자가 피하주사 등 다양한 투여 방법이 있으며, 환자의 상태와 부작용을 고려해 적절한 약제를 선택합니다. 대개 주사 후 12~16주에 치료 반응을 평가하며, 관절 변형을 지연시키는 효과가 꾸준히 보고되고 있습니다. 
+JAK 억제제는 Janus kinase(JAK) 신호 경로를 차단해 염증을 억제하는 새로운 치료제로, 면역 반응을 조절하는 데 중요한 역할을 합니다. 이 약물은 주사가 아닌 먹는 약으로, 여러 임상 연구에서 강직성 척추염 환자의 염증을 줄이고 통증을 완화하는 것으로 보고되었습니다. 
+
+3. 항류마티스 제제와 스테로이드 
+항류마티스 제제와 스테로이드는 생물학적 제제가 도입되기 전에 사용했던 약물입니다. 이 중 메토트렉세이트는 강직척추염에서 치료 효과가 입증되지 않았고, 설파살라진은 말초 관절염이 동반된 경우에만 효과가 있습니다. 스테로이드는 먹는 약이나 혈관 주사로 권장되지 않으며, 말초 관절염 또는 천장관절염이 있을 때 관절 내 주사 치료에 사용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[강직척추염에서 운동은 매우 중요합니다. 운동의 주요 목적은 통증을 줄이고 올바른 관절 자세를 유지해 척추를 포함한 모든 관절의 충분한 가동성을 유지하는 것입니다. 스트레칭 같은 관절 가동 운동뿐 아니라 유산소 운동과 근력 운동을 실시하는 것이 좋습니다. 특히 척추 운동은 매일 꾸준히 할 것을 권장합니다. 하지만 척추관절 융합(대나무 척추)이 진행한 경우에는 무리한 운동이 오히려 통증을 악화시킬 수 있으므로, 환자의 상태에 따라 운동을 적절히 조절해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=195169f09ec2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[정기 진찰은 질환의 진행 상태를 모니터링하고, 치료 효과를 평가하며, 합병증을 예방하는 데 중요합니다. 정기적으로 척추와 관절의 유연성, 운동 범위, 통증을 평가하고, 염증 수치 등 혈액 검사를 시행합니다. 또한, 약물 부작용을 모니터링하고 생활습관을 점검하며, 필요 시 영상검사를 통해 척추와 관절의 상태를 평가합니다. 환자마다 질병의 활성도와 관절 변형이 다르기 때문에 정기 진찰의 시기와 내용은 전문의의 의견을 따르는 것이 좋습니다. 이런 노력을 통해 증상 악화를 막고, 환자의 삶의 질을 향상할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[강직척추염의 주요 합병증 중 하나는 척추뼈 사이의 관절이 융합되어 척추가 단단하고 유연성 없는 상태로 변한 대나무 척추(bamboo spine)입니다. 이렇게 되면 척추의 움직임이 심하게 제한됩니다. 그 외 합병증으로 포도막염(눈의 염증으로 인한 통증, 발적, 시력 저하), 심혈관계 질환(대동맥판막 기능 부전, 심장판막 질환 등), 염증성 장질환(크론병이나 궤양성 대장염), 골다공증(골밀도 감소로 인한 골절 위험 증가), 척추 골절(척추의 약화로 인한 골절 및 신경 손상 위험), 신장 질환(면역글로불린 A 신염, 아밀로이드증) 등이 있습니다.
+합병증은 강직척추염이 진행할 때 나타날 수 있으며, 정기적인 진찰과 적절한 관리를 통해 예방 및 관리하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[강직척추염의 위험요인은 유전적 요인(특히 HLA-B27 유전자), 연령(10대 후반에서 30대 초반), 성별(남성), 가족 중 강직척추염 환자가 있는 경우 등입니다. 예방 방법은 명확하지 않지만, 발병 후 조기 진단과 꾸준한 운동, 금연, 건강한 생활습관을 유지하는 것이 증상 악화와 합병증 예방에 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[강직척추염의 생활습관 관리는 증상 완화와 질병 진행 억제에 중요합니다. 주요 관리 방법은 꾸준한 스트레칭과 유산소 운동을 통해 관절 유연성을 유지하는 것, 금연을 통한 염증 악화 방지, 규칙적인 수면과 올바른 자세 유지 등입니다. 안전한 생활환경을 조성해 척추 골절 위험을 줄이는 것도 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[지원체계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[119]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[특징적인 척추와 말초 관절 증상, 전형적인 영상 소견 및 혈액검사를 통해 확진된 환자가 중증난치질환 산정특례 기준에 해당하는 경우, 산정특례 등록을 통해 의료비 지원을 받을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. HLA-B27이 양성이면 강직척추염인가요? 
+
+A. 환자의 90%에서 HLA-B27 유전자가 양성이기 때문에 진단에 도움이 됩니다. 그러나 HLA-B27 유전자를 양성인 사람 중 약 1~2%만 강직척추염을 발병하기 때문에, 이 유전자의 존재만으로 질환을 진단하거나 예측할 수는 없습니다.
+
+Q. 환자가 강직척추염이면 자녀도 질병에 걸리나요? 
+
+A. 부모가 강직척추염을 겪는다면 자녀에게 질병이 발병할 확률이 높아지지만, 모든 자녀에게 나타나는 것은 아니며 약 10% 정도만 강직척추염으로 진단됩니다. 이는 유전적 요인 외에도 다양한 발병 요인이 존재하기 때문입니다. 환자의 자녀가 10~20대 시기에 허리 통증이나 관절염 증상을 보인다면, 류마티스내과 전문의의 진료를 받아보는 것이 좋습니다.
+
+Q. 여성에게는 잘 발생하지 않나요?
+
+A. 강직척추염(방사선학적 척추관절염)은 남성에서 여성보다 3배 더 흔하게 발생하지만, 여성에게도 발병할 수 있습니다. 비방사선학적 척추관절염의 경우 전체 환자 중 여성이 차지하는 비율이 약 40~50%까지 보고됩니다. 따라서 여성이라도 허리 통증이 오래 지속된다면 질병 여부를 확인해보는 것이 좋습니다.
+
+Q. 소염진통제는 아플 때만 복용해도 되나요?
+
+A. 질병 활성도가 장기적으로 안정화된 환자는 통증이 있을 때만 약물을 복용할 수 있습니다. 그러나 허리 통증뿐만 아니라 혈액학적 염증 수치(C-반응단백)와 자기공명영상(MRI)에서 나타나는 염증 소견을 종합적으로 고려해야 합니다. 소염진통제의 중단 및 복용 여부는 반드시 전문의와 상담 후 결정해야 합니다.
+
+Q. 허리가 굳고 움직임이 제한되면 모두 강직척추염인가요?
+
+A. 강직척추염은 적절히 치료하지 않으면 질병이 진행되면서 허리 움직임이 제한되는 것이 특징입니다. 그러나 광범위 특발성 골격뼈 형성과다증(Diffuse Idiopathic Skeletal Hyperostosis, DISH)이나 척추의 퇴행성 변화로 인해 허리 움직임이 제한될 수도 있습니다. 따라서 정확한 진단을 위해 전문의의 진료를 받는 것이 중요합니다.
+
+Q. 스테로이드를 복용하면 증상 완화에 도움이 되나요? 
+
+A. 염증을 완화하기 위해 스테로이드를 경구 복용하거나 혈관 주사로 사용하는 경우가 있지만, 권장하지는 않습니다. 스테로이드는 전신 부작용의 위험이 있으므로 말초 관절염이나 천장관절염에만 일시적 국소 주사로 사용하는 것이 좋으며, 증상이 계속 악화될 때는 생물학적 제제를 권장합니다.
+
+Q. 모든 환자가 척추강직으로 진행되나요?
+
+A. 비방사선학적 척추관절염 환자의 10~40%가 10년 이내 강직척추염으로 진행되며, 강직척추염 환자 중 약 25%만이 척추강직이 진행됩니다. 강직 진행 여부는 매우 다양하게 나타나므로, 담당 전문의와 상의해 정확히 판단하는 것이 중요합니다.
+
+Q. 한방 치료나 건강기능식품으로 치료를 받아도 되나요?
+
+A. 한방 치료나 건강기능식품이 강직척추염에 도움이 된다는 일관된 연구 결과는 없습니다. 최근 치료 효과가 좋은 약제들이 개발되고 있으므로 정확한 진단, 평가, 과학적으로 증명된 치료를 제공하는 전문의의 진료를 권합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1.	대한류마티스학회. (2022). 류마티스학 (제3판). 범문에듀케이션.  
+2.	Abhijeet, D., &amp; Atul, D. (2022). Treatment of axial spondyloarthritis: an update. Nat Rev Rheumatol, 18(4), 205-216.  
+3.	Michael, M. W., Atul, D., Lianne, S. G., Maureen, D., David, Y., Muhammad, A. K., &amp; Liron, C. (2019). 2019 Update of the American College of Rheumatology/Spondylitis Association of America/Spondyloarthritis Research and Treatment Network Recommendations for the Treatment of Ankylosing Spondylitis and Nonradiographic Axial Spondyloarthritis. Arthritis &amp; Rheumatology, 71(10), 1599-1613.  
+4.	Philip, C. R., Sjef, V. d. L., Muhammad, A. K., &amp; William, J. T. (2021). Axial spondyloarthritis: concept, construct, classification and implications for therapy. Nat Rev Rheumatol, 17(2), 109-118.  
+5.	Sofia, R., Elena, N., Alexandre, S., Augusta, O., Casper, W., Xenofon, B., &amp; Désirée, v. d. H. (2023). ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update. Ann Rheum Dis, 82(1), 19-34.  
+6.	Kim TJ, Kim TH. (2010). Clinical spectrum of ankylosing spondylitis in Korea. Joint Bone Spine, 77(3), 235-40.  
+7.	Seo MR, Yeo J, Park JW, Lee YA, Lee JH, Kang EH, Ji SM, Kwon SR, Kim SK, Kim TJ, Kim TH, Kim HW, Park MC, Shin K, Lee SH, Lee EY, Cha HS, Shim SC, Yoon Y, Lee SH, Lim JH, Baek HJ; Korean Society of Spondyloarthritis Research. (2023). Korean treatment recommendations for patients with axial spondyloarthritis. J Rheum Dis, 30(3), 151-169.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

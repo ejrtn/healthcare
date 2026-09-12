@@ -1,0 +1,446 @@
+{
+  "rule_correct": 12,
+  "agentic_correct": 0,
+  "total": 16,
+  "rule_time_total": 5.620745658874512,
+  "agentic_time_total": 916.7388410568237,
+  "rows": [
+    {
+      "type": "disease",
+      "question": "고혈압 원인이 뭐야?",
+      "expected_disease": "고혈압",
+      "expected_categories": [
+        "원인"
+      ],
+      "rule": {
+        "disease": "고혈압",
+        "categories": [
+          "원인",
+          "병태생리",
+          "역학 및 통계"
+        ],
+        "time": 0.0,
+        "ok": true
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_disease_category",
+          "args": {
+            "disease": "총주주",
+            "category": "증상"
+          }
+        },
+        "time": 32.07100224494934,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "disease",
+      "question": "당뇨병 진단 검사는 어떻게 해?",
+      "expected_disease": "당뇨병",
+      "expected_categories": [
+        "진단 및 검사"
+      ],
+      "rule": {
+        "disease": "당뇨병",
+        "categories": [
+          "진단 및 검사"
+        ],
+        "time": 0.0,
+        "ok": true
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_disease_category",
+          "args": {
+            "disease": "합병증",
+            "category": "정확한 병명"
+          }
+        },
+        "time": 11.39877438545227,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "disease",
+      "question": "당뇨병 무슨 약 먹어?",
+      "expected_disease": "당뇨병",
+      "expected_categories": [
+        "치료"
+      ],
+      "rule": {
+        "disease": "당뇨병",
+        "categories": [],
+        "time": 0.0,
+        "ok": false
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_disease_category",
+          "args": {
+            "disease": "합병증",
+            "category": "증상"
+          }
+        },
+        "time": 8.88684606552124,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "disease",
+      "question": "감기 합병증 있어?",
+      "expected_disease": "감기",
+      "expected_categories": [
+        "합병증"
+      ],
+      "rule": {
+        "disease": "감기",
+        "categories": [
+          "합병증"
+        ],
+        "time": 0.0007648468017578125,
+        "ok": true
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_disease_category",
+          "args": {
+            "disease": "원인 정확한",
+            "category": "증상"
+          }
+        },
+        "time": 10.098607063293457,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "disease",
+      "question": "간흡충증이 뭐야?",
+      "expected_disease": "간흡충증",
+      "expected_categories": [
+        "개요"
+      ],
+      "rule": {
+        "disease": "간흡충증",
+        "categories": [
+          "개요"
+        ],
+        "time": 0.0,
+        "ok": true
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_disease_category",
+          "args": {
+            "disease": "총하세요",
+            "category": "증상"
+          }
+        },
+        "time": 9.076656103134155,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "disease",
+      "question": "고혈압 치료는 어떻게 해?",
+      "expected_disease": "고혈압",
+      "expected_categories": [
+        "치료",
+        "약물 치료",
+        "비약물 치료"
+      ],
+      "rule": {
+        "disease": "고혈압",
+        "categories": [
+          "치료",
+          "약물 치료",
+          "비약물 치료"
+        ],
+        "time": 0.0,
+        "ok": true
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_disease_category",
+          "args": {
+            "disease": "총하세요",
+            "category": "증상"
+          }
+        },
+        "time": 9.268271923065186,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "disease",
+      "question": "편두통 예방법 있나요?",
+      "expected_disease": "편두통",
+      "expected_categories": [
+        "예방"
+      ],
+      "rule": {
+        "disease": "편두통",
+        "categories": [
+          "예방"
+        ],
+        "time": 0.0,
+        "ok": true
+      },
+      "agentic": {
+        "call": null,
+        "time": 730.0608468055725,
+        "error": "오류: Requested tokens (4096) exceed context window of 4096",
+        "ok": false
+      }
+    },
+    {
+      "type": "disease",
+      "question": "아토피피부염 관리는 어떻게 하나요?",
+      "expected_disease": "아토피피부염",
+      "expected_categories": [
+        "생활습관 관리"
+      ],
+      "rule": {
+        "disease": "아토피피부염",
+        "categories": [
+          "생활습관 관리"
+        ],
+        "time": 0.0015053749084472656,
+        "ok": true
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_disease_category",
+          "args": {
+            "disease": "정확한 병명",
+            "category": "증상"
+          }
+        },
+        "time": 9.990169048309326,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "symptom",
+      "question": "배가 아프고 열이 나요",
+      "acceptable": [
+        "복통",
+        "급성 세균성 장염",
+        "급성충수염",
+        "급성 충수염",
+        "식중독",
+        "췌장염"
+      ],
+      "rule": {
+        "top_disease": "복통",
+        "time": 5.072613716125488,
+        "ok": true
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_symptom",
+          "args": {
+            "symptom_text": "번번 주로세요"
+          }
+        },
+        "top_disease": "아말감 및 인레이(금 인레이)",
+        "time": 7.958705902099609,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "symptom",
+      "question": "배가 아프면서 구토까지 했어",
+      "acceptable": [
+        "복통",
+        "구역질과 구토",
+        "급성 세균성 장염",
+        "급성충수염",
+        "급성 충수염",
+        "식중독",
+        "췌장염"
+      ],
+      "rule": {
+        "top_disease": "구역질과 구토",
+        "time": 0.10081005096435547,
+        "ok": true
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_symptom",
+          "args": {
+            "symptom_text": "번번 주속세요 주속세요"
+          }
+        },
+        "top_disease": "위험음주! 알려드리겠습니다!",
+        "time": 11.410008430480957,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "symptom",
+      "question": "기침이 계속 나고 목이 아파요",
+      "acceptable": [
+        "감기",
+        "편도염"
+      ],
+      "rule": {
+        "top_disease": "성대결절",
+        "time": 0.06849479675292969,
+        "ok": false
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_symptom",
+          "args": {
+            "symptom_text": "주속을 주속색용 문구"
+          }
+        },
+        "top_disease": "아말감 및 인레이(금 인레이)",
+        "time": 10.944041013717651,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "symptom",
+      "question": "머리가 지끈지끈 아파요",
+      "acceptable": [
+        "두통",
+        "편두통"
+      ],
+      "rule": {
+        "top_disease": "두통",
+        "time": 0.0576319694519043,
+        "ok": true
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_symptom",
+          "args": {
+            "symptom_text": "원인 증상을 정리한 검색용 문구"
+          }
+        },
+        "top_disease": "이명",
+        "time": 14.225919961929321,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "symptom",
+      "question": "귀가 아프고 잘 안 들려요",
+      "acceptable": [
+        "중이염",
+        "외이도염"
+      ],
+      "rule": {
+        "top_disease": "이명",
+        "time": 0.0444178581237793,
+        "ok": false
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_symptom",
+          "args": {
+            "symptom_text": "주버세요 주버세요"
+          }
+        },
+        "top_disease": "위험음주! 알려드리겠습니다!",
+        "time": 10.052507162094116,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "symptom",
+      "question": "얼굴이랑 팔에 두드러기가 나고 가려워요",
+      "acceptable": [
+        "두드러기",
+        "아토피피부염"
+      ],
+      "rule": {
+        "top_disease": "두드러기",
+        "time": 0.11130690574645996,
+        "ok": true
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_symptom",
+          "args": {
+            "symptom_text": "한번울세요 진단세요 지속시 주세요"
+          }
+        },
+        "top_disease": "폐기능검사",
+        "time": 16.45780324935913,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "symptom",
+      "question": "허리가 아파요",
+      "acceptable": [
+        "요통",
+        "강직성척추염",
+        "추간판탈출증(디스크)",
+        "강직척추염",
+        "염좌",
+        "척추관 협착증",
+        "척추의 형태 이상(척추후만증)"
+      ],
+      "rule": {
+        "top_disease": "요통",
+        "time": 0.10136747360229492,
+        "ok": true
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_symptom",
+          "args": {
+            "symptom_text": "주려세요"
+          }
+        },
+        "top_disease": "말더듬",
+        "time": 7.872453927993774,
+        "error": null,
+        "ok": false
+      }
+    },
+    {
+      "type": "symptom",
+      "question": "머리가 어지럽다",
+      "acceptable": [
+        "어지럼",
+        "실신",
+        "빈혈"
+      ],
+      "rule": {
+        "top_disease": "두통",
+        "time": 0.06183266639709473,
+        "ok": false
+      },
+      "agentic": {
+        "call": {
+          "name": "search_by_symptom",
+          "args": {
+            "symptom_text": "번번세요 증상을 정리한 검색용 문구"
+          }
+        },
+        "top_disease": "실어증",
+        "time": 16.966227769851685,
+        "error": null,
+        "ok": false
+      }
+    }
+  ]
+}

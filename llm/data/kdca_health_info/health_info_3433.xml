@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[대변 및 잠혈검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[3433]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대변은 우리가 입을 통하여 섭취한 음식물을 비롯하여 모든 식품, 약품, 이물질 등이 소화과정을 거쳐 항문을 통하여 배출되는 배설물을 말합니다. 주로 섬유소와 소화되지 않은 음식물, 세균, 물(70%)로 구성되어 있습니다. 그 외 상피세포, 소량의 지방, 유로빌린 형태의 담즙색소, 전해질 등이 포함되어 있습니다. 
+정상적인 성인은 하루 약 200 g 정도의 대변을 배출하는데 황갈색을 띠며 단백질 등 잔여물에 대한 세균의 작용으로 특징적인 냄새가 나고 형태를 유지할 수 있을 정도의 경도를 유지하며 말단 결장의 모양이나 직경과 같은 형태를 유지합니다. 따라서 대변은 소화기관의 상태를 반영할 수 있으며 색깔, 냄새, 경도, 모양 등의 변화를 관찰함으로써 병적인 상태를 판별하는데 유용하게 이용될 수 있습니다. 
+대변검사로는 육안적 검사로서 기생충의 충체나 편절을 관찰할 수도 있고, 설사 유무, 출혈이나 폐쇄성 황달 환자의 경우 대변 색깔의 변화, 모양 등을 관찰할 수 있습니다. 현미경 검사로는 지방변의 유무, 백혈구의 존재, 기생충 충란, 아메바등 원생동물의 영양형 및 포낭형의 유무를 관찰할 수 있습니다. 또한 설사 환자에서 설사의 원인을 규명하기 위한 여러 가지 검사들이 시행되고 있고 특히 장티푸스, 콜레라 등 세균성질환에 대한 균 배양검사도 포함될 수 있습니다. 
+특정 질환에 대한 다양하고 특수한 검사방법들이 많지만 대개 건강검진이나 기본적인 진료를 위한 대변검사는 기생충란과 잠혈반응을 보기 위한 검사가 이루어집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1874fec51d61]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[깨끗하고 물기가 없는 용기에 대변을 받아오는데 대개는 병원이나 검진기관에서 제공하는 검은색 대변용기를 사용합니다. 소변이 섞이지 않게 채취해야 하며 농, 혈액, 점액이 많은 부위를 택하여 강낭콩 크기 정도(약 5 g)로 채취합니다. 대변용기에 환자의 이름, 성별, 나이 등을 기재하고 검사가 지체될 경우는 차고 서늘한 곳이나 4℃ 냉장 보관을 하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95cb885]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[채취된 대변을 대상으로 육안 검사, 기생충 검사, 분변 잠혈검사, 백혈구 검사 등을 시행합니다. 육안 검사로는 대변이 고형변인지 설사변인지 관찰하고 혈액, 점액, 또는 기생충의 유충이나 편절이 있는지 살펴봅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[육안검사를 통해 다음과 같은 사항들을 확인할 수 있습니다.
+
+1. 형태 
+˚ 정상은 반유형으로 말단 결장의 모양이나 직경처럼 보이는 연한 덩어리입니다. 
+˚ 무른변 - 수양변 : 장관의 수분 흡수 장애, 장 연동운동 항진 등에서 관찰됩니다. 
+˚ 딱딱한 변 : 수분 섭취 부족, 탈수, 장 연동운동 불량 등으로 인한 변비에서 관찰됩니다. 
+
+2. 색조
+˚ 정상변 : 유로빌린에 의해 황갈색을 보입니다. 
+˚ 황색변 : 유아, 지방변, 고도의 설사, 약물과 관련될 수 있습니다.
+˚ 녹색변 : 녹색 야채를 대량 섭취하였을 때, 철분제 섭취 시, 설사 등 장운동 항진으로 인하여 충분히 분해되지 않은 담즙이 남아있는 경우 관찰될 수 있습니다. 
+˚ 흑색변 : 위 및 십이지장 궤양 또는 위암 등으로 인한 상부 소화관 출혈이나, 철분제, 비스무스제제(소화성 궤양 치료제 혹은 지사제의 한 성분) 등을 복용하였을 때 관찰될 수 있습니다. 
+˚ 적색변 : 대장염, 이질 등 대장 하부나 치질 등으로 인한 항문부 출혈이 있을 때 관찰될 수 있습니다. 
+˚ 회백색변 : 담즙이 대변에 없는 경우로 폐쇄성 황달 등이 있을 때, 혹은 비스무스제제, 지사제 복용 시 관찰될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[대변 및 잠혈검사(기생충 검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3434]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[대변 및 잠혈검사(백혈구 검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3436]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[대변 및 잠혈검사(분변 잠혈검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3435]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

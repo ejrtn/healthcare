@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[대변 및 잠혈검사(백혈구 검사)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[3436]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[설사 질환은 매우 흔한 것으로 염증성 설사는 비염증성 또는 분비성 설사보다 증상이 더 심하고 오래 가므로 현미경으로 대변 내 백혈구를 확인하여 이 두 가지를 감별하는 것이 중요합니다. 
+
+염증성 설사의 원인으로는 세균성 이질, 장티푸스(살모넬라), 장염 비브리오와 같은 세균성 장염 또는 크론이나 궤양성 대장염 등의 염증성 장질환 등이 있으며, 열과 함께 심한 복통을 동반하거나 대변에서 피나 농이 관찰되는 경우 염증성 설사가 의심되므로 대변 백혈구 검사를 실시하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[깨끗한 슬라이드에 생리식염수 한두 방울과 농이 있는 대변 부위를 잘 혼합하여 현미경으로 관찰합니다. 고배율에서 대변 백혈구 수가 평균 10개 이상이면 Wright-Giemsa 염색이나 Loeffler's methylene blue 염색을 하여 호중구와 단핵구를 구분하여 보고하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[대변 및 잠혈검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3433]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[대변 및 잠혈검사(기생충 검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3434]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[대변 및 잠혈검사(분변 잠혈검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3435]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,276 @@
+{
+  "agentic_correct": 7,
+  "total": 16,
+  "agentic_time_total": 474.9008276462555,
+  "rows": [
+    {
+      "type": "disease",
+      "question": "고혈압 원인이 뭐야?",
+      "expected_disease": "고혈압",
+      "expected_categories": [
+        "원인"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "고혈압의 원인은 여러 가지가 있습니다. 대표적인 원인은 다음과 같습니다.\n\n1. 가족력: 고혈압이 있는 가족력이 있는 경우 고혈압이 발생할 수 있습니다.\n\n2. 나이: 나이가 증가할수록 고혈압의 위험이 증가합니다.\n\n3. 체중: 비만이 고혈압의 위험을 증가시킵니다.\n\n4. 생활 습관: 흡연, 음주, 비만 등 생활 습관이 고혈압의 위험을 증가시킵니다.\n\n5. 신체적 문제: 당뇨병, 고혈압, 심장병 등 신체적 문제가 고혈압의 위험을 증가시킵니다.\n\n6. 약물 사용: 특정 약물의 사용이 고혈압의 위험을 증가시킵니다.\n\n7. 스트레스: 스트레스가 고혈압의 위험을 증가시킵니다.\n\n8. 식습관: 비만, 당뇨병, 고혈압 등 식습관이 고혈압의 위험을 증가시킵니다.\n\n9. 운동不足: 운동이 부족할수록 고혈압의 위험이 증가합니다.\n\n10. 기타: 기타 여러 가지 요인도 고혈압의 위험을 증가시킵니다.\n\n고혈압의 원인은 여러 가지가 있으므로, 정확한 진단과 치료를 위해서는 의사와 상담하는 것이 좋습니다."
+      },
+      "time": 95.82602500915527,
+      "ok": false,
+      "error": null
+    },
+    {
+      "type": "disease",
+      "question": "당뇨병 진단 검사는 어떻게 해?",
+      "expected_disease": "당뇨병",
+      "expected_categories": [
+        "진단 및 검사"
+      ],
+      "result": {
+        "kind": "disease_named",
+        "disease": "당뇨병",
+        "category": "진단"
+      },
+      "time": 29.853795289993286,
+      "ok": true,
+      "error": null
+    },
+    {
+      "type": "disease",
+      "question": "당뇨병 무슨 약 먹어?",
+      "expected_disease": "당뇨병",
+      "expected_categories": [
+        "치료"
+      ],
+      "result": {
+        "kind": "disease_named",
+        "disease": "당뇨병",
+        "category": "치료"
+      },
+      "time": 30.169774770736694,
+      "ok": true,
+      "error": null
+    },
+    {
+      "type": "disease",
+      "question": "감기 합병증 있어?",
+      "expected_disease": "감기",
+      "expected_categories": [
+        "합병증"
+      ],
+      "result": {
+        "kind": "disease_named",
+        "disease": "감기",
+        "category": "증상"
+      },
+      "time": 29.967985153198242,
+      "ok": false,
+      "error": null
+    },
+    {
+      "type": "disease",
+      "question": "간흡충증이 뭐야?",
+      "expected_disease": "간흡충증",
+      "expected_categories": [
+        "개요"
+      ],
+      "result": {
+        "kind": "disease_named",
+        "disease": "간흡충증",
+        "category": "질병"
+      },
+      "time": 30.16266107559204,
+      "ok": false,
+      "error": null
+    },
+    {
+      "type": "disease",
+      "question": "고혈압 치료는 어떻게 해?",
+      "expected_disease": "고혈압",
+      "expected_categories": [
+        "치료",
+        "약물 치료",
+        "비약물 치료"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "고혈압"
+      },
+      "time": 21.179980516433716,
+      "ok": false,
+      "error": null
+    },
+    {
+      "type": "disease",
+      "question": "편두통 예방법 있나요?",
+      "expected_disease": "편두통",
+      "expected_categories": [
+        "예방"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "편두통"
+      },
+      "time": 21.190385818481445,
+      "ok": false,
+      "error": null
+    },
+    {
+      "type": "disease",
+      "question": "아토피피부염 관리는 어떻게 하나요?",
+      "expected_disease": "아토피피부염",
+      "expected_categories": [
+        "생활습관 관리"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "피부가 건조하고, 가려움증이 심한 경우"
+      },
+      "time": 24.44064998626709,
+      "ok": false,
+      "error": null
+    },
+    {
+      "type": "symptom",
+      "question": "배가 아프고 열이 나요",
+      "acceptable": [
+        "복통",
+        "급성 세균성 장염",
+        "급성충수염",
+        "급성 충수염",
+        "식중독",
+        "췌장염"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "배가 아프고 열이 나요"
+      },
+      "top_disease": "복통",
+      "time": 22.520296812057495,
+      "ok": true,
+      "error": null
+    },
+    {
+      "type": "symptom",
+      "question": "배가 아프면서 구토까지 했어",
+      "acceptable": [
+        "복통",
+        "구역질과 구토",
+        "급성 세균성 장염",
+        "급성충수염",
+        "급성 충수염",
+        "식중독",
+        "췌장염"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "배가 아프면서 구토까지 했다"
+      },
+      "top_disease": "구역질과 구토",
+      "time": 22.71197485923767,
+      "ok": true,
+      "error": null
+    },
+    {
+      "type": "symptom",
+      "question": "기침이 계속 나고 목이 아파요",
+      "acceptable": [
+        "감기",
+        "편도염"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "기침이 계속 나고 목이 아파요"
+      },
+      "top_disease": "성대결절",
+      "time": 24.034179210662842,
+      "ok": false,
+      "error": null
+    },
+    {
+      "type": "symptom",
+      "question": "머리가 지끈지끈 아파요",
+      "acceptable": [
+        "두통",
+        "편두통"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "머리가 지끈지끈 아파요"
+      },
+      "top_disease": "두통",
+      "time": 24.170247077941895,
+      "ok": true,
+      "error": null
+    },
+    {
+      "type": "symptom",
+      "question": "귀가 아프고 잘 안 들려요",
+      "acceptable": [
+        "중이염",
+        "외이도염"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "귀가 아프고 잘 안 들려요"
+      },
+      "top_disease": "이명",
+      "time": 24.12567925453186,
+      "ok": false,
+      "error": null
+    },
+    {
+      "type": "symptom",
+      "question": "얼굴이랑 팔에 두드러기가 나고 가려워요",
+      "acceptable": [
+        "두드러기",
+        "아토피피부염"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "얼굴이랑 팔에 두드러기가 나고 가려워요"
+      },
+      "top_disease": "두드러기",
+      "time": 26.14075255393982,
+      "ok": true,
+      "error": null
+    },
+    {
+      "type": "symptom",
+      "question": "허리가 아파요",
+      "acceptable": [
+        "요통",
+        "강직성척추염",
+        "추간판탈출증(디스크)",
+        "강직척추염",
+        "염좌",
+        "척추관 협착증",
+        "척추의 형태 이상(척추후만증)"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "허리가 아파요"
+      },
+      "top_disease": "요통",
+      "time": 23.80674386024475,
+      "ok": true,
+      "error": null
+    },
+    {
+      "type": "symptom",
+      "question": "머리가 어지럽다",
+      "acceptable": [
+        "어지럼",
+        "실신",
+        "빈혈"
+      ],
+      "result": {
+        "kind": "symptom_only",
+        "symptom_text": "머리가 어지럽다"
+      },
+      "top_disease": "두통",
+      "time": 24.599696397781372,
+      "ok": false,
+      "error": null
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[당뇨병 합병증(급성 합병증_저혈당)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[2350]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[저혈당은 약물치료를 받는 당뇨병 환자가 가장 흔히 겪는 합병증입니다. 저혈당이 발생하면 혈당을 효과적으로 조절하기 어렵습니다. 또한 저혈당이 반복적으로 생기면 뇌혈관질환과 심혈관질환 및 치매 등의 발생 위험이 증가하며, 심한 경우 사망할 수도 있습니다. 그러므로 당뇨병 환자는 저혈당을 예방하고, 저혈당이 발생했을 때 적절히 대처할 수 있어야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[저혈당이 발생하면 자율신경계의 기능이 올라가 생기는 증상과 중추신경계에 포도당이 부족해 생기는 증상 및 징후가 나타날 수 있습니다.
+
+1. 자율신경계 관련 증상
+· 맥박수 증가
+· 손떨림
+· 불안감
+· 식은땀 흘림
+· 공복감
+
+2. 중추신경계 관련 증상
+· 쇠약
+· 피로
+· 어지럼
+· 의식의 변화]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[저혈당이 의심되는 경우 환자가 혈당을 측정할 수 있다면 정확한 진단을 위해 혈당측정기로 혈당 수치를 확인합니다. 환자가 혈당을 측정하기 어렵다면 먼저 저혈당에 대한 처치를 한 뒤 혈당을 측정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18aa11f77581]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[측정한 혈당 수치가 70 mg/dL 미만이고 의식이 있는 환자는 15~20 g의 포도당을 섭취하고 15분 간 휴식을 취한 뒤 혈당을 측정합니다. 혈당이 정상 범위로 회복되지 않았다면 포도당 섭취를 반복합니다.
+
+포도당 15~20 g에 해당하는 음식은 다음과 같습니다.
+· 설탕(15 g)이나 꿀 (15 mL) 1큰숟가락
+· 요구르트 1개(100 mL)
+· 주스나 청량음료(175 mL)
+· 사탕 3~4개
+
+초콜릿이나 아이스크림처럼 지방이 함유된 음식은 흡수 속도가 느려 혈당이 빨리 올라가지 않을 수 있으므로 저혈당에 대한 처치로 적절하지 않습니다. 환자가 스스로 처치할 수 없거나 의식이 없는 경우에는 음식을 먹이면 안 되고, 정맥주사를 통해 포도당을 주입해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 위험요인
+
+저혈당은 다음과 같은 상황에서 발생할 수 있습니다.
+· 당뇨병약의 투여 용량, 시간 및 방법 등이 부적절한 경우[특히 인슐린이나 설포닐유레아(sulfonylurea)와 같이 상대적으로 저혈당 발생 위험이 높은 약물을 투여하는 경우]
+· 식사를 불규칙하게 하는 경우
+· 신체활동이 평소보다 많은 경우
+· 과도한 음주를 하는 경우
+
+또한 다음과 같은 병력이 있는 경우에는 중증 저혈당이 발생할 수 있으므로 주의해야 합니다.
+· 이전에 중증 저혈당이 있었던 경우
+· 진행된 당뇨병 합병증이 있는 경우
+· 다른 만성질환이나 중증 질환이 있는 경우
+· 혈당을 엄격하게 조절하는 경우
+· 고령이나 소아청소년 환자
+· 당뇨병을 오래 전에 진단받은 경우
+
+
+2. 예방
+저혈당을 예방하려면 저혈당의 위험인자가 있는지 확인해 교정해야 합니다. 평소에 혈당을 자주 측정하고, 규칙적으로 식사와 운동을 하며, 약물을 처방에 따라 올바르게 투약해야 합니다. 필요한 경우 의료진과 상의해 약물을 조절할 수 있습니다.
+또한 환자는 저혈당이 발생할 경우에 대비해 저혈당의 증상 및 징후와 대처 방법을 잘 알고 있어야 합니다. 저혈당이 생길 위험이 높다면 항상 포도당이 포함된 음식을 가지고 다니는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한당뇨병학회 진료지침위원회. (2021). 2021 당뇨병 진료지침 (제7판). 서울: 대한당뇨병학회.
+
+2. 대한당뇨병학회. (2018). 당뇨병학 (제5판). 서울: 범문에듀케이션. 
+3. Umpierrez, G., &amp; Korytkowski, M. (2016). Diabetic emergencies - ketoacidosis, hyperglycaemic hyperosmolar state and hypoglycaemia. Nature reviews. Endocrinology, 12(4), 222–232. doi.org/10.1038/nrendo.2016.15.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(급성 합병증_고삼투압성 고혈당 증후군)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2349]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(급성 합병증_당뇨병케토산증, 고혈당고삼투질상태)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2348]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(급성 합병증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2347]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(만성 합병증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2351]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

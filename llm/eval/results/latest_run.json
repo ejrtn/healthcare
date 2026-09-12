@@ -1,0 +1,740 @@
+{
+  "timestamp": "2026-09-12T04:29:51.236465+00:00",
+  "category_routing": {
+    "total": 33,
+    "raw_correct": 30,
+    "final_correct": 31,
+    "rows": [
+      {
+        "question": "고혈압 원인이 뭐야?",
+        "disease": "고혈압",
+        "expected": [
+          "원인"
+        ],
+        "raw_top": "원인",
+        "raw_ok": true,
+        "final_top": "원인",
+        "final_ok": true
+      },
+      {
+        "question": "고혈압 증상 알려줘",
+        "disease": "고혈압",
+        "expected": [
+          "증상"
+        ],
+        "raw_top": "증상",
+        "raw_ok": true,
+        "final_top": "증상",
+        "final_ok": true
+      },
+      {
+        "question": "당뇨병 진단 검사는 어떻게 해?",
+        "disease": "당뇨병",
+        "expected": [
+          "진단 및 검사"
+        ],
+        "raw_top": "진단 및 검사",
+        "raw_ok": true,
+        "final_top": "진단 및 검사",
+        "final_ok": true
+      },
+      {
+        "question": "당뇨병 무슨 약 먹어?",
+        "disease": "당뇨병",
+        "expected": [
+          "치료"
+        ],
+        "raw_top": "치료",
+        "raw_ok": true,
+        "final_top": "합병증",
+        "final_ok": false
+      },
+      {
+        "question": "감기 예방법은?",
+        "disease": "감기",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "raw_top": "위험요인 및 예방",
+        "raw_ok": true,
+        "final_top": "위험요인 및 예방",
+        "final_ok": true
+      },
+      {
+        "question": "감기 합병증 있어?",
+        "disease": "감기",
+        "expected": [
+          "합병증"
+        ],
+        "raw_top": "합병증",
+        "raw_ok": true,
+        "final_top": "합병증",
+        "final_ok": true
+      },
+      {
+        "question": "고혈압 생활습관 관리 어떻게 해?",
+        "disease": "고혈압",
+        "expected": [
+          "생활습관 관리",
+          "자가 관리"
+        ],
+        "raw_top": "자가 관리",
+        "raw_ok": true,
+        "final_top": "자가 관리",
+        "final_ok": true
+      },
+      {
+        "question": "간흡충증이 뭐야?",
+        "disease": "간흡충증",
+        "expected": [
+          "개요"
+        ],
+        "raw_top": "개요",
+        "raw_ok": true,
+        "final_top": "개요",
+        "final_ok": true
+      },
+      {
+        "question": "간흡충증 치료법은?",
+        "disease": "간흡충증",
+        "expected": [
+          "약물 치료"
+        ],
+        "raw_top": null,
+        "raw_ok": false,
+        "final_top": null,
+        "final_ok": false
+      },
+      {
+        "question": "골다공증 원인이 뭐야?",
+        "disease": "골다공증",
+        "expected": [
+          "원인"
+        ],
+        "raw_top": "원인",
+        "raw_ok": true,
+        "final_top": "원인",
+        "final_ok": true
+      },
+      {
+        "question": "당뇨병 예방법은?",
+        "disease": "당뇨병",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "raw_top": "위험요인 및 예방",
+        "raw_ok": true,
+        "final_top": "위험요인 및 예방",
+        "final_ok": true
+      },
+      {
+        "question": "고혈압 치료는 어떻게 해?",
+        "disease": "고혈압",
+        "expected": [
+          "치료",
+          "약물 치료",
+          "비약물 치료"
+        ],
+        "raw_top": "치료",
+        "raw_ok": true,
+        "final_top": "약물 치료",
+        "final_ok": true
+      },
+      {
+        "question": "빈혈은 왜 생기나요?",
+        "disease": "빈혈",
+        "expected": [
+          "병태생리",
+          "역학 및 통계"
+        ],
+        "raw_top": "병태생리",
+        "raw_ok": true,
+        "final_top": "병태생리",
+        "final_ok": true
+      },
+      {
+        "question": "빈혈 증상이 어떻게 되나요?",
+        "disease": "빈혈",
+        "expected": [
+          "증상"
+        ],
+        "raw_top": "증상",
+        "raw_ok": true,
+        "final_top": "증상",
+        "final_ok": true
+      },
+      {
+        "question": "빈혈 치료는 어떻게 하나요?",
+        "disease": "빈혈",
+        "expected": [
+          "치료"
+        ],
+        "raw_top": "치료",
+        "raw_ok": true,
+        "final_top": "치료",
+        "final_ok": true
+      },
+      {
+        "question": "편두통은 왜 생기나요?",
+        "disease": "편두통",
+        "expected": [
+          "원인",
+          "병태생리"
+        ],
+        "raw_top": "병태생리",
+        "raw_ok": true,
+        "final_top": "병태생리",
+        "final_ok": true
+      },
+      {
+        "question": "편두통 예방법 있나요?",
+        "disease": "편두통",
+        "expected": [
+          "예방"
+        ],
+        "raw_top": "예방",
+        "raw_ok": true,
+        "final_top": "예방",
+        "final_ok": true
+      },
+      {
+        "question": "편두통약은 어떤 게 있나요?",
+        "disease": "편두통",
+        "expected": [
+          "약물 치료"
+        ],
+        "raw_top": "약물 치료",
+        "raw_ok": true,
+        "final_top": "약물 치료",
+        "final_ok": true
+      },
+      {
+        "question": "대상포진 증상이 뭔가요?",
+        "disease": "대상포진",
+        "expected": [
+          "증상"
+        ],
+        "raw_top": "증상",
+        "raw_ok": true,
+        "final_top": "증상",
+        "final_ok": true
+      },
+      {
+        "question": "대상포진 치료약이 있나요?",
+        "disease": "대상포진",
+        "expected": [
+          "약물 치료"
+        ],
+        "raw_top": "약물 치료",
+        "raw_ok": true,
+        "final_top": "약물 치료",
+        "final_ok": true
+      },
+      {
+        "question": "대상포진 합병증이 있나요?",
+        "disease": "대상포진",
+        "expected": [
+          "합병증"
+        ],
+        "raw_top": "합병증",
+        "raw_ok": true,
+        "final_top": "합병증",
+        "final_ok": true
+      },
+      {
+        "question": "아토피피부염은 왜 생기나요?",
+        "disease": "아토피피부염",
+        "expected": [
+          "원인"
+        ],
+        "raw_top": "역학 및 통계",
+        "raw_ok": false,
+        "final_top": "원인",
+        "final_ok": true
+      },
+      {
+        "question": "아토피피부염 치료 방법이 뭔가요?",
+        "disease": "아토피피부염",
+        "expected": [
+          "치료",
+          "약물 치료",
+          "비약물 치료"
+        ],
+        "raw_top": "치료",
+        "raw_ok": true,
+        "final_top": "치료",
+        "final_ok": true
+      },
+      {
+        "question": "아토피피부염 관리는 어떻게 하나요?",
+        "disease": "아토피피부염",
+        "expected": [
+          "생활습관 관리"
+        ],
+        "raw_top": "생활습관 관리",
+        "raw_ok": true,
+        "final_top": "생활습관 관리",
+        "final_ok": true
+      },
+      {
+        "question": "갑상선기능항진증 증상이 뭔가요?",
+        "disease": "갑상선기능항진증",
+        "expected": [
+          "증상"
+        ],
+        "raw_top": "종류",
+        "raw_ok": false,
+        "final_top": "증상",
+        "final_ok": true
+      },
+      {
+        "question": "갑상선기능항진증 진단은 어떻게 하나요?",
+        "disease": "갑상선기능항진증",
+        "expected": [
+          "진단 및 검사"
+        ],
+        "raw_top": "진단 및 검사",
+        "raw_ok": true,
+        "final_top": "진단 및 검사",
+        "final_ok": true
+      },
+      {
+        "question": "갑상선기능항진증 치료는 어떻게 하나요?",
+        "disease": "갑상선기능항진증",
+        "expected": [
+          "치료",
+          "약물 치료",
+          "비약물 치료"
+        ],
+        "raw_top": "비약물 치료",
+        "raw_ok": true,
+        "final_top": "치료",
+        "final_ok": true
+      },
+      {
+        "question": "중이염은 왜 생기나요?",
+        "disease": "중이염",
+        "expected": [
+          "원인"
+        ],
+        "raw_top": "원인",
+        "raw_ok": true,
+        "final_top": "원인",
+        "final_ok": true
+      },
+      {
+        "question": "중이염 증상이 뭔가요?",
+        "disease": "중이염",
+        "expected": [
+          "증상"
+        ],
+        "raw_top": "증상",
+        "raw_ok": true,
+        "final_top": "증상",
+        "final_ok": true
+      },
+      {
+        "question": "중이염 예방법 있나요?",
+        "disease": "중이염",
+        "expected": [
+          "위험요인 및 예방"
+        ],
+        "raw_top": "위험요인 및 예방",
+        "raw_ok": true,
+        "final_top": "위험요인 및 예방",
+        "final_ok": true
+      },
+      {
+        "question": "당뇨병 걸리면 어떻게 되나요?",
+        "disease": "당뇨병",
+        "expected": [
+          "증상",
+          "경과 및 예후",
+          "요약문"
+        ],
+        "raw_top": "요약문",
+        "raw_ok": true,
+        "final_top": "경과 및 예후",
+        "final_ok": true
+      },
+      {
+        "question": "편두통 치료법이 뭐야?",
+        "disease": "편두통",
+        "expected": [
+          "치료",
+          "약물 치료",
+          "비약물 치료"
+        ],
+        "raw_top": "비약물 치료",
+        "raw_ok": true,
+        "final_top": "약물 치료",
+        "final_ok": true
+      },
+      {
+        "question": "고혈압에 좋은 음식은?",
+        "disease": "고혈압",
+        "expected": [
+          "생활습관 관리",
+          "위험요인 및 예방"
+        ],
+        "raw_top": "위험요인 및 예방",
+        "raw_ok": true,
+        "final_top": "위험요인 및 예방",
+        "final_ok": true
+      }
+    ]
+  },
+  "reject_cases": {
+    "total": 9,
+    "correct": 5,
+    "rows": [
+      {
+        "question": "오늘 날씨 어때?",
+        "detected_diseases": [],
+        "distance": 0.5406860709190369,
+        "rejected": true
+      },
+      {
+        "question": "주식 투자 추천해줘",
+        "detected_diseases": [],
+        "distance": 0.610560417175293,
+        "rejected": true
+      },
+      {
+        "question": "파이썬으로 정렬 알고리즘 짜줘",
+        "detected_diseases": [],
+        "distance": 0.6064701676368713,
+        "rejected": true
+      },
+      {
+        "question": "1 더하기 1은 뭐야?",
+        "detected_diseases": [],
+        "distance": 0.559196949005127,
+        "rejected": true
+      },
+      {
+        "question": "asdkjaslkdjalksjd",
+        "detected_diseases": [],
+        "distance": 0.5614601373672485,
+        "rejected": true
+      },
+      {
+        "question": "위염은 어떻게 치료해?",
+        "detected_diseases": [],
+        "distance": 0.27755028009414673,
+        "rejected": false
+      },
+      {
+        "question": "불면증 원인이 뭐야?",
+        "detected_diseases": [],
+        "distance": 0.4250342845916748,
+        "rejected": false
+      },
+      {
+        "question": "몸살 나면 어떻게 해야 해?",
+        "detected_diseases": [],
+        "distance": 0.37051814794540405,
+        "rejected": false
+      },
+      {
+        "question": "위궤양 증상이 뭐야?",
+        "detected_diseases": [],
+        "distance": 0.2932635545730591,
+        "rejected": false
+      }
+    ]
+  },
+  "symptom_cases": {
+    "total": 23,
+    "correct": 13,
+    "rows": [
+      {
+        "question": "배가 아프고 열이 나요",
+        "acceptable_diseases": [
+          "복통",
+          "급성 세균성 장염",
+          "급성충수염",
+          "급성 충수염",
+          "식중독",
+          "췌장염"
+        ],
+        "rejected": false,
+        "top_disease": "복통",
+        "top_category": "연관 주제어",
+        "distance": 0.28693240880966187,
+        "ok": true
+      },
+      {
+        "question": "배가 아프면서 구토까지 했어",
+        "acceptable_diseases": [
+          "복통",
+          "구역질과 구토",
+          "급성 세균성 장염",
+          "급성충수염",
+          "급성 충수염",
+          "식중독",
+          "췌장염"
+        ],
+        "rejected": false,
+        "top_disease": "구역질과 구토",
+        "top_category": "정의",
+        "distance": 0.28193002939224243,
+        "ok": true
+      },
+      {
+        "question": "기침이 계속 나고 목이 아파요",
+        "acceptable_diseases": [
+          "감기",
+          "편도염"
+        ],
+        "rejected": false,
+        "top_disease": "성대결절",
+        "top_category": "자주하는 질문",
+        "distance": 0.26020359992980957,
+        "ok": false
+      },
+      {
+        "question": "머리가 지끈지끈 아파요",
+        "acceptable_diseases": [
+          "두통",
+          "편두통"
+        ],
+        "rejected": false,
+        "top_disease": "두통",
+        "top_category": "자주하는 질문",
+        "distance": 0.39513659477233887,
+        "ok": true
+      },
+      {
+        "question": "귀가 아프고 잘 안 들려요",
+        "acceptable_diseases": [
+          "중이염",
+          "외이도염"
+        ],
+        "rejected": false,
+        "top_disease": "이명",
+        "top_category": "정의",
+        "distance": 0.30422282218933105,
+        "ok": false
+      },
+      {
+        "question": "얼굴이랑 팔에 두드러기가 나고 가려워요",
+        "acceptable_diseases": [
+          "두드러기",
+          "아토피피부염"
+        ],
+        "rejected": false,
+        "top_disease": "두드러기",
+        "top_category": "종류",
+        "distance": 0.23364156484603882,
+        "ok": true
+      },
+      {
+        "question": "어지럽고 속이 울렁거려요",
+        "acceptable_diseases": [
+          "어지럼",
+          "노인 어지럼증",
+          "구역질과 구토"
+        ],
+        "rejected": false,
+        "top_disease": "어지럼",
+        "top_category": "개요",
+        "distance": 0.3857700824737549,
+        "ok": true
+      },
+      {
+        "question": "허리가 계속 아파요",
+        "acceptable_diseases": [
+          "요통"
+        ],
+        "rejected": false,
+        "top_disease": "강직성척추염",
+        "top_category": "증상",
+        "distance": 0.3055315613746643,
+        "ok": false
+      },
+      {
+        "question": "배가 사르르 아프면서 묽은 변을 자주 봐요",
+        "acceptable_diseases": [
+          "설사",
+          "과민성 장증후군",
+          "급성 세균성 장염",
+          "식중독",
+          "복통"
+        ],
+        "rejected": false,
+        "top_disease": "변실금",
+        "top_category": "종류",
+        "distance": 0.35441768169403076,
+        "ok": false
+      },
+      {
+        "question": "눈이 가렵고 충혈됐어요",
+        "acceptable_diseases": [
+          "알레르기결막염",
+          "유행각결막염"
+        ],
+        "rejected": false,
+        "top_disease": "안외상(각막찰과상)",
+        "top_category": "증상",
+        "distance": 0.3133156895637512,
+        "ok": false
+      },
+      {
+        "question": "발가락 사이가 가렵고 허물이 벗겨져요",
+        "acceptable_diseases": [
+          "발 백선(무좀)"
+        ],
+        "rejected": false,
+        "top_disease": "발 백선(무좀)",
+        "top_category": "증상",
+        "distance": 0.30014657974243164,
+        "ok": true
+      },
+      {
+        "question": "콧물이 계속 나고 코가 막혀요",
+        "acceptable_diseases": [
+          "만성비염"
+        ],
+        "rejected": false,
+        "top_disease": "만성비염",
+        "top_category": "증상",
+        "distance": 0.2567855715751648,
+        "ok": true
+      },
+      {
+        "question": "소변볼 때 아프고 자주 마려워요",
+        "acceptable_diseases": [
+          "방광염"
+        ],
+        "rejected": false,
+        "top_disease": "방광염",
+        "top_category": "증상",
+        "distance": 0.23628157377243042,
+        "ok": true
+      },
+      {
+        "question": "요즘 기분이 계속 가라앉고 우울해요",
+        "acceptable_diseases": [
+          "우울감"
+        ],
+        "rejected": false,
+        "top_disease": "우울감",
+        "top_category": "개요",
+        "distance": 0.32995545864105225,
+        "ok": true
+      },
+      {
+        "question": "발뒤꿈치가 아파서 걷기 힘들어요",
+        "acceptable_diseases": [
+          "족저근막염"
+        ],
+        "rejected": false,
+        "top_disease": "족저근막염",
+        "top_category": "증상",
+        "distance": 0.36785024404525757,
+        "ok": true
+      },
+      {
+        "question": "봄만 되면 눈도 가렵고 재채기가 심해요",
+        "acceptable_diseases": [
+          "알레르기",
+          "알레르기결막염",
+          "만성비염"
+        ],
+        "rejected": false,
+        "top_disease": "알레르기결막염",
+        "top_category": "증상",
+        "distance": 0.4028759002685547,
+        "ok": true
+      },
+      {
+        "question": "삭신이 다 쑤셔요",
+        "acceptable_diseases": [
+          "섬유근육통",
+          "감기",
+          "만성피로증후군"
+        ],
+        "rejected": false,
+        "top_disease": "구역질과 구토",
+        "top_category": "정의",
+        "distance": 0.4342053532600403,
+        "ok": false
+      },
+      {
+        "question": "속이 니글거려요",
+        "acceptable_diseases": [
+          "구역질과 구토",
+          "소화불량"
+        ],
+        "rejected": false,
+        "top_disease": "위식도역류질환",
+        "top_category": "증상",
+        "distance": 0.46496862173080444,
+        "ok": false
+      },
+      {
+        "question": "머리가 띵해요",
+        "acceptable_diseases": [
+          "두통",
+          "편두통",
+          "어지럼",
+          "노인 어지럼증"
+        ],
+        "rejected": true,
+        "top_disease": null,
+        "top_category": null,
+        "distance": 0.5075712203979492,
+        "ok": false
+      },
+      {
+        "question": "몸이 좀 안 좋아요",
+        "acceptable_diseases": [
+          "감기",
+          "만성피로증후군"
+        ],
+        "rejected": false,
+        "top_disease": "기후변화에 의한 폭염",
+        "top_category": "예방 및 대처",
+        "distance": 0.37830376625061035,
+        "ok": false
+      },
+      {
+        "question": "요즘 계속 피곤하고 잠도 잘 안 와요",
+        "acceptable_diseases": [
+          "만성피로증후군"
+        ],
+        "rejected": false,
+        "top_disease": "만성피로증후군",
+        "top_category": "증상",
+        "distance": 0.3518470525741577,
+        "ok": true
+      },
+      {
+        "question": "화장실을 자주 안 가는데 배가 콕콕 찌르듯 아파요",
+        "acceptable_diseases": [
+          "담석증",
+          "과민성 장증후군",
+          "과민성장증후군",
+          "복통"
+        ],
+        "rejected": false,
+        "top_disease": "직장탈출증",
+        "top_category": "증상",
+        "distance": 0.39271169900894165,
+        "ok": false
+      },
+      {
+        "question": "울긋불긋 뭐가 올라오는데 가렵지는 않아요",
+        "acceptable_diseases": [
+          "두드러기"
+        ],
+        "rejected": false,
+        "top_disease": "두드러기",
+        "top_category": "종류",
+        "distance": 0.4157799482345581,
+        "ok": true
+      }
+    ]
+  }
+}

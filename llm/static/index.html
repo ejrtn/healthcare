@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Self Health Check</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #212121;
+            --sidebar-color: #171717;
+            --text-color: #ececec;
+            --user-msg-bg: #2f2f2f;
+            --bot-msg-bg: transparent;
+            --accent-color: #10a37f; /* ChatGPT Green */
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: 'SGPurple', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            display: flex;
+            height: 100vh;
+        }
+
+        /* Sidebar */
+        #sidebar {
+            width: 260px;
+            background-color: var(--sidebar-color);
+            display: flex;
+            flex-direction: column;
+            padding: 15px;
+            box-sizing: border-box;
+            border-right: 1px solid #444;
+        }
+
+        .new-chat-btn {
+            border: 1px solid #4d4d4d;
+            border-radius: 5px;
+            padding: 10px;
+            text-align: left;
+            background: transparent;
+            color: white;
+            cursor: pointer;
+            transition: 0.3s;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .new-chat-btn:hover { background-color: #2d2d2d; }
+
+        /* Main Chat Area */
+        #main-chat {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            position: relative;
+        }
+
+        #chat-window {
+            flex: 1;
+            overflow-y: auto;
+            padding-bottom: 150px; /* input 공간 확보 */
+        }
+
+        .message-row {
+            padding: 25px 20%;
+            display: flex;
+            gap: 20px;
+            line-height: 1.6;
+        }
+
+        .message-row.user-row { background-color: var(--bg-color); }
+        .message-row.bot-row { background-color: #212121; }
+
+        .avatar {
+            width: 30px;
+            height: 30px;
+            border-radius: 2px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 18px;
+            flex-shrink: 0;
+        }
+
+        .user-avatar { background-color: #5436da; }
+        .bot-avatar { background-color: var(--accent-color); }
+
+        .content {
+            max-width: 900px;
+            word-wrap: break-word;
+            font-size: 16px;
+        }
+
+        /* Input Area */
+        #input-container {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            padding: 20px 20%;
+            background: linear-gradient(transparent, var(--bg-color) 30%);
+        }
+
+        .input-box-wrapper {
+            position: relative;
+            background-color: #2f2f2f;
+            border-radius: 12px;
+            border: 1px solid #444;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            display: flex;
+            align-items: center;
+            padding: 10px 15px;
+        }
+
+        input {
+            flex: 1;
+            background: transparent;
+            border: none;
+            color: white;
+            font-size: 16px;
+            outline: none;
+            padding: 10px;
+        }
+
+        #send-btn {
+            background-color: var(--accent-color);
+            color: white;
+            border: none;
+            border-radius: 5px;
+            width: 32px;
+            height: 32px;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: 0.2s;
+        }
+
+        #send-btn:disabled { background-color: #444; cursor: not-allowed; }
+
+        /* Typing Indicator */
+        .typing { font-size: 12px; color: #aaa; margin-top: 5px; }
+
+        /* Sources */
+        .sources {
+            margin-top: 10px;
+            padding-top: 8px;
+            border-top: 1px solid #444;
+            font-size: 12px;
+            color: #aaa;
+        }
+        .sources .source-tag {
+            display: inline-block;
+            background-color: #2f2f2f;
+            border: 1px solid #444;
+            border-radius: 10px;
+            padding: 2px 8px;
+            margin: 2px 4px 2px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="sidebar">
+        <button class="new-chat-btn" onclick="location.reload()">
+            <i class="fa-solid fa-plus"></i> New Chat
+        </button>
+        <div style="margin-top: auto; font-size: 12px; color: #666; text-align: center;">
+            © 2024 AI Health Check
+        </div>
+    </div>
+
+    <div id="main-chat">
+        <div id="chat-window">
+            <!-- Messages will appear here -->
+            <div class="message-row bot-row">
+                <div class="avatar bot-avatar"><i class="fa-solid fa-robot" style="font-size: 14px;"></i></div>
+                <div class="content">안녕하세요. 증상을 말씀해 주시면 의학 지식을 바탕으로 자가 진단을 도와드릴게요.</div>
+            </div>
+        </div>
+
+        <div id="input-container">
+            <div class="input-box-wrapper">
+                <input type="text" id="user-input" placeholder="메시지를 입력하세요..." onkeypress="if(event.keyCode==13) sendMessage()">
+                <button id="send-btn" onclick="sendMessage()">
+                    <i class="fa-solid fa-arrow-up"></i>
+                </button>
+            </div>
+            <p style="text-align: center; font-size: 11px; color: red; margin-top: 10px;">
+                AI는 실수할 수 있습니다. 중요한 건강 결정은 의사와 상의하세요.
+            </p>
+        </div>
+    </div>
+
+    <script>
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+
+        function renderSources(sources) {
+            if (!sources || sources.length === 0) return '';
+            const tags = sources
+                .map(s => `<span class="source-tag">${escapeHtml(s.disease)} - ${escapeHtml(s.category)}</span>`)
+                .join('');
+            return `<div class="sources">출처: ${tags}</div>`;
+        }
+
+        // 멀티턴 증상 되묻기를 위한 대화 이력. 서버는 상태를 안 가지므로
+        // 매 요청마다 이걸 통째로 같이 보낸다.
+        let conversationHistory = [];
+
+        async function sendMessage() {
+            const input = document.getElementById('user-input');
+            const chatWindow = document.getElementById('chat-window');
+            const sendBtn = document.getElementById('send-btn');
+
+            if(!input.value.trim()) return;
+
+            const userMsg = input.value;
+            input.value = '';
+            input.disabled = true;
+            sendBtn.disabled = true;
+
+            // 사용자 메시지 추가
+            chatWindow.innerHTML += `
+                <div class="message-row user-row">
+                    <div class="avatar user-avatar"><i class="fa-solid fa-user" style="font-size: 14px;"></i></div>
+                    <div class="content">${escapeHtml(userMsg)}</div>
+                </div>
+            `;
+            chatWindow.scrollTop = chatWindow.scrollHeight;
+
+            try {
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({message: userMsg, history: conversationHistory})
+                });
+                const data = await response.json();
+
+                conversationHistory.push({role: 'user', content: userMsg});
+                conversationHistory.push({role: 'assistant', content: data.answer});
+
+                // 봇 메시지 추가 (답변 + 출처). 되묻는 질문(is_followup)이면 출처를 안 붙인다.
+                chatWindow.innerHTML += `
+                    <div class="message-row bot-row">
+                        <div class="avatar bot-avatar"><i class="fa-solid fa-robot" style="font-size: 14px;"></i></div>
+                        <div class="content">${escapeHtml(data.answer)}${data.is_followup ? '' : renderSources(data.sources)}</div>
+                    </div>
+                `;
+            } catch (error) {
+                chatWindow.innerHTML += `
+                    <div class="message-row bot-row">
+                        <div class="avatar bot-avatar"><i class="fa-solid fa-triangle-exclamation"></i></div>
+                        <div class="content">서버 연결에 실패했습니다. 서버가 실행 중인지 확인하세요.</div>
+                    </div>
+                `;
+            } finally {
+                input.disabled = false;
+                sendBtn.disabled = false;
+                input.focus();
+                chatWindow.scrollTop = chatWindow.scrollHeight;
+            }
+        }
+    </script>
+</body>
+</html>

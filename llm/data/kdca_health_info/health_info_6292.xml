@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[수근굴(수근관) 증후군]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6292]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[손목은 우리 신체에서 가장 운동 범위가 넓은 부위로, 손의 움직임에 관여하는 근육의 힘줄(건), 감각을 담당하는 감각 신경과 운동에 관여하는 운동 신경, 혈액 공급에 필요한 혈관 등이 팔에서 손목을 통해 손으로 이어집니다. 손등 쪽으로도 근육의 힘줄(건), 감각 신경, 운동 신경 및 혈관이 손목을 통과하며, 손바닥 쪽으로도 근육과 힘줄, 감각 신경, 운동 신경 및 혈관이 지나갑니다. 손등 쪽에서는 상기 구조물들이 넓게 퍼져서 손목 부위를 지나는 반면, 손바닥 쪽에서는 중심 부위에 뭉쳐서 지나가는데, 이 부분이 가장 좁아 구조물들이 손목에 밀집됩니다.
+손바닥 쪽에서 구조물들이 손목을 지날 때 그 위를 덮어주는 막을 가로 손목 인대(수평 손목 인대, 수근관 인대, 횡수근 인대)라고 합니다. 즉, 힘줄과 신경은 이 인대의 아래에 놓입니다. 이 인대와 주변 조직에 의해 둘러싸인 공간을 수근굴 또는 수근관이라고 합니다. 정리하면 손의 움직임에 관여하는 힘줄과 신경이 수근굴(수근관) 안에 존재하는 것입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a7a24]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수근굴(수근관) 증후군이란 엄지손가락과 둘째, 셋째, 그리고 넷째 손가락의 엄지 쪽 절반의 감각 및 엄지손가락 운동 기능의 일부를 담당하는 정중 신경이 손목 부위에서 압박되어, 손과 손가락의 저림, 통증, 감각 저하, 부종, 힘의 약화 등이 나타나는 말초 신경 압박 증후군입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다양한 원인에 의해  발생합니다. 유전적 요인도 관련이 있으며, 특별한 선행 질환 없이 발생하는 경우가 대부분이나 손목 골절 후 부정 유합이나 관절염, 수근관 내 종양(결절종 등)에 의해 생기기도 하고, 전신적 원인, 특히 당뇨병이나 만성 신부전증 환자에서 발생하기도 합니다. 흔히 동반되는 질환으로는 류마티스 관절염, 건염, 유전분증, 갑상선 기능 저하증, 당뇨병, 말단 비대증, 골관절 기형 등이 있지만, 대부분 정확한 원인을 모르며 과도한 반복적인 손의 사용과 관계가 있다고 생각됩니다.
+
+2016년 Padua의 연구에서는 임산부에서 일시적으로 수근굴 증후군이 나타났다가 출산 후 호전되는 경우가 있는데, 임신으로 인한 부종 및 호르몬 변화가 원인이라고 추정했습니다.
+직업과 관련해 손에 진동이 많이 전달되는 일을 하는 노동자나 손목을 세게 구부리는 동작을 반복하는 사람(작업장 근로자, 운전기사, 목수 등), 손목이 고정된 자세로 컴퓨터 작업을 많이 하는 사무직, 손을 빠른 속도로 반복해서 사용하는 사람(악기 연주자 등)에서도 흔히 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수근굴(수근관) 증후군은 수근굴 내 압력이 증가해 그 속을 지나는 정중 신경이 압박을 받기 때문에 발생합니다. 압력에 대한 감수성은 개인마다 달라서 수근굴의 압력이 높은데도 수근굴 증후군이 생기지 않을 수 있으며, 압력이 그리 높지 않아도 수근굴 증후군이 생길 수도 있습니다.
+신경은 힘줄과 달리 조직이 부드러워서 압박에 의해 손상받기 쉽습니다. 수근굴 내에서 정중 신경이 압박을 받는 경우는 1) 수근굴 공간이 좁아짐 2) 공간 속 내용물이 팽창해 상대적으로 수근굴 공간이 좁아지는 효과가 나타남 등 두 가지입니다.
+수근굴은 손목을 손등 쪽이나 손바닥 쪽으로 많이 젖히거나, 가로 손목 인대가 두꺼워지면 공간이 좁아져 그 속에 있는 정중 신경이 눌립니다. 특히 손목을 손바닥 쪽으로 많이 구부리면 손바닥에 있던 구조물의 일부가 손목 쪽으로 밀려가 수근굴 내의 내용물의 부피가 늘어나는 효과가 생겨 정중 신경이 더 많이 눌리게 됩니다.
+수근굴을 통과하는 힘줄은 저마다 얇은 막으로 둘러싸여 있습니다. 이 막은 손가락을 움켜쥐거나 펼 때 힘줄이 원활하게 미끄러지는 것을 돕는데, 힘줄을 지나치게 많이 사용해 자극받거나 염증이 있으면 힘줄을 둘러싼 막이 붓고 두꺼워져 수근굴 공간이 상대적으로 좁아지므로 정중 신경이 눌릴 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수근굴 증후군은 가장 흔한 압박성 말초 신경병증입니다. 2015년 Newington 조사에 따르면 유병률이 인구 100명당 약 10명으로 주로 30세 이상의 성인에서 나타나며 남성보다 여성, 특히 중년 여성에서 자주 발생합니다. 비만, 당뇨가 있으면 수근굴 증후군 발생 가능성이 높습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일반적으로 손이 저리면 혈액 순환 장애로 생각하는데, 실제로는 말초 신경의 장애로서 특히 수근굴 증후군이 원인인 경우가 많습니다. 특히 한밤중에 손이 저려서 깊게 자지 못하거나 자다 깬다면 수근굴 증후군의 가능성을 생각해야 합니다.
+환자들은 흔히 손 전체가 저리다고 하지만, 자세히 진찰해보면 손등 및 새끼손가락, 넷째 손가락의 새끼손가락 쪽 절반의 감각은 정상입니다. 반면 엄지손가락, 둘째 손가락, 셋째 손가락, 넷째 손가락의 엄지쪽 절반과 그 아래 손바닥 피부의 감각은 둔합니다. 진행된 경우에는 엄지 두덩(무지구)의 근육이 위축되어 납작해집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a7b05]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 병력 청취
+증상의 양상과 발생 시기, 심한 정도, 과거 병력, 일반 건강 상태 등을 확인합니다. 신경을 압박하는 여러 질환들을 감별해야 하며, 만성 신부전, 비만, 당뇨병, 갑상선 기능 이상 등의 전신 질환에서도 유사한 증상이 발생할 수 있고, 임신 중에 일시적으로 나타날 수도 있음을 고려해야 합니다. 수근굴 증후군은 손목을 지나치게 굽히거나 펼 때 증상이 악화되는 경향이 있습니다. 양측 손등을 맞대고 손목을 구부리면 손바닥과 손가락의 저린 증상이 심해지는데, 이 진찰 방법은 자가 진단법으로도 유용합니다.
+
+2. 신체 검진
+수근굴 증후군의 진단 검사 방법은 다음과 같습니다.
+
+1) 손목 굴곡 검사(팔렌 검사)
+
+손등을 마주한 자세로 손목을 굽혀 유지할 때 1분 안에 손이 저려 오면 수근굴 증후군을 의심합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a7f29]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 신경 타진 검사(틴넬 징후)
+
+정중 신경이 지나는 부위를 두드릴 때 손가락이 저리면 수근굴 증후군을 의심합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a7be6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 정중 신경 압박 검사
+
+정중 신경이 지나는 손바닥 쪽 손목의 전방 부위를 손가락으로 깊게 누를 때, 정중 신경 분포 영역에 이상 감각이나 통증이 나타나면 수근굴 증후군을 의심합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a7d17]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 신경 근전도 검사(근전도 검사, electroneuromyography) 
+임상 증상만으로 다른 질병을 완전히 배제할 수는 없기 때문에, 정확한 진단을 위해 신경 근전도 검사 등 전기 생리학적 검사를 시행합니다.
+신경 근전도 검사에는 근전도 검사, 신경전도 검사, 유발 전이 검사 등이 있으며 신경이나 근육에 병이 있는지, 병변이 어느 부위에 있는지, 얼마나 심한지 등 질병 유무 및 진행, 회복 등을 판별할 수 있습니다. 신경 근전도 검사 시에는 표면 전극이나 침 전극을 이용해 인위적으로 신경과 근육을 자극합니다. 침 전극을 쓰면 경미한 통증을 느낄 수 있으나 부작용이나 특별한 후유증이 없는 안전한 검사입니다. 검사 시간은 약 30 분~1시간 정도 소요됩니다. 한쪽 손에만 증상이 있더라도 검사에서는 양손 모두 이상 소견이 관찰되는 경우가 많습니다.한편, 신경 눌림 증상이 지속되지 않고 일시적으로 해소되는 등 경미하거나 초기인 경우에는 신경 근전도 검사에서 이상이 나타나지 않을 수도 있습니다.  
+
+
+4. 단순 방사선(X-ray)  검사 
+ 손목의 정면과 측면 및 수근굴 상(carpal tunnel view)을 촬영해 손목 관절 부위의 관절염, 수근골(손목을 구성하는 뼈) 이상, 연부 조직의 석회침착 등을 평가하며, 경추(목뼈)의 정면과 측면 사진을 촬영해 경추 퇴행성 관절염 및 추간판(디스크) 질환이 동반되어 있는지도 평가하는 것이 좋습니다. 경추의 이상으로 손 저림 증상이 나타날 수도 있기 때문입니다. 
+
+
+5. 기타 검사 
+
+1) 혈액 검사 
+ 수근굴 증후군과 연관된 질환을 확인하기 위해 혈구 검사, 갑상선 기능 검사, 혈당 검사, 류마티스 인자 검사 등 전신 상태 검사를 시행하고, 염증 반응을 알아보는 적혈구 침강 속도(Erythrocyte Sedimentation Rate, ESR)와 C 반응성 단백(C-Reacive Protein, CRP)을 측정할 수 있습니다.
+
+
+2) 초음파 검사 
+ 가로 손목 인대의 비후나 융기, 국소적 신경 압박 및 압박 근위부나 원위부의 부종, 수근굴 내 종양 등을 관찰할 수 있습니다. 최근 고해상도 초음파가 개발되어 근전도만큼 정확한 진단을 내릴 수 있게 되면서 사용이 느는 추세입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수근굴 증후군의 치료는 크게 보존적(비수술적) 방법과 수술적 방법이 있습니다. 보존적 방법은 증상이 심하지 않고 엄지 두덩의 근육 위축이 없으면서 증상이 생긴 지 오래되지 않은 경우에 가능합니다. 엄지 두덩이 평평해지거나 수근굴 내 종양 등 제거해야 할 확실한 병리가 있는 경우, 3개월 이상 보존적으로 치료해도 호전이 없거나 악화되는 경우, 수술적 치료 후 재발한 경우에는 수술적 치료를 고려하여야 합니다. 구체적인 치료 방법은 의사와 충분히 상의해 결정하는 것이 바람직합니다. 
+
+
+1. 비수술적(보존적) 치료 방법
+
+1) 휴식 
+
+손 저림이 있다고 해서 반드시 수술을 하는 것은 아닙니다. 가끔씩 손 저림이 나타나는 초기 질환은 일상생활에서 손목을 굽히는 자세를 피하기만 해도 증상이 좋아질 수 있습니다. 지나친 손목과 손의 사용을 피하고, 장시간 손목이 낮은 자세로 작업할 때는 손목 아래에 쿠션을 받쳐 주면 증상이 호전되기도 합니다. 마우스나 키보드를 사용할 때 손목 받침용 쿠션을 사용하는 것도 도움이 됩니다.
+
+
+2) 손목 부목(splint)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a81f3]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[일시적으로 손목을 고정해 과도한 사용을 방지하는 것도 증상을 완화할 수 있습니다. 
+잠잘 때의 통증이 문제라면 수면 시 부목을 착용해 증세를 호전시킬 수 있습니다.
+
+3) 경구 약물 치료 
+
+소염 진통제, 신경 재생을 촉진하는 비타민B 등이 도움이 됩니다. 수근관 내 힘줄과 힘줄을 둘러싼 막 주위에 염증(건초염, 활액막염)이 있으면 경구 소염 진통제로 호전될 수 있습니다. 깨어 있을 때 가벼운 통증이 있거나, 손의 힘이 가끔 약해질 경우에도 소염 진통제가 도움이 됩니다. 수근관 내 부종이 문제라고 생각된다면 소염 진통제와 함께 이뇨제를 사용할 수도 있으나 의사와 상의해야 합니다.
+
+4) 주사 요법]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95a8456]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[비수술적 치료인 손목 주사 요법을 시행하는 모습입니다. 그러나 이 방법은 수 주 간격(4~6주)으로 2~3회만 시도할 수 있습니다. 또한 수근굴 내 결절종 등의 종양이나 감염처럼 확실한 병리가 없는 경우에 한해 시행해야 합니다. 통증은 심하나 신경 근전도 검사 결과가 나쁘지 않은 경우, 임신 중 발생한 것과 같이 일시적인 경우에 효과가 있습니다. 증세의 완화는 일시적이며 재발하는 경우가 많다는 데 유의해야 합니다.
+비수술적 방법으로 치료했음에도 증세가 악화 또는 지속된다면 수술을 고려합니다.
+
+2. 수술적 치료 방법 
+
+수근굴 증후군의 수술적 치료는 손바닥을 절개하고 가로 손목 인대를 잘라 정중신경 압박을 풀어주는 것입니다. 국소마취, 부위마취 혹은 전신마취가 필요합니다. 과거에는 손목에 큰 절개선을 넣어 손목과 손바닥에 흉터가 크게 생기고 통증도 심했으나, 최근에는 최소 절개법으로 2~3 cm 정도의 흉터만 생기므로 외관상으로도 우수한 결과를 얻고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18c0e29c7ad9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18bea3620527]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[최근에는 내시경 수술이 소개되어, 시행 빈도가 늘고 있습니다. 내시경 수술은 기존의 관혈적 수술보다 절개 부위가 작고, 피부나 다른 조직 손상이 적어 수술 후 통증을 줄이고 빠른 회복이 가능합니다. 하지만, 불완전한 수술로 증상이 지속되거나 일시적인 신경손상 가능성이 존재합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다음과 같은 운동은 수근굴 증후군 증상을 일부 줄여줄 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18bea36a1532]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[운동 중 통증이나 다른 증상이 오히려 심해진다면 즉각 운동을 중단하고, 의료진과 상의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수술의 부작용으로 수술 절개 부위가 비후되거나 통증이 발생할 수 있으며, 증상이 재발할 수도 있습니다. 드물지만 수술 부위 감염이나 수술로 인한 정중신경 혹은 주변 혈관 손상도 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수근굴 증후군을 예방하려면 생활습관 관리가 중요합니다. 손목을 과도하게 사용하지 않고, 과도하게 사용했다면 충분한 휴식을 취하는 것이 좋습니다. 손목이 심하게 펴지거나 구부러진 상태를 피하고, 특히 스마트폰을 장시간 사용할 때는 손의 자세를 자꾸 바꿔주어야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 수근굴 증후군 진단을 받았는데, 언제 전문의를 만나야 할까요?
+
+A. 증상이 심하지 않은 경우에는 먼저 6주간 부목 고정, 약물 치료 등 비수술적 치료를 시도해봅니다. 증상이 호전되지 않으면 수부 전문의 진료를 권합니다. 증상이 심하다면(근력 저하, 무지근 위축, 감각 저하) 바로 수부 전문의 진료를 권합니다.
+
+Q. 신경 근전도 검사는 꼭 받아야 하나요?
+
+A. 수근굴 증후군은 증상과 신체검사를 통해 임상적으로 진단이 가능합니다. 따라서 항상 신경 근전도 검사가 필요하지는 않습니다.
+
+Q. 수근굴 증후군인 경우 반드시 수술을 받아야 하나요?
+
+A. 수근굴 증후군은 과거에 비해 수술 빈도가 높아지는 추세입니다. 과거에 절개 부위가 컸을 때는 흉터도 크고 합병증도 있었으나, 최근 절개 부위가 작아지면서 큰 부작용이나 합병증 없이 증상이 개선되어 환자의 만족도가 높아졌기 때문입니다. 증세를 보인 지 얼마 안 된 젊은 환자라면 약물 치료나 보존적 요법(비수술적 요법)만으로 증상이 좋아질 수 있습니다. 그러나 증세가 수 개월에서 수 년간 지속되었다면 수술을 하는 것이 바람직합니다. 3개월 이상 약물 치료 등 보존적 치료를 했는데도 증상이 호전되지 않거나, 신경 마비가 진행하는 경우, 손의 근육이 위축될 정도로 심한 경우라면 수술을 고려해야 합니다.
+
+Q. 수술 후에 바로 손을 사용할 수 있나요?
+
+A.  수술 후 2주 동안만 조심하면 그 뒤로는 정상 생활이 가능합니다. 수술 후 회복 정도는 신경 압박 정도, 압박 지속 기간, 당뇨병 유무와 밀접한 관계가 있습니다. 손 저림 초기나 중기에 수술하면 수술 다음날부터 손 저림이 크게 줄어듭니다. 그러나 이미 손바닥 근육이 위축되었거나, 당뇨가 있거나, 너무 오랜 기간 방치했거나, 재발로 재수술을 한 경우에는 수술을 받아도 회복 기간이 상당히 길어집니다. 엄지 두덩의 근육 위축이 심하고 감각 저하가 현저하다면 손 저림의 완전 해소보다는 신경 압박으로 인한 증상 악화를 예방하기 위해 수술을 시행합니다. 부득이하게 전신 마취를 하는 경우를 제외하고 입원 기간은 2~3일 정도로 짧고, 통원 치료도 가능합니다. 수술 후에는 붕대를 감은 채 손을 쓸 수 있으며, 수술 2주 후 봉합사를 제거하면 대부분의 활동이 가능합니다. 봉합사를 뽑은 후에는 더 이상 소독할 필요가 없으며, 수술 후 손의 사용을 억제하는 것보다 가능한 범위 내에서 일상 생활을 하는 것이 신경 재생과 손 기능 회복에 더 도움이 됩니다. 환자에 따라 신경 기능 회복이 더딘 경우도 있으나 대부분 만족스러운 결과를 얻을 수 있습니다.
+
+Q. 수근굴 증후군을 예방하려면 어떻게 해야 하나요?
+
+A. 수근굴 증후군은 여러 요인이 복합적으로 작용해 생기므로 한두 가지 예방법만으로 큰 효과를 볼 수는 없습니다. 우선 잘못된 자세를 고치는 것이 가장 중요합니다. 장시간 손목이 구부러진 상태로 일을 하지 않도록 하며, 평소 손목 돌리기나 깍지 낀 상태로 팔 뻗기 등 스트레칭을 통해 근육을 풀어주는 것이 좋습니다. 장시간 컴퓨터를 사용하는 경우 키보드나 마우스에 닿는 손가락보다 손목이 낮은 자세로 작업하는 데서 문제가 생기므로, 피아노를 치듯 손목과 손가락이 평형을 유지한 상태에서 작업해야 합니다. 스펀지 같은 것으로 받쳐 손목을 높이는 것도 좋은 방법입니다. 컴퓨터를 사용할 때는 3~4분 간격으로 손을 털어주고, 의자에 등을 기대어 짧은 휴식을 취하는 것이 도움이 됩니다. 손가락이 약간 뻐근할 때 주먹을 꽉 쥐었다가 천천히 푸는 동작을 반복하는 것도 손목 신경에 도움이 됩니다. 수근굴 증후군이 발생했더라도 악화를 예방하기 위해 지나친 손목이나 손의 사용, 운동을 억제하고 작업 환경을 개선해 손의 부담을 덜어주어야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Padua, L., Coraci, D., Erra, C., Pazzaglia, C., Paolasso, I., Loreti, C., ... Hobson-Webb, L. D. (2016). Carpal tunnel syndrome: clinical features, diagnosis, and management. The Lancet Neurology, 15(12), 1273-1284.
+2. Currie, K. B., Tadisina, K. K., &amp; Mackinnon, S. E. (2022). Common Hand Conditions: A Review. JAMA, 327(24), 2434–2445.
+3. Newington, L., Harris, E. C., &amp; Walker-Bone, K. (2015). Carpal tunnel syndrome and work. Best practice &amp; research. Clinical rheumatology, 29(3), 440–453.
+4. Wessel, L. E., Gu, A., Asadourian, P. A., Stepan, J. G., Fufa, D. T., &amp; Osei, D. A. (2021). The Epidemiology of Carpal Tunnel Revision Over a 1-Year Follow-Up Period. The Journal of hand surgery, 46(9), 758–764.
+5. Coppieters, M. W., &amp; Alshami, A. M. (2007). Longitudinal excursion and strain in the median nerve during novel nerve gliding exercises for carpal tunnel syndrome. Journal of orthopaedic research : official publication of the Orthopaedic Research Society, 25(7), 972–980.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

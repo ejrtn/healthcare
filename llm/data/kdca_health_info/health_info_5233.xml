@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[중증열성혈소판감소증후군(SFTS)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5233]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 중증열성혈소판감소증후군(SFTS)은 참진드기에 물려 감염되는 바이러스성 질환으로, 주로 4월부터 11월 사이에 발생합니다.
+• 감염 후 5~14일의 잠복기를 거쳐 고열, 구토, 설사, 림프절 비대 등의 증상이 나타나며, 중증의 경우 다발성 장기부전이나 신경계 증상으로 이어질 수 있습니다.
+• 아직 백신이나 치료제는 없기 때문에, 진드기에 물리지 않도록 예방하는 것이 가장 중요합니다.
+• 풀숲이나 들판에서는 긴 옷을 입고, 야외활동 후에는 샤워로 진드기 부착 여부를 확인해야 합니다.
+• SFTS는 치명률이 약 20%에 달하는 감염병으로, 발열 등 의심 증상이 있을 때는 즉시 의료기관을 방문해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[중증열성혈소판감소증후군(severe fever with thrombocytopenia syndrome, SFTS)이란 중증열성혈소판증후군 바이러스(huaiyangshan banyangvirus)에 의한 감염병입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 신고범위: 환자, 의사환자
+2. 신고시기: 24시간 이내 신고
+3. 신고를 위한 진단기준
+ 1) 환자: 중증열성혈소판감소증후군에 부합하는 임상증상을 보이면서 진단을 위한 검사방법에 의해 해당 병원체 감염이 확인된 사람
+ 2) 의사환자(추정환자): 임상증상 및 역학적 연관성을 고려하여 중증열성혈소판 감소증후군이 의심되며, 추정 진단을 위한 검사 기준에 따라 감염이 추정되는 사람
+4. 진단을 위한 검사기준]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a52dd88082]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[5. 신고 방법: 신고서를 작성하여 관할 보건소로 팩스 전송 또는 웹 입력 방법으로 신고]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[중증열성혈소판감소증후군(SFTS)은 주로 중증열성혈소판감소증후군 바이러스에 감염된 참진드기에 물려서 감염됩니다. 드물지만 SFTS에 감염된 사람 또는 동물의 혈액이나 체액에 노출될 경우 사람에게 전파 될 수 있습니다. 그리고 중증열성혈소판감소증후군에 감염된 동물(개, 고양이 등)에 의해 사람에게 전파도 가능합니다. 일상생활 접촉, 공동생활을 통해 감염이 전파되는 경우는 거의 없습니다.
+국내에서 SFTS를 올미기는 주요 진드기는 ‘작은소피참진드기’입니다. 지금까지 매개체로 확인된 진드기로는 ‘개피참진드기’, ‘뭉뚝참진드기’, ‘일본참진드기’ 가 있습니다.
+진드기에 물린 뒤 실제 진드기를 병원에 가져가면 진단에 큰 도움이 됩니다. SFTS가 아닌 다른 곤충에 물린 경우도 많기 때문에, 어떤 벌레가 물었는지를 확인하는 것이 중요합니다. 만약 벌레을 잡지 못했다면, 기억이 생생할 때 스마트폰으로 비슷한 진드기나 곤충 사진을 찾아보고 물고 있던 벌레와 가장 비슷한 사진을 저장해 두면 진단에 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a52f9c0855]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 발생현황
+1) 연도별 환자 발생현황
+중증열성혈소판감소증후군(SFTS)은 2013년에 법정감염병(제4군)으로 지정된 질환입니다. 이후 2020년 ｢감염병의 예방 및 관리에 관한 법률｣ 개정에 따라 제3급 법정감염병으로 분류도어 계속 감시하고 있습니다. 환자 발생은 감시를 시작한 초기에는 꾸준히 증가했으나, 2017년 이후에는 매년 약 200명 내외로 발생하고 있습니다. 2015년부터 2024년까지 누적 치명률은 18.0%입니다.  2024년 환자 수는 170명으로 전년대비 14.1% 감소했으며, 사망자는 26명으로 전년대비 31.6% 감소하였습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a5311302b8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 지역별 환자 발생 현황
+2024년 기준 SFTS 환자가 많이 발생하는 지역으로는 강원도(32명), 경기도(28명), 경상북도(26명), 경상남도(16명)순이며, 사망자는 경상북도(8명), 강원도(6명), 서울·경기·전남(각 3명) 순으로 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a5312c3cd5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 월별 환자 발생 현황
+주로 4~11월에 발생하며 10월에 가장 많은 환자 발생이 보고됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a5313c4762]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 역학적 특성
+중증열성혈소판감소증후군(SFTS)의 위험 요인은 농림축산업 관련 논, 밭(노지 포함) 작업이 88건(51.8%)로 가장 많았고, 일회성 야외활동 중 제초(성묘/벌초 포함) 작업이 34건(20.0%) 순으로 높았습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a53162f845]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[중증열성혈소판감소증후군 바이러스에 감염된 주요 매개체(작은소피참진드기, 개피참진드기, 뭉뚝참진드기, 일본참진드기 등)에게 물린 후, 잠복기 5~14일(평균 9일)이 지나고 나면 3~10일 동안 고열(38~40℃까지)이 지속됩니다. 이때 혈액검사를 해보면 환자의 혈소판이 감소해있고 백혈구수치도 감소되어있는 것으로 확인되는 경우가 많습니다. 구역감, 구토 및 설사 등 소화기 증상이 나타나고, 림프절이 커진 채로 1~2주 이상 지속되기도 합니다. 중증의 경우, 다발성 장기부전(콩팥기능 저하, 혈압저하 등)이나 신경계증상(근육 잔떨림, 혼동 등), 혼수상태 등이 발생합니다. 중증열성혈소판감소증후군은 병증의 진행 속도가 빠르며, 치명률이 약 20%로 다른 감염병보다 높아, 환자를 조기에 발견하여 적기에 치료하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a5318aac68]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a531977ab2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[중증열성혈소판감소증후군의 진단은 환자의 검체(혈청 등)에서 바이러스를 분리하거나 유전자를 검출하여 확진합니다. 환자의 혈액검사 결과를 보면, 혈소판감소, 백혈구 감소, 혈청 전해질 이상(저나트륨혈증, 저칼슘혈증), 혈청효소이상(AST, ALT, LDH, CK 상승), 소변검사 이상(단백뇨, 혈뇨) 등이 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[중증열성혈소판감소증후군은 아직 백신과 치료제가 없기 때문에 진드기에 물리지 않도록 예방하는 것이 가장 중요합니다.
+야외에서 진드기를 피하려면 다음과 같은 방법이 도움이 됩니다.
+• 풀숲·숲길 등 진드기가 많은 장소에서는 긴소매, 긴 바지, 긴 양말을 착용합니다.바지단은 양말 안에 넣고, 발을 완전히 덮는 신발을 신으면 진드기 침투를 줄일 수 있습니다.
+• 풀밭에서 옷을 벗어두거나 그대로 눕지 않습니다.돗자리를 사용하고, 사용한 돗자리는 잘 털어 햇볕에 말려 관리합니다.
+• 풀밭에서 용변을 보는 등 피부가 노출되는 행동은 피합니다.
+• 등산 시 정해진 탐방로를 이용하고, 진드기를 옮길 수 있는 야생동물과의 접촉도 자제합니다.
+
+야외활동 후에는
+• 집에 돌아와 옷을 털고 바로 세탁합니다.
+• 샤워하면서 몸에 진드기가 붙어 있는지 확인합니다. 
+
+만약 진드기에 물린 경우에는
+• 의료기관에 방문하여 진드기를 안전하게 제거받습니다.
+• 방문이 어렵다면 올바른 제거 방법에 따라 제거 후 소독합니다.
+• 물린 뒤 약 14일 동안 몸 상태를 주의 깊게 살피고, 발열 등의 증상이 나타나면 의료기관에서 진찰을 받도록 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a535f2d788]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19a536e35495]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[150]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[중증열성혈소판감소증후군은 증상이 심할 수 있지만, 아직 효과가 입증된 백신과 치료제가 없습니다. 따라서 보존적 치료 즉, 탈수가 심하면 수액을 맞고, 혈압이 떨어지면 혈압상승제 주사를 맞으며, 콩팥기능 부전이 오면 투석을 하는 등 증상에 맞춰 치료를 받는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[153]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[최선의 치료에도 불구하고 중증열성혈소판감소증후군에 감염된 환자들 중 10~30%의 환자가 사망합니다. 따라서 감염된 경우 반드시 전문 의료진이 있는 병원에 입원하여 치료하는 것이 원칙입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청 (2024). 법정감염병 진단검사 통합지침
+2. 질병관리청 (2024). 진드기매개감염병의 이해
+3. 질병관리청 (2025). 2025년도 진드기·설치류 매개감염병 관리지침
+4. 질병관리청 (2025). 감염병포털. https://dportal.kdca.go.kr/pot/index.do]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

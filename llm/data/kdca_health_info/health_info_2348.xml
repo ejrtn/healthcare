@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[당뇨병 합병증(급성 합병증_당뇨병케토산증, 고혈당고삼투질상태)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[2348]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[당뇨병케토산증(diabetic ketoacidosis)과 고혈당고삼투질상태(hyperglycemic hyperosmolar state)는 일반적으로 심한 고혈당과 인슐린 결핍이 있을 때 발생합니다. 그러나 특정 당뇨병약을 사용하는 경우에는 고혈당이 심하지 않아도 당뇨병케토산증이 생길 수 있습니다. 당뇨병케토산증과 고혈당고삼투질상태는 임상 증상이 비슷하나, 탈수 정도와 산증의 중증도에 차이가 있습니다. 두 가지 합병증 모두 빠른 평가와 치료가 필요하므로 의심되는 환자는 신속히 병원을 찾아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 당뇨병케토산증이 발생하는 주요 요인은 다음과 같습니다.
+· 인슐린의 중단이나 부적절한 투여
+· 감염
+· 스테로이드, 교감신경작용제, 비정형정신병약 및 SGLT2(소듐포도당공동수송체2) 억제제 등의 약물
+
+2. 고혈당고삼투질상태가 발생하는 주요 요인은 다음과 같습니다.
+· 감염
+· 당뇨병약의 부적절한 투여
+· 뇌혈관질환과 심근경색증, 급성 췌장염 및 외상 등의 급성 질환]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[당뇨병케토산증과 고혈당고삼투질상태에서 나타날 수 있는 증상과 징후는 다음과 같습니다.
+· 소변량의 증가
+· 물 섭취량의 증가
+· 체중 감소
+· 메스꺼움, 구토 및 복통(주로 당뇨병케토산증에서)
+·  쇠약
+· 의식의 변화
+· 탈수
+· 저혈압
+· 빠른맥
+·  빠르고 깊은 호흡(당뇨병케토산증에서)
+· 국소적인 신경학적 변화]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[당뇨병 환자가 고혈당이 있으면서 쇠약감, 메스꺼움, 구토, 의식의 변화가 있을 때에는 당뇨병케토산증과 고혈당고삼투질상태를 의심해야 합니다. 당뇨병이 있는지도 모르다가 당뇨병케토산증이나 고혈당고삼투질상태로 당뇨병을 진단받는 경우도 있습니다.
+당뇨병케토산증과 고혈당고삼투질상태의 진단에는 자세한 병력청취와 진찰이 중요합니다. 이와 함께 혈액검사와 소변검사, 그리고 필요한 경우 영상검사 등을 시행해 진단하고 선행인자를 확인합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[당뇨병케토산증과 고혈당고삼투질상태의 주요 치료 내용은 다음과 같습니다.
+· 수액을 이용한 손실된 체액의 보충
+· 인슐린 투여
+· 전해질 이상의 교정
+· 선행인자의 해결
+
+치료 중인 환자는 상태를 자주 평가받고 회복 정도와 치료 과정에서 발생할 수 있는 합병증의 유무를 확인해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[당뇨병케토산증과 고혈당고삼투질상태는 대부분 주요 요인을 피하면 예방할 수 있습니다. 환자들은 교육을 통해 관련된 내용을 잘 알고 실천해야 합니다. 또한 당뇨병케토산증이나 고혈당고삼투질상태가 발생했을 때 빨리 병원을 방문할 수 있도록 증상과 징후를 알고 있어야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한당뇨병학회 진료지침위원회. (2021). 2021 당뇨병 진료지침 (제7판). 서울: 대한당뇨병학회.
+2. 대한당뇨병학회. (2018). 당뇨병학 (제5판). 서울: 범문에듀케이션.
+3. Umpierrez, G., &amp; Korytkowski, M. (2016). Diabetic emergencies - ketoacidosis, hyperglycaemic hyperosmolar state and hypoglycaemia. Nature reviews. Endocrinology, 12(4), 222–232. doi.org/10.1038/nrendo.2016.15.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(급성 합병증_고삼투압성 고혈당 증후군)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2349]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(급성 합병증_저혈당)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2350]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(급성 합병증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2347]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[당뇨병 합병증(만성 합병증)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[2351]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

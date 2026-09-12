@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[백내장]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6689]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 백내장은 눈 속의 수정체가 뿌옇게 흐려지면서 시력이 떨어지는 질환으로, 주로 나이가 들면서 발생하지만, 눈의 외상, 다른 질환, 유전적 요인 등으로도 생길 수 있습니다.
+• 초기에는 특별한 증상이 없지만, 시간이 지나면 시야가 흐려지거나 빛이 퍼져 보이고, 물체가 여러 개로 보이는 등 다양한 시력장애가 나타날 수 있습니다.
+• 백내장은 안과 검진을 통해 진단하며, 약물로 진행을 늦출 수는 있지만, 혼탁해진 수정체를 제거하고 인공수정체를 삽입하는 수술이 가장 효과적인 치료법입니다.
+• 인공수정체는 단초점, 다초점, 난시 교정용 등 종류가 다양하며, 환자의 눈 상태와 생활 방식에 따라 선택하게 됩니다.
+• 수술은 비교적 안전하지만, 드물게 감염, 인공수정체 탈구, 망막박리 같은 합병증이 생길 수 있어, 수술 전후로 주의가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[사람이 눈으로 물체를 보는 과정은 카메라가 사진을 찍는 과정과 비슷합니다. 외부에서 들어온 빛은 카메라의 렌즈에 해당하는 각막과 수정체를 통과하여, 필름에 해당하는 망막에 영상을 맺습니다. 망막에 도달한 빛은 전기 신호로 변환되어 시신경을 통해 뇌의 시각을 담당하는 부분으로 전달됩니다. 이 모든 과정이 원활하게 작동해야 우리가 물체를 뚜렷하게 인식하고 좋은 시력을 유지할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf236f97]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[백내장이란 카메라의 렌즈에 해당하는 눈 속 수정체가 뿌옇게 흐려져 시력이 저하되는 질환입니다. 수정체가 흐려지는 위치와 정도에 따라 나타나는 증상은 다양합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf237094]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[백내장 환자는 수정체가 뿌옇게 혼탁해져 빛이 망막에 정확히 초점을 맺지 못하고 흩어지기 때문에, 마치 흐린 유리창을 통해 세상을 바라보는 것처럼 시력이 떨어집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf237011]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[백내장은 유전적인 요인이나 임신 초기의 감염 등으로 인해 선천적으로 발생할 수도 있습니다. 하지만 대부분은 나이가 들면서, 눈 외상, 특정 전신 질환, 눈 속 염증 등 후천적인 요인으로 생깁니다. 특히 나이가 들면서 생기는 노인성 백내장은 65세 이상에서 약 90%의 유병률을 보일 만큼 흔한 질환입니다. 백내장은 보통 양쪽 눈에 발생하지만, 한쪽만 생기거나 눈마다 정도가 다를 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[백내장은 여러 분류 방법이 있지만, 주로 발생 시기에 따라 태어날 때부터 존재하는 '선천백내장'과 성인이 된 후 발생하는 '후천백내장'으로 나뉩니다.
+
+1. 선천백내장 
+선천백내장은 대부분 정확한 원인을 알 수 없지만, 다운증후군 등 염색체 이상, 유전적 요인, 태내감염, 대사 이상 등에 의해 발생하기도 합니다. 
+임신 3개월 이내에 어머니가 풍진에 감염된 경우 신생아에서 발생한 백내장은 풍진백내장이라고 합니다.
+탄수화물의 일종인 갈락토오스(galactose) 대사에 필요한 효소가 선천적으로 결핍되어 혈액에 갈락토오스가 고농도로 존재하는 신생아에게 생기는 백내장은 갈락토오스혈증(galactosemia)백내장이라고 합니다.
+
+2. 후천백내장 
+후천백내장은 주로 나이가 들면서 발생하며, 특히 50세 이후의 노년백내장이 가장 흔합니다. 이 외에도 눈 외상, 전신 질환, 눈 염증, 독소 노출 등 다양한 요인으로 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[백내장은 노화 과정의 하나이므로 나이가 들수록 발생 가능성이 높아집니다. 마치 나이가 들면 피부에 주름이 생기듯, 백내장도 나이가 들면 누구나 생길 수 있는 질환입니다.
+
+노화 외에도 백내장 발생 위험을 높이는 요인은 다음과 같습니다. 
+• 눈을 다친 적이 있는 경우
+
+• 당뇨병, 아토피 피부염, 알포트 증후군 등의 질환이 있는 경우
+• 흡연, 음주 등의 생활습관 
+• 자외선(햇빛), 적외선, 방사선에 오래 노출된 경우 
+• 유전 요인(특히 선천백내장)
+• 눈 속 수술이나 주사 치료를 받은 적이 있는 경우
+• 포도막염, 녹내장, 망막박리, 눈 속 출혈 등 심한 안질환이 있는 경우
+• 스테로이드, 항암제, 정신과 약물을 오래 사용했거나 방사선 치료를 받은 경우]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[투명한 계란 흰자가 열을 받으면 흰색으로 불투명해지는 것은 계란 흰자를 구성하는 단백질이 열에 의해 변성되기 때문입니다. 백내장도 마찬가지로, 수정체 속 단백질이 노화나 여러 원인으로 변성되면서 뿌옇게 흐려지기 때문에 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1825c31f91f2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[제5기 국민건강영양조사(2010~2012)에 따르면, 백내장은 우리나라 40세 이상 성인의 42.3%, 65세 이상에서는 90%의 유병률을 보였습니다. 또한 40대와 50대의 백내장 유병률도 각각 11.1%, 35.7%로 낮지 않았습니다.
+한편, 2023년 국민건강보험공단의 주요 수술 통계연보에 따르면, 백내장 수술은 총 637,879건 시행되었습니다. 이는 인구 10만 명당 1,204명이 백내장 수술을 받은 것으로, 우리나라에서 시행되는 수술 중 가장 많이 실시되는 수술입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[백내장은 눈 속의 수정체가 혼탁해져 시력이 저하되는 질환으로, 대부분 통증은 없고 시력 저하나 시야가 흐려보이는 증상이 나타납니다. 일반적인 백내장은 수개월에서 수년에 걸쳐 서서히 진행되며, 초기에는 특별한 이상 증상을 느끼지 못하는 경우가 많습니다. 그러나 시간이 지나면서 수정체가 더 흐려지면 다음과 같은 증상이 나타납니다. 
+
+1. 시력장애(시야가 흐려지거나 눈이 잘 안 보이는 상태)
+백내장이 생기면 흐려진 수정체 때문에 시야가 뿌옇게 보이거나 물체가 왜곡되어 보일 수 있습니다. 이러한 증상은 수정체가 얼마나, 어디까지 흐려졌는지에 따라 달라집니다. 한편, 백내장으로 인한 시력장애는 상당히 진행되어도 빛의 밝기, 어둠, 그림자 등은 느낄 수 있는 것이 특징입니다.
+
+1) 백내장 초기에 수정체의 주변부에만 혼탁이 발생한 경우, 뚜렷한 시력 저하를 느끼지 못하는 경우가 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf237607]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 수정체의 중앙 부위가 흐려진 경우, 동공이 수축하는 낮 시간에 시력이 더욱 떨어지는 '주간맹(晝間盲, day blindness)' 현상이 나타날 수 있습니다. 수정체 중심부의 혼탁이 심할수록 시력 저하를 보다 빨리 느끼게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=197e8fd0c8c4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 백내장이 진행되어 수정체 전체가 혼탁해지면, 밝고 어두움과 관계없이 항상 시력이 저하됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf237787]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 빛이 퍼져 보임, 눈부심
+자동차 헤드라이트나 가로등처럼 밝은 빛을 바라볼 때, 혼탁한 수정체를 통과한 빛이 산란되면서 빛이 퍼져 보이거나 눈부심이 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf237681]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 물체가 여러 개로 보임
+부분적인 혼탁으로 수정체의 굴절 상태가 불규칙해지면, 백내장이 있는 눈으로 사물을 볼 때 물체가 두 개 또는 여러 개로 보이는 한눈복시(複視, monocular diplopia)가 발생할 수 있습니다. 이러한 증상은 백내장이 진행하여 시력이 더욱 나빠지면 느끼지 못하게 되기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf237907]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 기타 증상
+그 외에 백내장 환자가 느낄 수 있는 증상에는 다음과 같은 것들이 있습니다. 
+1) 사물의 색깔이 붉거나 노랗게 왜곡되어 보입니다.
+
+2) 백내장 초기에는 수정체의 굴절력이 증가하여 가까운 글씨가 잘 보이는 경우가 있으며, 돋보기를 쓰던 사람이 안경 없이도 가까운 글씨를 볼 수 있습니다(수정체 근시, lenticular myopia).
+
+3) 백내장이 심해지면 동공(눈동자)이 뿌옇게 흐려 보일 수 있습니다.
+
+4) 눈이 침침하거나 어두운 곳에서 잘 보이지 않을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf237584]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[백내장은 시력 검사, 세극등현미경 검사, 검안경 검사, 안압 검사 등 철저한 안과적 평가를 통해 진단합니다. 특히 시력 저하를 일으킬 수 있는 다른 질환이 없는지, 눈의 다른 구조가 건강한지 확인하며, 필요에 따라 고혈압, 당뇨병 등 전신 질환 관련 혈액 및 소변 검사를 시행합니다. 
+
+1. 세극등현미경 검사
+좁고 가는 빛을 눈 속으로 비추어 각막, 수정체 등 눈 내부를 관찰합니다. 이를 통해 백내장의 유무, 위치, 심한 정도를 확인할 수 있습니다. 
+
+
+   2. 검안경 검사 또는 안저 촬영 
+검안경이나 안저 카메라를 이용해 망막, 혈관, 시신경 등을 관찰합니다. 망막과 시신경이 건강해야 백내장 수술 후 좋은 시력을 기대할 수 있으므로, 수술 전 필수적으로 시행하여 예후를 예측합니다. 
+
+
+   3. 안압 검사
+눈 속 압력을 측정하여 녹내장 등 질환 발생 여부를 확인합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=197e8ef81345]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수술이 예정되어 있을 경우, 다음과 같은 추가 검사를 시행합니다.
+
+
+4. 각막 굴절률 및 생체계측 검사
+백내장 수술 시 삽입할 인공수정체 도수를 결정하기 위해 각막 굴절률을 측정하고, 눈의 앞뒤 길이인 안축장을 포함한 생체계측 검사를 시행합니다. 특히 난시 교정용 또는 노안 교정용 인공수정체 삽입을 고려하는 경우, 인공수정체 도수 예측이 매우 중요하므로 정확성을 높이기 위해 여러 번 반복 측정할 수 있습니다.
+
+5. 각막 내피세포 검사
+각막 내피세포는 각막의 투명도를 유지하는 데 중요한 역할을 합니다. 백내장 수술 시 내피세포가 손상될 수 있으므로, 수술 전 각막 내피세포의 모양, 크기, 밀도, 세포수 등을 측정하여 각막 상태를 정확히 확인합니다. 이를 통해 수술 가능 여부를 판단하고, 발생할 수 있는 합병증을 예측할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf237981]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[백내장의 치료 방법은 크게 약물 요법과 수술 요법으로 나눌 수 있습니다.
+
+1. 약물 요법
+백내장 초기에는 점안약을 사용하여 백내장 진행 속도를 늦출 수 있습니다. 하지만 약물 요법만으로 이미 혼탁해진 수정체를 원래 상태로 되돌리거나 백내장의 진행을 완전히 멈추는 것은 불가능합니다. 따라서 진행된 백내장을 치료하는 가장 확실한 방법은 수술 요법입니다. 진행 억제를 위해 사용하는 약물에는 항산화 성분의 점안액, 요오드화 칼륨 성분 점안액 등이 있으며, 수술이 바로 고려되지 않는 경우에 사용할 수 있습니다.
+
+2. 수술 요법
+수술은 진행된 백내장을 치료하는 가장 안전하고 효과적 방법입니다. 백내장은 노인에게 흔하며, 초기에는 증상이 미미하지만 시간이 지나면서 점점 시력이 떨어지므로 적절한 수술 시기 선택이 중요합니다.
+
+1) 백내장의 적당한 수술 시기는 아래와 같습니다.
+• 수정체 혼탁이 진행되어 직업이나 일상생활에 지장을 줄 만큼 시력이 떨어진 경우
+
+• 백내장으로 인해 이차 녹내장, 포도막염 등 합병증 발생 위험이 있는 경우 
+2) 다음과 같은 경우에는 수술을 시행하지 않습니다.
+
+• 시력이 극히 불량하여 빛에 대한 반응이 없고, 동공 반사도 없는 경우 
+• 어린 시절부터 시력이 좋지 않아 시력 발달이 이루어지지 않은 경우 
+• 황반변성, 망막박리, 녹내장 등 다른 질환이 동반되어 백내장 수술 후 시력 개선 가능성이 없는 경우 
+3) 각막 혼탁, 녹내장, 망막 질환 등이 동반되면 백내장 수술과 동시에 각막 이식, 녹내장 수술, 망막 수술을 시행할 수 있습니다.
+
+4) 백내장 수술은 대부분 국소마취, 드물게 전신마취 상태에서 진행됩니다. 수술 통증은 미미하지만 간혹 통증이 있을 수 있습니다. 
+특별한 합병증이 없으면 수술 시간은 약 30분 내외이며, 이러한 경우 당일 퇴원이 가능합니다. 
+수술 시간과 방법은 백내장 정도와 동반 질환에 따라 달라질 수 있습니다.
+
+5) 백내장 수술은 크게 다음 두 단계로 이루어집니다.
+
+• 혼탁해진 수정체 제거
+
+• 인공수정체 삽입]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf2387f7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[백내장을 치료하는 구체적인 수술 방법은 의사나 병원마다 다소 차이가 있을 수 있지만, 일반적으로 백내장 수술은 다음과 같은 절차로 진행됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf238037]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[최근 펨토초 레이저 기기의 발달로, 절개창 생성, 수정체낭 절개, 수정체 분할, 난시 교정 절개 등 기존 수술 기구를 사용하던 과정들을 레이저로 수행할 수 있게 되었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf237fa4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 인공수정체 
+사람의 수정체는 평균적으로 20디옵터 정도의 굴절력을 가지므로, 백내장 수술로 수정체를 제거한 경우 제거된 수정체의 굴절력을 보상할 수 있는 인공수정체를 삽입해야 수술 후 좋은 시력을 얻을 수 있습니다. 인공수정체의 도수는 수술 전 각막 굴절률과 생체계측검사를 통해 계산하며, 대부분은 원거리가 잘 보이는 정시가 되도록 결정합니다. 수술 전 근시나 원시가 있었던 경우, 백내장 수술을 통해 이러한 굴절 이상도 교정할 수 있습니다. 
+
+4. 인공수정체의 종류
+백내장 수술 시 삽입하는 인공수정체는 크게 단초점(일반), 연속초점(또는 다초점, 노안 교정), 난시교정용으로 나눌 수 있으며, 환자의 눈 상태, 연령, 직업, 생활습관 등을 고려해 선택합니다. 
+• 단초점 인공수정체
+가장 흔하게 사용되는 인공수정체로. 선명한 상을 제공하며 빛 번짐이나 달무리 현상이 적습니다. 그러나 수정체를 제거하면 조절력이 상실되므로, 원거리에 맞춘 경우 근거리 시력은 안경이 필요할 수 있습니다.
+• 연속초점/다초점 인공수정체(노안 교정)
+원거리와 근거리 모두 안경 없이 보고 싶다면, 연속초점 또는 다초점 인공수정체를 선택할 수 있습니다. 
+하나의 거리에만 초점을 맞추는 단초점 인공수정체와 달리 연속초점 인공수정체와 다초점 인공수정체는 다양한 거리에서 초점을 맞출 수 있어 보다 연속적인 시력을 제공합니다. 
+연속초점 인공수정체는 원거리부터 중간거리(약 50~70cm)까지, 다초점 인공수정체는 원거리부터 근거리(약 30~40cm)까지 선명한 시력을 제공해 줍니다. 
+따라서 일상생활에서 근거리 안경 사용 빈도를 단초점 인공수정체보다 크게 줄일 수 있습니다. 하지만 수술 후 빛 번짐, 달무리 현상, 그리고 어두움과 밝음을 구분할 수 있는 대비 감도 감소가 나타날 수 있습니다.
+• 난시교정 인공수정체
+각막에 난시가 있는 환자는, 난시교정 인공수정체를 삽입하면 안경 없이도 난시를 교정하고 또렷한 상을 얻을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=197e8fc09b58]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 수술 후 난시, 근시, 원시
+수술 전에는 각막의 굴절률과 눈의 길이 등을 측정하여 인공수정체의 도수를 계산합니다. 그러나 고도근시나 고도원시가 있거나, 과거에 각막굴절교정수술을 받은 경우에는 계산 과정에서 오차가 생길 수 있습니다. 그 결과 수술 후 난시, 근시, 원시가 남을 수 있으며, 이럴 때는 선명한 시력을 위해 안경이 필요할 수 있습니다.
+
+2. 충혈, 결막하출혈, 안구건조증 
+수술 후 일시적으로 충혈이나 결막하출혈, 안구건조증이 나타날 수 있습니다. 대부분은 수개월 이내에 호전되지만, 드물게 증상이 오래 지속되는 경우도 있습니다.
+
+
+3. 후낭파열 
+수정체는 바깥을 둘러싼 얇은 막(수정체낭) 안에 들어 있습니다. 백내장 수술 시에는 수정체낭의 앞부분을 원형으로 제거한 뒤, 혼탁해진 수정체 내용물을 기계로 잘게 부수어 제거하고, 남은 낭 속에 인공수정체를 삽입합니다.그러나 수술 중 다양한 원인으로 수정체낭의 뒷부분(후낭)이 파열될 수 있습니다. 이 경우 수정체 조각이 안구 뒤쪽으로 떨어지면 망막수술이 필요할 수 있습니다. 후낭파열이 생기면 안압 상승, 망막 부종, 전방 출혈, 염증, 망막박리 등 합병증의 위험이 높아지고, 시력 회복에도 시간이 더 걸릴 수 있습니다.
+
+
+4. 감염성 안내염 
+수술 후 드물게 눈 전체가 세균이나 곰팡이에 감염되어 안내염이 발생할 수 있습니다(발생 빈도: 0.22~0.4%). 이를 예방하기 위해 수술 전 철저한 소독과 무균 상태에서의 수술이 중요합니다.또한 환자는 수술 전후로 처방된 안약을 정확히 사용하고, 의료진의 주의사항을 반드시 지켜야 합니다.안내염이 발생하면 치료 후에도 심한 시력 저하가 남을 수 있으므로 조기 발견과 신속한 치료가 매우 중요합니다. 필요 시 주사 치료나 추가 수술이 시행될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf2388f4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[5. 수포각막병 
+수술 중 각막내피가 손상되면 일시적으로 각막이 붓는 각막부종이 생길 수 있습니다. 대부분은 수주일 내에 회복되지만, 드물게 부종이 지속되는 경우가 있습니다.부종이 심해지면 각막 표면에 물집이 생기는 수포각막병으로 진행할 수 있으며, 이때는 각막이식 등 추가적인 수술이 필요할 수 있습니다.
+
+
+6. 안압상승 또는 하강 
+수술 후 안압이 일시적으로 정상 범위를 벗어나 상승하거나 하강하는 경우가 있으며, 필요에 따라 추가적인 치료가 필요할 수 있습니다.
+
+7. 독성전안부증후군 
+수술 후 1~2일 이내에 드물게 발생할 수 있는 질환으로, 안구 내 심한 염증과 함께 각막이 심하게 붓는 증상이 나타납니다.강도 높은 항염증 치료가 필요하며, 병의 정도에 따라 회복까지 수일에서 수개월이 걸릴 수 있습니다.치료 후에도 각막부종, 홍채손상, 홍채유착(앞/후), 만성 낭포황반부종 등이 남아 시력저하가 지속될 수 있습니다.
+
+
+8. 낭포황반부종 
+
+수술 후 생긴 염증으로 인해 시력을 결정하는 망막 중심부인 황반에 부종이 발생할 수 있습니다. 대부분 수개월 내에 자연적으로 호전되지만, 부종이 지속될 경우 스테로이드 치료나 유리체강내주사 치료가 필요할 수 있습니다. 드물게는 만성적인 시력저하가 남을 수 있습니다.
+
+
+9. 후발백내장 
+백내장 수술 시 혼탁한 수정체를 제거하더라도, 이를 둘러싸고 있는 수정체낭(캡슐)은 인공수정체를 지지하기 위해 남겨둡니다. 그러나 시간이 지나면서 수정체낭의 뒤쪽 부분에 혼탁한 막이 형성될 수 있습니다.이로 인해 시야가 뿌옇게 흐려지고 시력이 감소하는데, 이를 후발백내장이라 합니다.후발백내장은 나이와 관련이 깊으며, 특히 선천성 백내장으로 수술받은 소아에서 잘 발생합니다. 성인의 경우에도 수술 후 3~5년이 지나면 약 50% 정도에서 나타날 수 있습니다.시력에 영향을 줄 정도로 혼탁이 심한 경우, 레이저를 이용해 수정체낭의 혼탁 부위를 절개하여 빛이 통과하도록 하면 시력이 회복됩니다. 이 시술은 통증이 거의 없고 수분 내에 간단히 진행됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf238a11]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[10. 비문증 
+눈 속에 이미 존재하던 작은 혼탁으로 인해 검은 점이나 실오라기 같은 것이 떠다니는 비문증이 나타날 수 있습니다.백내장 수술 후 시야가 맑아지면 이러한 비문증이 이전보다 더 뚜렷하게 느껴질 수 있습니다.
+
+
+11. 망막박리 
+백내장 수술은 눈 안쪽의 유리체에 영향을 줄 수 있으며, 이로 인해 드물게 망막박리가 발생할 수 있습니다(발생 확률: 0.2~1.0%).망막박리는 심각한 합병증으로, 발생 시 망막수술이 필요하며 시력 예후가 나쁠 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 백내장 수술 후 바로 일상생활이 가능한가요?
+
+A. 백내장 수술 후에는 눈을 비비지 않도록 주의해야 하며, 감염을 예방하기 위해 약 일주일 정도는 눈에 물이 들어가지 않게 해야 합니다.
+또한 수영은 약 한 달간 피하는 것이 좋고, 눈에 자극을 줄 수 있는 염색도 한 달 정도는 삼가는 것이 좋습니다.
+안약은 의사의 지시에 따라 정해진 시간과 방법으로 정확히 사용해야 하며, 예약된 진료 일정에 맞추어 병원을 방문하여 회복 상태를 확인받는 것이 중요합니다.
+대부분의 경우 수술 후 일상생활은 무리 없이 가능하지만, 이는 수술 후 환자의 상태에 따라 달라질 수 있습니다.
+
+Q. 수술 후 시력이 언제쯤 회복되나요?
+
+A. 백내장 수술 후 시력은 보통 수술 몇 시간 뒤부터 서서히 회복되기 시작하며, 대부분의 경우 1주일 이내에 일상생활에 불편이 없을 정도로 시력이 회복됩니다.
+다만, 개인에 따라 회복 속도에는 차이가 있을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 일조각. (2022). 백내장 (제4판).]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

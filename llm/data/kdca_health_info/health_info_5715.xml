@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[치과국소마취(치과 부분마취)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5715]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[3]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3676]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 국소마취란 치료 부위의 말초신경 주변에 마취제를 주입해 통증 뿐 아니라 감각과 운동 기능을 차단하는 방법으로, 의식에는 영향을 주지 않아 비교적 안전합니다.
+• 치과 치료 대부분에 사용되며, 진단, 지혈, 신경통 완화 등의 목적으로도 쓰입니다.
+• 국소마취제는 에스테르형과 아미드형이 있으며, 주로 리도카인 같은 아미드형이 혈관수축제와 함께 사용되어 효과를 높입니다.
+• 마취 방법에는 도포, 침윤, 전달마취법이 있으며, 상황에 따라 단독 또는 병행하여 사용됩니다.
+• 드물게 실신, 신경 손상, 알레르기, 약물 독성 등 합병증이 발생할 수 있으므로, 환자의 전신 상태와 마취 용량 등을 충분히 고려해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[337]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[국소마취란 치료 부위의 말초신경 주변에 국소마취제를 투여하여 통증을 경감시킬 뿐 아니라 온도, 압박, 촉감 등의 감각을 차단하고, 때로는 운동기능까지도 차단하는 마취 형태입니다. 의식 변화를 야기하는 전신마취나 수면마취로 알려진 진정법과 달리, 국소마취는 환자의 의식에 영향을 주지 않아 중추신경계에 작용하는 다른 마취법에 비해 안전합니다. 또한 빠른 마취 효과 발현과 회복, 치료와 관련된 스트레스 경감, 치료 후 통증 완화, 혈관수축제가 함유된 국소마취제 사용 시 출혈 감소 등의 장점이 있습니다. 이러한 장점으로 인해 일반적으로 전신마취나 진정법을 시행할 때도 국소마취를 함께 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[337]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412e7fdfe7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료의 적응증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[338]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치과 국소마취는 통증이 심하지 않을 것으로 예상되는 일부 술식을 제외하고 대부분의 치과 치료에서 시행됩니다. 통증의 원인을 감별하기 위한 진단적 마취, 국소 지혈, 신경통 완화 등의 목적으로 사용되기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 관련 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[339]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치과 국소마취 전에 받아야 할 치료 관련 검사는 없으나, 국소마취제에 대한 알레르기나 내성이 있을 수 있습니다. 또한 전신 병력에 따라 혈관수축제가 포함된 국소마취제 사용이 제한될 수도 있으므로, 치료 전에 문진을 통해 미리 평가하여 안전하게 국소마취를 시행해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[국소마취제의 종류 
+국소마취제는 화학구조에 따라 에스테르형(esters)과 아미드형(amides)으로 구분합니다. 현재 국내에서 사용되는 국소마취제는 아미드형인 리도카인, 메피바카인, 부피바카인, 프릴로카인, 아티카인과, 에스테르형인 프로카인, 테트라카인 등입니다. 치과 영역의 주사용 국소마취제로는 대부분 혈관수축제인 에피네프린을 포함한 리도카인 제제를 사용합니다. 혈관수축제는 국소마취제의 작용 시간을 늘리고 진통 효과를 증가시킬 목적으로 사용합니다. 
+치과 국소마취법의 종류 
+국소마취법은 마취 방법과 주입된 마취액이 영향을 미치는 범위에 따라 도포마취법, 침윤마취법, 전달마취법으로 분류합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412e88f581]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 도포마취법
+도포마취법은 점막에 국소마취제를 도포하거나 분사하여 신경종말을 둔화시키는 방법입니다. 침윤마취나 전달마취의 보조수단으로 사용하는 경우가 많습니다. 도포마취 시에는 마취 부위의 점막이나 피부를 건조시킨 후, 필요한 용량의 마취제를 분사 또는 면봉에 묻혀 도포합니다. 주로 주사침을 이용한 마취 시 자입점의 통증 완화, 점막 표면의 외과적 처치, 점막 표면 병소(궤양 등)의 통증 완화, 인상채득이나 방사선 사진 필름 삽입 시 점막 표면의 지각 둔화(구역 반사의 완화), 기관 내 삽관 시 반사 제거 등의 목적으로 사용합니다.
+점막 표면의 마취 효과는 충분하지만 골막까지 마취되지는 않기 때문에 필요한 마취 심도를 고려하여 사용해야 합니다. 도포마취제의 양이 늘어나거나 도포 시간이 길수록 마취 효과가 커지지만, 구강 점막 및 인두 점막에서 흡수가 매우 빠르기 때문에 광범위하게 다량의 국소마취제를 적용하지 않도록 주의해야 합니다. 사용되는 국소마취제에 민감한 환자는 도포마취 시에도 쇼크를 일으킬 수 있습니다. 일반적으로 도포마취제는 삼켜도 전신적으로 큰 문제가 없습니다.
+
+2. 침윤마취법 
+
+침윤마취법은 주사침으로 국소마취제를 침윤시켜 종말 신경 말단부를 마취시키는 방법입니다. 마취제 주입 부위에 따라 구강 외에는 피부내주사법, 피하주사법, 근육내주사법, 골막하주사법이 있으며, 구강 내에서는 점막하주사법, 골막주위주사법, 골막하주사법, 골내주사법, 치근막내주사법, 치수내주사법 등이 있습니다.
+위턱뼈처럼 피질골의 두께가 얇은 경우 침윤마취법만으로 대부분의 치아를 효과적으로 마취할 수 있으나, 아래턱뼈처럼 피질골이 치밀하고 두꺼운 경우 치근과 골 표면 사이의 거리가 먼 아래턱 대구치 등의 치아는 침윤마취법만으로 마취가 어렵습니다. 일반적으로 침윤마취가 잘 되지 않는 부위는 추가적으로 치근막내마취나 전달마취를 함께 시행합니다. 혈관수축제가 포함된 국소마취제를 이용한 침윤마취법은 종종 지혈 목적으로 사용하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412e8e7134]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 전달마취법 
+전달마취법은 주사침으로 신경근간부에 국소마취제를 주입하여 통증전달로를 차단하는 방법입니다. 소량의 마취제로 침윤마취법보다 더 광범위하고 심도 있는 마취를 할 수 있으며, 마취 작용 시간이 길고, 수술 부위의 국소적 혈행 감소 예방, 감염 확산 방지, 주사침 자입 횟수 감소 등의 장점이 있습니다. 하지만 지나치게 넓은 범위가 마취되거나 장시간 마비가 지속될 수 있으며, 주사침에 의해 신경이나 혈관 손상이 일어날 수 있고, 마취액이 혈관 내로 주입될 가능성이 있습니다.
+위턱에 사용되는 전달마취법에는 전상치조신경 전달마취법, 중상치조신경 전달마취법, 후상치조신경 전달마취법, 안와하신경 전달마취법, 비구개신경 전달마취법, 대구개신경 전달마취법 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412e925d57]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[아래턱에 사용되는 전달마취법에는 이신경 및 절치신경 전달마취법, 협신경 전달마취법, 하치조신경 전달마취법, 설신경 전달마취법 등이 있습니다. 아래턱 대구치 부위의 치료 시에는 하치조신경 전달마취법과 침윤마취법을 함께 시행되는 것이 일반적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[340]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412e973f11]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 관련 주의사항]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[341]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 국소마취제의 권장최대용량 
+국소마취제인 리도카인의 권장최대용량은 7 mg/kg(최대 500 mg)으로, 70 kg 성인에서 1.8 ml, 2% 리도카인 카트리지 기준으로 약 13개입니다. 혈관수축제인 에피네프린의 안전사용용량은 건강한 환자에서 0.2 mg, 현저한 심혈관질환자에서 0.04 mg이므로, 대부분의 치과에서 사용하는 1:100,000 에피네프린 함유 1.8 ml, 2% 리도카인 카트리지 기준으로는 건강한 환자에서 약 11개, 심혈관질환자에서 약 2개가 국소마취제의 권장최대용량이라고 할 수 있습니다. 
+
+
+2. 국소마취 시 기타 고려사항 
+
+1) 치과 국소마취 후 마취 효과는 국소마취제의 종류나 국소마취 방법에 따라 다릅니다. 일반적으로 마취 효과 발현은 수 초에서 10분 이상 소요되며, 마취 효과 지속시간은 혈관수축제 함유 2% 리도카인의 경우 약 한 시간 정도입니다. 
+2) 염증이 심한 부위의 국소마취 시 일반적인 침윤마취로는 마취 효과가 저하될 수 있으므로, 전달마취 등의 추가적인 마취가 필요합니다. 
+3) 치료에 비협조적이거나 행동 조절이 어려운 경우, 진정법이나 전신마취를 함께 시행합니다. 
+4) 치과 영역에서 사용하는 국소마취제와 혈관수축제는 산모와 수유모에 안전하지만, 주사 시 혈관 내로 마취제가 들어가지 않도록 유의해야 합니다. 
+5) 어린이는 체중에 따라 국소마취제의 최대 용량을 계산해서 사용하며, 마취제의 독성 때문에 낮은 농도의 국소마취제가 추천되는데 일반적으로 1:100,000 에피네프린 함유 2% 리도카인이 이상적입니다. 
+6) 국소마취 시 주사침의 자입 또는 마취제의 주입으로 인한 통증이나 공포로 인해 환자가 실신할 수 있습니다. 실신의 전구증상으로 답답하고 불쾌한 느낌, 나른함, 상복부의 답답함, 메스꺼움(오심), 구토, 식은 땀, 안면 창백, 사지냉증, 어지럼증 등이 수초에서 수분 전부터 나타날 수 있습니다.
+이러한 증상이 있는 경우 즉시 의료진에게 알려 치료를 중단하고 예방조치를 취해야 합니다. 실신한 경우에는 우선 치과 의자를 눕혀 머리를 낮게 위치시키고 다리를 높이며, 옷을 느슨하게 하여 뇌의 혈액순환에 도움을 주어야 합니다. 기도 유지를 위해 환자의 턱을 높이고 머리를 뒤로 젖혀 기도를 열어주며, 구강 내 이물질을 제거합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 관련 합병증 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[342]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 마취액의 흡수 관련 합병증
+국소마취제가 혈관 내로 주입되거나 혈행 분포가 많은 조직에 급격히 투여된 경우, 간이나 콩팥질환 등 기저질환으로 체내대사나 체외배출이 지연되는 경우에는 혈중 마취제의 용량이 상승하여 독성 합병증이 생길 수 있습니다. 이때는 졸림이나 일시적 불안 같은 가벼운 증상부터 불쾌감, 불안, 메스꺼움, 감각이상, 떨림, 방향감각 소실, 의식 소실, 경련, 호흡 및 심정지 등 심각한 증상이 나타날 수 있습니다. 그 밖에 알레르기나 아나필락시스 반응, 마취액에 의한 국소적 반응 등도 문제가 될 수 있습니다. 
+
+2.주사침 자입 관련 합병증
+실신은 스트레스에 대한 방어기제로 일시적인 의식소실이 일어나는 합병증입니다. 주사침에 대한 공포, 불안, 통증 등 정신적 스트레스가 가장 큰 원인입니다. 주사침 자입으로 인해 이상감각증이 나타날 수도 있는데, 주로 주사침을 깊게 자입하는 하치조신경과 설신경 전달마취 시 신경의 직접적인 손상에 의해 초래됩니다. 대부분의 이상감각증은 치료 없이 저절로 회복됩니다.
+하치조신경 전달마취 시 주사침이 너무 후방으로 자입되어 국소마취제가 귀밑샘 내부로 주입된 경우에는 안면신경마비가 올 수 있습니다. 이 현상은 국소마취제의 약물 작용이 끝날 때까지 2~3시간 정도 지속됩니다. 그 밖에 주사침 자입 시 통증, 혈종, 개구장애, 주사침 파절 등의 합병증이 발생할 수 있습니다. 가끔 치료를 마친 환자, 특히 어린이가 통증을 느끼지 못해 마취 부위를 물거나, 씹거나, 긁거나, 만져 스스로 상처를 내는 경우가 있으므로 주의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 관련 합병증 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[342]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18412e9f5f17]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료 관련 합병증 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[342]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 혈관수축제에 의한 합병증
+혈관수축제인 에피네프린의 과량 주입으로 인한 부작용은 임상에서 거의 볼 수 없습니다. 에피네프린이 고농도로 첨가된 국소마취제가 혈관 내에 직접 주입되면 불안, 두통, 발한, 전신무력증, 현기증, 호흡곤란, 심계항진, 수축기 혈압 상승, 심박수 증가, 심부정맥, 심실세동 등 전신적인 합병증을 초래할 수 있습니다. 혈관수축제를 포함한 국소마취제 주입 직전에 흡인하여 혈관 내 주입을 방지함으로써 합병증을 예방할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[359]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한구강악안면외과학회.구강악안면외과학교과서.
+2. 대한치과마취과학회. 치과마취과학.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

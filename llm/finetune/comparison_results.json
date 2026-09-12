@@ -1,0 +1,26 @@
+{
+  "원본(파인튜닝 전)": {
+    "train": {
+      "correct": 17,
+      "total": 25,
+      "avg_margin": 0.033738070726394655
+    },
+    "test": {
+      "correct": 5,
+      "total": 8,
+      "avg_margin": 0.06404219567775726
+    }
+  },
+  "파인튜닝 후": {
+    "train": {
+      "correct": 25,
+      "total": 25,
+      "avg_margin": 0.6431989106535911
+    },
+    "test": {
+      "correct": 7,
+      "total": 8,
+      "avg_margin": 0.2728782072663307
+    }
+  }
+}

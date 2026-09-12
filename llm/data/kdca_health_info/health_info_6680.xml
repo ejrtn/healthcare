@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[급성호흡기바이러스감염증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6680]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 급성 호흡기바이러스 감염증은 우리 몸의 호흡 기관에 바이러스가 갑작스럽게 침입해 염증이 생긴 상태를 말합니다.
+• 다양한 바이러스에 의해 발생하며, 인플루엔자와 코로나19 등 일부를 제외하면 바이러스 자체를 죽이는 치료제는 없습니다.
+• 호흡기 위쪽(상기도)에서 발생하면 흔히 '감기'라고 부르며, 증상을 줄이는 간단한 약물 치료와 충분한 휴식만으로 호전됩니다.
+• 호흡기 아래쪽(하기도)에 생겨 기관지염이나 폐렴으로 진행하면 증상이 더 심해질 수 있으며, 경우에 따라 입원이 필요할 수도 있습니다.
+• 외출 후 손을 꼼꼼히 씻고, 기침 예절을 지키며, 호흡기 증상이 있을 때는 외출 시 마스크를 착용하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성 호흡기바이러스 감염증은 말 그대로 우리 몸에서 호흡 기능을 담당하는 부위(호흡 기관)에 바이러스가 갑작스럽게 침입해 염증이 생긴 것을 말합니다. 코부터 폐(허파) 사이로 공기가 드나드는 모든 공간(후두, 기도, 기관지 등)을 호흡기라고 이해하면 됩니다. 호흡기는 대체로 기도를 기준으로 상부와 하부로 나누며, 급성 호흡기감염증도 이에 맞추어 상기도 감염과 하기도 감염으로 구분합니다. 상기도 감염에는 흔히 ‘코감기’·‘목감기’라고 부르는 비염, 인후염 등이 포함되고, 하기도 감염에는 더 아래 부위까지 침범한 기관지염, 폐렴 등이 해당됩니다.
+
+호흡기바이러스는 상기도와 하기도 모두 감염을 일으킬 수 있습니다. 면역이 정상인 사람에서는 대부분 경미한 상기도 감염에 그치지만, 영유아, 노인, 만성 심폐질환을 비롯한 만성 질환자, 그리고 장기이식 환자처럼 면역이 심하게 약해진 사람에서는 하기도 감염으로 진행될 가능성이 있습니다. 상기도 감염은 대체로 증상 완화를 위한 간단한 약물 치료와 충분한 휴식만으로 회복됩니다. 그러나 하기도 감염이 발생하면 입원 치료가 필요한 경우가 많으며, 중증 폐렴이 패혈증으로 악화되어 생명을 위협할 수도 있습니다. 
+대표적인 하부 호흡기의 감염증인 폐렴은 별도의 콘텐츠에서 다루고 있으므로, 이 콘텐츠에서는 '감기'로 대표되는 상부 호흡기의 감염증을 중심으로 설명하겠습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[많은 종류의 바이러스가 급성 호흡기 감염을 일으킬 수 있습니다. 다음은 대표적인 원인 바이러스들입니다. 
+1. 아데노 바이러스(Adenovirus) 
+2. 보카바이러스(Human bocavirus) 
+3. 파라인플루엔자 바이러스(Parainfluenza virus) 
+4. 호흡기 세포융합 바이러스(Respiratory syncytial virus, RSV) 
+5. 리노바이러스(Rhinovirus) 
+6. 메타뉴모 바이러스(Human metapneumovirus) 
+7. 사람 코로나 바이러스(Human coronavirus) – 코로나19 원인 바이러스가 아닌 다른 코로나 바이러스 종류입니다. 
+8. 중증 호흡곤란 증후군 코로나 바이러스(severe acute respiratory syndrome coronavirus, SARS-CoV) - 2020년부터 전 세계에 대규모 유행을 일으킨 코로나19의 원인 바이러스입니다. 자세한 내용은 별도의 콘텐츠에서 다룹니다('변형코로나바이러스감염증'을 참고하십시오). 
+9. 인플루엔자 바이러스 – 별도의 콘텐츠에서 다룹니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[콧물, 코막힘, 기침, 가래, 인후통 등의 증상이 갑자기 나타나 1~2주 정도 지속되다가 별다른 치료 없이 좋아지는 경우가 대부분입니다. 건강한 성인에서는 심각한 합병증이 생기는 경우가 드뭅니다. 소아에서는 성인보다 증상이 다소 심할 수 있지만, 대부분 합병증 없이 회복됩니다.
+
+감기를 1년에도 여러 번 걸릴 수 있는 이유는 다양한 바이러스가 모두 감기의 원인이 되기 때문입니다. 또한, 같은 '푸들'이라도 외모나 성격이 조금씩 다른 것처럼, 같은 이름으로 불리는 바이러스라도 모두 똑같지 않습니다. 이를 '혈청형'이 다르다고 하는데, 바이러스 표면의 단백질 구조가 서로 다르다는 의미입니다. 우리 몸은 이러한 단백질에 대응해 면역(항체)을 만들어 냅니다. 따라서 서로 다른 혈청형의 바이러스에 대해서는 각각 다른 면역이 형성됩니다(예: 아데노바이러스 혈청형 1과 3에 대해서는 서로 다른 항체가 생성됨). 
+이러한 이유로, 어떤 바이러스에 한 번 감염되었다고 해서 평생 면역이 생기는 것은 아니며, 이미 생긴 면역도 시간이 지나면서 약해질 수 있어 평생 동안 감기가 종종 재발할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대체로 호흡기바이러스는 다음과 같은 방식으로 감염됩니다.
+• 비말 전파: 바이러스에 감염된 사람의 침이나 콧물 방울(비말)이 가까운 거리에 있는 사람에게 튀어서 감염될 수 있습니다. 
+• 직접/간접 접촉 전파: 감염된 사람이나 바이러스에 오염된 물건을 만져서 감염될 수 있습니다.
+• 공기 전파: 감염된 비말에 직접 닿지 않더라도, 공기 중에 떠다니는 미세한 바이러스 방울을 흡입할 경우 감염될 수 있습니다.
+
+바이러스에 처음 접촉한 후 증상이 나타날 때까지의 시간(잠복기)은 바이러스 종류에 따라 다릅니다. 보통 4~5일이지만, 빠르면 하루 만에도, 늦으면 2주 후에 증상이 나타나기도 합니다. 전염력(전파력)은 일반적으로 증상이 있는 동안 가장 강하지만, 증상이 나타나기 전 무증상 시기에도 전파될 수 있습니다. 또한, 바이러스마다 흔히 유행하는 계절이 다릅니다. 예를 들어, 인플루엔자와 호흡기세포융합바이러스(RSV)는 겨울철에 주로 유행하며, 겨울부터 초봄까지 유행합니다. 반면 파라인플루엔자는 '여름 감기'로 불릴 정도로 여름철에 유행하는 것이 특징입니다.
+
+아래는 바이러스별 통계 자료입니다. 
+
+1. 아데노바이러스 감염증(Adenovirus infection)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1947369b4165]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 사람 보카바이러스 감염증(Human bocavirus infection)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=194736ac2288]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. 파라인플루엔자바이러스 감염증(Parainfluenza virus infection)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=194736b7f3c2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 호흡기세포융합바이러스 감염증(Respiratory syncytial virus infection)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=194736bfe355]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[5. 리노바이러스 감염증(Rhinovirus infection)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=194736c7ddc8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[6. 사람 메타뉴모바이러스 감염증(Human metapneumovirus infection)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=194736d1dfe2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[7. 사람 코로나바이러스 감염증(Human coronavirus infection)]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=194736db36e5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[8. 급성 호흡기바이러스 감염증의 월별 국내 발생현황]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=19481edfe182]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[호흡기 자체의 염증으로 인한 증상과, 호흡기에 국한되지 않는 전신 염증 증상이 나타날 수 있습니다. 호흡기 증상으로는 콧물, 코막힘, 기침, 가래, 목구멍 통증(인후통) 등이 있습니다. 기침을 심하게 하면 가슴 통증이 생길 수 있으며, 숨이 차거나(호흡곤란), 숨 쉴 때 쌕쌕거리는 소리(천명음)가 나는 경우에는 하부 호흡기 염증이 동반되었을 가능성이 있어 병원 진료가 필요합니다. 
+전신 증상으로는 열, 오한(춥다고 느끼는 것), 피로, 근육통(몸살), 두통 등이 있으며, 일부 바이러스는 특징적인 증상을 동반하기도 합니다. 그러나 증상만으로 특정 원인 바이러스를 정확히 구분하는 것은 어렵습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성호흡기바이러스감염증은 보통 별도의 검사 없이 증상만으로도 진단 가능합니다. 건강한 성인에서는 증세가 가볍고, 설사 바이러스 종류를 확인하더라도 대부분 치료제가 없기 때문에 일반적으로 바이러스 검사를 하지 않습니다. 하지만 심한 폐렴이 발생했거나, 환자의 면역이 약한 경우(암 환자, 장기이식 환자 등)에는 원인 바이러스를 확인하는 검사가 필요합니다. 검사는 주로 콧물이나 가래와 같은 호흡기 점막 분비물에서 여러 바이러스의 유전자를 동시에 확인하는 방식으로 이루어집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대부분의 세균 감염증은 세균 자체를 죽이거나 억제하는 항생제로 근본적인 치료가 가능하지만, 바이러스 감염에서는 인플루엔자나 코로나19 등 일부를 제외하면 이를 치료할 수 있는 항바이러스제가 없습니다. 그러나 항바이러스제가 없더라도, 대부분 건강한 어린이와 성인은 자신의 면역력으로 회복할 수 있습니다. 
+따라서 치료는 주로 증상 회복을 돕는 방식으로 이루어집니다.
+• 충분한 휴식, 수분 섭취, 따뜻한 환경 유지
+• 열이나 몸살이 심할 때 해열진통제 복용
+• 코막힘, 콧물에는 항히스타민제 또는 혈관수축제 복용, 필요 시 생리식염수로 코 세척
+• 기력이 없어 식사를 잘 하지 못할 때 수액 주사 투여]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[호흡기 바이러스는 작은 침방울을 통해 기침으로 전파되거나, 오염된 표면을 만진 후 얼굴을 접촉하는 방식으로도 감염될 수 있습니다. 따라서 감염 예방을 위해 아래 수칙을 지키는 것이 중요합니다. 
+• 외출 후 흐르는 물에 60초 이상 손 씻기
+• 씻지 않은 손으로 얼굴 만지지 않기 
+• 기침 예절 준수 
+• 열이 나거나 호흡기 증상이 있을 때 마스크 착용
+
+이러한 수칙을 준수하면 호흡기바이러스뿐만 아니라 다양한 세균과 바이러스로 인한 감염도 효과적으로 예방할 수 있습니다.
+
+현재 예방접종(백신)으로 예방할 수 있는 호흡기 바이러스는 (1) 인플루엔자, (2) 코로나19, (3) 호흡기세포융합바이러스(RSV)뿐입니다. 
+인플루엔자 접종은 6개월 이상 누구나 접종 가능하며, 특히 5세 이하 어린이, 임산부, 65세 이상 성인, 만성 질환자, 집단생활자에게 권장됩니다. 
+코로나19 접종 또한 6개월 이상 누구나 접종 가능하며, 임산부, 65세 이상 성인, 만성 질환자, 집단생활자에게 특히 권장됩니다. 
+RSV 접종은 60세 이상 성인을 대상으로 허가되었습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 많은 호흡기바이러스 중에 이미 코로나바이러스도 포함되어 있습니다. 그런데 왜 2020년에 코로나바이러스 대유행이 생겼나요?
+
+A. '코로나바이러스'라는 분류에는 여러 종류의 바이러스가 포함됩니다. 2019년 말 중국에서 처음 발견된 코로나19의 원인 바이러스(SARS-CoV-2)는 기존에 유행하던 ‘사람 코로나바이러스’와는 다른 종류에 속합니다. SARS-CoV-2는 그간 동물에서만 존재했기 때문에 2019년 이전에는 누구도 면역을 가지고 있지 않았다는 점이 대규모 유행의 한 원인이 되었습니다. 또한 무증상 시기에도 전파될 수 있고, 공기 전파가 가능하다는 점도 대규모 유행 발생에 기여하였습니다.
+
+Q. 급성 호흡기바이러스 감염증과 우리가 흔히 말하는 감기, 독감과는 어떤 차이가 있나요?
+
+A. 감기는 다양한 호흡기바이러스에 의해 발생하는 급성 상기도 감염으로 이해하면 됩니다. 
+반면, 독감은 인플루엔자라는 한 종류의 바이러스에 의해 발생하는 급성 감염으로, 감염이 상기도에 국한되지 않고 폐렴이나 패혈증까지 일으킬 수 있습니다.
+감기는 바이러스를 직접 죽이는 약(항바이러스제)이나 예방 접종이 없지만, 독감은 효과적인 항바이러스제와 예방 접종을 통해 예방과 치료가 가능합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한감염학회. (2024). 감염학. 군자출판사.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

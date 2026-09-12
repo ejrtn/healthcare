@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[족저근막염]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5975]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 족저근막염은 발바닥의 아치를 유지하고 충격을 흡수하는 족저근막에 반복적인 손상과 과부하가 가해져 염증과 통증이 생기는 질환입니다.
+• 주요 원인은 과사용, 발의 구조적 변형(평발·요족), 그리고 근력 저하나 전신질환 등이 있습니다.
+• 증상은 아침 첫걸음 시 심한 통증이 나타나고, 장시간 보행이나 운동 후에도 악화될 수 있습니다.
+• 치료는 스트레칭, 충격파 치료, 보조기 착용 등 비수술적 방법이 우선이며, 장기간 호전되지 않으면 수술적 치료를 고려할 수 있습니다.
+• 족저근막염은 수술 없이도 대부분 호전되지만, 천천히 회복되므로 꾸준한 치료와 생활습관 관리가 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[족저근막은 발바닥의 근육을 싸고 있는 섬유조직으로 된 두꺼운 막으로, 발꿈치뼈(종골) 안쪽에서 시작되어 발가락 뼈에 부착됩니다. 이 막은 발바닥활(발바닥 아치)을 형성하고, 걸을 때 발이 튼튼하게 힘을 받을 수 있도록 합니다.
+하지만 걷거나 뛸 때, 특히 발꿈치가 들릴 때 발꿈치 뼈의 부착 부위가 강하게 당겨져 손상될 수 있습니다. 족저근막염은 이러한 미세한 손상이나 과사용으로 인해 염증이 생겨 발꿈치와 발바닥에 통증을 일으키는 질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1836997a4612]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[족저근막염의 원인은 크게 세 가지입니다.
+
+1) 과사용
+가장 흔한 원인은 반복적인 스트레스입니다. 족저근막염은 일반적인 염증이 아니라, 미세 외상이 반복되거나, 무리하게 사용하거나, 많이 사용해서 통증이 생기는 것입니다. 특히 아킬레스건이 짧아서 종아리와 발꿈치가 뻣뻣한 경우, 달리기처럼 근막에 높은 긴장이 가해지는 운동을 많이 할 때, 바닥이 딱딱하고 얇은 신발을 많이 신거나 딱딱한 바닥 위를 많이 걷을 때 잘 발생합니다.
+2) 발의 구조적 변형　
+평발은 걷는 중에 발바닥 아치(내측 활)가 낮아지면서 족저근막에 과도한 긴장이 가해져 족저근막염이 발생할 가능성이 높아집니다. 반대로 발바닥 아치가 너무 높은 오목발 변형(요족 변형)에서는 보행 시 발가락을 들어올릴 때 족저근막에 지속적으로 과도한 긴장이 가해져 염증이 생길 수 있습니다.  
+3) 발 이외의 원인
+발목을 발바닥 쪽으로 구부리는 근력이 약해지면 걸을 때 발의 추진력이 떨어져 약해진 근육 대신 족저근막이 그 역할을 하게 되어 염증이 생길 가능성이 높아집니다. 그 외에 드물지만 통풍, 루푸스, 강직척추염, 류마티스관절염 등 전신질환에서 양측성, 만성 족저근막염이 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[건강보험심사평가원 자료를 보면 족저근막염 환자수는 2012년 13만 8583명에서 2020년에는 25만 829명으로 두 배 가깝게 늘었습니다. 연령대는 50대 발병률이 가장 높고, 여성이 남성보다 1.3배가량 많았습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1835eaf89571]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1835ea9a4fd6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[족저근막염의 전형적인 증상은 발꿈치 안쪽의 통증이며, 주요 증상은 다음과 같습니다.
+• 자고 일어나거나 의자에 오랜 시간 앉아있다가 일어나서 첫 걸음을 내딛을 때 통증이 심합니다. 이는 잠을 자거나 오래 앉아 있는 동안 족저근막이 짧아지고 뻣뻣해졌다가 움직이기 시작할 때 갑자기 늘어나기 때문입니다.
+• 이후 걷기 시작하면 오히려 통증이 완화되거나 사라집니다.
+• 먼 거리를 걷거나, 운동 같은 격한 활동을 하면 다시 통증이 생기는 것이 특징입니다
+• 증상이 오래 되면 뒤꿈치 안쪽뿐만 아니라 발바닥 전체로 통증이 퍼질 수 있습니다.
+이와 같은 만성 족저근막염은 치료가 쉽지 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[진단은 병력 청취와 신체검사를 통해 이루어집니다. 병력에서 아침에 일어나 첫 발을 딛을 때 또는 오래 앉아 있다가 일어나서 걷기 시작할 때 심한 통증을 느끼는 것은 족저근막염 진단의 중요한 단서가 됩니다. 진찰시 대부분 발꿈치뼈(종골) 안쪽 부위에 국소적인 압통이 있으며, 부기가 동반되기도 합니다.
+족저근막을 수동적으로 늘려서 증상이 나타나는지 검사하는 ‘감아올림 검사(Windlass test)’가 도움이 될 수 있습니다. 이후 서 있는 상태에서 발 X-선 촬영을 해 다른 원인에 의한 통증을 감별합니다. X-선에서 소위 ‘발꿈치 뼈가 자랐다’는 종골의 골증식 소견이 관찰될 수 있으며, 이는 족저근막염의 심한 정도보다는 얼마나 오래 전부터 발병했는지와 관련이 있습니다.
+초음파 검사로 만성화된 족저근막염에서 나타날 수 있는 두꺼워진 근막이나 파열 등을 확인할 수 있습니다. 자기공명영상(MRI), 뼈스캔(bone scan) 등이 진단에 도움이 될 수 있으나 필수적인 검사는 아니며, 대개 병력 청취와 신체검사만으로 진단이 가능합니다
+
+발바닥 통증을 유발하는 원인은 다양하지만, 족저근막염의 특징은 걷기 시작할 때 발꿈치와 발바닥 안쪽에 심한 통증이 발생하는 것입니다. 이러한 양상이 아니라면 다른 질환에 대해서도 생각해 봐야 합니다.
+
+1) 지간신경종(Interdigital Neuroma) 
+걸을 때나 걷고 나서 주로 발바닥 앞쪽이 많이 아프고, 발가락이 저리거나 이상감각이 동반된다면 지간신경종을 의심해야 합니다. 
+2) 말초신경병증성 통증
+걷는 것과 상관없이 밤낮없이 아프거나, 화끈거리거나, 시린 증상이 지속된다면 말초신경병증성 통증일 가능성이 높습니다. 
+3) 급성 족저근막 파열
+달리기나 점프 후, 혹은 주사치료 후에 갑자기 뒤꿈치나 발바닥 통증이 생긴다면 급성 족저근막 파열일 수 있습니다. 
+4) 종골(뒤꿈치뼈) 피로 골절
+행군을 많이 하는 군인이나 운동 선수, 뼈가 약한 노인, 당뇨 환자에서 뒤꿈치 바닥뿐 아니라 안쪽, 바깥쪽까지 모두 통증과 압통이 있다면 종골 피로골절일 가능성이 있습니다. 
+5) 압박신경병증(족근관증후군, 요천추신경병증)
+첫 걸음을 뗄 때보다 활동할수록 통증이 심해지고, 발바닥 앞쪽이나 종아리로 통증이 뻗치며, 화끈거리거나 찌릿한 증상이 동반된다면 족근관증후군이나 허리에 기인하는 요천추신경병증을 검사해보아야 합니다. 
+6) 지방패드 위축증후군
+딱딱한 신발을 신거나 바닥이 딱딱한 곳을 걸을 때 뒤꿈치 중심 부위 통증이 있으며, 진찰 시 발바닥 살이 없고 뼈가 바로 만져지는 듯한 느낌이 든다면 발꿈치 지방패드 위축증후군일 수 있습니다.
+7) 족저근막 섬유종증
+족저근막의 중간 부위에 덩어리가 촉지되며, 걸을 때 불편감 및 족저근막염과 유사한 증상이 나타나는 경우에는 족저근막 섬유종증일 가능성이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1) 비수술적 치료 
+① 활동 조절 
+족저근막염은 염증질환이므로 발을 많이 사용할 경우 호전되지 않을 수 있으므로, 증상이 있을 때는 많이 걷거나 등산, 운동하는 시간을 줄이는 것이 도움이 될 수 있습니다.
+② 스트레칭 및 근력 강화 운동
+스트레칭은 치료에 가장 중요하며, 주가 되는 족저근막 스트레칭과 보조적인 역할을 하는 아킬레스건 스트레칭으로 나뉩니다.
+족저근막 스트레칭은 발목 관절을 최대한 발등 쪽으로 굽힌 상태에서 한 손으로 엄지발가락을 최대한 발등 쪽으로 굽히고, 다른 한 손으로 뒤꿈치 부위의 긴장된 족저근막을 늘려주듯 강하게 마사지하는 방법입니다. 1회에 10초 이상 10회씩, 하루에 아침, 점심, 저녁으로 3세트씩 매일 시행하며, 아침에 첫 발을 내딛기 직전, 오래 앉아있다가 일어서 걷기 직전에 시행하면 통증 완화에 큰 도움이 됩니다. 얼린 음료수 캔, 골프공 등을 뒤꿈치 내측에 대고 발로 강하게 구르며 스트레칭하는 방법도 있습니다.
+아킬레스건 스트레칭은 벽을 향해 선 후, 눈높이로 양손을 벽에 대고 아픈 다리를 뒤에, 아프지 않은 다리를 앞에 두고 다리를 벌립니다. 아픈 쪽 발뒤꿈치를 바닥에 댄 후 몸을 천천히 벽 쪽으로 숙이면서 뒤쪽 종아리가 당기는 느낌이 들도록 스트레칭합니다.
+그 외에도 발바닥 근육강화 운동은 특히 지방패드 위축 증후군으로 발바닥이 아픈 경우 도움이 될 수 있으며, 앉은 자세에서 발가락만으로 수건을 집어서 당겨오거나 밀어내는 운동, 수건을 발가락으로 들고 버티는 운동 등을 통해 근육을 강화할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18369986b725]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[③ 체외충격파
+스트레칭을 꾸준히 해도 증상이 호전되지 않는다면, 체외충격파 치료를 시도할 수 있습니다. 체외충격파는 비침습적이며 회복 기간이 짧으면서도 60~80%에서 만족스러운 결과가 보고됩니다. 족저근막염에서 체외충격파 치료의 정확한 원리는 밝혀지지 않았지만, 조직에 미세한 손상을 주고 치유 과정과 신생 혈관 생성을 유도하며, 말단부 신경 자극을 통해 통증을 둔화시킨다는 가설이 제시됩니다. 만성 족저근막염에서 3주 정도 간격으로 2~3회 체외충격파 치료를 시행해 증상 호전을 기대해 볼 수 있습니다.
+④ 소염진통제 복용
+통증이 심한 급성기에 복용하면 증상 조절에 도움이 되며, 스트레칭 시 통증이 심한 환자가 꾸준히 스트레칭을 시행하는 데 도움이 될 수 있습니다.
+⑤ 보조기 사용
+발꿈치 쿠션 또는 컵(heel cushion/cup)이 가장 흔하게 사용되며, 보행 시 뒤꿈치에 가해지는 압력과 족저근막에 가해지는 스트레스를 일부 줄여줄 수 있습니다. 그 외 평발, 오목발(요족) 등 발 변형이 동반된 일부 환자에서 맞춤 교정 깔창 사용이 도움이 될 수 있으나, 효과가 입증된 치료는 아닙니다.
+⑥ 스테로이드 주사
+통증이 심한 족저근막염 환자에게 국소 스테로이드 주사로 염증을 감소시켜 통증을 일시적으로 줄일 수 있으나, 족저근막 파열, 피부 변색, 발꿈치 지방 패드 위축 등의 부작용을 유발할 수 있어 많이 시행되는 치료가 아니며, 신중하게 치료를 고려해야 합니다.
+
+2) 수술적 치료
+6개월 이상의 보존적 치료에 반응하지 않는 경우 수술적 치료를 고려합니다. 수술은 통증이 심한 족저근막 일부를 절제하거나 늘려주는 것인데 신경 손상, 통증 지속 등 합병증 발생 가능성이 있어 제한적인 경우에만 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[대부분 비수술적인 치료만으로 만족스러운 치료 결과를 얻지만, 수 개월에 걸쳐 천천히 치유되는 경우가 많아 환자 역시 인내심을 갖고 꾸준히 치료하는 것이 중요합니다. 족저근막염 자체가 원인이 되어 발생하는 합병증은 알려져 있지 않지만, 증상이 만성화되면 일상 생활에 지장을 초래할 수 있어 조기에 치료하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[족저근막에 가해지는 긴장을 줄이는 생활습관 개선이 중요합니다. 적절한 체중을 유지하고, 운동량을 갑자기 늘리지 말고 자신의 운동 능력에 맞게 조금씩 늘려야 합니다. 쿠션이 충분해 족저근막의 충격을 흡수해주는 신발을 신는 것이 도움이 되며, 하이힐 등 높은 신발과 바닥이 너무 얇아 충격 흡수가 안 되는 신발은 피해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 족저근막염이라는데, 왜 이렇게 안 낫죠?
+
+A. 스트레칭이 충분하지 않고, 족저근막이 뻣뻣한 상태로 계속 걸으면서 원래 있던 손상이 미처 낫지 않은 상태에서 새로운 손상과 염증이 겹치기 때문입니다. 통증이 심한 치료 초기에는 등산, 골프, 달리기, 걷기 같은 체중 부하 활동을 줄이고, 족저근막에 가해지는 긴장이 적은 고정식 자전거나 수영 등의 비체중부하 운동을 실시합니다. 또한 증상이 조금 좋아졌다고 스트레칭을 중단하지 말고, 통증과 상관없이 꾸준한 스트레칭을 생활화해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한족부족관절학회. (2019). 족부족관절 (제2판). 범문에듀케이션.
+2. Barrett, S. L., Day, S. V., Pignetti, T, T. &amp; Robinson, L. B. (1995). Endoscopic plantar fasciotomy: a multi-surgeon prospective analysis of 652 cases. Journal of Foot and Ankle Surgery. 34. 400-406.
+3. Digiovanni, B. F., Nawoczenski, D. A., Malay, D. P., Graci, P. A., Williams, T. T., Wilding, G. E., Baumhauer, J. F. (2006). Plantar fascia-specific stretching exercise improves outcomes in patients with chronic plantar fasciitis. A prospective clinical trial with two-year follow-up. Journal of Bone &amp; Joint Surgery American volume. 88. 1775-81.
+4. Gormley, J., Kuwada, G. T. (1992). Retrospective analysis of calcaneal spur removal and complete fascial release for the treatment of chronic heel pain. Journal of Foot Surgery. 31. 166-9. 
+5. Kim, B. S., Lee, K. B., Choi, J., Park, Y. B., Baik, L. B. (2006). Extracorporeal shock wave therapy (ESWT) in patients with chronic proximal plantar fasciitis. Journal of Korean Foot and Ankle Society. 10. 163-7.
+6. Kitaoka, H. B., Luo, Z. P., Growney, E. S., Berglund, L. J., An, K. N. (1994). Material properties of the plantar aponeurosis. Foot &amp; Ankle International. 15. 557-60.
+7. Landorf, K. B., Keenan, A. M., Herbert, R. D. (2006). Effectiveness of foot orthoses to treat plantar fasciitis: a randomized trial. Archives of Internal Medicine. 166. 1305-10. 
+
+8. Lapidus, P. W., Guidotti, F. P. (1965). Painful heel: report of 323 patients with 364 painful heels. Clinical Orthopaedics &amp; Related Research. 39. 178-86. 
+9. Lundeen, R. O., Aziz, S., Burks, J. B., Rose, J. M. (2000). Endoscopic plantar fasciotomy: a retrospective analysis of results in 53 patients. Journal of Foot and Ankle Surgery. 39. 208-17. 
+10. Ogden, J. A., Alvarez, R., Levitt, R., Cross, G. L., Marlow, M. (2001). Shockwave therapy for chronic proximal plantar fasciitis. Clinical Orthopaedics &amp; Related Research. 387. 47-59. 
+11. Pfeffer, G., Bacchetti, P., Deland, J., Lewis, A., Anderson, R., Davis, R. A., …, &amp; Bowman, R. S. (1999). Comparison of custom and prefabricated orthoses in the initial treatment of proximal plantar fasciitis. Foot &amp; Ankle International. 20. 214-21. 
+12. Thomas, J. L., Christensen, J. C., Kravitz, S. R., Mendicino, R. W., Schuberth, J. M., Vanore, J. V., …, &amp; Baker, J. (2010) American College of Foot and Ankle Surgeons heel pain committee. The diagnosis and treatment of heel pain: a clinical practice guideline-revision 2010. Journal of Foot and Ankle Surgery. 42(3). S1-19. 
+13. Tsai, W. C., Chiu, M. F., Wang, C. L., Tang, F. T., Wong, M. K. (2000). Ultrasound evaluation of plantar fasciitis. Scandinavian Journal of Rheumatology, 29(4), 255-9. 
+14. Williams, P. L., Smibert, J. G., Cox, R., Mitchell, R., Klenerman, L. (1987). Imaging study of the painful heel syndrome. Foot &amp; Ankle International. 7. 345-9.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

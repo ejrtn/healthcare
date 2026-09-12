@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[객혈]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6543]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 객혈은 폐나 기관지에서 발생한 출혈이 기침을 통해 배출되는 증상으로, 가래에 약간의 혈액이 섞인 경미한 상태에서부터 생명을 위협하는 대량 출혈까지 다양하게 나타날 수 있습니다.
+• 객혈의 양이 지속적으로 늘고 기침, 발열, 흉통 등의 증상이 함께 나타나면 진료를 받아 원인을 파악해야 합니다.
+• 소량의 객혈은 약물치료나 보존적 치료로 관리할 수 있지만, 대량 객혈은 즉각적인 치료가 필요하므로 가능한 빨리 의료기관을 찾아야 합니다.
+• 객혈 예방을 위해서 흡연자는 금연하는 것이 좋으며, 규칙적인 유산소 운동을 통해 폐 기능을 유지하고, 대기 오염 물질에 대한 노출을 최소화해야 합니다.
+• 또한 감염성 질환을 예방하기 위해 백신 접종과 정기적인 검진이 필수적이며, 대기 오염이 심한 환경에서는 마스크 착용이 도움이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈은 기관-기관지나 폐실질에서 기원하는 혈액 또는 혈액이 섞인 가래를 기침과 함께 배출하는 증상을 말합니다. 입에서 피를 뱉을 때 폐나 기관지에서 나오는 혈액인지 위장관이나 식도, 치아, 코 등에서 나오는 혈액인지를 구분하기가 어려운 경우가 많습니다. 여러 단서를 통해 출혈 장기를 가장 먼저 확인하는 것이 중요한데, 이에 따라 진단 및 치료 방향이 달라지기 때문입니다. 기침을 동반하거나 선홍색이면 폐나 기관지에서 나온 객혈일 가능성이 높고, 구토를 하거나 검붉은 색일 경우 객혈이 아닐 경우가 많지만 이런 구분이 절대적인 것은 아닙니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc3271]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6ee3791]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[159]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈은 기침을 할 때 폐나 기관지에서 혈액이 나오는 증상을 말합니다. 이는 폐 질환, 결핵, 폐렴, 폐암, 기관지 확장증, 폐 색전증 등 다양한 원인에 의해 발생할 수 있습니다. 객혈의 양과 빈도에 따라 경미한 경우부터 심각한 경우까지 다양하며, 심한 경우 응급 치료가 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[160]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈은 소량이라도 중증 질환이 원인일 수 있습니다. 즉 배출되는 객혈의 양이 기저질환의 중증도와 밀접한 관련이 있는 것은 아닙니다. 또한 출혈의 시기와 임상 경과를 전혀 예측할 수 없기 때문에 일단 객혈이 발생하면 정확한 원인을 찾고, 대량 객혈이 발생할 가능성에 대비해야 합니다. 객혈은 양에 따라 24시간 이내에 10~20 mL 인 경우 소량 객혈, 20~100 mL 은 중등도 객혈, 100~600 mL 이상을 대량 객혈로 구분합니다. 객혈 환자의 1~5%에서 대량 객혈이 발생하고, 이 중 20~50%는 치명적일 수 있습니다. 객혈은 출혈 자체로도 위험할 수 있지만, 배출되는 혈액이 폐포로 흡인되거나 기도 내에서 응고되는 경우 기도 폐쇄를 유발해 질식으로 인한 저산소혈증으로 사망에 이를 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈을 초래하는 질환은 40여 가지에 이르지만, 대량 객혈은 대부분 폐결핵, 기관지 확장증, 폐농양, 만성 기관지염, 폐암, 폐 아스페르길루스종 등에 의해 생깁니다. 최근 결핵과 기관지 확장증의 유병률이 감소하는 추세이지만, 아직도 우리나라에서는 이들 질환이 주요한 원인을 차지합니다. 특히 50대 이상에서는 폐암, 폐결핵, 기관지 확장증 등이 주요 원인으로 알려져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc32e4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 폐결핵 
+폐결핵 환자의 약 25%에서 객혈이 동반됩니다. 활동성 결핵 특히 공동성 병변이 있는 경우에 더 흔하지만, 이전에 결핵을 앓았던 비활동성 결핵 환자에서도 대량 객혈이 발생할 수 있습니다. 공동은 위의 폐결핵 그림과 같이 정상적인 폐구조가 파괴되고 주변이 두꺼운 벽으로 둘러싸인 공간을 말합니다. 출혈을 초래하는 대표적인 결핵성 병변으로는 공동 내에서 폐동맥이 비정상적으로 늘어난 라스무센(Rasmussen) 동맥류, 결핵성 기도염증 또는 결핵성 기관지확장증, 결핵성 공동의 2차 감염 즉, 폐 아스페르길루스종 등을 들 수 있습니다. 
+
+2. 기관지 확장증 
+기관지 확장증은 기관지 또는 세기관지 내경이 어떤 원인에 의해서든 비가역적으로 넓어진 것입니다. 감염에 의해 기관지 연골이 파괴되고 기관지 주위 폐포가 섬유화되어 폐실질이 쪼그라들면 기관지를 당겨 확장시켜 기관지 확장증이 됩니다. 확장된 기관지에는 점액성 또는 화농성의 분비물이 차 있어서, 화농성 객담과 함께 소량의 객혈이 묻어나는 일이 흔하며, 간혹 대량 객혈도 관찰됩니다. 
+
+3. 폐농양 
+원발성 폐농양의 10~25%에서 객혈이 관찰되고, 일부에서는 대량 객혈도 발생합니다. 폐농양은 폐실질 내에 생긴 국소적인 화농성 변화로, 정상 폐구조를 파괴하며 영상의학적으로 공동 내에 공기-액체층이 나타납니다. 이때 공동벽의 기관지동맥과 폐동맥이 괴사성 염증에 의해 파열되어 출혈이 발생합니다.  
+
+4. 만성기관지염 
+만성 기관지염은 만성적으로 기침과 객담이 배출되는 병으로 객혈을 유발할 수 있고, 드물게 대량 객혈이 생기는 경우도 있습니다. 이때 각혈은 만성 기도 염증에 의해 비후된 기관지 동맥의 미란성 출혈에 의한 것으로 생각합니다. 
+
+5. 폐암 
+폐암 환자의 3~20%가 객혈을 경험하지만, 대량 객혈은 드문 편입니다. 폐암은 흔히 큰 기도를 중심으로 생기고, 약 절반에서는 공동을 형성합니다. 종양에 의한 직접적인 침범과 종양 내 혈관, 특히 종양을 먹여 살리는 영양 혈관인 기관지 동맥의 괴사와 염증에 의해 출혈이 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[162]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈 환자의 경과 및 예후는 원인 질환과 객혈의 양, 환자의 전반적인 건강 상태에 따라 달라집니다. 소량의 객혈은 저절로 멈추기도 하며 양성 질환에 의한 것으로 예후가 좋은 편이지만, 대량 객혈은 생명을 위협할 수 있으며, 즉각적인 치료가 필요합니다. 기관지 확장증 같은 만성 폐질환이나 폐암처럼 심각한 원인에 의해 발생한 객혈은 반복될 수 있으며, 예후가 나쁜 경우가 많습니다. 조기 진단과 원인에 맞는 적절한 치료가 예후를 개선하는 데 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[163]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[폐는 폐동맥과 기관지동맥 양쪽에서 혈류를 공급받습니다. 폐동맥은 산소포화도가 낮고 압력이 낮은 혈액이 흐르고, 기관지동맥은 산소포화도가 높고, 압력이 높은 혈액이 흐릅니다. 폐와 기관지에 염증, 저산소증, 종양 등에 의해 염증 물질 및 혈관생성물질의 생성이 증가하면 손상되기 쉬운 신생 혈관이 만들어집니다. 이렇게 만들어진 신생 혈관은 기관지동맥의 높은 압력으로 인하여 쉽게 파열되어 객혈을 유발합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈의 역학은 지역적 특성, 인구 집단의 건강 상태, 기저 질환의 유병률에 따라 달라집니다. 객혈 발생의 중요한 원인인 결핵을 예로 들면, 개발도상국에서는 결핵이 여전히 흔한 질환으로 남아있어 선진국에 비해 객혈 발생률이 높습니다. 전 세계적으로 객혈은 결핵이 주요 원인 중 하나이며, 결핵이 흔한 개발도상국에서 더 많이 발생합니다. 또한 객혈은 고령자에게 더 흔하게 발생하는데, 이는 나이가 들면서 폐 질환이나 심혈관계 질환이 증가하기 때문입니다.남성에서 여성보다 객혈 발생률이 더 높은 이유는 흡연과 같은 위험 요인에 더 많이 노출되기 때문입니다. 환자에게 심각한 위협을 초래할 수 있는 대량 객혈은 전체 객혈의 20% 미만으로 알려져 있으나, 치명적인 결과를 초래할 수 있어 주의해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈의 경우 가장 먼저 출혈 부위를 확인하고 원인 질환을 파악하는 것이 중요합니다. 특히 중년 이상의 환자에서는 폐암의 가능성을 고려해야 합니다. 그러나 대량 객혈이라면 우선 급격한 출혈로 인한 질식이나 쇼크를 방지하기 위해 기도를 확보하고, 객혈을 중단시키는 것을 모든 처치의 목표로 삼아야 합니다. 폐 또는 기관지에서 유래한 출혈이 확인되면 곧바로 철저한 병력 청취와 신체 검진, 흉부 X선, 흉부 전산화단층촬영(computed tomography, CT) 소견 등으로 출혈 부위를 결정하고, 출혈을 중단시킬 수 있는 모든 방법을 동원하게 됩니다.  
+
+1. 문진
+증상 발생 시기와 양상으로 폐 또는 기관지에서 발생한 출혈인지, 상기도 및 위장관 출혈인지 구분합니다. 또한 객혈의 양, 출혈 속도를 평가해 응급 처치 여부를 결정합니다. 동반 증상으로 평소 객담이 많이 배출되었는지, 화농성의 객담이 배출되거나 발열이 동반되는지, 흉통이나 호흡곤란이 발생했는지 확인해 원인 질환을 감별합니다. 
+
+2. 신체검사 
+호흡 횟수나 주기, 호흡 시 갈비뼈 사이 함몰, 입술이 파랗게 변하는 청색증 동반 여부 등을 확인해 호흡 곤란이 동반되는지 평가합니다. 호흡 곤란이 심하면 짧은 문장 한 마디도 하기 힘든 경우가 있습니다. 천명음이나 가래 끓는 소리, 쉰 목소리 등이 동반되는지도 확인합니다. 기도 내에서 다량의 출혈이 일어나 혈액이 응고하면 호흡음이 감소할 수 있고, 폐실질 병변이 함께 있는 경우에는 청진상 다양한 비정상음이 들릴 수 있습니다.  
+
+3. 흉부 전산화단층촬영(computed tomography, CT) 
+객혈 환자에서 흉부 방사선 다음으로 많이 이용되는 진단 방법입니다. 그러나 대량 객혈 환자에서는 출혈 후에 주위 폐포로 혈액이 흡인되어 정확한 병변을 구분할 수 없기 때문에 CT 검사로도 출혈 병소를 찾을 수 없는 경우가 있습니다. CT 촬영 시 혈관을 더욱 잘 드러내는 조영제를 정맥 투여한 후 비후된 혈관의 위치와 분포를 평가하면 출혈 위치를 찾는 데 도움이 됩니다.  
+
+4. 기관지 내시경 검사 
+객혈 환자에서 출혈 부위를 직접 내시경으로 관찰하는 검사입니다. 90% 이상의 환자에서 구역기관지가지까지 출혈 부위를 밝힐 수 있으므로 환자의 체위 변경이나 출혈 반대 부위로 선택적 기관삽관, 출혈 병소의 외과적 절제술을 시행하기 전에 선행 검사로 이용됩니다. 기관지 내시경에는 경성 기관지 내시경과 굴곡 내시경이 있습니다. 대량 객혈 시 지혈 목적으로 경성 기관지 내시경을 시행할 수 있으나 의료기관의 시설 / 장비에 따라 시행할 수 없는 경우가 있고, 굴곡내시경은 대량 객혈로 인해 시야 확보가 어려운 경우가 많습니다.  
+
+5. 기관지 및 폐동맥 조영술 
+동맥 조영술은 흉부 X-선 소견 혹은 흉부 CT 소견과 기관지 내시경 검사 등을 종합해 출혈 부위가 확인된 후에 시행하는 것이 좋습니다. X-선 투시하에서 대퇴동맥 상부에 가늘고 긴 도관을 삽입합니다. 대동맥을 통과한 후 주로 기관지 동맥과 기관지 외 측부 순환 동맥 또는 폐동맥에 조영제를 투입해 출혈 원인 혈관 또는 출혈 중인 혈관을 찾습니다. 동맥 조영술에서 출혈 원인 혈관을 시사하는 소견은 폐실질의 혈관상 과다, 혈관의 비후와 사행성 주행, 모세혈관 정체, 기관지 폐동맥 단락, 동맥류 형성, 혈관의 혈전 형성, 조영제의 혈관 외 유출 등입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc3357]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[감염성 질환 및 후유증으로 결핵성 파괴폐, 비결핵 항산균 폐질환 등이 있고, 비감염성 원인으로는 악성 종양, 혈관염 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[가장 먼저 출혈이 기도 및 폐에서 기원하는지 확인하는 것이 중요합니다. 즉, 구강, 상기도(후두부와 인두부), 식도 및 위에서 발생한 토혈과 감별해야 합니다. 객혈은 선홍색이고 거품이 있는 객담이 섞이며 pH(산도)는 알칼리성을 띱니다. 토혈은 검붉은 색이고, 흔히 음식물이 섞이며 산성 pH를 띱니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[168]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈이 소량 또는 중등도라면 상세한 병력과 신체검사, 흉부 X-선 촬영, 흉부 CT 검사 등을시행해 기저 질환을 감별합니다. 대량 객혈이라면 우선 호흡할 수 있도록 기도를 유지하고 지혈을 위한 응급 처지를 시행한 뒤에 출혈 부위와 원인을 진단하고, 외과적 절제술의 필요 및 가능성을 평가해야 합니다. 대량 객혈 환자는 중환자실에서 상태 및 경과를 관찰해야 하며, 약한 진정제로 불안을 가라앉히고 코데인 등으로 기침을 억제합니다. 출혈 부위가 확인되면 출혈이 있는 쪽 폐가 아래로 향하도록 누워건강한 폐로 혈액이 흡인되는 것을 예방하고, 기도 내에 생긴 혈액 응괴가 자연적으로 출혈을 억제하도록 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 지혈제 
+대량 객혈이 아니라면 지혈제를 투약해 객혈의 양 및 추가적인 시술 필요성을 줄일 수 있습니다.  트라넥사믹산(tranexamic acid)은 전통적으로 외상 후 출혈 감소, 과다 질 출혈 치료, 대수술 전후 관리에 사용합니다. 객혈에서 트라넥사믹산의 효능을 연구한 임상 시험은 많지 않지만 객혈 지속 시간과 양을 모두 줄인다는 보고가 있습니다.
+
+ 2. 진해제 
+ 기침은 객혈을 더욱 악화시킬 수 있으므로 진해제로 기침을 조절해야 합니다.  
+
+3. 항생제 
+감염으로 인한 객혈이 의심되는 경우 미생물학적 검사와 함께 적절한 항생제를 투약합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 기관지 내시경
+대량 객혈 환자에서 4℃의 생리 식염수로 기관지 세척을 시행하면 혈관 수축을 유발해 혈류를 감소시키고 지혈을 촉진할 수 있습니다. 출혈 부위가 내시경으로 확인된다면 에피네프린(epinephrine) 용액을 국소 도포해 혈관 수축을 유도할 수도 있습니다. 기관지 내 종양 출혈은 기관지 내시경을 통해 레이저 요법이나 전기 지짐기 등을 이용해 지혈하기도 합니다. 굴곡 기관지 내시경보다 경직 기관지 내시경이 시야 확보와 출혈 조절에 유용합니다. 경직 기관지 내시경을 통해 풍선 카테터를 출혈이 일어난 폐 분절 내로 삽입해 풍선을 팽창시킨 후 24~48시간 동안 그대로 두는 기관지 내 탐폰법 (tamponade)으로 대량 객혈의 지혈 및 응고를 유도하고 효과적으로 안정시킬 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc33b1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 기관지동맥 또는 폐동맥 조영술 및 색전술 
+ 대량 객혈의 90%는 기관지 동맥에서 발생합니다. 액와, 쇄골하, 내유 및 횡격막 동맥 등 기관지 동맥이 아닌 전신순환 곁혈관 출혈도 45%의 환자에서 발생하며, 폐동맥 출혈도 약 8%에서 관찰됩니다. 동맥 색전술은 대량 객혈 환자에서 지혈을 목적으로 기관지 동맥 및 기타 출혈을 일으킨 동맥들을 찾아 일시적 또는 영구적으로 폐쇄시키는 방법입니다. 양측 폐질환, 다발성 출혈, 호흡예비력(breathing reserve) 감소로 인해 외과적 절제술을 시행할 수 없는 경우에 효과적이며, 활동성 출혈을 조절해 환자 상태를 안정화한 후에 외과적 절제술을 선택적으로 시행할 수도 있습니다. 때로는 동맥 색전술만으로도 출혈을 장기간 예방할 수 있습니다. 그러나 색전술은 객혈의 원인 치료법이 아니고, 급성 대량 출혈로 인한 질식 및 위급한 상황을 넘기기 위한 것이므로 색전술을 시행해도 약 반수는 수 년 이내에 객혈이 재발합니다. 색전술 후 24시간 이내에 70~98%에서 출혈을 멈출 수 있지만, 6~12개월 동안 재발율은 9.8~57.5%로 추정됩니다. 시술 후 가슴 통증, 연하곤란, 미열 등이 나타나기도 하지만 일반적으로 일주일 이내에 호전됩니다., 출혈 혈관 확인을 위해 다량의 조영제를 사용하므로 간혹 콩팥 기능이 저하되기도 합니다. 드물지만 가장 위험한 합병증은 색전 물질이 척추동맥을 막아 척수신경이 손상되는 것으로 1~5%에서 보고됩니다. 
+
+3. 외과적 수술
+ 수술은 객혈을 치료하는 가장 정확하고 근본적인 방법으로 두 가지 상황에서 고려합니다. 우선 대량 객혈이 비외과적인 모든 치료에 반응을 보이지 않으면서 지속되는 응급 상황에서 시행할 수 있고, 두 번째로는 한쪽 폐에 국한된 병변이 있을 때 동맥 색전술 등 비외과적 시술로 지혈에 성공하고 전신 상태가 안정된 후 원인적 치료를 위 시행할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[171]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈을 예방하려면 원인 질환을 관리해야 합니다. 결핵과 같은 감염성 질환을 예방하기 위해서는 백신 접종, 정기적인 검진, 적절한 치료가 중요합니다. 만성 폐질환(COPD)이나 기관지 확장증은 금연과 함께 폐 기능을 보호하는 약물 치료와 생활 습관 개선이 필수적입니다. 대기 오염과 같은 환경적 요인도 객혈을 유발할 수 있으므로 깨끗한 공기를 유지하는 것이 중요합니다.흡연은 폐암과 만성 폐질환의 주요 원인이므로 금연을 통해 객혈의 위험을 줄일 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[다음은 객혈 예방을 위한 자가 관리 방법입니다 
+
+1. 금연 
+흡연은 폐암, 만성 폐쇄성 폐질환(COPD), 기관지염 등의 주요 원인으로 객혈 위험을 크게 높입니다. 금연은 객혈 예방에서 가장 중요한 자가 관리 방법입니다. 
+
+2. 정기 검진 
+만성 폐질환, 결핵 병력, 흡연 등으로 인해 객혈 위험이 높은 경우, 정기적으로 병원을 방문해 검진받는 것이 중요합니다. 특히 혈액 섞인 가래가 계속되거나 호흡곤란이 동반될 경우, 빨리 의사를 찾아야 합니다. 
+
+3. 환경 관리
+대기 오염이 심한 지역에서는 외출을 자제하거나 마스크를 착용해 호흡기를 보호합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 진단]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[173]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈의 자가진단은 기침할 때 피 섞인 가래가 나오는지 관찰하는 것이 핵심입니다. 일반적으로 객혈은 기침과 함께 나오거나, 가래에 혈액이 섞여 나옵니다. 호흡곤란, 흉통, 어지럼증, 빈혈 증상이 동반될 수 있으며, 이때는 즉시 병원을 방문해야 합니다. 특히 혈액의 양이 많거나, 반복적으로 혈액이 섞인 가래가 나온다면 결핵, 폐암, 폐렴 등 심각한 질환일 가능성이 있으므로 전문가의 진단이 필수적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병원을 방문해야 하는 경우]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[174]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈이 발생할 때, 다음과 같은 상황에서는 즉시 병원을 방문하는 것이 중요합니다.
+
+1. 대량 출혈 
+기침할 때 나오는 혈액의 양이 많거나, 계속 피가 나오는 경우(대량 객혈), 혹은 소량의 객혈이라도 여러 번 반복되거나 멈추지 않고 지속되는 경우, 혈액이 선홍색이 아닌 어두운 색을 띠거나 가래에 혈괴(피떡)가 섞여 나오는 경우, 병원을 방문하는 것이 좋습니다. 
+
+2. 동반 증상 
+객혈과 함께 호흡곤란, 흉통, 어지럼증, 발열, 체중 감소, 피로, 야간 발한 등의 증상이 동반될 때 병원을 방문하는 것이 좋습니다. 
+
+3. 기저 질환 
+결핵, 폐암, 만성 폐쇄성 폐질환(COPD), 기관지 확장증 등 기존에 폐 질환을 앓고 있는 환자에게 객혈이 발생할 경우 즉각적인 진단과 치료가 필요하므로 빨리 병원을 방문해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[175]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 침을 뱉을 때 피가 섞여 나왔는데 반드시 병원에 가야 하나요? 무슨 과 진료를 봐야 하나요?
+
+A. 우선 피의 양과 출혈 양상을 평가합니다. 침과 섞여 나올 때는 구강 내, 특히 잇몸 출혈이나 비강 출혈(코피), 상기도 출혈이 가장 흔합니다. 이를 닦고 나서 출혈이 난다든지, 뚜렷한 잇몸 질환이 있다면 치과 진료를 먼저 보시고, 코피 또는 인후두 부위 불편감이 있는 경우에는 이비인후과 진료가 도움이 됩니다. 위장관계 출혈일 때도 객혈과 구분이 어려울 수 있는데, 검붉은 색 피를 토하거나 음식물이 섞여 있고 대변색이 검어진 경우에는 위장관 출혈의 가능성이 더욱 높으므로 소화기 내과 진료를 보는 것이 좋겠습니다. 기침할 때마다 선홍색 피가 비치거나 거품 섞인 가래가 섞여 나오는 경우에는 기관지 및 폐에서 유래한 출혈일 가능성이 높으므로 호흡기 내과 진료를 보십시오. 객혈이 자주 발생하고, 객혈 양이 많아지거나 기관지 확장증 또는 공동성 폐질환 등 기저 폐질환을 앓고 있다면 예약된 외래 일자까지 기다리지 말고 최대한 빨리 응급실을 방문해 전신 상태 평가 및 출혈의 경중, 출혈 부위 등을 신속하게 평가한 후 지혈을 위한 조치를 받아야 합니다.
+
+Q. 기침할 때 피가 나오면 심각한 질환이 있는 것인가요?
+
+A. 객혈의 원인은 40가지가 넘고, 각 질환의 경중 역시 매우 다양합니다. 출혈 부위 또는 객혈의 원인 질환을 밝히려면 흉부 X-선 촬영, 전산화단층촬영(CT), 기관지 내시경 등의 검사가 필요합니다. 젊은 성인에서 가장 흔한 원인은 결핵, 기관지 확장증, 만성 기관지염 등이고, 40세 이상에서는 폐암의 가능성도 고려해야 합니다. 대량 객혈인 경우에는 기저 질환과 무관하게 출혈량 및 출혈 속도가 예후에 가장 큰 영향을 미칩니다. 처음 증상이 발생했을 때  빨리 응급실을 방문해 기도를 확보하고 활력 징후를 안정시킨 후 적극적으로 검사해 원인을 밝혀내야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[176]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[객혈, 만성폐질환, 결핵, 기관지확장증, 만성폐쇄성폐질환, 폐렴]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Davidson, K., &amp; Shojaee, S. (2020). Managing Massive Hemoptysis. CHEST, 157(1), 77-88.
+2. Jameson, J., Fauci, A., Kasper, D., Hauser, S., Longo, D., &amp; Loscalzo, J. (2018). Harrison’s Principles of Internal Medicine (20th ed.). New York: McGraw-Hill Education.
+3. Kathuria, H., Hollingsworth, H., Vilvendhan, R., &amp; Reardon, C. (2020). Management of Life-Threatening Hemoptysis. Journal of Intensive Care, 8, 23.
+4. Lee, M. K., Kim, S.-H., Yong, S. J., et al. (2014). Moderate Hemoptysis: Recurrent Hemoptysis and Mortality According to Bronchial Artery Embolization. Clinical Respiratory Journal, 9(1), 53-64.
+5. Gagnon, S., Quigley, N., Dutau, H., Delage, A., &amp; Fortin, M. (2017). Approach to Hemoptysis in the Modern Era. Can Respir J, 2017, 1565030.
+6. Bellam, B. L., Dhibar, D. P., Suri, V., et al. (2016). Efficacy of Tranexamic Acid in Haemoptysis: A Randomized, Controlled Pilot Study. Pulmonary Pharmacology &amp; Therapeutics, 40, 80-83.
+7. Solomonov, A., Fruchter, O., Zuckerman, T., Brenner, B., &amp; Yigla, M. (2009). Pulmonary Hemorrhage: A Novel Mode of Therapy. Respiratory Medicine, 103(8), 1196-1200.
+8. Dudha, M., Lehrman, S., &amp; Aronow, W. S. (2009). Hemoptysis: Diagnosis and Treatment. Comprehensive Therapy, 35(3-4), 139-149.
+9. Ittrich, H., Bockhorn, M., Klose, H., &amp; Simon, M. (2017). The diagnosis and treatment of hemoptysis. Deutsches Arzteblatt International, 114(21), 371–381.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[감염심내막염]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5237]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 감염심내막염은 세균이 혈액을 통해 심장 내막이나 판막에 감염을 일으키는 질환입니다.
+• 심장질환이 있는 경우 상처 난 내막에 세균이 달라붙어 염증을 일으키며, 치료하지 않으면 심부전 등 위험한 합병증이 생길 수 있습니다.
+• 원인에 따라 자연판막형, 마약 중독자형, 인공판막형으로 나뉘며, 각각 원인균과 경과가 다릅니다.
+• 진단을 위해 혈액 배양검사와 심초음파 검사가 필수이며, 항생제 치료와 경우에 따라 수술이 필요합니다.
+• 심내막염 예방을 위해 고위험군은 치과 시술 전 항생제를 복용해야 하고, 평소 위생 관리와 병력 공유가 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[감염심내막염은 어떤 경로를 통해서든 혈류 내로 들어온 세균이 심장판막과 주변 조직에 염증을 일으키는 경우를 말합니다. 심장질환(판막질환이나 선천 심장기형 등)이 있는 경우 혈액의 흐름이 원활하지 못해 심장내막에 상처가 생기며, 이때 혈액 중에 떠돌아다니는 세균이 있으면 상처 부위에 모여 염증을 일으키면서 내막이나 판막이 손상됩니다. 
+치료를 하지 않으면 심부전 등 위험한 심장 관련 합병증이 발생할 수 있으므로 적절한 진단과 치료가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수술을 한 적이 없는 자연판막에서 감염이 일어난 경우를 '자연판막 심내막염'이라고 하며, 인공판막에 감염이 일어난 경우를 '인공판막 심내막염'이라고 합니다. 질병 발생 후 진단 시점까지의 진행 경과와 속도, 임상 양상의 중증도에 근거하여 급성과 아급성으로 분류하기도 합니다. 
+급성 심내막염은 심장 조직의 급격한 손상과 빈번한 전이감염으로 단기간 내에 악화되며, 아급성 심내막염은 전이감염이 드물고 서서히 진행하는 것이 특징입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22df47]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심내막염은 환자의 판막 상태에 따라 세 가지로 분류할 수 있습니다. 기저 판막 상태에 따라 주된 원인균과 임상 경과가 다르기 때문입니다. 
+1. 자연판막 심내막염
+판막 수술을 받지 않은 사람에게 생기며, 주로 기저 심질환(판막질환, 선천 심장기형)이 있는 환자에게 발생합니다. 주된 원인균은 사슬알균, 장알균, 포도알균입니다.
+2. 자연판막 마약 중독자 심내막염
+판막 수술을 받지 않은 사람에게 생기지만 마약 중독과 같은 약물 오남용이 원인이 됩니다. 약물 중독의 경우 정맥 주사를 자주 사용하기 때문에 이를 통해 피부에 살고 있는 포도알균이 심장으로 들어가 심내막염을 일으킵니다. 
+3. 인공판막 심내막염
+인공판막 치환술을 받은 사람에게 발생하며, 수술 후 2개월 이내에 발생하는 조기 발생 심내막염과 2개월 이후에 발생하는 후기 발생 심내막염으로 구분합니다. 포도알균이 가장 흔한 원인균이며, 그 외에 그람음성 막대균, 진균(곰팡이) 등이 원인이 되기도 합니다.
+인공판막 부위에 염증이 생기는 경우가 대부분입니다. 치료가 잘 되지 않고 인공 판막의 기능에 이상이 생기며 급속히 악화되는 경우가 있어 세 가지 형태의 심내막염 중 가장 위험합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 원인 
+심내막염의 주된 원인은 세균이나 곰팡이의 혈액 유입입니다. 세균은 사람의 피부, 구강, 내장, 비뇨생식기계 등에 존재하지만 혈액 내에는 없어야 합니다. 정상적으로는 우리 몸의 여러 가지 방어막에 의해서 세균이 혈액으로 유입되지 않지만, 외상에 의해 상처나 병원에서의 침습적 치료나 검사 과정에서 피부에 있는 세균이 혈액으로 들어올 수 있습니다.
+건강한 성인은 세균이 혈액으로 들어와도 큰 문제가 되지 않지만, 이미 심장 판막이 손상된 경우에는 손상 부위 주변에 와류(소용돌이치는 혈류)가 형성되어 세균이 쉽게 증식합니다. 이에 대한 반응으로 침투한 세균을 제거하기 위해 우리 몸의 면역계가 활성화되고 염증반응이 일어납니다. 
+
+2. 위험인자 
+심내막염이 생기면 세균은 주로 판막을 침범하여 손상을 일으킵니다. 따라서 비정상적인 심장 판막을 가진 경우(선천 심장병, 류마티스 심장병, 판막 치환술을 받은 사람) 심내막염이 발생할 가능성이 높습니다.
+이런 심장질환이 있는 사람은 병원에서 침습적인 검사나 치료(치과 치료, 편도선 수술, 내시경 조직 검사, 대장 내시경 검사, 산부인과 치료, 비뇨기과 검사 등)를 받기 전에 반드시 심내막염에 대한 예방 조치를 받아야 합니다. 심내막염 예방을 위해서는 항생제를 투여해야 하는데, 항생제의 종류와 방법은 어떤 검사나 치료를 받을 것인지에 따라 달라집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[감염심내막염은 증상이 매우 다양하고 환자별로 경과가 다르기 때문에 경과를 일반화하기 어렵습니다. 흔히 발열, 오한, 피로감, 식욕부진, 체중감소 등의 전신 증상이 나타나며, 발열은 전체 환자의 80% 이상에서 나타나지만 특징적인 증상이라고 할 수는 없습니다. 
+입원 중 항생제 투약에 대한 반응을 평가하여 투여 기간을 정하며, 경과 및 치료 기간도 환자별로 달라 일반화하기 어렵습니다. 현대의학이 발전하고 있음에도 인공판막 심내막염의 입원 중 사망률은 22%가 넘어 상당히 높은 편입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[정상적인 심장 내막은 세균 감염이나 혈전 형성이 잘 일어나지 않습니다. 그러나 혈관 내피세포가 손상되면 주변 혈류가 변하면서 혈전이 쉽게 생깁니다. 일단 혈전이 생기면 세균이 자라기 쉽습니다. 최근 고령 인구가 늘어나면서 퇴행심질환에 의한 심내막염의 발생이 증가하고 있습니다.
+심내막염을 일으키는 균은 점막 표면, 피부, 국소 감염 부위에서 혈액으로 침투하며, 혈액으로 들어온 대부분의 미생물은 혈전에 붙어 심내막염을 일으킵니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자연판막 심내막염의 발생 빈도는 선진국의 경우 연간 10만 명당 1~6명 정도입니다. 승모판과 대동맥판을 가장 빈번히 침범하고, 삼첨판 침범은 드뭅니다. 고령 인구의 증가와 함께 퇴행심질환이 증가하고, 인공판막을 가진 환자나 병원성 균혈증이 증가하면서 심내막염 환자의 연령층이 높아지고 있습니다. 구강 위생이 좋지 않은 환자나 장기 혈액 투석 환자, 당뇨병 환자, 정맥 주사 남용자의 경우 심내막염의 발생빈도가 높습니다. 
+인공판막 심내막염의 누적 발생률은 판막치환술 후 1년에 1%, 5년에 2~3%입니다. 인공판막 심내막염은 수술 후 2개월 이내에 발생하는 초기 심내막염과 2개월 이후의 후기 심내막염으로 구분합니다. 초기 심내막염은 주로 개심 수술 중 감염에 의해 생기며, 최근 수술 방법이나 수기가 발전하면서 빈도가 감소하여 전체 인공판막 심내막염의 10% 미만입니다. 반면에 후기 심내막염은 지역사회 감염으로 꾸준히 발생하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성 심내막염이 생기면 발열, 식은땀, 근육통, 전신무력감 등 감기와 비슷한 증상이 나타납니다. 만성 심내막염은 수개월에 걸쳐 증상이 나타나는데 오한, 발열, 피로, 체중 감소, 근육통, 관절통 등이 생길 수 있습니다. 심부전이 동반되면 몸이 붓고 숨이 차며 분홍빛의 가래가 나올 수 있습니다.
+심장질환이 있는 사람에게서 원인 불명의 열이 4~5일 이상 지속되면 감염심내막염의 가능성을 반드시 염두에 두어야 합니다. 염증반응으로 생긴 증식물로 인해 판막이나 심장 근육이 손상될 수 있고, 판막 손상으로 인해 새로운 심잡음이 들릴 수 있으며 심부전이 동반될 수 있습니다. 
+환자의 약 50%에서는 떨어져 나온 증식물이 뇌, 폐, 콩팥, 비장, 피부 등으로 가는 혈관을 막아 색전증이 생길 수 있습니다. 막힌 혈관 이후 부위는 혈액 공급이 되지 않아 조직이 죽는데, 특히 뇌혈관을 막으면 뇌경색이나 뇌농양이 발생해 신체 일부가 마비될 수 있습니다. 또한 세균에 대한 다양한 면역 반응 중에 생성된 물질들이 조직에 침착하여 관절염, 사구체 신장염 등이 생기기도 합니다. 그 외에 손바닥이나 발바닥, 구강의 점막에 붉은 반점이 생길 수 있고, 손가락이나 발가락에 통증을 동반한 결절이 생기기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[선천 심장병이나 류마티스 심장병, 판막질환 등 과거력이 있는 사람이 발열 등 감기와 비슷한 증상을 호소하면 심내막염을 의심해야 합니다. 신체검사에서 비정상적인 심잡음이 들리는지 확인하고, 특징적인 피부 병변이 보이는지 관찰해야 합니다. 
+심내막염이 의심되면 확진을 위해 서로 다른 부위의 정맥에서 혈액을 채취하여 세균 배양을 시행해야 합니다. 세균 배양 결과를 통해 균의 종류를 확인하고 효과적인 항생제를 선택하는 것은 심내막염의 치료에 매우 중요합니다. 또한 심초음파를 시행하여 판막의 구조와 기능, 판막 주위 구조물, 심장 벽의 움직임, 심장 크기, 증식물 여부 등을 관찰해야 합니다.
+따라서 심내막염의 진단을 위해서는 혈액 배양검사, 심초음파 검사가 필수적이며, 이외에도 혈액 검사에서 염증 수치 증가, 빈혈, 백혈구 증가나 소변 검사에서 혈뇨, 단백뇨 소견이 있는 경우 보조적으로 진단에 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22e0e7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22e054]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈액 내 세균을 제거하기 위해 항생제를 투여해야 합니다. 혈액 배양검사에서 원인균이 규명되었다면 원인균에 효과적인 항생제를 선택하여 투여합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22e204]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[침범한 원인균에 따라 투여하는 항생제는 다르지만 살균력이 강한 약제를 정맥으로 투여해야 하며, 지속적인 경과 관찰이 필요하므로 입원하여 치료합니다.
+항생제의 투여 기간은 6~8주이며, 혈액 검사와 심초음파 검사를 추적합니다. 세균에 의한 증식물로 판막이 손상되었다면 수술적 치료가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심장판막이 심내막염에 의해 완전히 파괴되었을 경우 수술적인 치료가 필요합니다. 판막이 완전히 파괴되면 판막 기능 부전에 따른 심부전이 동반될 수 있기 때문에 항생제 치료만으로는 부족할 수 있습니다. 심내막염이 진행되어 농양을 형성할 경우 항생제가 효과적으로 농양 내에 침투하지 못할 수 있으므로 전문의의 판단에 따라 수술이 필요할 수 있습니다.
+심내막염에서 수술적 치료의 필요성은 항생제 치료 시작 후 계속 경과를 관찰하여 발열 정도, 증식물 크기의 감소 정도, 심부전 동반 여부, 심장 기능의 변화를 확인하여 결정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[치료 후 퇴원하더라도 재발할 수 있으므로 발열, 오한 같은 증상이 있으면 반드시 주치의에게 알리고, 경험적 항생제 투약 전에 반드시 혈액배양을 시행해야 하므로 상급 병원을 방문해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[퇴원 후 첫 1년까지는 심장 초음파를 추적관찰해야 하므로 정기적인 병원 방문이 필요합니다. 일반적으로 퇴원 후 1, 3, 6, 12개월에 의사 검진과 함께 혈액 검사 및 심초음파를 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심장 내 합병증(특히 고리주변[peri-annular)합병증, 대동맥-강루[aorto-cavitary fistula])이나 신경학적 합병증이 발생하면 사망률이 높아집니다. 흔한 사인은 다장기 기능상실, 심장기능상실, 부정맥, 뇌색전증 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[신체검사에서 비정상적인 심잡음이 들리는 사람은 세균이 혈액 내로 들어갈 수 있는 상황(수술, 치과 치료 등)에서 예방적인 항생제 복용이 필요합니다.
+[예방적 항생제가 반드시 필요한 환자]
+• 인공판막
+• 이전에 감염심내막염을 앓은 병력
+• 교정되지 않은 청색증 심질환
+• 수술로 완전히 교정되었으나 수술 6개월 이내인 선천 심질환
+• 불완전하게 교정된 선천 심질환에서 인공 삽입 물질 주위에 결손이 남아 있는 경우
+ • 심장 이식 후 판막병증(예방적 항생제 사용을 고려해야하는 시술)
+• 잇몸이나 치아 뿌리 끝 주변에 시술하는 치과 치료 전: 발치, 임플란트
+• 호흡기계 수술 등 시술 중 구강 점막이 손상 받는 시술 전
+• 감염된 비뇨생식기계 또는 감염된 피부 및 연조직에서 시행되는 시술 전]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf258d07]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[과거력이 정확하지 않는 경우에는 수술이나 치과적인 치료 전에 예방적인 항생제 투여가 필요한지 의사나 치과 의사와 상의해야 합니다. 또한 위에 기술한 질환 이외에도 꼭 필요하다고 판단될 경우 예방적 항생제를 투여하는 경우도 있으니 반드시 담당 의사와 상담해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22e287]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[평소 양치, 세안, 손위생, 발위생 등 개인 위생을 철저히 준수하고, 심장질환이 있는 분들은 발열 및 감기 기운 등 경증의 증상에도 상급종합병원을 방문하는 것이 좋겠습니다. 
+잦은 정맥주사를 맞는 것은 좋지 않으며, 특히 불법 정맥주사는 세균 감염의 원인이 됩니다. 발치, 임플란트 등 치과 시술이나 다른 수술 시에도 반드시 사전에 심장내과 주치의에게 알려야 합니다. 시술, 수술을 받으시는 병원에는 본인의 심장수술 또는 감염심내막염 과거력을 알려야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한감염학회. (2014). 감염학 (3판). Section 2-8. 감염성 심내막염, pp. 180-199.
+2. Wang A, Gaca JG, Chu VH. (2018). Management Considerations in Infective Endocarditis: A Review. JAMA, 320,72.
+3. Baddour LM, Wilson WR, Bayer AS, et al. (2015). Infective Endocarditis in Adults: Diagnosis, Antimicrobial Therapy, and Management of Complications: A Scientific Statement for Healthcare Professionals From the American Heart Association. Circulation, 132:1435.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

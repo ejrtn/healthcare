@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[안외상(천공 외상)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1401]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 천공 외상은 각막이나 공막이 뚫려 안구 내부와 외부가 연결되는 응급 상황입니다.
+• 이로 인해 홍채, 수정체, 유리체 등의 안구 조직이 탈출하거나 감염이 발생할 수 있습니다.
+• 주요 증상으로는 심한 통증, 시력 저하, 방수가 새어 나오는 느낌 등이 있습니다.
+• 진단은 외상 병력과 안과 검사를 통해 열상 부위와 조직 손상 여부를 확인하여 이루어집니다.
+• 치료는 대부분 수술적 봉합이 필요하며, 지연 시 감염, 시력 저하, 각막 혼탁 등의 합병증이 생길 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[천공 외상은 각막 이나 공막이 외상에 의해 뚫려 안구 내부와 외부가 통해 있는 상황을 말합니다. 이 경우 내부 물질의 탈출과 이차적인 안내염이 문제가 될 수 있습니다. 
+각막과 공막의 열상이 심한 경우 상처 부위를 통하여 홍채, 수정체, 유리체, 망막조직이 탈출할 수 있으므로 수술적 봉합이 필요한 응급한 상황입니다. 
+각막이나 공막의 열상이 의심되는 경우에는 절대 눈을 누르지 않으며, 눈을 씻는 등 어떠한 조치도 취하지 말고 바로 가까운 안과로 가는 것이 가장 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[외상 직후 발생하는 통증과 시력 저하가 있으며, 안구에서 지속적으로 서서히 물(방수)이 흘러나옴을 호소하는 경우가 많이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 문진 
+환자의 외상 과거력이 가장 중요하며 무엇에, 언제, 어떻게 손상되었는지에 대한 정보가 중요합니다.
+
+2. 안과 검사 
+결막이나 공막에 동반된 손상이 있는지를 확인하는 것이 중요합니다. 반대쪽 눈과 비교하여 전방 깊이의 변화가 있는지 살펴보고, 방수 유출 여부를 알아봐야 합니다. 그리고 열상 부위를 통한 홍채와 유리체의 탈출 여부를 확인해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 부분 각막 열상 
+크기가 작은 경우 부종으로 인하여 상처 부위가 저절로 막힐 수 있으며, 수일 내에 자연 치유되므로 항생제를 점안하면서 이차감염을 방지하는 것이 중요합니다. 또한 방수 유출 방지를 위하여 치료용 렌즈를 착용하는 것도 도움이 될 수 있습니다. 
+
+2. 전층 각막 열상 
+열상 부위로 홍채가 탈출하였는지 확인해야 하는데, 이때는 동공이 동그란 모양이 아닌, 눈물방울 모양을 띠게 됩니다. 홍채가 탈출하지 않은 경우 각막열상 봉합수술을 합니다. 홍채가 탈출했을 때 상처 부위가 오염되었거나, 손상 후 24시간이 경과되어 조직 괴사가 의심되는 경우는 탈출한 홍채를 제거하고 봉합합니다. 각막결손이 심해 봉합으로 불가능한 경우는 양막이식 또는 부분층 각막이식이 필요할 수 있습니다. 이물이 안구 내에 남아 있다면 이를 제거하기 위하여 유리체 절제술까지 함께 시행하는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이차적 세균 감염이 동반될 경우 안내염이 발생할 수 있으며, 상처로 인한 흉터로 각막 난시나 각막 혼탁이 남을 수 있습니다. 거울과 같이 투명해야 할 각막조직에 각막혼탁이 중심부에 위치하게 되면 시력 저하가 심하게 발생할 수 있습니다. 또한 드물지만, 외상 후 4~8주 후 손상된 눈의 염증반응이 심해지면서 반대쪽 정상 눈에도 포도막염 등의 이상 증후가 오는 교감성 안염이 발생할 가능성이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[안외상(각막이물)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1404]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(각막찰과상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1362]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(각막화상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1381]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(안와골절)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1382]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 망막박리)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1402]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 백내장 및 수정체 이탈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1403]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(전방출혈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1361]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

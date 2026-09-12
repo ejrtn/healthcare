@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[안외상(전방출혈)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1361]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 전방출혈은 외상으로 홍채나 섬모체의 혈관이 손상되어 눈의 전방에 혈액이 고이는 상태입니다.
+• 증상으로는 통증과 시야 흐림이 나타날 수 있지만, 경우에 따라 증상이 거의 없을 수도 있습니다.
+• 진단은 외상 병력 확인과 세극등 검사 등을 통해 출혈 정도와 안압 상승 여부를 평가하여 이루어집니다.
+• 치료는 침상 안정, 스테로이드 안약, 안압 조절 등을 시행하며, 심한 경우 수술로 혈액을 제거하기도 합니다.
+• 합병증으로 안압 상승에 따른 녹내장이 발생할 수 있으며, 심하면 시력 손상으로 이어질 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[눈의 수정체와 각막 사이에는 투명한 물이 흐르는 전방이라는 공간이 있습니다. 평소 이곳에는 방수라고 하는 맑은 액체가 반복하여 생성되고 배출되어 안압을 일정하게 유지합니다. 그러나 눈이 충격을 받게 되면 홍채나 섬모체의 혈관이 터질 수 있고, 이러한 경우 전방 내로 혈액이 고일 수 있는데 이를 전방 출혈이라고 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9594261]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[전방출혈이 생기면 통증이 생길 수 있고, 출혈이 심할 경우 시야가 흐려지기도 합니다. 그러나 특별한 증상이 없더라도 현미경적 검사에서 출혈이 보이는 경우도 있으므로 증상이 없더라도 안구에 충격이 가해졌다면 꼭 안과에 방문하여 점검해 보는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 문진 
+전방출혈이 의심되는 환자가 내원한 경우 의사는 외상의 발생 시기와 발생한 경위(힘의 세기, 속도 방향, 무엇에 의한 것인지 등), 안경 착용 유무, 현재 증상의 심한 정도, 동반된 외상의 유무 등을 확인합니다. 또한 복용하고 있는 약물 중 항혈전제 등이 있는지, 과거력 상 출혈 소인이 있는 질병이 있는지 등을 확인합니다. 
+
+2. 전신 증상 
+외상에 동반될 수 있는 두통, 어지러움 등에 대한 검사를 시행합니다.
+
+3. 안과 검사 
+세극등 현미경 검사를 통하여 안구 천공이 동반되지 않았는지를 먼저 살피고, 이후 출혈과 염증의 정도, 안압 상승 여부, 안저 이상 여부 등을 확인합니다. 육안으로 확인할 수 있는 출혈의 양은 가라앉은 혈액의 높이를 아래쪽 홍채 바닥에서부터 측정하여 파악할 수 있습니다. 또한 동반된 골절이나 뇌의 이상이 의심된다면 CT를 찍어서 확인할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 육안적 전방출혈 
+세극등 현미경 검사를 통하지 않고도 육안으로도 출혈을 확인할 수 있는 경우를 말하며 이 경우 시야가 많이 흐려지며 통증을 호소할 수 있습니다. 
+ ˚ 상체를 약 30도 정도 세운 채로 침상 안정을 유지하여 전방 내의 출혈이 아래로 가라앉을 수 있도록 합니다. 
+ ˚ 염증을 줄이기 위한 스테로이드 안약을 점안합니다. 치료에서 가장 중요한 안약이지만, 스테로이드가 안압을 올려 녹내장 등을 유발할 수도 있어 점차 증상이 좋아지면 점안 횟수를 줄여야 하므로 안과 전문의의 지시를 따라 약을 잘 넣는 것이 중요합니다. 
+˚ 전방출혈이 심하면 방수 유출길을 막아 안압이 올라갈 수 있으므로 안압약도 점안합니다. 안압이 높이 상승하게 되면 안압 상승을 막는 약을 주사하여 안압을 빨리 떨어뜨려 주어야 합니다. 
+˚ 소아의 경우 입원이 필요할 수도 있습니다. 
+˚ 각막이 출혈에 의하여 착색이 되거나, 8일 이상 치료해도 절반 이상의 감소를 보이지 않을 때, 안압을 낮추려는 치료를 계속함에도 불구하고 계속 안압이 높게 유지될 때에는 출혈을 제거하는 수술을 시행하는 경우도 있습니다. 
+
+2. 미세전방출혈 
+시력에는 변화가 없는 경우가 많고 특별한 증상은 없더라도 세극등 현미경 검사상 출혈과 염증 소견이 보이는 경우를 말합니다. 치료는 전방출혈과 같지만 경과가 훨씬 양호합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[속발(성) 녹내장: 출혈이 방수 유출로를 막거나, 치료를 위해 사용한 스테로이드계 안약으로 인해 안압이 올라갈 수 있습니다. 안압이 많이 올라가면 안구통, 두통, 구역이나 구토 등의 증상을 일으킬 수 있으며 심한 경우 시신경에 손상을 주어 실명할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[안외상(각막이물)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1404]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(각막찰과상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1362]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(각막화상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1381]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(안와골절)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1382]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 망막박리)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1402]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 백내장 및 수정체 이탈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1403]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(천공 외상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1401]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[외상성 척추손상]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5849]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3673]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 외상성 척추손상은 주로 교통사고, 추락, 미끄러짐, 폭행 등으로 인해 발생하며, 목(경추) 부위에서 가장 흔하게 발생합니다.
+• 손상은 척추의 연부조직 손상, 뼈의 손상, 신경 손상으로 나뉘며, 가장 흔한 형태는 연부조직 손상으로 인대와 근육의 손상으로 오는 통증(염좌와 긴장)입니다.
+• 경미한 연부조직 손상은 단기간 보조기 사용, 약물치료(소염제, 근이완제), 물리치료로 좋아질 수 있으며, 보존적 치료를 받으며 일상생활을 빨리 시작하는 것이 회복에 유리합니다.
+• 척추 골절이나 탈구로 척추의 불안정성이나 신경 압박이 발생하면 수술이 필요할 수 있으며, 정확한 진단과 치료 계획을 위해 X-ray, CT, MRI 검사를 시행합니다.
+• 비교적 가벼운 손상으로 척추의 안정성이 유지되고 신경 압박이 없다면 보조기 등을 이용한 보존적 치료를 할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[224]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[척추는 우리 몸의 중심을 이루고 기둥의 역할을 수행하는 기관으로, 위쪽으로는 머리를 받치고 아래쪽은 골반으로 연결되어 있습니다.
+척추뼈는 경추 7개, 흉추 12개, 요추 5개, 천추 5개, 미추 4개 등 총 33개의 척추뼈로 이루어져 있으며, 성인이 되면 천추와 미추는 하나로 합쳐져 천골과 미골을 형성하게 됩니다. 척추 주변 근육은 척추를 지지하고 척추의 움직임이 가능하게 하며, 척추에는 7종류의 인대가 있어 척추가 움직이는 동안 안정성을 유지시켜 주는 역할을 합니다.
+척추의 중요한 기능 중 하나가 척수 신경을 보호하는 역할입니다. 척추뼈에는 뼈로 둘러싸인 척추강이라는 구조가 있어 이 안으로 지나는 척수신경을 충격으로부터 보호합니다. 척추는 우리 몸을 지탱하는 긴 구조물이며, 신체의 무게를 지탱해주는 역할을 하는 만큼 외상에 쉽게 노출될 수 있습니다. 그 결과 척추뼈는 물론, 척추의 인대나 주변 근육의 손상이 발생할 수 있으며, 신경이 영향을 받는 경우 신체 기능에 큰 장애를 유발하기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[발생원/원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[226]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[염좌와 같은 연부조직 손상까지 포함한다면 척추는 모든 신체 부위 중 가장 흔하게 외상성 손상이 발생하는 부위입니다. 외상성 척추손상의 흔한 원인은 교통사고, 추락, 미끄러지거나 넘어지는 낙상이며, 신체 과다 사용, 폭행 등으로도 발생할 수 있습니다. 골절 등의 손상은 비교적 큰 외력에 의해 발생하지만, 골다공증 등으로 뼈가 약한 경우에는 무거운 것을 드는 등의 가벼운 충격에도 발생할 수 있습니다. 
+가장 흔히 손상받는 부위는 경추(목)로 전체 척추 손상의 50~60%를 차지하며, 흉추부(등)가 10~15%, 흉요추부가 15~20%를 차지합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[발생원/원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[226]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc8a67]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[척추 손상을 분류하는 방법은 여러 가지가 있으나 일반적으로 손상 부위와 형태에 따른 분류가 사용됩니다. 척추에 발생할 수 있는 손상은 크게 연부조직손상, 뼈의 손상, 그리고 신경 손상으로 나누어서 생각할 수 있습니다. 연부조직의 손상에는 염좌, 좌상, 그리고 편타손상 등이 있고, 뼈의 손상으로는 골절과 탈구 등이 있으며, 신경 손상으로는 척수 손상과 신경근 손상 등이 있습니다.
+
+  1. 연부조직 손상(Muscle-ligament strain)
+가장 흔한 형태의 척추 손상인 연부조직 손상에는 염좌(Sprain)와 긴장(strain)이 있습니다. 염좌는 인대의 부분적인 손상을 뜻하고, 긴장은 근육의 손상에서 오는 통증을 의미합니다. 하지만 진찰이나 검사로 두 손상을 명백하게 구분하기 힘들고, 두 손상 모두 일반적으로 가벼운 손상으로 분류하며, 보존적인 치료로 대부분 좋아지기 때문에 흔히 두 용어를 섞어 사용하기도 합니다. 
+
+  2. 편타손상(Whiplash injury)
+편타손상은 손상의 발생 부위나 형태에 따른 분류가 아니라 발생 기전에 따른 분류이지만 일반적으로 널리 쓰이고 있습니다.
+편타손상은 교통사고에서 가장 흔하게 볼 수 있는 경추(목)의 손상으로 충격에 의해 목이 갑작스럽게 앞뒤로 크게 꺾이며 발생하는 손상을 의미합니다. 신생아나 어린 아이를 붙잡고 몸을 흔드는 아동학대에서도 비슷한 기전으로 편타손상이 발생할 수 있습니다. 
+충격의 정도에 따라서 추간판탈출, 골절, 탈구까지도 발생할 수 있지만, 일반적으로는 이들 손상이 동반되지 않은 염좌와 긴장을 편타손상이라고 합니다. 대부분 경미한 손상으로 자연치유가 되지만, 마비 증상이나 저림 증상 등 신경 증상이 동반된 경우에는 CT나 MRI 등 정밀 검사가 필요할 수도 있습니다.
+
+ 3. 뼈의 손상
+척추 손상의 가장 대표적인 형태로 골절 및 탈구 등이 있습니다. 골절은 척추뼈가 외력에 의해 단절되거나 원래의 형태를 유지하지 못하고 변형된 경우를 의미하며, 탈구는 척추의 관절 부위 손상으로 인해 척추뼈가 제자리를 벗어난 것을 의미합니다.
+골절과 탈구는 단독으로, 또는 복합적으로 발생할 수 있으며, 종종 관절 인대의 손상을 동반합니다. 골절 및 탈구의 경우 척추뼈에 힘이 어느 방향으로 가해졌는지에 따라 특징적인 형태를 보이며, 이런 외력이 작용한 방향에 따라서 골절 및 탈구를 분류하기도 합니다.
+
+  4. 신경 손상 
+신경 손상은 척수 손상(spinal cord injury)과 신경근 손상(nerve root injury)으로 분류할 수 있습니다. 척수는 뇌에서 나와 전신으로 이어지는 신경다발이 모여 이루는 신경 조직으로 뇌와 함께 중추신경계를 이루며, 척추뼈 안의 척추강(spinal canal)에 위치하고 있습니다. 따라서 척추뼈의 손상 시에 함께 손상을 입는 경우가 많고, 척추 손상 환자가 겪는 마비 등의 장애는 척추뼈 자체의 손상보다는 이 척수 손상에 의한 것이 대부분입니다.
+신경근은 각 척추뼈 마디에서 특정 기능을 담당하는 신경이 빠져나와 이루는 신경조직으로, 팔 다리 등 신체 각 부위로 신경을 연결하는 역할을 합니다. 중추신경인 척수와는 달리 말초신경이며, 척추 손상 발생시 손상 받은 부위 아래쪽이 전부 영향을 받는 척수 손상과는 다르게, 손상 받은 부위의 기능만이 영향을 받습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[227]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc8ae1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 대처]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[232]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[염좌나 편타손상과 같은 연부조직 손상의 경우에는 단기간 보조기 사용, 소염제나 근이완제 등 약물치료, 물리치료 등으로 호전을 기대할 수 있습니다. 통증은 수개월간 유지될 수 있으나 장기간의 요양보다는 보존적인 치료를 하면서 빠른 일상생활로의 복귀가 통증 개선 및 회복에 더 유리한 경우가 많습니다.
+척추의 부위에 따라 차이는 있지만 척추 골절이나 탈구로 인해 척추의 불안정성이나 신경 압박이 발생한 경우에는 수술적인 치료가 필요한 경우가 많습니다. 상부 경추의 경우 부분적인 탈구만 있거나 전위가 없는 단순 골절의 경우 할로베스트(halo-vest) 보조기 등을 이용해 장기간 외고정하는 방법도 있지만 치료 기간이 길고, 활동하는데 제약이 크며, 고령 환자에서는 합병증 위험도 높아서 최근에는 수술적인 치료가 조금 더 선호됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 대처]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[232]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc8b64]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 대처]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[232]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[골절이나 탈구가 있을 때 수술적 치료는 나사못 등을 이용해서 손상된 척추 부위를 맞추고 고정하여 척추의 불안정성을 없애는 치료를 하게 됩니다. 신경 압박이 동반되어 있는 경우에는 뼈의 일부를 절제하여 신경압박을 풀어주는 후궁절제술 등이 같이 시행되기도 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 대처]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[232]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc8bd7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 대처]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[232]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc8c41]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[평가 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[233]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[척추 손상이 의심되는 경우에 전통적으로 X-ray 검사가 일차적으로 사용되나 실제 골절 등을 발견하지 못하는 경우가 많아서, 골절이 의심되는 경우 뼈를 잘 볼 수 있는 컴퓨터단층촬영(Computed tomography, CT) 검사의 역할이 중요합니다. 다만 CT 검사로는 신경 및 인대 구조물을 잘 볼 수 없기 때문에, 신경학적인 문제가 있는 경우나 인대 손상에 대한 평가가 필요한 경우에는 자기공명영상(Magnetic resonance imaging, MRI) 검사도 같이 시행합니다.
+
+  척추 손상의 치료를 결정하는데 있어 가장 중요한 요소는 척추의 안정성 및 신경 압박의 유무입니다. 척추는 추간판, 후관절, 그리고 척추에 붙어 있는 여러 인대와 근육의 도움으로 척추의 안정성을 유지합니다. 만약 척추 손상으로 인해 척추뼈를 비롯한 상기 구조물들의 손상이 심하여 척추뼈가 정상적인 범위를 넘어서 움직이게 되거나 신경 압박이 발생하면 척추가 불안정하다고 하며, 이는 적극적인 수술적 치료의 대상이 됩니다. 비교적 손상이 가벼워서 척추의 안정성이 유지되고 신경 압박이 없다면 보조기 등의 보존적 치료를 할 수 있습니다.
+실제로 의료 현장에서는 각 척추 부위별로 영상 소견, 신경학적 증상의 유무 등을 이용해 척추의 안정성을 평가하는 다양한 지표를 사용하여 환자를 평가하고 치료하는 데 이용하고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[326]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한척추신경외과학회. (2023). 척추학 (제4판). 서울: 군자출판사.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[직장염]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5852]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 직장염은 직장점막에 염증이 생기는 질환으로, 염증장질환, 감염, 방사선, 항생제, 수술 등이 원인이 될 수 있습니다.
+• 주요 증상은 설사와 혈변이며, 잔변감과 복통도 흔히 나타나고, 고열이 있으면 합병증을 의심해야 합니다.
+• 내시경 검사를 통해 정확히 진단할 수 있으며, 이 검사는 직장암 등 다른 원인을 배제하는 데도 중요합니다.
+• 치료는 원인에 따라 다르며, 일반적으로 내과적 약물치료와 수액요법이 기본이고, 증상이 심하면 입원치료나 수술이 필요할 수 있습니다.
+• 규칙적인 식생활과 건강한 생활습관을 유지하고, 정기적으로 내시경 검사를 받아 직장암 등 합병증을 예방하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직장(Rectum)은 대장의 가장 끝부분이자 항문의 바로 윗부분에 위치한 기관으로, 대변이 항문으로 나가는 통로가 됩니다. 이러한 직장의 점막에 염증이 생긴 질환을 “직장염(Proctitis)”이라고 정의합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직장염은 다양한 원인에 의하여 발생할 수 있습니다. 직장염의 주된 원인으로 알려진 것은 염증장질환입니다. 염증장질환은 궤양대장염과 크론병으로 나누어지는데, 궤양대장염은 대장점막에 만성적으로 염증이 지속되는 질환으로, 직장부터 시작된 염증이 위쪽 대장까지 연속적으로 이어지면서 궤양대장염으로 진행됩니다. 염증이 직장에만 존재하는 경우를 궤양직장염으로 지칭하게 되며, 따라서 궤양대장염은 대부분 직장염을 유발합니다. 반면 크론병은 소화관 모든 부분에서 일어날 수 있으며, 염증이 장점막에 국한되지 않고 장벽 전체를 침범할 수 있고 항문질환을 동반하는 경우가 많으나, 직장염을 항상 동반하지는 않습니다.
+이러한 염증장질환의 원인은 아직 완전히 밝혀지지는 않았으나, 유전적 요인을 가지고 있는 사람에게 환경적 요인(바이러스, 세균, 음식물 등)이 작용하였을 때 발생하는 것으로 알려져 있습니다. 염증장질환 외에도 감염, 방사선, 항생제, 수술 및 다양한 자극제 등이 직장염의 원인이 될 수 있습니다.  감염성 직장염의 경우 여러 바이러스(노로바이러스, 로타바이러스), 세균(콜레라, 대장균, 이질, 장티푸스, 예르시니아, 캠필로박터), 원충(아메바) 등이 원인으로 작용하며, 대표적으로 이질, 아메바가 있습니다. 또한 국내에는 흔하지 않지만, 남성 동성애자 사이의 성행위로 인하여 매독, 임질, 클라미디아와 같은 성병이나 단순 포진 바이러스 등이 전파되어 감염성 직장염이 발생할 수도 있습니다.
+방사선, 항생제 등의 의학적 치료나 특정한 형태의 대장 수술 후에도 직장염이 발생할 수 있습니다.  방사선 직장염(Radiation proctitis)은 방광암, 직장암, 전립선암 및 자궁경부암과 같은 하복부의 암에 대해 방사선 치료를 받은 후 합병증으로 발생한 직장염을 지칭합니다. 방사선의 조사량과 조사 부위가 중요한 인자로 작용하며, 방사선 사용의 증가로 인하여 방사선 직장염의 발생률 역시 증가하고 있습니다. 급성의 경우 방사선 치료 후 6주 이내에 발생하며 만성의 경우 치료 후 수개월에서 수년 사이에 나타나게 됩니다. 항생제성 직장염(Antibiotic associated proctitis)은 항생제 복용 중에 생기는 직장염을 말하며, 위막장염이 가장 흔하지만 출혈성 장염도 드물게 보고되고 있습니다.
+대장 수술 후에 생기는 직장염은 전환 직장염(Diversion proctitis)이라고 지칭합니다.  그 외에도 직장의 점막에 자극을 줄 수 있는 다양한 자극제에 의해서 화학성 직장염이 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc8f74]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직장에 염증이 발생하면 장점막의 세포가 소실됩니다. 또한 점막층의 급성염증에 의해  장점막에 영양을 공급하는 작은 동맥상피에 부종이 일어납니다. 이러한 변화들은 결과적으로 직장조직의 허혈을 일으킵니다. 나아가 점막의 취약성, 출혈, 궤양, 협착, 누공 형성 등을 유발하며 장점막의 위축과 섬유화에 이르게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직장염의 대표적인 증상은 설사와 혈변이며, 잔변감이나 복통도 흔히 나타나는 증상입니다. 이러한 증상은 급성으로 발생했다가 사라질 수도 있으나 만성으로 지속될 수도 있습니다. 만성으로 지속될 경우에는 피로감, 구역, 구토, 식욕 감소, 체중 감소, 빈혈 및 미열 등 전신 증상이 동반될 수 있습니다. 미열이 아닌 고열이 있는 경우에는 합병증을 의심해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc8ff7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc9061]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직장염이 의심되는 증상이 있을 때 직장염을 진단하기 위해서는 앞서 살펴본 것과 같이 다양한 원인들을 고려해야 합니다. 진단을 위해서는 가장 먼저 병력을 확인해야 합니다. 또한 혈액 검사, 대변 검사 및 대변 검체를 통한 균배양 검사를 시행할 수 있고, 내시경 검사를 통해 보다 정확한 진단을 할 수 있습니다. 특히 내시경 검사는 직장염의 진단뿐만 아니라 직장 출혈을 발생시키는 다른 원인, 특히 암을 배제하기 위한 중요한 검사입니다. 또한 내시경 검사를 통해 직장점막을 실시간 촬영하여 평가할 수 있고, 필요한 경우에는 직장의 점막을 조금 떼어내서 정밀한 현미경 조직 검사를 시행하거나 균배양 검사를 시행할 수도 있습니다. 
+특히 염증장질환이 의심되는 경우에는 직장 외에도 대장 전체를 관찰할 수 있는 대장내시경 검사를 시행하는 것이 필요합니다. 이를 통해 염증장질환의 침범 부위와 중증도를 평가하고, 염증장질환에 동반하여 발생할 확률이 높은 대장암을 조기에 발견할 수 있습니다. 이러한 검사들을 받은 후에도 진단을 내릴 수 없는 경우에는 반복적으로 검사를 하거나 다른 검사 소견을 참고하게 되며, 경우에 따라서는 복강 내 염증의 정도를 평가하기 위해서 컴퓨터단층촬영(CT) 등의 추가 검사가 필요할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직장염은 급성으로 발생한 후 사라지는 경우도 있으나 증상이 좋아졌다가도 다시 재발하는 경우도 자주 있고 만성적으로 지속되는 경우도 있기 때문에, 정확한 원인을 찾고 적절한 치료를 하는 것이 중요합니다. 직장염의 치료는 설사, 복통 등의 증상을 완화시킬 수 있는 내과적 약물치료와 수액요법이 공통된 치료이며, 원인에 따라서 치료가 달라질 수 있습니다. 또한  전신 증상이 동반되거나 증상이 심한 경우에는 입원치료가 필요할 수 있으며, 빈혈이나 출혈이 심한 경우에는 경구 철분제 혹은 수혈 처방이 필요할 수 있습니다.
+염증장질환에 의한 직장염의 경우에는 5-아미노살리실산(5-aminosalicylic acid, 5-ASA)을 포함한 좌약이나 관장약 및 항염증제, 스테로이드, 면역조절제 등을 사용할 수 있습니다. 염증의 정도가 심각하거나 조직검사에서 암으로 진행할 수 있는 고등급 이형성증이 발견된 경우에는 수술을 시행할 수 있습니다.
+감염성 직장염일 경우에는 원인 병원체에 따라 적절한 항생제로 치료하게 됩니다.  방사선 직장염은 직장 출혈이나 장 폐쇄, 누공, 농양 등 심각한 합병증을 일으킬 수 있습니다. 직장 출혈에 대해서는 수크랄페이트(sucralfate), 포르말린(formalin) 관장 혹은 응고소작법(Argon Plasma Coagulation, APC), 전기응고법(electrocoagulation), 고주파 열치료(Radio Frequency Ablation, RFA) 등  다양한 내시경적 치료를 시행할 수 있습니다. 장협착과 장폐쇄의 경우 내시경적 확장술을 시도해 볼 수 있으나 천공의 위험이 높습니다. 약물 치료나 내시경적 치료로 해결되지 않는 증상이나 합병증에 대해서는 수술을 시행할 수 있습니다. 하지만 방사선 치료에 의한 장유착으로 인하여 수술이 어려울 수 있고 합병증 발생률도 높으므로 주의하여 최소한의 절제술을 시행하게 됩니다.
+항생제성 직장염에는 일반적인 항생제 치료와는 다른 특수한 항생제를 사용하게 되며, 전환 직장염에는 단쇄 지방산(Short Chain Fatty Acid) 관장, 스테로이드(steroid) 관장, 메살라진(mesalazine) 관장 등을 시도할 수 있으나 재수술이 필요할 수도 있습니다.  화학성 직장염은 금식, 적절한 수액 공급과 광범위 항생제 투여를 통해 치료하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[직장염은 다양한 원인에 의해 발생하기 때문에 원인에 따른 예방과 생활습관 조절이 필요합니다. 공통적으로 규칙적인 식생활과 함께 다음과 같은 생활습관을 권고합니다.
+- 물을 충분히 섭취합니다.
+- 야채, 과일 등 섬유소가 많이 들어있는 음식을 섭취합니다.
+- 칼슘을 충분히 섭취하고, 지방은 줄이도록 합니다.
+- 탄산음료를 피합니다.
+- 장에 좋은 유산균을 함유한 발효식품을 섭취합니다.
+특히, 염증장질환에 의해 발생한 직장염은 오래 지속될 경우 암으로 변화할 수 있으므로 정기적인 내시경 검사를 통하여 직장암을 비롯한 합병증을 예방하는 것을 권고합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 궤양대장염은 세균성 장염과 어떻게 다른가요?
+
+A. 장염을 일으키는 세균의 종류는 매우 많습니다. 대부분의 세균성 장염은 증상이 갑자기 나타나고 짧은 기간 내에 소실되는 것이 특징이며, 대장내시경 검사 등으로 궤양대장염과 구별할 수 있습니다. 그러나 어떤 세균성 장염은 궤양대장염과 매우 비슷한 증상을 보이고, 때에 따라서는 여러 가지 검사방법을 동원하여도 구별하기 어려운 경우도 있습니다. 대변의 세균배양검사로 세균성 장염을 진단할 수 있지만, 궤양대장염이 있는 환자도 이차적으로 세균에 감염될 수 있으므로 항상 구별할 수 있는 것은 아닙니다. 이런 경우에는 항생제를 투여하여 치료에 대한 반응을 관찰하거나 일정 시간이 지난 후 검사를 반복하여 감별하기도 합니다.
+
+Q. 항생제성 직장염은 왜 생기나요?
+
+A. 우리 장 안에 살고 있는 유익한 장내세균이 항생제 치료로 소멸되고 균 조성의 균형이 깨지게 되면, 해를 끼칠 수 있는 세균이 증식할 수 있으며 이 중에는 장내 염증을 일으키는 균주가 필요 이상으로 많아 질 수 있습니다. 특히 클로스트리듐이라는 유해한 균이 많아질 경우 이 균에서 나오는 독성물질에 의해 대장 혹은 직장에 염증이 발생하게 됩니다. 그러나 항생제를 사용한 모두에서 다 나타나는 것은 아니고, 모든 항생제가 다 발생시키는 것도 아닙니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Bressler B, Marshall JK, Bernstein CN, et al. Clinical practice guidelines for the medical management of nonhospitalized ulcerative colitis: the Toronto consensus. Gastroenterology 2015; 148:1035.
+2. Heida A, Park KT, van Rheenen PF. Clinical Utility of Fecal Calprotectin Monitoring in Asymptomatic Patients with Inflammatory Bowel Disease: A Systematic Review and Practical Guide. Inflamm Bowel Dis 2017; 23:894.
+3. Lenz L, Rohr R, Nakao F, et al. Chronic radiation proctopathy: A practical review of endoscopic treatment. World J Gastrointest Surg 2016; 8:151.
+4. Lichtenstein GR, Loftus EV, Isaacs KL, et al. ACG Clinical Guideline: Management of Crohn's Disease in Adults. Am J Gastroenterol 2018; 113:481.
+5. Mayer KH. Sexually transmitted diseases in men who have sex with men. Clin Infect Dis 2011; 53 Suppl 3.
+6. Paquette IM, Vogel JD, Abbas MA, et al. The American Society of Colon and Rectal Surgeons Clinical Practice Guidelines for the Treatment of Chronic Radiation Proctitis. Dis Colon Rectum 2018; 61:1135.
+7. Szczepkowski M, Kobus A, Borycka K. How to treat diversion colitis?--Current state of medical knowledge, own research and experience. Acta Chir Iugosl 2008; 55:77.
+8. Tabaja L, Sidani SM. Management of Radiation Proctitis. Dig Dis Sci 2018; 63:2180.
+9. Vries HJ, Zingoni A, White JA, et al. 2013 European Guideline on the management of proctitis, proctocolitis and enteritis caused by sexually transmissible pathogens. Int J STD AIDS 2014; 25:465.
+10. Wu XR, Liu XL, Katz S, Shen B. Pathogenesis, diagnosis, and management of ulcerative proctitis, chronic radiation proctopathy, and diversion proctitis. Inflamm Bowel Dis 2015; 21:703.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

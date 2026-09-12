@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[구강건조증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5704]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 구강건조증은 입안이 마른다고 느끼는 증상으로, 침 분비 감소나 침 성분 변화로 발생할 수 있습니다.
+• 주요 원인으로 약물 복용, 방사선 치료, 쇼그렌 증후군, 스트레스, 노화 등이 있으며, 특히 노년층에서 흔히 나타납니다.
+• 증상으로는 삼킴이나 발음의 어려움, 충치, 구취, 미각 이상, 구내염 등이 나타날 수 있습니다.
+• 진단을 위해 병력 청취와 신체검사가 중요하며, 증상의 정도와 동반 질환을 파악하고 타액선 기능 저하 여부를 확인해야 합니다.
+• 치료는 원인에 맞춘 약물 조정과 구강 관리로 증상 완화를 목표로 하며, 생활습관 개선과 정기적인 치과 검진도 필수적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구강건조증(xerostomia)은 입이 마른다고 느끼는 주관적인 증상을 의미합니다. 따라서 객관적인 타액(침) 분비 저하가 없어도 생길 수 있으며, 타액 성분에 변화가 있어도 증상이 유발된다고 알려져 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[타액선, 즉 침샘은 이하선, 악하선, 설하선 및 소타액선으로 구성됩니다. 이하선(귀밑샘), 악하선(턱밑샘), 설하선(혀밑샘)은 좌우에 각각 한 개씩 위치합니다.
+이하선은 타액을 양측 볼 점막내 개구부로 분비하고, 악하선은 혀 밑의 개구부로, 설하선은 여러 개의 작은 관을 통해 혀 밑의 넓은 부위로 분비합니다. 소타액선은 구강 곳곳에 무수히 많이 존재하며 각각 독립된 관을 통해 구강으로 타액을 분비합니다.
+타액은 다음과 같이 입안과 전신 건강을 유지하는 데 매우 중요한 기능을 합니다.
+• 입안의 산성도(pH)를 중성으로 유지합니다.
+• 치아에 필요한 칼슘과 인산 이온을 공급합니다.
+• 구강 점막과 치아를 유해물질로부터 보호합니다.
+• 구강 내 윤활작용을 통해 저작, 연하 및 발음을 원활하게 도와줍니다.
+• 소화효소가 들어 있어 탄수화물의 소화를 돕습니다.
+• 면역글로불린, 락토페린 등이 들어 있어 항균 작용을 합니다.
+• 미각 물질을 용해하는 용매로도 작용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe957c2c1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구강건조증은 입안마름증이라고도 합니다. 건강한 성인은 하루에 1000~1500 mL 정도의 타액을 분비하는데, 어떤 원인으로든 타액이 그보다 적게 분비되면 입안이 마른다고 느낍니다.  구강건조증은 청장년보다 노년층에서 자주 발생하며, 65세 이상 인구의 30%에서 나타날 정도로 흔합니다. 하지만 이는 노화 현상이라기보다 약물이나 만성질환으로 인한 것으로 생각됩니다. 물론 순수한 노화 과정과 노화 과정 중에 발생한 질환, 복용한 약물의 영향을 구분하기는 어렵습니다.
+타액선은 여유 기능이 많은 장기로 타액 분비량이 정상의 50% 이하로 감소될 때까지는 대개 큰 불편감을 느끼지 않습니다. 일상생활이 불편할 정도로 구강건조감이 있다면 타액 분비량이 상당히 감소한 것입니다.
+구강건조증이 생기면 음식물을 삼키거나 말을 하기 어려워 불편감을 느낄 수 있습니다. 또한 충치(치아우식증) 및 풍치(치주염)가 생기거나 악화되기 쉽고, 구강 내 곰팡이 감염, 혀 통증, 입냄새, 미각 이상 등이 유발될 수 있습니다. 구강건조증은 구강궤양 같은 구강질환의 발생에도 영향을 미칩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe957c897]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe957cb71]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe957c5b4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구강건조증은 원인에 따라 원발성과 속발성으로 분류합니다.
+• 원발성(일차성) 구강건조증: 타액선 종양, 감염, 방사선 치료, 쇼그렌 증후군 등 타액선에 병이 생겨 건조감이 유발된 경우입니다.
+• 속발성(이차성) 구강건조증: 타액선에는 문제가 없으나 약물 부작용, 비타민 결핍증, 빈혈, 당뇨, 노화 등으로 인해 발생합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe957ce64]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구강건조증의 대표적인 원인은 다음과 같습니다. 
+1. 약물 
+약물은 구강건조증의 가장 흔한 원인입니다. 약 500여 종의 약물이 타액 분비를 감소시키거나 타액의 조성을 변화시키는 것으로 알려져 있습니다. 특히 알레르기 치료에 쓰는 항히스타민제와 중추신경계 작용제(우울증, 불면증 치료제 등) 중에 구강건조증을 일으키는 약들이 많습니다. 구강건조증을 가장 많이 호소하는 노년층은 타액 분비에 영향을 주는 약을 한 가지 이상 복용하는 경우가 많습니다. 
+   2. 방사선 치료
+두경부암으로 방사선 치료를 받은 후에도 구강건조증이 생길 수 있습니다. 방사선은 타액선을 직접 파괴하고, 침샘으로 가는 혈류를 차단해 구강건조증을 일으킵니다. 타액선 파괴는 조사된 방사선량에 비례하며, 영구적입니다. 그러나 대개 6~12개월에 걸쳐 어느 정도 회복됩니다.
+최근에는 세기 조절 방사선 치료 등 다양한 방법으로 타액선 손상을 줄이려고 노력합니다.  최근 증가하고 있는 갑상선암에서 수술 후 방사선 요오드 치료를 하는 경우가 있습니다. 이때도 치료 직후 타액 분비가 일시적으로 감소하여 이하선염이 간헐적으로 반복되다가 일부는 영구적인 구강건조증으로 이행할 수 있습니다. 
+   3. 쇼그렌 증후군
+쇼그렌 증후군은 타액선, 눈물샘 등에 림프구가 침입해 만성 염증을 일으키고 분비 장애를 유발하는 자가면역질환(외부의 물질로부터 몸을 방어하는 면역계에 이상이 생겨 자기 자신을 공격하는 질환)입니다. 모든 연령과 성별에서 발생할 수 있지만, 중년 여성에게 가장 흔하며 남녀비는 1:9로 여성에서 훨씬 많습니다. 
+동반질환의 유무에 따라 일차성과 이차성으로 분류합니다.
+• 일차성 쇼그렌 증후군: 동반 질환 없이 구강건조증과 건조성 각결막염만 발생
+• 이차성 쇼그렌 증후군: 류마티스 관절염, 전신홍반루푸스, 경피증 등 다른 류마티스 질환과 동반됨
+쇼그렌 증후군의 주 증상은 눈물샘과 타액선의 기능 감소로 나타나는 소견들입니다. 구강건조감, 구강작열감, 치아 이상, 발성 이상, 눈 건조감, 눈 이물감, 안구충혈, 눈부심 등이 나타날 수 있습니다. 
+   4. 기타 원인
+코가 막혀 입으로 호흡하거나 전신 탈수 시 구강건조증이 생길 수 있습니다. 타액선을 수술로 제거하거나 두경부암 수술 중 타액선을 지배하는 신경이 손상된 경우, 선천적으로 타액선의 발육 장애가 있는 경우에도 구강건조증이 생길 수 있습니다. 노화, 흡연, 조절되지 않는 당뇨, 만성이식편대숙주병, 갑상샘질환, C형 간염, 두려움, 불안, 우울 등 정신과적 문제도 구강건조증을 유발할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[약물로 인한 구강건조는 일시적으로 침 분비가 줄었다가 약을 중단하면 정상으로 돌아오는 경우도 있습니다. 그러나 두경부암으로 인한 침샘 부위의 방사선 치료, 노화, 쇼그렌증후군에서는 지속적으로 침 분비가 감소하는 경우가 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구강건조의 원인에 따른 병태생리는 다음과 같습니다.
+• 일시적 스트레스, 불안장애, 피로, 과호흡, 탈수 시에는 교감신경 항진으로 침 분비가 저하되어 구강건조감을 일으킵니다.
+• 빈혈, 비타민 결핍, 약물(고혈압약, 항우울제, 이뇨제, 항히스타민제 등) 복용은 탈수 및 구강건조감을 일으킵니다.
+• 노화로 인한 침샘 내 분비세포의 만성 염증 및 지방세포 대체로 침샘 기능 저하가 일어나 구강건조감을 유발할 수 있습니다.
+• 방사선 조사로 인한 구강건조증은 두경부종양이 증가하면서 흔해지고 있습니다. 약 6~7주간 방사선 조사를 받는 부위의 타액선은 치료 2~3주부터 기능이 감소되고, 점차 비가역적 침샘기능 저하로 진행합니다. 갑상선암에서 방사선요오드 치료를 받는 경우에도 방사선 동위원소가 타액선 내에 침착되어 침샘세포를 손상시켜 타액선 기능이 저하됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구강건조증의 유병률은 0.9~64.8%로 매우 다양하며, 대략 50세 이상에서 10%, 65세 이상에서 30% 정도 보고됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구강건조증이나 타액분비저하증을 진단하려면 체계적인 접근이 중요합니다. 먼저 주관적인 증상에 관심을 기울이고 의학적으로 상세히 확인해야 합니다.
+예를 들어, 다음과 같은 증상이 있다면 실제 타액분비 저하 가능성이 높습니다.
+• 식사 중 구강의 건조함을 느끼는 경우
+• 마른 음식을 먹을 때 물이 반드시 필요한 경우
+• 삼킬 때 불편감을 느끼는 경우
+그러나 객관적인 타액분비 저하가 없어도 환자는 구강건조증의 불편감을 느낄 수 있습니다. 말을 할 때 불편감, 미각의 변화, 입안의 작열감, 입냄새 등의 증상이 유발될 수 있으며, 의치를 조작하는 데 어려움을 느낄 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17cfe957d147]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 병력 청취 
+구강건조증 진단 시 정확한 병력 청취가 중요합니다.   다음 질문을 이용해 구강건조증의 정도와 동반 증상을 평가합니다. 
+• 음식을 삼키는 데 문제가 있는가? 
+• 식사 중에도 입이 마르는가? 
+  • 건조한 음식을 삼키기 위해 물을 같이 먹는가? 
+• 입안에 침이 부족하다고 느끼는가? 
+• 입술이 마르는가? 
+• 볼 안쪽 점막이 마르는가? 
+병력 청취 시 고혈압, 당뇨, 신경 질환, 갑상선 질환 등 동반 질환과 현재 복용 중인 약물을 반드시 확인해야 합니다. 이외에도 타액선 부위가 붓지 않는지, 탈수나 전신 마취 후 타액선염 여부도 확인해야 합니다. 안구건조증이 함께 나타나는 경우 일차성 쇼그렌 증후군을 의심할 수 있습니다. 류마티스 관절염, 다발결절동맥염, 경피증, 루푸스 등과 같은 자가면역질환의 병력이 있으면 이차성 쇼그렌 증후군을 의심할 수 있습니다.
+2. 신체검사 
+
+구강 점막이 말라있거나, 혀 갈라짐, 혀 돌기 소실, 음식 찌꺼기가 치아나 점막에 붙어있는 소견이 흔히 관찰됩니다. 구강 점막이 끈끈하여 설압자(구강 안쪽을 관찰하기 위해 진료 시 혀를 누를 때 사용하는 도구)가 혀나 뺨 안쪽에 달라붙기도 합니다. 종종 구강 캔디다증이 동반되는데, 전형적인 백색 반점보다 구각염(입꼬리가 빨갛게 짓물려 갈라진 상태)이나 홍반 형태로 나타나는 경우가 더 흔합니다. 
+  흔히 발견되는 임상 양상은 다음과 같습니다. 
+  • 혀의 건조감 
+• 입술 끝이 갈라짐 
+• 치아우식증 
+• 교합 이상 
+​• 혀의 홍반 
+• 타액선 부종
+• 구내염 
+• 구강 캔디다증
+• 아프타구강궤양 등 
+3. 타액 분비량 측정(sialometry, salivary flow test) 
+
+타액 분비량 측정은 구강건조증을 객관적, 정량적으로 평가하는 데 결정적인 방법입니다. 하지만 측정 방법이 표준화되어 있지 않고 검사 시간이 많이 소요되기 때문에 널리 사용되지는 않습니다. 휴식 상태 또는 자극 상태에서 전체 타액 분비량과 각 타액선의 개별 분비량을 측정합니다. 자극 상태보다 휴식 상태의 타액 분비량이 증상과 더 일치한다고 알려져 있습니다. 건강한 성인의 휴식 상태 전체 타액 분비량은 분당 0.15 mg(0.1 ml) 이상이며, 분비량이 50% 이상 감소하면 구강건조 증상이 나타납니다. 
+    4. 타액선 조영술(sialography) 
+타액선 조영술은 타액선관 내부에 조영제를 주입하고 촬영하여 타액선관의 구조와 형태를 관찰하는 방법입니다. 타액선 조영술은 타액선관 내부의 협착이나 결석의 위치를 보는 데 유용한데, 눈보라 모양(snowstorm-like 또는 Christmas-tree pattern)이 관찰되면 쇼그렌 증후군을 의심할 수 있습니다. 하지만 검사 시 통증이 있고 검사 시간이 많이 소요되며, 타액선 기능이 심하게 저하된 경우에는 조영제가 배출되지 않고 영구적으로 남을 수 있어 사용에 제한이 있습니다. 
+5. 혈액검사
+
+구강건조증의 원인을 확인하기 위해 혈액검사(혈구수 측정, 간기능검사, 신장기능검사, 자가항체검사, 혈당측정), 요검사 등을 시행할 수 있습니다. 
+6. 조직검사 
+
+쇼그렌 증후군이 의심될 경우 확진하기 위해 타액선 조직검사를 시행합니다. 부분 마취 후, 아랫입술 점막 아래의 소타액선 일부를 채취합니다. 
+7. 핵의학적 검사(scintigraphy) 
+이하선 혹은 악하선의 타액 분비를 보는 검사입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=199374c31d16]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구강건조증은 원인이 다양해서 한 가지 치료법만으로는 증상을 근본적으로 치유하기 어렵습니다. 환자의 원인 질환을 정확히 파악하여 교정 가능한 질환에 대한 치료와 함께 증상 완화를 도모하는 것이 중요합니다. 
+ 1. 원인 요인 교정 및 예방 
+구강건조증의 가장 흔한 원인은 약물입니다. 이뇨제, 항우울제, 항히스타민제 등을 복용하는 경우 전문가와 상의하여 약물 투여를 조절합니다. 두경부에 방사선 치료를 받는 환자는 세기조절 방사선 치료(intensity-modified radiation therapy)로 타액선을 보호하거나 방사선 조사 전 타액선세포 보호제인 아미포스틴(amifostine) 등을 사용할 수 있습니다. 쇼그렌 증후군은 비스테로이드소염제, 스테로이드, 면역 억제제 등을 통해 치료합니다. 
+ 2. 구강 관리 
+구강건조증이 있는 경우 구강 캔디다증, 구강 점막 궤양, 치아 청결 불량 등이 발생할 수 있습니다. 이를 예방하기 위해 다음과 같은 관리가 필요합니다.
+• 구강 위생을 위해 칫솔질을 자주 하고, 구강 세척제로 입안을 헹구도록 합니다.
+• 카페인이나 과당이 함유된 음료보다는 물을 자주 섭취하여 구강 점막을 적시는 것이 좋습니다.
+• 음식을 고를 때 맵거나 건조한 음식은 피합니다.
+• 구강건조증이 있는 사람은 충치나 치은염이 흔히 생기므로 정기적으로 치과를 방문하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[쇼그렌 증후군 환자나 두경부에 방사선 치료를 받은 환자는 타액분비촉진제인 필로카핀, 세비멜린 등을 투여할 수 있습니다. 이 약물은 어느 정도 타액선의 기능이 남아 있는 환자에게 효과를 기대할 수 있습니다. 
+필로카핀은 5 mg, 세비멜린은 30 mg을 하루 세 번 복용하며, 적어도 3개월 이상 사용하는 것이 원칙입니다. 입을 헹구는 데 필로카핀을 사용하면 침 분비가 증가해 증상이 호전된다는 보고도 있습니다. 보통 약물을 투여하고 2~3시간 정도 타액 분비 효과가 유지되며, 수 주 이상 투여해야 구강건조 증상이 개선됩니다. 
+하지만 이 약물은 부교감신경을 자극하여 땀 분비 증가, 피부 혈관 확장, 구역 및 구토, 설사, 딸꾹질, 기관지 수축, 저혈압, 빈맥, 빈뇨, 시야 이상 등의 부작용을 유발할 수 있습니다. 천식, 녹내장, 위궤양 환자에게는 금기이며, 고혈압 등 심혈관질환 환자는 주의하여 투여해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 타액 대체재 또는 구강 보습제 
+타액선의 분비 기능이 떨어진 환자는 침 분비를 자극하는 치료가 어렵기 때문에 타액 대체재가 유일한 치료 방법입니다. 가장 흔히 사용되는 것이 겔이나 스프레이 형태로 판매되는 인공타액입니다. 여기에는 점성을 증가시키는 물질, 완충 작용을 하는 물질, 소르비톨이나 자일리톨 같은 감미제가 함유되어 있습니다. 증상이 심한 경우 단시간에 효과를 보기 위해 이용할 수도 있습니다. 
+ 2. 기타 치료 방법 
+구강의 전기 자극 또는 침(鍼)을 통해 타액 분비를 자극하는 연구가 시도되고 있으며, 줄기세포나 성장인자, 천연 항산화인자 등을 통해 치료하려는 노력이 진행 중입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[113]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구강건조증은 생활습관 관리와 예방이 중요합니다.
+• 실내에서는 가습기를 사용합니다(특히 밤에 잘 때).
+• 구강의 건조함을 증가시키고 탈수를 유발하는 음식(마른 음식, 산성 음식, 카페인이 첨가된 음식, 알코올이 첨가된 음료)은 피하는 것이 좋습니다.
+• 6개월마다 정기적으로 치과 검진을 받는 것이 합병증 예방에 도움이 됩니다.
+• 충치 예방과 구강 위생을 위해 당이 적은 식사를 하고, 정기적으로 불소를 사용하는 것이 권장됩니다. 불소는 타액 분비 저하로 인한 충치를 예방하는 가장 효과적인 수단입니다.
+• 구강의 곰팡이 감염은 구강건조증 환자에게 흔한 합병증으로 다양한 항진균제로 만든 입안 헹굼제를 사용할 수 있습니다. 면역력이 떨어져 구강의 항진균 치료에 반응이 없는 환자는 전신적인 항진균 치료가 필요할 수 있습니다.
+• 틀니를 사용하는 환자는 곰팡이가 자라지 않도록 매일 틀니를 소독해야 합니다.
+• 당뇨, 신부전, 자가면역질환 등 기저질환을 잘 치료하는 것도 증상을 경감하고 악화를 방지하며, 구강 상태를 호전시키고 타액선의 기능과 전신 상태을 향상하는 데 도움이 됩니다.
+
+구강건조증에 도움이 되는 관리 방법 
+• 최소 하루 3~4차례 양치질을 하고 입술은 보습제를 발라 촉촉하게 유지합니다. 정기적으로 불소를 사용하는 것이 권장됩니다.
+• 자주 물로 입을 헹구는 것도 도움이 됩니다. 그러나 알코올이 포함된 구강 청결제는 입안을 더욱 건조하게 할 수 있습니다. 
+• 물을 조금씩 자주 섭취하거나 얼음 조각을 입안에 천천히 녹여 먹는 것도 좋습니다. 
+• 가습기 등을 이용하여 공기가 건조하지 않도록 합니다(특히 밤에 잘 때). 
+• 촉촉하고 삼키기 쉬운 음식을 섭취하십시오. 
+• 신맛이 나는 음식, 비타민C, 무설탕 껌, 레몬, 사탕 등은 침샘을 자극하여 침 분비를 도와줍니다. 하지만 과당이 많이 함유된 음식은 오히려 충치를 유발합니다.
+• 술, 담배, 카페인은 입안을 더욱 건조하게 할 수 있습니다.
+  • 6개월마다 정기적으로 치과 검진을 받는 것이 합병증 예방에 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정기 진찰]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[114]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구강건조증 환자는 치아 표면이 부식되어 치아가 얇아질 수 있으므로 꾸준한 관리가 중요합니다. 2∼3개월마다 정기적으로 치과를 방문해 치석을 제거하고 치아에 불소 도포를 받는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 충분한 수분섭취
+건조한 환경에서 일한다면 특히 수분 섭취에 신경을 써야 합니다. 하루 물 섭취량은 1.5~2 L 정도가 적당하며, 한번에 많이 마시는 것보다 조금씩 자주 입안을 적시는 게 좋습니다. 커피·녹차 등 카페인이 든 음료는 오히려 입안을 마르게 할 수 있어 삼가야 합니다. 
+2. 오래 씹는 습관 들이기
+
+침은 평상시 분당 0.25~0.35 mL 분비되지만, 음식을 오래 씹으면 분당 최대 4 mL까지 나옵니다. 입안에서 혀를 굴리는 것도 침 분비량을 늘리는 효과가 있습니다. 무설탕 껌을 씹거나 신맛나는 과일을 먹어서 침샘을 자극하는 것도 좋은 방법입니다.
+3. 구강건조증을 야기하는 약물을 피하기
+
+항정신병약, 식욕억제제, 항히스타민제 등 구강건조를 유발하는 대표적인 약물을 삼가야 합니다.
+4. 인공타액 사용하기
+구강건조증이 심하면 구강 점막을 부드럽게 해주는 인공타액으로 입안을 적셔줍니다. 효과 지속시간은 길지 않지만 입이 마를 때마다 수시로 사용하면 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. LEE, Seung-U. (1998). 구취의 진단과 치료. The journal of the Korean dental association, 36.1: 36-4.
+
+2. 최정석; 임재열. (2016). 구강건조증의 진단과 치료. Korean Journal of Otorhinolaryngology-Head and Neck Surgery, 59.6: 424-429.
+
+3. Dawes C. (2004). How much saliva is enough for avoidance of xerostomia? Caries Res 38(3):236-40. 
+4. Fox PC. (2007). Autoimmune diseases and Sjogren's syndrome: an autoimmune exocrinopathy. Ann N Y Acad Sci 1098:15-21. 
+5. Hopcraft MS, &amp; Tan C. (2010). Xerostomia: an update for clinicians. Aust Dent J 55(3):238-44; quiz 353. 
+6. Orellana MF, Lagravère MO, Boychuk DG, Major PW, &amp; Flores-Mir C. (2006). Prevalence of xerostomia in population-based samples: a systematic review. J Public Health Dent 66(2):152-8. 
+7. Pedersen AM, Bardow A, Jensen SB, &amp; Nauntofte B. (2002). Saliva and gastrointestinal functions of taste, mastication, swallowing and digestion. Oral Dis 8(3):117-29. 
+8. Shiboski CH, Hodgson TA, Ship JA, &amp; Schiødt M. (2007). Management of salivary hypofunction during and after radiotherapy. Oral Surg Oral Med Oral Pathol Oral Radiol Endod 103 Suppl:S66.e1-19. 
+9. Ship JA, Pillemer SR, &amp; Baum BJ. (2002). Xerostomia and the geriatric patient. J Am Geriatr Soc 50(3):535-43. 
+10. Terpenning MS, Taylor GW, Lopatin DE, Kerr CK, Dominguez BL, &amp; Loesche WJ. (2001). Aspiration pneumonia: dental and oral risk factors in an older veteran population. J Am Geriatr Soc 49(5):557-63. 
+11. van der Putten GJ, Brand HS, Schols JM, &amp; de Baat C. (2011). The diagnostic suitability of a xerostomia questionnaire and the association between xerostomia, hyposalivation and medication use in a group of nursing home residents. Clin Oral Investig 15(2):185-92.
+12. Villa A, Polimeni A, Strohmenger L, Cicciù D, Gherlone E, &amp; Abati S. (2011). Dental patients' self-reports of xerostomia and associated risk factors. J Am Dent Assoc 142(7):811-6.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

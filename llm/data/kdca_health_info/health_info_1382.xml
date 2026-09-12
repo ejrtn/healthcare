@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[안외상(안와골절)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1382]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 안구는 얇은 뼈와 지방조직에 의해 보호되지만, 이 뼈는 약해 외상 시 안와골절이 쉽게 발생합니다.
+• 주로 눈꺼풀 부종, 출혈, 결막 충혈이 나타나며 시간이 지나면 안구함몰, 안구운동장애, 복시 등이 생길 수 있습니다.
+• 정확한 진단을 위해서는 안와 CT 촬영과 안과 검사를 통해 골절 위치와 안구 손상 여부를 확인합니다.
+• 경미한 경우에는 얼음찜질과 약물치료로 경과를 보지만, 심한 경우에는 수술로 안와 구조를 복원해야 합니다.
+• 주요 합병증으로는 복시, 안구함몰, 시력 저하, 감각 이상 등이 있으며 일부는 회복에 시간이 걸릴 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[안구는 주변의 얇은 뼈에 의해 둘러싸여 보호되고 있으며 안구와 주변의 뼈 사이에는 지방조직 등이 있어 안구를 보호하는 완충 작용을 합니다. 그러나 이 뼈는 매우 얇아 외상에 의해 골절이 잘 일어납니다. 심한 경우 눈이 들어가 보이거나 안구 운동 장애 등이 동반되는 경우도 있지만, 대개 출혈과 부종이 동반되는 경우가 많아 안와 CT 촬영을 해야 정확한 진단을 할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[외상으로 인하여 눈꺼풀이 붓고, 피하출혈이나 결막 출혈로 눈이 빨갛게 되고, 골절 부위를 통하여 눈 뒤쪽으로 공기가 들어가서 대부분의 환자는 일시적으로 눈이 돌출되어 보입니다. 하지만, 시간이 지나면 대부분 눈이 꺼지는 안구 함몰이 발생하게 됩니다. 그 외에도 안구 운동 장애, 안구 운동 시 통증, 눈꺼풀 아래 얼굴의 감각이상, 코피 등이 나타날 수 있습니다. 안구 운동 장애가 있다면 물체가 두 개로 보이는 복시 등의 증상을 호소하기도 합니다. 타박상에 의한 안구내 손상도 흔히 동반될 수 있으므로 반드시 안과의사의 진료를 받고 치료해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9594362]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 문진 
+외상이 발생한 과정과 힘의 세기, 속도 등에 대하여 자세히 알아야 하며, 복시나 감각 이상 유무도 확인합니다. 
+
+2. 안과 검사 
+CT로 골절 여부를 확인하는 것이 가장 중요합니다. 이것으로 골절의 위치와 정도, 안와조직의 탈출과 손상 여부를 판정합니다. 안구 운동 장애 여부 및 안구 돌출 정도를 측정합니다. 
+또한 세심한 전안부 및 안저 검사로 동반된 안구내 손상이 있는지도 검사합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대증적 치료 
+부종을 가라앉히기 위해 얼음찜질을 하고, 항생제를 사용하고, 스테로이드를 투여하는 경우도 있습니다. 골절 정도가 경미하고 증상이 없다면 수술하지 않고 경과만 관찰할 수 있습니다. 
+
+2. 수술적 치료 
+초기에는 부종으로 안구가 돌출되어 보이더라도, 나중에는 함몰되는 경우가 많으니 조기에 안와조직을 복원하는 수술이 필요할 수 있습니다. 
+안구 근육이 끼어 복시가 생기거나 안와골절이 커서 심한 안구 함몰이 발생할 가능성이 높은 경우에는 반드시 수술해야 합니다. 이러한 경우는 가능하면 10~14일 이내에 수술하는 것이 좋습니다. 또한 안구함몰의 경우 손상 받은 지 오래됐더라도 교정 수술로 호전될 수 있는 경우가 있으므로 반드시 안과 의사와 상담하기 바랍니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[115]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[안와골절로 인하여 발생하는 가장 중요한 후유증은 물체가 두 개로 보이는 복시와 눈이 안으로 들어가는 안구함몰입니다. 
+
+1. 안구운동장애 및 복시 
+수술 전과 비교하여 수술 후에 안구 운동 장애와 복시는 대부분 나아지지만, 완전히 회복되는 데에는 일반적으로 2~3개월 이상의 시간이 필요합니다. 그러나 눈을 움직이는 근육과 조직의 손상이 심하여 눈 움직임이 완전히 회복되지 않는 경우도 있을 수 있습니다. 
+
+2. 안구함몰 
+골절이 큰 경우에는 안구함몰이 발생하는데 이를 교정하기 위해 수술합니다. 수술 후 일반적으로 외관상 두 눈이 비슷하게 되지만, 눈 주위 조직의 손상이 심하면 눈 주위 조직이 위축되어 어느 정도의 안구함몰이 남을 수 있습니다.
+
+3. 시력 소실 
+골절의 위치가 안구 깊은 곳인 경우 수술이 매우 까다로우며, 아주 드물게 시신경 손상으로 시력 소실이 생길 수 있습니다. 
+
+4. 감각 이상 
+안와 아래쪽 뼈가 골절되면 아래 눈꺼풀에서 윗입술까지 얼굴에 분포하는 신경의 이상으로 감각 이상이 나타납니다. 이는 일차 외상이나 수술 중 손상에 의하여 발생할 수 있으며 수개월에서 1년 정도 경과하면 저절로 회복되지만 심한 경우 감각 이상이 지속되는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[안외상(각막이물)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1404]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(각막찰과상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1362]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(각막화상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1381]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 망막박리)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1402]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(외상성 백내장 및 수정체 이탈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1403]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(전방출혈)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1361]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[안외상(천공 외상)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[1401]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

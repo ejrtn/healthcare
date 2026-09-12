@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[대변 및 잠혈검사(분변 잠혈검사)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[3435]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[분변 잠혈검사는 간단하며 값이 싸고 비침습적이므로 소화관 출혈이나 대장암의 조기발견을 위한 집단검진에서 선별검사로 널리 이용되고 있습니다. 대변에 혈액이 섞이는 것은 초기 대장암의 한 증상일 수 있기 때문에 우리나라에서는 2004년부터 국가암검진 프로그램을 통해 만 50세 이상 남녀에게 1년 간격으로 분변 잠혈검사를 실시하고 있으며, 이를 통해 대장직장암을 조기 발견하여 사망률을 줄이는데 기여하고 있으나 정확도가 낮은 것이 단점입니다. 해당 검사에서 양성인 경우 대장암 뿐만 아니라 소화관 궤양에 의한 출혈, 치핵 등에 의한 항문 근처의 출혈 가능성이 모두 존재하므로 정확한 출혈부위를 밝히기 위해 대장내시경 등을 추가적으로 실시해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[분변 잠혈검사는 화학적 방법과 면역화학법으로 나눌 수 있습니다.
+
+
+
+1. 화학적 방법 
+
+헤모글로빈의 구성 물질인 Heme의 가성과산화효소(pseudoperoxidase) 활성을 검출하는 것으로 구아이악(guaiac) 검사가 대표적입니다. 식물성 과산화효소나 고기의 Heme 등과도 반응하여 위양성으로 나타날 수 있으므로 검사하기 전에 고섬유질 식이나 고기는 먹지 않도록 합니다. 비타민 C나 비스테로이드성 항염증제와 같은 약제에도 영향을 받을 수 있고 대장암 외에 위장관 내의 다른 질병으로 인한 출혈에도 양성을 보일 수 있습니다.
+
+
+
+2. 면역화학적 방법 
+
+인간 헤모글로빈 중 글로빈에 대한 항체를 사용하여 검출하는 방법으로 화학적 방법에 비해 민감도가 높습니다. 다른 동물의 헤모글로빈이나 과산화효소와는 반응하지 않아 검사할 때 식이 제한이 필요하지 않으므로 선별검사로서 많은 대상자에 적용하기 쉽고 검체 채취도 용이하게 개발되었습니다. 또한 글로빈은 불안정하여 상부 위장관 출혈보다 대장 출혈을 선택적으로 검출할 수 있으며 최근에는 정량검사도 가능합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[정상인에서 대변잠혈검사는 음성입니다. 만약 양성일 경우에는 대장 이중 조영검사, 대장내시경검사를 선택하여 받아야 합니다. 하지만 대장직장암의 약 8% 정도에서만 잠혈반응 양성이 나타나고 암의 크기 및 종류에 따라서도 영향을 받습니다. 또한 대장직장암에서는 출혈이 간헐적으로 일어나고 출혈량이 많지 않을 경우에도 잠혈검사에서 음성으로 나올 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[대변 및 잠혈검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3433]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[대변 및 잠혈검사(기생충 검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3434]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[대변 및 잠혈검사(백혈구 검사)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3436]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

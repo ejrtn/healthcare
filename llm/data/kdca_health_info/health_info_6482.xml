@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[급성신손상(소아)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6482]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd959c772]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성신손상이란 콩팥(신장) 기능이 갑자기 떨어지는 상태입니다. 콩팥 기능이 떨어져서 몸 안의 노폐물을 소변을 통하여 몸 바깥으로 배출하기가 어려워져 몸 안에 노폐물이 쌓이며, 몸 안의 수분과 전해질의 균형이 깨지게 됩니다. 급성신손상을 유발하는 원인을 제거하면 신기능이 정상화될 수 있으나 병의 기간이 길어질수록 회복되는데 상당한 시간이 요구되기도 하며, 만성콩팥병으로 이행되는 경우도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd959c833]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 탈수/혈액순환 이상 
+심한 설사, 출혈, 심한 감염, 심장 기능 저하 등 
+2. 감염 
+유행성 출혈열, 예르시니아 위장관염, 장출혈성 대장균 감염 (용혈성 요독 증후군) 등 
+3. 신독성 약물/음식물 
+조영제, 신독성 항생제, 신독성 항암제, 약용 식물, 독초 등 
+4. 수술 
+심장 수술 등 
+5. 콩팥 질환 
+급성 신장염, 만성 신장염, 요로결석 등]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[신기능의 회복 가능성은 원인 질환의 종류에 따라 크게 다르고, 환자의 기존 질환과 현재 상태에 따라 좌우됩니다. 조기에 적절한 치료를 받는다면 90% 정도는 완전히 회복되는 경우에서부터 약 5~10% 정도에서는 만성 신부전으로 진행하여 지속적인 투석치료나 신장이식을 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성신손상은 그 발생 기전에 따라 크게 3종류로 나뉩니다. 
+1. 콩팥 이전의 문제(신전성, prerenal) 
+콩팥으로 공급되는 혈액량 또는 수분의 감소로 비롯됩니다. 즉, 설사, 구토, 출혈 등으로 인하여 심한 탈수가 발생하여 몸 전체의 혈액량이 감소하거나, 다른 원인으로 인한 쇼크상태에서 혈압이 떨어지게 됩니다. 또한 심장기능이 나빠 혈액 순환이 잘 되지 않으면 콩팥으로 가는 혈류량이 줄어들어 콩팥에 손상이 발생합니다. 
+2. 콩팥 자체의 손상으로 인한 신손상(내인성, renal) 
+콩팥 자체에 병이 생긴 경우, 즉 사구체 질환, 콩팥 세뇨관 질환, 신혈관 질환, 콩팥 간질성 질환 등이 원인이 됩니다. 콩팥에 독성을 가진 약이나 음식을 섭취했을 때, 조영제의 부작용이 있을 때 흔히 발생합니다. 
+3. 콩팥 이후의 문제(신후성, postrenal) 
+콩팥에서는 정상적으로 오줌이 만들어지지만 요로에 막힌 부분이 있어 (요로폐쇄) 소변의 배설이 되지 않는 경우로 요로 결석, 종양 등이 원인이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd959ca66]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성신손상의 임상증상은 콩팥 손상의 원인, 정도, 그리고 콩팥기능이 나빠지는 속도에 따라 여러 가지로 나타나게 됩니다. 소변량이 줄어드는 경우가 많지만 콩팥기능이 나빠지는데도 소변량은 줄어들지 않는 경우도 있습니다. 이유없이 피로하고 지칠 수 있으나 별다른 이상이 느껴지지 않을 수도 있습니다.
+
+
+1. 전해질과 산 염기의 이상 
+콩팥 기능이 나빠져 몸 안의 수분과 전해질 조절 능력이 떨어지면 고칼륨혈증, 저칼슘혈증 등의 전해질 조절 이상이 발생할 수 있으며, 혈액이 산성으로 변할 수 있습니다. 
+2. 심혈관계 이상 
+수분 조절 능력이 떨어지므로 고혈압이 발생할 수 있으며, 폐에 물이 차서 숨이 차고 눕기가 불편할 수 있습니다. 
+3. 혈액학적 이상 
+빈혈이나 혈소판의 기능 저하에 의해 쉽게 멍이 들거나 피가 날 수 있습니다. 
+4. 소화기계 이상 
+식욕이 떨어지고 메스꺼우며 헛구역질, 구토 및 설사 등의 “요독증” 증상이 나타날 수 있습니다. 간혹 위장에서 출혈이 발생할 수 있습니다. 
+5. 신경계 이상 
+콩팥 손상이 심해져서 몸 안에 노폐물이 많이 쌓이면 기운이 없어지고 정신이 흐려질 수 있습니다.심한 경우 경련을 일으킬 수 있으며 성격의 변화, 착란, 의식장애 등이 나타날 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성신손상의 진단과 더불어 원인 질환을 찾아내는 것이 중요합니다. 혈액 및 소변검사, 초음파 또는 영상 검사가 필요하며 콩팥 조직검사가 필요한 경우도 있습니다. 
+1. 병력 청취 
+신전성 급성신손상의 경우 콩팥의 혈액순환이 잘 되지 않는 원인에 대한 자세한 병력 청취가 필요합니다. 피부 탄력의 저하, 점막 건조 등의 체내 수분량 감소 증상이 있는 경우 구토, 설사, 출혈, 패혈증 등의 가능성이 있습니다. 또한, 신독성 약물이나 조영제 등의 사용여부에 대한 병력청취가 필요하며 신후성 급성 신손상의 경우 소변볼 때 통증을 느끼거나 소변이 갑자기 잦아지거나 뜻대로 소변을 볼 수 없는 등의 증상이 나타날 수 있습니다. 소변 색깔의 변화, 소변에 갑자기 거품이 많아지는 등의 변화가 발생하는 경우도 있습니다. 
+2. 신체검사 
+혈압과 체중의 변화를 측정해야 합니다. 피부의 점상출혈, 자반의 발생 여부를 확인해야 하고 얼굴이나 다리가 붓는지, 배에 복수가 찼는지 확인합니다. 
+3. 소변검사 
+환자의 소변 비중, 삼투압 그리고 소변 나트륨 농도를 측정하면 신전성과 신성 급성신손상을 구별하는데 도움이 되며, 소변검사 이상 (단백뇨 및 혈뇨 여부 등)을 확인합니다. 
+4. 혈액검사 
+1) 혈중 요소질소 농도(Blood Urea Nitrogen, BUN) 
+요소질소(Urea Nitrogen)는 소변을 통해 배설되는 물질 중 하나입니다. 만약 콩팥의 기능이 나빠져서 콩팥이 혈액 속의 노폐물을 제대로 배설하지 못하면, 혈액 속의 요소질소 농도가 정상범위 이상으로 상승하기 때문에 혈액검사를 통해 혈액 중의 요소질소 농도를 측정하면 콩팥의 기능 정도를 알 수 있습니다. 
+2) 혈중 크레아티닌 농도(Creatinine, Cr) 
+요소질소와 마찬가지로 콩팥의 기능이 나빠지면 혈액 내 농도가 상승합니다. 
+5. 영상 검사 
+요로결석 유무를 확인하기 위해 단순 복부사진 촬영을 시행하고 콩팥의 크기, 요로 폐쇄 등을 진단하기 위해 신초음파를 시행합니다, 그리고 콩팥 혈관이 막히는 신혈관 색전증을 감별하기 위해 도플러 초음파를 시행할 수 있습니다. 그 외에도 전산화단층촬영이나 혈관 조영술 등을 시행할 수 있습니다. 
+6. 콩팥 조직검사 
+원인이 밝혀지지 않는 급성 신손상이나 소변량 감소가 2~3주 이상 지속되면 콩팥 조직검사를 하여 원인과 손상 정도를 확인하여 치료 방침을 세우는 데에 도움을 받을 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd959cb27]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성신손상은 원인을 파악하여 원인에 맞게 치료를 하는 것이 중요합니다. 그와 더불어 다음과 같은 콩팥의 보존적인 치료도 병행합니다.  
+˚ 체내 수분상태가 정상이 되도록 유지합니다.
+˚ 소변량이 증가할 수 있도록 적절한 수액을 사용합니다.
+˚ 적절한 영양공급을 실시하여 면역력과 골격근을 유지합니다.
+˚ 체액이상, 고칼륨혈증, 감염과 같은 합병증을 예방합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd959cbc8]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[111]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[급성신손상의 원인이 심한 감염으로 인한 패혈증 등인 경우 항생제 등을 사용하여 감염을 조절함으로써 콩팥 기능이 회복될 수 있도록 합니다. 그러나 콩팥 기능 자체를 회복시킬 수 있는 약물은 없으며, 급성신손상의 증상으로 고혈압, 전해질 이상 또는 경련 등이 발생하는 경우 이를 조절하기 위해 약물 치료를 하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 수분 공급 및 제한 
+급성신손상의 원인이 탈수나 심한 출혈로 인해 콩팥으로 공급되는 혈액량 또는 수분유입이 감소하여 발생한 경우에는 초기에 적절한 정맥 수액요법 등을 통하여 콩팥기능을 회복시킬 수 있습니다. 하지만 수액요법으로 소변량이 늘어나지 않는다면 콩팥 자체의 병변이나 신후성 급성신손상을 의심할 수 있게 됩니다. 소변량이 적을 경우 수분을 너무 많이 주면 체내에 과다하게 쌓여 고혈압, 심장 기능 저하 등의 부작용이 발생할 수 있으므로 수분 공급을 제한하는 경우도 있습니다. 
+
+
+2. 투석 
+콩팥기능의 호전이 없거나 악화되는 경우 투석을 실시합니다. 투석이란 콩팥 기능의 일부를 대신해 주는 치료법으로 노폐물과 과다한 수분의 제거, 혈액내의 칼륨, 염기, 산 염기 상태의 교정, 혈압 조절 등의 기능 향상을 위한 목적으로 시행합니다. 급성신손상으로 인한 투석의 적응증은 다음과 같습니다. 
+˚ 메스꺼움, 구토, 식욕감소 등과 같은 요독 증상
+˚ 정신 상태의 악화 및 뇌병증이 있는 경우 
+˚ 심낭염
+˚ 출혈성 경향 
+˚ 폐부종과 같은 체액과다가 약물 투여로 조절되지 않는 경우
+˚ 혈액내 칼륨이 치료에도 불구하고 과다하게 높은 경우
+˚ 소변량이 너무 적어 혈액 내 대사성 산증이 심해지는 경우
+˚ 이외에도 콩팥기능이 급격히 떨어지는 경우 
+투석에는 크게 인공신장기를 통해 혈액을 정화시키는 혈액투석과 복부에 도관을 심어 복막을 이용하여 투석하는 복막투석, 체외순환된 혈액을 혈액여과 및 혈액투석 또는 두 가지 방법을 조합하여 장시간 유지하는 지속적 신대치 요법(continuous renal replacement therapy, CRRT)이 있습니다. 
+ 1) 혈액투석 
+투석기(인공신장기)와 투석막을 이용하여 혈액으로부터 노폐물을 제거하고 신체 내의 전해질 균형을 유지하며 과잉의 수분을 제거하는 방법을 말합니다. 투석기계가 필요하며, 혈액을 몸 밖으로 꺼내어 투석막을 통과하는 동안 혈액의 노폐물 등을 제거해야 하므로 충분한 혈액이 몸 밖으로 나올 수 있는 커다란 혈액도관이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd959cc89]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 복막투석 
+복막투석은 환자의 몸 안에 있는 복막을 이용하는 투석 방법입니다. 복막이란 원래 복강 속의 간, 위, 비장, 대장 및 소장 등을 덮고 있는 비닐과 같은 얇은 막입니다. 복막은 내장 운동을 원활하게 하고 장이 움직일 때 장들이 서로 마찰하지 않게 하는 기능을 가지고 있습니다. 또한, 복막으로 싸여진 뱃속의 내부 빈 공간을 복강이라고 합니다. 복막투석은 복강에 깨끗한 투석액을 넣어 복막을 통하여 혈액 속에 존재하는 노폐물과 수분이 투석액으로 흘러나오게 하여 제거하게 됩니다. 복막은 아주 많은 미세한 구멍들을 가지고 있어 이 구멍을 통해 노폐물과 수분을 제거합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd959cd51]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[112]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 지속적 신대치요법(CRRT) 
+혈액투석은 단시간에 효율이 제일 좋은 방법이지만 심혈관계통이 불안정하다면 사용할 수 없다는 제한이 있고, 복막투석은 심혈관계통이 불안정한 사람에게 사용할 수는 있으나 수분과 노폐물의 제거가 느리게 일어나므로 급성 신부전에 사용하기에는 제한이 있다는 단점이 있습니다. 이에 비해 지속적 신대치요법(CRRT)은 시간 당 노폐물의 청소율은 혈액투석보다 떨어지지만 혈액투석이 하루 중 4시간 정도만 실시할 수 있는데 반해, 지속적 신대치요법(CRRT)은 24시간 투여가 가능해서 결과적으로는 청소할 수 있는 노폐물의 양이 혈액투석보다 많습니다. 또한 심혈관계 기능이 불안정한 환자도 사용이 가능하고 필터 구멍의 크기가 커서 비교적 분자량이 큰 물질과 수액의 제거가 용이한 점, 투석의 효율을 높이기 위한 보충액의 투여도 가능하다는 장점을 가지고 있습니다. 따라서 다음과 같은 환자들에도 적용할 수 있습니다. 
+˚ 저혈압을 보이는 심부전, 패혈증, 간부전, 다장기부전 환자
+˚ 뇌압이 상승하는 간부전, 뇌졸중, 두부 외상 및 뇌부종 환자
+˚ 패혈증, 다장기 부전 및 광범위 한 화상 환자
+˚ 심한 과잉 체액 상태를 보이는 환자
+˚ 수술 중 다량의 수혈을 요구하는 간 이식 환자
+˚ 수술 중 섬세한 체액 조절이 필요한 말기 및 만성 신부전 환자의 관상동맥 수술 
+하지만 지속적으로 항응고제의 투여를 필요로 하고 별도의 장비, 인력이 필요하므로 고비용이라는 단점이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

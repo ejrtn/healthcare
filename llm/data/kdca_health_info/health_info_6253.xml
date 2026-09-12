@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[기침(성인)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6253]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 기침은 기도 내 유해물질을 제거하는 정상적인 방어 작용이지만, 다양한 질환에서 흔히 나타나는 증상입니다.
+• 유병률은 연구에 따라 차이가 있으며, 만성 기침은 약 2~9% 정도에서 보고됩니다.
+• 기침은 지속 기간에 따라 3주 미만의 급성, 3~8주의 아급성, 8주 이상의 만성 기침으로 구분합니다.
+• 급성 기침은 감기나 급성기관지염이, 아급성 기침은 감염 후 기침이 흔한 원인입니다.
+• 만성 기침은 상기도기침증후군, 기침형 천식, 위식도역류질환 등이 주요 원인입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기침은 유해물질이 기도 내로 들어오는 것을 방지하고, 폐와 기관지의 분비물을 제거하는 정상적인 신체방어 작용입니다. 그러나 기침은 병원에 오는 환자들이 가장 많이 호소하는 증상 중의 하나입니다. 기침은 다양한 호흡기질환의 주된 증상이며, 감염질환의 전파경로가 되기도 합니다.
+기침의 유병률은 9~33%로, 기침의 지속기간, 연구 집단, 지역사회, 계절 및 정보 수집방법 등에 따라 다양하게 나타납니다. 국민건강영양조사 자료를 토대로 한 연구에 따르면, 일반 성인 인구에서 급성 또는 아급성 기침의 시점 유병률은 각각 2.5%, 0.8%였습니다. 만성 기침의 유병률은 2.2%~9.3%로 보고되고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[161]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기침은 원인이 다양하기 때문에 원인 진단을 위해서는 기침의 지속 기간에 따른 분류가 중요합니다. 급성 기침은 3주 미만, 아급성 기침은 3~8주, 만성 기침은 8주 이상 지속되는 기침으로 정의합니다.
+• 급성 기침: 3주 미만의 기침으로, 상기도감염 및 급성기관지염이 가장 흔한 원인입니다.
+• 아급성 기침: 3주 이상 8주 미만 지속되는 기침으로, 감염 후 기침이 가장 흔한 원인이며 감염 후 기관지과민성이 지속되어 발생합니다.
+
+• 만성 기침: 8주 이상 지속되는 기침으로, 상기도기침증후군, 기침형 천식, 위식도역류질환이 가장 흔한 원인이지만 원인을 찾을 수 없는 경우도 많습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[기침의 지속 기간에 따른 원인질환은 다음과 같습니다. 그러나 다양한 원인으로 기침이 발생하기 때문에 진단하는데 한계가 있습니다.
+
+
+1. 급성 기침(3주 미만)
+1) 상기도감염(감기)
+200여 가지 이상의 바이러스가 상기도감염을 일으킬 수 있으며, 라이노바이러스(rhinovirus), 코로나바이러스(coronavirus), 파라인플루엔자(parainfluenza) 바이러스, 호흡기세포융합바이러스(respiratory syncytial virus), 인플루엔자(influenza) 바이러스, 아데노바이러스(adenovirus), 엔테로바이러스(enterovirus) 등이 대표적입니다. 감기에 걸린 후 2일 이내에 83%의 사람들에서 기침이 발생하며, 14일째에는 26%에서 여전히 기침을 하지만, 3주 정도 되면 대부분 없어집니다.
+콧물, 코막힘, 후비루, 재채기, 인후 자극 등의 상기도증상과 발열이나 전신쇠약감, 근육통 같은 전신증상이 발생할 수 있습니다.  감기로 인한 기침은 후비루나 상부호흡기의 기침 반사가 자극되어서 나옵니다. 감기는 바이러스에 의한 것으로, 저절로 좋아지는 경우가 대부분이므로 원인에 대한 특별한 치료는 필요 없고, 증상 완화를 위한 대증요법을 시행합니다.
+
+2) 급성기관지염
+인플루엔자(Influenza) 바이러스, 파라인플루엔자(parainfluenza) 바이러스, 호흡기세포융합바이러스(respiratory syncytial virus), 아데노바이러스(adenovirus) 감염이 가장 흔하고, 이차적으로 세균감염이 10% 미만에서 발생할 수 있습니다. 또한 찬공기, 먼지, 기도 자극물질, 유해가스 등 비감염성 원인도 있습니다. 흔히 상기도감염 후 기침이 발생하고, 진행하면서 객담(혹은 화농성 객담)이 동반되기도 합니다. 대부분 자연적으로 회복되나 기침과 객담(가래)이 2~3주간 지속될 수 있습니다. 
+급성기관지염은 점막손상 및 염증성 매개인자 등이 복합적으로 관여하여 일시적인 기도폐쇄나 기관지 과민성을 유발할 수 있습니다. 급성기관지염은 임상적으로 진단하지만, 3주 이상 지속되는 경우에는 천식 등의 다른 질환을 고려해야 합니다.
+
+3) 알레르기비염
+알레르기비염은 기침과 함께 맑은 콧물, 코막힘, 코 및 눈 주위의 가려움증이 주증상입니다. 심한 경우에는 눈부심, 과도한 눈물, 전두통(이마두통) 등의 증상이 동반되기도 합니다. 집먼지진드기, 꽃가루나 동물의 털과 같은 특정 알레르기 항원에 의해 유발되며, 이러한 항원에 대한 과민성은 유전적 경향이 있습니다. 
+코 안을 진찰해보면 점막이 부어 있고, 창백하며, 물 같거나 끈적한 분비물이 고여 있는 것을 볼 수 있습니다. 농성 분비물이 있으면 이차감염으로 인한 부비동염으로 생각하고, 이를 같이 치료하여야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d6e38]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4) 급성 세균성 부비동염
+급성 세균성 부비동염은 코 안에 뼛속 공간인 부비동으로 통하는 작은 구멍이 막혀서 부비동이 제대로 환기 및 배설이 되지 않아 이차적으로 부비동에 염증이 발생하고 농성 분비물이 고여서 염증이 심해지는 상태를 말합니다. 기침, 누런 콧물, 코막힘, 안면부 통증이 나타나면 이 질환을 의심해 볼 수 있습니다. 감기 증상이 평소보다 오래 지속되고 맑았던 콧물이 누렇거나 연두색으로 변하며, 발열 및 오한이 날 수도 있습니다. 또한 안면부 통증과 더불어 치통이 발생할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d6c15]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 아급성 기침(3주~8주)
+1) 감염 후 기침(post-infectious cough) 
+감염 후 기침은 폐렴 등의 합병증 없이 급성 호흡기 감염 후에 기침 증상이 지속적으로 유발되는 경우를 총칭합니다. 감염 후 기침은 바이러스에 의한 상기도 감염 후에 가장 흔히 발생하며, 기도염증 및 이와 동반된 기도과민증, 객담분비 증가, 점액 섬모기능 장애, 코와 부비동의 염증에 의한 후비루, 심한 기침으로 인한 위식도역류 악화 등 다양한 병리기전에 의해 발생됩니다. 
+후비루(postnasal drip) 증상이 있거나 목의 가래를 자주 뱉어 내는 경우에는 항히스타민제와 함께 울혈제거제, 거담제 등을 복용할 수 있습니다. 이렇게 1주 이상 치료하였음에도 증상이 좋아지지 않는다면 부비동염이 동반되었는지 확인해야 합니다.   
+
+
+2) 아급성 세균성 부비동염
+부비동 방사선검사에서 부비동 점막이 두꺼워져 있거나 기수위(air-fluid level), 혼탁(opacities) 등이 있을 때 이 질환을 의심해 볼 수 있습니다. 항히스타민, 울혈제거제, 항생제를 복용하면 기침 증상이 호전됩니다.
+
+
+3. 만성 기침(8주 이상)
+8주 이상 지속되는 기침을 만성 기침이라 합니다. 만성 기침은 대부분 상기도기침증후군, 기침형 천식, 호산구기관지염 및 위식도역류에 의한 것입니다. 이외에도 만성 기관지염, 기관지 확장증, 드물게는 폐암, 심인성 기침 등이 원인이 되기도 합니다.
+국내의 기침설문연구 결과에 따르면, 만성 기침의 원인 중 상기도기침증후군이 절반 이상이었으며, 기침형 천식, 위식도역류질환, 호산구기관지염 순서의 빈도였습니다.
+
+1) 상기도기침증후군(Upper airway cough syndrome) 
+상기도기침증후군은 만성 기침의 가장 흔한 원인으로 주로 감염, 알레르기비염, 혈관운동비염, 비알레르기호산구성비염, 만성 세균성 부비동염 등과 연관되어 발생합니다. 상기도기침증후군의 진단은 분비물이 목 뒤로 넘어가는 증상, 비루(콧물), 코를 입으로 빨아들여 내뱉는 등의 증상이 있거나, 진찰소견 상 인후에 분비물이 있거나 점막이 자갈모양을 보이는 경우에 의심할 수 있습니다. 부비동 방사선검사를 통해 기수위(air-fluid level), 혼탁(opacities), 점막 비후 소견이 있는 경우 진단에 도움이 됩니다.
+치료는 대부분 약물치료에 효과가 좋으며, 계절과 상관없이 통년성으로 발생하는 비염이나 바이러스 감염 후에 생긴 상기도기침증후군이라면 항히스타민제와 비충혈제를 복용합니다. 알레르기비염이 있는 경우에는 국소 스테로이드제제나 크로몰린제제를 사용할 수 있으며, 2세대 항히스타민제도 효과가 있습니다. 혈관운동비염의 경우에는 항히스타민제 및 울혈제거제를 사용해 볼 수 있고, 이프라트로피움 브로마이드(ipratropium bromide)가 도움이 될 수 있습니다. 만성 부비동염이 있는 경우에는 항생제와 항히스타민제, 울혈제거제를 복용할 수 있습니다.
+
+2) 기침형 천식(Cough variant asthma) 
+전형적인 기관지천식은 기침, 호흡 곤란 및 천명(쌕쌕거리는 소리) 등의 증상이 함께 나타납니다. 그러나 증상이 기침만 나타나는 천식을 기침형 천식이라고 하며, 만성 기침 환자의 약 30~40%를 차지합니다. 기침은 대개 건성이며 발작적입니다. 감기나 원인 알레르기에 노출시 기도 염증이 악화되거나 담배 연기, 자극적인 냄새, 운동, 에어컨 같은 찬 공기에 노출될 때도 악화될 수 있습니다. 
+가장 효과적인 약제는 스테로이드제제로, 대개는 흡입형으로 충분한 효과를 볼 수 있습니다.
+
+3) 위식도역류질환(Gastroesophageal reflux disease) 
+위식도역류는 서양에서는 만성 기침 환자의 10-20%를 차지하고 있지만 우리나라를 포함한 동아시아권에는 빈도가 상당히 낮습니다. 역류감, 속쓰림, 신맛, 흉통 등의 위역류 증상없이 만성 기침이 유일한 증상인 경우도 50-75%에 이릅니다.
+
+위식도역류에 의해 식도하부 점막에 분포해 있는 기침수용체가 자극되어 기침이 발생합니다. 역류로 인한 기침이 의심되는 모든 환자에게는 생활습관교정을 권장합니다.
+과체중 또는 비만에 해당되는 환자에게는 체중감량을 위한 식생활습관을 개선하도록 교육합니다. 수면시 높은 베개를 사용하도록 하고, 취침 3시간 전부터는 음식을 먹지 않도록 합니다. 위식도역류를 유발하거나 악화시킬 수 있는 커피, 차, 탄산음료, 초콜릿, 민트, 음주, 과량의 지방 섭취, 흡연을 자제해야 합니다.
+속쓰림과 역류증상을 호소하는 역류성 기침 환자에게는 증상조절을 위해 1차 약물로 프로톤펌프억제를 처방합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d6ee9]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4) 호산구기관지염 
+만성 기침 환자에서 기침 외에 다른 증상이 없고, 가역적인 기도폐쇄가 없으며, 기도과민성은 없지만 객담(가래)에서 호산구증가증이 있으면 호산구기관지염으로 진단할 수 있습니다. 따라서 다른 치료에 반응이 없거나 부분적으로만 반응이 있는 경우 반드시 고려해야 할 진단입니다. 호산구기관지염의 원인은 확실하지 않지만, 흡입성 알레르기 항원이나 직업적 자극원의 노출과 연관이 있을 것으로 생각됩니다. 치료는 천식처럼 흡입성 스테로이드제제를 이용한 항염증치료를 하며, 치료 반응은 증상의 호전과 함께 유도객담검사에서 호산구 수치의 감소로 평가할 수 있습니다.
+
+
+5) 만성기관지염
+만성기관지염은 3개월 이상 객담을 동반하는 기침이 2년 이상 연속되는 상태를 의미합니다. 장기간 담배연기, 공해물질, 독성물질 등의 자극제에 노출되어 기관지에 염증이 생기고 만성적인 객담과 기침이 발생합니다. 흡연자의 경우 만성기관지염이 가장 흔한 기침의 원인이므로, 담배를 끊는 것이 가장 효과적인 치료법이며 약 90%의 환자에서 기침증상이 좋아집니다. 담배를 피우지 않는 경우에는 간접흡연, 공해물질 및 독성물질의 노출 여부를 확인해야 하며, 노출력이 있을 경우에는 이를 피하는 것이 가장 중요합니다.
+
+6) 약제에 의해 유발되는 기침
+만성 기침을 유발할 수 있는 약제로 안지오텐신전환효소억제제(고혈압약)와 DPP4 억제제(당뇨약)가 알려져 있습니다. 지속적으로 마른기침이 발생하며, 목이 간질거리거나 긁히는 느낌을 동반합니다. 기침은 일반적으로 복용 시작 후 수 주 후에 발생하는 경우가 많으며, 기침이 없던 환자도 상기도감염 등으로 기침이 유발되어 지속될 수 있습니다. 안지오텐신전환효소억제제로 인한 기침의 가장 효과적인 치료는 해당 약제를 중단하는 것입니다. 일반적으로 약제 중단 후 1~4주 내에 기침이 사라지지만, 일부 환자에서는 3개월 이상 지속될 수 있습니다.
+
+
+7) 코로나 감염 후 기침 (post-COVID cough)
+다양한 코로나바이러스의 변이를 거치면서 증상 발현의 기간과 중등도에는 차이가 있지만, 공통적으로 기침이 가장 흔한 증상이며, 감염 후 시간이 지나면서 빈도가 감소하는 경향을 보입니다. 우리나라 코로나 환자를 대상으로 한 연구에서 기침이 1년 이상 지속되는 경우도 있었습니다. 코로나 감염으로 인한 기침이라고 해서 특별한 치료를 하는 것은 아닙니다. 지금까지 발간된 기침 진료지침에 따라서 치료를 하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[175]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 감기 기침이 심해지면 천식이 되나요?
+
+A. 어릴 적 호흡기감염은 기관지천식 발생을 억제시키거나 또는 증가시키기도 한다고 알려져 있습니다. 그 이후 소아나 성인에서의 호흡기감염이 천식을 악화시킨다고는 알려져 있지만, 천식을 유발한다는 근거는 아직은 부족합니다. 즉, 감기 기침이 심해지면 천식이 되는 것은 아닙니다. 하지만 반대로 천식 증상을 단순한 감기가 반복되는 것으로 오인할 수 있습니다.
+
+Q. 기침이 생길 때마다 기침약을 꼭 먹어야 하나요?
+
+A. 기침은 기간에 따라 급성, 아급성, 만성으로 나뉘며, 원인들도 매우 다양합니다. 급성인 경우 감기가 대부분이며, 특별한 치료 없이도 저절로 호전되는 경우가 많습니다. 만성기침의 경우에도 그 원인을 정확히 진단하고 원인 치료를 하는 것이 가장 중요하므로, 단순히 대증요법을 통한 기침 완화는 바람직하지 않습니다. 다만 만성기침의 원인이 뚜렷하지 않거나 원인질환에 대한 경험적 치료에 반응이 적을 경우 대증적 치료를 병행하기도 합니다.
+
+Q. 기침이 있을 때 언제 큰 병원에 내원해야 하나요?
+
+A. 기침은 그 원인이 매우 다양합니다. 급성의 경우 대부분 저절로 좋아져 특별히 큰 병원에서 진료를 받을 필요가 없을 수 있습니다. 그러나 경고증상이 있는 경우는 꼭 병원에 내원해야 합니다. 즉, 기침에 동반된 객혈, 농성 객담, 체중 감소, 야간 발한, 면역억제자, 증상 조절이 잘 되지 않는 경우, 원인이 불분명할 때 등은 병원에 내원하여 기침의 원인을 확인하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Irwin, R. S., et al. (2014). Overview of the management of cough: CHEST Guideline and Expert Panel Report. Chest, 146(4), 885-889.
+2. Chung, K. F. &amp; Pavord, I. D. (2008). Prevalence, pathogenesis, and causes of chronic cough. Lancet, 371(9621), 1364-1374.
+3. Song, W. J., et al. (2015). The global epidemiology of chronic cough in adults: a systematic review and meta-analysis. Eur Respir J, 45(5), 1479-1481.
+4. Latti, A. M., Pekkanen, J., &amp; Koskela, H. O. (2018). Defining the risk factors for acute, subacute and chronic cough: a crosssectional study in a Finnish adult employee population. BMJ Open, 8(7), e022950.
+5. Kang, M. G., et al. (2017). Point prevalence and epidemiological characteristics of chronic cough in the general adult population: The Korean National Health and Nutrition Examination Survey 2010-2012. Medicine (Baltimore), 96(13), e6486.
+6. Koo, H. K., et al. (2016). Prevalence of chronic cough and possible causes in the general population based on the Korean National Health and Nutrition Examination Survey. Medicine (Baltimore), 95(37), e4595.
+7. Song, W. J., et al. (2013). Cough in the elderly population: relationships with multiple comorbidity. PLoS One, 8(10), e78081.
+8. Shin, C., et al. (2004). Respiratory symptoms and undiagnosed airflow obstruction in middle-aged adults: the Korean Health and Genome Study. Chest, 126(4), 1234-1240.
+9. McGarvey, L., et al. (2009). Are there clinical features of a sensitized cough reflex?. Pulm Pharmacol Ther, 22(2), 59-64.
+10. Mossad, S. B., et al. (1996). Zinc gluconate lozenges for treating the common cold. A randomized, double-blind, placebo-controlled study. Ann Intern Med, 125(2), 81-88.
+11. Lu, Y., et al. (2013). Viral aetiology in adults with acute upper respiratory tract infection in Jinan, Northern China. Clin Dev Immunol, 2013, 869521.
+12. Kim, J. M., et al. (2018). Nation-wide surveillance of human acute respiratory virus infections between 2013 and 2015 in Korea. J Med Virol, 90(7), 1177-1183.
+13. Ahn, K. M., et al. (1999). Clinical characteristics of acute viral lower respiratory tract infections in hospitalized children in Seoul, 1996-1998. J Korean Med Sci, 14(4), 405-411.
+14. Thiadens, H. A., et al. (2000). Asthma in adult patients presenting with symptoms of acute bronchitis in general practice. Scand J Prim Health Care, 18(3), 188-192.
+15. Jonsson, J. S., et al. (1998). Acute bronchitis and clinical outcome three years later: prospective cohort study. BMJ, 317(7170), 1433.
+16. An, T. J., et al. (2020). Cough Study Group of the Korean Academy of Tuberculosis and Respiratory Diseases. Clinical Characteristics of Chronic Cough in Korea. Tuberc Respir Dis (Seoul), 83(1), 31-41.
+17. Global Initiative for Asthma. (2019). Global strategy for asthma management and prevention. Global Initiative for Asthma. Available from: https://ginasthma.org/.
+18. Kiljander, T. O., et al. (2000). Chronic cough and gastro-oesophageal reflux: a double-blind placebo-controlled study with omeprazole. Eur Respir J, 16(4), 633-638.
+19. Katz, P. O., Gerson, L. B., &amp; Vela, M. F. (2013). Guidelines for the diagnosis and management of gastroesophageal reflux disease. Am J Gastroenterol, 108(3), 308-328.
+20. McGarvey, L. P., et al. (1998). Evaluation and outcome of patients with chronic non-productive cough using a comprehensive diagnostic protocol. Thorax, 53(9), 738-743.
+21. Belda, J., et al. (2000). Induced sputum cell counts in healthy adults. Am J Respir Crit Care Med, 161(2 Pt 1), 475-478.
+22. Kanner, R. E., et al. (1999). Effects of randomized assignment to a smoking cessation intervention and changes in smoking habits on respiratory symptoms in smokers with early chronic obstructive pulmonary disease: the Lung Health Study. Am J Med, 106(4), 410-416.
+23. Wynder, E. L., Kaufman, P. L., &amp; Lesser, R. L. (1967). A short-term follow-up study on ex-cigarette smokers. With special emphasis on persistent cough and weight gain. Am Rev Respir Dis, 96(4), 645-655.
+24. Israili, Z. H. &amp; Hall, W. D. (1992). Cough and angioneurotic edema associated with angiotensin-converting enzyme inhibitor therapy. A review of the literature and pathophysiology. Ann Intern Med, 117(3), 234-242.
+25. Lacourciere, Y., et al. (1994). Effects of modulators of the renin-angiotensin-aldosterone system on cough. Losartan Cough Study Group. J Hypertens, 12(12), 1387-1393.
+26. Dicpinigaitis, P. V. (2006). Angiotensin-converting enzyme inhibitor-induced cough: ACCP evidence-based clinical practice guidelines. Chest, 129(1 Suppl), 169S-173S.
+27. Song, W. J., et al. (2021). Confronting COVID-19-associated cough and the post-COVID syndrome: role of viral neurotropism, neuroinflammation, and neuroimmune responses. Lancet Respir Med, 9(5), 533-544.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

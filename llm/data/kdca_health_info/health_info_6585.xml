@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[독성 간 손상]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6585]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 독성 간 손상은 약물, 건강보조제 또는 화학물질 등에 의해 발생하는 간 손상을 의미합니다.
+• 무증상일 수 있으며, 경우에 따라 급성 간염의 다양한 증상을 나타낼 수 있습니다.
+• 원인 물질의 복용 이력이 있고, 혈액검사에서 간기능 이상이 확인되며, 다른 원인이 배제되었을 때 독성 간 손상으로 진단할 수 있습니다.
+• 가장 중요한 치료는 원인 물질의 즉각적인 중단이며, 대부분의 경우 간 기능은 정상으로 회복됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[간은 우리가 섭취하는 모든 음식물로부터 얻은 성분을 영양분으로 변환하여 몸에 공급하며, 필요하지 않거나 해로운 성분을 분해, 해독하고 배출하는 역할을 담당하는, 이른바 '우리 몸의 화학공장'입니다. 간은 알부민을 포함한 다양한 단백질과 혈액응고인자, 콜레스테롤의 합성, 탄수화물 및 아미노산의 대사, 혈당 조절, 면역 기능 조절 등 우리 몸의 필수적인 역할을 수행합니다. 우리가 질병을 치료하기 위해 복용하는 대부분의 약물은 간에서 대사됩니다. 많은 경우 약물과 음식물은 간에서 안전하게 대사되어 몸 밖으로 배출되지만, 간 대사 과정 중 일부 물질은 간 손상을 초래할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22fb67]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22fbd1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우리 몸에 들어온 약효 성분과 영양 성분은 대부분 간에서 대사 및 전환 과정을 거쳐야 비로소 체내에서 작용할 수 있습니다. 이 과정은 화학적으로 매우 복잡한데, 특정 약물이나 음식물의 대사/전환 과정이 간이 감당할 수 있는 한계를 넘어서거나 중간대사물질이 독성 물질로 작용하게 되면 독성 간 손상이 발생할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22fc54]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우리나라에서 발생하는 독성 간 손상의 원인은 약물, 한약, 건강보조제, 민간요법 등으로 보고되고 있습니다.
+독성 간 손상은 몸에 들어오는 독소의 양이 많아지면 누구에게나 발생하는 직접 독소형 간 손상과, 같은 약을 섭취해도 특정 개인에서만 간 손상이 발생하는 과민 반응형 간 손상으로 나뉩니다.
+직접 독소형 간 손상은 잠복기가 수일로 짧아 약물 복용 후 바로 간 손상이 나타나는 경우가 많으며, 독성 발생에 개인차가 적고, 같은 약물을 다시 복용하면 재현될 가능성이 높습니다. 직접 독소형 간 손상을 일으키는 대표적인 약물은 아세트아미노펜으로, 통상적인 용량에서는 간 손상이 없으나, 과량 복용 시 간 손상을 일으킬 수 있습니다.
+반면에 과민 반응형 간 손상은 잠복기가 수일에서 수개월까지 다양하며, 독성 발생에 개인차가 있고, 재현 가능성이 적습니다. 과민 반응형 간 손상은 중간대사물질이 특이하게 독성 물질로 작용하여 발생하는 경우가 많은데, 대표적인 약물로는 결핵약 중 하나인 아이소나이아지드가 있습니다.
+우리나라에서는 독성 간 손상의 가장 흔한 원인으로 약물, 한약, 건강보조제, 민간요법 등 네 가지가 있습니다. 약물은 임상시험을 거치기 때문에 간 손상의 위험성이 비교적 잘 알려져 있습니다. 의사로부터 처방 받아 복용하는 약 중에서 독성 간 손상을 일으킬 수 있는 대표적인 약물로는 항생제, 항진균제(무좀약), 결핵약(아이소나이아지드), 진통소염제 등이 있습니다. 따라서 이들 약물을 복용할 때는 독성 간 손상의 발생 여부를 세심히 관찰하고, 필요한 경우 추적 검사를 시행해야 합니다. 또한 모든 약제를 복용할 때는 반드시 필요한 약제만 적절한 용량과 기간 동안 섭취해야 합니다. 치료를 위해 복용한 약물이라도 용량이 부적절한 경우 독성을 유발할 수 있으며, 때로는 용량과 무관하게 간 손상이 발생할 수 있기 때문입니다.
+약용작물이나 건강보조제, 민간요법은 임상시험을 거치지 않은 경우가 많아 간독성 여부가 명확하지 않은 경우가 많습니다. 따라서 복용하기 전에 복용이 정말 필요한지, 현재 상황에서 최선의 선택인지, 부작용 위험이 약효보다 훨씬 적은지 고려해야 합니다. 독성 간 손상을 일으킨 것으로 보고된 민간요법으로는 떡갈나무덤불, 겨우살이, 골무꽃, 용담, 컴프리, 백선(봉삼), 개암풀, 마황, 인진쑥 등이 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22fcd7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[경과 및 예후]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[105]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[독성 간 손상이 발생했을 때, 원인 약물의 복용을 중단하는 것이 최우선입니다. 대부분의 경우, 원인 약물을 중단하면 간기능이 정상으로 회복됩니다. 그러나 간 손상이 심각해지면 환자의 의식이 변화하는 간성 뇌증이 발생할 수 있으며, 이를 급성 간부전이라고 합니다. 급성 간부전은 예후가 매우 나쁘며, 응급 간 이식이 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[독성 간염의 발생률은 정확히 파악하기 어렵지만, 프랑스에서는 연간 10만명당 14명, 아이슬란드에서는 19명이 발생한다고 보고되었습니다. 우리나라의 경우, 연구에 따르면 연간 10만 명당 약 12명 정도가 독성 간염에 걸리는 것으로 추산됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[독성 간 손상은 무증상부터 경미한 간염, 급성 간부전증까지 다양한 임상 양상으로 나타날 수 있습니다. 주요 증상으로는 바이러스 간염과 유사한 오심, 구토, 식욕부진, 피곤함, 황달, 그리고 우상복부 통증이 포함됩니다. 또한 드물게 피부 발진, 관절통, 발열 등의 증상이 동반될 수 있습니다. 
+심한 간 손상이 발생하면 황달, 복수, 간성 뇌증과 같은 증상이 나타날 수 있으며, 이러한 경우 즉각적인 응급 조치가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[독성 간 손상을 진단하는 것은 복잡하고 어려운 과정입니다. 특별히 독성 간 손상에만 해당하는 특이적 진단 지표가 없기 때문에, 다른 원인을 철저히 배제하고 나서야 진단할 수 있습니다. 원인 물질 노출력, 임상증후, 검사 소견, 의심되는 물질의 복용을 중단한 후 간 손상이 호전되는 정도 등을 종합하여 진단합니다. 증상 발현 1개월 이내에 복용한 약제가 진단에 가장 중요합니다. 처방 약물 외에도 건강보조제, 엑기스, 즙 등의 복용 여부를 확인해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22fd61]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[간질환은 초기에는 증상이 없거나 비특이적 증상(피로, 식욕부진, 소화불량 등)만 나타나는 경우가 많습니다. 간 손상이 상당히 진행된 후에야 황달, 복수와 같은 특이적 증상이 나타난다는 점이 간질환의 중요한 특징입니다. 독성 간 손상 역시 증상만으로는 진단이 어렵습니다. 간질환(또는 간 손상)을 진단하는 데 가장 널리 사용하는 검사는 AST(SGOT)나 ALT(SGPT)를 포함하는 간기능검사(혈액검사)입니다. 간기능검사는 항목마다 의미가 조금씩 다르며, 한 가지 항목을 한 번 보고 판단하기보다 종합적으로 평가해야 합니다. 예컨대 AST 및 ALT는 간세포 내에 존재하는 효소로, 간세포가 손상되면(소위 간세포가 깨지면서) 혈액으로 방출되어 수치가 상승합니다. 마찬가지로 ALP(Alkaline Phosphatase) 및 GGT(gamma-glutamyl transferase)는 담관세포가 손상되거나 담즙이 배출되는 담도가 정체 혹은 폐쇄되었을 때 상승합니다. 간 손상이 심하면 간에서의 분비 기능을 반영하는 빌리루빈이 상승하여 황달이 발생하고, 간의 단백질 합성 기능을 반영하는 혈청 알부민 수치가 감소하며, 간의 혈액응고인자 합성기능을 나타내는 프로트롬빈 타임(prothrombin time, PT)이 길어집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22fde4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[아세트아미노펜(타이레놀) 중독 시에는 해독제를 사용하기도 하며, 독성 간손상의 치료를 위해 경우에 따라 스테로이드를 쓰기도 합니다. 하지만 대부분의 독성 간 손상은 해독제가 존재하지 않습니다. 치료의 원칙은 의심되는 물질을 찾아 최대한 빨리 중단하고, 간 손상에 대한 보존적인 치료를 하는 것입니다. 아주 심한 독성 간 손상이 발생하여 생명이 위독한 경우에는 간 이식이 유일한 치료 방법이 될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[독성 간 손상을 예방하기 위해서는 약물뿐만 아니라 한약, 건강보조제, 민간요법, 생약 등 다양한 외부 물질이 간 손상을 일으킬 수 있다는 점을 항상 염두에 두어야 합니다. 여러 연구에 따르면, 시판되는 약물의 절반 이상에서 간 관련 부작용이 보고된 바 있습니다. 
+그러므로 모든 약물은 효능뿐만 아니라 부작용에 대해서도 신중히 고려해야 합니다. 전문의가 처방한 약물 외에 불필요한 약제의 사용을 자제하고, 한의원을 통하지 않고 비공식적인 경로로 구입한 한약이나 건강보조제, 민간요법을 되도록 피해야 합니다. 다시 말해, 모든 약은 꼭 필요할 경우에만 복용해야 합니다. 우리나라에서는 건강을 기원하며 약을 선물하는 경우가 많은데, 간 건강을 위해서는 한 번 더 생각할 필요가 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=176cbf22fee1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[118]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[특히, 기저 간 질환(바이러스 간염, 알코올성 간염, 간경변증 등)을 가진 환자들이 간 기능 회복이나 개선을 위해 다양한 건강보조제를 복용하는 경우가 많지만, 주의가 필요합니다. 
+현재까지의 연구나 보고서에 따르면, 시중에서 구입 가능한 건강보조제가 간 기능을 호전시킨다고 입증된 사례는 없으며, 검증되지 않은 약물이나 건강보조제를 복용하면 오히려 급격한 간 손상을 초래하거나 기존의 간 질환을 악화시킬 위험이 존재합니다. 이런 상황에서 무분별한 약제나 건강보조제 사용은 피해야 하며, 대신 간 질환에 맞는 적절한 치료제를 전문가의 지시에 따라 꾸준히 복용하는 것이 중요합니다. 또한 새로운 약물을 복용해야 할 경우, 반드시 담당 의사와 상의하는 것이 바람직합니다. 간 건강에 대한 관심은 중요하지만, 검증되지 않은 방법으로 간을 보호하려다 오히려 건강을 해칠 수 있습니다. 전문가의 조언을 따르고 적절한 치료를 받는 것이 간 건강을 지키는 가장 안전하고 효과적인 방법입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 독성 간 손상이 발생하면 어떤 증상이 생기나요?
+
+A. 독성 간 손상은 대부분 증상이 없는 경우가 많습니다. 증상이 있더라도 간질환에서만 나타나는 특별한 증상이 아닌 피로감, 식욕부진 등(비특이적인 증상)으로 나타나는 경우가 많으며, 특이한 증상으로 알려진 황달이나 복수는 간 손상이 매우 심각하게 진행된 경우에만 나타나게 됩니다. 그러므로, 증상만으로 간 손상을 파악하는 것은 매우 어렵습니다.
+
+Q. 의사의 처방을 받아 약을 복용하는 경우에도 독성 간 손상이 오나요?
+
+A. 네. 그렇습니다. 모든 약물에는 약효뿐만 아니라 부작용도 동반될 수 있습니다. 또한 독성 간 손상을 전혀 일으키지 않는 약물은 거의 없다고 봐야 합니다. 그래서 의사들은 약물을 처방할 때 약효는 물론 부작용에 대해서도 신중하게 고려합니다. 독성 간 손상이 드물지 않게 발생한다고 알려진 약물을 처방할 때는 특히 그렇습니다. 예를 들어, 결핵약을 처방할 때는 결핵 치료 효과뿐만 아니라, 결핵약에 의한 부작용, 특히 독성 간 손상이 발생할 가능성도 염두에 둡니다. 마찬가지로, 먹는 무좀약이나 신경정신 계통의 약물도 부작용이 나타날 수 있어, 의사는 그 약물이 꼭 필요한지, 그 약물의 투여가 현재 상황에서 선택할 수 있는 최선인지를 살피고, 부작용에 대한 위험이 환자가 얻을 수 있는 약효보다 훨씬 적다고 판단할 때 비로소 처방을 하게 됩니다. 그런 경우에도 독성 간 손상 등 예기치 않은 부작용이 발생할 수 있습니다.
+
+Q. 한약에는 독성이 없다고 하는데 한약으로도 독성 간 손상이 오나요?
+
+A. 네. 물론입니다. 의사가 처방하는 약도 독성 간 손상을 일으킬 수 있지만, 한의사가 처방하는 한약도 독성 간 손상을 일으킬 수 있습니다.
+
+Q. 건강보조제나 녹즙, 민간요법으로도 독성 간 손상이 오나요?
+
+A. 우리나라 뿐만 아니라 세계 여러 나라에서 다양한 건강보조제, 녹즙, 민간요법 등에 의해 독성 간 손상이 발생하는 것으로 보고되고 있습니다. 예를 들면, 백선(봉삼), 개암풀 등 민간요법으로 인한 독성 간 손상은 널리 알려져 있으며, 체중감량 목적으로 여러 가지 약용작물을 복합하여 만든 중국산 건강보조제에 의해 독성 간 손상이 대량 발생하여 사회적으로 큰 문제가 된 적이 있습니다. 또, 프랑스를 비롯한 유럽 지역에서 민간요법으로 사용해 오던 개불알꽃(germander)이 대량 사고를 일으킨 적이 있는데, 우리나라에서 약용작물로 쓰이는 황금, 곽향, 개곽향 등은 이 개불알꽃과 가까운 근연종(近緣種)입니다. 또, 미국에서도 독성 간 손상이 문제되어 중국산 마황(ma-huang)의 미국 내 사용금지 조치를 하기도 했습니다. 한국에서 만성 간질환에 가장 많이 사용되는 식물 중 하나가 인진쑥(茵蔯蒿)입니다. 한국에서 일컫는 인진쑥은 더위지기(Artemisia iwayomogi)를 의미하고, 일본에서 일컫는 inchinkoto는 사철쑥(Artemisia capillaris)을 의미하며, 중국에서는 더위지기와 사철쑥을 모두 인진호(茵蔯蒿)라고 하는데, 이 인진쑥에 의한 독성 간 손상 또한 잘 알려져 있습니다.
+
+Q. 간질환이 있는 사람이 간질환의 치료에 도움이 되기 위해 복용하는 경우에도 독성 간 손상이 일어나나요?
+
+A. 네. 안타깝게도 그런 사례가 드물지 않습니다. 간질환을 이미 앓고 있는 환자에게는 독성 간 손상의 위험이 일반인보다 높고, 중한 합병증이 더 빈번하다고 알려져 있습니다. 자식들이 부모님의 간질환을 염려하여 병의 치료에 도움을 드리겠다는 좋은 뜻으로 사다 드린 약, 건강보조제, 민간요법으로 오히려 간질환이 악화되는 경우가 많이 있습니다. 이제는 우리도 약을 선물하는 위험한 관습을 빨리 버려야 하겠습니다. 간질환이 있는 경우에는 반드시 전문의와의 상담을 통해 필요한 경우에 정해진 약물만을 복용하도록 해야 합니다.
+
+Q. 복용 중인 약에 대한 정보는 어디서 알 수 있나요? 
+
+A. 약학정보원 홈페이지(https://www.health.kr/)에서 검색이 가능합니다. 
+
+Q. 복용 중인 약물이 많은데, 간 손상이 발생할지 걱정됩니다. 
+
+A. 국민건강보험공단에서는 다제약물 관리사업을 통해 약물의 중복, 과다·과소 복용을 줄이기 위한 전문가의 약물 점검, 상담, 처방 조정 등 맞춤형 서비스를 제공하고 있습니다. 의약전문가(의사, 약사, 간호사)의 가정방문, 약국상담, 유선상담 등을 통한 복용 약 점검 및 약물 상담, 상담의견서 전달, 모니터링 등을 시행하고 있습니다. 65세 이상 건강보험 가입자 중에서 만성질환을 1개 이상 진단받고 지속적으로(6개월간 투약일수가 60일 이상) 복용하는 약물 성분이 10개 이상인 환자 또는 5종 이상 약물을 복용하면서 고위험 약물 복용 등 다제약물 관리가 필요한 환자를 대상으로 하고 있습니다. 자세한 사항은 건강보험 고객센터 (1577-1000)에 문의하시기 바랍니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[121]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[독성 간염, 약인성 간 손상, 약인성 간염]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Kim YJ, Kim JH, Lee SJ, et al. (2012). Prevalence of Helicobacter pylori infection in Korean adults with nonulcer dyspepsia. Am J Gastroenterol, 107(4), 1380-1387.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

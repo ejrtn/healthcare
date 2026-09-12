@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[항문직장농양과 치루]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[3134]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[‘항문직장 농양’이란 항문과 직장 주위의 조직강에 염증이 발생하여 농양으로 발전한 것을 의미하며, ‘치루’란 항문직장 농양이 생긴 후 밖으로 터져 나온 상태로 항문관이나 직장과 항문 주위 피부 사이에 누공이 생긴 상태입니다. 항문직장 농양과 치루는 같은 종류의 질환으로 생각하기도 하는데 항문직장 농양은 급성기 염증상태이며 이것이 터져 나와 만성화된 것이 치루입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[항문과 직장의 해부학적 구조 
+직장과 항문 사이의 부분을 ‘항문관’이라고 부르며 항문관 주위는 배변 조절 기능을 하는 항문 괄약근으로 둘러싸여 있습니다. 항문관의 중간 지점에는 치상선이라 불리는 빗살 모양의 경계가 있고 치상선 하부 끝은 항문판이라 불리는 작은 반달 모양의 점막주름에 의해 서로 연결되어 있습니다. 각 항문판 상부에는 ‘항문선와(窩)’가 위치하여 항문선와의 안쪽에 있는 항문선(항문샘)으로 연결됩니다.
+ 항문관은 높이에 따라 다른 형태의 상피로 덮여 있습니다. 치상선의 아래쪽은 피부상피와 같은 항문상피로 구성되어 몸신경(체신경)의 지배를 받아 통증을 느낄 수 있지만, 치상선 위쪽은 직장과 같은 소화관 점막조직으로 구성되고 자율신경계의 지배를 받아 통증을 느끼지 못합니다. 
+항문관 바깥쪽을 싸고 있는 괄약근을 ‘외(外)항문괄약근’이라고 부르는데, 사람이 마음대로 움직임을 조절할 수 있는 체성(體性)신경계의 지배를 받습니다. 한편, 외항문괄약근의 안쪽에 위치하는 ‘내(內)항문괄약근’은 자율신경계의 지배를 받기 때문에 사람이 마음대로 움직임을 조절할 수 없습니다. 항문은 이처럼 전혀 다른 두 가지 신경의 지배를 받기 때문에 평상시에는 우리가 의식하지 않아도 자율신경계의 작용에 의해 내항문괄약근이 수축하여 변이 새는 것을 막고 있다가 부득이하게 변을 참아야 하는 경우에는 자신의 의지로 외항문괄약근을 수축시켜 배변을 조절할 수 있는 것입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c08a6]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95c07f5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[항문직장농양과 치루(치루)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3136]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[항문직장농양과 치루(항문직장농양)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[3135]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

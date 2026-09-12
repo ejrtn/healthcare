@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[자궁샘근증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[6386]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[여성의 생식기관은 자궁, 난소, 나팔관으로 구성되어 있고, 그중에서도 자궁은 자궁근층(자궁근육층)과 자궁내막 및 자궁경부로 구분할 수 있습니다. 자궁내막조직이 비정상적으로 다른 부위에 파고들거나 증식하는 질환으로는 자궁내막증과 자궁샘근증(자궁선근증)이 있으며, 이 중 자궁샘근증은 자궁내막조직이 자궁근층 내에 침윤하여 발생하는 질환입니다. 월경주기에 따라서 침윤조직이 증가하면 월경통이 발생하거나 심해지기도 하고 근육층 내에 고였던 혈액이 빠져나와서 월경기간이 길어지거나 출혈 증상이 있을 수 있습니다. 병변이 자궁 전체 혹은 전벽이나 후벽에 집중적으로 발생하여 자궁의 크기가 커져 있을 수 있고, 때로는 자궁근종과 같이 자궁의 특정 부위에 샘근종이라 하는 종괴를 형성하기도 합니다. 자궁샘근증은 젊은 가임기 여성에게도 발생할 수 있지만 주로 가임기 후반인 40대 이후 여성에게 발생하며, 다수에서 자궁내막증, 또는 자궁근종과 동반되어 나타납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b29b32e7c5]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자궁샘근증의 원인은 아직 정확히 밝혀져 있지 않지만, 출산, 유산, 제왕절개술 등으로 인하여 그 빈도가 증가하는 것으로 보고되고 있습니다. 자궁수술이나 자궁 내 기구를 삽입하여 조작할 경우, 자궁내막조직이 자궁근층으로 침투하거나 이동하여 발생한다는 학설과, 태아의 자궁형성 단계에 자궁근육에 자궁내막세포가 존재하여 발생한다는 학설, 그리고 분만 후에 자궁내막세포가 염증과 동반하여 자궁근층으로 침투한다는 학설도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자궁샘근증의 정확한 발병률과 유병률은 아직 확실히 밝혀지지 않았으나, 자궁절제술을 시행한 환자들을 대상으로 시행한 이전 연구들에서 보면 적게는 8.8%에서 많게는 61.5%의 여성에게서 자궁샘근증이 확인되었습니다. 또한 월경과다, 골반통, 난임, 질출혈, 무월경, 폐경 후 출혈 등의 증상으로 병원에 방문한 여성들을 대상으로 초음파검사를 시행한 결과, 자궁샘근증의 유병률이 20.9%로 확인된 연구도 있었습니다. 나이대별로 보면 40대와 50대 여성에서 더 흔하고, 특히 41세에서 45세까지의 유병률이 가장 높았던 연구도 있었으나, 젊은 여성과 청소년에서도 심한 월경통과 같은 증상이 있는 경우에 2~5% 정도에서 자궁샘근증이 있다고 알려져 있습니다. 나이뿐만 아니라 출산 경험이 있거나 출산을 많이 한 여성일수록, 그리고 이전에 자궁수술을 받은 경험이 있는 여성에서 자궁샘근증이 더 많이 발생하는 것으로 보입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자궁샘근증은 절반 정도에서는 무증상인 경우도 있지만 대개 가임기 후반인 35세 이상에서 특징적으로 월경과다, 오래 지속되는 월경 출혈, 월경통(경련성 통증), 만성골반통, 성교통, 배변장애(dyschezia) 등의 증상을 유발하게 됩니다. 자궁벽 두께가 두꺼워지고 커짐에 따라 자궁수축이 강해지고 자궁이 커진 만큼 자궁내막의 양이 늘어나 월경과다와 심한 월경통을 일으키기도 합니다. 이러한 증상들은 주로 월경 시작 일주일 전부터 시작하여 월경이 끝날 때까지 지속됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자궁샘근증을 진단하기 위해서 산부인과적 신체진찰이 먼저 시행되어야 합니다. 월경과다, 비정상 자궁출혈, 심한 월경통 등의 증상을 호소하는 여성에서 내진 시 전반적으로 자궁의 크기가 증가되어 있고 단단한 느낌이 들면서 압통이 동반된 소견을 보이면 자궁샘근증을 추정할 수 있습니다. 이후 초음파나 자기공명영상(MRI) 촬영에서 자궁샘근증에 합당한 소견을 보이면 임상적으로 진단할 수 있습니다. 하지만 최종적으로 자궁샘근증을 확진하기 위해서는 수술을 시행하여 병리학적 소견에 의한 진단이 필요합니다.
+자궁근종은 초음파에서 경계가 명확하게 보이는 데 반해, 자궁샘근증은 경계가 명확하지 않습니다. 그러나 자궁근종과 감별이 어려운 경우도 있어 자궁샘근증을 가진 많은 여성들이 자궁근종을 가지고 있는 것으로 오해하는 경우도 있습니다. 그러나 자궁근종과 자궁샘근증은 완전히 다른 질환으로, 질병의 치료 역시 다르게 접근해야 합니다. 따라서 정확한 진단이 매우 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b29b4a9498]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[자궁샘근증에 대한 다양한 치료법이 있고 환자의 나이 또는 임신을 원하는가에 따라 치료법이 달라질 수 있으나, 아직까지 자궁샘근증의 가장 확실한 치료법은 자궁절제술입니다. 특히 증상이 심한 환자의 경우, 더 이상 출산을 원하지 않는다면 자궁절제술이 증상을 제거하는 근본적인 치료가 될 수 있습니다. 향후 출산하려는 환자들과 자궁을 보존하고자 하는 환자들에게는 자궁을 보존하는 여러 가지 보조적인 치료방법이 이용되고 있습니다.  
+
+비수술적 내과적 치료 방법으로는 비스테로이드소염제, 경구피임약, 프로제스토겐, 성선자극 호르몬 분비 호르몬 작용제(GnRH agonists)와 아로마테이즈 억제제 등이 흔히 쓰입니다. 프로제스토젠 치료는 월경을 억제하여 증상을 완화시키는데 효과가 있는데 경구용, 주사용, 프로제스토젠 자궁 내 삽입장치가 있습니다. 근래에는 증상이 있는 자궁샘근증 환자에게 자궁 내 피임장치를 이용한 치료가 늘고 있습니다.
+국소적으로 자궁샘근증이 발생한 경우에는 자궁을 보존하기 위해 병변만을 제거하는 자궁벽쐐기절제술을 시행해 볼 수 있으나 제한적이며 아직 일반적인 치료법으로 사용되지는 않습니다. 자궁근종은 대부분 근종만 제거 가능하므로 자궁을 보존할 수 있으나 자궁샘근증은 경계가 불분명하므로 병변만 제거하기가 어려운 경우가 많습니다.
+심한 자궁 출혈이 있는 경우 자궁경을 이용하여 자궁내막절제술을 시행할 수 있습니다. 최근에 자궁동맥색전술을 시행한 후 약 27개월 동안 관찰한 결과 75.7%의 환자에서 증상의 호전을 보였다는 보고가 있고, 하이푸(HIFU: High Intensity Focused Ultrasound 고강도집적초음파)를 이용한 치료로 월경과다와 월경통 경감에 효과적이라는 보고도 있기는 합니다. 그러나 이러한 치료를 받은 여성에서 이후 임신을 할 경우의 안전성 등에 대한 정보가 아직까지 충분하지 않기 때문에 임신계획이 있는 여성은 주의가 필요합니다. 이와 같이 다양한 치료법이 있지만 심한 증상을 동반한 자궁샘근증은 자궁절제술 외에는 결정적인 치료방법이 없는 것으로 여겨지고 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b29b597102]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[수술 이외의 치료방법에 관하여 간단히 정리를 해보면 다음과 같습니다.
+
+1. 프로제스토젠 자궁 내 삽입장치
+원래 자궁 내 삽입장치는 피임 목적으로 고안된 것으로, 프로제스토젠 자궁 내 삽입장치는 피임장치에 레보노르게스트렐이라는 프로제스토젠 호르몬 성분이 함유되어있어 월경과다 출혈량을 줄이는데 효과가 있습니다. 또한 프로제스토젠 성분이 자궁 내에서 프로스타글란딘이라는 염증반응물질의 합성을 감소시키므로 생리통 증상을 감소시키는 효과가 있습니다. 이 장치의 단점은 삽입 후 몇 달 동안 월경과 월경 사이에 자궁출혈이 생기거나 속옷에 묻어나는 정도의 피 비침이 있을 수 있다는 점, 그리고 월경량이 많은 경우에 장치가 저절로 빠질 수도 있습니다.  
+
+ 
+2. 성선자극 호르몬 분비 호르몬 작용제(GnRH agonists)
+성선자극 호르몬 분비 호르몬은 시상하부에서 뇌하수체로 분비되는 호르몬으로 뇌하수체로부터의 난포자극호르몬(FSH)과 황체호르몬(LH)분비를 조절하는 역할을 합니다. 난포자극호르몬과 황체호르몬은 난소에 작용하여 에스트로겐과 프로게스테론이라는 여성호르몬 생성에 관여하게 됩니다. 성선자극 호르몬 분비 호르몬은 박동성(pulsatile)으로 분비되지만, 외부에서 성선자극 호르몬 분비 호르몬을 인위적으로 투입하게 되면 뇌하수체의 성선자극 호르몬 분비 호르몬의 수용체에 결합하여, 이 호르몬의 활성을 억제하여 여성호르몬의 분비를 억제시키게 됩니다. 따라서 인위적인 폐경상태를 유발시켜 자궁샘근증의 증상들을 완화시키지만, 가역적이어서 이 약제를 중지하면 폐경상태에서 다시 원래 상태로 돌아가게 됩니다. 폐경상태가 유발되면 혈중 에스트로겐 수치가 감소하여 자궁샘근증 조직을 위축시킴으로써 자궁의 크기가 감소하게 됩니다. 이 치료법은 폐경증상을 유발하기 때문에 안면홍조, 감정 변화, 질건조증, 골다공증 등의 부작용이 일어날 수 있습니다.
+
+3. 자궁동맥색전술 
+자궁동맥색전술은 대퇴동맥을 통하여 자궁동맥에 색전 물질을 주입하여, 자궁동맥을 폐쇄시켜 자궁의 혈류를 차단함으로써 샘근증이 있는 자궁 조직의 허혈과 경색증을 유발하는 방법입니다. 이렇게 함으로써 샘근증에 의한 월경 출혈 과다, 골반통, 압박감과 같은 관련 증상의 완화에 도움이 된다고 보고되었습니다. 그러나 이 시술을 받은 후 조직의 허혈로 인하여 하복부 통증, 오심, 열 등이 생길 수 있습니다. 임신 중인 여성, 신장 기능 이상, 골반강 내 방사선 조사 과거력, 급성 혈관염, 난소암, 자궁암, 자궁내막암, 자궁경부암, 골반염, 자궁내막염이 있는 사람은 실시할 수 없으며 조영제에 알레르기가 있는 경우나 출혈 소인이 있는 경우는 주의해서 시행하여야 합니다. 시술 이후 생식력에 미치는 영향이 확실하게 밝혀지지 않았으므로 임신을 원하는 여성은 시술 대상에서 제외시키기도 합니다. 
+
+4. MRI 유도하 고집적 초음파 치료(HIFU)
+이 방법은 자기공명영상장치(MRI)를 이용하여 병변의 위치와 크기, 특징 등을 정밀하게 파악한 후 초음파를 집중시켜 병변의 조직을 괴사시키는 것입니다. 이 치료 방법은 부인과 영역에서는 주로 자궁근종의 비수술적 치료방법으로 사용되고 있으며, 자궁샘근종의 치료에도 사용되고 있습니다. 그 밖에도 유방암, 간 종양, 신장 종양, 췌장, 뼈, 그리고 연조직의 종양에도 사용되고 있습니다. 시술하는 동안, 자기공명영상장치(MRI)를 통해 자궁근종과 주변기관을 3차원 영상으로 볼 수 있고, 치료부위의 온도변화를 실시간으로 확인하면서 완전히 비침습적 방법으로 치료하게 됩니다. 시술 직후 MRI 검사를 시행하여 시술의 결과를 확인할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[위험요인 및 예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[116]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[현재까지  알려진 자궁샘근증의 위험요인으로는 여러 번의 출산력, 자궁수술력(자궁내막소파술, 제왕절개, 자궁근종절제술 등), 자궁내막증의 병력, 30대 이상의 나이, 자궁샘근증의 가족력, 그리고 이른 초경 등이 있습니다. 이외에도 근거가 충분하지 않지만 흡연이나 항우울제 복용과의 연관성도 보고되었습니다. 자궁샘근증의 발병 원인이 아직까지 불분명하기 때문에 이를 효과적으로 예방할 수 있는 증명된 방법은 없습니다. 다만, 앞서 설명한 위험요인을 갖고 있거나 자궁샘근증을 의심할 만한 증상이 생겼다면 초기부터 적절한 진료와 치료를 받음으로써 보다 효과적으로 증상을 조절하고 병의 진행을 늦추며 여러 합병증 발생을 예방할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. Berek, J. S. (2019). Berek &amp; Novak's gynecology. Lippincott Williams &amp; Wilkins.
+2. Brun, J. L., Plu-Bureau, G., Huchon, C., Ah-Kit, X., Barral, M., Chauvet, P., ... &amp; Marret, H. (2022). Management of women with abnormal uterine bleeding: Clinical practice guidelines of the French National College of Gynecologists and Obstetricians (CNGOF). Gynecologie, Obstetrique, Fertilite &amp; Senologie.
+3. Dason, E. S., Maxim, M., Sanders, A., Papillon-Smith, J., Ng, D., Chan, C., &amp; Sobel, M. (2023). Guideline No. 437: Diagnosis and Management of Adenomyosis. Journal of Obstetrics and Gynaecology Canada, 45(6), 417-429.
+
+4. Lazaridis, A., Grammatis, A. L., Spencer, S., &amp; Hirsch, M. (2022). Nonsurgical management of adenomyosis: an overview of current evidence. Current Opinion in Obstetrics and Gynecology, 34(5), 315-323.
+5. Taylor, H. S., Pal, L., &amp; Sell, E. (2019). Speroff's clinical gynecologic endocrinology and infertility. Lippincott Williams &amp; Wilkins.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

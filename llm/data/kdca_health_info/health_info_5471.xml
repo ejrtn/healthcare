@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[상부위장관 촬영]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5471]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 상부위장관 촬영(위식도 조영술)은 바륨 현탁액을 마신 후 방사선 투시조영기로 식도, 위, 십이지장의 이상을 진단하는 검사입니다.
+• 임산부나 임신 가능성이 있는 여성, 식도·위 천공이 의심되는 경우, 사레가 심한 경우, 내시경으로 조직 검사를 한 직후에는 검사를 피하는 것이 좋습니다.
+• 검사 전 8시간 금식하고 흡연을 피하며, 검사 후 변비가 생길 수 있으므로 물을 많이 마시고, 필요시 설사약을 복용합니다.
+• 촬영은 15~20분 정도 소요되며, 검사 중 다양한 자세로 촬영하므로 미끄러지지 않도록 주의해야 합니다.
+• 위암 등의 이상 소견이 발견되면 추가로 내시경 검사를 시행하는 것이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[상부 위장관 촬영(위식도 조영술)은 방사선이 투과되지 않는 약물(바륨 현탁액)을 마신 후, 식도, 위, 십이지장의 표면에 바륨액이 코팅된 모습을 방사선 투시조영기로 관찰하면서 식도, 위, 십이지장의 해부학적, 기능적인 이상을 진단하는 검사법입니다. 촬영은 15~20분 정도 소요되며, 상부 위장관 촬영 검사를 이용하여 염증, 궤양, 게실, 양성 종양, 암, 장폐쇄, 횡격막 탈장 등을 진단할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d026624]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[상부 위장관 촬영은 삼킴곤란이나 통증, 소화 불량, 속쓰림, 더부룩함, 윗배 통증, 구역질, 구토, 윗배 멍울, 토혈, 흑색변 등의 증상이 있을 때 시행할 수 있습니다. 상부 위장관 촬영은 방사선을 이용한 검사이므로 임산부나 임신 가능성이 있는 여성, 식도 및 위장 천공이 의심되는 경우(바륨액의 복강누출에 의한 복막염 위험), 사레가 심한 경우(바륨액의 기도 흡인으로 인한 폐렴 발생 위험), 내시경으로 광범위한 조직 검사를 시행한 직후(장천공의 위험)에는 시행하지 않는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[상부 위장관 촬영은 방사선 투시조영기라는 기계를 이용하여 진행합니다. 투시조영이란 연속적으로 방사되는 X선을 인체에 투과하여 영상을 얻는 방법으로, 영상은 모니터를 통해 실시간 관찰이 가능하고 동영상 또는 정지 화면으로 촬영이 가능합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[검사 전날 저녁 식사는 유동식을 먹고, 검사 8시간 전부터 물을 포함하여 금식을 합니다. 흡연은 타액과 위액 분비를 일으키므로 피합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[촬영실에 도착하면 방사선 촬영기계 테이블에 누워 흰색의 바륨 현탁액 한 컵과 공기를 발생시키는 발포제 한 포를 같이 복용합니다. 발포제를 먹은 후에는 트림을 참고, 말을 하거나 입을 벌리지 않아야 위장관이 충분히 팽창되어 검사가 잘 됩니다. 위장벽에 약제가 잘 분포되도록 촬영기 위에 누운 상태에서 지시에 따라 좌우로 여러 차례 몸을 굴립니다. 검사를 시행하는 동안 모니터를 통해 위장을 실시간으로 관찰하면서 여러 자세에서 촬영을 합니다. 이때 환자가 누운 테이블의 각도를 조절하여 머리나 발쪽으로 기울기도 하며, 테이블을 완전히 세워서 선 자세로도 촬영합니다. 위장벽의 병변을 자세히 보기 위해 촬영기에 장착된 압박기를 이용해 배를 누르기도 합니다. 촬영 동안에는 의사의 지시에 따라서 숨을 잘 참도록 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d026867]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[상부 위장관 촬영에 대한 주요 소견은 다음과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d026964]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 테이블 위에서 몸을 굴리는 과정이나 테이블 각도가 바뀔 때 테이블에서 미끄러지거나 떨어지지 않도록 주의해야 합니다. 누운 자세에서 테이블을 세워 일어날 때나, 금식 상태여서 저혈당 증상이 있을 때 쓰러지는 경우도 있으니 주의합니다. 
+2. 압박기로 배를 압박할 때 갈비뼈가 심하게 눌리면 골절의 위험이 있으므로 주의합니다. 
+3. 검사에 따른 특별한 부작용은 없으나 간혹 변비가 생길 수 있으므로 검사 후 물을 많이 마시고, 필요에 따라 하제(설사약)를 복용합니다.
+4. 상부 위장관 촬영은 위암, 특히 조기 위암의 진단에 있어서는 위내시경 검사에 비해서 진단율이 낮은 검사이므로, 이상 소견이 발견되어 조직 검사가 필요한 경우에는 내시경을 추가로 시행해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한복부영상의학회. (2015). 복부영상의학 (제3판.). 일조각.
+2. 서울대학교병원 의학정보. (2020). 위조영검사.
+   https://terms.naver.com/entry.nhn?docId=927638&amp;cid=51007&amp;categoryId=51007]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

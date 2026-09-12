@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[감염질환의 혈청검사 ]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5533]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3674]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 감염질환의 혈청검사는 감염질환에서 나타나는 항원이나 항체를 측정하여 진단, 경과 관찰, 치료 판정, 예후 평가 등에 이용합니다.
+• 검사 대상은 감염 의심 증상이 있거나 위험요인에 노출된 경우, 치료 중, 수술 전 검사, 건강검진 등의 경우입니다.
+• 검사 항목으로는 A형, B형, C형간염 바이러스 검사, 매독 검사, 후천성면역결핍증후군(AIDS) 검사 등이 포함됩니다.
+• 특별한 준비사항이나 금기증은 없습니다​.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[감염질환에서 나타나는 항원이나 항체를 측정하여 진단, 경과 관찰, 치료 판정, 예후 평가 등에 이용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 감염질환 혈청검사의 적응증 
+감염질환의 의심증상이 있거나 위험요인에 노출된 경우에 검사합니다. 또한, 치료 중, 수술 전 검사, 건강검진 등의 과정에서 감염질환 혈청검사를 시행합니다.
+
+
+2. 감염질환 혈청검사의 금기증 
+감염질환 혈청검사의 특별한 금기증은 없습니다]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 검체]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[239]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[혈청검사는 주로 정맥 혈액을 이용하여 검사합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 항목]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[240]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. A형간염 바이러스 검사 항목: HAV IgM(hepatitis A virus Immunoglobulin M) 항체, HAV IgG(hepatitis A virus Immunoglobulin G) 항체 
+2. B형간염 바이러스 검사 항목: HBs(Hepatitis B surface) 항원 및 항체, HBc(hepatitis B core) 항체, HBe(hepatitis Be) 항원 및 항체, B형간염바이러스 DNA 
+3. C형간염 바이러스 검사 항목: HCV(hepatitis C virus) 항체, C형간염바이러스 RNA 
+4. 매독 검사 항목: VDRL(Veneral Disease Research Laboratory), RPR(Rapid Plasma Reagin), TPLA(Treponema Pallidum Latex Aggulutination), TPHA(Treponema Pallidum Hemagglutination Test), FTA-ABS(Fluorescent Treponemal Antibody Absorption) 
+5. 후천면역결핍증후군(Acquired Immune Deficiency Syndrome, AIDS, 에이즈) 검사 항목: HIV(Human Immunodeficiency Virus) 항원/항체 동시 검출법, 웨스턴블롯 검사, HIV 바이러스 정량 검사]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 면역분석기 
+효소면역분석법이나 화학발광면역분석법 등의 원리를 이용하며 혈중의 항원이나 항체를 검사합니다. 최근에는 화학발광효소면역측정법 등 매우 민감한 검사방법의 도입으로 농도가 매우 낮은 항원과 항체도 효과적으로 검사할 수 있습니다.
+2. 기타 
+측정하는 방법에 따라 사람이 직접 판독하거나, 분자진단장비 등의 장비가 이용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[감염질환 혈청검사의 특별한 준비 사항은 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 정맥천자 
+정맥혈액의 경우 충분한 양을 채혈할 수 있으며 채혈 부위는 팔오금중간정맥, 요골측피부정맥, 척골측피부정맥 등 팔오금(팔꿈치 앞면에 있는 오목한 부분)부위의 굵은 혈관을 주로 이용합니다.
+
+
+2. 혈청의 분리 
+응고촉진제와 분리 겔(젤)이 포함된 혈청분리관(Serum Separating Tube, SST)에 채혈한 후 원심분리를 시행합니다. 응고촉진제는 혈액 응고 시간을 5분 정도로 줄이고 겔은 원심분리 시 혈구세포와 혈청 사이에 위치하여 두 층을 분리합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. A형간염바이러스 표지자 검사
+
+A형간염바이러스 감염의 증상이 있거나 A형간염바이러스에 노출이 우려되는 경우와 만성 간질환이 있는 경우 등에서 검사를 시행합니다.
+
+1) A형간염바이러스 면역글로불린 M(IgM anti-HAV) 항체 
+혈청에서 HAV IgM 항체를 확인하면 급성A형간염으로 진단할 수 있습니다. HAV IgM 항체는 급성기에 증가했다가 3~4개월 동안 혈액 내에 존재한 후 사라집니다. 감염 초기에는 음성으로 나올 수 있으므로, 임상적으로 의심되는 환자는 시간 간격을 두고 다시 검사합니다.
+
+2) A형간염바이러스 면역글로불린 G(IgG anti-HAV) 항체 
+HAV IgG 항체는 A형간염바이러스 감염 4~6 주 내에 나타나기 시작하여 일생 동안 유지되며 A형간염바이러스 재감염으로부터 예방하는 역할을 합니다. 이 항체가 양성으로 나타난다면 예방접종을 받았거나 과거에 감염되었음을 의미합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d035c71]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. B형간염 바이러스 표지자 검사
+
+임상적으로 B형간염이 의심될 때, B형간염 바이러스에 노출되었을 가능성이 높을 때, 만성 간질환이 있을 때, B형간염 백신을 접종한 후, B형간염 치료 중일 때 검사를 시행합니다.
+
+1) B형간염 표면항원(HBs 항원) 
+B형간염 바이러스의 표면항원으로 급성 감염 혹은 만성 보균자에서 발견됩니다.
+
+2) B형간염 표면항체(HBs 항체) 
+HBs 항체는 HBs 항원에 대한 항체이고, B형간염 바이러스의 감염을 예방하는 역할을 합니다. HBs 항체 양성일 경우 과거에 감염 후 회복된 상태이거나 예방접종을 통해 면역력을 획득한 상태입니다. 음성일 경우 감염되지 않았으나 면역력도 없음을 의미합니다.
+
+3) B형간염 코어항체(HBc 항체) 
+HBs 항체와는 달리 감염이 예방되는 항체가 아닙니다. HBc 면역글로불린 M 항체는 최근 감염의 지표이고, HBc 면역글로불린 G 항체만 단독으로 양성인 경우는 감염 후 회복되었거나 만성 보균자인 경우입니다.
+
+4) B형간염 e항원(HBe 항원) 
+HBe 항원은 현재 B형간염 바이러스가 증식하고 있음을 의미하는데, 이 경우 감염력이 높습니다.
+
+5) B형간염 e항체(HBe 항체) 
+HBe 항체는 HBe 항원에 대한 항체이며 이 항체가 생기면 대부분 바이러스의 증식은 줄어들고 간기능검사 결과도 정상으로 돌아옵니다.
+
+6) B형간염바이러스 DNA 정량검사 
+B형간염 바이러스의 증식 정도를 직접 측정하는 검사입니다. 정량적 검사를 통해 활동성 B형간염 바이러스 감염 상태를 알 수 있으며, 항바이러스제 치료 여부의 결정과 치료 효과를 확인하기 위해 필수적인 검사입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d035d77]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3. C형간염 바이러스 표지자 검사 
+
+1) C형간염 항체(HCV 항체) 
+C형간염 항체 검사는 C형간염 바이러스 감염 고위험군에 대한 선별검사 및 C형간염 진단을 위한 일차적인 검사입니다. 일반적으로 효소면역분석법이나 화학발광면역분석법으로 선별검사를 하고 HCV 항체가 양성인 경우 유전자재조합 면역블로트법(recombinant immunoblot assay, RIBA)으로 확인합니다. HCV 항체는 감염 후 8~9주 이후 검출되며 회복되어도 지속적으로 검출되지만, 재감염 예방 효과는 없습니다. 혈액투석, HIV 중복감염, 심한 면역기능 저하, C형간염의 초기 경우에는 위음성률(실제 양성이지만 음성으로 판정되는 비율)이 높고, 자가면역질환을 가진 경우에는 위양성률(실제 음성이지만 양성으로 판정되는 비율)이 높아서 바이러스핵산검사(HCV RNA 검사)가 필요합니다.
+
+2) C형간염 바이러스 RNA 검사 
+혈청 내 C형간염 바이러스의 RNA를 검출하여 확진이 가능하며, 항바이러스 치료를 위해서는 C형간염 바이러스의 유전자형 검사가 필수적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d035df1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 매독 검사 
+1) 비트레포네마 검사 
+매독의 선별검사로 매독균에 의해 손상된 조직에서 흘러나온 지질단백성분과 매독균의 세포막 성분에 대한 항체를 검사합니다. 대표적으로 VDRL 검사와 RPR 검사가 있습니다. 매독의 진단뿐 아니라 치료 효과 판정에도 이용할 수 있습니다. 2기 매독 등 항체 농도가 너무 높은 경우에는 위음성이 나타날 수 있고, 다른 감염증(바이러스), 임신부, 일부 자가면역질환이 있는 환자에서 위양성을 보일 수 있습니다.
+
+2) 트레포네마 검사 
+매독균 항원에 특이적인 항체를 검출합니다. 화학발광면역측정법(chemiluminescence immunoassay), 트레포네마감작 혈구응집시험(TPHA)검사, 매독형광항체흡수(FTA-ABS)검사 등이 있습니다. 트레포네마 검사는 비트레포네마 검사 양성일 때 확진하는 검사로 시행하며, 비트레포네마 검사가 음성인 잠복 매독이나 후기 매독에서 실시합니다. 매독균 특이항체는 치료와 관계없이 평생 지속되므로 치료 후 추적 검사로 이용되지는 않습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=183d55ecdb38]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[5. 후천성면역결핍증후군(에이즈, AIDS) 검사 
+혈청 선별검사는 각 병원, 보건소 및 에이즈 검진 상담소에서 시행하고, 혈청 확진검사는 각 시도 보건환경연구원에서, 바이러스 농도 측정 및 약제 내성 검사, 환자 본인확인 재검사 등은 질병관리본부에서 담당하고 있습니다.
+
+1) HIV 항원/항체동시검출법 
+인간면역결핍바이러스(HIV) 감염 초기 2~3주에 혈중 바이러스 항원 검출이 가능하며, 3~4주에 항체가 나타납니다. 최근에는 효소면역측정법이나 화학발광면역측정법을 이용하며 HIV에 대한 항체와 항원을 동시에 검출할 수 있으며, HIV 감염에 대한 선별검사로 이용됩니다.
+
+2) 웨스턴블롯 검사(western blot) 
+HIV 감염의 확진검사법으로 특정 바이러스 항원(p24, gp41, gp120/160)에 반응하는 항체가 2개 이상 나오게 되면 양성으로 확진합니다. 의심되는 환자에서 감염으로 판정하기 애매한 결과가 나왔을 때는 몇 주 후 새로운 혈액을 채취하여 다시 검사합니다. 각 병의원에서 선별검사 양성을 보인 검체를 각 시도 보건환경연구원에 보내 확진검사를 시행 후 최종적으로 결과를 보고합니다. 선별검사는 민감도가 높은 검사법이므로 선별검사 양성이 확진검사에서 음성으로 확인되는 경우가 흔합니다.
+
+3) HIV 바이러스 정량검사 
+혈청 내 HIV RNA 농도를 측정하는 검사입니다. HIV 감염 상태를 평가하고 치료 계획을 정하기 위해 진단 시점에 시행하고, 항바이러스제 치료 경과를 평가하기 위하여 정기적으로 검사합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17a74d035cf4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[주의사항 및 부작용]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[245]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[감염질환 혈청검사의 특별한 주의사항은 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[327]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 대한진단검사의학회. (2021). 진단검사의학 제6판. 범문에듀케이션. 
+2. 대한진단검사의학회. http://www.kslm.org/
+3. Jameson J, Fauci AS, Kasper DL, Hauser SL, Longo DL, Loscalzo J. eds. (2018). Harrison's Principles of Internal Medicine, 20e. New York, NY: McGraw-Hill.
+4. McPherson RA and Pincus MR, eds. (2017). Henry's clinical diagnosis and management by laboratory methods. 23rd ed. St. Louis, MO: Elsevier.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[임상 화학 검사 ]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5531]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[종양표지자 검사 ]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5532]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[혈청검사]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5447]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

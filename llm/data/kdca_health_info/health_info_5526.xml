@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[광동주혈선충증]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5526]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3668]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 광동주혈선충증은 광동주혈선충(Angiostrongylus cantonensis) 감염에 의해 발생하는 질환입니다.
+• 주로 덜 익힌 담수산 패류, 민달팽이, 새우, 게, 개구리, 물고기 등 중간숙주를 섭취하거나 유충으로 오염된 채소나 물을 먹을 경우 감염될 수 있습니다.
+• 12~28일의 잠복기 후 두통, 목덜미 경직, 구역감 등 다양한 신경학적 증상이 나타날 수 있습니다.
+• 국내에서는 아직 발생한 예가 없지만, 동남아시아 등 해외 유행지역에 분포하고 있습니다.
+• 예방을 위해서는 유행지역을 여행할 때 담수산 패류나 민달팽이 등 중간숙주를 날것으로 먹지 않고, 채소나 과일은 깨끗한 물로 충분히 씻어 섭취하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[143]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[광동주혈선충증은 광동주혈선충(Angiostrongylus cantonensis) 감염에 의한 질환입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[신고 대상 및 방법]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[144]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 신고범위
+환자
+2. 신고시기
+감염 확인 후 7일 이내 신고
+3. 신고를 위한 진단기준
+환자: 광동주혈선충증 감염 증상이 있거나 역학적으로 연관되어 있으면서 진단을 위한 검사기준에 따라 광동주혈선충 감염이 확인된 사람
+4. 진단을 위한 검사기준
+검체(뇌척수액, 혈액)에서 특이 유전자를 검출
+5. 신고 방법
+표본감시기관은 해외 유입 기생충 감염증 신고서를 작성하여 관할 보건소로 팩스 또는              웹 입력 방법으로 신고
+ * 표본감시 대상 의료기관 여부 확인: 관할 보건소로 문의]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[광동주혈선충증은 주로 광동주혈선충의 중간숙주(담수산 패류, 민달팽이, 새우, 게, 개구리, 물고기 등)를 덜 익혀 먹을 경우 감염됩니다.   때로는 유충으로 오염된 채소나 물을 먹는 경우에도 감염될 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인 및 감염경로]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[145]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1865de9ca902]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[146]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 국외현황
+동부 아프리카, 태평양 제도, 동남아시아, 호주, 미국, 쿠바, 이집트 및 푸에르토리코,중국, 일본 등에 분포하고 있으며, 태국과 여러 동남아시아 국가에서는 사과 달팽이(Pila snail)와 패류들을 관습적으로 섭취하기 때문에 이들에 의한 인체감염 가능성도 매우 큽니다.
+
+2. 국내현황
+국내에서 발생한 예는 없습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[147]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[광동주혈선충증의 잠복기는 12-28일이며, 감염 부위에 따라 아래와 같은 임상증상이 나타날 수 있습니다.호산구성 수막뇌염(eosinophilic meningoencephalitis): 두통, 목덜미 경직(nuchal rigidity), 구역감, 구토, 안면 감각이상, 안면 마비 등호산구성 척수뇌염(myeloencephalitis): 수막뇌염보다 더 심한 임상 증상과 호산구증다증, 높은 사망 가능성호산구성 신경근척수뇌염(radiculomyeloencephalitis): 강렬한 통증, 하지의 지각이상, 팔과 몸통 또는 신체의 다른 부위에서 나타나는 감각 이상눈 주혈선충증(ocular angiostrongyliasis): 시력감퇴, 복시, 눈부심, 안와 후방의 통증, 망막출혈 등]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[148]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[환자의 뇌척수액에서 살아있는 유충을 확인(감염 2-3주 후 감염자의 약 10%에서 확인됨) 하는 경우 진단할 수 있으며, 보조적으로 말초혈액 혹은 뇌척수액에서 효소면역측정법(ELISA) 검사 상 양성으로 나올 경우에 진단에 도움이 될 수 있습니다.추가적으로 말초혈액에서의 백혈구 증가 및 10% 이상의 호산구증가증이 나타날 수 있습니다. 뇌척수액 검사에서 백혈구 증가(200~5,000/㎣)와 함께 호산구 증가(호산구 10~90%)가 있으면서 광동주혈선충증 유행지역을 다녀온 사람에서는 감염 가능성이 높습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방 및 예방접종]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[149]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[광동주혈선충증의 유행지역으로 알려진 곳을 여행하는 사람들은 아프리카왕달팽이, 담수산 패류나 새우류, 게, 개구리, 민달팽이 등의 중간숙주를 날로 먹지 않도록 하며, 자연수나 채소도 되도록 생식하지 않아야 하고 채소나 과일을 먹을 경우 깨끗한 물로 충분히 씻은 다음 섭취해야합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[150]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[광동주혈선충증 치료는 수막뇌염 등에 대한 증상 치료를 기본으로 합니다. 주요 증상인 통증, 구역감, 뇌압 상승을 조절하기 위해 아스피린(aspirin), 아세트아미노펜( acetaminophen) 등 여러 가지 진통제를 사용합니다.눈 주혈선충증인 경우 기생충이 확인되면 수술로 제거할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[합병증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[153]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[합병증으로 현기증, 균형감각 상실, 정신박약, 시신경 위축, 사지 불완전마비, 사망 등이 나타날 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[대상별 맞춤 정보]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[154]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 환자관리
+광동주혈선충증 환자의 격리는 필요 없습니다.
+
+2.접촉자관리
+광동주혈선충증에 감염된 환자와 접촉한 사람에 대한 격리는 필요 없으나, 유행지역에서 이 질환에 감염된 사람과 같은 음식이나 물을 먹은 사람에 대해서는 추가 감염 여부를 조사합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[319]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 질병관리청. (2025). 기생충감염병 관리지침.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[리슈만편모충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5521]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[바베스열원충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5522]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[사상충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5528]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[샤가스병]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5525]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[아프리카수면병]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5523]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[악구충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5527]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[주혈흡충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5524]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[포충증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5529]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[해외유입기생충감염증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5420]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

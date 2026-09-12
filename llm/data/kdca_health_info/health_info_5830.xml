@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[두통]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5830]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[2]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3669]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 두통은 전체 인구의 70~80%가 경험하는 매우 흔한 증상으로, 심각한 질병이 원인인 경우는 드뭅니다.
+• 두통을 일으키는 다른 질환으로는 뇌종양, 혈종, 수두증 등이 있을 수 있으므로, 심각한 증상이 동반되면 의사 진료를 받아야 합니다.
+• 긴장두통은 긴장과 스트레스를 완화하기 위해 마사지, 건강한 식사, 휴식, 운동 등이 도움이 됩니다.
+• 편두통은 규칙적인 수면과 식사, 카페인 중단, 운동, 금주 등의 생활습관이 예방에 도움이 됩니다.
+• 두통이 자주 발생하면 예방 목적으로 약물을 복용할 수 있으며, 진통제 남용은 오히려 두통을 악화시킬 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[158]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[두통은 전체 인구의 70~80%가 경험하는 매우 흔한 증상입니다. 두통이 생기면 많은 사람들이 혹시 뇌에 문제가 생긴 게 아닐까 염려하기도 하지만, 실제로 심각한 질병이 원인인 경우는 드뭅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[160]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[두통은 크게 다른 원인 없이 생기는 원발두통과 다른 질환에 의해 일어나는 이차두통으로 나눕니다. 원발두통에는 긴장두통, 편두통 및 군발두통이 있고, 이차두통에는 머리나 목의 외상, 질병에 의한 두통, 약물을 너무 많이 복용했거나(과용) 또는 약물의 갑작스러운 중지로 인한(금단) 두통 등이 있습니다. 여기에서는 주로 원발두통 위주로 설명하겠습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[163]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[긴장두통이 일어나는 기전은 명확히 밝혀지지는 않았지만, 머리 주변의 통증 감각이 예민해지고 근육이 긴장되어 있고 누르면 통증이 발생하는 것을 볼 수 있습니다. 편두통의 경우, 편두통이 없는 사람의 뇌에 비하여 쉽게 흥분할 수 있는 소위 '예민한 뇌'를 가지고 있는데, 갑작스러운 신체 내부 또는 외부 환경의 변화로 뇌가 자극되어 흥분하면 이에 반응하여 뇌혈관이 팽창하고 이에 따라 삼차 신경계가 자극되면서 두통이 발생한다고 보고 있습니다. 군발두통이 왜 생기는지 역시 아직 정확히 알려지지 않았지만, 뇌에서 조절되는 생활 리듬 이상, 뇌혈관 장애, 뇌 신경전달물질인 세로토닌, 히스타민과 관련되어 있을 것으로 여겨집니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[164]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[국내 한 연구에 의하면 남자는 63%, 여자는 73%가 최근 1년간 두통을 경험한 적이 있다고 하였습니다. 미국도 성인 인구의 약 40%가 일상적으로 두통을 경험한다고 하고, 남자는 91%, 여자는 95%가 두통을 경험한 적이 있다고 합니다. 이처럼 두통은 일상생활 속에서 경험하는 가장 흔한 증상 중의 하나입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[두통의 원인을 정확히 알려면 어떻게 아픈지, 언제 두통이 시작되는지를 기록하는 두통 일기를 쓰는 것이 좋습니다. 다음과 같은 증상이 있으면 즉시 병원에서 진찰을 받아야 합니다. 1. 태어나서 지금까지 느껴보지 못한 가장 심한 두통
+2. 50세 이후에 시작된 두통(특히 평소에는 두통이 없었거나, 평소에 느꼈던 두통과 다를 때)
+3. 열이 나거나, 목이 뻣뻣하고, 피부에 발진이 날 때
+4. 에이즈 바이러스에 감염된 환자나 암 환자의 경우 두통이 평소와 다르게 느껴질 때
+5. 팔, 다리가 저리거나, 사물이 이상하게 보일 때
+6. 머리를 다치고 나서 생긴 두통
+7. 5분 이내에 통증이 갑작스럽게 최고로 심해지는 두통
+8. 심한 운동이나 기침, 갑작스럽게 움직이고 난 뒤에 계속되는 두통]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc6e61]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[165]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[두통의 진단에 가장 중요한 것은 의사의 문진과 진찰이며, 필요 시 컴퓨터단층촬영(Computed Tomography, CT)이나 자기공명영상(Magnetic Resonance Imaging, MRI) 등의 영상검사를 확인하게 됩니다.
+
+1. 긴장두통
+이마 근육, 턱 근육이나 머리와 목 근육이 단단해져 있는지 직접 만져보면 진단에 도움이 됩니다. 두통을 일으킬 수 있는 다른 원인의 감별을 위해 혈압, 시력검사, 두개골 X선 촬영 등을 할 수 있습니다. 필요하다면 CT나 MRI 검사를 합니다. 그 외 검사로는 일반 혈액검사, 갑상샘 검사를 주로 하고, 50세 이상에서는 혈액검사의 적혈구 침강속도(Erythrocyte Sedimentation Rate, ESR)도 혈관염에 의한 두통인지를 확인하는 데 도움이 됩니다. 
+
+2. 편두통
+편두통은 두통의 양상이 매우 특징적이어서 검사 없이 증상만으로도 충분히 진단할 수 있습니다. 편두통은 먼저 다른 원발두통과 구별해야 하고 뇌에 혈액 공급이 일시적으로 감소해서 나타나는 마비 증상인 일과성 허혈 발작과 같은 뇌혈관질환, 뇌종양, 감염 질환, 약물에 의한 이차두통, 뇌전증발작 증상은 아닌지 확인해야 합니다. 
+
+3. 군발두통
+편두통처럼 군발두통도 증상이 특징적이어서 이에 대한 자세한 문진으로 진단할 수 있습니다. 그러나 머리나 목의 근골격계 질환이나 편두통, 측두동맥염 등에 의한 통증인지에 대한 감별이 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[관련 질환]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[166]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[두통을 일으키는 다른 질환으로는 뇌의 종양/암, 농양, 혈종, 수두증, 동정맥 기형 등이 있고 이를 확인하기 위해 CT나 MRI 검사가 필요할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[긴장두통의 증상은 머리 양측에 조이는 느낌으로 아프며 편두통이나 군발두통보다는 통증의 세기는 약합니다. 보통 일상 활동으로 악화하지는 않고, 증상의 지속시간은 다양하지만 늦은 오후나 저녁에 시작되어 수 분간 지속하는 경우가 많습니다.
+편두통은 한쪽 혹은 양쪽이 아프며 머리에서 맥박이 뛰는 것 같은 박동성 통증이 특징입니다. 일상 활동으로 악화하는 경향이 있습니다. 빛 또는 소리에 과민해지고 메스꺼움이나 구토를 동반하는 경우가 많습니다. 편두통에는 조짐편두통과 무조짐편두통이 있는데, 조짐편두통은 두통 발작 전에 점진적으로 나타나 60분 이내에 사라지는 조짐(Aura)을 동반하는 편두통을 말하고, 조짐의 증상은 빛, 점, 또는 선의 반짝거림, 부분적인 시력 저하, 신체의 무감각 또는 저릿저릿함, 언어장애 등이 있습니다.
+군발두통은 눈 주변, 눈 위, 얼굴의 옆면에 심한 통증이 나타나며, 통증의 양상은 날카롭거나 도려내는 듯한 느낌, 따끔거림, 욱신거림, 조이는 느낌 등 다양합니다. 또한 두통이 있는 쪽 얼굴에 눈 충혈, 눈물, 콧물/코막힘, 땀, 눈꺼풀 부종/처짐 등 다양한 증상이 잘 동반됩니다. 두통은 한번 시작되면 15~180분 지속되며, 한번 시작되면 몇 주나 몇 개월 동안 이틀에 한 번~하루 8번까지 반복되게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc6ee4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[167]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc6f67]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[169]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 긴장두통 
+긴장두통의 확실한 치료법은 없지만, 약국에서 쉽게 구할 수 있는 진통제(아스피린, 아세트아미노펜, 비스테로이드소염진통제)로 통증을 조절할 수 있습니다. 스트레스, 불안, 초조, 우울감, 예민함이 긴장두통과 관련되어 있을 수 있으므로 항우울제, 항불안제 등의 약물이 필요할 때도 있습니다. 
+
+2. 편두통
+편두통의 치료 원칙은 크게 두 가지입니다. 편두통이 생기지 않도록 예방하고, 편두통의 전조증상이 생겼다면 빨리 두통이 호전되도록 치료해야 합니다. 약물치료를 통해 편두통의 횟수와 강도를 조절할 수 있으며, 전구기나 전조기까지만 겪고 두통기가 오지 않도록 예방할 수 있습니다. 편두통의 전조증상이 시작되었다면, 우선 아세트아미노펜, 소염진통제가 도움 될 수 있고 여기에 반응이 없다면 트립탄 등의 편두통 치료 약물을 단독 혹은 아세트아미노펜이나 소염진통제와 함께 사용할 수 있습니다. 그러나 트립탄은 혈관 수축 작용이 있어 협심증 등의 혈관 질환이 있는 사람은 사용하지 않아야 하며 그렇지 않더라도 의사와 사용의 필요성, 간격을 잘 상의하여야 합니다. 투약 횟수가 주 3회 이상이 된다면 도리어 약물 과용 두통으로 옮겨갈 수 있어, 예방 약물을 규칙적으로 먹는 예방요법으로 바꾸는 게 나은데, 이때 사용되는 예방 약물로는 베타차단제, 토피라메이트가 있습니다.
+
+3. 군발두통
+아스피린, 아세트아미노펜, 소염진통제는 군발두통에는 효과적이지 않습니다. 산소마스크로 산소를 흡입하는 것이 도움이 되고 이를 위해 가정 또는 이동 시 사용할 산소를 갖추는 것이 좋습니다. 다른 약제로는 피하 주사 또는 비강 내 뿌리는 트립탄제를 사용할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[비약물 치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[170]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[긴장두통은 긴장과 스트레스를 완화하기 위한 마사지, 스파, 건강한 식사, 휴식, 적절한 운동 등이 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[예방]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[171]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[편두통은 약물을 사용하지 않고도 어느 정도 예방할 수 있습니다. 두통 일기를 기록해 자신의 유발요인을 파악하고 유발요인을 제거하거나 회피하도록 합니다. 흔한 유발요인으로는 스트레스, 특정 음식, 강렬한 빛이나 시끄러운 소리, 향수나 담배 냄새, 월경, 날씨 변화, 수면 부족이나 과잉 수면, 결식 등이 있습니다. 편두통을 잘 유발하는 음식물로는 치즈, 초콜릿, 커피, 붉은색 포도주, 우유 제품, 견과(호두, 밤 따위), 소금, 토마토, 코코넛, 음식 첨가물인 글루탐산 모노소듐(Monosodium Glutamate, MSG)가 포함된 중국 음식 등이 있습니다. 규칙적인 수면 습관, 카페인 음료의 중단, 규칙적인 운동, 규칙적인 식사, 금주 등의 생활 습관이 예방에 도움이 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[두통은 매우 흔한 증상이지만, 두통의 위험징후가 있다면 다른 질환이 원인일 가능성이 높으므로 바로 의사 진료를 받아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자가 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[172]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc6fe1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[175]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 두통이 나타날 때 병원을 방문하여 정밀 진단을 받아야 하는 경우는?
+
+A. 태어나서 처음 경험할 정도로 두통이 심하거나 시간이 지나도 두통이 사라지지 않고 계속될 때, 심한 구역감과 구토, 시야가 흐려지는 증상이 함께 나타날 때, 시간이 지날수록 두통이 점점 심해지거나 심하게 어지럽고 팔과 다리에 힘이 빠지거나 감각이 이상할 때, 의식이 점점 흐려질 때, 열이 나면서 두통이 있을 때는 다른 심각한 질환에 의한 두통인지 판단해야 하므로 정밀 진단을 받는 것이 좋습니다.
+
+Q. 두통약은 오래 복용해도 부작용이 없나요?
+
+A. 두통은 아주 흔한 신경 증상이기 때문에 많은 사람들이 경험하고, 이로 인해 약물을 복용하게 됩니다. 통증이 있을 때는 통증을 줄여주기 위해 진통제를 복용할 수 있고, 두통이 자주 생기는 경우에는 예방 목적으로 약물을 복용할 수도 있습니다. 통증을 줄여주기 위해 여러 종류의 진통제들을 너무 자주 또는 꾸준히 복용하면 처음에는 통증이 잘 조절되지만, 나중에는 오히려 두통이 더 자주 생길 수도 있습니다. 환자들이 더 많은 진통제를 복용하게 되면 통증이 더 심해지는 악순환이 반복되기도 합니다. 그러므로 두통이 자주 발생하는 경우 진통제를 복용하기 보다는 예방 목적의 약물을 처방받는 것이 좋습니다. 진통제를 많이 사용했는데도 두통이 더 심해진 경우에는 약물을 과감히 끊어야 하고, 이로 인한 금단 증상이 걱정되면 적절히 다른 약물을 복용하면서 진통제를 조금씩 줄여나가야 합니다. 진통제를 오랫동안 복용하면 위염, 위궤양 등의 위장 장애가 나타날 수도 있습니다.
+
+Q. 두통에 대한 일반적인 관리 방법은?
+
+A. 두통이 있는 쪽의 관자놀이 부근이나 두피, 목에서 눌렀을 때 통증이 있는 부분을 손가락으로 꾹꾹 눌러줍니다. 통증이 있는 곳에 냉찜질을 합니다. 자극적인 빛, 소리, 냄새가 있는 곳을 피하고, 머리나 목을 편하게 받쳐주는 베개를 이용 하여 휴식을 취합니다. 두통의 대부분은 스스로 관리할 수 있습니다. 스트레스 받는 상황을 피하고, 충분한 수면을 취하십시오. 균형 잡힌 식사를 하고, 편두통을 일으킬 수 있는 음식은 피하십시오.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[320]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 김영인. (2006). 두통의 진단과 치료. 스트레스연구. 14(2), 99-106.
+2. 노재규, 김지수, 안윤옥. (1997). 국내 편두통의 역학 및 임상특성연구. 대한신경과학회지. 15(1),1-18.
+3. 대한두통학회. (2022). 제3판 두통학.
+4. 문희수. (2018). 만성편두통의 이해와 최신지견. 대한의사협회지. 61(5), 314-322.
+5. 정진상. (2007). 편두통의 약물요법. 대한의사협회지. 50(10), 917-923.
+6. 한국정신신체의학회. (2019). 두통 진료지침.
+7. Ashina, S., Lars B., &amp; Messoud A. (2012). Pathophysiology of migraine and tension-type headache. Techniques in regional anesthesia and pain management. 16(1),14-18.
+8. Mathew, N.T. (1993). Chronic refractory headache. Neurology. 43(3), 26-3.
+9. Robbins, M.S. (2021). Diagnosis and Management of Headache: A Review. JAMA. 325(18), 1874-1885.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

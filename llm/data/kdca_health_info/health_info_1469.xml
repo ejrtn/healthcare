@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[색각이상(색맹)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[1469]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 색은 물체 고유의 성질이 아니라 빛의 반사와 흡수에 의해 결정되며, 사람의 눈과 뇌가 이를 해석해 인지합니다.
+• 색각이상은 눈의 원뿔세포 이상으로 색을 정상적으로 구별하지 못하는 상태를 말합니다.
+• 원뿔세포의 종류나 기능 이상에 따라 삼색형, 이상삼색형, 이색형, 단색형 등으로 나뉩니다.
+• 대부분은 유전적 원인으로 발생하며, 일부는 시신경이나 망막 질환 등 후천적 원인으로 생기기도 합니다.
+• 현재 근본적인 치료는 없으며, 보조 렌즈 등을 통해 일부 색 구분을 돕는 방법이 사용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[101]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[우리가 인지하는 색은 대상 고유의 색이 아니라, 대상이 부분적으로 흡수하고 부분적으로 반사하는 빛의 색입니다. 예를 들면 보라색은 430 nm, 초록색은 520 nm, 노란색은 575 nm, 빨간색은 650 nm의 파장에서 나타납니다. 가시광선은 전자기파 스펙트럼의 한 부분으로, 그 파장은 350~750 nm에 걸쳐 있습니다. 즉 색은 가시광선 스펙트럼에 속하는 빛 파장의 조합에 의해 만들어지는 현상입니다. 
+또한 색을 인지하는 사람의 색각은 주관적인 감각입니다. 대상의 고유한 물리적 특성이 아니라 개개인의 눈과 뇌신경계를 통해 만들어낸 결과란 뜻입니다. 따라서 같은 대상을 봐도 사람에 따라서 색에 대한 인식이 약간씩 다를 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[정의]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[102]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[눈의 시세포 등에 이상이 있어 일반적인 색각을 가진 사람과 다른 색각을 인지하는 것을 ‘색각이상’이라 합니다. 색각이상이 있으면 어떤 색을 전혀 인지하지 못하거나 다른 색과 구별하지 못할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[과거에는 색각이상자를 ‘색맹’이라고 불렀습니다. ‘맹(盲)’이란 전혀 볼 수 없다는 의미이므로 색맹이라고 하면 색을 전혀 볼 수 없다는 의미로 전달될 수 있습니다. 하지만 실제 색각이상자는 색의 분별 능력이 떨어져 있을 뿐 색을 전혀 보지 못하는 것은 아니기 때문에, 색맹이란 용어는 색각이상자 전체를 대표하기에는 부적절하며, 부정적인 의미를 담고 있기도 합니다. 따라서 매우 드문 단색형색각자를 제외하고는 가급적 사용하지 않는 것이 좋습니다. 발생 원리에 맞춰 색각이상의 유형을 구분해 부르는 것이 더 바람직합니다.
+
+
+사람의 눈에는 빛에 반응하는 시세포가 있습니다. 시세포 중 하나인 원뿔세포(cone cell)는 다시 세 종류로 분류됩니다. 세 가지 원뿔세포는 서로 다른 종류의 광색소를 가지고 있어서 민감하게 반응하는 빛의 파장이 서로 다른데, 그 빛 파장의 색깔에 따라 적색원뿔세포(red cone), 녹색원뿔세포(green cone), 청색원뿔세포(blue cone)라고 부릅니다. 특정 파장의 빛에 반응하는 정도를 분광민감도라고 하므로 분광민감도가 서로 다르다고도 할 수 있겠습니다. 색각이상은 세 가지 원뿔세포의 이상 정도와 유형에 따라 분류합니다. 
+
+1. 원뿔세포의 이상 정도에 따른 분류 
+몇 가지의 원뿔세포가 존재하는지, 원뿔세포의 분광민감도가 정상적인지에 따라 아래와 같이 분류합니다.
+
+1) 삼색형색각자(trichromat) 
+망막에 세 종류의 원뿔세포 즉, 정상적인 분광민감도를 가진 적색, 녹색, 청색 원뿔세포를 모두 가지고 있어 정상적인 색인식분별능력을 보유한 정상색각인(일반적인 색각을 가진 사람)을 말합니다.
+
+2) 이상삼색형색각자(anomalous trichromat) 
+적색, 녹색, 청색 세 가지의 원뿔세포가 모두 존재하지만, 그중 어느 한 가지 원뿔세포의 분광민감도가 비정상이어서 해당 색의 인식이 일반적인 색각을 가진 사람과 다른 경우입니다(유전적으로 원뿔세포 내 광색소가 일반적인 색각을 가진 사람과 달라 보통 사람보다 약간 다른 파장에 민감하게 반응합니다).
+
+3) 이색형색각자(dichromat) 
+세 가지 원뿔세포 중 두 가지만 지닌 경우로, 해당 색 인식에 상당한 장애를 갖습니다.
+
+4) 단색형색각자(monochromat) 
+한 가지 원뿔세포만 갖고 있거나, 원뿔세포가 전혀 없는 경우입니다. 이런 경우는 드문데 다른 색각이상과 달리 대부분 시력이 매우 나쁘며, 눈이 이리저리 흔들리는 안구진탕 현상도 동반됩니다.
+
+
+2. 비정상 원뿔세포의 유형에 따른 분류 
+존재하지 않거나 비정상적인 분광민감도를 가진 원뿔세포의 종류에 따라 아래와 같이 분류합니다.
+
+
+1) 제일색각이상(protan defect) 
+적색 원뿔세포의 기능 이상 혹은 결손이 있는 경우입니다. 적색이 빛의 삼원색 중 제1색이므로 제일 색각이상이라고 합니다. 적색 원뿔세포가 아예 없는 이색형색각자는 적색맹(protanopia)이라 하며, 적색 원뿔세포가 있지만 광색소가 달라 분광민감도가 정상과 다른 경우는 적색약(protanomaly)이라고 합니다.
+2) 제이색각이상(deutan defect) 
+녹색 원뿔세포의 기능 이상 혹은 결손이 있는 경우입니다. 녹색 원뿔세포가 없는 이색형색각자를 녹색맹(deuteranopia), 녹색 원뿔세포가 있지만 광색소가 달라 분광민감도가 비정상적인 경우를 녹색약(deuteranomaly)이라고 합니다.
+
+3) 제삼색각이상(tritan defect) 
+청색 원뿔세포의 기능 이상 혹은 결손이 있는 경우로, 전체인구의 0.005% 이하에서 나타나는 매우 드문 형태입니다. 청색 원뿔세포가 없는 이색형색각자를 청색맹(tritanopia), 청색 원뿔세포가 있지만 그 광색소가 비정상적인 경우를 청색약(tritanomaly)이라고 합니다. 
+
+
+원뿔세포의 이상 정도 그리고 이상 세포의 유형에 따른 위 두 가지 분류를 종합해 색각이상을 요약하면 다음 표와 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18a9d6ac96d4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 선천 색각이상 
+제일색각이상과 제이색각이상은 성염색체 관련 열성유전입니다. X염색체의 색각유전자에 이상이 있을 때 남자는 증상이 나타나는 색각이상자가 되고, 여자는 보인자가 됩니다. 아들은 모계 쪽, 딸은 부계 쪽의 유전을 받습니다. 따라서 아버지가 색각이상이라고 해서 아들이 색각이상이 되는 것은 아니며 오히려 아들은 모두 정상, 딸들은 모두 보인자가 됩니다.
+어머니가 보인자이고 아버지가 정상인 경우 아들이 색각이상이 될 확률은 임신마다 50%이며, 딸이 보인자가 될 확률 역시 임신마다 50%입니다. 성염색체 관련 유전의 특성상 여성은 보인자가 될 수는 있어도 증상이 있는 색각이상자가 되지는 않는 것이 보통이지만, 매우 드물게 아버지가 색각이상자이고 어머니가 색각이상보인자인 경우에는 딸에게 색각이상이 나타날 수 있습니다.
+또한 두 개의 X염색체 중 한 개가 비활성화된 경우(lyonization), 혹은 색각이상유전자를 가진 터너증후군인 경우 여성에서도 드물게 색각이상이 나타날 수 있습니다. 반면 제삼색각이상과 단색형색각이상은 상염색체 유전으로 남녀 비율이 비슷합니다.
+
+2. 후천 색각이상
+후천 색각이상은 시신경이상이나 망막질환, 신경계 이상, 화학약품 및 약품에 의해 발생하는 색각이상으로 전체 색각이상 인구 중 약 1% 미만입니다. 시신경이상으로는 시신경염, 레버씨 선천 시신경병증 등이 주요 원인질환이며, 망막이상으로는 연령관련황반변성, 당뇨망막병증, 망막색소상피변성 등 다양한 망막변성질환이 원인이 됩니다. 결핵약, 유기용제, 농약중독 등에서도 발생할 수 있으며, 후두엽 뇌경색, 뇌종양, 파킨슨병 등 뇌질환에서도 후천 색각이상이 나타날 수 있습니다. 후천 색각이상은 선천 색각이상과 달리 대부분 제삼색각이상으로 청색약 혹은 청색맹의 빈도가 더 높습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[원인]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[104]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18a9d6f0c267]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[색의 인식은 구체적으로 망막 내 시세포 중 하나인 원뿔세포의 기능이 좌우합니다. 원뿔세포는 빛을 감지해 그 자극을 신경신호로 바꿉니다. 원뿔세포는 종류에 따라 민감하게 반응하는 빛 파장의 영역이 다르며(분광민감도), 이것은 각 원뿔세포의 고유한 특성입니다. 원뿔세포는 분광민감도에 따라 긴 파장에 민감한 원뿔세포(570~590 nm), 중간 파장에 민감한 원뿔세포(535~550 nm), 짧은 파장에 민감한 원뿔세포(440~450 nm) 등 세 가지로 나눌 수 있습니다. 각각은 그 파장이 반영하는 색깔에 따라 적색 원뿔세포, 녹색 원뿔세포, 청색 원뿔세포라고도 합니다.
+사람은 세 가지 원뿔세포가 자극받는 비율에 따라 모든 색을 구별할 수 있는데, 이를 색각의 삼색설(trichromatic theory)이라고 합니다. 적색, 녹색, 청색의 3원색을 배합해 모든 색을 표현할 수 있다는 개념입니다. 원뿔세포의 기능에 이상이 있으면 색각이상이 생깁니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[병태생리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[106]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18992317beb4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[역학 및 통계]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[107]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[색각이상은 흔한 증상으로 전체 남성의 약 5~8%에서 나타납니다. 서양에서는 남성의 8%, 여성의 0.5%가, 국내에서는 남성의 5.9%, 여성의 0.4%가 색각이상이라고 알려져 있습니다.
+색각이상 중에서는 녹색계열 색각이상이 가장 흔하며, 적색계열 색각이상이 그다음으로 많습니다. 청색계열 색각이상과 완전색맹은 매우 드뭅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[색각이상이 있으면 일반적인 색각을 가진 사람과 다르게 색을 인식하므로 일상생활이 불편할 수 있습니다. 하지만 색을 전혀 구분하지 못하는 경우는 매우 드물어서, 대부분의 색각이상자는 색각 검사를 통해 발견되기 전에는 스스로 이상을 느끼지 못하는 경우가 많고 큰 불편 없이 일상생활을 할 수 있습니다.
+색각이상 중에서 가장 흔한 유형인 녹색약은 원뿔세포 광색소의 분광민감도 분포가 일반적인 색각을 가진 사람의 적색 원뿔세포와 녹색 원뿔세포의 민감도 사이에 위치하는데, 이 민감도가 정상에서 얼마나 멀어져 있는지에 따라 증상의 정도가 결정됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9595a77]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[이색형색각인 적색맹이나 녹색맹은 원뿔세포 한 가지가 없으므로 증상이 더 심한 편입니다.
+예를 들어, 제일색맹 즉, 적색맹은 긴 파장의 영역에 반응하는 광색소가 없으므로 650 nm 이상의 붉은 색에 둔감해 붉은 색을 검은 색으로 본다든지, 검은 색 옷을 입어야 하는 자리에 붉은 색 계통의 옷을 입고 간다든지 하는 일이 생길 수 있습니다.
+제이색맹 즉, 녹색맹의 경우에는 중간 길이 파장 즉 녹색 계통의 색파장에 민감한 원뿔세포가 존재하지 않습니다. 녹색보다 장파장 쪽은 노란색으로, 녹색보다 단파장 쪽은 파란색으로 인지하게 되어 세상을 노란색과 파란색 두 가지 계통의 색으로 감지하는 경향이 생깁니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18ad6becf472]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[한 연구에 의하면 이상삼색형색각자의 66%, 이색형색각자의 99%가 색각이상으로 인해 일상생활에 불편을 느낍니다. 색각이상의 유형에 따라 실제 색각이상자가 어떻게 사물의 색을 느끼는지 시뮬레이션하면 다음 그림과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[증상]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[108]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9595c09]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[색각이상 검사는 그 목적에 따라 선별검사(screening), 정도판정검사(grading), 진단확정검사(diagnostic), 직업적성검사(vocational)로 나눌 수 있습니다. 각 검사의 구체적 종류는 다음과 같습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18ad6b176a52]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 가성동색표 검사(pseudoisochromatic plates test)
+가성동색표는 동일한 색점으로 구성된 숫자나 모양을 혼동하기 쉽도록 비슷한 색의 색점과 함께 배열해 둔 검사표입니다. 일반적인 색각을 가진 사람은 숫자나 모양을 쉽게 알 수 있지만, 색각이상자는 주변색과 혼동해 형태를 알아보지 못하거나 다른 숫자로 읽게 됩니다.
+
+1) 이시하라 색각검사(ishihara pseudoisochromatic plates test) 
+1917년 일본 안과의사 이시하라가 개발한 이후 수차례 개정을 거쳐 현재 전 세계적으로 가장 널리 이용되는 색각검사법입니다. 휴대가 간편하고 검사 방법도 간단해 대부분의 색각이상자를 손쉽게 발견할 수 있는 우수한 선별검사입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd9595ce1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18aa3661d328]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) H-R-R 색각검사(hardy-rand-rittler pseudoisochromatic plates test) 
+동그라미, 세모, 가위의 세 가지 모양을 발견하는 검사로 숫자에 익숙하지 않은 소아나 성인에게 적용할 수 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95961a7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 색배열법 검사 
+색 순서대로 배열된 일련의 색패를 무작위로 섞은 후 다시 원래 순서로 배열하는 방법으로, 제일, 제이, 제삼색각이상을 구분하고 그 정도를 판정하는 검사입니다.
+
+
+1) FM 100 색각검사(farnsworth-munsell 100-hue test) 
+85개의 서로 다른 색패를 네 상자에 나누어 담고 이를 색 순서대로 배열해 인접 색과 구분할 수 있는지 측정하는 방법입니다. 인접하지 않은 색패를 잘못 인식해 인접하게 배열할수록 오류값이 증가해, 오류값의 총합(total error score)과 그 패턴으로 색각이상의 종류와 정도를 판정합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18b6ab3c12a2]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 패널 D-15 검사 
+15개의 색패를 색 순서대로 배열하도록 한 뒤 색패 뒷면에 표시된 숫자를 번호 1번부터 기록용지에 연결해 배열된 모양을 근거로 색각이상을 판정합니다. 기록용지의 지시선 축 중 어느 방향과 횡단선이 일치하는가에 따라서 제일, 제이, 제삼색각이상으로 분류합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18a9d8b806a4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 색각경 검사(anomaloscope)
+색각경 검사는 선천 색각이상의 진단과 분류, 정도 판정에 가장 민감하고 정확한 결과를 보여 모든 색각검사의 표준이 됩니다. 하지만 사용법이 어려워 검사자가 상당히 숙련되어야 하고, 검사 시간이 오래 걸리며, 장비 가격이 비싸다는 단점이 있어 실제 사용은 매우 제한적입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18a9d8cd7e47]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[진단 및 검사]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[109]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4) 색등검사(lantern test)
+색등검사는 특정 직업에서 업무수행 적성평가를 위한 목적으로 이용됩니다. 철도, 선박, 항공 업무 종사자가 실제 신호의 식별 능력이 있는지 판정하는 데 사용합니다. 운전면허 취득 시 시행하는 삼색등 검사도 업무수행 능력평가에 근거를 둔 색등검사의 일종입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[치료]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[110]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[색각이상은 선천성으로 원뿔세포의 기능에 문제가 있는 상태로 아직까지 근본적인 치료가 불가능합니다. 착색 콘택트렌즈나 안경을 사용해 이시하라 가성동색표 검사 색표를 맞추는 등 부분적으로 보정할 수는 있습니다. 색 분별 능력 자체를 개선시키는 것이 아니라 인접한 두 색을 한쪽은 밝게, 한쪽은 상대적으로 어둡게 만들어 명암 차, 밝기 차를 증강해 더 쉽게 구분할 수 있게 해주는 방법입니다. 따라서 실제 색 인식능력은 오히려 감소할 수도 있습니다.
+현재 시중에서 구입 가능한 콘택트렌즈는 주요 국가의 식품의약품안전청 허가를 받은 것입니다. 7~8가지 색을 이용한 서로 다른 종류의 렌즈를 직접 색각이상자에게 검사해 가장 효과 있는 색의 렌즈를 선택할 수 있습니다. 마젠타 색상이 제일 많이 이용됩니다. 모든 색각이상자에게 도움이 되는 것은 아니고, 해당 색상의 구별이 업무나 생활에 매우 중요한 경우에 한해 선택적으로 적용하는 방법으로 오히려 렌즈가 일상생활과 업무에 방해가 될 수도 있으므로 안과 전문의와 상담 후에 신중하게 결정하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 흔히 말하는 적록색맹은 적색약과 녹색약이 함께 나타나는 것이 아닌가요?
+
+A. 적록색맹은 제일색각이상(적색약과 적색맹)과 제이색각이상(녹색약과 녹색맹)을 모두 포함해 이르는 말로 쓰였지만, 제일색각이상과 제이색각이상이 동시에 나타나는 것은 아닙니다. 색각이상 발생 원리에 맞게 적색 원뿔세포의 이상인 경우 적색맹 혹은 적색약, 녹색 원뿔세포의 이상인 경우 녹색맹 혹은 녹색약으로 부르는 것이 더 바람직합니다.
+
+Q. 색각 이상자가 직업이나 대학을 선택할 때 참고해야 하는 기준이나 규정이 있나요?
+
+A. 과거에는 색각이상이 있으면 자연계, 의대, 미대 등은 무조건 포기해야 했습니다. 일반 회사에 취업할 때 불리한 대우를 받기도 했습니다. 하지만 색각이상이 있어도 정도에 따라 대부분 일상생활에 큰 불편이 없다는 사실이 알려지면서, 색각이상 자체만으로 직업 선택이나 교육 기회 결정 과정에 불평등한 대우를 받아서는 안 된다는 사회적 인식이 점차 확산되고 있습니다. 최근 몇 년 새에 색각이상과 관련한 취업 규정이 상당 부분 완화되었고 점차 합리적인 방향으로 변해가고 있습니다. 국내에서 색각이상자가 직업 혹은 대학 선택 시에 유의해야 할 현행 기준은 다음과 같습니다(2023년 3월 기준).
+
+1. 항공 직종
+색각이상 관련 규정이 가장 까다로운 곳은 항공관련 직종입니다. 전 세계적으로 공통적인 현상인데 국내의 항공 관련 모든 직종은 색각이 정상이어야 합니다. 그 정도가 미미해도 허용되지 않습니다.
+
+2. 해운 직종
+해양수산부령 경찰공무원 2008년 7월 개정 임용규칙에 따라 기존의 ‘색맹이 아니어야 한다’에서 ‘정상 또는 약도 색약이어야 한다. 다만 항공, 항해 분야는 정상 색각이어야 한다’로 변경되었습니다. 선원법에 의한 선원 건강규정이나 대부분의 해운회사의 규정은 ‘색각이상의 정도가 강도에 해당하지 아니할 것’으로 정해져 있어서 약도의 색각이상은 허용하고 있습니다.
+
+3. 철도운전 직종
+철도안전법에 따라 색각이상은 허용되지 않습니다.
+
+4. 소방 직종
+2008년 12월 개정된 규정에 의해 의무소방원의 신체검사 기준은 ‘색각이상(색맹 또는 적색약)이 아니어야 한다’라고 정해져 있습니다. 제이색약 즉, 녹색약은 허용하는 규정입니다.
+
+5. 경찰 공무원
+종전 ‘색맹(색약을 포함한다)이 아니어야 한다’ 규정에서 2008년 ‘색각이상(약도 색각이상을 제외한다)이 아니어야 한다.’로 개정되었습니다.
+
+6. 일반 공무원
+업무수행에 현저한 지장이 있는 색각이상의 경우에만 채용을 제한하고 있습니다.
+
+7. 운전면허 취득
+색채식별의 기준이 완화되어 삼색등 검사를 통해 신호등의 삼색을 구분할 수 있으면 면허 취득이 가능합니다.
+
+8. 대학진학
+• 항공대학교의 항공운항과는 색맹, 색약이 불합격 기준입니다.
+• 경찰대학교는 약도색각이상은 입학 가능하고 색맹은 불합격처리 됩니다.
+• 육군사관학교: 색각이상 관련 규정은 없습니다.
+• 해군사관학교: 색약은 합격 가능하나, 임관 병과 분류 시 함정 및 항공 병과는 불가능합니다.
+• 공군사관학교: 색각이상자는 불합격입니다.
+
+관련 규정은 변경될 수 있으므로 지원 전 해당 기관의 최신 모집요강과 법령을 확인하는 것이 좋습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[121]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[색각이상, 색맹, 색약, 색각검사, 가성동색표]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 한국신경안과학회. (2022). 장봉린 신경안과학 (제4판). 서울: 일조각.
+2. 엄부섭, 박성후, 박현준, 변익수, 서제현, 이종수, 이지웅, ..., 최희영. (2013). 안과검사 (제3판). 서울: 내외학술.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

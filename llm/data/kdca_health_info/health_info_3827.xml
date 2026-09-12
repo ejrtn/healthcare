@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[심전도검사]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[3827]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[7]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심장은 전신에 혈액을 공급하는 장기이며, 2개의 심방(좌심방, 우심방)과 2개의 심실(좌심실, 우심실)로 이루어져 있습니다. 우심방 위쪽에는 동방결절이라는 부분이 있는데 이곳에서 심장 전체로 보낼 전기 신호를 만들어 냅니다. 이렇게 만들어진 전기 신호는 심장의 전기 전도 시스템을 따라 심장 전체에 전달되고, 신호를 받은 심장 근육이 수축하면서 심실 안에 있는 혈액을 전신으로 보냅니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1894cf7ca8f7]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[개요]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[236]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심전도란 피부에 부착한 전극을 통해 심장의 전기 신호를 측정하여 그림으로 기록하는 것으로, 심장 검사 중에서 가장 기본입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 목적]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[237]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심전도 검사는 심장의 전기 신호를 기록해서 심장이 비정상적으로 뛰는 부정맥을 진단하거나 심장 비대, 관상동맥질환 등 각종 심장 질환을 조기에 찾아내는데 사용됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 적응증 및 금기증]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[238]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심전도 검사는 가슴 통증, 호흡 곤란 같은 증상이 있는 환자나 고혈압과 같이 심장에 영향을 주는 질환이 있는 환자에서 시행합니다. 또한, 수술 전 환자들도 전신 마취 전에 심장 기능을 확인하기 위해 기본 검사로 시행합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 표준 12유도 심전도 
+가장 표준적인 심전도 검사 방법으로, 6개의 표준사지유도와 6개의 흉부유도, 총 12개의 그래프를 기록합니다. 그러나 기록 시간이 짧기 때문에 자주 일어나지 않는 심장의 전기적인 현상을 발견하지 못할 수도 있습니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=1894dfdb3937]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2. 운동부하 심전도 검사 
+1) 검사 개요와 목적 
+운동부하 심전도 검사는 관상동맥질환(협심증, 심근경색)이나 부정맥을 진단하고 치료하기 위한 검사입니다. 전형적인 협심증은 증상이 안정 상태에서는 나타나지 않다가 활동하면 나타나는 질환입니다. 그래서 안정 상태에서 시행한 심전도 검사만으로는 협심증을 정확하게 진단하기 어렵습니다. 따라서 이 검사에서는 활동할 때의 심장 상태와 비슷하게 심장에 부하를 주는 상황을 만들기 위해 실제 운동을 하면서 심전도와 심박수, 혈압을 측정하게 됩니다. 부정맥 환자에서 운동할 때 부정맥이 일어나는지도 확인할 수 있습니다.
+
+
+2) 검사 방법 및 내용
+러닝머신과 비슷한 기계 위에서 처음에 천천히 걷다가 점차 빠르게 걷거나 뛰면서 검사합니다. 운동하는 동안 계속 심전도를 모니터링하고 혈압을 측정합니다. 만약 뛰는 동안 가슴에 통증이 생기거나 호흡곤란이 생기면 검사를 중단해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=18aa84e87816]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[3) 발생 가능한 합병증 및 부작용
+이 검사는 관상동맥질환이나 부정맥에 대한 검사이므로 어느 정도의 위험성이 있을 수 있습니다. 평소에 느끼던 가슴 통증이 나타나거나 숨이 많이 가쁘고 가슴이 심하게 뛰거나 어지럽다면 검사를 중단해야 합니다. 환자의 심장 기능이 좋지 않거나 관상동맥이 많이 좁아진 경우에는 검사 중에 협심증, 급성심근경색증, 부정맥 등이 생길 수 있습니다. 하지만 이 검사는 숙달된 전문 의료진이 시행하며 부작용이 발생하면 바로 응급 처치를 받을 수 있기 때문에 과도하게 두려워할 필요는 없습니다.
+
+4) 검사 후 주의사항 
+검사가 끝난 후 30분 정도 검사실에 머물면서 가슴 통증 등 관련 증상 나타나는지 확인해야 합니다. 하지만, 관상동맥질환이 있는 환자의 경우에는 검사 후 몇 시간이 지나서 가슴 통증이 생길 수 있으므로 귀가 후에도 증상이 나타나는지 계속 확인해야 합니다.
+
+3. 활동중 심전도 검사(홀터 감시)
+1) 검사 개요와 목적 
+심전도는 대략 10초 동안 심장의 전기 신호를 기록하기 때문에 자주 발생하지 않는 부정맥은 검사 도중 나타나지 않으면 찾아내지 못할 수 있습니다. 따라서 부정맥이 의심될 때는 오랜 시간 동안 심전도를 기록해야 정확한 진단을 할 수 있습니다. 홀터 감시는 24시간에서 한 달여 동안 심전도를 기록하는 검사입니다.
+
+2) 검사 방법 
+아래 그림과 같이 전극을 붙인 채로 일상생활을 합니다. 환자는 기계를 착용하고 있는 동안 증상이 나타나면 그 시각과 증상의 특성을 일기에 적거나 스위치를 눌러서 기록합니다. 이 검사를 하는 동안 두 번 검사실을 방문하게 됩니다. 첫날은 기계를 부착하고, 검사가 끝난 후에는 기계를 떼어냅니다. 그런 다음 이 기계에 기록된 내용을 담당 의사가 분석합니다. 분석 과정에서 부정맥과 다른 중요한 심전도 변화가 있는지 점검합니다. 환자가 증상이 있다고 기록한 시각의 심전도 변화를 분석하여 그 증상이 심장의 문제와 관련이 있는지 확인하게 됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d5bf1]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 장비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[241]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[4. 그 밖의 심전도 검사 
+° 사건 기록계
+
+1~2주 동안 기계를 착용하면서 증상이 있을 때 심전도를 기록하는 방법입니다. 홀터 감시와 같은 방법으로 전극을 부착하지만, 홀터 감시는 부착 기간 동안 연속적으로 심전도를 기록하는 반면, 사건 기록계는 환자가 스위치를 누를 때만 심전도를 기록합니다. 매일 증상이 나타나지 않고 며칠에 한 번씩 나타나는 부정맥을 진단하는데 유용합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 준비]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[242]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[검사 전 특별한 준비 사항은 없으나, 검사에 영향을 줄 수 있는 시계나 전자 제품 같은 것은 몸에 착용하지 않아야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[환자가 침대에 누우면 알코올 솜으로 전극을 붙일 피부 부위를 닦아 분비물을 제거합니다. 그 다음 전기 신호를 잘 전달하기 위해 전극연고나 젤리를 발라줍니다. 표준 심전도 검사에서는 그림과 같이 양쪽 팔목과 발목, 가슴 부위 6곳에 총 10개의 전극을 부착합니다. 이 검사는 5분 이내에 끝납니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 절차]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[243]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=173bd95d5df4]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[검사 결과 해석]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[244]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 정상 소견 
+심박동수가 분당 60~100회이고, 리듬이 규칙적이며 심전도 파형의 크기와 형태가 정상일 때 정상 심전도라고 말합니다. 하지만 정상 심전도라고 해서 심장 관련 질환을 배제할 수는 없으므로, 가슴 통증, 두근거림, 운동할 때 호흡곤란 등의 증상이 있다면 반드시 전문의에게 추가적인 검사를 받아야 합니다. 특히, 가끔씩 나타나는 부정맥은 한 번의 심전도 검사로 발견하지 못할 수도 있습니다.
+
+2. 비정상 소견 
+다음과 같은 질환이 있는 경우, 검사 결과가 정상과 다를 수 있습니다.
+ ˚ 부정맥
+
+ ˚ 심장 비대 
+ ˚ 선천성 심장 기형 
+ ˚ 심장 판막 질환 
+ ˚ 심근 질환 
+ ˚ 관상동맥질환
+ ˚ 심장의 염증성 질환 
+ ˚ 전해질 불균형
+
+
+하지만 정상인 경우에도 위의 질병이 있을 때 나타나는 모양과 유사한 심전도 소견이 나올 수 있습니다. 따라서 심전도 검사에서 문제가 보이면 전문의에게 진료를 받아 심전도의 비정상 소견이 중요한 문제인지 아닌지 확인해야 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[246]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 심전도 검사가 필요한 경우는 구체적으로 무엇인가요? 
+
+A. 심전도 검사는 두근거림, 어지러움 같은 부정맥 증상이 있거나, 가슴 통증이나 호흡 곤란 등의 심장 질환이 의심되는 경우 시행하는 기본적인 검사입니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[연관 주제어]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[247]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[심전도, 운동부하심전도, 활동중심전도, 홀터검사, 사건기록계, 부정맥, 협심증, 심근경색증]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>

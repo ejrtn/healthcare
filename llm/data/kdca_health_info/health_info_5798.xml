@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML>
+	<HEAD>
+		<CODE>S001</CODE>
+		<MESSAGE>OK</MESSAGE>
+	</HEAD>
+	<svc>
+	<CNTNTSSJ><![CDATA[치통 및 만성 통증(구강안면부의 만성 통증)]]></CNTNTSSJ>
+	<CNTNTS_SN><![CDATA[5798]]></CNTNTS_SN>
+	<LCLASSN><![CDATA[1]]></LCLASSN>
+	<cntntsClList>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[요약문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[3666]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA['이것만은 꼭 기억하세요'
+• 구강안면부 만성 통증은 턱관절장애 외에도 구강작열감증후군, 삼차신경통, 긴장성 두통, 신경병증성 통증 등 다양한 원인으로 발생합니다.
+• 구강작열감증후군은 혀와 구강 점막의 화끈거림이 특징이며, 원인이 불명확하고 전신질환이나 영양결핍, 심리적 요인과 연관될 수 있습니다.
+• 삼차신경통은 얼굴에 전기 자극처럼 갑작스럽고 심한 통증이 반복되는 질환으로, 주로 신경 압박이 원인입니다.
+• 긴장두통은 스트레스와 관련되어 머리가 조이는 듯한 통증이 나타나며 생활습관 개선과 약물치료가 도움이 됩니다.
+• 외상 후 신경병증과 포진 후 신경통은 신경 손상이나 바이러스 감염 이후 발생하는 통증으로, 조기 치료와 지속적인 관리가 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[구강안면부에 발생하는 만성 통증의 원인으로는 턱관절염, 턱관절내장증, 저작근장애 등을 포함하는 턱관절장애, 구강작열감증후군, 삼차신경통, 긴장두통, 신경병증성 통증 등이 있습니다. 이 중에서 턱관절장애는 다른 장에서 별도로 다루어지기 때문에 여기서는 이를 제외하고 다루겠습니다.
+
+
+1. 구강작열감증후군 
+
+1) 정의 및 원인 
+구강작열감증후군(burning mouth syndrome)이란 혀, 입술, 구강점막이 화끈거리거나 따가운 증상이 지속적으로 나타나는 상태를 말합니다. 진단이 어려워 정확한 유병률을 추정하기 어려우나 선행연구에 따르면 약 0.1~3.7%에서 발생하는 것으로 알려져 있으며, 남성보다 여성에서 압도적으로 많이 발생하며, 특히 폐경 이후의 여성에게서 빈번하게 발생합니다.
+
+구강작열감증후군의 원인은 아직 명확하게 밝혀져 있지 않지만, 몇 가지 국소적 · 전신적 요인이 연관 있을 것으로 추정하고 있습니다. 국소적 요인으로는 치아 마찰에 의한 구강점막조직의 물리적 자극, 칸디다증 등이 있으며, 전신적 요인으로는 당뇨병, 영양결핍(철, 엽산, 비타민B12, 비타민 B6, 아연 등), 구강건조증, 항고혈압제의 복용, 심리적 요인 등이 있습니다. 
+이와 같은 국소적 및 전신적 요인에 의해 구강작열감이 발생한 경우를 이차성 구강작열감증후군이라고 구분하며, 이러한 경우 해당 요인들을 치료하면 구강작열감도 감소하기도 합니다. 하지만 해당 요인을 관리한 후에도 구강작열감이 지속되거나, 검사를 통해 명확한 원인을 확인할 수 없는 경우도 존재하며, 이러한 경우는 일차성 구강작열감증후군이라고 부릅니다. 아직까지 일차성 구강작열감증후군이 어떻게 발생하는지 구체적으로 밝혀지지 않았으나, 현재까지의 연구들을 통해 신경계 기능 이상으로 생기는 통증(신경병증성 통증)으로 간주하고 있습니다.
+
+
+2) 증상
+구강작열감증후군에서 관찰되는 통증은 작열감(화끈거림)이나 따가운 형태로 나타나고, 혀의 전방부와 측면에서 주로 발생하지만 입술을 비롯한 입천장과 잇몸, 그리고 구강인두 등 구강 내 모든 점막에서 나타날 수 있습니다. 
+구강 내 작열감은 지속적이고 자발적으로 나타나기에 일상생활에서 큰 불편을 유발합니다. 또한 맵고 뜨거운 음식과 같이 자극적인 음식이 닿을 때 증상이 심해지는 경우도 있어 식사에 어려움을 겪을 수 있습니다. 일부 환자들은 구강건조감이나 미각 변화와 같은 감각이상 증상이 동반되기도 합니다. 
+통증의 정도는 경미한 정도에서 매우 심한 정도까지 다양하며, 통증이 하루 종일 비슷하게 나타날 수도 있고 시간대에 따라 달라질 수도 있습니다. 일부 환자는 아침에 일어났을 때에는 통증이 거의 없다가 시간이 지날수록 구강점막의 작열감으로 인한 통증이 심해져 잠을 잘 수 없다고 호소하기도 합니다. 대부분의 환자는 구강검사에서 특이한 소견을 보이지 않습니다.
+
+3) 치료
+구강작열감증후군은 원인이 다양하거나 때로는 명확한 원인 없이 나타나기 때문에 치료가 쉽지 않지만 우선 의심되는 원인부터 치료해야 합니다. 당뇨병이나 영양장애가 있으면 이에 대한 치료를 해야 하고, 칸디다증이 의심되면 항진균제를 투여해야 하며, 침이 적게 나오는 경우에는 인공타액과 같은 타액 대체제나 침분비를 촉진시키는 약을 복용하도록 합니다. 국소적 · 전신적으로 원인을 찾을 수 없는 경우에는 구강작열감증후군을 신경병증성 통증으로 간주하고 치료해야 합니다. 
+이런 경우에는 클로나제팜(clonazepam), 아미트립틸린(amitriptyline), 가바펜틴(gabapentin) 등과 같은 신경병증성 통증을 조절하는 약제를 사용합니다. 이러한 약물 치료를 통해 구강 작열감 감소에 많은 도움을 얻을 수 있으나, 완치는 아직 어려우며 장기간의 관리가 필요합니다.
+
+
+2. 삼차신경통 
+
+1) 정의 및 원인  
+삼차신경은 제5뇌신경이라고도 하며, 뇌에서 직접 나오는 12개의 뇌신경 중 하나로 얼굴과 입의 일반감각을 담당하는 지각기능과 저작근에 대한 운동기능이 있습니다. 삼차신경이라는 이름은 이 신경이 세 개의 가지로 나누어져 있는 것에서 유래하였는데, 가장 위에 있는 제1분지는 안신경, 제2분지는 상악신경(위턱 신경), 제3분지는 하악신경(아래턱 신경)입니다.
+삼차신경통이란 삼차신경이 분포하는 부위에 쑤시고 타는 듯한 통증이나 전기가 통하는 것과 같은 심한 통증 발작이 일어나는 것을 말합니다. 이 통증은 주로 얼굴의 한쪽에서만 나타나고, 삼차신경의 세 개의 가지 중 한 곳이나 두 곳 이상에서 발생합니다. 삼차신경통은 주로 50대 이후에 발생하며, 남성보다 여성에서 더 흔하게 발생합니다. 
+삼차신경통이 생기는 가장 흔한 원인은 혈관이 삼차신경을 압박해서 생기는 것으로 알려져 있으나, 드물게 뇌종양, 뇌경색, 동정맥 기형, 다발성경화증 환자에서 이차적으로도 발생할 수 있으므로 감별진단을 위하여 뇌 자기공명영상( Brain Magnetic resonance imaging, Brain MRI) 촬영이 요구됩니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[https://is.kdca.go.kr/cscdnhfile/health/healthNewDown/healthInfoFileDown.do?SEQ=17e8a6fc2b71]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[종류]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[103]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[2) 증상  
+삼차신경통의 특징은 얼굴을 만지거나, 면도, 대화, 양치질 등과 같은 가벼운 자극에 의해 갑자기 전기쇼크처럼 심하게 발작성으로 발생하는 짧고 찌르는 듯한 통증입니다. 통증발작은 몇 초 동안 지속되나 때로는 발작이 연속적으로 일어나서 통증이 더 지속될 수도 있습니다.  
+
+이러한 통증은 보통 한쪽에서 하나 이상의 삼차신경의 지배 영역을 따라 발생합니다. 상악신경과 하악신경의 지배 영역에서 주로 발생하며, 안신경에서는 드물게 발생하는 편입니다.
+
+3) 치료
+삼차신경통의 치료 방법은 약물 치료와 외과적 치료로 나눌 수 있습니다. 일반적으로 일차적 치료는 약물치료이며, 현재까지 가장 효과적인 약물은 카바마제핀(carbamazepine)으로 알려져 있습니다. 그 밖에 바크로펜(baclofen), 페니토인(phenytoin), 가바펜틴(gabapentin), 토피라메이트(topiramate) 등도 사용될 수 있습니다. 그러나 고용량의 카바마제핀을 투여하면 백혈구 감소증, 부종, 알레르기, 저나트륨혈증, 어지러움 등의 부작용이 나타날 수 있으므로 장기간 사용하는 경우에는 주의가 필요합니다. 
+경구 약물 복용으로 삼차신경통의 통증 조절이 어렵거나 약물의 부작용으로 지속적인 투여가 불가능한 경우는 신경차단술(nerve block)이나 미세혈관감압술(microvascular decompression, MVD) 같은 외과적 치료 방법을 선택하여야 합니다. 
+
+3. 긴장두통
+1) 정의 및 임상 증상 
+긴장두통은 머리가 조여 들거나 무겁고 욱신거리는 느낌으로 나타납니다. 대개 머리의 양쪽에서 통증을 느끼며 오전보다는 오후에 더 심해지고 통증의 강도는 일정하지 않지만 극심하게 나타나지는 않습니다. 긴장두통이 잘 생기는 부위는 전두부, 측두부, 후두부이지만 위치가 변하는 경우가 많고 머리 전체에 띠를 두른 것같이 조여 드는 느낌으로 나타나기도 합니다. 대부분의 긴장두통은 갑자기 발생하며, 평균 지속시간은 12시간 정도이지만, 30분에서 7일까지 지속되는 등 지속시간에 대한 편차가 큽니다.
+
+2) 원인  
+긴장두통의 정확한 원인은 아직까지 알려져 있지 않습니다. 과거에는 근육의 긴장 때문에 나타나는 것으로 여겨 긴장두통을 근수축성 두통 혹은 근긴장성 두통이라고 불렀습니다. 하지만 최근의 연구 결과를 보면 근육의 긴장이 두통과 관련이 없거나, 오히려 두통에 의해 나타날 수 있다고 보고하였습니다. 종합하면, 근육의 긴장과 통증이 긴장성 두통에 일부 영향을 미칠 수 있지만, 이것만으로는 긴장두통의 원인을 다 설명할 수 없다고 볼 수 있습니다. 
+또한 정서적 스트레스, 불안, 우울과 같은 요인들이 뇌의 변연계 활성도에 영향을 주어 긴장두통을 유발하는데 밀접한 관련이 있을 것으로 추정하고 있습니다.
+
+3) 치료  
+긴장두통의 치료는 환자를 교육하는 것으로부터 시작합니다. 환자에게 두통을 악화시키는 요인을 피하게 하고, 특히 만성적으로 복용하고 있는 약물이나 카페인 섭취를 줄이도록 합니다. 정서적 스트레스도 중요한 원인 중 하나이므로 스트레스를 일으키는 요인을 피하거나 행동요법을 통하여 스트레스를 조절하도록 합니다. 또한 비스테로이드항염증제나 삼환계 항우울제의 복용 등도 치료에 도움이 될 수 있습니다.
+
+
+4. 외상 후 삼차신경병증
+
+1) 정의 및 원인 
+
+신경손상과 관련되어 발생하는 통증으로, 제3대구치(사랑니)의 수술적 발거, 하악신경 전달마취, 임플란트 수술, 치아의 신경치료 등 치과 치료 중 발생하는 의원성 외상에 의하여 발생할 수 있습니다. 또한 바이러스 감염이나 방사선 치료, 골절, 악성 종양의 전이 등에 의해서 발생하기도 합니다.  
+
+
+2) 증상  
+신경계의 손상으로 나타나는 감각 및 기능이상은 손상 정도에 따라 매우 다양하게 나타납니다. 예를 들면 감각신경에 손상이 있으면 감각상실, 감각둔화, 통각둔화 등과 같이 감각이 둔화된 증상을 나타낼 뿐만 아니라 지각이상, 이상감각, 통증 등과 같이 감각이 비정상적으로 민감해지기도 합니다. 실제로 하악신경에 손상이 있는 것으로 추정되는 환자들을 문진해보면 ‘입술이나 혀가 마취된 것 같다’, ‘감각이 없다’, ‘맛을 못 느낀다’와 같은 감각둔화 증상을 호소하기도 하지만, ‘저리다’, ‘찌릿찌릿하다’, ‘화끈거린다’, ‘따끔따끔하다’, ‘콕콕 쑤신다’, ‘이상한 맛이 난다’ 등과 같은 감각과민 증상을 호소하기도 합니다. 
+외상 후 삼차신경병증은 지속적이거나 발작성의 통증뿐만 아니라 불쾌한 감각이 함께 나타납니다. 이러한 통증은 일반적인 염증성 통증과는 달리 비스테로이드소염제에는 거의 반응을 하지 않기 때문에 환자들이 매우 지치거나 고통스러워합니다.
+
+
+3) 치료
+신경조직이 손상되면 회복이 느리고, 때로는 영구적인 장애가 남기 때문에 가능한 신경손상이 발생하지 않도록 하는 것이 중요합니다. 일단 신경손상의 증상이 나타나면 조기에 적절한 치료를 하는 것이 중요합니다. 가장 많이 사용되는 치료제는 항우울제와 항경련제이지만, 아직까지 신경 손상을 완치시키는 약제는 개발되지 않았습니다. 증상에 따라 서로 다른 계열의 약제를 복합적으로 투약하는 것이 더 효과적일 수도 있습니다. 그러나 약제의 장기 사용에 따른 부작용에 유의해야 하므로 반드시 전문 병원에서 치료를 받아야 합니다.
+
+
+5. 포진 후 신경통 
+
+1) 정의 및 원인 
+수두포진 바이러스 감염에 의해서 발생하는 대상포진이 사라진 후에도 신경통이 계속되는 것을 포진 후 신경통이라고 하며, 면역기능이 떨어진 고령의 환자에서 자주 발생합니다. 어릴 때 수두를 앓았던 사람들의 경우, 이 바이러스가 배근 신경절에 잠복해 있다가 면역기능이 떨어지면 그 신경 분포 부위에서 활성화되어 통증을 일으키게 됩니다. 늑간신경과 삼차신경의 제1분지인 안신경에서 대상포진이 가장 많이 발생하기 때문에 포진 후 신경통도 같은 부위에서 주로 나타납니다.
+
+
+2) 증상  
+피부가 쑤시고 저리고 화끈거리며 칼로 베이는 듯한 통증과 벌레가 기어 다니는 것 같은 느낌을 줄 수 있습니다. 기계적 자극이나 접촉에 의해 증상이 더 심하게 나타날 수 있습니다.
+
+
+3) 치료 
+삼환계 항우울제, 항경련제, 단순 진통제 등을 사용할 수 있지만 난치성인 경우가 많습니다. 따라서 대상포진이 발생한 직후인 급성기에 적절한 약물로 조기 치료를 시행하여 포진 후 신경통 발생을 예방하는 것이 중요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[생활습관 관리]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[117]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[만성통증을 예방하기 위해서는 균형 잡힌 식사를 하고, 걷기나 달리기, 수영과 같은 유산소 운동을 규칙적으로 하며 스트레스를 잘 관리해야 합니다. 근골격계 통증을 예방하기 위하여 바른 자세를 유지하고 장시간 같은 자세로 학업이나 일을 해야 하는 경우에는 매시간 간단한 스트레칭을 해야 합니다.
+또한 만성통증을 고혈압이나 당뇨와 같이 하나의 질환으로 인식하여 통증이 단시간에 나아지지 않는 것에 대해 우울해 하거나 불안해하지 않도록 하고, 이완요법을 시행하여 심리적 문제를 완화하도록 합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[자주하는 질문]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[120]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[Q. 구강작열감증후군으로 인한 통증이 지속됩니다. 혹시 이 통증을 방치하면 혀암이 되는 것은 아닌가요? 
+
+A. 구강작열감증후군은 혀를 포함한 구강점막 전반에 걸쳐 통증이 나타나는 상태인데, 명확한 원인이나 구강내 병소가 관찰되지 않습니다. 명확한 원인 없이 통증이 지속되기 때문에 불안이나 우울, 암공포증 등과 같은 심리적인 문제를 함께 겪기도 합니다. 하지만 구강작열감증후군은 눈에 보이는 병소가 없는 경우가 대부분이며, 칸디다증이 동반되었다고 하더라도 적절한 약물 치료를 시행하면 병소가 감소함을 확인할 수 있습니다. 하지만 혀에 암이 발생하면 혀에 생긴 상처가 잘 낫지 않거나 오히려 커지는 것을 관찰할 수 있기 때문에 구강작열감증후군과 구분하여 진단할 수 있으며, 두 질환의 발생 원인이 전혀 다르기 때문에 구강작열감증후군의 통증이 지속된다고 하여 이것이 혀 암이 되는 것은 아닙니다.
+
+Q. 구강작열감증후군이 폐경기 여성에게 많이 나타나는 이유가 있습니까?
+
+A. 구강작열감증후군 발병 원인은 아직 명확하게 밝혀진 것은 없지만, 폐경기 여성은 ‘에스트로겐’이라는 여성호르몬의 변화가 급격하게 일어나는 시기로 이것을 하나의 원인으로 보고 있습니다. 최근 연구에 따르면, 에스트로겐 호르몬이 통증을 덜 느끼도록 하는 과정에 관여하는 데, 에스트로겐이 감소하면 이러한 역할이 감소하므로 폐경기 여성에게 구강작열감증후군이 더 잘 나타나는 것으로 생각하고 있습니다.
+
+Q. 삼차신경통 치료를 위한 약물 복용은 언제까지 해야 하는 것인가요?
+
+A. 삼차신경통은 대부분 약물 치료 후 나아지지만, 장기간의 예후는 개인마다 다릅니다. 어떤 환자는 통증이 발생한 뒤 몇 주에서 몇 개월 후에 통증이 완전히 사라지기도 하지만 다른 환자는 오랫동안 통증이 지속될 수 있습니다. 이 중 일부는 약을 복용하여 통증이 완화되지만 일부 환자는 발병 초기보다 약 복용량을 증가시켜야 통증이 완화됩니다. 그리고 일부는 처음과 달리 약물 복용이 통증 완화에 도움이 되지 않기도 하며, 약물 부작용으로 복용을 지속할 수 없는 경우도 있습니다. 따라서 약물 복용 기간은 각 개인마다 달라지며, 이 기간 동안 약물 부작용 발생 및 통증 완화 정도에 따라 약물 복용 지속 여부를 결정해야 합니다.
+
+Q. 긴장두통과 턱관절장애는 관련이 있습니까? 
+
+A. 긴장두통 발생 원인은 명확하지 않지만, 정서적 스트레스, 불안, 우울, 하악운동 기능 시 통증, 이갈이나 이악물기 등의 구강악습관 등이 영향을 줄 수 있습니다. 또한 최근 연구에 따르면, 긴장두통의 빈도나 강도가 턱관절장애가 있는지 없는지와 관련이 있는 것으로 밝혀졌습니다. Di Paolo, C.(2017) 등에 따르면, 두통과 턱관절장애가 동시에 있는 환자가 턱관절장애만 있는 환자에 비하여 더 높은 강도의 통증과 복잡한 양상의 증상이 나타난다고 보고하였습니다.
+
+Q. 신경 손상 증상이 평생 지속될 수도 있나요?
+
+A. 신경 손상이 회복되는 경우, 일반적으로 3~6개월 사이에 회복이 가장 많이 되고, 이후 12개월까지 조금 더 회복됩니다. 이때 회복 정도는 개인마다 다른데, 완전히 회복되거나 일부 증상이 남아있게 됩니다. 증상이 남아있는 경우에도 통증과 이상감각의 범위와 강도가 감소한 상태로 남게 됩니다. 하지만 일부 환자는 약물치료와 수술치료에도 증상 감소가 적거나 없을 수 있습니다. 그렇지만 일반적으로 개인의 상태에 맞는 치료를 시행한 경우 회복의 가능성이 높아지므로 증상의 변화를 관찰하면서 필요한 치료를 적절한 시기에 받는 것이 필요합니다.
+
+Q. 포진 후 신경통이 발생하면 너무 아픈데, 포진 후 신경통이 생기지 않도록 대상포진을 예방하는 방법은 없나요? 
+
+A. 수두포진 바이러스 백신을 통한 예방이 가능합니다. 연구에 따르면, 연령에 따라 그 효과 정도는 다르지만, 50~90세 사이 백신의 효과는 53~70% 정도입니다. 다만 면역력이 지나치게 낮은 경우는 백신 주사 후 오히려 감염 문제가 발생할 수 있으므로 백신 주사 전 이에 대한 평가가 필요합니다.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	<cntntsCl>
+	<CNTNTS_CL_NM><![CDATA[참고문헌]]></CNTNTS_CL_NM>
+	<CNTNTSCLSN><![CDATA[317]]></CNTNTSCLSN>
+	<CNTNTS_CL_CN><![CDATA[1. 김철. (2011). 심혈관질환과 스포츠의학. J Korean Med Assoc, 54(7), 674-684.
+2. 대한안면통증∙구강내과학회 편저. (2012). 구강안면통증과 측두하악장애. 서울 ㈜예낭아이앤씨. 
+
+3. Bergdahl M and Bergdahl J. Burning mouth syndrome: prevalence and associated factors. J Oral Pathol Med 1999; 28: 350–354.
+4. Buchgreitz, L., Lyngberg, A. C., Bendtsen, L., &amp; Jensen, R. (2008). Increased pain sensitivity is not a risk factor but a consequence of frequent headache: a population-based follow-up study. Pain, 137(3), 623–630.
+5. Cathcart, S., Winefield, A. H., Lushington, K., &amp; Rolan, P. (2010). Stress and tension-type headache mechanisms. Cephalalgia, 30(10), 1250-1267.
+6. Cheong, C., &amp; Lee, T. J. (2014). Prevalence and healthcare utilization of herpes zoster and postherpetic neuralgia in South Korea: disparity among patients with different immune statuses. Epidemiology and Health, 36.
+7. Chong, M. S., Bahra, A., &amp; Zakrzewska, J. M. (2023). Guidelines for the management of trigeminal neuralgia. Cleveland Clinic journal of medicine, 90(6), 355-362.
+8. Di Paolo, C., D’Urso, A., Papi, P., Di Sabato, F., Rosella, D., Pompa, G., &amp; Polimeni, A. (2017). Temporomandibular disorders and headache: a retrospective analysis of 1198 patients. Pain research and management, 2017.
+9. Grossi, D. B., Lipton, R. B., &amp; Bigal, M. E. (2009). Temporomandibular disorders and migraine chronification. Current pain and headache reports, 13, 314-318.
+10. Jorns, T. P., &amp; Zakrzewska, J. M. (2007). Evidence-based approach to the medical management of trigeminal neuralgia. British Journal of Neurosurgery, 21(3), 253-261.
+11. Kim, M. J., Kim, J., Kho, H. S. (2021). Treatment outcomes and related clinical characteristics in patients with burning mouth syndrome. Oral Diseases, 27(6),1507-1518.
+12. Kim, Y. J., Lee, C. N., Lim, C. Y., Jeon, W. S., &amp; Park, Y. M. (2014). Population-based study of the epidemiology of herpes zoster in Korea. Journal of Korean medical science, 29(12), 1706-1710.
+13. Kohorst JJ, Bruce AJ, Torgeson RR, et al. The prevalence of burning mouth syndrome: a population-based study. Br J Dermatol 2015; 172: 1654–1656.
+14. Lambru, G., Zakrzewska, J., &amp; Matharu, M. (2021). Trigeminal neuralgia: a practical guide. Practical neurology, 21(5), 392-402.
+15. Lee, C. H., Jang, H. Y., Won, H. S., Kim, J. S., &amp; Kim, Y. D. (2021). Epidemiology of trigeminal neuralgia: an electronic population health data study in Korea. The Korean journal of pain, 34(3), 332-338.
+16. Meewis, J., Renton, T., Jacobs, R., Politis, C., &amp; Van der Cruyssen, F. (2021). Post-traumatic trigeminal neuropathy: correlation between objective and subjective assessments and a prediction model for neurosensory recovery. The Journal of Headache and Pain, 22(1), 1-12.
+17. Nahm, F. S., Kim, S. H., Kim, H. S., Shin, J. W., Yoo, S. H., Yoon, M. H., ... &amp; Jo, D. H. (2013). Survey on the treatment of postherpetic neuralgia in Korea; multicenter study of 1,414 patients. The Korean journal of pain, 26(1), 21-26.
+18. Neal, T. W., &amp; Zuniga, J. R. (2022). Post-traumatic trigeminal neuropathic pain: factors affecting surgical treatment outcomes. Frontiers in Oral Health, 3, 904785.
+19. Netto FOG, Diniz IMA, Grossmann SMC, et al. Risk factors in burning mouth syndrome: a case control study based on patient records. Clin Oral Investig 2011; 15: 571–575.
+20. O’Callaghan, L., Floden, L., Vinikoor-Imler, L., Symonds, T., Giblin, K., Hartford, C., &amp; Zakrzewska, J. M. (2020). Burden of illness of trigeminal neuralgia among patients managed in a specialist center in England. The journal of headache and pain, 21, 1-10.
+21. Okeson, J. P. (2008). The classification of orofacial pains. Oral and maxillofacial surgery clinics of North America, 20(2), 133-144.
+22. Peñarrocha, M., Peñarrocha, D., Bagán, J. V., &amp; Peñarrocha, M. (2012). Post-traumatic trigeminal neuropathy. A study of 63 cases. Medicina oral, patologia oral y cirugia bucal, 17(2), e297.
+23. Pettengill, C. (1999). A comparison of headache symptoms between two groups: a TMD group and a general dental practice group. CRANIO®, 17(1), 64-69.
+24. Rea, B. J., Wattiez, A. S., Waite, J. S., Castonguay, W. C., Schmidt, C. M., Fairbanks, A. M., ... &amp; Russo, A. F. (2018). Peripherally administered CGRP induces spontaneous pain in mice: Implications for migraine. Pain, 159(11), 2306.
+25. Reyes, A. J., Ramcharan, K., &amp; Maharaj, R. (2019). Chronic migraine headache and multiple dental pathologies causing cranial pain for 35 years: the neurodental nexus. BMJ Case Reports CP, 12(9), e230248.
+26. Seol, S. H., &amp; Chung, G. (2022). Estrogen-dependent regulation of transient receptor potential vanilloid 1 (TRPV1) and P2X purinoceptor 3 (P2X3): Implication in burning mouth syndrome. Journal of dental sciences, 17(1), 8-13.
+27. Steel, S. J., Robertson, C. E., &amp; Whealy, M. A. (2021). Current understanding of the pathophysiology and approach to tension-type headache. Current Neurology and Neuroscience Reports, 21, 1-12.Tan, H. L., &amp; Renton, T. (2020). Burning mouth syndrome: An update. Cephalalgia Reports, 3, 2515816320970143.
+28. Timmerman, A., &amp; Parashos, P. (2020). Management of dental pain in primary care. Australian prescriber, 43(2), 39.
+29. Van der Cruyssen, F., Peeters, F., De Laat, A., Jacobs, R., Politis, C., &amp; Renton, T. (2022). Prognostic factors, symptom evolution, and quality of life of posttraumatic trigeminal neuropathy. Pain, 163(4), e557.
+30. Yatani, H., Komiyama, O., Matsuka, Y., Wajima, K., Muraoka, W., Ikawa, M., ... &amp; Heir, G. M. (2014). Systematic review and recommendations for nonodontogenic toothache. Journal of oral rehabilitation, 41(11), 843-852.]]></CNTNTS_CL_CN>
+	</cntntsCl>
+	</cntntsClList>
+	<relateCntntsSnLIst>
+	<CNTNTS_SJ><![CDATA[치통 및 만성 통증]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5976]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[치통 및 만성 통증(치통)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5797]]></CNTNTS_SN>
+	<CNTNTS_SJ><![CDATA[치통 및 만성 통증(치통)]]></CNTNTS_SJ>
+	<CNTNTS_SN><![CDATA[5797]]></CNTNTS_SN>
+	</relateCntntsSnLIst>
+	</svc>
+</XML>
