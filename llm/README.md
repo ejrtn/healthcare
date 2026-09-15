@@ -57,7 +57,7 @@ python main.py                    # 또는 uvicorn main:app --reload
 `eval/ragas_eval.py`도 있다 — 기본 judge는 외부 API 대신 이 프로젝트가 이미
 로드해둔 로컬 Llama-3.1-8B를 그대로 재사용해 "100% 로컬" 철학을 평가
 도구에도 유지했다. 다만 로컬 8B judge가 디제너레이션(생성 퇴화)으로 크래시난
-적이 있어서, **API 키가 있으면 Gemini/Claude/ChatGPT까지 추가로 붙여서 같은
+적이 있어서, **API 키가 있으면 Gemini/ChatGPT까지 추가로 붙여서 같은
 답변을 여러 judge가 어떻게 다르게 채점하는지 교차 검증**할 수 있게 확장했다
 — 키가 없는 judge는 자동으로 건너뛰고, 프로덕션(`main.py`/`mcp_server.py`)은
 여전히 외부 API를 쓰지 않는다. 상세 설계 이유와 현재 상태는
@@ -155,10 +155,11 @@ pip install llama-cpp-python --prefer-binary --extra-index-url https://abetlen.g
 - 한 문장에 병명별로 다른 의도가 섞인 복합 질문은 의도가 전체에 공통 적용됨
 - 진료과 추천은 데이터에 매핑이 없어 LLM의 일반 지식에 의존 (드물게 부정확할 수 있음)
 - CPU 추론이라 답변 생성에 수십 초 소요
-- RAGAS 생성 품질 평가(`eval/ragas_eval.py`)는 구현은 끝났지만, 로컬에 이 프로젝트의
-  런타임 의존성(torch/chromadb/llama-cpp-python)이 설치된 환경에서 실제 8B 모델로
-  돌려 수치를 확보하는 건 아직이다 — 배관(judge/embeddings wrapper, 파이프라인 재현)은
-  mock으로 검증했지만 진짜 judge 점수는 아직 없다 (`eval/RESULTS.md` 실험 5 참고).
+- RAGAS 생성 품질 평가(`eval/ragas_eval.py`)는 로컬 judge 기준 33문항 전체를
+  크래시 없이 완주했다(faithfulness 0.717, answer_relevancy 0.254) — 다만
+  파싱 성공률이 40.6%(13/32)에 그쳐, 로컬 8B judge 단독으로는 신뢰도가
+  낮다는 것 자체가 실측 결과다. Gemini/ChatGPT는 계정 크레딧 소진으로 아직
+  비교치를 못 얻었다 — 자세한 경과는 `eval/RESULTS.md` 실험 5 참고.
 
 ## 데이터 출처
 

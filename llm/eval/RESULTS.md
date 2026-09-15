@@ -293,46 +293,71 @@ exceed context window of 4096`으로 스크립트 전체가 죽었다.
 - 매 문항 채점 직후 결과 JSON을 즉시 덮어써서 저장(`save_progress()`)하도록
   바꿔서, 중간에 어떤 이유로든 죽어도 그때까지의 결과는 남게 했다.
 
-이 수정을 반영해 `--full`을 다시 돌려 33문항 전체의 확정 수치를 채워 넣는
-게 남은 작업이다. `serve/app.py`와 마찬가지로 "배관은 검증됐지만 아직 완주는
-못 했다"는 상태를 정직하게 남겨둔다.
+### 완주 결과 (로컬 judge, 32문항)
+
+위 수정을 반영해 `--full`을 다시 돌린 결과, 이번에는 **크래시 없이 32문항
+(33문항 중 1건은 THRESHOLD 미달로 정상 제외) 전부 끝까지 처리됐다.**
+
+| | 값 |
+|---|---|
+| 시도한 문항 | 32 |
+| **파싱 성공(점수 확보)** | **13/32 (40.6%)** |
+| 평균 faithfulness | 0.717 |
+| 평균 answer_relevancy | 0.254 |
+
+**파싱 성공률 자체가 실측 지표다**: 나머지 19문항은 `RagasOutputParserException`
+(형식 재시도 소진), `TypeError: TextEncodeInput`(judge가 만든 역질문이
+비정상적이라 임베딩 단계에서 깨짐), 컨텍스트 윈도우 초과 등으로 채점이
+불가능했다 — 전부 이 문서 위쪽에서 예상했던 "로컬 8B judge는 GPT-4급보다
+판정이 불안정하다"는 트레이드오프가 그대로 수치로 드러난 것이다. 40.6%라는
+낮은 성공률 자체가 "로컬 judge 단독으로는 신뢰도 있는 평가 도구가 되기
+어렵다 → 그래서 멀티 judge 교차 검증이 필요하다"는 이 프로젝트의 설계
+근거를 실측으로 뒷받침한다.
+
+**Gemini/ChatGPT는 이번엔 다른 이유로 건너뛰었다**: Gemini는
+`RESOURCE_EXHAUSTED`(무료 선불 크레딧 소진), ChatGPT는
+`insufficient_quota`(크레딧 없음) — 둘 다 코드 문제가 아니라 계정 상태
+문제다. Claude는 크레딧을 유지하지 않기로 하면서 judge 목록에서 아예
+제외했다(위 "멀티 judge" 절 참고). 무료 크레딧이 남은 계정으로 다시
+돌리면 실제 멀티 judge 비교치를 얻을 수 있다 — 그 전까지는 로컬 judge
+단독 실측치가 이 실험의 확정 결과다.
 
 ### 멀티 judge — 로컬 judge의 신뢰도를 다른 judge와 교차 검증
 
 위 크래시로 "로컬 8B가 judge로서 불안정할 수 있다"는 우려가 실측으로
 확인되자, 자연스러운 다음 질문은 "그럼 다른 judge와 비교하면 얼마나 다른가"
-였다. 그래서 `ragas_eval.py`가 **judge를 하나가 아니라 최대 4개(로컬 +
-Gemini + Claude + ChatGPT)까지 동시에 시도**하도록 확장했다.
+였다. 그래서 `ragas_eval.py`가 **judge를 하나가 아니라 최대 3개(로컬 +
+Gemini + ChatGPT)까지 동시에 시도**하도록 확장했다. (Claude는 API 크레딧을
+쓰지 않기로 하면서 제외했다 — 무료로 계속 유지 가능한 조합만 남겼다.)
 
 - **"100% 로컬" 철학과 충돌하지 않는 이유**: 로컬 judge는 항상 무조건
   포함되고, 외부 API 키가 하나도 없어도 스크립트는 정상 동작한다(로컬만
-  돌아감). 나머지 3개는 해당 API 키 환경변수(`GEMINI_API_KEY`,
-  `CLAUDE_API_KEY`, `CHATGPT_API_KEY` — 회사명이 아니라 서비스 이름으로
-  통일)가 있을 때만 "추가로" 시도되는
-  선택적 교차 검증이다 — 프로덕션(`main.py`, `mcp_server.py`)은 여전히
-  외부 API를 전혀 안 쓴다. 이건 어디까지나 "평가 도구가 스스로를 얼마나
-  믿을 수 있는지"를 검증하는 메타 실험이다.
+  돌아감). 나머지 2개는 해당 API 키 환경변수(`GEMINI_API_KEY`,
+  `CHATGPT_API_KEY` — 회사명이 아니라 서비스 이름으로 통일)가 있을 때만
+  "추가로" 시도되는 선택적 교차 검증이다 — 프로덕션(`main.py`,
+  `mcp_server.py`)은 여전히 외부 API를 전혀 안 쓴다. 이건 어디까지나
+  "평가 도구가 스스로를 얼마나 믿을 수 있는지"를 검증하는 메타 실험이다.
 - **연결 실패는 그 judge만 건너뛴다**: 각 judge를 실제로 쓰기 전에 짧은
   연결 테스트(`_smoke_test`)를 한 번 해보고, 키가 없거나 인증에 실패하거나
-  SDK가 안 깔려 있으면 그 judge만 건너뛰고 나머지로 계속 진행한다 — 4개 중
+  SDK가 안 깔려 있으면 그 judge만 건너뛰고 나머지로 계속 진행한다 — 3개 중
   몇 개가 비어 있어도 스크립트가 죽지 않는다.
-- **답변은 judge와 무관하게 한 번만 생성**: 4개 judge가 서로 다른 답변을
+- **답변은 judge와 무관하게 한 번만 생성**: 3개 judge가 서로 다른 답변을
   채점하면 "judge가 다르다"와 "답변이 다르다"는 두 변수가 섞여서 비교가
   무의미해진다. 그래서 로컬 8B가 만든 답변을 한 번만 생성해서 캐싱해두고,
-  그 **같은 답변**을 4개 judge에게 똑같이 채점시킨다 — 순수하게 "judge
+  그 **같은 답변**을 3개 judge에게 똑같이 채점시킨다 — 순수하게 "judge
   선택이 채점 결과에 얼마나 영향을 주는가"만 분리해서 본다.
 - **embedding은 judge와 무관하게 항상 로컬**: answer_relevancy는 임베딩
   유사도로 계산하는데, 이것마저 judge마다 다른 embedding을 쓰면 비교가
-  또 오염된다. 그래서 embedding은 4개 judge 전부 동일하게
+  또 오염된다. 그래서 embedding은 3개 judge 전부 동일하게
   ko-sroberta-multitask를 쓴다.
 - **결과는 judge별로 따로 저장**: `eval/results/ragas_run_{judge}.json`
   (예: `ragas_run_local.json`, `ragas_run_gemini.json`)로 나눠 저장하고,
   실행 끝에 judge별 평균을 나란히 비교하는 요약을 출력한다.
 
-이 기능도 mock(가짜 `google.genai`/`anthropic` 클라이언트)으로 4개 judge
-경로(로컬 항상 포함, 2개는 키가 있어서 성공, 1개는 키가 없어서 건너뜀)가
-전부 의도대로 동작하는 것까지 확인했다 — 다만 실제 API 키로 진짜 Gemini/
-Claude/ChatGPT를 호출해서 로컬 judge와 점수를 비교해보는 건 아직이다.
+이 기능도 mock(가짜 `google.genai` 클라이언트)으로 3개 judge 경로(로컬 항상
+포함, 1개는 키가 있어서 성공, 1개는 키가 없어서 건너뜀)가 전부 의도대로
+동작하는 것까지 확인했다 — 다만 실제 API 키로 진짜 Gemini/ChatGPT를 호출해서
+로컬 judge와 점수를 비교해보는 건 아직이다.
 
 ## 어떻게 재현하나
 
@@ -342,7 +367,7 @@ python eval/run_eval.py               # 카테고리 라우팅 + 거절 + 증상
 python eval/chunk_size_experiment.py   # 청크 크기 스윕 (몇 분 소요, XML 재파싱+임시 임베딩)
 python eval/ragas_eval.py              # RAGAS 생성 품질 평가 (pip install -r eval/requirements-ragas.txt 먼저 필요, 오래 걸릴 수 있음)
                                         # 기본은 로컬+사용 가능한 API judge 전부 시도. --judges local 로 로컬만,
-                                        # llm/.env에 GEMINI_API_KEY/CLAUDE_API_KEY/CHATGPT_API_KEY 채우면 그 judge들도 추가
+                                        # llm/.env에 GEMINI_API_KEY/CHATGPT_API_KEY 채우면 그 judge들도 추가
 ```
 
 `run_eval.py`/`ragas_eval.py`는 결과를 `eval/results/*.json`에 저장한다.

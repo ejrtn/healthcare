@@ -393,10 +393,9 @@ Kaggle GPU T4 x2 환경에서 `ct_lits_pipeline.ipynb`를 실행해 실측 수�
   연결되지 않았다. 도메인이 다르다는 점도 고려해야 한다 — CT 외상 진단(장기
   손상)은 RAG의 KDCA 일반 질병 정보와 딱 맞아떨어지진 않아서, 연결하려면
   "영상 소견 → 관련 질환명 매핑" 같은 중간 단계가 필요하다.
-- Segmentation/3D reconstruction/denoising(2절)은 코드만 작성된 상태로,
-  Kaggle/Colab에서 실행해 실측 수치(Dice/PSNR/case-level recall)를 채우는
-  게 남은 작업이다.
-- v19(LLRD 실제 적용, 1절 참고)도 아직 Kaggle에서 실행 전이다.
+- v19(LAYER_DECAY 실제 적용, 1절 참고)는 Kaggle에서 실행 중 커널 크래시를
+  두 번 겪었다 — 원인(DataLoader 워커의 COW 메모리 누수)을 찾아 고쳤고,
+  완주해서 v11 대비 실제로 AUC가 개선되는지 확인하는 게 남았다.
 - recall 재평가(1절)는 val/test 미분리 상태의 잠정치다 — 950명을 val/test로
   쪼개 재검증하는 게 남은 작업이다.
 - `serve/app.py`는 실제로 기동해서 배관(체크포인트 로드 → 업로드 → 추론 →

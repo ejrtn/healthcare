@@ -18,10 +18,9 @@ langchain-openai==0.2.14
 # 없어도 로컬 judge는 동작하지만, .env로 편하게 키를 관리하려면 필요.
 python-dotenv
 
-# 아래 둘은 로컬 judge 외에 Gemini/Claude도 judge로 써보고 싶을 때만 필요
-# (ragas_eval.py는 이 둘이 없어도, GOOGLE_API_KEY/ANTHROPIC_API_KEY가 없어도
-# 로컬 judge만으로 정상 동작한다 — 자세한 건 ragas_eval.py 모듈 docstring 참고).
-# 둘 다 langchain 통합 패키지가 아니라 각 회사 공식 SDK라 위 langchain 0.3대
-# 고정과 버전 충돌이 없다(실제로 설치해서 확인함).
+# 아래는 로컬 judge 외에 Gemini도 judge로 써보고 싶을 때만 필요
+# (ragas_eval.py는 이게 없어도, GEMINI_API_KEY가 없어도 로컬 judge만으로
+# 정상 동작한다 — 자세한 건 ragas_eval.py 모듈 docstring 참고).
+# langchain 통합 패키지가 아니라 구글 공식 SDK라 위 langchain 0.3대 고정과
+# 버전 충돌이 없다(실제로 설치해서 확인함).
 google-genai
-anthropic

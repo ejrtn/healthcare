@@ -1,71 +1,50 @@
 """
-RAG 생성 품질 평가 (RAGAS) — run_eval.py가 "검색이 맞는 카테고리를 찾아오는가"를
-채점한다면, 여기서는 한 걸음 더 나아가 "실제로 생성된 답변이 근거 있게
-(faithfulness) 그리고 질문에 맞게(answer_relevancy) 작성됐는가"를 LLM judge로
-채점한다.
+RAG 생성 품질 평가 (RAGAS). run_eval.py가 "검색이 맞는 카테고리를 찾아오는가"를
+채점한다면, 여기서는 "생성된 답변이 근거에 충실한가(faithfulness), 질문에
+맞는가(answer_relevancy)"를 LLM judge로 채점한다.
 
-judge는 여러 개를 동시에 시도한다 — 로컬(Llama-3.1-8B-Q4, 항상 포함) +
-Gemini/Claude/ChatGPT(각각 API 키가 환경변수에 있을 때만, 선택적). "100% 로컬"
-이라는 이 프로젝트의 프로덕션 철학은 그대로 유지하면서(로컬 judge가 항상
-기본으로 돌고, 외부 API가 하나도 없어도 정상 동작함), 평가 도구 한정으로는
-"judge 자체의 신뢰도"를 다른 judge와 비교해볼 수 있게 한 것이다 — 로컬 8B
-judge가 디제너레이션(같은 문장 무한 반복)으로 크래시난 적이 있어서
-(RESULTS.md 실험 5 참고), 더 큰 모델과 판정을 교차 검증할 방법이 필요했다.
+judge는 로컬(Llama-3.1-8B-Q4, 항상 포함) + Gemini/ChatGPT(API 키가
+있을 때만, 선택) 중 여러 개를 동시에 시도한다. 프로덕션(main.py/mcp_server.py)의
+"100% 로컬" 철학은 그대로 유지하되, 평가 도구에서만 로컬 judge의 판정을 더
+큰 모델과 교차 검증한다 — 로컬 8B가 디제너레이션으로 크래시난 적이 있어서
+(RESULTS.md 실험 5) 필요해졌다. 키가 없거나 호출이 실패하면 그 judge만
+건너뛰고 나머지로 계속 진행하며, 로컬만 있어도 항상 돌아간다.
 
-**API 키 없이도 동작한다**: 환경변수(GEMINI_API_KEY / CLAUDE_API_KEY /
-CHATGPT_API_KEY)가 없거나, 있어도 실제 호출이 실패하면(인증 오류, 크레딧 없음
-등) 그 judge 하나만 건너뛰고 나머지로 계속 진행한다. 로컬만 있어도 항상
-돌아간다.
+embedding은 judge와 무관하게 항상 로컬(ko-sroberta-multitask)을 쓴다 — judge와
+embedding을 동시에 바꾸면 "어느 쪽 차이 때문인지" 비교가 불공정해지기 때문.
 
-embedding은 judge와 무관하게 항상 로컬(ko-sroberta-multitask)을 그대로 쓴다 —
-answer_relevancy는 "생성된 답변 → 역질문들"의 임베딩 유사도로 계산하는데,
-judge마다 embedding을 다르게 쓰면 "judge가 다르다"는 변수와 "embedding이
-다르다"는 변수가 섞여서 judge 간 비교가 불공정해진다.
+설치: pip install -r eval/requirements-ragas.txt (버전 고정 이유는 그 파일 안에
+있음 — ragas==0.4.3 + 최신 langchain-community 조합은 import 자체가 깨지는
+상위 버그가 있다). Gemini는 추가로 `google-genai` 패키지가 필요(없어도 로컬
+judge는 정상 동작). ChatGPT는 ragas가 이미 의존하는 `langchain-openai`를
+재사용한다.
 
-설치: pip install -r eval/requirements-ragas.txt (버전을 구체적으로 고정한
-이유는 그 파일 안에 적어뒀다 — 요약하면 ragas==0.4.3을 그냥 최신
-langchain-community와 같이 깔면 import 자체가 깨지는 상위 버그가 있다).
-Gemini/Claude를 쓰려면 추가로 `google-genai`, `anthropic` 패키지가 필요하다
-(둘 다 requirements-ragas.txt에 포함, 없어도 로컬 judge는 정상 동작).
-ChatGPT는 ragas 자체가 이미 의존하는 `langchain-openai`를 그대로 재사용한다.
-
-구현 메모 (ragas 0.4.3 기준):
-- ragas.metrics.collections의 "최신" Faithfulness/ResponseRelevancy는 instructor
-  라이브러리의 tool-calling 기반 구조화 출력을 강제해서, 로컬 8B Q4 모델에게는
-  안정성이 떨어진다. 대신 순수 텍스트 생성 + JSON 파싱 방식인 구(舊)
-  `ragas.metrics`의 Faithfulness/ResponseRelevancy(PydanticPrompt.generate 사용)를
-  그대로 썼다 — deprecated 경고가 뜨지만 이 버전에서 여전히 동작하고, 텍스트
-  생성만 하면 되는 이 방식이라 judge를 로컬/Gemini/Claude/ChatGPT 어느 걸로
-  바꿔 끼워도 동일한 인터페이스(langchain `LLM`)로 통일할 수 있었다.
-- 각 judge를 langchain `LLM` 서브클래스로 얇게 감싸고 `LangchainLLMWrapper`로
-  다시 감쌌다. 로컬은 main.py가 이미 로드한 llama-cpp-python 인스턴스를
-  그대로 재사용해서(8B GGUF를 서빙용과 평가용으로 두 번 로드하지 않기 위함)
-  main.llm을 감쌌고, Gemini/Claude는 각자의 공식 SDK(google-genai, anthropic)
-  클라이언트를 감쌌다. ChatGPT는 langchain_openai.ChatOpenAI를 바로 썼다(이미
-  ragas의 의존성이라 버전 충돌 없이 바로 쓸 수 있었음).
+구현 메모 (ragas 0.4.3 기준): `ragas.metrics.collections`의 최신
+Faithfulness/ResponseRelevancy는 instructor의 tool-calling 구조화 출력을
+강제해서 로컬 8B Q4에는 불안정하다. 대신 순수 텍스트 생성 + JSON 파싱 방식인
+구(舊) `ragas.metrics`(PydanticPrompt.generate) 쪽을 썼다 — deprecated
+경고는 뜨지만 이 버전에서 동작하고, judge를 langchain `LLM` 서브클래스로만
+감싸면 로컬/Gemini/ChatGPT 어느 것이든 동일한 인터페이스로 바꿔 끼울 수 있다.
 
 주의(실행 시간·비용): judge 하나당 질문 하나에 LLM을 여러 번 호출한다
-(faithfulness: 답변을 주장 단위로 분해 → 각 주장을 근거와 대조, answer_relevancy:
-답변으로부터 역질문을 여러 개 생성 → 원 질문과의 임베딩 유사도 비교). judge를
-4개 다 켜면 이게 4배가 된다 — 로컬은 CPU라 느리고, 클라우드 judge는 무료 티어
-호출 한도에 걸릴 수 있다. 기본 실행은 일부만 샘플링하고, --full로 전체를 돌릴
-수 있게 했다.
+(faithfulness는 주장 단위 분해 후 대조, answer_relevancy는 역질문 생성 후
+임베딩 비교). judge 3개를 다 켜면 3배가 되고, 로컬은 CPU라 느리며 클라우드
+judge는 무료 티어 한도에 걸릴 수 있다 — 기본은 일부만 샘플링하고 --full로
+전체를 돌린다.
 
 실행:
     cd project
-    python eval/ragas_eval.py                 # GROUND_TRUTH --n개(기본 10), 로컬 + 사용 가능한 API judge
+    python eval/ragas_eval.py                 # GROUND_TRUTH --n개(기본 10)
     python eval/ragas_eval.py --full           # GROUND_TRUTH 33문항 전체
     python eval/ragas_eval.py --n 5            # 문항 수 직접 지정
-    python eval/ragas_eval.py --judges local   # 로컬만 (API 호출 전혀 없음)
+    python eval/ragas_eval.py --judges local   # 로컬만 (API 호출 없음)
 
-환경변수 (전부 선택, 이름을 회사명(GOOGLE/ANTHROPIC/OPENAI)이 아니라 서비스
-이름(GEMINI/CLAUDE/CHATGPT)으로 통일해서 헷갈리지 않게 했다):
-    GEMINI_API_KEY,   GEMINI_MODEL(기본 gemini-2.0-flash)
-    CLAUDE_API_KEY,   CLAUDE_MODEL(기본 claude-haiku-4-5-20251001)
+환경변수 (전부 선택, 회사명이 아니라 서비스명으로 통일):
+    GEMINI_API_KEY,   GEMINI_MODEL(기본 gemini-3.6-flash)
     CHATGPT_API_KEY,  CHATGPT_MODEL(기본 gpt-4o-mini)
 
-주의: run_eval.py와 마찬가지로 main.py를 임포트하면 8B LLM과 리랭커까지 전부
-로드된다. 첫 실행에 수십 초가 걸린다.
+run_eval.py와 마찬가지로 main.py를 임포트하면 8B LLM과 리랭커까지 로드되어
+첫 실행에 수십 초가 걸린다.
 """
 import os
 import sys
@@ -117,13 +96,10 @@ class LocalLlamaJudge(LLM):
             )
             return response["choices"][0]["message"]["content"]
         except ValueError as e:
-            # 로컬 8B(Q4)가 디제너레이션(같은 토큰 무한 반복)에 빠지면, RAGAS가
-            # "출력 형식이 틀렸다"며 재프롬프트하는 과정에서 프롬프트+응답 길이가
-            # n_ctx(main.py에서 4096으로 설정)를 넘겨 llama-cpp-python이 여기서
-            # ValueError를 던진다(실측: 33문항 중 1건 발생). RAGAS 쪽에 이미
-            # 파싱 실패 시 재시도하는 로직(max_retries)이 있으므로, 여기서
-            # 예외를 그대로 던져 전체 배치를 죽이는 대신 빈 문자열을 돌려줘서
-            # "파싱 실패 → 재시도(또는 최종 실패)"로만 처리되게 한다.
+            # 로컬 8B(Q4)가 디제너레이션(토큰 무한 반복)에 빠지면 RAGAS의 재프롬프트로
+            # 프롬프트+응답이 n_ctx(4096)를 넘겨 llama-cpp-python이 여기서 죽는다
+            # (실측 33문항 중 1건). 예외를 전파해 배치 전체를 죽이는 대신 빈 문자열을
+            # 반환해 RAGAS 자체의 파싱-재시도 로직에 맡긴다.
             print(f"    [judge 경고] 컨텍스트 윈도우 초과로 이번 judge 호출을 건너뜀: {e}")
             return ""
 
@@ -136,7 +112,7 @@ class GeminiJudge(LLM):
 
     model_config = ConfigDict(arbitrary_types_allowed=True)
     client: Any
-    model_name: str = "gemini-2.0-flash"
+    model_name: str = "gemini-3.6-flash"
 
     @property
     def _llm_type(self) -> str:
@@ -145,30 +121,6 @@ class GeminiJudge(LLM):
     def _call(self, prompt: str, stop=None, run_manager=None, **kwargs) -> str:
         response = self.client.models.generate_content(model=self.model_name, contents=prompt)
         return response.text or ""
-
-    async def _acall(self, prompt: str, stop=None, run_manager=None, **kwargs) -> str:
-        return await asyncio.to_thread(self._call, prompt, stop, None, **kwargs)
-
-
-class ClaudeJudge(LLM):
-    """Anthropic Claude API(anthropic SDK)를 RAGAS judge로 감싼다."""
-
-    model_config = ConfigDict(arbitrary_types_allowed=True)
-    client: Any
-    model_name: str = "claude-haiku-4-5-20251001"
-    max_tokens: int = 1024
-
-    @property
-    def _llm_type(self) -> str:
-        return "claude-judge"
-
-    def _call(self, prompt: str, stop=None, run_manager=None, **kwargs) -> str:
-        response = self.client.messages.create(
-            model=self.model_name,
-            max_tokens=self.max_tokens,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        return "".join(block.text for block in response.content if hasattr(block, "text"))
 
     async def _acall(self, prompt: str, stop=None, run_manager=None, **kwargs) -> str:
         return await asyncio.to_thread(self._call, prompt, stop, None, **kwargs)
@@ -202,11 +154,11 @@ def _smoke_test(llm: LLM) -> bool:
 def build_judges(requested: Optional[List[str]] = None) -> Dict[str, Any]:
     """
     사용 가능한 judge들을 {이름: LangchainLLMWrapper} 형태로 반환한다.
-    requested가 주어지면 그 이름들만 시도하고, None이면 4개(local/gemini/
-    claude/chatgpt) 전부 시도한다. 로컬은 항상 성공한다(이미 main.py에
+    requested가 주어지면 그 이름들만 시도하고, None이면 3개(local/gemini/
+    chatgpt) 전부 시도한다. 로컬은 항상 성공한다(이미 main.py에
     로드돼 있음). 나머지는 API 키가 없거나 호출이 실패하면 조용히 건너뛴다.
     """
-    order = requested if requested else ["local", "gemini", "claude", "chatgpt"]
+    order = requested if requested else ["local", "gemini", "chatgpt"]
     judges: Dict[str, Any] = {}
 
     for name in order:
@@ -225,32 +177,13 @@ def build_judges(requested: Optional[List[str]] = None) -> Dict[str, Any]:
             try:
                 from google import genai
                 client = genai.Client(api_key=api_key)
-                model_name = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
+                model_name = os.environ.get("GEMINI_MODEL", "gemini-3.6-flash")
                 candidate = LangchainLLMWrapper(GeminiJudge(client=client, model_name=model_name))
                 if _smoke_test(candidate.langchain_llm):
                     judges["gemini"] = candidate
                     print(f"    OK ({model_name})")
             except ImportError:
                 print("    [judge 건너뜀] google-genai 패키지 미설치 (pip install google-genai)")
-            except Exception as e:
-                print(f"    [judge 건너뜀] {type(e).__name__}: {e}")
-            continue
-
-        if name == "claude":
-            api_key = os.environ.get("CLAUDE_API_KEY")
-            if not api_key:
-                print("    [judge 건너뜀] CLAUDE_API_KEY 환경변수 없음")
-                continue
-            try:
-                import anthropic
-                client = anthropic.Anthropic(api_key=api_key)
-                model_name = os.environ.get("CLAUDE_MODEL", "claude-haiku-4-5-20251001")
-                candidate = LangchainLLMWrapper(ClaudeJudge(client=client, model_name=model_name))
-                if _smoke_test(candidate.langchain_llm):
-                    judges["claude"] = candidate
-                    print(f"    OK ({model_name})")
-            except ImportError:
-                print("    [judge 건너뜀] anthropic 패키지 미설치 (pip install anthropic)")
             except Exception as e:
                 print(f"    [judge 건너뜀] {type(e).__name__}: {e}")
             continue
@@ -433,7 +366,7 @@ if __name__ == "__main__":
     parser.add_argument("--n", type=int, default=10, help="샘플링할 문항 수 (기본 10, --full이면 무시됨)")
     parser.add_argument(
         "--judges", type=str, default=None,
-        help="쉼표로 구분한 judge 목록 (local,gemini,claude,chatgpt). 기본값은 4개 전부 시도 "
+        help="쉼표로 구분한 judge 목록 (local,gemini,chatgpt). 기본값은 3개 전부 시도 "
              "(API 키 없는 건 자동 건너뜀). 예: --judges local,gemini",
     )
     args = parser.parse_args()
