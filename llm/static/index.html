@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="ko">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,7 +13,8 @@
             --text-color: #ececec;
             --user-msg-bg: #2f2f2f;
             --bot-msg-bg: transparent;
-            --accent-color: #10a37f; /* ChatGPT Green */
+            --accent-color: #10a37f;
+            /* ChatGPT Green */
         }
 
         body {
@@ -49,7 +51,9 @@
             gap: 10px;
         }
 
-        .new-chat-btn:hover { background-color: #2d2d2d; }
+        .new-chat-btn:hover {
+            background-color: #2d2d2d;
+        }
 
         /* Main Chat Area */
         #main-chat {
@@ -62,7 +66,8 @@
         #chat-window {
             flex: 1;
             overflow-y: auto;
-            padding-bottom: 150px; /* input 공간 확보 */
+            padding-bottom: 150px;
+            /* input 공간 확보 */
         }
 
         .message-row {
@@ -72,8 +77,13 @@
             line-height: 1.6;
         }
 
-        .message-row.user-row { background-color: var(--bg-color); }
-        .message-row.bot-row { background-color: #212121; }
+        .message-row.user-row {
+            background-color: var(--bg-color);
+        }
+
+        .message-row.bot-row {
+            background-color: #212121;
+        }
 
         .avatar {
             width: 30px;
@@ -86,8 +96,13 @@
             flex-shrink: 0;
         }
 
-        .user-avatar { background-color: #5436da; }
-        .bot-avatar { background-color: var(--accent-color); }
+        .user-avatar {
+            background-color: #5436da;
+        }
+
+        .bot-avatar {
+            background-color: var(--accent-color);
+        }
 
         .content {
             max-width: 900px;
@@ -110,7 +125,7 @@
             background-color: #2f2f2f;
             border-radius: 12px;
             border: 1px solid #444;
-            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
             display: flex;
             align-items: center;
             padding: 10px 15px;
@@ -140,10 +155,17 @@
             transition: 0.2s;
         }
 
-        #send-btn:disabled { background-color: #444; cursor: not-allowed; }
+        #send-btn:disabled {
+            background-color: #444;
+            cursor: not-allowed;
+        }
 
         /* Typing Indicator */
-        .typing { font-size: 12px; color: #aaa; margin-top: 5px; }
+        .typing {
+            font-size: 12px;
+            color: #aaa;
+            margin-top: 5px;
+        }
 
         /* Sources */
         .sources {
@@ -153,6 +175,7 @@
             font-size: 12px;
             color: #aaa;
         }
+
         .sources .source-tag {
             display: inline-block;
             background-color: #2f2f2f;
@@ -163,6 +186,7 @@
         }
     </style>
 </head>
+
 <body>
 
     <div id="sidebar">
@@ -170,7 +194,7 @@
             <i class="fa-solid fa-plus"></i> New Chat
         </button>
         <div style="margin-top: auto; font-size: 12px; color: #666; text-align: center;">
-            © 2024 AI Health Check
+            © 2026 AI Health Check
         </div>
     </div>
 
@@ -185,7 +209,8 @@
 
         <div id="input-container">
             <div class="input-box-wrapper">
-                <input type="text" id="user-input" placeholder="메시지를 입력하세요..." onkeypress="if(event.keyCode==13) sendMessage()">
+                <input type="text" id="user-input" placeholder="메시지를 입력하세요..."
+                    onkeypress="if(event.keyCode==13) sendMessage()">
                 <button id="send-btn" onclick="sendMessage()">
                     <i class="fa-solid fa-arrow-up"></i>
                 </button>
@@ -220,7 +245,7 @@
             const chatWindow = document.getElementById('chat-window');
             const sendBtn = document.getElementById('send-btn');
 
-            if(!input.value.trim()) return;
+            if (!input.value.trim()) return;
 
             const userMsg = input.value;
             input.value = '';
@@ -236,16 +261,29 @@
             `;
             chatWindow.scrollTop = chatWindow.scrollHeight;
 
+            // 답변 생성 중임을 보여주는 표시 — CPU로 로컬 LLM을 돌리면 수십 초 걸릴 수
+            // 있어서, 아무 표시가 없으면 멈춘 것처럼 보인다.
+            const typingId = 'typing-indicator-' + Date.now();
+            chatWindow.innerHTML += `
+                <div class="message-row bot-row" id="${typingId}">
+                    <div class="avatar bot-avatar"><i class="fa-solid fa-robot" style="font-size: 14px;"></i></div>
+                    <div class="content"><span class="typing">답변을 생성하는 중...</span></div>
+                </div>
+            `;
+            chatWindow.scrollTop = chatWindow.scrollHeight;
+
             try {
                 const response = await fetch('/chat', {
                     method: 'POST',
-                    headers: {'Content-Type': 'application/json'},
-                    body: JSON.stringify({message: userMsg, history: conversationHistory})
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message: userMsg, history: conversationHistory })
                 });
                 const data = await response.json();
 
-                conversationHistory.push({role: 'user', content: userMsg});
-                conversationHistory.push({role: 'assistant', content: data.answer});
+                conversationHistory.push({ role: 'user', content: userMsg });
+                conversationHistory.push({ role: 'assistant', content: data.answer });
+
+                document.getElementById(typingId)?.remove();
 
                 // 봇 메시지 추가 (답변 + 출처). 되묻는 질문(is_followup)이면 출처를 안 붙인다.
                 chatWindow.innerHTML += `
@@ -255,6 +293,7 @@
                     </div>
                 `;
             } catch (error) {
+                document.getElementById(typingId)?.remove();
                 chatWindow.innerHTML += `
                     <div class="message-row bot-row">
                         <div class="avatar bot-avatar"><i class="fa-solid fa-triangle-exclamation"></i></div>
@@ -270,4 +309,5 @@
         }
     </script>
 </body>
+
 </html>
