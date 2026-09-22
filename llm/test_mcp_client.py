@@ -16,13 +16,22 @@ tools/list, tools/call 메시지 왕복)까지 그대로 거친다 — `mcp` 패
 수십 초 걸릴 수 있다.
 """
 import asyncio
+import sys
+
+# Windows 콘솔 기본 인코딩(cp949)에서 특수문자 print()가 죽는 문제 방지 (main.py와 동일한 조치)
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
 
 from mcp import ClientSession
 from mcp.client.stdio import StdioServerParameters, stdio_client
 
 
 async def main():
-    server_params = StdioServerParameters(command="python", args=["mcp_server.py"])
+    # command="python"으로 고정하면 시스템 PATH의 python(가상환경 밖, mcp 미설치)이
+    # 잡혀서 서버 서브프로세스가 즉시 죽는 문제가 있어, 지금 이 스크립트를 실행 중인
+    # 인터프리터(sys.executable)를 그대로 서버에도 써서 같은 가상환경을 보장한다.
+    server_params = StdioServerParameters(command=sys.executable, args=["mcp_server.py"])
 
     async with stdio_client(server_params) as (read, write):
         async with ClientSession(read, write) as session:

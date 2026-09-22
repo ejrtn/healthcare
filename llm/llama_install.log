@@ -1,0 +1,18 @@
+Looking in indexes: https://pypi.org/simple, https://abetlen.github.io/llama-cpp-python/whl/cpu
+Collecting llama-cpp-python==0.3.35
+  Downloading https://github.com/abetlen/llama-cpp-python/releases/download/v0.3.35/llama_cpp_python-0.3.35-py3-none-win_amd64.whl (7.1 MB)
+     ---------------------------------------- 7.1/7.1 MB 10.2 MB/s eta 0:00:00
+Requirement already satisfied: typing-extensions>=4.5.0 in d:\self_health_check\project\llm\.venv\lib\site-packages (from llama-cpp-python==0.3.35) (4.16.0)
+Requirement already satisfied: numpy>=1.20.0 in d:\self_health_check\project\llm\.venv\lib\site-packages (from llama-cpp-python==0.3.35) (2.5.3)
+Requirement already satisfied: diskcache>=5.6.1 in d:\self_health_check\project\llm\.venv\lib\site-packages (from llama-cpp-python==0.3.35) (5.6.3)
+Collecting jinja2>=2.11.3 (from llama-cpp-python==0.3.35)
+  Using cached jinja2-3.1.6-py3-none-any.whl.metadata (2.9 kB)
+Collecting MarkupSafe>=2.0 (from jinja2>=2.11.3->llama-cpp-python==0.3.35)
+  Using cached markupsafe-3.0.3-cp312-cp312-win_amd64.whl.metadata (2.8 kB)
+Using cached jinja2-3.1.6-py3-none-any.whl (134 kB)
+Using cached markupsafe-3.0.3-cp312-cp312-win_amd64.whl (15 kB)
+Installing collected packages: MarkupSafe, jinja2, llama-cpp-python
+Successfully installed MarkupSafe-3.0.3 jinja2-3.1.6 llama-cpp-python-0.3.35
+
+[notice] A new release of pip is available: 25.0.1 -> 26.2.1
+[notice] To update, run: D:\self_health_check\project\llm\.venv\Scripts\python.exe -m pip install --upgrade pip
