@@ -2,6 +2,10 @@
 mcp_proxy_venv/
 __pycache__/
 *.pyc
+# 디버깅/설치 중 생긴 로그를 실수로 커밋한 적이 있어서(llama_install.log 등)
+# 아예 확장자로 걸러둔다.
+*.log
+vector_db_old_backup/
 # models/ 전체를 제외한다 — *.gguf만 걸러내면 Ollama 캐시(models/blobs/sha256-...)처럼
 # 확장자 없는 대용량 중복 파일이 안 걸러지고 그대로 커밋될 뻔했다(실측: 4.6GB 발견).
 models/
