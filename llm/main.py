@@ -1,7 +1,19 @@
 import os
+
+# 실측 확인: sentence-transformers/CrossEncoder가 이미 로컬에 캐시된 모델을
+# 불러올 때도, "캐시가 최신인지" 확인하려고 Hugging Face Hub에 HEAD/GET 요청을
+# 수십 번 보낸다 — MCP 서버를 통해 재현했을 때 이 네트워크 확인 과정만으로
+# 임베딩+리랭커 로딩에 40초 가까이 걸렸다(전체 첫 호출 104초 중 대부분).
+# 모델을 업데이트할 계획이 없으므로, 네트워크 확인 자체를 꺼서 로컬 캐시를
+# 그대로 쓰게 한다 — 반드시 sentence_transformers를 import하기 전에 설정해야
+# 한다.
+os.environ.setdefault("HF_HUB_OFFLINE", "1")
+os.environ.setdefault("TRANSFORMERS_OFFLINE", "1")
+
 import sys
 import json
 import asyncio
+import threading
 from typing import List
 from fastapi import FastAPI
 from fastapi.responses import HTMLResponse
@@ -24,6 +36,12 @@ if not os.path.exists("static"):
 app.mount("/static", StaticFiles(directory="static"), name="static")
 
 # 1. 임베딩 모델 설정
+# finetune/ko-sroberta-finetuned-v2(TripletLoss 파인튜닝 버전)를 실제 서빙에
+# 붙여서 실측해봤는데, 카테고리 라우팅(리랭킹 후)은 93.9%→97.0%로 개선됐지만
+# 거절 정확도(55.6%→44.4%)와 증상 매칭(56.5%→47.8%)이 둘 다 악화됐다 —
+# 학습 데이터가 25~30건뿐이라 33문항 카테고리 질문에는 과최적화되고 전체적인
+# 임베딩 공간의 범용성은 오히려 깎인 것으로 보인다(finetune/RESULTS.md 참고).
+# 그래서 원본으로 되돌린다.
 embed_model = SentenceTransformer('jhgan/ko-sroberta-multitask')
 
 # 2. ChromaDB 영구 저장 클라이언트 (vector_db 폴더에 디스크 저장)
@@ -35,17 +53,36 @@ collection = chroma_client.get_or_create_collection(
 
 # 2-1. LLM (Ollama 대신 llama-cpp-python으로 gguf 파일을 직접 로드)
 # n_threads를 지정하지 않으면 llama-cpp-python이 보수적인 기본값을 쓰는 경우가 있어
-# 물리 코어 수에 맞춰 명시적으로 지정 (환경에 맞게 os.cpu_count() 등으로 조정 가능)
-CPU_THREADS = 14
-llm = Llama(
-    model_path="models/meta-llama-3.1-8b-instruct-q4_k_m.gguf",
-    n_ctx=4096,
-    n_threads=CPU_THREADS,        # 응답 생성(decode) 병렬도
-    n_threads_batch=CPU_THREADS,  # 프롬프트 처리(prefill) 병렬도
-    n_gpu_layers=0,  # GPU(CUDA build)로 가속하려면 늘리세요 (예: 20~35)
-    chat_format="llama-3",
-    verbose=False,
-)
+# 물리 코어 수에 맞춰 명시적으로 지정한다. 예전엔 로컬 PC 코어 수(14)로 고정해뒀는데,
+# Hugging Face Spaces 무료 CPU 티어(보통 vCPU 2개)에 그대로 가져가면 실제 코어보다
+# 훨씬 많은 스레드가 서로 경쟁하면서 오히려 응답이 크게 느려지는 문제가 실측으로
+# 확인됐다 — os.cpu_count()로 실행 환경의 실제 코어 수를 읽어 자동으로 맞춘다.
+CPU_THREADS = os.cpu_count() or 4
+
+# 8B 모델(4.6GB) 로딩 자체가 실측 100초 이상 걸린다(MCP 서버 타임아웃의 실제
+# 원인 — embed_model/reranker는 HF_HUB_OFFLINE 적용 후 2초면 끝나는데, llm은
+# 디스크에서 큰 파일을 읽는 시간이라 그 최적화로는 못 줄인다). search_medical_
+# knowledge처럼 LLM을 아예 안 쓰는 도구까지 이 로딩을 기다리게 만들지 않도록,
+# 다른 모델과 달리 이것만 지연 로딩한다 — 실제로 llm.create_chat_completion을
+# 호출하는 시점에만 로드된다.
+_llm = None
+_llm_lock = threading.Lock()
+
+
+def get_llm():
+    global _llm
+    with _llm_lock:
+        if _llm is None:
+            _llm = Llama(
+                model_path="models/meta-llama-3.1-8b-instruct-q4_k_m.gguf",
+                n_ctx=4096,
+                n_threads=CPU_THREADS,        # 응답 생성(decode) 병렬도
+                n_threads_batch=CPU_THREADS,  # 프롬프트 처리(prefill) 병렬도
+                n_gpu_layers=0,  # GPU(CUDA build)로 가속하려면 늘리세요 (예: 20~35)
+                chat_format="llama-3",
+                verbose=False,
+            )
+    return _llm
 
 # 2-2. 리랭커: 1차 벡터 검색 후보를 cross-encoder로 재정렬해 정확도를 높인다.
 reranker = CrossEncoder("Dongjin-kr/ko-reranker", max_length=512)
@@ -99,7 +136,7 @@ def guess_standard_term(user_text: str) -> str:
     신뢰할 수 없다고 보고 빈 문자열을 반환해 호출부가 원래 폴백으로 넘어가게 한다.
     """
     try:
-        response = llm.create_chat_completion(
+        response = get_llm().create_chat_completion(
             messages=[
                 {
                     "role": "system",
@@ -315,15 +352,11 @@ def search_disease(query_embedding, disease: str, category_keywords: List[str], 
     return results["documents"][0], results["distances"][0], results["metadatas"][0]
 
 
-# 병명 없이 증상만 설명하는 질문에서, 후보 질환들의 거리가 다 비슷하게 가까우면
-# 하나로 단정하지 않고 되물어서 좁혀나간다.
-AMBIGUITY_MARGIN = 0.08       # 1등 거리 + 이 값 안에 있으면 "비슷하게 가까운" 후보로 침
+# 병명 없이 증상만 설명하는 질문에서, 투표로 모인 후보 질환이 많으면 하나로
+# 단정하지 않고 되물어서 좁혀나간다 (vote_candidates_by_symptom 참고).
 AMBIGUITY_MIN_DISEASES = 3    # 서로 다른 병이 이 개수 이상이면 애매하다고 판단
 AMBIGUITY_MAX_DISEASES = 10   # 이 개수를 넘으면 목록을 보여주지 않고 증상을 더 물어본다
 MAX_FOLLOWUP_ROUNDS = 3       # 후보가 안 좁혀져도 무한정 되묻지 않도록 하는 안전장치(주 기준은 후보 개수)
-# 병명 미언급 질문에서 뽑아올 후보 청크 수. "기침"처럼 흔한 증상은 원인이 10개를
-# 넘을 수 있어서(실측: 20개→7병, 30개→8병, 50개→12병) 넉넉히 40으로 잡았다.
-SYMPTOM_CANDIDATES = 40
 
 
 def build_symptom_query(message: str, history: List[dict]) -> str:
@@ -333,33 +366,134 @@ def build_symptom_query(message: str, history: List[dict]) -> str:
     return " ".join(p for p in parts if p)
 
 
-def find_ambiguous_candidates(distances, metadatas) -> List[dict]:
-    """상위 후보 중 1등과 거리가 비슷한 서로 다른 병들을 뽑는다 (많으면 애매한 질문)."""
-    if not distances:
-        return []
-    top_distance = distances[0]
-    seen: dict = {}
-    for dist, meta in zip(distances, metadatas):
-        if dist > top_distance + AMBIGUITY_MARGIN:
+def summarize_symptoms(message: str, history: List[dict]) -> str:
+    """
+    build_symptom_query()의 원문 이어붙이기를 LLM으로 한 번 더 정리해서 검색어로 쓴다.
+
+    실측으로 확인된 문제: 대화가 길어질수록(예: 증상 6개를 한 메시지에 몰아넣은 경우)
+    문장 하나에 여러 증상이 뒤섞여 임베딩이 흐려지고, "목이 가려워"에 반응한
+    "두드러기"(피부), "가슴이 답답해"에 반응한 "위식도역류질환"(소화기)처럼
+    임상적으로 무관한 후보가 섞여 들어왔다. 또 "약이 있나?" 같은 질문 형태에
+    실려있는 카테고리 의도(치료/약물)가 그냥 버려지는 문제도 있었다.
+
+    그래서 "그냥 요약해줘"가 아니라, 무엇을 남기고/빼고/우선할지 규칙과 few-shot
+    예시로 구체적으로 명시한다(알약 프로젝트에서 확인된 것과 같은 원리 — 추상적
+    지시보다 구체적 판별 기준이 로컬 8B 모델에는 더 잘 먹힌다).
+
+    로컬 8B의 지시 이행이 항상 안정적인 건 아니라는 게 이 프로젝트에서 여러 번
+    실측으로 확인됐으므로(RAGAS judge 파싱 성공률 40.6% 등), 출력이 이상하면
+    build_symptom_query()의 원문 이어붙이기로 그대로 폴백한다.
+    """
+    raw = build_symptom_query(message, history)
+
+    FEW_SHOT = [
+        {"role": "user", "content": "기침이 심해지고 있는데 약이 있나?"},
+        {"role": "assistant", "content": "기침 심함, 약물 치료"},
+        {"role": "user", "content": "열이 나요 28도요 38도인가"},
+        {"role": "assistant", "content": "발열 38도"},
+        {
+            "role": "user",
+            "content": "기침이 나고 열도 나서 가슴이 답답해 호흡이 가빠지는 느낌이야 목도 따끔거리는데 목이 가려워",
+        },
+        {"role": "assistant", "content": "기침, 발열, 가슴 답답함, 호흡 곤란, 목 따끔거림, 목 가려움"},
+    ]
+
+    try:
+        response = get_llm().create_chat_completion(
+            messages=[
+                {
+                    "role": "system",
+                    "content": (
+                        "사용자가 여러 번에 걸쳐 말한 증상 설명을 검색에 쓸 짧은 문구로 정리하세요. "
+                        "규칙: "
+                        "1) '~있나요', '~인가요' 같은 질문 형태는 빼고 증상/상태만 남기되, "
+                        "'약', '치료', '원인'처럼 무엇을 알고 싶어하는지 나타내는 단어는 그대로 남기세요. "
+                        "2) 같은 증상을 여러 번 말했으면 한 번만 남기세요. "
+                        "3) 체온처럼 값이 정정된 경우(예: 28도라고 했다가 38도라고 다시 말함) 최신 값만 남기세요. "
+                        "4) 언급되지 않은 증상은 절대 지어내지 마세요. "
+                        "5) 쉼표로 구분된 짧은 명사구 나열로만 답하고, 다른 설명은 절대 추가하지 마세요."
+                    ),
+                },
+                *FEW_SHOT,
+                {"role": "user", "content": raw},
+            ],
+            max_tokens=128,
+        )
+        summary = response["choices"][0]["message"]["content"].strip().strip('"').strip("'")
+    except Exception as e:
+        print(f"  [summarize_symptoms 오류] {e} -> 원문 이어붙이기로 폴백")
+        return raw
+
+    if not summary or "\n" in summary or len(summary) > 200:
+        print(f"  [summarize_symptoms 이상 출력] {summary!r} -> 원문 이어붙이기로 폴백")
+        return raw
+    return summary
+
+
+def vote_candidates_by_symptom(symptoms: List[str], n_results_per_symptom: int = 15):
+    """
+    여러 계통 증상이 한 벡터에 뭉쳐 흐려지는 문제(실측 확인: 기침+발열+가슴답답함+
+    호흡곤란+목따끔거림+목가려움을 한 벡터로 검색하면 "두드러기", "위식도역류질환"
+    처럼 무관한 후보가 섞여 들어옴)를 피하기 위해, summarize_symptoms()가 정리한
+    쉼표 구분 증상 목록을 증상별로 따로따로 검색해서, 여러 검색에서 공통으로
+    등장하는 병명에 표를 준다 — LLM의 판단(선택) 없이 순수 집계로 후보를 좁힌다.
+
+    LLM에게 "후보 중 3개만 골라라"고 시켜본 적이 있는데(`finetune/RESULTS.md`
+    "후보 추리기를 LLM 추론에 맡겨보기" 참고), "고르기"라는 지시를 무시하고 증상×
+    후보를 전부 기계적으로 나열하다가 토큰 한도에 걸려 잘렸다 — 로컬 8B는 "여러
+    선택지 중 일부만 고르는 판단"에 불안정하다는 게 재확인된 사례다. 이 함수는
+    그 "고르기"를 LLM이 아니라 투표(집계)로 대체한다 — 검색·리랭킹처럼 "판단이
+    아니라 계산으로 되는 일"은 전용 로직에 맡긴다는, 이 프로젝트가 원래 지켜온
+    원칙의 연장선이다.
+
+    반환: (ranked, overall_min_distance, pool)
+    - ranked: 투표수 내림차순·동률이면 최소거리 오름차순으로 정렬된 후보 리스트,
+      각 항목은 {"count", "distance", "doc", "meta"} (병명별 가장 가까운 청크 1개)
+    - overall_min_distance: 전체 검색 중 최소 거리 — THRESHOLD 거절 판단에 사용
+    - pool: 모든 증상 검색 결과를 합친 (doc, dist, meta) 튜플 리스트 — 후보가
+      1~2개로 좁혀졌을 때 같은 병의 여러 청크를 모아 답변 컨텍스트를 풍부하게
+      만드는 데 사용
+    """
+    votes: dict = {}
+    overall_min_distance = None
+    pool: list = []
+
+    for symptom in symptoms:
+        embedding = embed_model.encode([symptom]).tolist()
+        docs, distances, metadatas = vector_search(embedding, n_results=n_results_per_symptom)
+        if not docs:
             continue
-        disease = meta.get("disease")
-        if disease not in seen:
-            seen[disease] = meta
-    return list(seen.values())
+        if overall_min_distance is None or distances[0] < overall_min_distance:
+            overall_min_distance = distances[0]
 
+        seen_this_symptom = set()
+        for doc, dist, meta in zip(docs, distances, metadatas):
+            if dist > THRESHOLD:
+                continue
+            pool.append((doc, dist, meta))
+            disease = meta.get("disease")
+            if disease in seen_this_symptom:
+                continue  # 한 증상 검색에서 같은 병은 한 표만
+            seen_this_symptom.add(disease)
+            entry = votes.setdefault(disease, {"count": 0, "distance": dist, "doc": doc, "meta": meta})
+            entry["count"] += 1
+            if dist < entry["distance"]:
+                entry["distance"] = dist
+                entry["doc"] = doc
+                entry["meta"] = meta
 
-def pick_best_chunk_per_disease(candidate_diseases: List[str], docs, distances, metadatas):
-    """
-    되묻기 한도까지 다 썼는데도 후보가 안 좁혀졌을 때, 후보 병명별로 가장 가까운
-    청크를 하나씩만 골라 컨텍스트를 만든다 (한 병에 쏠리지 않고 후보들을 골고루 보여주기 위함).
-    """
-    best: dict = {}
-    for doc, dist, meta in zip(docs, distances, metadatas):
-        disease = meta.get("disease")
-        if disease in candidate_diseases and (disease not in best or dist < best[disease][0]):
-            best[disease] = (dist, doc, meta)
-    picked = sorted(best.values(), key=lambda x: x[0])
-    return [p[1] for p in picked], [p[2] for p in picked]
+    ranked = sorted(votes.values(), key=lambda v: (-v["count"], v["distance"]))
+
+    # 실측 확인: 최소 득표 기준 없이 "1표라도 받으면 후보"로 치면, 증상 하나하나의
+    # 검색 결과를 합집합으로 모으는 셈이라 오히려 후보가 더 늘어난다(7개 증상 →
+    # 32개 후보, 단일 벡터 검색의 19개보다 나쁨). "여러 증상에서 공통으로 나온
+    # 병"만 진짜 후보로 남기기 위해, 증상이 2개 이상이면 최소 2표 이상만 남긴다.
+    if len(symptoms) >= 2:
+        filtered = [v for v in ranked if v["count"] >= 2]
+        if filtered:
+            ranked = filtered
+
+    return ranked, overall_min_distance, pool
 
 
 @app.post("/chat")
@@ -378,22 +512,25 @@ async def chat(request: ChatRequest):
 
     if not diseases:
         # 병명이 감지되지 않은 경우(증상 기반 질문 등): 전체 검색으로 폴백.
-        # 지금까지 대화에서 나온 증상 설명을 다 이어붙여서 검색한다 (멀티턴 누적).
-        symptom_query = build_symptom_query(user_input, request.history)
-        print(f"  누적 증상 질의: {symptom_query!r} (history {len(request.history)}턴)")
-        symptom_embedding = embed_model.encode([symptom_query]).tolist()
+        # 지금까지 대화에서 나온 증상 설명을 LLM으로 정리해서 검색한다 (멀티턴 누적).
+        # (LLM 호출이라 CPU 추론 기준 시간이 걸릴 수 있어 스레드에서 실행)
+        symptom_query = await asyncio.to_thread(summarize_symptoms, user_input, request.history)
+        print(f"  누적 증상 질의(LLM 정리): {symptom_query!r} (history {len(request.history)}턴)")
 
-        # 임계값 판단은 리랭킹 전, 벡터 검색의 원래 1등(코사인 거리가 가장 가까운 것)으로 한다.
-        # 리랭킹은 "관련 있는 것들 중에 뭘 보여줄지"를 정하는 역할이지,
-        # "관련이 있긴 한지"를 판단하는 역할이 아니기 때문이다.
-        docs, distances, metadatas = vector_search(symptom_embedding, n_results=SYMPTOM_CANDIDATES)
+        # 증상을 하나로 뭉쳐서 검색하지 않고, 쉼표로 나눠 증상별로 따로 검색한 뒤
+        # 투표로 후보를 모은다 (vote_candidates_by_symptom 참고 — 여러 계통 증상이
+        # 섞일 때 한 벡터로 뭉치면 흐려지는 문제를 피하기 위한 설계).
+        symptoms_list = [s.strip() for s in symptom_query.split(",") if s.strip()] or [symptom_query]
+        ranked, overall_min_distance, pool = await asyncio.to_thread(
+            vote_candidates_by_symptom, symptoms_list
+        )
 
-        if not docs or distances[0] > THRESHOLD:
+        if not ranked or overall_min_distance is None or overall_min_distance > THRESHOLD:
             # 규칙 기반 병명 매칭도, 임베딩 검색도 둘 다 실패한 경우 — "디스크"처럼
             # 등록된 정식 명칭("추간판탈출증(디스크)")의 일부만 말한 구어체/줄임말일
             # 가능성이 있으니, 완전히 포기하기 전에 LLM에게 한 번 물어봐서 맞으면
             # 되물어보고, 그마저도 안 되면 원래 폴백 메시지를 그대로 낸다.
-            guess = guess_standard_term(user_input)
+            guess = await asyncio.to_thread(guess_standard_term, user_input)
             if guess:
                 print(f"  근거 없음 -> LLM 추측: '{guess}' -> 되묻기")
                 return {
@@ -406,8 +543,7 @@ async def chat(request: ChatRequest):
         # - 10개 넘게 갈리면 목록을 보여줘도 의미가 없으니 증상을 더 구체적으로 물어본다.
         # - 3~10개면 후보 목록을 그대로 보여주고, 증상을 더 주면 좁혀진다고 안내한다.
         assistant_turns = sum(1 for h in request.history if h.get("role") == "assistant")
-        candidates = find_ambiguous_candidates(distances, metadatas)
-        candidate_names = [c.get("disease") for c in candidates]
+        candidate_names = [v["meta"].get("disease") for v in ranked]
 
         if assistant_turns < MAX_FOLLOWUP_ROUNDS and len(candidate_names) > AMBIGUITY_MAX_DISEASES:
             print(f"  후보 {len(candidate_names)}개(10개 초과) -> 증상 추가 요청: {candidate_names}")
@@ -431,7 +567,7 @@ async def chat(request: ChatRequest):
                 "sources": [], "is_followup": True,
             }
 
-        if len(candidates) >= AMBIGUITY_MIN_DISEASES:
+        if len(ranked) >= AMBIGUITY_MIN_DISEASES:
             # 되묻기 한도까지 다 써도 후보가 안 좁혀진 경우: 하나로 확정하지 않고
             # 후보 병명들을 나란히 보여주는 정도면 충분한, 사실상 정해진 답변이다.
             # 예전엔 이 문구를 LLM한테 "이렇게 표현해서 답해라"는 지시문(multi_note)으로
@@ -439,12 +575,10 @@ async def chat(request: ChatRequest):
             # 베껴서 답변에 넣어버리는 문제가 실측으로 확인됐다(지시 이행 신뢰도 문제 —
             # RAGAS 로컬 judge 불안정성과 같은 계열의 한계). 내용이 이미 정해져 있으니
             # "10개 초과"/"3~10개" 분기와 동일하게 LLM 호출 없이 바로 답한다.
-            candidate_names = [c.get("disease") for c in candidates]
             print(f"  되묻기 한도 도달, 여전히 애매함 -> 후보: {candidate_names}")
-            docs, metadatas = pick_best_chunk_per_disease(candidate_names, docs, distances, metadatas)
-            collect_sources(metadatas, sources)
-            # candidate_names는 find_ambiguous_candidates()에서 벡터 검색 거리순(가까운
-            # 순서)으로 이미 정렬되어 나오므로, 앞의 3개가 가장 유력한 후보다.
+            collect_sources([v["meta"] for v in ranked], sources)
+            # candidate_names는 투표수·거리 기준으로 이미 정렬되어 나오므로,
+            # 앞의 3개가 가장 유력한 후보다.
             total_count = len(candidate_names)
             top3 = candidate_names[:3]
             top3_str = ", ".join(top3)
@@ -456,8 +590,14 @@ async def chat(request: ChatRequest):
             )
             return {"answer": answer, "sources": sources, "is_followup": False}
         else:
-            # 후보가 충분히 좁혀진 경우: 기존처럼 top-3로 좀 더 구체적으로 답한다.
-            docs, distances, metadatas = rerank(symptom_query, docs, distances, metadatas, 3)
+            # 후보가 1~2개로 충분히 좁혀진 경우: 그 병(들)에 대한 모든 증상별
+            # 검색 결과(pool)를 모아 거리순 top-3 청크로 답변 컨텍스트를 만든다
+            # (병명별 최고 청크 1개씩만 있는 ranked보다 내용이 풍부함).
+            top_diseases = set(candidate_names)
+            matched = [(doc, dist, meta) for doc, dist, meta in pool if meta.get("disease") in top_diseases]
+            matched.sort(key=lambda x: x[1])
+            docs = [m[0] for m in matched[:3]]
+            metadatas = [m[2] for m in matched[:3]]
             context = build_context(docs, metadatas)
             collect_sources(metadatas, sources)
             multi_note = (
@@ -491,18 +631,22 @@ async def chat(request: ChatRequest):
     user_message = f"[의학 지식]:\n{context}\n\n{multi_note}질문: {user_input}"
 
     try:
+        # get_llm()도 스레드 안에서 호출해야 한다 — 첫 호출이면 8B 모델 로딩(100초
+        # 이상)이 여기서 일어나는데, await 밖(코루틴 본문)에서 부르면 그 시간 동안
+        # 이벤트 루프 전체가 막혀버린다.
         response = await asyncio.to_thread(
-            llm.create_chat_completion,
-            messages=[
-                {
-                    "role": "system",
-                    "content": "당신은 자가 진단 보조 AI입니다. 아래 제공된 [의학 지식]만을 바탕으로 "
-                                "사용자의 질문에 친절하고 명확하게 답변하세요. 지식에 없는 내용은 절대로 "
-                                "지어내지 마세요. 필요하면 병원 방문을 권유하세요.",
-                },
-                {"role": "user", "content": user_message},
-            ],
-            max_tokens=1024,
+            lambda: get_llm().create_chat_completion(
+                messages=[
+                    {
+                        "role": "system",
+                        "content": "당신은 자가 진단 보조 AI입니다. 아래 제공된 [의학 지식]만을 바탕으로 "
+                                    "사용자의 질문에 친절하고 명확하게 답변하세요. 지식에 없는 내용은 절대로 "
+                                    "지어내지 마세요. 필요하면 병원 방문을 권유하세요.",
+                    },
+                    {"role": "user", "content": user_message},
+                ],
+                max_tokens=1024,
+            )
         )
         answer = response["choices"][0]["message"]["content"]
         return {"answer": answer, "sources": sources, "is_followup": False}
@@ -520,5 +664,9 @@ if __name__ == "__main__":
     # README에 "python main.py"로 실행하는 방법이 안내되어 있는데, 이 진입점이
     # 없으면 모델만 로딩하고 서버는 안 뜬 채로 스크립트가 그냥 끝나버린다
     # (실측으로 확인된 문제 — Uvicorn 시작 메시지 없이 바로 종료됨).
+    # HOST/PORT를 환경변수로 읽어서, 로컬 실행(기본값 127.0.0.1:8000)은 그대로 두고
+    # Hugging Face Spaces 같은 배포 환경(0.0.0.0, 포트 7860 등)도 코드 수정 없이 지원한다.
     import uvicorn
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    host = os.environ.get("HOST", "127.0.0.1")
+    port = int(os.environ.get("PORT", "8000"))
+    uvicorn.run(app, host=host, port=port)
