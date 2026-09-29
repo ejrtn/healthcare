@@ -1,4 +1,5 @@
 .venv/
+mcp_proxy_venv/
 __pycache__/
 *.pyc
 # models/ 전체를 제외한다 — *.gguf만 걸러내면 Ollama 캐시(models/blobs/sha256-...)처럼
