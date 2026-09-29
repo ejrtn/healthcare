@@ -232,7 +232,7 @@
             if (!sources || sources.length === 0) return '';
             const tags = sources
                 .map(s => `<span class="source-tag">${escapeHtml(s.disease)} - ${escapeHtml(s.category)}</span>`)
-                .join('');
+                .join(' ');
             return `<div class="sources">출처: ${tags}</div>`;
         }
 
