@@ -95,6 +95,25 @@ if os.path.exists(DISEASES_PATH):
     with open(DISEASES_PATH, "r", encoding="utf-8") as f:
         KNOWN_DISEASES = json.load(f)
 
+# 3-1. KDCA 데이터는 "폐렴(소아)"/"폐렴(성인)"처럼 연령·유형별로 병명이 쪼개진
+# 경우가 많다. 그런데 사용자는 보통 괄호 없이 "폐렴 증상 알려줘"처럼 묻기 때문에,
+# detect_diseases()의 완전 일치 방식으로는 아예 매칭되지 않아 병명 질문인데도
+# 증상 문진 모드로 잘못 빠진다(실측 확인). 괄호 앞 공통 이름("폐렴")을 별도로
+# 등록해두고, 그 이름만으로 물어보면 하위 항목 전부를 후보로 돌려준다 — 어느 쪽인지
+# 임의로 하나만 고르면 오답 위험이 있어서, 여러 병명을 동시에 묻는 경우와 똑같이
+# 두 항목을 모두 검색해 합쳐서 보여준다.
+KNOWN_DISEASES_SET = set(KNOWN_DISEASES)
+BASE_NAME_VARIANTS: dict = {}
+for _d in KNOWN_DISEASES:
+    if "(" in _d:
+        _base = _d.split("(")[0].strip()
+        if _base and _base not in KNOWN_DISEASES_SET:
+            BASE_NAME_VARIANTS.setdefault(_base, []).append(_d)
+BASE_NAME_VARIANTS = {k: v for k, v in BASE_NAME_VARIANTS.items() if len(v) > 1}
+DISEASE_MATCH_CANDIDATES = sorted(
+    KNOWN_DISEASES + list(BASE_NAME_VARIANTS.keys()), key=len, reverse=True
+)
+
 # 4. 병명별 실제 존재하는 카테고리 목록 (질문 의도 -> 카테고리 필터링에 사용)
 DISEASE_CATEGORIES_PATH = "data/disease_categories.json"
 DISEASE_CATEGORIES = {}
@@ -108,15 +127,25 @@ def detect_diseases(text: str) -> List[str]:
     질문 문자열에 등록된 병명이 몇 개든 포함되어 있으면 전부 반환.
     긴 병명부터 먼저 찾고, 매칭된 부분은 텍스트에서 지워서 그 안에 포함된
     짧은 병명(예: "간염"이 "만성 간염" 안에 들어있는 경우)이 중복으로 잡히지 않게 한다.
+    "폐렴"처럼 괄호 없는 공통 이름만 등장하면 BASE_NAME_VARIANTS에 등록된 하위
+    항목("폐렴(소아)", "폐렴(성인)") 전부를 후보로 추가한다.
     결과는 질문에 등장한 순서대로 정렬해서, 답변도 사용자가 물어본 순서를 따르게 한다.
     """
     found = []
     remaining = text
-    for disease in KNOWN_DISEASES:
-        if disease in remaining:
-            found.append(disease)
-            remaining = remaining.replace(disease, " ", 1)
-    return sorted(found, key=lambda d: text.find(d))
+    for name in DISEASE_MATCH_CANDIDATES:
+        if name in remaining:
+            if name in BASE_NAME_VARIANTS:
+                found.extend(BASE_NAME_VARIANTS[name])
+            else:
+                found.append(name)
+            remaining = remaining.replace(name, " ", 1)
+
+    def _order_key(d):
+        pos = text.find(d)
+        return pos if pos != -1 else text.find(d.split("(")[0])
+
+    return sorted(found, key=_order_key)
 
 
 def guess_standard_term(user_text: str) -> str:
