@@ -43,7 +43,7 @@ MCP 서버(`mcp_server.py`)는 stdio 기반 프로토콜이라 이 웹 데모에
 mkdir ~/hf-space-deploy && cd ~/hf-space-deploy
 git init
 git lfs install
-git lfs track "vector_db/**"
+git lfs track "vector_db/**" "*.jsonl"
 
 # 2. 필요한 파일만 복사해온다 (메인 프로젝트 git 이력과 무관하게, models/는 제외 —
 #    모델은 git에 안 올리고 Dockerfile이 빌드 중에 직접 받는다. 아래 "왜 모델
@@ -68,8 +68,10 @@ git push space main
 필요 없어집니다(참고용으로 남겨둠 — 지원 안 돼도 무해함). 빌드 컨텍스트도 자동으로 이
 임시 폴더가 되므로 Dockerfile의 `COPY main.py .` 같은 상대 경로가 그대로 맞습니다.
 
-**vector_db(378MB)는 반드시 Git LFS로 추적해야** push가 됩니다(위 `git lfs track` 명령을
-커밋 전에 먼저 실행) — 빠뜨리면 push가 실패하거나 파일이 잘려서 올라갑니다.
+**vector_db와 medical_knowledge.jsonl(14MB 이상)은 반드시 Git LFS로 추적해야** push가
+됩니다(위 `git lfs track` 명령을 커밋 전에 먼저 실행) — HF Spaces는 10MB가 넘는 일반
+git 파일을 아예 거절한다(실측: `medical_knowledge.jsonl`만 빠뜨렸다가 "files larger than
+10 MiB"로 push가 거부됨). 빠뜨리면 push가 실패하거나 파일이 잘려서 올라갑니다.
 
 ### 왜 모델 파일을 git에 안 올리나
 
@@ -79,3 +81,12 @@ Hugging Face Spaces 무료 티어는 **git/LFS 저장소 용량이 1GB로 제한
 **같은 양자화 파일**(`bartowski/Meta-Llama-3.1-8B-Instruct-GGUF`의
 `Meta-Llama-3.1-8B-Instruct-Q4_K_M.gguf`)을 직접 받아 이미지 레이어에 구워 넣습니다. 이건
 git/LFS 저장소 용량이 아니라 Docker 이미지 크기로 집계되어 1GB 한도에 걸리지 않습니다.
+
+### 임베딩·리랭커 모델도 빌드 시점에 미리 받아둬야 한다
+
+`main.py`는 로컬 개발 환경에서 캐시 재검증 네트워크 호출을 줄이려고 `HF_HUB_OFFLINE=1`로
+뜬다. 그런데 이 이미지는 매번 새로 빌드되는 컨테이너라 임베딩(`jhgan/ko-sroberta-multitask`)·
+리랭커(`Dongjin-kr/ko-reranker`) 모델이 캐시에 전혀 없는 상태로 시작한다 — 오프라인
+모드라 다운로드도 못 해서 `LocalEntryNotFoundError`로 컨테이너가 기동조차 못 하고
+크래시한다(실측 확인). `Dockerfile`이 8B LLM처럼 이 둘도 빌드 시점에 미리 받아
+`HF_HOME=/app/hf_cache`에 캐시해두는 이유다.

@@ -12,6 +12,14 @@ FROM python:3.12-slim
 
 WORKDIR /app
 
+# Hugging Face Hub 캐시 경로를 고정한다. 기본 경로(~/.cache/huggingface)는
+# 빌드 중엔 root, 실행 중엔 appuser로 유저가 바뀌면서 서로 다른 홈 디렉터리를
+# 가리키게 되어, 빌드 시점에 미리 받아둔 모델을 실행 시점에 못 찾는 문제가
+# 있었다(실측: main.py가 HF_HUB_OFFLINE=1로 뜨는데 캐시를 못 찾아
+# LocalEntryNotFoundError로 컨테이너가 기동조차 못 함). /app 아래로 고정해두면
+# 마지막의 chown 한 번으로 빌드·실행 양쪽이 같은 캐시를 쓴다.
+ENV HF_HOME=/app/hf_cache
+
 # llama-cpp-python은 소스 빌드 시 C++ 컴파일러가 필요한데, 이 이미지엔 없다.
 # 로컬에서도 겪었던 문제(nmake/CMake 컴파일러 없음)와 같은 이유로, CPU 전용
 # 프리빌트 휠 인덱스를 추가로 지정해서 컴파일 없이 바로 설치되게 한다.
@@ -19,6 +27,14 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir \
     --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu \
     -r requirements.txt
+
+# main.py는 이미 로컬에 캐시된 모델을 Hugging Face Hub에 매번 재검증하지 않도록
+# HF_HUB_OFFLINE=1로 뜬다(로컬 개발 환경 기준 최적화). 그런데 이 이미지는 매번
+# 새로 빌드되는 컨테이너라 임베딩·리랭커 모델이 캐시에 전혀 없는 상태로
+# 시작하는데, 오프라인 모드라 다운로드도 못 해서 그대로 크래시한다(실측 확인 —
+# 8B LLM은 아래에서 미리 받아두면서 이 둘은 빠뜨려서 발생한 문제). 여기서
+# 미리 받아 캐시를 채워둔다.
+RUN python -c "from sentence_transformers import SentenceTransformer, CrossEncoder; SentenceTransformer('jhgan/ko-sroberta-multitask'); CrossEncoder('Dongjin-kr/ko-reranker', max_length=512)"
 
 # 앱 코드
 COPY main.py .
