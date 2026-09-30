@@ -20,6 +20,14 @@ WORKDIR /app
 # 마지막의 chown 한 번으로 빌드·실행 양쪽이 같은 캐시를 쓴다.
 ENV HF_HOME=/app/hf_cache
 
+# sentence-transformers가 torch를 의존성으로 끌어오는데, 인덱스를 지정하지
+# 않으면 기본 PyPI가 CUDA 포함 torch(수 GB)를 깔아버린다 — 이 이미지는 CPU만
+# 쓰는데도 그래서, 빌드 이미지가 불필요하게 커지고 빌드 컨테이너 메모리도
+# 많이 먹어서 "Pushing image" 단계에서 OOMKilled(exit 137)로 죽는 걸 실측으로
+# 확인했다. torch를 CPU 전용 휠로 먼저 깔아두면, 아래에서 requirements.txt를
+# 설치할 때 이미 만족된 의존성으로 보고 다시 안 깐다.
+RUN pip install --no-cache-dir torch --index-url https://download.pytorch.org/whl/cpu
+
 # llama-cpp-python은 소스 빌드 시 C++ 컴파일러가 필요한데, 이 이미지엔 없다.
 # 로컬에서도 겪었던 문제(nmake/CMake 컴파일러 없음)와 같은 이유로, CPU 전용
 # 프리빌트 휠 인덱스를 추가로 지정해서 컴파일 없이 바로 설치되게 한다.
@@ -33,8 +41,11 @@ RUN pip install --no-cache-dir \
 # 새로 빌드되는 컨테이너라 임베딩·리랭커 모델이 캐시에 전혀 없는 상태로
 # 시작하는데, 오프라인 모드라 다운로드도 못 해서 그대로 크래시한다(실측 확인 —
 # 8B LLM은 아래에서 미리 받아두면서 이 둘은 빠뜨려서 발생한 문제). 여기서
-# 미리 받아 캐시를 채워둔다.
-RUN python -c "from sentence_transformers import SentenceTransformer, CrossEncoder; SentenceTransformer('jhgan/ko-sroberta-multitask'); CrossEncoder('Dongjin-kr/ko-reranker', max_length=512)"
+# 미리 받아 캐시를 채워둔다 — SentenceTransformer/CrossEncoder로 직접 로드하면
+# torch 텐서까지 메모리에 올라가서 빌드 컨테이너가 OOMKilled(exit 137)로
+# 죽는 걸 실측으로 확인했다. snapshot_download는 파일만 내려받고 끝나서 훨씬
+# 가볍다 — 캐시 위치·내용은 동일하니 런타임 동작은 같다.
+RUN python -c "from huggingface_hub import snapshot_download; snapshot_download('jhgan/ko-sroberta-multitask'); snapshot_download('Dongjin-kr/ko-reranker')"
 
 # 앱 코드
 COPY main.py .
