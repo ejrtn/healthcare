@@ -19,8 +19,6 @@ import json
 import re
 from pathlib import Path
 
-from evaluate import load_jsonl, parse_prediction
-
 ROOT = Path(__file__).resolve().parent.parent
 TEST_SPLITS = ["test1", "test2", "test3"]
 
@@ -63,15 +61,18 @@ def spoken_numbers(text):
 
 
 def note_numbers(text):
-    """기록에 나온 숫자. 소수(8.5)는 정수 부분과 함께 본다. 섹션 번호 같은 1~3 한 자리는 흔해서 뺀다."""
+    """기록에 나온 숫자와, 그 숫자가 대화에 근거가 있다고 볼 조건들(하나라도 전부 충족되면 근거 있음).
+
+    소수 6.8은 대화에 "six point eight"(6과 8 둘 다) 또는 "68"이 있어야 한다. 섹션 번호 같은 1~3은 흔해서 뺀다.
+    """
     out = []
     for m in re.finditer(r"\d+(?:\.\d+)?", text):
         tok = m.group()
         if "." in tok:
             whole, frac = tok.split(".")
-            out.append((tok, {int(whole), int(frac), int(whole + frac)}))
+            out.append((tok, [{int(whole), int(frac)}, {int(whole + frac)}]))
         elif int(tok) > 3:
-            out.append((tok, {int(tok)}))
+            out.append((tok, [{int(tok)}]))
     return out
 
 
@@ -80,7 +81,7 @@ def check(note, dialogue):
     d_nums = spoken_numbers(dialogue)
     # 나이는 따로 센다(3번). 병명 속 숫자(COVID-19, type 2)는 사실 주장이 아니라 뺀다
     rest = re.sub(r"\d+[- ]year[- ]old|covid[- ]?19|type (?:1|2|one|two)\b", " ", note, flags=re.I)
-    unsupported_nums = [tok for tok, cands in note_numbers(rest) if not (cands & d_nums)]
+    unsupported_nums = [tok for tok, conds in note_numbers(rest) if not any(c <= d_nums for c in conds)]
     n = note.lower()
     unsupported_tests = [name for name, pats in TESTS.items()
                          if re.search(re.escape(name) if name != "ct" else r"\bct\b", n)
@@ -111,6 +112,8 @@ def main():
     ap.add_argument("preds", nargs="+", help="예측 jsonl (outputs/...)")
     ap.add_argument("--out", default=str(ROOT / "results" / "faithfulness.json"))
     args = ap.parse_args()
+    # 채점 모듈(rouge_score 의존)은 CLI에서만 쓴다 — API 서버는 check()만 가져다 쓴다
+    from evaluate import load_jsonl, parse_prediction
 
     cases = [g for s in TEST_SPLITS for g in load_jsonl(ROOT / "data" / "processed" / f"aci_{s}.jsonl")]
     report = {"gold": None, "systems": {}}

@@ -32,6 +32,7 @@ from pydantic import BaseModel, Field, ValidationError
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 
+from faithfulness import check as grounding_check  # noqa: E402
 from prompts import build_messages  # noqa: E402
 from schema import NOTE_JSON_SCHEMA, render_note  # noqa: E402
 
@@ -60,9 +61,18 @@ class ClinicalNote(BaseModel):
     assessment_and_plan: str
 
 
+class ReviewFlags(BaseModel):
+    """대화에 근거가 없는 항목. 의료진이 확인해야 할 곳을 짚어 준다 (src/faithfulness.py와 같은 기준)."""
+    invented_age: list[str]
+    unsupported_numbers: list[str]
+    unsupported_tests: list[str]
+    needs_review: bool
+
+
 class NoteResponse(BaseModel):
     note: ClinicalNote
     note_text: str
+    review: ReviewFlags
     model: str
     attempts: int
     latency_s: float
@@ -140,6 +150,14 @@ def parse_note(text: str) -> ClinicalNote:
     return ClinicalNote.model_validate(json.loads(text))
 
 
+def review_flags(note_text: str, dialogue: str) -> ReviewFlags:
+    # SFT 모델은 정답 기록의 습관을 배워 대화에 없는 나이·수치·검사를 쓰는 경우가 있다 (README 근거 검사).
+    # 생성 결과를 막지는 않고, 확인할 곳을 응답에 표시한다
+    r = grounding_check(note_text, dialogue)
+    flags = {k: r[k] for k in ("invented_age", "unsupported_numbers", "unsupported_tests")}
+    return ReviewFlags(**flags, needs_review=any(flags.values()))
+
+
 @app.post("/v1/notes", response_model=NoteResponse)
 async def create_note(req: NoteRequest, request: Request):
     check_length(req.dialogue)
@@ -180,8 +198,9 @@ async def create_note(req: NoteRequest, request: Request):
 
     latency = time.perf_counter() - start
     state.metrics.latencies.append(latency)
+    note_text = render_note(note.model_dump())
     return NoteResponse(
-        note=note, note_text=render_note(note.model_dump()), model=resp.model, attempts=attempt,
+        note=note, note_text=note_text, review=review_flags(note_text, req.dialogue), model=resp.model, attempts=attempt,
         latency_s=round(latency, 3), prompt_tokens=prompt_tokens, completion_tokens=completion_tokens,
     )
 
@@ -229,7 +248,9 @@ async def stream_note(req: NoteRequest, request: Request):
             return
         latency = time.perf_counter() - start
         state.metrics.latencies.append(latency)
-        yield event("done", {"note": note.model_dump(), "note_text": render_note(note.model_dump()),
+        note_text = render_note(note.model_dump())
+        yield event("done", {"note": note.model_dump(), "note_text": note_text,
+                             "review": review_flags(note_text, req.dialogue).model_dump(),
                              "latency_s": round(latency, 3)})
 
     return StreamingResponse(events(), media_type="text/event-stream")

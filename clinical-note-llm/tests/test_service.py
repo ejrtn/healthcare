@@ -99,6 +99,20 @@ def test_note_ok(make_client):
     assert sent["frequency_penalty"] == 0.4 and sent["temperature"] == 0
 
 
+def test_review_flags(make_client):
+    # 대화에 없는 나이·검사를 쓰면 확인 표시, 대화에 있는 수치("two weeks" ↔ 2)는 표시하지 않는다
+    note = dict(NOTE, subjective="CHIEF COMPLAINT\n\nKnee pain for 2 weeks. He is a pleasant 58-year-old male.",
+                objective_results="RESULTS\n\nMRI of the knee shows a meniscal tear. Hemoglobin A1c 7.2.")
+    client, _ = make_client([json.dumps(note), json.dumps(NOTE)])
+    review = client.post("/v1/notes", json={"dialogue": DIALOGUE}).json()["review"]
+    assert review["needs_review"]
+    assert review["invented_age"] == ["58"]
+    assert review["unsupported_tests"] == ["mri"]
+    assert review["unsupported_numbers"] == ["7.2"]
+    clean = client.post("/v1/notes", json={"dialogue": DIALOGUE}).json()["review"]
+    assert not clean["needs_review"]
+
+
 def test_truncated_json_retries_once(make_client):
     client, fake = make_client([('{"subjective": "CHIEF COMPLAINT\\n\\nKnee pain. Knee pain. Knee', "length"),
                                 json.dumps(NOTE)])
