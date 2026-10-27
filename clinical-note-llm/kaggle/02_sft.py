@@ -27,11 +27,11 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 
-def load_split(name):
+def load_split(name, data_dir="data/sft"):
     """messages 형식 → TRL prompt-completion 형식 (completion에만 loss가 걸린다)."""
     from datasets import Dataset
     rows = []
-    with open(ROOT / "data" / "sft" / f"{name}.jsonl", encoding="utf-8") as f:
+    with open(ROOT / data_dir / f"{name}.jsonl", encoding="utf-8") as f:
         for line in f:
             msgs = json.loads(line)["messages"]
             rows.append({"prompt": msgs[:-1], "completion": msgs[-1:]})
@@ -83,7 +83,7 @@ def train(args, out_dir):
         model.print_trainable_parameters()
 
     world_size = int(os.environ.get("WORLD_SIZE", 1))
-    train_ds, valid_ds = load_split("train"), load_split("valid")
+    train_ds, valid_ds = load_split("train", args.data_dir), load_split("valid", args.data_dir)
     # GPU 수와 무관하게 유효 배치 8을 유지해야 1장/2장 비교가 공정하다
     grad_accum = max(1, 8 // world_size)
     total_steps = math.ceil(len(train_ds) / (world_size * grad_accum)) * math.ceil(args.epochs)
@@ -167,6 +167,7 @@ def main():
     ap.add_argument("--lr", type=float, default=2e-4)
     ap.add_argument("--lora-r", type=int, default=16)
     ap.add_argument("--max-length", type=int, default=4800)  # 학습 데이터 최대 4,681토큰 — 잘리는 예시 없음
+    ap.add_argument("--data-dir", default="data/sft", help="data/sft_grounded: 대화에 없는 나이·성을 지운 정답")
     ap.add_argument("--merge-only", action="store_true")
     args = ap.parse_args()
 

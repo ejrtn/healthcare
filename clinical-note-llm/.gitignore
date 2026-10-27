@@ -12,6 +12,11 @@ outputs/sft/*/
 
 __pycache__/
 .venv/
+.pytest_cache/
+
+# CPU 실행용: 변환한 GGUF 모델, 내려받은 llama.cpp (scripts/export_gguf.py)
+models/
+tools/
 
 # Kaggle에서 받은 압축 파일 / 압축 해제 임시 폴더
 *.zip
