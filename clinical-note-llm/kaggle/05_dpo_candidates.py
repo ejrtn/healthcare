@@ -6,7 +6,7 @@
 
     !python kaggle/05_dpo_candidates.py --model outputs/sft/qwen3b-r16-grounded/merged
 
-결과: outputs/dpo/candidates_{train,valid}.jsonl — {"id", "sample", "prediction", "finish_reason"}
+결과: outputs/dpo/candidates_{train,valid}<tag>.jsonl — {"id", "sample", "prediction", "finish_reason"}
 """
 import argparse
 import json
@@ -31,6 +31,7 @@ def main():
     ap.add_argument("--temperature", type=float, default=0.8)
     ap.add_argument("--frequency-penalty", type=float, default=0.4)
     ap.add_argument("--max-tokens", type=int, default=2048)
+    ap.add_argument("--tag", default="", help="다른 모델의 후보와 섞이지 않게 파일 이름 뒤에 붙인다 (예: _llama)")
     args = ap.parse_args()
 
     from vllm import LLM, SamplingParams
@@ -46,7 +47,7 @@ def main():
         rows = load_jsonl(ROOT / args.data_dir / f"{split}.jsonl")
         outputs = llm.chat([r["messages"][:-1] for r in rows], params)
         n_trunc = 0
-        with open(out_dir / f"candidates_{split}.jsonl", "w", encoding="utf-8") as f:
+        with open(out_dir / f"candidates_{split}{args.tag}.jsonl", "w", encoding="utf-8") as f:
             for r, o in zip(rows, outputs):
                 for k, c in enumerate(o.outputs):
                     n_trunc += c.finish_reason == "length"

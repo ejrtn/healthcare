@@ -13,8 +13,8 @@
 
     python src/build_dpo_pairs.py
 
-입력: outputs/dpo/candidates_{split}.jsonl, outputs/judge/candidates_{split}.jsonl, data/sft_grounded/{split}.jsonl
-출력: data/dpo/{train,valid}.jsonl — {"id", "prompt", "chosen", "rejected", "meta"}, results/dpo_pairs.json (통계)
+입력: outputs/dpo/candidates_{split}<tag>.jsonl, outputs/judge/candidates_{split}<tag>.jsonl, data/sft_grounded/{split}.jsonl
+출력: data/dpo<tag>/{train,valid}.jsonl — {"id", "prompt", "chosen", "rejected", "meta"}, results/dpo_pairs<tag>.json (통계)
 """
 import argparse
 import json
@@ -63,9 +63,9 @@ def pick_pairs(scored, args):
 
 def build(split, args):
     examples = {r["id"]: r for r in load_jsonl(ROOT / args.data_dir / f"{split}.jsonl")}
-    judged = {(j["id"], j["sample"]): j["issues"] for j in load_jsonl(ROOT / "outputs" / "judge" / f"candidates_{split}.jsonl")}
+    judged = {(j["id"], j["sample"]): j["issues"] for j in load_jsonl(ROOT / "outputs" / "judge" / f"candidates_{split}{args.tag}.jsonl")}
     by_id = {}
-    for c in load_jsonl(ROOT / "outputs" / "dpo" / f"candidates_{split}.jsonl"):
+    for c in load_jsonl(ROOT / "outputs" / "dpo" / f"candidates_{split}{args.tag}.jsonl"):
         by_id.setdefault(c["id"], []).append(c)
 
     pairs, no_pair = [], 0
@@ -83,7 +83,7 @@ def build(split, args):
                           "rejected": [{"role": "assistant", "content": rj["prediction"]}],
                           "meta": meta})
 
-    out = ROOT / "data" / "dpo" / f"{split}.jsonl"
+    out = ROOT / "data" / f"dpo{args.tag}" / f"{split}.jsonl"
     out.parent.mkdir(parents=True, exist_ok=True)
     with open(out, "w", encoding="utf-8") as f:
         for p in pairs:
@@ -99,6 +99,7 @@ def build(split, args):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--data-dir", default="data/sft_grounded")
+    ap.add_argument("--tag", default="", help="05_dpo_candidates.py에 준 --tag")
     ap.add_argument("--min-gap", type=int, default=2, help="나쁜 답은 좋은 답보다 벌점이 이만큼 높아야 한다")
     ap.add_argument("--max-pairs", type=int, default=2, help="대화당 최대 짝 수")
     ap.add_argument("--rouge-slack", type=float, default=0.03)
@@ -107,7 +108,7 @@ def main():
     args = ap.parse_args()
 
     report = {"settings": vars(args)} | {split: build(split, args) for split in ["train", "valid"]}
-    (ROOT / "results" / "dpo_pairs.json").write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
+    (ROOT / "results" / f"dpo_pairs{args.tag}.json").write_text(json.dumps(report, indent=2, ensure_ascii=False), encoding="utf-8")
     print(json.dumps(report, indent=2, ensure_ascii=False))
 
 

@@ -51,6 +51,15 @@ def make_config(config_cls, **kwargs):
     return config_cls(**{k: v for k, v in kwargs.items() if k in known})
 
 
+def ensure_pad_token(tokenizer):
+    """Llama 3.x처럼 패딩 토큰이 없는 모델용. eos(<|eot_id|>)를 패딩으로 쓰면 답 끝의 eos까지 패딩으로
+    취급될 수 있어, 학습용으로 비워 둔 전용 토큰이 있으면 그것을 쓴다."""
+    if tokenizer.pad_token is None:
+        reserved = "<|finetune_right_pad_id|>"
+        tokenizer.pad_token = reserved if reserved in tokenizer.get_vocab() else tokenizer.eos_token
+    return tokenizer
+
+
 def train(args, out_dir):
     import torch
     from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
@@ -108,7 +117,7 @@ def train(args, out_dir):
         report_to="none",
         seed=0,
     )
-    tokenizer = AutoTokenizer.from_pretrained(args.model)
+    tokenizer = ensure_pad_token(AutoTokenizer.from_pretrained(args.model))
     trainer = SFTTrainer(
         model=model,
         args=config,

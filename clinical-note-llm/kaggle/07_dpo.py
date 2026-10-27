@@ -22,7 +22,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "kaggle"))
 
-make_config = __import__("02_sft").make_config
+_sft = __import__("02_sft")
+make_config, ensure_pad_token = _sft.make_config, _sft.ensure_pad_token
 
 
 def load_pairs(split, data_dir):
@@ -91,7 +92,7 @@ def train(args, out_dir):
         report_to="none",
         seed=0,
     )
-    tokenizer = AutoTokenizer.from_pretrained(args.sft_model)
+    tokenizer = ensure_pad_token(AutoTokenizer.from_pretrained(args.sft_model))
     trainer = DPOTrainer(model=model, ref_model=None, args=config, train_dataset=train_ds,
                          eval_dataset=valid_ds, processing_class=tokenizer)
 
