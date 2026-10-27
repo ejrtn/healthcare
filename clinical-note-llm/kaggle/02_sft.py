@@ -10,9 +10,8 @@ Kaggle (GPU T4 x2) — vLLM을 설치하기 전에 학습한다 (vllm이 torch�
     !pip install -q trl peft bitsandbytes
     !git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git
     %cd healthcare/clinical-note-llm
-    !torchrun --nproc_per_node 2 kaggle/02_sft.py                 # 2장 DDP
+    !torchrun --nproc_per_node 2 kaggle/02_sft.py && python kaggle/02_sft.py --merge-only   # 2장 DDP → 병합
     !CUDA_VISIBLE_DEVICES=0 python kaggle/02_sft.py --run-name 1gpu   # (비교용) 1장
-    !python kaggle/02_sft.py --merge-only
 그다음 vLLM 설치 후 평가:
     !pip install -q vllm rouge-score==0.1.2 && pip uninstall -y -q torchaudio
     !python kaggle/01_baseline.py --model outputs/sft/qwen3b-r16/merged --group sft --tag qwen3b-r16 --mode json
@@ -117,6 +116,17 @@ def train(args, out_dir):
         eval_dataset=valid_ds,
         processing_class=tokenizer,
     )
+
+    # fp16 AMP의 GradScaler는 fp32 그래디언트만 unscale한다. 베이스 체크포인트가 bf16이라
+    # LoRA 파라미터가 bf16으로 만들어져 첫 optimizer step에서 죽었다 — 학습 파라미터만 fp32로 둔다.
+    # (TRL이 trainer 생성 중에 dtype을 바꿀 수 있어 trainer를 만든 뒤에 맞춘다)
+    n_cast = 0
+    for p in trainer.model.parameters():
+        if p.requires_grad and p.dtype != torch.float32:
+            p.data = p.data.float()
+            n_cast += 1
+    if local_rank == 0:
+        print(f"학습 파라미터 {n_cast}개를 fp32로 변환")
 
     torch.cuda.reset_peak_memory_stats()
     start = time.perf_counter()
