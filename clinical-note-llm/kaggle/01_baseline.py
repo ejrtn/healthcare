@@ -46,6 +46,7 @@ def main():
     ap.add_argument("--model", required=True)
     ap.add_argument("--mode", choices=["text", "json"], required=True)
     ap.add_argument("--tp", type=int, default=1)
+    ap.add_argument("--tag", help="결과 파일 이름 (기본: 모델 이름). 로컬 경로 모델에 쓴다")
     ap.add_argument("--max-tokens", type=int, default=2048)
     args = ap.parse_args()
 
@@ -74,7 +75,7 @@ def main():
     n_truncated = sum(o.outputs[0].finish_reason == "length" for o in outputs)
     preds = {c["id"]: o.outputs[0].text for c, o in zip(cases, outputs)}
 
-    tag = f"{args.model.split('/')[-1]}_{args.mode}"
+    tag = f"{args.tag or args.model.split('/')[-1]}_{args.mode}"
     pred_dir = ROOT / "outputs" / "baseline"
     pred_dir.mkdir(parents=True, exist_ok=True)
     with open(pred_dir / f"{tag}.jsonl", "w", encoding="utf-8") as f:

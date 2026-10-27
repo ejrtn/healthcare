@@ -24,6 +24,14 @@ JSON으로 생성하는 소형 LLM을 직접 학습(SFT)하고, vLLM으로 서�
 - ACI-BENCH 저장소에 공식 평가 코드(ROUGE, BERTScore, UMLS 기반 MEDCON)와
   논문 기존 모델(BART, LED 등) 예측 결과가 있다 → 같은 기준으로 비교
 
+## SFT 데이터
+
+- train 79건 = ACI train 67 + 같은 진료의 ASR 원본 전사본 12건(`train_virtscribe_asr`, 음성인식 잡음 증강)
+- `train_aci_asrcorr` 35건은 challenge train과 대화가 사실상 같아(29건 완전 동일) 제외. 평가 분할과 겹치는 기록 0건
+- valid 20건 (ACI valid)
+- 토큰 길이(Qwen2.5 토크나이저): 전체 중앙값 2,520 / 최대 4,681, 정답 JSON 중앙값 671
+  → `max_length=4800`으로 잘리는 예시 없음
+
 ## 평가
 
 - 출력 JSON 스키마 = ACI-BENCH 공식 평가가 나누는 4구역
@@ -54,7 +62,7 @@ JSON으로 생성하는 소형 LLM을 직접 학습(SFT)하고, vLLM으로 서�
 |---|---|---|
 | 0 | Kaggle T4에서 vLLM 동작 확인 (`kaggle/00_vllm_smoke_test.py`) | ⏳ |
 | 1 | 출력 스키마·평가 파이프라인 ✅ / 프롬프트 기준선 측정 | 진행 중 |
-| 2 | QLoRA SFT | |
+| 2 | QLoRA SFT — 데이터(`src/build_sft_data.py`)·스크립트(`kaggle/02_sft.py`) 준비 ✅ | 학습 대기 |
 | 3 | vLLM 서빙 벤치마크 (FP16 vs 4bit, 동시 요청, Tensor Parallel, structured output) | |
 | 4 | FastAPI 비동기 API + Docker + 부하 테스트 | |
 | 5 | (여유 시) DPO로 환각 감소 / 오류 분석 | |
