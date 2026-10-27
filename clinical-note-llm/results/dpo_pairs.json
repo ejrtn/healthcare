@@ -1,0 +1,77 @@
+{
+  "settings": {
+    "data_dir": "data/sft_grounded",
+    "tag": "",
+    "min_gap": 2,
+    "max_pairs": 2,
+    "rouge_slack": 0.03,
+    "number_slack": 1,
+    "length_ratio": 0.85
+  },
+  "train": {
+    "dialogues": 79,
+    "pairs": 110,
+    "dialogues_without_pair": 17,
+    "penalty": {
+      "chosen": 4.22,
+      "rejected": 10.25
+    },
+    "contradictions": {
+      "chosen": 0.95,
+      "rejected": 1.8
+    },
+    "unsupported": {
+      "chosen": 2.02,
+      "rejected": 5.25
+    },
+    "rule_flags": {
+      "chosen": 0.29,
+      "rejected": 1.41
+    },
+    "supported_numbers": {
+      "chosen": 4.58,
+      "rejected": 3.4
+    },
+    "words": {
+      "chosen": 404.31,
+      "rejected": 355.25
+    },
+    "rouge1": {
+      "chosen": 0.56,
+      "rejected": 0.53
+    }
+  },
+  "valid": {
+    "dialogues": 20,
+    "pairs": 22,
+    "dialogues_without_pair": 7,
+    "penalty": {
+      "chosen": 4.45,
+      "rejected": 9.55
+    },
+    "contradictions": {
+      "chosen": 1.05,
+      "rejected": 1.18
+    },
+    "unsupported": {
+      "chosen": 1.95,
+      "rejected": 5.91
+    },
+    "rule_flags": {
+      "chosen": 0.41,
+      "rejected": 1.27
+    },
+    "supported_numbers": {
+      "chosen": 4.14,
+      "rejected": 3
+    },
+    "words": {
+      "chosen": 371.59,
+      "rejected": 327.41
+    },
+    "rouge1": {
+      "chosen": 0.56,
+      "rejected": 0.53
+    }
+  }
+}

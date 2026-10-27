@@ -11,7 +11,7 @@ from evaluate import DIVISIONS, evaluate, load_jsonl
 
 ROOT = Path(__file__).resolve().parent.parent
 TEST_SPLITS = ["test1", "test2", "test3"]
-GROUPS = ["baseline", "sft"]
+GROUPS = ["baseline", "sft", "dpo"]
 REFERENCE_SYSTEMS = ["GPT-4 (zero-shot)", "ChatGPT (zero-shot)", "BART+SAMSum FT (division)"]
 
 
@@ -33,6 +33,8 @@ def main():
 
     for group in GROUPS:
         for pred_path in sorted((ROOT / "outputs" / group).glob("*.jsonl")):
+            if pred_path.name.startswith("candidates_"):  # DPO 학습용 후보 (학습 대화라 정답 채점 대상이 아니다)
+                continue
             tag = pred_path.stem
             preds = {p["id"]: p["prediction"] for p in load_jsonl(pred_path)}
             gen = {}

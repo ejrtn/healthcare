@@ -1,0 +1,14 @@
+{
+  "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+  "preds": "outputs/dpo/candidates_train.jsonl",
+  "summary": {
+    "notes": 632,
+    "judge_failed": 15,
+    "contradictions": 841,
+    "unsupported": 2671,
+    "notes_with_contradiction": 589,
+    "notes_with_unsupported": 601,
+    "contradictions_per_note": 1.36,
+    "unsupported_per_note": 4.33
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+  "preds": "outputs/baseline/Qwen2.5-3B-Instruct-fp0.4_json.jsonl",
+  "summary": {
+    "notes": 120,
+    "judge_failed": 0,
+    "contradictions": 99,
+    "unsupported": 386,
+    "notes_with_contradiction": 91,
+    "notes_with_unsupported": 101,
+    "contradictions_per_note": 0.82,
+    "unsupported_per_note": 3.22
+  }
+}

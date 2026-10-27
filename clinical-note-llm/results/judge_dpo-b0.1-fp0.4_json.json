@@ -1,0 +1,14 @@
+{
+  "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+  "preds": "outputs/dpo/dpo-b0.1-fp0.4_json.jsonl",
+  "summary": {
+    "notes": 120,
+    "judge_failed": 3,
+    "contradictions": 142,
+    "unsupported": 442,
+    "notes_with_contradiction": 112,
+    "notes_with_unsupported": 109,
+    "contradictions_per_note": 1.21,
+    "unsupported_per_note": 3.78
+  }
+}

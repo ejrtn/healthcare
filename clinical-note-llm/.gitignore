@@ -5,7 +5,10 @@ data/raw/
 outputs/*
 !outputs/baseline/
 !outputs/sft/
+!outputs/dpo/
+!outputs/judge/
 outputs/sft/*/
+outputs/dpo/*/
 *.safetensors
 *.bin
 *.gguf
@@ -21,4 +24,5 @@ tools/
 # Kaggle에서 받은 압축 파일 / 압축 해제 임시 폴더
 *.zip
 sft_results*/
+round*/
 baseline_results*/

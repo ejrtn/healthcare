@@ -1,0 +1,14 @@
+{
+  "judge_model": "Qwen/Qwen2.5-14B-Instruct-AWQ",
+  "preds": "outputs/sft/qwen3b-r16-grounded-fp0.4_json.jsonl",
+  "summary": {
+    "notes": 120,
+    "judge_failed": 2,
+    "contradictions": 143,
+    "unsupported": 518,
+    "notes_with_contradiction": 108,
+    "notes_with_unsupported": 115,
+    "contradictions_per_note": 1.21,
+    "unsupported_per_note": 4.39
+  }
+}
