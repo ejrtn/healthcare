@@ -1,0 +1,11 @@
+# 원본 데이터셋은 scripts/download_data.sh로 받는다 (각자 CC BY 4.0, 저장소에 재배포하지 않음)
+data/raw/
+
+# 학습 산출물 / 모델 가중치
+outputs/
+*.safetensors
+*.bin
+*.gguf
+
+__pycache__/
+.venv/
