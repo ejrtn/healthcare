@@ -56,6 +56,7 @@ def main():
     ap.add_argument("--repetition-penalty", type=float, default=1.0)
     ap.add_argument("--frequency-penalty", type=float, default=0.0)
     ap.add_argument("--max-tokens", type=int, default=2048)
+    ap.add_argument("--quantization", help="vLLM 양자화 방식 (양자화 후 품질 확인용)")
     args = ap.parse_args()
 
     from vllm import LLM, SamplingParams
@@ -70,6 +71,7 @@ def main():
         max_model_len=8192,
         gpu_memory_utilization=0.90,
         seed=0,
+        quantization=args.quantization,
     )
     gen = dict(temperature=0, max_tokens=args.max_tokens,
                repetition_penalty=args.repetition_penalty, frequency_penalty=args.frequency_penalty)
@@ -93,7 +95,7 @@ def main():
 
     summary, per_case = evaluate(cases, preds)
     summary["generation"] = {
-        "model": args.model, "mode": args.mode, "tensor_parallel": args.tp, "split": args.split,
+        "model": args.model, "quantization": args.quantization or "none", "mode": args.mode, "tensor_parallel": args.tp, "split": args.split,
         "repetition_penalty": args.repetition_penalty, "frequency_penalty": args.frequency_penalty,
         "num_requests": len(cases), "wall_time_s": round(elapsed, 1),
         "output_tokens": n_out, "output_tok_per_s": round(n_out / elapsed, 1),

@@ -16,7 +16,8 @@ Kaggle (GPU T4 x2, vLLM 설치된 상태):
     !python kaggle/03_serving_bench.py --model outputs/sft/qwen3b-r16/merged --tag fp16-tp1
     !python kaggle/03_serving_bench.py --model outputs/sft/qwen3b-r16/merged --tag fp16-tp1-json --json
     !python kaggle/03_serving_bench.py --model outputs/sft/qwen3b-r16/merged --tag fp16-tp2 --tp 2
-    !python kaggle/03_serving_bench.py --model outputs/sft/qwen3b-r16/merged --tag bnb4-tp1 --quantization bitsandbytes
+    !python kaggle/03_serving_bench.py --model outputs/sft/qwen3b-r16/merged --tag int8-tp1 --quantization int8_per_channel_weight_only
+    !python kaggle/03_serving_bench.py --model Qwen/Qwen2.5-3B-Instruct-AWQ --tag awq4-base-tp1  # 4bit 속도 참고용 (공식 AWQ, 학습 전 가중치)
 
 결과: results/serving_<tag>.json, 서버 로그 outputs/serving/<tag>.log
 """
@@ -180,7 +181,7 @@ def main():
     ap.add_argument("--model", required=True)
     ap.add_argument("--tag", required=True)
     ap.add_argument("--tp", type=int, default=1)
-    ap.add_argument("--quantization", help="vLLM --quantization 값 (예: bitsandbytes, awq)")
+    ap.add_argument("--quantization", help="vLLM --quantization 값 (예: int8_per_channel_weight_only, awq). vLLM 0.32에는 bitsandbytes가 없다")
     ap.add_argument("--json", action="store_true", help="JSON 스키마 강제(structured output)")
     ap.add_argument("--concurrency", type=int, nargs="+", default=[1, 4, 8, 16, 32])
     ap.add_argument("--max-tokens", type=int, default=1024)
