@@ -13,7 +13,8 @@ Kaggle 실행 (GPU T4 x2, Internet On). vLLM 엔진이 GPU 메모리를 확실�
     !python kaggle/01_baseline.py --model Qwen/Qwen2.5-3B-Instruct --mode json
     !python kaggle/01_baseline.py --model Qwen/Qwen2.5-7B-Instruct --mode json --tp 2
 
-결과: outputs/baseline/<모델>_<mode>.jsonl (예측), results/baseline_<모델>_<mode>.json (점수)
+결과: outputs/<group>/<tag>_<mode>.jsonl (예측), results/<group>_<tag>_<mode>.json (점수·생성 통계)
+최종 비교표는 로컬에서 src/summarize_runs.py로 다시 채점해 만든다 (results/runs.md).
 """
 import argparse
 import json
@@ -47,6 +48,7 @@ def main():
     ap.add_argument("--mode", choices=["text", "json"], required=True)
     ap.add_argument("--tp", type=int, default=1)
     ap.add_argument("--tag", help="결과 파일 이름 (기본: 모델 이름). 로컬 경로 모델에 쓴다")
+    ap.add_argument("--group", default="baseline", help="결과 묶음 (baseline / sft)")
     ap.add_argument("--max-tokens", type=int, default=2048)
     args = ap.parse_args()
 
@@ -76,7 +78,7 @@ def main():
     preds = {c["id"]: o.outputs[0].text for c, o in zip(cases, outputs)}
 
     tag = f"{args.tag or args.model.split('/')[-1]}_{args.mode}"
-    pred_dir = ROOT / "outputs" / "baseline"
+    pred_dir = ROOT / "outputs" / args.group
     pred_dir.mkdir(parents=True, exist_ok=True)
     with open(pred_dir / f"{tag}.jsonl", "w", encoding="utf-8") as f:
         for cid, text in preds.items():
@@ -90,7 +92,7 @@ def main():
         "truncated": n_truncated,
     }
     (ROOT / "results").mkdir(exist_ok=True)
-    with open(ROOT / "results" / f"baseline_{tag}.json", "w", encoding="utf-8") as f:
+    with open(ROOT / "results" / f"{args.group}_{tag}.json", "w", encoding="utf-8") as f:
         json.dump({"summary": summary, "per_case": per_case}, f, indent=2, ensure_ascii=False)
     print(json.dumps(summary, indent=2, ensure_ascii=False))
 

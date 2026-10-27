@@ -15,7 +15,7 @@ Kaggle (GPU T4 x2) — vLLM을 설치하기 전에 학습한다 (vllm이 torch�
     !python kaggle/02_sft.py --merge-only
 그다음 vLLM 설치 후 평가:
     !pip install -q vllm rouge-score==0.1.2 && pip uninstall -y -q torchaudio
-    !python kaggle/01_baseline.py --model outputs/sft/qwen3b-r16/merged --tag sft-qwen3b-r16 --mode json
+    !python kaggle/01_baseline.py --model outputs/sft/qwen3b-r16/merged --group sft --tag qwen3b-r16 --mode json
 """
 import argparse
 import json

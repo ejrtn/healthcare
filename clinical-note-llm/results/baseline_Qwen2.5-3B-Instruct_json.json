@@ -1,0 +1,4008 @@
+{
+  "summary": {
+    "num_test": 120,
+    "json_valid": 0.9333333333333333,
+    "ALL": {
+      "rouge1": 46.03,
+      "rouge2": 19.86,
+      "rougeL": 27.37,
+      "rougeLsum": 41.71
+    },
+    "subjective": {
+      "rouge1": 37.61,
+      "rouge2": 15.81,
+      "rougeL": 22.72,
+      "rougeLsum": 31.87
+    },
+    "objective_exam": {
+      "rouge1": 26.49,
+      "rouge2": 12.66,
+      "rougeL": 20.57,
+      "rougeLsum": 23.48
+    },
+    "objective_results": {
+      "rouge1": 33.35,
+      "rouge2": 5.74,
+      "rougeL": 32.43,
+      "rougeLsum": 32.61
+    },
+    "assessment_and_plan": {
+      "rouge1": 24.07,
+      "rouge2": 10.13,
+      "rougeL": 16.94,
+      "rougeLsum": 20.23
+    },
+    "generation": {
+      "model": "Qwen/Qwen2.5-3B-Instruct",
+      "mode": "json",
+      "tensor_parallel": 1,
+      "num_requests": 120,
+      "wall_time_s": 390.8,
+      "output_tokens": 59366,
+      "output_tok_per_s": 151.9,
+      "truncated": 8
+    }
+  },
+  "per_case": [
+    {
+      "id": "D2N088",
+      "ALL": {
+        "rouge1": 0.34088200238379024,
+        "rouge2": 0.15053763440860216,
+        "rougeL": 0.20500595947556613,
+        "rougeLsum": 0.3241954707985697
+      },
+      "subjective": {
+        "rouge1": 0.32388663967611336,
+        "rouge2": 0.1219512195121951,
+        "rougeL": 0.1740890688259109,
+        "rougeLsum": 0.2753036437246964
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.2268041237113402,
+        "rouge2": 0.10380622837370242,
+        "rougeL": 0.15807560137457047,
+        "rougeLsum": 0.2268041237113402
+      }
+    },
+    {
+      "id": "D2N089",
+      "ALL": {
+        "rouge1": 0.5254901960784314,
+        "rouge2": 0.23591087811271294,
+        "rougeL": 0.26928104575163403,
+        "rougeLsum": 0.4810457516339869
+      },
+      "subjective": {
+        "rouge1": 0.4978540772532189,
+        "rouge2": 0.18103448275862066,
+        "rougeL": 0.22746781115879827,
+        "rougeLsum": 0.42918454935622313
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.2738589211618257,
+        "rouge2": 0.15899581589958156,
+        "rougeL": 0.23236514522821575,
+        "rougeLsum": 0.2572614107883818
+      }
+    },
+    {
+      "id": "D2N090",
+      "ALL": {
+        "rouge1": 0.3607361963190184,
+        "rouge2": 0.15498154981549814,
+        "rougeL": 0.2208588957055215,
+        "rougeLsum": 0.3312883435582822
+      },
+      "subjective": {
+        "rouge1": 0.41472868217054265,
+        "rouge2": 0.15953307392996108,
+        "rougeL": 0.2131782945736434,
+        "rougeLsum": 0.3255813953488372
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N091",
+      "ALL": {
+        "rouge1": 0.5044091710758377,
+        "rouge2": 0.24070796460176994,
+        "rougeL": 0.3562610229276896,
+        "rougeLsum": 0.4691358024691358
+      },
+      "subjective": {
+        "rouge1": 0.5284974093264249,
+        "rouge2": 0.23958333333333334,
+        "rougeL": 0.32642487046632124,
+        "rougeLsum": 0.4559585492227979
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N092",
+      "ALL": {
+        "rouge1": 0.4481792717086835,
+        "rouge2": 0.16338028169014085,
+        "rougeL": 0.33053221288515405,
+        "rougeLsum": 0.42016806722689076
+      },
+      "subjective": {
+        "rouge1": 0.41025641025641024,
+        "rouge2": 0.15584415584415584,
+        "rougeL": 0.3333333333333333,
+        "rougeLsum": 0.3589743589743589
+      },
+      "objective_exam": {
+        "rouge1": 0.18749999999999997,
+        "rouge2": 0.0,
+        "rougeL": 0.18749999999999997,
+        "rougeLsum": 0.18749999999999997
+      },
+      "objective_results": {
+        "rouge1": 0.42857142857142855,
+        "rouge2": 0.15384615384615385,
+        "rougeL": 0.42857142857142855,
+        "rougeLsum": 0.42857142857142855
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.44036697247706424,
+        "rouge2": 0.16822429906542058,
+        "rougeL": 0.3853211009174312,
+        "rougeLsum": 0.3853211009174312
+      }
+    },
+    {
+      "id": "D2N093",
+      "ALL": {
+        "rouge1": 0.41546961325966847,
+        "rouge2": 0.186046511627907,
+        "rougeL": 0.26519337016574585,
+        "rougeLsum": 0.37127071823204416
+      },
+      "subjective": {
+        "rouge1": 0.42910447761194026,
+        "rouge2": 0.19850187265917602,
+        "rougeL": 0.2574626865671642,
+        "rougeLsum": 0.3619402985074627
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.24683544303797472,
+        "rouge2": 0.08280254777070063,
+        "rougeL": 0.20253164556962025,
+        "rougeLsum": 0.2278481012658228
+      }
+    },
+    {
+      "id": "D2N094",
+      "ALL": {
+        "rouge1": 0.5202863961813843,
+        "rouge2": 0.2158273381294964,
+        "rougeL": 0.3341288782816229,
+        "rougeLsum": 0.4439140811455848
+      },
+      "subjective": {
+        "rouge1": 0.467005076142132,
+        "rouge2": 0.19487179487179487,
+        "rougeL": 0.3451776649746193,
+        "rougeLsum": 0.38578680203045684
+      },
+      "objective_exam": {
+        "rouge1": 0.3870967741935483,
+        "rouge2": 0.2,
+        "rougeL": 0.2903225806451613,
+        "rougeLsum": 0.2903225806451613
+      },
+      "objective_results": {
+        "rouge1": 0.47058823529411764,
+        "rouge2": 0.3125,
+        "rougeL": 0.4117647058823529,
+        "rougeLsum": 0.4117647058823529
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.49206349206349204,
+        "rouge2": 0.16129032258064516,
+        "rougeL": 0.28571428571428575,
+        "rougeLsum": 0.33333333333333337
+      }
+    },
+    {
+      "id": "D2N095",
+      "ALL": {
+        "rouge1": 0.42257597684515197,
+        "rouge2": 0.1915820029027576,
+        "rougeL": 0.28075253256150506,
+        "rougeLsum": 0.3965267727930536
+      },
+      "subjective": {
+        "rouge1": 0.3209302325581395,
+        "rouge2": 0.11682242990654206,
+        "rougeL": 0.2,
+        "rougeLsum": 0.2883720930232558
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.24528301886792456,
+        "rouge2": 0.11428571428571431,
+        "rougeL": 0.18867924528301885,
+        "rougeLsum": 0.2169811320754717
+      }
+    },
+    {
+      "id": "D2N096",
+      "ALL": {
+        "rouge1": 0.4095238095238095,
+        "rouge2": 0.1339712918660287,
+        "rougeL": 0.23809523809523805,
+        "rougeLsum": 0.319047619047619
+      },
+      "subjective": {
+        "rouge1": 0.3238095238095238,
+        "rouge2": 0.08653846153846152,
+        "rougeL": 0.1904761904761905,
+        "rougeLsum": 0.1904761904761905
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4157303370786517,
+        "rouge2": 0.1477272727272727,
+        "rougeL": 0.24719101123595508,
+        "rougeLsum": 0.25842696629213485
+      }
+    },
+    {
+      "id": "D2N097",
+      "ALL": {
+        "rouge1": 0.45635528330781006,
+        "rouge2": 0.2089093701996928,
+        "rougeL": 0.32159264931087284,
+        "rougeLsum": 0.42879019908116384
+      },
+      "subjective": {
+        "rouge1": 0.4304347826086957,
+        "rouge2": 0.20087336244541484,
+        "rougeL": 0.2739130434782609,
+        "rougeLsum": 0.3869565217391304
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N098",
+      "ALL": {
+        "rouge1": 0.6036960985626284,
+        "rouge2": 0.2762886597938144,
+        "rougeL": 0.4147843942505134,
+        "rougeLsum": 0.5379876796714579
+      },
+      "subjective": {
+        "rouge1": 0.5311203319502075,
+        "rouge2": 0.2594142259414226,
+        "rougeL": 0.3817427385892116,
+        "rougeLsum": 0.4647302904564315
+      },
+      "objective_exam": {
+        "rouge1": 0.4675324675324676,
+        "rouge2": 0.2763157894736842,
+        "rougeL": 0.4285714285714286,
+        "rougeLsum": 0.4285714285714286
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N099",
+      "ALL": {
+        "rouge1": 0.42762284196547146,
+        "rouge2": 0.12516644474034622,
+        "rougeL": 0.23638778220451528,
+        "rougeLsum": 0.3877822045152723
+      },
+      "subjective": {
+        "rouge1": 0.37579617834394907,
+        "rouge2": 0.15384615384615385,
+        "rougeL": 0.22292993630573252,
+        "rougeLsum": 0.3248407643312102
+      },
+      "objective_exam": {
+        "rouge1": 0.13953488372093023,
+        "rouge2": 0.015748031496062992,
+        "rougeL": 0.10852713178294575,
+        "rougeLsum": 0.13953488372093023
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4,
+        "rouge2": 0.0974025974025974,
+        "rougeL": 0.25161290322580643,
+        "rougeLsum": 0.2838709677419355
+      }
+    },
+    {
+      "id": "D2N100",
+      "ALL": {
+        "rouge1": 0.5947955390334573,
+        "rouge2": 0.3354037267080745,
+        "rougeL": 0.4114002478314746,
+        "rougeLsum": 0.5477075588599752
+      },
+      "subjective": {
+        "rouge1": 0.532051282051282,
+        "rouge2": 0.25806451612903225,
+        "rougeL": 0.2371794871794872,
+        "rougeLsum": 0.40384615384615385
+      },
+      "objective_exam": {
+        "rouge1": 0.847457627118644,
+        "rouge2": 0.7413793103448276,
+        "rougeL": 0.8135593220338982,
+        "rougeLsum": 0.8135593220338982
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.53551912568306,
+        "rouge2": 0.2857142857142857,
+        "rougeL": 0.4371584699453552,
+        "rougeLsum": 0.49180327868852464
+      }
+    },
+    {
+      "id": "D2N101",
+      "ALL": {
+        "rouge1": 0.4324324324324324,
+        "rouge2": 0.20023557126030622,
+        "rougeL": 0.282021151586369,
+        "rougeLsum": 0.3971797884841363
+      },
+      "subjective": {
+        "rouge1": 0.39344262295081966,
+        "rouge2": 0.1364705882352941,
+        "rougeL": 0.22950819672131145,
+        "rougeLsum": 0.3559718969555035
+      },
+      "objective_exam": {
+        "rouge1": 0.8363636363636364,
+        "rouge2": 0.6792452830188679,
+        "rougeL": 0.7636363636363638,
+        "rougeLsum": 0.7636363636363638
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3902439024390244,
+        "rouge2": 0.18528610354223432,
+        "rougeL": 0.2710027100271003,
+        "rougeLsum": 0.33062330623306235
+      }
+    },
+    {
+      "id": "D2N102",
+      "ALL": {
+        "rouge1": 0.5133531157270029,
+        "rouge2": 0.22916666666666666,
+        "rougeL": 0.28486646884273,
+        "rougeLsum": 0.4629080118694362
+      },
+      "subjective": {
+        "rouge1": 0.5076142131979695,
+        "rouge2": 0.1846153846153846,
+        "rougeL": 0.3248730964467005,
+        "rougeLsum": 0.35532994923857864
+      },
+      "objective_exam": {
+        "rouge1": 0.37499999999999994,
+        "rouge2": 0.0,
+        "rougeL": 0.25,
+        "rougeLsum": 0.25
+      },
+      "objective_results": {
+        "rouge1": 0.7636363636363637,
+        "rouge2": 0.46625766871165647,
+        "rougeL": 0.4727272727272727,
+        "rougeLsum": 0.7151515151515152
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.25,
+        "rouge2": 0.08163265306122448,
+        "rougeL": 0.15540540540540543,
+        "rougeLsum": 0.20270270270270271
+      }
+    },
+    {
+      "id": "D2N103",
+      "ALL": {
+        "rouge1": 0.5406360424028268,
+        "rouge2": 0.22695035460992907,
+        "rougeL": 0.3074204946996466,
+        "rougeLsum": 0.49116607773851595
+      },
+      "subjective": {
+        "rouge1": 0.4328358208955223,
+        "rouge2": 0.11278195488721805,
+        "rougeL": 0.21641791044776115,
+        "rougeLsum": 0.35820895522388063
+      },
+      "objective_exam": {
+        "rouge1": 0.453781512605042,
+        "rouge2": 0.18803418803418803,
+        "rougeL": 0.40336134453781514,
+        "rougeLsum": 0.40336134453781514
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.28776978417266186,
+        "rouge2": 0.13138686131386862,
+        "rougeL": 0.25899280575539574,
+        "rougeLsum": 0.28776978417266186
+      }
+    },
+    {
+      "id": "D2N104",
+      "ALL": {
+        "rouge1": 0.49238578680203043,
+        "rouge2": 0.1683673469387755,
+        "rougeL": 0.24873096446700507,
+        "rougeLsum": 0.4619289340101523
+      },
+      "subjective": {
+        "rouge1": 0.4833333333333334,
+        "rouge2": 0.17647058823529413,
+        "rougeL": 0.25833333333333336,
+        "rougeLsum": 0.42499999999999993
+      },
+      "objective_exam": {
+        "rouge1": 0.1754385964912281,
+        "rouge2": 0.07272727272727274,
+        "rougeL": 0.1754385964912281,
+        "rougeLsum": 0.1754385964912281
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3092783505154639,
+        "rouge2": 0.08421052631578949,
+        "rougeL": 0.2680412371134021,
+        "rougeLsum": 0.288659793814433
+      }
+    },
+    {
+      "id": "D2N105",
+      "ALL": {
+        "rouge1": 0.10848041325871717,
+        "rouge2": 0.04394657475226196,
+        "rougeL": 0.060266896254842876,
+        "rougeLsum": 0.08609556607834697
+      },
+      "subjective": {
+        "rouge1": 0.11862527716186254,
+        "rouge2": 0.042175360710321866,
+        "rougeL": 0.05543237250554324,
+        "rougeLsum": 0.07206208425720621
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N106",
+      "ALL": {
+        "rouge1": 0.5777777777777778,
+        "rouge2": 0.2882615156017831,
+        "rougeL": 0.32296296296296295,
+        "rougeLsum": 0.4888888888888888
+      },
+      "subjective": {
+        "rouge1": 0.5396825396825398,
+        "rouge2": 0.281150159744409,
+        "rougeL": 0.3174603174603175,
+        "rougeLsum": 0.34285714285714286
+      },
+      "objective_exam": {
+        "rouge1": 0.2222222222222222,
+        "rouge2": 0.17721518987341772,
+        "rougeL": 0.2222222222222222,
+        "rougeLsum": 0.2222222222222222
+      },
+      "objective_results": {
+        "rouge1": 0.32786885245901637,
+        "rouge2": 0.13559322033898305,
+        "rougeL": 0.26229508196721313,
+        "rougeLsum": 0.26229508196721313
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.47706422018348627,
+        "rouge2": 0.19444444444444448,
+        "rougeL": 0.3302752293577982,
+        "rougeLsum": 0.38532110091743116
+      }
+    },
+    {
+      "id": "D2N107",
+      "ALL": {
+        "rouge1": 0.5275590551181102,
+        "rouge2": 0.21343873517786563,
+        "rougeL": 0.28346456692913385,
+        "rougeLsum": 0.44488188976377957
+      },
+      "subjective": {
+        "rouge1": 0.5247148288973384,
+        "rouge2": 0.20689655172413793,
+        "rougeL": 0.2889733840304182,
+        "rougeLsum": 0.3954372623574145
+      },
+      "objective_exam": {
+        "rouge1": 0.46511627906976744,
+        "rouge2": 0.21428571428571427,
+        "rougeL": 0.3953488372093023,
+        "rougeLsum": 0.41860465116279066
+      },
+      "objective_results": {
+        "rouge1": 0.3,
+        "rouge2": 0.11111111111111112,
+        "rougeL": 0.3,
+        "rougeLsum": 0.3
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3165467625899281,
+        "rouge2": 0.0875912408759124,
+        "rougeL": 0.2014388489208633,
+        "rougeLsum": 0.24460431654676257
+      }
+    },
+    {
+      "id": "D2N108",
+      "ALL": {
+        "rouge1": 0.5368248772504092,
+        "rouge2": 0.27586206896551724,
+        "rougeL": 0.35351882160392795,
+        "rougeLsum": 0.4844517184942717
+      },
+      "subjective": {
+        "rouge1": 0.496042216358839,
+        "rouge2": 0.2440318302387268,
+        "rougeL": 0.25329815303430075,
+        "rougeLsum": 0.40633245382585753
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N109",
+      "ALL": {
+        "rouge1": 0.4452554744525548,
+        "rouge2": 0.1684981684981685,
+        "rougeL": 0.2299270072992701,
+        "rougeLsum": 0.4233576642335766
+      },
+      "subjective": {
+        "rouge1": 0.32786885245901637,
+        "rouge2": 0.15,
+        "rougeL": 0.21311475409836067,
+        "rougeLsum": 0.31147540983606553
+      },
+      "objective_exam": {
+        "rouge1": 0.41269841269841273,
+        "rouge2": 0.1925133689839572,
+        "rougeL": 0.2962962962962963,
+        "rougeLsum": 0.380952380952381
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N110",
+      "ALL": {
+        "rouge1": 0.6015180265654648,
+        "rouge2": 0.2927756653992396,
+        "rougeL": 0.36432637571157495,
+        "rougeLsum": 0.5426944971537003
+      },
+      "subjective": {
+        "rouge1": 0.45226130653266333,
+        "rouge2": 0.14789915966386552,
+        "rougeL": 0.22780569514237853,
+        "rougeLsum": 0.35845896147403683
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.5205479452054794,
+        "rouge2": 0.3305785123966942,
+        "rougeL": 0.4383561643835616,
+        "rougeLsum": 0.4821917808219178
+      }
+    },
+    {
+      "id": "D2N111",
+      "ALL": {
+        "rouge1": 0.45804988662131524,
+        "rouge2": 0.1818181818181818,
+        "rougeL": 0.24943310657596368,
+        "rougeLsum": 0.417233560090703
+      },
+      "subjective": {
+        "rouge1": 0.41830065359477125,
+        "rouge2": 0.13129102844638948,
+        "rougeL": 0.20915032679738563,
+        "rougeLsum": 0.3703703703703703
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3008356545961003,
+        "rouge2": 0.12885154061624648,
+        "rougeL": 0.18384401114206125,
+        "rougeLsum": 0.25069637883008355
+      }
+    },
+    {
+      "id": "D2N112",
+      "ALL": {
+        "rouge1": 0.5007496251874063,
+        "rouge2": 0.20451127819548873,
+        "rougeL": 0.3088455772113943,
+        "rougeLsum": 0.4047976011994003
+      },
+      "subjective": {
+        "rouge1": 0.41796875,
+        "rouge2": 0.1372549019607843,
+        "rougeL": 0.18359375,
+        "rougeLsum": 0.25390625
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N113",
+      "ALL": {
+        "rouge1": 0.5248508946322068,
+        "rouge2": 0.22754491017964074,
+        "rougeL": 0.294234592445328,
+        "rougeLsum": 0.48906560636182905
+      },
+      "subjective": {
+        "rouge1": 0.3076923076923077,
+        "rouge2": 0.1142857142857143,
+        "rougeL": 0.1700404858299595,
+        "rougeLsum": 0.25101214574898784
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.32786885245901637,
+        "rouge2": 0.11049723756906078,
+        "rougeL": 0.18579234972677594,
+        "rougeLsum": 0.2622950819672132
+      }
+    },
+    {
+      "id": "D2N114",
+      "ALL": {
+        "rouge1": 0.5217391304347827,
+        "rouge2": 0.17711171662125344,
+        "rougeL": 0.26358695652173914,
+        "rougeLsum": 0.4483695652173913
+      },
+      "subjective": {
+        "rouge1": 0.39080459770114945,
+        "rouge2": 0.10982658959537572,
+        "rougeL": 0.1839080459770115,
+        "rougeLsum": 0.2931034482758621
+      },
+      "objective_exam": {
+        "rouge1": 0.31999999999999995,
+        "rouge2": 0.1081081081081081,
+        "rougeL": 0.24000000000000002,
+        "rougeLsum": 0.28
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.48739495798319327,
+        "rouge2": 0.2288135593220339,
+        "rougeL": 0.3613445378151261,
+        "rougeLsum": 0.3865546218487395
+      }
+    },
+    {
+      "id": "D2N115",
+      "ALL": {
+        "rouge1": 0.36534839924670437,
+        "rouge2": 0.16257088846880907,
+        "rougeL": 0.256120527306968,
+        "rougeLsum": 0.32015065913371
+      },
+      "subjective": {
+        "rouge1": 0.3727598566308244,
+        "rouge2": 0.11552346570397111,
+        "rougeL": 0.20788530465949823,
+        "rougeLsum": 0.2939068100358423
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.27225130890052357,
+        "rouge2": 0.10582010582010583,
+        "rougeL": 0.23036649214659685,
+        "rougeLsum": 0.23036649214659685
+      }
+    },
+    {
+      "id": "D2N116",
+      "ALL": {
+        "rouge1": 0.5197740112994351,
+        "rouge2": 0.24645892351274787,
+        "rougeL": 0.3107344632768362,
+        "rougeLsum": 0.4774011299435028
+      },
+      "subjective": {
+        "rouge1": 0.4539877300613497,
+        "rouge2": 0.2037037037037037,
+        "rougeL": 0.29447852760736193,
+        "rougeLsum": 0.3987730061349693
+      },
+      "objective_exam": {
+        "rouge1": 0.6470588235294117,
+        "rouge2": 0.4626865671641791,
+        "rougeL": 0.3382352941176471,
+        "rougeLsum": 0.5882352941176471
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3596491228070175,
+        "rouge2": 0.11504424778761062,
+        "rougeL": 0.26315789473684215,
+        "rougeLsum": 0.29824561403508776
+      }
+    },
+    {
+      "id": "D2N117",
+      "ALL": {
+        "rouge1": 0.4888888888888889,
+        "rouge2": 0.22585438335809807,
+        "rougeL": 0.317037037037037,
+        "rougeLsum": 0.4740740740740741
+      },
+      "subjective": {
+        "rouge1": 0.29813664596273287,
+        "rouge2": 0.16352201257861632,
+        "rougeL": 0.21118012422360247,
+        "rougeLsum": 0.2732919254658385
+      },
+      "objective_exam": {
+        "rouge1": 0.6896551724137931,
+        "rouge2": 0.42352941176470593,
+        "rougeL": 0.43678160919540227,
+        "rougeLsum": 0.574712643678161
+      },
+      "objective_results": {
+        "rouge1": 0.6956521739130435,
+        "rouge2": 0.4477611940298507,
+        "rougeL": 0.5797101449275361,
+        "rougeLsum": 0.5797101449275361
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.335195530726257,
+        "rouge2": 0.1348314606741573,
+        "rougeL": 0.28491620111731847,
+        "rougeLsum": 0.31843575418994413
+      }
+    },
+    {
+      "id": "D2N118",
+      "ALL": {
+        "rouge1": 0.4520255863539445,
+        "rouge2": 0.2055674518201285,
+        "rougeL": 0.26865671641791045,
+        "rougeLsum": 0.43496801705756927
+      },
+      "subjective": {
+        "rouge1": 0.5490196078431373,
+        "rouge2": 0.28,
+        "rougeL": 0.35294117647058826,
+        "rougeLsum": 0.49019607843137253
+      },
+      "objective_exam": {
+        "rouge1": 0.3076923076923077,
+        "rouge2": 0.1739130434782609,
+        "rougeL": 0.27350427350427353,
+        "rougeLsum": 0.3076923076923077
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.24390243902439024,
+        "rouge2": 0.09836065573770492,
+        "rougeL": 0.18699186991869918,
+        "rougeLsum": 0.23577235772357721
+      }
+    },
+    {
+      "id": "D2N119",
+      "ALL": {
+        "rouge1": 0.5183946488294315,
+        "rouge2": 0.2114093959731544,
+        "rougeL": 0.3010033444816053,
+        "rougeLsum": 0.47491638795986624
+      },
+      "subjective": {
+        "rouge1": 0.2931937172774869,
+        "rouge2": 0.08465608465608467,
+        "rougeL": 0.14659685863874344,
+        "rougeLsum": 0.24083769633507854
+      },
+      "objective_exam": {
+        "rouge1": 0.5693430656934306,
+        "rouge2": 0.3407407407407408,
+        "rougeL": 0.33576642335766427,
+        "rougeLsum": 0.5401459854014597
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.40625,
+        "rouge2": 0.13385826771653545,
+        "rougeL": 0.2890625,
+        "rougeLsum": 0.359375
+      }
+    },
+    {
+      "id": "D2N120",
+      "ALL": {
+        "rouge1": 0.4573378839590444,
+        "rouge2": 0.2328767123287671,
+        "rougeL": 0.26621160409556316,
+        "rougeLsum": 0.4300341296928327
+      },
+      "subjective": {
+        "rouge1": 0.3755656108597285,
+        "rouge2": 0.13181818181818183,
+        "rougeL": 0.1945701357466063,
+        "rougeLsum": 0.3257918552036199
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N121",
+      "ALL": {
+        "rouge1": 0.4983277591973244,
+        "rouge2": 0.238255033557047,
+        "rougeL": 0.3076923076923077,
+        "rougeLsum": 0.4682274247491639
+      },
+      "subjective": {
+        "rouge1": 0.36994219653179183,
+        "rouge2": 0.1871345029239766,
+        "rougeL": 0.2658959537572254,
+        "rougeLsum": 0.3583815028901734
+      },
+      "objective_exam": {
+        "rouge1": 0.6176470588235294,
+        "rouge2": 0.3582089552238806,
+        "rougeL": 0.5147058823529412,
+        "rougeLsum": 0.5735294117647058
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.30449826989619383,
+        "rouge2": 0.15331010452961671,
+        "rougeL": 0.2283737024221453,
+        "rougeLsum": 0.2629757785467128
+      }
+    },
+    {
+      "id": "D2N122",
+      "ALL": {
+        "rouge1": 0.4398826979472141,
+        "rouge2": 0.2411764705882353,
+        "rougeL": 0.2903225806451613,
+        "rougeLsum": 0.39002932551319647
+      },
+      "subjective": {
+        "rouge1": 0.2962962962962963,
+        "rouge2": 0.1739130434782609,
+        "rougeL": 0.20987654320987656,
+        "rougeLsum": 0.29012345679012347
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N123",
+      "ALL": {
+        "rouge1": 0.33478260869565224,
+        "rouge2": 0.10239651416122005,
+        "rougeL": 0.1891304347826087,
+        "rougeLsum": 0.30434782608695654
+      },
+      "subjective": {
+        "rouge1": 0.3023255813953488,
+        "rouge2": 0.08411214953271029,
+        "rougeL": 0.1813953488372093,
+        "rougeLsum": 0.2697674418604651
+      },
+      "objective_exam": {
+        "rouge1": 0.4516129032258064,
+        "rouge2": 0.16993464052287582,
+        "rougeL": 0.27096774193548384,
+        "rougeLsum": 0.42580645161290326
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.2626865671641791,
+        "rouge2": 0.0960960960960961,
+        "rougeL": 0.16119402985074627,
+        "rougeLsum": 0.23880597014925373
+      }
+    },
+    {
+      "id": "D2N124",
+      "ALL": {
+        "rouge1": 0.5684210526315789,
+        "rouge2": 0.278169014084507,
+        "rougeL": 0.37192982456140355,
+        "rougeLsum": 0.5333333333333334
+      },
+      "subjective": {
+        "rouge1": 0.49777777777777776,
+        "rouge2": 0.27802690582959644,
+        "rougeL": 0.3911111111111111,
+        "rougeLsum": 0.4533333333333334
+      },
+      "objective_exam": {
+        "rouge1": 0.6021505376344086,
+        "rouge2": 0.3516483516483517,
+        "rougeL": 0.3225806451612903,
+        "rougeLsum": 0.45161290322580644
+      },
+      "objective_results": {
+        "rouge1": 0.6268656716417911,
+        "rouge2": 0.4923076923076923,
+        "rougeL": 0.5671641791044777,
+        "rougeLsum": 0.5671641791044777
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4216216216216216,
+        "rouge2": 0.10928961748633881,
+        "rougeL": 0.29189189189189185,
+        "rougeLsum": 0.31351351351351353
+      }
+    },
+    {
+      "id": "D2N125",
+      "ALL": {
+        "rouge1": 0.48044692737430167,
+        "rouge2": 0.18317757009345795,
+        "rougeL": 0.2532588454376164,
+        "rougeLsum": 0.4245810055865922
+      },
+      "subjective": {
+        "rouge1": 0.16058394160583944,
+        "rouge2": 0.05147058823529412,
+        "rougeL": 0.09489051094890512,
+        "rougeLsum": 0.12408759124087593
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N126",
+      "ALL": {
+        "rouge1": 0.5239361702127658,
+        "rouge2": 0.2,
+        "rougeL": 0.2872340425531915,
+        "rougeLsum": 0.46542553191489355
+      },
+      "subjective": {
+        "rouge1": 0.4826388888888889,
+        "rouge2": 0.18815331010452963,
+        "rougeL": 0.2326388888888889,
+        "rougeLsum": 0.40625
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N127",
+      "ALL": {
+        "rouge1": 0.47976011994003,
+        "rouge2": 0.13834586466165413,
+        "rougeL": 0.24887556221889057,
+        "rougeLsum": 0.41379310344827586
+      },
+      "subjective": {
+        "rouge1": 0.46080760095011875,
+        "rouge2": 0.1336515513126492,
+        "rougeL": 0.23277909738717337,
+        "rougeLsum": 0.3420427553444181
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.30476190476190473,
+        "rouge2": 0.057692307692307696,
+        "rougeL": 0.20952380952380953,
+        "rougeLsum": 0.23809523809523808
+      }
+    },
+    {
+      "id": "D2N128",
+      "ALL": {
+        "rouge1": 0.48985959438377535,
+        "rouge2": 0.21909233176838808,
+        "rougeL": 0.2839313572542902,
+        "rougeLsum": 0.43993759750390016
+      },
+      "subjective": {
+        "rouge1": 0.37728194726166325,
+        "rouge2": 0.1344195519348269,
+        "rougeL": 0.2150101419878296,
+        "rougeLsum": 0.3245436105476674
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N129",
+      "ALL": {
+        "rouge1": 0.4863883847549909,
+        "rouge2": 0.2222222222222222,
+        "rougeL": 0.30490018148820325,
+        "rougeLsum": 0.4537205081669692
+      },
+      "subjective": {
+        "rouge1": 0.4784053156146179,
+        "rouge2": 0.27424749163879597,
+        "rougeL": 0.34551495016611294,
+        "rougeLsum": 0.4318936877076412
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.2680412371134021,
+        "rouge2": 0.03125,
+        "rougeL": 0.17525773195876287,
+        "rougeLsum": 0.20618556701030927
+      }
+    },
+    {
+      "id": "D2N130",
+      "ALL": {
+        "rouge1": 0.5352798053527981,
+        "rouge2": 0.3121951219512195,
+        "rougeL": 0.3746958637469587,
+        "rougeLsum": 0.5085158150851581
+      },
+      "subjective": {
+        "rouge1": 0.49387755102040815,
+        "rouge2": 0.2950819672131148,
+        "rougeL": 0.37959183673469393,
+        "rougeLsum": 0.43265306122448977
+      },
+      "objective_exam": {
+        "rouge1": 0.5319148936170213,
+        "rouge2": 0.34782608695652173,
+        "rougeL": 0.425531914893617,
+        "rougeLsum": 0.425531914893617
+      },
+      "objective_results": {
+        "rouge1": 0.5142857142857142,
+        "rouge2": 0.303030303030303,
+        "rougeL": 0.5142857142857142,
+        "rougeLsum": 0.5142857142857142
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3645320197044335,
+        "rouge2": 0.1990049751243781,
+        "rougeL": 0.3054187192118227,
+        "rougeLsum": 0.3645320197044335
+      }
+    },
+    {
+      "id": "D2N131",
+      "ALL": {
+        "rouge1": 0.5084745762711865,
+        "rouge2": 0.19999999999999998,
+        "rougeL": 0.2796610169491526,
+        "rougeLsum": 0.4745762711864407
+      },
+      "subjective": {
+        "rouge1": 0.4220183486238532,
+        "rouge2": 0.21296296296296294,
+        "rougeL": 0.3486238532110092,
+        "rougeLsum": 0.3853211009174312
+      },
+      "objective_exam": {
+        "rouge1": 0.4,
+        "rouge2": 0.15909090909090912,
+        "rougeL": 0.26666666666666666,
+        "rougeLsum": 0.3555555555555555
+      },
+      "objective_results": {
+        "rouge1": 0.17647058823529413,
+        "rouge2": 0.0625,
+        "rougeL": 0.17647058823529413,
+        "rougeLsum": 0.17647058823529413
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.29230769230769227,
+        "rouge2": 0.15625,
+        "rougeL": 0.2,
+        "rougeLsum": 0.27692307692307694
+      }
+    },
+    {
+      "id": "D2N132",
+      "ALL": {
+        "rouge1": 0.44141689373297,
+        "rouge2": 0.11506849315068493,
+        "rougeL": 0.2125340599455041,
+        "rougeLsum": 0.3760217983651227
+      },
+      "subjective": {
+        "rouge1": 0.4689655172413793,
+        "rouge2": 0.0979020979020979,
+        "rougeL": 0.24827586206896549,
+        "rougeLsum": 0.3448275862068966
+      },
+      "objective_exam": {
+        "rouge1": 0.14814814814814814,
+        "rouge2": 0.0,
+        "rougeL": 0.1234567901234568,
+        "rougeLsum": 0.14814814814814814
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.2758620689655173,
+        "rouge2": 0.12280701754385966,
+        "rougeL": 0.17241379310344826,
+        "rougeLsum": 0.1896551724137931
+      }
+    },
+    {
+      "id": "D2N133",
+      "ALL": {
+        "rouge1": 0.39655172413793105,
+        "rouge2": 0.1440922190201729,
+        "rougeL": 0.2327586206896552,
+        "rougeLsum": 0.367816091954023
+      },
+      "subjective": {
+        "rouge1": 0.2805755395683453,
+        "rouge2": 0.09420289855072464,
+        "rougeL": 0.20143884892086328,
+        "rougeLsum": 0.24460431654676257
+      },
+      "objective_exam": {
+        "rouge1": 0.36170212765957444,
+        "rouge2": 0.23913043478260868,
+        "rougeL": 0.2127659574468085,
+        "rougeLsum": 0.2340425531914894
+      },
+      "objective_results": {
+        "rouge1": 0.15384615384615383,
+        "rouge2": 0.05405405405405405,
+        "rougeL": 0.15384615384615383,
+        "rougeLsum": 0.15384615384615383
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3578947368421053,
+        "rouge2": 0.12720848056537104,
+        "rougeL": 0.2807017543859649,
+        "rougeLsum": 0.3157894736842105
+      }
+    },
+    {
+      "id": "D2N134",
+      "ALL": {
+        "rouge1": 0.4453781512605042,
+        "rouge2": 0.17696629213483145,
+        "rougeL": 0.26050420168067223,
+        "rougeLsum": 0.4313725490196079
+      },
+      "subjective": {
+        "rouge1": 0.5219780219780219,
+        "rouge2": 0.21546961325966849,
+        "rougeL": 0.31868131868131866,
+        "rougeLsum": 0.5
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.26351351351351354,
+        "rouge2": 0.11564625850340135,
+        "rougeL": 0.16891891891891891,
+        "rougeLsum": 0.25675675675675674
+      }
+    },
+    {
+      "id": "D2N135",
+      "ALL": {
+        "rouge1": 0.20186046511627906,
+        "rouge2": 0.08752327746741154,
+        "rougeL": 0.10511627906976743,
+        "rougeLsum": 0.18046511627906978
+      },
+      "subjective": {
+        "rouge1": 0.15119228817858954,
+        "rouge2": 0.06399187404773997,
+        "rougeL": 0.07711821410451548,
+        "rougeLsum": 0.12683916793505834
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N136",
+      "ALL": {
+        "rouge1": 0.5487465181058496,
+        "rouge2": 0.2346368715083799,
+        "rougeL": 0.28133704735376047,
+        "rougeLsum": 0.48746518105849584
+      },
+      "subjective": {
+        "rouge1": 0.5242718446601942,
+        "rouge2": 0.254071661237785,
+        "rougeL": 0.2977346278317152,
+        "rougeLsum": 0.4077669902912621
+      },
+      "objective_exam": {
+        "rouge1": 0.5,
+        "rouge2": 0.26229508196721313,
+        "rougeL": 0.4032258064516129,
+        "rougeLsum": 0.41935483870967744
+      },
+      "objective_results": {
+        "rouge1": 0.125,
+        "rouge2": 0.03225806451612903,
+        "rougeL": 0.125,
+        "rougeLsum": 0.125
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.37104072398190047,
+        "rouge2": 0.1095890410958904,
+        "rougeL": 0.2352941176470588,
+        "rougeLsum": 0.30769230769230765
+      }
+    },
+    {
+      "id": "D2N137",
+      "ALL": {
+        "rouge1": 0.44067796610169485,
+        "rouge2": 0.1545595054095827,
+        "rougeL": 0.21879815100154085,
+        "rougeLsum": 0.3944530046224961
+      },
+      "subjective": {
+        "rouge1": 0.3170731707317073,
+        "rouge2": 0.13496932515337426,
+        "rougeL": 0.21341463414634143,
+        "rougeLsum": 0.25609756097560976
+      },
+      "objective_exam": {
+        "rouge1": 0.3736263736263737,
+        "rouge2": 0.0449438202247191,
+        "rougeL": 0.13186813186813184,
+        "rougeLsum": 0.28571428571428575
+      },
+      "objective_results": {
+        "rouge1": 0.04651162790697674,
+        "rouge2": 0.0,
+        "rougeL": 0.04651162790697674,
+        "rougeLsum": 0.04651162790697674
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4385026737967914,
+        "rouge2": 0.16216216216216214,
+        "rougeL": 0.27807486631016043,
+        "rougeLsum": 0.3850267379679144
+      }
+    },
+    {
+      "id": "D2N138",
+      "ALL": {
+        "rouge1": 0.31615720524017465,
+        "rouge2": 0.10673665791776028,
+        "rougeL": 0.16069868995633188,
+        "rougeLsum": 0.29170305676855895
+      },
+      "subjective": {
+        "rouge1": 0.3605359317904995,
+        "rouge2": 0.09035409035409037,
+        "rougeL": 0.1559074299634592,
+        "rougeLsum": 0.3191230207064555
+      },
+      "objective_exam": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N139",
+      "ALL": {
+        "rouge1": 0.4901185770750988,
+        "rouge2": 0.20871862615587847,
+        "rougeL": 0.23715415019762848,
+        "rougeLsum": 0.4532279314888011
+      },
+      "subjective": {
+        "rouge1": 0.5387205387205386,
+        "rouge2": 0.23728813559322035,
+        "rougeL": 0.2828282828282828,
+        "rougeLsum": 0.47138047138047134
+      },
+      "objective_exam": {
+        "rouge1": 0.061946902654867256,
+        "rouge2": 0.017857142857142856,
+        "rougeL": 0.061946902654867256,
+        "rougeLsum": 0.061946902654867256
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N140",
+      "ALL": {
+        "rouge1": 0.608355091383812,
+        "rouge2": 0.3219895287958115,
+        "rougeL": 0.370757180156658,
+        "rougeLsum": 0.5195822454308094
+      },
+      "subjective": {
+        "rouge1": 0.4221635883905013,
+        "rouge2": 0.2440318302387268,
+        "rougeL": 0.2744063324538259,
+        "rougeLsum": 0.3588390501319262
+      },
+      "objective_exam": {
+        "rouge1": 0.7105263157894737,
+        "rouge2": 0.32432432432432434,
+        "rougeL": 0.5789473684210527,
+        "rougeLsum": 0.5789473684210527
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.6112956810631229,
+        "rouge2": 0.3812709030100334,
+        "rougeL": 0.45182724252491696,
+        "rougeLsum": 0.5249169435215947
+      }
+    },
+    {
+      "id": "D2N141",
+      "ALL": {
+        "rouge1": 0.46634615384615385,
+        "rouge2": 0.2536115569823435,
+        "rougeL": 0.32051282051282043,
+        "rougeLsum": 0.43429487179487175
+      },
+      "subjective": {
+        "rouge1": 0.4163090128755365,
+        "rouge2": 0.22413793103448276,
+        "rougeL": 0.31330472103004287,
+        "rougeLsum": 0.3862660944206009
+      },
+      "objective_exam": {
+        "rouge1": 0.43216080402010054,
+        "rouge2": 0.16666666666666666,
+        "rougeL": 0.28643216080402006,
+        "rougeLsum": 0.3819095477386934
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.16,
+        "rouge2": 0.04697986577181209,
+        "rougeL": 0.08666666666666666,
+        "rougeLsum": 0.14
+      }
+    },
+    {
+      "id": "D2N142",
+      "ALL": {
+        "rouge1": 0.48228882833787473,
+        "rouge2": 0.1994535519125683,
+        "rougeL": 0.23978201634877383,
+        "rougeLsum": 0.43051771117166215
+      },
+      "subjective": {
+        "rouge1": 0.3678646934460888,
+        "rouge2": 0.10615711252653928,
+        "rougeL": 0.16067653276955604,
+        "rougeLsum": 0.29598308668076106
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N143",
+      "ALL": {
+        "rouge1": 0.5505376344086023,
+        "rouge2": 0.3930885529157667,
+        "rougeL": 0.443010752688172,
+        "rougeLsum": 0.4989247311827957
+      },
+      "subjective": {
+        "rouge1": 0.33587786259541985,
+        "rouge2": 0.16153846153846155,
+        "rougeL": 0.26717557251908397,
+        "rougeLsum": 0.3053435114503817
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.6666666666666666,
+        "rouge2": 0.4585987261146497,
+        "rougeL": 0.4528301886792453,
+        "rougeLsum": 0.46540880503144655
+      }
+    },
+    {
+      "id": "D2N144",
+      "ALL": {
+        "rouge1": 0.46428571428571425,
+        "rouge2": 0.1701492537313433,
+        "rougeL": 0.2261904761904762,
+        "rougeLsum": 0.39285714285714285
+      },
+      "subjective": {
+        "rouge1": 0.3224043715846995,
+        "rouge2": 0.08791208791208792,
+        "rougeL": 0.1639344262295082,
+        "rougeLsum": 0.19672131147540983
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N145",
+      "ALL": {
+        "rouge1": 0.4046434494195688,
+        "rouge2": 0.1697171381031614,
+        "rougeL": 0.23880597014925375,
+        "rougeLsum": 0.351575456053068
+      },
+      "subjective": {
+        "rouge1": 0.4664879356568365,
+        "rouge2": 0.17250673854447438,
+        "rougeL": 0.22520107238605896,
+        "rougeLsum": 0.3378016085790885
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N146",
+      "ALL": {
+        "rouge1": 0.573529411764706,
+        "rouge2": 0.2506142506142506,
+        "rougeL": 0.3357843137254902,
+        "rougeLsum": 0.5245098039215687
+      },
+      "subjective": {
+        "rouge1": 0.28436018957345977,
+        "rouge2": 0.12440191387559811,
+        "rougeL": 0.1895734597156398,
+        "rougeLsum": 0.27488151658767773
+      },
+      "objective_exam": {
+        "rouge1": 0.5234899328859062,
+        "rouge2": 0.14965986394557826,
+        "rougeL": 0.348993288590604,
+        "rougeLsum": 0.4026845637583892
+      },
+      "objective_results": {
+        "rouge1": 0.6571428571428571,
+        "rouge2": 0.5,
+        "rougeL": 0.6571428571428571,
+        "rougeLsum": 0.6571428571428571
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.383419689119171,
+        "rouge2": 0.19791666666666669,
+        "rougeL": 0.2746113989637306,
+        "rougeLsum": 0.35751295336787564
+      }
+    },
+    {
+      "id": "D2N147",
+      "ALL": {
+        "rouge1": 0.5130434782608696,
+        "rouge2": 0.27034883720930236,
+        "rougeL": 0.3536231884057971,
+        "rougeLsum": 0.46086956521739125
+      },
+      "subjective": {
+        "rouge1": 0.4746666666666667,
+        "rouge2": 0.23592493297587133,
+        "rougeL": 0.28800000000000003,
+        "rougeLsum": 0.3733333333333334
+      },
+      "objective_exam": {
+        "rouge1": 0.5481481481481482,
+        "rouge2": 0.3609022556390977,
+        "rougeL": 0.4888888888888889,
+        "rougeLsum": 0.5333333333333333
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3353293413173653,
+        "rouge2": 0.18181818181818182,
+        "rougeL": 0.2754491017964072,
+        "rougeLsum": 0.28742514970059885
+      }
+    },
+    {
+      "id": "D2N148",
+      "ALL": {
+        "rouge1": 0.5006839945280438,
+        "rouge2": 0.2085048010973937,
+        "rougeL": 0.32558139534883723,
+        "rougeLsum": 0.4432284541723666
+      },
+      "subjective": {
+        "rouge1": 0.4070175438596491,
+        "rouge2": 0.1443661971830986,
+        "rougeL": 0.2280701754385965,
+        "rougeLsum": 0.31929824561403514
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N149",
+      "ALL": {
+        "rouge1": 0.4275618374558304,
+        "rouge2": 0.1524822695035461,
+        "rougeL": 0.254416961130742,
+        "rougeLsum": 0.3992932862190813
+      },
+      "subjective": {
+        "rouge1": 0.18050541516245486,
+        "rouge2": 0.05818181818181819,
+        "rougeL": 0.12996389891696752,
+        "rougeLsum": 0.1732851985559567
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N150",
+      "ALL": {
+        "rouge1": 0.47078464106844736,
+        "rouge2": 0.16080402010050251,
+        "rougeL": 0.26711185308848084,
+        "rougeLsum": 0.3973288814691152
+      },
+      "subjective": {
+        "rouge1": 0.4214285714285714,
+        "rouge2": 0.13669064748201437,
+        "rougeL": 0.24285714285714285,
+        "rougeLsum": 0.30714285714285716
+      },
+      "objective_exam": {
+        "rouge1": 0.3578947368421053,
+        "rouge2": 0.07446808510638298,
+        "rougeL": 0.17894736842105266,
+        "rougeLsum": 0.2526315789473685
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N151",
+      "ALL": {
+        "rouge1": 0.5332167832167832,
+        "rouge2": 0.23292469352014009,
+        "rougeL": 0.2867132867132867,
+        "rougeLsum": 0.48251748251748255
+      },
+      "subjective": {
+        "rouge1": 0.43656716417910446,
+        "rouge2": 0.19101123595505617,
+        "rougeL": 0.2611940298507463,
+        "rougeLsum": 0.35447761194029853
+      },
+      "objective_exam": {
+        "rouge1": 0.41791044776119407,
+        "rouge2": 0.2424242424242424,
+        "rougeL": 0.373134328358209,
+        "rougeLsum": 0.4029850746268657
+      },
+      "objective_results": {
+        "rouge1": 0.26666666666666666,
+        "rouge2": 0.1724137931034483,
+        "rougeL": 0.26666666666666666,
+        "rougeLsum": 0.26666666666666666
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3864734299516908,
+        "rouge2": 0.17961165048543692,
+        "rougeL": 0.27536231884057977,
+        "rougeLsum": 0.3333333333333333
+      }
+    },
+    {
+      "id": "D2N152",
+      "ALL": {
+        "rouge1": 0.42033898305084744,
+        "rouge2": 0.11564625850340135,
+        "rougeL": 0.1864406779661017,
+        "rougeLsum": 0.3932203389830508
+      },
+      "subjective": {
+        "rouge1": 0.36170212765957444,
+        "rouge2": 0.1956521739130435,
+        "rougeL": 0.276595744680851,
+        "rougeLsum": 0.36170212765957444
+      },
+      "objective_exam": {
+        "rouge1": 0.3482587064676617,
+        "rouge2": 0.08040201005025126,
+        "rougeL": 0.208955223880597,
+        "rougeLsum": 0.2686567164179105
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.18305084745762712,
+        "rouge2": 0.0477815699658703,
+        "rougeL": 0.12203389830508475,
+        "rougeLsum": 0.16271186440677965
+      }
+    },
+    {
+      "id": "D2N153",
+      "ALL": {
+        "rouge1": 0.5064748201438849,
+        "rouge2": 0.17604617604617603,
+        "rougeL": 0.25611510791366904,
+        "rougeLsum": 0.40863309352517985
+      },
+      "subjective": {
+        "rouge1": 0.40650406504065034,
+        "rouge2": 0.10899182561307903,
+        "rougeL": 0.22764227642276422,
+        "rougeLsum": 0.2872628726287263
+      },
+      "objective_exam": {
+        "rouge1": 0.6222222222222221,
+        "rouge2": 0.3636363636363637,
+        "rougeL": 0.42222222222222217,
+        "rougeLsum": 0.5555555555555556
+      },
+      "objective_results": {
+        "rouge1": 0.1846153846153846,
+        "rouge2": 0.06349206349206349,
+        "rougeL": 0.15384615384615385,
+        "rougeLsum": 0.15384615384615385
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.39766081871345027,
+        "rouge2": 0.14201183431952663,
+        "rougeL": 0.23391812865497075,
+        "rougeLsum": 0.2573099415204678
+      }
+    },
+    {
+      "id": "D2N154",
+      "ALL": {
+        "rouge1": 0.4695652173913043,
+        "rouge2": 0.17801047120418848,
+        "rougeL": 0.29217391304347823,
+        "rougeLsum": 0.39304347826086955
+      },
+      "subjective": {
+        "rouge1": 0.44295302013422816,
+        "rouge2": 0.22972972972972974,
+        "rougeL": 0.3691275167785235,
+        "rougeLsum": 0.389261744966443
+      },
+      "objective_exam": {
+        "rouge1": 0.21428571428571427,
+        "rouge2": 0.07246376811594202,
+        "rougeL": 0.15714285714285714,
+        "rougeLsum": 0.14285714285714288
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N155",
+      "ALL": {
+        "rouge1": 0.551617873651772,
+        "rouge2": 0.23493044822256567,
+        "rougeL": 0.38212634822804314,
+        "rougeLsum": 0.4714946070878274
+      },
+      "subjective": {
+        "rouge1": 0.45890410958904104,
+        "rouge2": 0.17241379310344826,
+        "rougeL": 0.3082191780821918,
+        "rougeLsum": 0.36986301369863017
+      },
+      "objective_exam": {
+        "rouge1": 0.7000000000000001,
+        "rouge2": 0.3768115942028986,
+        "rougeL": 0.5142857142857143,
+        "rougeLsum": 0.5285714285714286
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.46078431372549017,
+        "rouge2": 0.16831683168316833,
+        "rougeL": 0.3235294117647059,
+        "rougeLsum": 0.3431372549019608
+      }
+    },
+    {
+      "id": "D2N156",
+      "ALL": {
+        "rouge1": 0.46780551905387646,
+        "rouge2": 0.25823451910408435,
+        "rougeL": 0.2864651773981603,
+        "rougeLsum": 0.4520367936925099
+      },
+      "subjective": {
+        "rouge1": 0.22608695652173913,
+        "rouge2": 0.15160349854227406,
+        "rougeL": 0.1565217391304348,
+        "rougeLsum": 0.22608695652173913
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N157",
+      "ALL": {
+        "rouge1": 0.43961352657004826,
+        "rouge2": 0.12832929782082322,
+        "rougeL": 0.22463768115942026,
+        "rougeLsum": 0.3985507246376811
+      },
+      "subjective": {
+        "rouge1": 0.3087248322147651,
+        "rouge2": 0.1081081081081081,
+        "rougeL": 0.15436241610738255,
+        "rougeLsum": 0.2953020134228188
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.34763948497854075,
+        "rouge2": 0.09051724137931033,
+        "rougeL": 0.20171673819742492,
+        "rougeLsum": 0.2703862660944206
+      }
+    },
+    {
+      "id": "D2N158",
+      "ALL": {
+        "rouge1": 0.535031847133758,
+        "rouge2": 0.25878594249201275,
+        "rougeL": 0.3121019108280255,
+        "rougeLsum": 0.5191082802547772
+      },
+      "subjective": {
+        "rouge1": 0.29661016949152547,
+        "rouge2": 0.17094017094017092,
+        "rougeL": 0.22033898305084743,
+        "rougeLsum": 0.288135593220339
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4660766961651918,
+        "rouge2": 0.19584569732937684,
+        "rougeL": 0.28908554572271383,
+        "rougeLsum": 0.43067846607669613
+      }
+    },
+    {
+      "id": "D2N159",
+      "ALL": {
+        "rouge1": 0.5308641975308641,
+        "rouge2": 0.2190082644628099,
+        "rougeL": 0.32098765432098764,
+        "rougeLsum": 0.4650205761316873
+      },
+      "subjective": {
+        "rouge1": 0.4963503649635037,
+        "rouge2": 0.19117647058823528,
+        "rougeL": 0.2627737226277372,
+        "rougeLsum": 0.4014598540145985
+      },
+      "objective_exam": {
+        "rouge1": 0.7222222222222222,
+        "rouge2": 0.48571428571428565,
+        "rougeL": 0.5555555555555556,
+        "rougeLsum": 0.5555555555555556
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.35714285714285715,
+        "rouge2": 0.13043478260869565,
+        "rougeL": 0.3142857142857143,
+        "rougeLsum": 0.32857142857142857
+      }
+    },
+    {
+      "id": "D2N160",
+      "ALL": {
+        "rouge1": 0.4622030237580993,
+        "rouge2": 0.2386117136659436,
+        "rougeL": 0.2937365010799136,
+        "rougeLsum": 0.42764578833693306
+      },
+      "subjective": {
+        "rouge1": 0.37209302325581395,
+        "rouge2": 0.2142857142857143,
+        "rougeL": 0.27906976744186046,
+        "rougeLsum": 0.37209302325581395
+      },
+      "objective_exam": {
+        "rouge1": 0.5102040816326531,
+        "rouge2": 0.4166666666666667,
+        "rougeL": 0.4693877551020408,
+        "rougeLsum": 0.4897959183673469
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.32950191570881227,
+        "rouge2": 0.138996138996139,
+        "rougeL": 0.2145593869731801,
+        "rougeLsum": 0.26053639846743293
+      }
+    },
+    {
+      "id": "D2N161",
+      "ALL": {
+        "rouge1": 0.4731977818853974,
+        "rouge2": 0.20779220779220778,
+        "rougeL": 0.2920517560073937,
+        "rougeLsum": 0.45471349353049906
+      },
+      "subjective": {
+        "rouge1": 0.3277591973244147,
+        "rouge2": 0.15488215488215487,
+        "rougeL": 0.18729096989966557,
+        "rougeLsum": 0.3210702341137123
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N162",
+      "ALL": {
+        "rouge1": 0.46753246753246747,
+        "rouge2": 0.22149837133550487,
+        "rougeL": 0.33441558441558444,
+        "rougeLsum": 0.4220779220779221
+      },
+      "subjective": {
+        "rouge1": 0.39525691699604754,
+        "rouge2": 0.1593625498007968,
+        "rougeL": 0.26877470355731226,
+        "rougeLsum": 0.33201581027667987
+      },
+      "objective_exam": {
+        "rouge1": 0.7256637168141593,
+        "rouge2": 0.46846846846846846,
+        "rougeL": 0.6902654867256637,
+        "rougeLsum": 0.6902654867256637
+      },
+      "objective_results": {
+        "rouge1": 0.47058823529411764,
+        "rouge2": 0.18750000000000003,
+        "rougeL": 0.411764705882353,
+        "rougeLsum": 0.411764705882353
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3055555555555556,
+        "rouge2": 0.12149532710280374,
+        "rougeL": 0.21296296296296297,
+        "rougeLsum": 0.24074074074074076
+      }
+    },
+    {
+      "id": "D2N163",
+      "ALL": {
+        "rouge1": 0.473394495412844,
+        "rouge2": 0.16206261510128914,
+        "rougeL": 0.24587155963302754,
+        "rougeLsum": 0.4220183486238532
+      },
+      "subjective": {
+        "rouge1": 0.18032786885245905,
+        "rouge2": 0.03333333333333333,
+        "rougeL": 0.14754098360655737,
+        "rougeLsum": 0.18032786885245905
+      },
+      "objective_exam": {
+        "rouge1": 0.380952380952381,
+        "rouge2": 0.0975609756097561,
+        "rougeL": 0.23809523809523808,
+        "rougeLsum": 0.35714285714285715
+      },
+      "objective_results": {
+        "rouge1": 0.2702702702702703,
+        "rouge2": 0.057142857142857134,
+        "rougeL": 0.21621621621621623,
+        "rougeLsum": 0.21621621621621623
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4701986754966887,
+        "rouge2": 0.17333333333333334,
+        "rougeL": 0.2913907284768212,
+        "rougeLsum": 0.37748344370860926
+      }
+    },
+    {
+      "id": "D2N164",
+      "ALL": {
+        "rouge1": 0.38,
+        "rouge2": 0.12030075187969924,
+        "rougeL": 0.20499999999999996,
+        "rougeLsum": 0.3425
+      },
+      "subjective": {
+        "rouge1": 0.3448275862068966,
+        "rouge2": 0.1511627906976744,
+        "rougeL": 0.21839080459770113,
+        "rougeLsum": 0.27586206896551724
+      },
+      "objective_exam": {
+        "rouge1": 0.5833333333333334,
+        "rouge2": 0.25423728813559326,
+        "rougeL": 0.41666666666666663,
+        "rougeLsum": 0.4833333333333334
+      },
+      "objective_results": {
+        "rouge1": 0.13559322033898305,
+        "rouge2": 0.07017543859649122,
+        "rougeL": 0.13559322033898305,
+        "rougeLsum": 0.13559322033898305
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.24608501118568232,
+        "rouge2": 0.06741573033707865,
+        "rougeL": 0.1476510067114094,
+        "rougeLsum": 0.2058165548098434
+      }
+    },
+    {
+      "id": "D2N165",
+      "ALL": {
+        "rouge1": 0.5271966527196653,
+        "rouge2": 0.220979020979021,
+        "rougeL": 0.3263598326359833,
+        "rougeLsum": 0.4630404463040446
+      },
+      "subjective": {
+        "rouge1": 0.3908045977011494,
+        "rouge2": 0.09699769053117784,
+        "rougeL": 0.20689655172413793,
+        "rougeLsum": 0.32643678160919537
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.5146198830409358,
+        "rouge2": 0.27218934911242604,
+        "rougeL": 0.30409356725146197,
+        "rougeLsum": 0.32748538011695905
+      }
+    },
+    {
+      "id": "D2N166",
+      "ALL": {
+        "rouge1": 0.5271966527196653,
+        "rouge2": 0.2545454545454545,
+        "rougeL": 0.32914923291492326,
+        "rougeLsum": 0.47419804741980476
+      },
+      "subjective": {
+        "rouge1": 0.4730538922155689,
+        "rouge2": 0.26506024096385544,
+        "rougeL": 0.281437125748503,
+        "rougeLsum": 0.4191616766467065
+      },
+      "objective_exam": {
+        "rouge1": 0.4126984126984127,
+        "rouge2": 0.20967741935483872,
+        "rougeL": 0.3333333333333333,
+        "rougeLsum": 0.38095238095238093
+      },
+      "objective_results": {
+        "rouge1": 0.4827586206896552,
+        "rouge2": 0.25,
+        "rougeL": 0.4482758620689655,
+        "rougeLsum": 0.4482758620689655
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.43216080402010043,
+        "rouge2": 0.16243654822335024,
+        "rougeL": 0.31155778894472363,
+        "rougeLsum": 0.3417085427135679
+      }
+    },
+    {
+      "id": "D2N167",
+      "ALL": {
+        "rouge1": 0.5669781931464174,
+        "rouge2": 0.20625,
+        "rougeL": 0.33644859813084116,
+        "rougeLsum": 0.4797507788161994
+      },
+      "subjective": {
+        "rouge1": 0.48163265306122444,
+        "rouge2": 0.1728395061728395,
+        "rougeL": 0.25306122448979596,
+        "rougeLsum": 0.2857142857142857
+      },
+      "objective_exam": {
+        "rouge1": 0.5925925925925926,
+        "rouge2": 0.30379746835443044,
+        "rougeL": 0.5432098765432098,
+        "rougeLsum": 0.5432098765432098
+      },
+      "objective_results": {
+        "rouge1": 0.30303030303030304,
+        "rouge2": 0.125,
+        "rougeL": 0.2727272727272727,
+        "rougeLsum": 0.2727272727272727
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.5119999999999999,
+        "rouge2": 0.20967741935483872,
+        "rougeL": 0.336,
+        "rougeLsum": 0.36799999999999994
+      }
+    },
+    {
+      "id": "D2N168",
+      "ALL": {
+        "rouge1": 0.4993252361673414,
+        "rouge2": 0.2381596752368065,
+        "rougeL": 0.3319838056680162,
+        "rougeLsum": 0.4777327935222672
+      },
+      "subjective": {
+        "rouge1": 0.5095890410958904,
+        "rouge2": 0.2699724517906336,
+        "rougeL": 0.4,
+        "rougeLsum": 0.4602739726027398
+      },
+      "objective_exam": {
+        "rouge1": 0.411214953271028,
+        "rouge2": 0.20952380952380953,
+        "rougeL": 0.3364485981308411,
+        "rougeLsum": 0.39252336448598135
+      },
+      "objective_results": {
+        "rouge1": 0.33333333333333326,
+        "rouge2": 0.17647058823529413,
+        "rougeL": 0.33333333333333326,
+        "rougeLsum": 0.2777777777777778
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.28326180257510736,
+        "rouge2": 0.12121212121212122,
+        "rougeL": 0.22317596566523606,
+        "rougeLsum": 0.27467811158798283
+      }
+    },
+    {
+      "id": "D2N169",
+      "ALL": {
+        "rouge1": 0.41694915254237286,
+        "rouge2": 0.16666666666666666,
+        "rougeL": 0.2711864406779661,
+        "rougeLsum": 0.3661016949152542
+      },
+      "subjective": {
+        "rouge1": 0.3915343915343915,
+        "rouge2": 0.14893617021276595,
+        "rougeL": 0.21693121693121692,
+        "rougeLsum": 0.3333333333333333
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N170",
+      "ALL": {
+        "rouge1": 0.46420323325635104,
+        "rouge2": 0.22685185185185186,
+        "rougeL": 0.2540415704387991,
+        "rougeLsum": 0.4295612009237875
+      },
+      "subjective": {
+        "rouge1": 0.44404332129963897,
+        "rouge2": 0.22826086956521738,
+        "rougeL": 0.24548736462093865,
+        "rougeLsum": 0.3898916967509025
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3492063492063492,
+        "rouge2": 0.16,
+        "rougeL": 0.19047619047619047,
+        "rougeLsum": 0.3253968253968254
+      }
+    },
+    {
+      "id": "D2N171",
+      "ALL": {
+        "rouge1": 0.5473145780051151,
+        "rouge2": 0.2948717948717949,
+        "rougeL": 0.36317135549872126,
+        "rougeLsum": 0.5140664961636829
+      },
+      "subjective": {
+        "rouge1": 0.5485074626865672,
+        "rouge2": 0.299625468164794,
+        "rougeL": 0.3358208955223881,
+        "rougeLsum": 0.4514925373134328
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N172",
+      "ALL": {
+        "rouge1": 0.4933333333333333,
+        "rouge2": 0.21875000000000003,
+        "rougeL": 0.29333333333333333,
+        "rougeLsum": 0.45777777777777773
+      },
+      "subjective": {
+        "rouge1": 0.42042042042042044,
+        "rouge2": 0.18126888217522658,
+        "rougeL": 0.23423423423423423,
+        "rougeLsum": 0.37237237237237236
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N173",
+      "ALL": {
+        "rouge1": 0.4986225895316804,
+        "rouge2": 0.25966850828729277,
+        "rougeL": 0.325068870523416,
+        "rougeLsum": 0.4655647382920111
+      },
+      "subjective": {
+        "rouge1": 0.5410628019323672,
+        "rouge2": 0.2766990291262136,
+        "rougeL": 0.33333333333333337,
+        "rougeLsum": 0.4830917874396135
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.2937062937062937,
+        "rouge2": 0.147887323943662,
+        "rougeL": 0.23076923076923073,
+        "rougeLsum": 0.27272727272727276
+      }
+    },
+    {
+      "id": "D2N174",
+      "ALL": {
+        "rouge1": 0.41491085899513774,
+        "rouge2": 0.18536585365853658,
+        "rougeL": 0.2625607779578606,
+        "rougeLsum": 0.3954619124797407
+      },
+      "subjective": {
+        "rouge1": 0.2932330827067669,
+        "rouge2": 0.15151515151515152,
+        "rougeL": 0.21052631578947367,
+        "rougeLsum": 0.2781954887218045
+      },
+      "objective_exam": {
+        "rouge1": 0.5,
+        "rouge2": 0.3111111111111111,
+        "rougeL": 0.41304347826086957,
+        "rougeLsum": 0.4782608695652174
+      },
+      "objective_results": {
+        "rouge1": 0.425531914893617,
+        "rouge2": 0.2666666666666666,
+        "rougeL": 0.3829787234042554,
+        "rougeLsum": 0.3829787234042554
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.32075471698113206,
+        "rouge2": 0.10476190476190476,
+        "rougeL": 0.23584905660377356,
+        "rougeLsum": 0.2641509433962264
+      }
+    },
+    {
+      "id": "D2N175",
+      "ALL": {
+        "rouge1": 0.5424164524421594,
+        "rouge2": 0.2371134020618557,
+        "rougeL": 0.3033419023136247,
+        "rougeLsum": 0.5115681233933161
+      },
+      "subjective": {
+        "rouge1": 0.5202952029520296,
+        "rouge2": 0.24074074074074076,
+        "rougeL": 0.2841328413284133,
+        "rougeLsum": 0.4723247232472325
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N176",
+      "ALL": {
+        "rouge1": 0.5685483870967741,
+        "rouge2": 0.2672064777327935,
+        "rougeL": 0.3911290322580645,
+        "rougeLsum": 0.5241935483870968
+      },
+      "subjective": {
+        "rouge1": 0.5191256830601092,
+        "rouge2": 0.24175824175824176,
+        "rougeL": 0.3114754098360656,
+        "rougeLsum": 0.453551912568306
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N177",
+      "ALL": {
+        "rouge1": 0.4603580562659846,
+        "rouge2": 0.20256410256410257,
+        "rougeL": 0.2608695652173913,
+        "rougeLsum": 0.44501278772378516
+      },
+      "subjective": {
+        "rouge1": 0.40555555555555556,
+        "rouge2": 0.15083798882681565,
+        "rougeL": 0.23888888888888887,
+        "rougeLsum": 0.35555555555555557
+      },
+      "objective_exam": {
+        "rouge1": 0.3076923076923077,
+        "rouge2": 0.15730337078651688,
+        "rougeL": 0.26373626373626374,
+        "rougeLsum": 0.3076923076923077
+      },
+      "objective_results": {
+        "rouge1": 0.23333333333333334,
+        "rouge2": 0.06896551724137931,
+        "rougeL": 0.16666666666666669,
+        "rougeLsum": 0.16666666666666669
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.35424354243542433,
+        "rouge2": 0.21561338289962828,
+        "rougeL": 0.30258302583025826,
+        "rougeLsum": 0.35424354243542433
+      }
+    },
+    {
+      "id": "D2N178",
+      "ALL": {
+        "rouge1": 0.2375102375102375,
+        "rouge2": 0.06475409836065572,
+        "rougeL": 0.12448812448812448,
+        "rougeLsum": 0.21621621621621623
+      },
+      "subjective": {
+        "rouge1": 0.17371110078959592,
+        "rouge2": 0.04463040446304044,
+        "rougeL": 0.10775661867162098,
+        "rougeLsum": 0.15141662796098468
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N179",
+      "ALL": {
+        "rouge1": 0.41606886657101866,
+        "rouge2": 0.1669064748201439,
+        "rougeL": 0.24390243902439024,
+        "rougeLsum": 0.3500717360114778
+      },
+      "subjective": {
+        "rouge1": 0.3897637795275591,
+        "rouge2": 0.14624505928853757,
+        "rougeL": 0.18503937007874013,
+        "rougeLsum": 0.2834645669291339
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N180",
+      "ALL": {
+        "rouge1": 0.5256410256410257,
+        "rouge2": 0.24421593830334193,
+        "rougeL": 0.38974358974358975,
+        "rougeLsum": 0.4923076923076923
+      },
+      "subjective": {
+        "rouge1": 0.4696969696969697,
+        "rouge2": 0.1825095057034221,
+        "rougeL": 0.31060606060606055,
+        "rougeLsum": 0.4090909090909091
+      },
+      "objective_exam": {
+        "rouge1": 0.7238095238095237,
+        "rouge2": 0.4271844660194175,
+        "rougeL": 0.6857142857142857,
+        "rougeLsum": 0.6857142857142857
+      },
+      "objective_results": {
+        "rouge1": 0.05555555555555555,
+        "rouge2": 0.0,
+        "rougeL": 0.05555555555555555,
+        "rougeLsum": 0.05555555555555555
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.6306306306306306,
+        "rouge2": 0.4220183486238533,
+        "rougeL": 0.5945945945945946,
+        "rougeLsum": 0.6126126126126127
+      }
+    },
+    {
+      "id": "D2N181",
+      "ALL": {
+        "rouge1": 0.512325830653805,
+        "rouge2": 0.22771213748657357,
+        "rougeL": 0.2765273311897106,
+        "rougeLsum": 0.47374062165058944
+      },
+      "subjective": {
+        "rouge1": 0.5041322314049588,
+        "rouge2": 0.22406639004149378,
+        "rougeL": 0.23966942148760328,
+        "rougeLsum": 0.43388429752066116
+      },
+      "objective_exam": {
+        "rouge1": 0.4999999999999999,
+        "rouge2": 0.3636363636363636,
+        "rougeL": 0.4999999999999999,
+        "rougeLsum": 0.4999999999999999
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.43540669856459335,
+        "rouge2": 0.1778846153846154,
+        "rougeL": 0.3110047846889952,
+        "rougeLsum": 0.36363636363636365
+      }
+    },
+    {
+      "id": "D2N182",
+      "ALL": {
+        "rouge1": 0.5875952121871599,
+        "rouge2": 0.29225736095965105,
+        "rougeL": 0.26768226332970624,
+        "rougeLsum": 0.5027203482045702
+      },
+      "subjective": {
+        "rouge1": 0.5547652916073968,
+        "rouge2": 0.20542082738944367,
+        "rougeL": 0.23897581792318634,
+        "rougeLsum": 0.46088193456614507
+      },
+      "objective_exam": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N183",
+      "ALL": {
+        "rouge1": 0.6266666666666667,
+        "rouge2": 0.294314381270903,
+        "rougeL": 0.3566666666666667,
+        "rougeLsum": 0.5700000000000001
+      },
+      "subjective": {
+        "rouge1": 0.5193621867881549,
+        "rouge2": 0.2196796338672769,
+        "rougeL": 0.20501138952164008,
+        "rougeLsum": 0.42369020501138954
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N184",
+      "ALL": {
+        "rouge1": 0.521891418563923,
+        "rouge2": 0.20738137082601052,
+        "rougeL": 0.3152364273204904,
+        "rougeLsum": 0.47285464098073554
+      },
+      "subjective": {
+        "rouge1": 0.35135135135135126,
+        "rouge2": 0.1643835616438356,
+        "rougeL": 0.25675675675675674,
+        "rougeLsum": 0.3243243243243243
+      },
+      "objective_exam": {
+        "rouge1": 0.6,
+        "rouge2": 0.20588235294117646,
+        "rougeL": 0.5142857142857142,
+        "rougeLsum": 0.5714285714285714
+      },
+      "objective_results": {
+        "rouge1": 0.7499999999999999,
+        "rouge2": 0.5789473684210527,
+        "rougeL": 0.7499999999999999,
+        "rougeLsum": 0.7499999999999999
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4600638977635783,
+        "rouge2": 0.1672025723472669,
+        "rougeL": 0.24281150159744408,
+        "rougeLsum": 0.3514376996805112
+      }
+    },
+    {
+      "id": "D2N185",
+      "ALL": {
+        "rouge1": 0.42334494773519166,
+        "rouge2": 0.15532286212914487,
+        "rougeL": 0.21080139372822299,
+        "rougeLsum": 0.3519163763066202
+      },
+      "subjective": {
+        "rouge1": 0.2608695652173913,
+        "rouge2": 0.08724832214765102,
+        "rougeL": 0.15384615384615383,
+        "rougeLsum": 0.19397993311036793
+      },
+      "objective_exam": {
+        "rouge1": 0.4166666666666667,
+        "rouge2": 0.2608695652173913,
+        "rougeL": 0.375,
+        "rougeLsum": 0.4166666666666667
+      },
+      "objective_results": {
+        "rouge1": 0.058823529411764705,
+        "rouge2": 0.0,
+        "rougeL": 0.058823529411764705,
+        "rougeLsum": 0.058823529411764705
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4285714285714285,
+        "rouge2": 0.18055555555555555,
+        "rougeL": 0.271889400921659,
+        "rougeLsum": 0.3179723502304148
+      }
+    },
+    {
+      "id": "D2N186",
+      "ALL": {
+        "rouge1": 0.5086705202312138,
+        "rouge2": 0.23210831721470015,
+        "rougeL": 0.3352601156069364,
+        "rougeLsum": 0.46242774566473993
+      },
+      "subjective": {
+        "rouge1": 0.4340425531914893,
+        "rouge2": 0.24034334763948495,
+        "rougeL": 0.30638297872340425,
+        "rougeLsum": 0.3999999999999999
+      },
+      "objective_exam": {
+        "rouge1": 0.6304347826086958,
+        "rouge2": 0.2888888888888889,
+        "rougeL": 0.5217391304347826,
+        "rougeLsum": 0.5217391304347826
+      },
+      "objective_results": {
+        "rouge1": 0.4067796610169492,
+        "rouge2": 0.17543859649122806,
+        "rougeL": 0.37288135593220345,
+        "rougeLsum": 0.37288135593220345
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.30075187969924805,
+        "rouge2": 0.09160305343511449,
+        "rougeL": 0.24060150375939848,
+        "rougeLsum": 0.27067669172932335
+      }
+    },
+    {
+      "id": "D2N187",
+      "ALL": {
+        "rouge1": 0.0859375,
+        "rouge2": 0.02816901408450704,
+        "rougeL": 0.05468750000000001,
+        "rougeLsum": 0.07968750000000001
+      },
+      "subjective": {
+        "rouge1": 0.02654028436018957,
+        "rouge2": 0.0075973409306742635,
+        "rougeL": 0.015165876777251185,
+        "rougeLsum": 0.024644549763033177
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N188",
+      "ALL": {
+        "rouge1": 0.1377952755905512,
+        "rouge2": 0.04862023653088042,
+        "rougeL": 0.08792650918635171,
+        "rougeLsum": 0.11548556430446194
+      },
+      "subjective": {
+        "rouge1": 0.07589285714285715,
+        "rouge2": 0.019374068554396422,
+        "rougeL": 0.043154761904761904,
+        "rougeLsum": 0.06696428571428571
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N189",
+      "ALL": {
+        "rouge1": 0.4601769911504425,
+        "rouge2": 0.2202486678507993,
+        "rougeL": 0.2867256637168141,
+        "rougeLsum": 0.41415929203539825
+      },
+      "subjective": {
+        "rouge1": 0.3,
+        "rouge2": 0.08988764044943819,
+        "rougeL": 0.1888888888888889,
+        "rougeLsum": 0.27777777777777773
+      },
+      "objective_exam": {
+        "rouge1": 0.6796116504854369,
+        "rouge2": 0.35643564356435636,
+        "rougeL": 0.5048543689320388,
+        "rougeLsum": 0.6019417475728155
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3614457831325301,
+        "rouge2": 0.2186234817813765,
+        "rougeL": 0.2811244979919678,
+        "rougeLsum": 0.3052208835341365
+      }
+    },
+    {
+      "id": "D2N190",
+      "ALL": {
+        "rouge1": 0.14306016106110847,
+        "rouge2": 0.04931247036510194,
+        "rougeL": 0.10326859308384652,
+        "rougeLsum": 0.13453339649455237
+      },
+      "subjective": {
+        "rouge1": 0.05938375350140056,
+        "rouge2": 0.01906898485698261,
+        "rougeL": 0.039215686274509796,
+        "rougeLsum": 0.05042016806722689
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N191",
+      "ALL": {
+        "rouge1": 0.13072519083969467,
+        "rouge2": 0.04011461318051576,
+        "rougeL": 0.07156488549618321,
+        "rougeLsum": 0.11832061068702288
+      },
+      "subjective": {
+        "rouge1": 0.1006036217303823,
+        "rouge2": 0.03222557905337362,
+        "rougeL": 0.05432595573440644,
+        "rougeLsum": 0.0925553319919517
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N192",
+      "ALL": {
+        "rouge1": 0.518716577540107,
+        "rouge2": 0.18230563002680963,
+        "rougeL": 0.24331550802139038,
+        "rougeLsum": 0.4705882352941177
+      },
+      "subjective": {
+        "rouge1": 0.3614457831325302,
+        "rouge2": 0.1376518218623482,
+        "rougeL": 0.18473895582329317,
+        "rougeLsum": 0.3052208835341365
+      },
+      "objective_exam": {
+        "rouge1": 0.4714285714285714,
+        "rouge2": 0.15942028985507248,
+        "rougeL": 0.3142857142857143,
+        "rougeLsum": 0.3857142857142857
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.47592067988668557,
+        "rouge2": 0.18233618233618235,
+        "rougeL": 0.254957507082153,
+        "rougeLsum": 0.43059490084985835
+      }
+    },
+    {
+      "id": "D2N193",
+      "ALL": {
+        "rouge1": 0.17341040462427745,
+        "rouge2": 0.06481481481481483,
+        "rougeL": 0.11676300578034683,
+        "rougeLsum": 0.1699421965317919
+      },
+      "subjective": {
+        "rouge1": 0.0660919540229885,
+        "rouge2": 0.02877697841726618,
+        "rougeL": 0.035919540229885055,
+        "rougeLsum": 0.06465517241379311
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N194",
+      "ALL": {
+        "rouge1": 0.5545171339563862,
+        "rouge2": 0.29687499999999994,
+        "rougeL": 0.3302180685358256,
+        "rougeLsum": 0.5077881619937695
+      },
+      "subjective": {
+        "rouge1": 0.4169184290030211,
+        "rouge2": 0.2066869300911854,
+        "rougeL": 0.2719033232628399,
+        "rougeLsum": 0.36253776435045315
+      },
+      "objective_exam": {
+        "rouge1": 0.65359477124183,
+        "rouge2": 0.4503311258278146,
+        "rougeL": 0.35294117647058826,
+        "rougeLsum": 0.6013071895424837
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4705882352941176,
+        "rouge2": 0.2388059701492537,
+        "rougeL": 0.3382352941176471,
+        "rougeLsum": 0.3529411764705882
+      }
+    },
+    {
+      "id": "D2N195",
+      "ALL": {
+        "rouge1": 0.4472049689440994,
+        "rouge2": 0.1768368617683686,
+        "rougeL": 0.2484472049689441,
+        "rougeLsum": 0.40993788819875776
+      },
+      "subjective": {
+        "rouge1": 0.24109589041095889,
+        "rouge2": 0.11019283746556474,
+        "rougeL": 0.16438356164383564,
+        "rougeLsum": 0.20821917808219179
+      },
+      "objective_exam": {
+        "rouge1": 0.54,
+        "rouge2": 0.24489795918367346,
+        "rougeL": 0.46,
+        "rougeLsum": 0.5199999999999999
+      },
+      "objective_results": {
+        "rouge1": 0.136986301369863,
+        "rouge2": 0.0,
+        "rougeL": 0.0821917808219178,
+        "rougeLsum": 0.0821917808219178
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4269662921348315,
+        "rouge2": 0.1660377358490566,
+        "rougeL": 0.299625468164794,
+        "rougeLsum": 0.352059925093633
+      }
+    },
+    {
+      "id": "D2N196",
+      "ALL": {
+        "rouge1": 0.4929577464788732,
+        "rouge2": 0.19491525423728814,
+        "rougeL": 0.23380281690140847,
+        "rougeLsum": 0.4507042253521127
+      },
+      "subjective": {
+        "rouge1": 0.2614840989399293,
+        "rouge2": 0.099644128113879,
+        "rougeL": 0.1625441696113074,
+        "rougeLsum": 0.2544169611307421
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.44845360824742264,
+        "rouge2": 0.18134715025906734,
+        "rougeL": 0.24226804123711337,
+        "rougeLsum": 0.3814432989690722
+      }
+    },
+    {
+      "id": "D2N197",
+      "ALL": {
+        "rouge1": 0.43307086614173224,
+        "rouge2": 0.13438735177865613,
+        "rougeL": 0.1889763779527559,
+        "rougeLsum": 0.39370078740157477
+      },
+      "subjective": {
+        "rouge1": 0.23684210526315785,
+        "rouge2": 0.05309734513274336,
+        "rougeL": 0.17543859649122806,
+        "rougeLsum": 0.21052631578947367
+      },
+      "objective_exam": {
+        "rouge1": 0.36923076923076925,
+        "rouge2": 0.06349206349206349,
+        "rougeL": 0.18461538461538463,
+        "rougeLsum": 0.3384615384615384
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3348837209302326,
+        "rouge2": 0.14084507042253522,
+        "rougeL": 0.2046511627906977,
+        "rougeLsum": 0.2976744186046512
+      }
+    },
+    {
+      "id": "D2N198",
+      "ALL": {
+        "rouge1": 0.4338028169014085,
+        "rouge2": 0.17231638418079095,
+        "rougeL": 0.28169014084507044,
+        "rougeLsum": 0.4056338028169015
+      },
+      "subjective": {
+        "rouge1": 0.329192546583851,
+        "rouge2": 0.1375,
+        "rougeL": 0.1987577639751553,
+        "rougeLsum": 0.31055900621118016
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4054054054054054,
+        "rouge2": 0.18367346938775508,
+        "rougeL": 0.33108108108108103,
+        "rougeLsum": 0.3716216216216216
+      }
+    },
+    {
+      "id": "D2N199",
+      "ALL": {
+        "rouge1": 0.4584527220630373,
+        "rouge2": 0.22988505747126442,
+        "rougeL": 0.326647564469914,
+        "rougeLsum": 0.44699140401146126
+      },
+      "subjective": {
+        "rouge1": 0.37404580152671757,
+        "rouge2": 0.14615384615384616,
+        "rougeL": 0.2137404580152672,
+        "rougeLsum": 0.37404580152671757
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.28125,
+        "rouge2": 0.13836477987421383,
+        "rougeL": 0.225,
+        "rougeLsum": 0.25625000000000003
+      }
+    },
+    {
+      "id": "D2N200",
+      "ALL": {
+        "rouge1": 0.4476987447698744,
+        "rouge2": 0.18067226890756302,
+        "rougeL": 0.24686192468619247,
+        "rougeLsum": 0.401673640167364
+      },
+      "subjective": {
+        "rouge1": 0.22900763358778625,
+        "rouge2": 0.10769230769230768,
+        "rougeL": 0.15267175572519084,
+        "rougeLsum": 0.22137404580152675
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N201",
+      "ALL": {
+        "rouge1": 0.272863568215892,
+        "rouge2": 0.13233082706766916,
+        "rougeL": 0.17991004497751123,
+        "rougeLsum": 0.25787106446776614
+      },
+      "subjective": {
+        "rouge1": 0.17412935323383083,
+        "rouge2": 0.035,
+        "rougeL": 0.11940298507462685,
+        "rougeLsum": 0.13930348258706468
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N202",
+      "ALL": {
+        "rouge1": 0.5784313725490197,
+        "rouge2": 0.29180327868852457,
+        "rougeL": 0.3464052287581699,
+        "rougeLsum": 0.5065359477124182
+      },
+      "subjective": {
+        "rouge1": 0.4435797665369649,
+        "rouge2": 0.21176470588235294,
+        "rougeL": 0.2801556420233463,
+        "rougeLsum": 0.3035019455252918
+      },
+      "objective_exam": {
+        "rouge1": 0.5584415584415585,
+        "rouge2": 0.3026315789473684,
+        "rougeL": 0.2987012987012987,
+        "rougeLsum": 0.4675324675324675
+      },
+      "objective_results": {
+        "rouge1": 0.888888888888889,
+        "rouge2": 0.8,
+        "rougeL": 0.888888888888889,
+        "rougeLsum": 0.888888888888889
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.4942528735632184,
+        "rouge2": 0.2558139534883721,
+        "rougeL": 0.3908045977011494,
+        "rougeLsum": 0.41379310344827586
+      }
+    },
+    {
+      "id": "D2N203",
+      "ALL": {
+        "rouge1": 0.3985637342908438,
+        "rouge2": 0.2054054054054054,
+        "rougeL": 0.3052064631956912,
+        "rougeLsum": 0.38061041292639136
+      },
+      "subjective": {
+        "rouge1": 0.1568627450980392,
+        "rouge2": 0.12244897959183675,
+        "rougeL": 0.1568627450980392,
+        "rougeLsum": 0.1568627450980392
+      },
+      "objective_exam": {
+        "rouge1": 0.48868778280542985,
+        "rouge2": 0.2009132420091324,
+        "rougeL": 0.31674208144796384,
+        "rougeLsum": 0.39819004524886875
+      },
+      "objective_results": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      }
+    },
+    {
+      "id": "D2N204",
+      "ALL": {
+        "rouge1": 0.4772727272727273,
+        "rouge2": 0.17915309446254074,
+        "rougeL": 0.26298701298701305,
+        "rougeLsum": 0.41883116883116883
+      },
+      "subjective": {
+        "rouge1": 0.32209737827715357,
+        "rouge2": 0.15094339622641512,
+        "rougeL": 0.20973782771535582,
+        "rougeLsum": 0.2771535580524344
+      },
+      "objective_exam": {
+        "rouge1": 0.6206896551724138,
+        "rouge2": 0.2588235294117647,
+        "rougeL": 0.4827586206896552,
+        "rougeLsum": 0.4827586206896552
+      },
+      "objective_results": {
+        "rouge1": 0.4583333333333333,
+        "rouge2": 0.2608695652173913,
+        "rougeL": 0.41666666666666663,
+        "rougeLsum": 0.41666666666666663
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.383177570093458,
+        "rouge2": 0.12264150943396225,
+        "rougeL": 0.19626168224299062,
+        "rougeLsum": 0.308411214953271
+      }
+    },
+    {
+      "id": "D2N205",
+      "ALL": {
+        "rouge1": 0.4082125603864734,
+        "rouge2": 0.12106537530266344,
+        "rougeL": 0.2318840579710145,
+        "rougeLsum": 0.3888888888888889
+      },
+      "subjective": {
+        "rouge1": 0.2507836990595611,
+        "rouge2": 0.08832807570977919,
+        "rougeL": 0.18181818181818185,
+        "rougeLsum": 0.225705329153605
+      },
+      "objective_exam": {
+        "rouge1": 0.42105263157894735,
+        "rouge2": 0.12213740458015267,
+        "rougeL": 0.30075187969924816,
+        "rougeLsum": 0.3609022556390977
+      },
+      "objective_results": {
+        "rouge1": 0.31578947368421056,
+        "rouge2": 0.14545454545454545,
+        "rougeL": 0.28070175438596495,
+        "rougeLsum": 0.31578947368421056
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3636363636363636,
+        "rouge2": 0.09463722397476342,
+        "rougeL": 0.225705329153605,
+        "rougeLsum": 0.3260188087774295
+      }
+    },
+    {
+      "id": "D2N206",
+      "ALL": {
+        "rouge1": 0.449438202247191,
+        "rouge2": 0.19323671497584538,
+        "rougeL": 0.27929373996789725,
+        "rougeLsum": 0.40128410914927765
+      },
+      "subjective": {
+        "rouge1": 0.3424657534246575,
+        "rouge2": 0.15862068965517243,
+        "rougeL": 0.22602739726027402,
+        "rougeLsum": 0.3013698630136986
+      },
+      "objective_exam": {
+        "rouge1": 0.5454545454545454,
+        "rouge2": 0.14285714285714288,
+        "rougeL": 0.3636363636363636,
+        "rougeLsum": 0.45454545454545453
+      },
+      "objective_results": {
+        "rouge1": 0.5507246376811594,
+        "rouge2": 0.41791044776119407,
+        "rougeL": 0.5217391304347826,
+        "rougeLsum": 0.5217391304347826
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.3669724770642202,
+        "rouge2": 0.12037037037037038,
+        "rougeL": 0.2568807339449541,
+        "rougeLsum": 0.3027522935779816
+      }
+    },
+    {
+      "id": "D2N207",
+      "ALL": {
+        "rouge1": 0.42964554242749736,
+        "rouge2": 0.15285252960172227,
+        "rougeL": 0.19334049409237378,
+        "rougeLsum": 0.40601503759398494
+      },
+      "subjective": {
+        "rouge1": 0.3630952380952381,
+        "rouge2": 0.155688622754491,
+        "rougeL": 0.1904761904761905,
+        "rougeLsum": 0.3511904761904762
+      },
+      "objective_exam": {
+        "rouge1": 0.0,
+        "rouge2": 0.0,
+        "rougeL": 0.0,
+        "rougeLsum": 0.0
+      },
+      "objective_results": {
+        "rouge1": 1.0,
+        "rouge2": 0.0,
+        "rougeL": 1.0,
+        "rougeLsum": 1.0
+      },
+      "assessment_and_plan": {
+        "rouge1": 0.16417910447761194,
+        "rouge2": 0.04868913857677902,
+        "rougeL": 0.11194029850746269,
+        "rougeLsum": 0.1417910447761194
+      }
+    }
+  ]
+}

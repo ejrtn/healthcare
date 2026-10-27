@@ -1,8 +1,11 @@
 # 원본 데이터셋은 scripts/download_data.sh로 받는다 (각자 CC BY 4.0, 저장소에 재배포하지 않음)
 data/raw/
 
-# 학습 산출물 / 모델 가중치
-outputs/
+# 산출물: 예측(jsonl)은 결과 재현용으로 커밋하고, 모델 가중치·체크포인트는 제외
+outputs/*
+!outputs/baseline/
+!outputs/sft/
+outputs/sft/*/
 *.safetensors
 *.bin
 *.gguf
