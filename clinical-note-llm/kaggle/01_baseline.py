@@ -48,14 +48,20 @@ def main():
     ap.add_argument("--mode", choices=["text", "json"], required=True)
     ap.add_argument("--tp", type=int, default=1)
     ap.add_argument("--tag", help="결과 파일 이름 (기본: 모델 이름). 로컬 경로 모델에 쓴다")
-    ap.add_argument("--group", default="baseline", help="결과 묶음 (baseline / sft)")
+    ap.add_argument("--group", default="baseline", help="결과 묶음 (baseline / sft / sweep)")
+    ap.add_argument("--split", choices=["test", "valid"], default="test",
+                    help="valid: 생성 설정을 고르는 용도 (테스트셋을 보고 고르면 점수가 부풀려진다)")
+    # 반복 억제. repetition_penalty는 입력(대화)에 나온 토큰까지 벌점을 줘서 대화의 의학 용어를
+    # 옮겨 적는 데 방해가 될 수 있고, frequency_penalty는 생성한 토큰에만 반복 횟수만큼 벌점을 준다.
+    ap.add_argument("--repetition-penalty", type=float, default=1.0)
+    ap.add_argument("--frequency-penalty", type=float, default=0.0)
     ap.add_argument("--max-tokens", type=int, default=2048)
     args = ap.parse_args()
 
     from vllm import LLM, SamplingParams
 
-    golds = {s: load_jsonl(ROOT / "data" / "processed" / f"aci_{s}.jsonl") for s in TEST_SPLITS}
-    cases = [g for s in TEST_SPLITS for g in golds[s]]
+    splits = TEST_SPLITS if args.split == "test" else ["valid"]
+    cases = [g for s in splits for g in load_jsonl(ROOT / "data" / "processed" / f"aci_{s}.jsonl")]
 
     llm = LLM(
         model=args.model,
@@ -65,7 +71,8 @@ def main():
         gpu_memory_utilization=0.90,
         seed=0,
     )
-    gen = dict(temperature=0, max_tokens=args.max_tokens)
+    gen = dict(temperature=0, max_tokens=args.max_tokens,
+               repetition_penalty=args.repetition_penalty, frequency_penalty=args.frequency_penalty)
     params = json_sampling_params(SamplingParams, **gen) if args.mode == "json" else SamplingParams(**gen)
 
     conversations = [build_messages(c["dialogue"], json_mode=args.mode == "json") for c in cases]
@@ -86,7 +93,8 @@ def main():
 
     summary, per_case = evaluate(cases, preds)
     summary["generation"] = {
-        "model": args.model, "mode": args.mode, "tensor_parallel": args.tp,
+        "model": args.model, "mode": args.mode, "tensor_parallel": args.tp, "split": args.split,
+        "repetition_penalty": args.repetition_penalty, "frequency_penalty": args.frequency_penalty,
         "num_requests": len(cases), "wall_time_s": round(elapsed, 1),
         "output_tokens": n_out, "output_tok_per_s": round(n_out / elapsed, 1),
         "truncated": n_truncated,
