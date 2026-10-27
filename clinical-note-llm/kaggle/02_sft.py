@@ -18,7 +18,9 @@ Kaggle (GPU T4 x2) — vLLM을 설치하기 전에 학습한다 (vllm이 torch�
     !python kaggle/01_baseline.py --model outputs/sft/qwen3b-r16/merged --group sft --tag qwen3b-r16 --mode json
 """
 import argparse
+import dataclasses
 import json
+import math
 import os
 import time
 from pathlib import Path
@@ -37,6 +39,19 @@ def load_split(name):
     return Dataset.from_list(rows)
 
 
+def make_config(config_cls, **kwargs):
+    """설치된 TRL/transformers 버전이 모르는 설정은 빼고 만든다.
+
+    버전마다 인자 이름이 바뀌어(예: warmup_ratio 삭제) 하나 고치면 다음 인자에서 또 죽는다.
+    뺀 항목은 출력해서, 학습 조건이 조용히 바뀌지 않았는지 로그로 확인할 수 있게 한다.
+    """
+    known = {f.name for f in dataclasses.fields(config_cls)}
+    dropped = sorted(set(kwargs) - known)
+    if dropped and int(os.environ.get("LOCAL_RANK", 0)) == 0:
+        print(f"[경고] 이 버전의 {config_cls.__name__}가 지원하지 않아 뺀 설정: {dropped}")
+    return config_cls(**{k: v for k, v in kwargs.items() if k in known})
+
+
 def train(args, out_dir):
     import torch
     from peft import LoraConfig, get_peft_model, prepare_model_for_kbit_training
@@ -52,7 +67,7 @@ def train(args, out_dir):
             bnb_4bit_use_double_quant=True,
             bnb_4bit_compute_dtype=torch.float16,
         ),
-        torch_dtype=torch.float16,
+        dtype=torch.float16,
         device_map={"": local_rank},  # DDP: 프로세스마다 자기 GPU에 모델 전체를 올린다
     )
     model = prepare_model_for_kbit_training(
@@ -69,15 +84,20 @@ def train(args, out_dir):
         model.print_trainable_parameters()
 
     world_size = int(os.environ.get("WORLD_SIZE", 1))
-    config = SFTConfig(
+    train_ds, valid_ds = load_split("train"), load_split("valid")
+    # GPU 수와 무관하게 유효 배치 8을 유지해야 1장/2장 비교가 공정하다
+    grad_accum = max(1, 8 // world_size)
+    total_steps = math.ceil(len(train_ds) / (world_size * grad_accum)) * math.ceil(args.epochs)
+    config = make_config(
+        SFTConfig,
         output_dir=str(out_dir),
         num_train_epochs=args.epochs,
         learning_rate=args.lr,
         lr_scheduler_type="cosine",
-        warmup_ratio=0.05,
+        # transformers 5.x에서 warmup_ratio가 없어져 스텝 수로 준다 (전체의 약 5%)
+        warmup_steps=max(1, round(0.05 * total_steps)),
         per_device_train_batch_size=1,
-        # GPU 수와 무관하게 유효 배치 8을 유지해야 1장/2장 비교가 공정하다
-        gradient_accumulation_steps=max(1, 8 // world_size),
+        gradient_accumulation_steps=grad_accum,
         max_length=args.max_length,
         fp16=True,
         gradient_checkpointing=True,
@@ -93,8 +113,8 @@ def train(args, out_dir):
     trainer = SFTTrainer(
         model=model,
         args=config,
-        train_dataset=load_split("train"),
-        eval_dataset=load_split("valid"),
+        train_dataset=train_ds,
+        eval_dataset=valid_ds,
         processing_class=tokenizer,
     )
 
@@ -121,10 +141,11 @@ def merge(args, out_dir):
     from peft import PeftModel
     from transformers import AutoModelForCausalLM, AutoTokenizer
 
-    base = AutoModelForCausalLM.from_pretrained(args.model, torch_dtype=torch.float16, device_map="cpu")
-    merged = PeftModel.from_pretrained(base, out_dir / "adapter").merge_and_unload()
-    merged.save_pretrained(out_dir / "merged", safe_serialization=True)
-    AutoTokenizer.from_pretrained(out_dir / "adapter").save_pretrained(out_dir / "merged")
+    adapter_dir = str(out_dir / "adapter")  # peft는 Path를 받지 않는다
+    base = AutoModelForCausalLM.from_pretrained(args.model, dtype=torch.float16, device_map="cpu")
+    merged = PeftModel.from_pretrained(base, adapter_dir).merge_and_unload()
+    merged.save_pretrained(str(out_dir / "merged"), safe_serialization=True)
+    AutoTokenizer.from_pretrained(adapter_dir).save_pretrained(str(out_dir / "merged"))
     print(f"병합 완료: {out_dir / 'merged'}")
 
 
