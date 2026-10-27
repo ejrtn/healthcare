@@ -253,8 +253,9 @@ TPOT = 첫 토큰 이후 토큰 하나당 시간, E2E = 진료기록 한 건 완
 | 1 | 출력 스키마·평가 파이프라인, 프롬프트 기준선 측정 | ✅ |
 | 2 | QLoRA SFT (`src/build_sft_data.py`, `kaggle/02_sft.py`) + 반복 억제 디코딩 탐색 — ROUGE-1 55.5 (GPT-4 51.1) | ✅ |
 | 3 | vLLM 서빙 벤치마크 (FP16 vs 4bit, 동시 요청, Tensor Parallel, structured output) — 1차 완료, 측정 보정 후 재측정 | 진행 중 |
-| 4 | FastAPI 비동기 API + Docker + 부하 테스트 — API·테스트 완료, CPU(llama.cpp) 실행 확인 중 | 진행 중 |
-| 5 | (여유 시) DPO로 환각 감소 / 합성 데이터(MedSynth) 보강 실험 | |
+| 4 | FastAPI 비동기 API + Docker + 부하 테스트 — API·테스트·근거 표시 완료, CPU(llama.cpp + GGUF) 실행 남음 | 진행 중 |
+| 5 | 근거 검사(`src/faithfulness.py`) → 근거 정리 데이터로 2차 학습(`kaggle/RUNBOOK.md`) | 학습 대기 |
+| 6 | (여유 시) DPO로 "사실과 반대" 오류 감소 / 합성 데이터(MedSynth) 보강 실험 | |
 
 ## 한계
 
