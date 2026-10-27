@@ -1,0 +1,95 @@
+{
+  "config": {
+    "model": "outputs/sft/qwen3b-r16/merged",
+    "tag": "fp16-tp1",
+    "tp": 1,
+    "quantization": "none",
+    "json": false,
+    "max_tokens": 1024,
+    "frequency_penalty": 0.4
+  },
+  "server": {
+    "model_memory": 5.79,
+    "kv_cache_tokens": 187792.0,
+    "max_concurrency": 22.92,
+    "raw_lines": [
+      "(APIServer pid=1890) INFO 10-27 07:57:03 [loggers.py:335] Engine 000: Avg prompt throughput: 284.9 tokens/s, Avg generation throughput: 261.8 tokens/s, Running: 32 reqs, Waiting: 0 reqs, GPU KV cache usage: 32.9%, Prefix cache hit rate: 65.8%",
+      "(APIServer pid=1890) INFO 10-27 07:57:13 [loggers.py:335] Engine 000: Avg prompt throughput: 608.6 tokens/s, Avg generation throughput: 200.8 tokens/s, Running: 32 reqs, Waiting: 0 reqs, GPU KV cache usage: 33.2%, Prefix cache hit rate: 64.2%",
+      "(APIServer pid=1890) INFO 10-27 07:57:23 [loggers.py:335] Engine 000: Avg prompt throughput: 504.1 tokens/s, Avg generation throughput: 203.8 tokens/s, Running: 32 reqs, Waiting: 0 reqs, GPU KV cache usage: 33.2%, Prefix cache hit rate: 62.0%",
+      "(APIServer pid=1890) INFO 10-27 07:57:33 [loggers.py:335] Engine 000: Avg prompt throughput: 697.2 tokens/s, Avg generation throughput: 194.2 tokens/s, Running: 32 reqs, Waiting: 0 reqs, GPU KV cache usage: 32.8%, Prefix cache hit rate: 59.2%",
+      "(APIServer pid=1890) INFO 10-27 07:57:43 [loggers.py:335] Engine 000: Avg prompt throughput: 944.6 tokens/s, Avg generation throughput: 63.0 tokens/s, Running: 32 reqs, Waiting: 0 reqs, GPU KV cache usage: 33.1%, Prefix cache hit rate: 56.9%",
+      "(APIServer pid=1890) INFO 10-27 07:57:53 [loggers.py:335] Engine 000: Avg prompt throughput: 722.6 tokens/s, Avg generation throughput: 191.2 tokens/s, Running: 32 reqs, Waiting: 0 reqs, GPU KV cache usage: 33.6%, Prefix cache hit rate: 55.4%",
+      "(APIServer pid=1890) INFO 10-27 07:58:03 [loggers.py:335] Engine 000: Avg prompt throughput: 359.0 tokens/s, Avg generation throughput: 236.3 tokens/s, Running: 32 reqs, Waiting: 0 reqs, GPU KV cache usage: 33.3%, Prefix cache hit rate: 54.5%",
+      "(APIServer pid=1890) INFO 10-27 07:58:13 [loggers.py:335] Engine 000: Avg prompt throughput: 447.9 tokens/s, Avg generation throughput: 229.7 tokens/s, Running: 31 reqs, Waiting: 0 reqs, GPU KV cache usage: 33.0%, Prefix cache hit rate: 53.4%",
+      "(APIServer pid=1890) INFO 10-27 07:58:23 [loggers.py:335] Engine 000: Avg prompt throughput: 299.4 tokens/s, Avg generation throughput: 224.3 tokens/s, Running: 30 reqs, Waiting: 0 reqs, GPU KV cache usage: 33.1%, Prefix cache hit rate: 52.7%",
+      "(APIServer pid=1890) INFO 10-27 07:58:33 [loggers.py:335] Engine 000: Avg prompt throughput: 0.0 tokens/s, Avg generation throughput: 277.3 tokens/s, Running: 24 reqs, Waiting: 0 reqs, GPU KV cache usage: 28.4%, Prefix cache hit rate: 52.7%",
+      "(APIServer pid=1890) INFO 10-27 07:58:43 [loggers.py:335] Engine 000: Avg prompt throughput: 0.0 tokens/s, Avg generation throughput: 248.8 tokens/s, Running: 20 reqs, Waiting: 0 reqs, GPU KV cache usage: 24.6%, Prefix cache hit rate: 52.7%",
+      "(APIServer pid=1890) INFO 10-27 07:58:53 [loggers.py:335] Engine 000: Avg prompt throughput: 0.0 tokens/s, Avg generation throughput: 221.2 tokens/s, Running: 15 reqs, Waiting: 0 reqs, GPU KV cache usage: 19.8%, Prefix cache hit rate: 52.7%",
+      "(APIServer pid=1890) INFO 10-27 07:59:03 [loggers.py:335] Engine 000: Avg prompt throughput: 0.0 tokens/s, Avg generation throughput: 195.1 tokens/s, Running: 11 reqs, Waiting: 0 reqs, GPU KV cache usage: 16.2%, Prefix cache hit rate: 52.7%",
+      "(APIServer pid=1890) INFO 10-27 07:59:13 [loggers.py:335] Engine 000: Avg prompt throughput: 0.0 tokens/s, Avg generation throughput: 147.3 tokens/s, Running: 7 reqs, Waiting: 0 reqs, GPU KV cache usage: 12.0%, Prefix cache hit rate: 52.7%",
+      "(APIServer pid=1890) INFO 10-27 07:59:23 [loggers.py:335] Engine 000: Avg prompt throughput: 0.0 tokens/s, Avg generation throughput: 91.8 tokens/s, Running: 2 reqs, Waiting: 0 reqs, GPU KV cache usage: 3.6%, Prefix cache hit rate: 52.7%"
+    ]
+  },
+  "levels": [
+    {
+      "concurrency": 1,
+      "num_requests": 8,
+      "ttft_p50_s": 0.49,
+      "ttft_p95_s": 1.23,
+      "tpot_p50_ms": 35.4,
+      "e2e_p50_s": 22.7,
+      "e2e_p95_s": 34.47,
+      "req_per_s": 0.044,
+      "output_tok_per_s": 27.6,
+      "mean_output_tokens": 634.4
+    },
+    {
+      "concurrency": 4,
+      "num_requests": 8,
+      "ttft_p50_s": 0.138,
+      "ttft_p95_s": 0.174,
+      "tpot_p50_ms": 38.1,
+      "e2e_p50_s": 24.35,
+      "e2e_p95_s": 39.45,
+      "req_per_s": 0.147,
+      "output_tok_per_s": 93.3,
+      "mean_output_tokens": 636.5
+    },
+    {
+      "concurrency": 8,
+      "num_requests": 16,
+      "ttft_p50_s": 0.451,
+      "ttft_p95_s": 2.431,
+      "tpot_p50_ms": 51.2,
+      "e2e_p50_s": 29.36,
+      "e2e_p95_s": 55.28,
+      "req_per_s": 0.203,
+      "output_tok_per_s": 122.6,
+      "mean_output_tokens": 602.7
+    },
+    {
+      "concurrency": 16,
+      "num_requests": 32,
+      "ttft_p50_s": 0.475,
+      "ttft_p95_s": 3.057,
+      "tpot_p50_ms": 72.6,
+      "e2e_p50_s": 45.7,
+      "e2e_p95_s": 72.82,
+      "req_per_s": 0.283,
+      "output_tok_per_s": 183.2,
+      "mean_output_tokens": 647.0
+    },
+    {
+      "concurrency": 32,
+      "num_requests": 64,
+      "ttft_p50_s": 0.654,
+      "ttft_p95_s": 2.182,
+      "tpot_p50_ms": 123.0,
+      "e2e_p50_s": 79.68,
+      "e2e_p95_s": 127.79,
+      "req_per_s": 0.332,
+      "output_tok_per_s": 219.8,
+      "mean_output_tokens": 661.5
+    }
+  ]
+}

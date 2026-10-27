@@ -16,8 +16,10 @@ Kaggle (GPU T4 x2, vLLM 설치된 상태):
     !python kaggle/03_serving_bench.py --model outputs/sft/qwen3b-r16/merged --tag fp16-tp1
     !python kaggle/03_serving_bench.py --model outputs/sft/qwen3b-r16/merged --tag fp16-tp1-json --json
     !python kaggle/03_serving_bench.py --model outputs/sft/qwen3b-r16/merged --tag fp16-tp2 --tp 2
-    !python kaggle/03_serving_bench.py --model outputs/sft/qwen3b-r16/merged --tag int8-tp1 --quantization int8_per_channel_weight_only
     !python kaggle/03_serving_bench.py --model Qwen/Qwen2.5-3B-Instruct-AWQ --tag awq4-base-tp1  # 4bit 속도 참고용 (공식 AWQ, 학습 전 가중치)
+
+양자화 메모 (vLLM 0.32, T4): bitsandbytes는 지원 목록에서 빠졌고, int8_per_channel_weight_only는
+일반(dense) 모델에서 "Quantizing 0 layers"로 아무 층도 양자화하지 않아 FP16과 같다.
 
 결과: results/serving_<tag>.json, 서버 로그 outputs/serving/<tag>.log
 """
@@ -62,6 +64,9 @@ def start_server(args, log_path):
         "--gpu-memory-utilization", "0.90",
         "--port", str(PORT),
         "--seed", "0",
+        # 모델의 generation_config.json(repetition_penalty 1.05 등)이 서버 기본값을 덮어쓰지 않게 한다 —
+        # 품질 평가(오프라인 vLLM)와 같은 생성 설정으로 재야 한다
+        "--generation-config", "vllm",
     ]
     if args.quantization:
         cmd += ["--quantization", args.quantization]
@@ -127,12 +132,12 @@ async def one_request(client, messages, args):
     }
 
 
-async def run_level(client, prompts, concurrency, num_requests, args):
+async def run_level(client, prompts, concurrency, num_requests, offset, args):
     sem = asyncio.Semaphore(concurrency)
 
     async def bounded(i):
         async with sem:
-            return await one_request(client, prompts[i % len(prompts)], args)
+            return await one_request(client, prompts[(offset + i) % len(prompts)], args)
 
     start = time.perf_counter()
     results = await asyncio.gather(*(bounded(i) for i in range(num_requests)))
@@ -167,10 +172,16 @@ async def benchmark(args, prompts):
     # 첫 요청은 컴파일·캐시 워밍업이 섞여 느리다 — 측정에서 뺀다
     await asyncio.gather(*(one_request(client, prompts[i], args) for i in range(2)))
 
+    # 단계마다 이어지는 대화를 쓴다. 같은 대화를 다시 보내면 prefix cache가 prefill을 건너뛰어
+    # TTFT·처리량이 실제보다 좋게 나온다 (공통 시스템 프롬프트 캐시는 실제 서비스에도 있으므로 유지).
+    # 2 + 4 + 8 + 16 + 32 + 64 = 126건 중 마지막 6건만 대화 120건을 한 바퀴 돌아 재사용된다.
+    offset = 2
     levels = []
     for c in args.concurrency:
-        # 동시 요청 수의 2배(최소 8건)를 보내야 큐가 한동안 꽉 찬 상태가 유지된다
-        level = await run_level(client, prompts, c, max(8, 2 * c), args)
+        # 동시 요청 수의 2배(최소 4건)를 보내야 큐가 한동안 꽉 찬 상태가 유지된다
+        n = max(4, 2 * c)
+        level = await run_level(client, prompts, c, n, offset, args)
+        offset += n
         print(json.dumps(level, ensure_ascii=False))
         levels.append(level)
     return levels

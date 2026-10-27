@@ -153,6 +153,64 @@ JSON으로 생성하는 소형 LLM을 직접 학습(SFT)하고, vLLM으로 서�
 
 ROUGE는 단어 겹침만 보므로, 환각 여부는 대표 사례를 직접 확인한다.
 
+## 서빙 벤치마크 (vLLM 0.32, T4, SFT 3B) — `kaggle/03_serving_bench.py`
+
+`vllm serve`로 실제 OpenAI 호환 서버를 띄우고, 비동기 스트리밍 클라이언트로 동시 요청 수를 1→32로 늘리며
+측정했다. 입력은 테스트 대화(평균 약 1,700토큰), 출력 최대 1,024토큰, temperature 0, frequency_penalty 0.4.
+
+| 설정 | 가중치 메모리 | KV 캐시 | 동시 1: TPOT | 동시 1: E2E | 동시 32: TPOT | 동시 32: 출력 tok/s | 동시 32: E2E p50 |
+|---|---|---|---|---|---|---|---|
+| FP16, T4×1 | 5.8 GB | 188k 토큰 | 35 ms | 22.7 s | 123 ms | 220 | 80 s |
+| FP16, T4×1, JSON 스키마 강제 | 5.8 GB | 188k | 35 ms | 18.1 s | 129 ms | 210 | 68 s |
+| FP16, T4×2 (Tensor Parallel) | 2.9 GB/GPU | 543k | **17 ms** | **10.9 s** | **68 ms** | **388** | **46 s** |
+| AWQ 4bit, T4×1 ‡ | **2.0 GB** | 287k | **14 ms** | – | 120 ms | 242 | – |
+
+TPOT = 첫 토큰 이후 토큰 하나당 시간, E2E = 진료기록 한 건 완성까지 걸린 시간.
+‡ 우리 SFT 모델이 아니라 같은 구조의 공식 `Qwen2.5-3B-Instruct-AWQ`(학습 전)로 잰 **속도 참고값**. 출력 길이가
+달라(평균 369 vs 660토큰) E2E는 비교하지 않는다.
+
+관찰
+- **동시 처리의 효과**: T4 1장에서 요청 하나는 28 tok/s지만 32개를 묶으면 220 tok/s(8배). 대신 토큰당 시간이
+  3.5배로 늘어 한 건이 80초 걸린다. 진료기록 한 건을 30초 안에 받는 것을 기준으로 하면 T4 1장은 동시 8건
+  (E2E p50 29 s)이 적정 → API의 동시 처리 상한(`MAX_INFLIGHT`)을 이 값으로 정한다.
+- **Tensor Parallel(GPU 2장)**: 3B 모델인데도 토큰당 시간이 절반(35→17 ms), 최대 처리량 1.8배. 가중치를 나눠
+  GPU마다 남는 메모리가 커져 KV 캐시가 2.9배(동시 처리 여력 23→66건)가 된 것이 크다.
+- **4bit 양자화(AWQ)**: 가중치 3배 축소, 동시 1건에서는 토큰당 2.5배 빠르다(디코딩은 가중치를 읽는 속도가
+  병목이라 읽을 양이 줄면 빨라진다). 하지만 동시 32건에서는 차이가 사라진다(120 vs 123 ms) — 많이 묶으면
+  계산이 병목이 되고, T4에는 4bit 행렬곱 전용 하드웨어가 없어 압축을 푸는 비용이 붙는다.
+  → **4bit는 지연 시간·메모리용이지 T4의 최대 처리량용이 아니다.**
+- **JSON 스키마 강제 비용**: 토큰당 0~5% 느려질 뿐이다. 출력이 섹션 제목 없이 짧아져 E2E는 오히려 줄었다.
+
+측정 방법 메모 (같은 실수를 하지 않도록)
+- vLLM 0.32에는 bitsandbytes 양자화가 빠졌다. `int8_per_channel_weight_only`는 일반 모델에서 로그에
+  "Quantizing 0 layers"가 찍히며 **아무 층도 양자화하지 않는다**(메모리 5.79 GB 그대로). 이 설정으로 돌린
+  품질 평가는 사실상 FP16 재실행이라, 같은 설정을 두 번 돌린 편차(ROUGE-1 55.5 vs 55.1)를 확인하는 용도로만 쓴다.
+- 위 표는 1차 측정이다. 두 가지를 고쳐 재측정한다:
+  (1) 단계마다 같은 대화를 다시 보내 prefix cache가 prefill을 건너뛰었다(로그상 적중률 50~70%) → TTFT·처리량이
+  실제보다 좋게 나왔을 수 있다. 단계마다 새 대화를 쓰도록 수정.
+  (2) `vllm serve`가 모델의 `generation_config.json`(repetition_penalty 1.05)을 기본값으로 썼다 →
+  `--generation-config vllm`으로 품질 평가와 생성 설정을 맞춘다.
+
+## API 서버 — `service/`
+
+모델 서버와는 OpenAI 호환 API로만 통신해서, 같은 코드로 vLLM(GPU)과 llama.cpp(CPU)를 환경변수만 바꿔 쓴다.
+
+| 엔드포인트 | 내용 |
+|---|---|
+| `POST /v1/notes` | 대화 → 4구역 JSON 진료기록. 스키마 강제 + pydantic 검증, 출력이 잘려 JSON이 깨지면 반복 벌점을 올려 1회 재시도 |
+| `POST /v1/notes/stream` | 같은 생성을 SSE로 토큰 단위 스트리밍, 마지막에 검증 결과(`done`/`error`) 이벤트. 사용자가 연결을 끊으면 모델 서버 생성도 중단 |
+| `GET /health` | 모델 서버 연결 확인 |
+| `GET /metrics` | 요청·실패·재시도·거절 수, 처리 중 요청 수, 지연 p50/p95 |
+
+- **과부하 보호**: 동시 처리 상한(`MAX_INFLIGHT`)을 넘는 요청은 API 앞에서 기다리고, `QUEUE_TIMEOUT_S` 안에
+  자리가 안 나면 503 + `Retry-After`로 바로 거절한다. 모델 서버 대기열이 끝없이 길어져 모든 요청이 느려지는 것을 막는다.
+- **입력 검증**: 너무 짧거나(422) 문맥 길이를 넘는 대화(413)는 모델 서버까지 보내지 않는다.
+- **테스트** (`tests/test_service.py`, 8개): 실제 OpenAI 클라이언트 코드 경로를 그대로 타고, 네트워크만 가짜 모델
+  서버로 바꿔 정상 생성, 잘린 JSON 재시도, 두 번 실패 시 502, 모델 서버 오류, 입력 검증, 스트리밍, health를 확인한다.
+- **배포**: `service/Dockerfile`(API 이미지, 모델 미포함), `docker-compose.yml`
+  (`--profile cpu` = llama.cpp + GGUF, `--profile gpu` = vLLM).
+- **부하 테스트**: `service/loadtest.py` — API 계층(검증·재시도·대기열)까지 포함한 실제 서비스 경로를 동시 사용자 수별로 잰다.
+
 ## 계획
 
 | 단계 | 내용 | 상태 |
@@ -160,8 +218,8 @@ ROUGE는 단어 겹침만 보므로, 환각 여부는 대표 사례를 직접 �
 | 0 | Kaggle T4에서 vLLM 동작 확인 (`kaggle/00_vllm_smoke_test.py`) — FA2 미지원으로 TRITON_ATTN 자동 선택 | ✅ |
 | 1 | 출력 스키마·평가 파이프라인, 프롬프트 기준선 측정 | ✅ |
 | 2 | QLoRA SFT (`src/build_sft_data.py`, `kaggle/02_sft.py`) + 반복 억제 디코딩 탐색 — ROUGE-1 55.5 (GPT-4 51.1) | ✅ |
-| 3 | vLLM 서빙 벤치마크 (FP16 vs 4bit, 동시 요청, Tensor Parallel, structured output) | |
-| 4 | FastAPI 비동기 API + Docker + 부하 테스트 | |
+| 3 | vLLM 서빙 벤치마크 (FP16 vs 4bit, 동시 요청, Tensor Parallel, structured output) — 1차 완료, 측정 보정 후 재측정 | 진행 중 |
+| 4 | FastAPI 비동기 API + Docker + 부하 테스트 — API·테스트 완료, CPU(llama.cpp) 실행 확인 중 | 진행 중 |
 | 5 | (여유 시) DPO로 환각 감소 / 합성 데이터(MedSynth) 보강 실험 | |
 
 ## 한계

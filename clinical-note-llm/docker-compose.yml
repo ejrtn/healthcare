@@ -1,0 +1,49 @@
+# API + 모델 서버를 한 번에 띄운다. 모델 서버는 프로필로 고른다 — API 코드는 그대로다.
+#
+#   CPU (llama.cpp, GGUF):  docker compose --profile cpu up
+#   GPU (vLLM, safetensors): docker compose --profile gpu up
+#
+# 모델 파일은 ./models에 둔다.
+#   CPU: models/note-model-q4_k_m.gguf    (kaggle/05_export_gguf.py로 변환)
+#   GPU: models/merged/                    (kaggle/02_sft.py --merge-only 결과)
+
+services:
+  api-cpu:
+    profiles: [cpu]
+    build: {context: ., dockerfile: service/Dockerfile}
+    ports: ["8080:8080"]
+    environment:
+      LLM_BASE_URL: http://llm-cpu:8000/v1
+      MAX_INFLIGHT: "2"          # CPU는 동시 처리 여력이 작다 — llama-server --parallel과 맞춘다
+      QUEUE_TIMEOUT_S: "120"
+    depends_on: [llm-cpu]
+
+  llm-cpu:
+    profiles: [cpu]
+    image: ghcr.io/ggml-org/llama.cpp:server
+    volumes: ["./models:/models:ro"]
+    command: >
+      -m /models/note-model-q4_k_m.gguf --alias note-model
+      --host 0.0.0.0 --port 8000 --ctx-size 16384 --parallel 2 --jinja
+
+  api-gpu:
+    profiles: [gpu]
+    build: {context: ., dockerfile: service/Dockerfile}
+    ports: ["8080:8080"]
+    environment:
+      LLM_BASE_URL: http://llm-gpu:8000/v1
+      MAX_INFLIGHT: "16"         # 서빙 벤치마크에서 T4 1장 기준 처리량이 꺾이기 시작하는 지점
+    depends_on: [llm-gpu]
+
+  llm-gpu:
+    profiles: [gpu]
+    image: vllm/vllm-openai:latest
+    volumes: ["./models:/models:ro"]
+    command: >
+      --model /models/merged --served-model-name note-model --dtype float16
+      --max-model-len 8192 --generation-config vllm
+    deploy:
+      resources:
+        reservations:
+          devices: [{driver: nvidia, count: all, capabilities: [gpu]}]
+    ipc: host
