@@ -7,7 +7,7 @@
 Kaggle 실행 (GPU T4 x2, Internet On). vLLM 엔진이 GPU 메모리를 확실히 돌려주도록
 실행마다 별도 프로세스로 띄운다:
     !pip install -q vllm rouge-score==0.1.2 && pip uninstall -y -q torchaudio
-    !git clone -q https://github.com/ejrtn/healthcare.git
+    !git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git
     %cd healthcare/clinical-note-llm
     !python kaggle/01_baseline.py --model Qwen/Qwen2.5-3B-Instruct --mode text
     !python kaggle/01_baseline.py --model Qwen/Qwen2.5-3B-Instruct --mode json
