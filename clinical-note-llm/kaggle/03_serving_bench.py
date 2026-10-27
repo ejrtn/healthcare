@@ -108,6 +108,7 @@ async def one_request(client, messages, args):
     n_tokens = 0
     stream = await client.chat.completions.create(
         model=SERVED_NAME, messages=messages, temperature=0, max_tokens=args.max_tokens,
+        frequency_penalty=args.frequency_penalty,
         stream=True, stream_options={"include_usage": True}, **extra,
     )
     async for chunk in stream:
@@ -183,6 +184,8 @@ def main():
     ap.add_argument("--json", action="store_true", help="JSON 스키마 강제(structured output)")
     ap.add_argument("--concurrency", type=int, nargs="+", default=[1, 4, 8, 16, 32])
     ap.add_argument("--max-tokens", type=int, default=1024)
+    # 품질 평가에서 고른 반복 억제 값 — 서비스와 같은 설정으로 잰다
+    ap.add_argument("--frequency-penalty", type=float, default=0.4)
     ap.add_argument("--startup-timeout", type=int, default=900)
     args = ap.parse_args()
 
@@ -207,7 +210,7 @@ def main():
     result = {
         "config": {"model": args.model, "tag": args.tag, "tp": args.tp,
                    "quantization": args.quantization or "none", "json": args.json,
-                   "max_tokens": args.max_tokens},
+                   "max_tokens": args.max_tokens, "frequency_penalty": args.frequency_penalty},
         "server": parse_server_log(log_path),
         "levels": levels,
     }
