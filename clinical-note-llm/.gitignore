@@ -12,3 +12,8 @@ outputs/sft/*/
 
 __pycache__/
 .venv/
+
+# Kaggle에서 받은 압축 파일 / 압축 해제 임시 폴더
+*.zip
+sft_results/
+baseline_results/
