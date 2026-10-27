@@ -13,7 +13,7 @@ ROUGE(같은 디코딩, frequency_penalty 0.4) + 근거 검사(`src/faithfulness
 %cd /kaggle/working
 !git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git || (cd healthcare && git pull -q)
 %cd /kaggle/working/healthcare/clinical-note-llm
-!pip install -q trl peft bitsandbytes
+!pip install -q trl peft bitsandbytes && pip uninstall -y -q torchao  # 낡은 torchao(0.10)가 있으면 peft 병합이 실패한다
 ```
 
 ```python
