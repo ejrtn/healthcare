@@ -75,3 +75,30 @@ temperature 0에서도 같은 자리가 빠졌다(43/62). 틀린 표기가 나�
 
 읽는 법: vllm에서 `decode_mismatch`가 true면 출력 변환 문제. hf-gpu-fp16도 틀리고 hf-cpu-bf16은 맞으면 FP16 정밀도 문제.
 셋 다 틀리면 모델 자체의 버릇.
+
+## 4차: 처음 보는 판례 99건으로 최종 평가 (약 15분, GPU)
+
+프롬프트·후처리 규칙은 모두 `cases.json` 62건 점수를 보며 정했다. 그 점수가 62건에 맞춘 값일 수 있어서, 같은 조건으로
+새로 모은 판례(`data/heldout_cases.json`, 10개 분야, 기존과 겹침 0건)로 **아무것도 바꾸지 않고 한 번만** 평가한다.
+
+```python
+# 셀 1: 코드 + vLLM — 끝나면 Run → Restart & clear cell outputs
+%cd /kaggle/working
+!git clone -q -b lawsum https://github.com/ejrtn/healthcare.git healthcare-lawsum || (cd healthcare-lawsum && git pull -q)
+!pip install -q vllm && pip uninstall -y -q torchaudio torchao
+```
+
+```python
+# 셀 2: A.X(최종 설정)와 Llama(비교) — temperature 0
+import os
+from kaggle_secrets import UserSecretsClient
+os.environ["HF_TOKEN"] = UserSecretsClient().get_secret("HF_TOKEN")
+%cd /kaggle/working/healthcare-lawsum/lawsum
+!git pull -q
+!python kaggle_summarize.py --cases data/heldout_cases.json --model skt/A.X-4.0-Light --tag heldout-ax-4.0-light-t0 --temperature 0
+!python kaggle_summarize.py --cases data/heldout_cases.json --model meta-llama/Llama-3.1-8B-Instruct --tag heldout-llama-3.1-8b-t0 --temperature 0
+!zip -q /kaggle/working/lawsum_heldout.zip data/summarized_heldout-*.json data/run_heldout-*.json
+!ls -la /kaggle/working/lawsum_heldout.zip
+```
+
+로컬 채점: 원문 대조 보정(`check_citations.py --fix`) → `evaluate.py --baseline data/heldout_baseline.json`

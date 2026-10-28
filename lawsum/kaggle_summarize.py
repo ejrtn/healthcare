@@ -41,11 +41,12 @@ def main():
     # summarize.py와 같은 0.2가 기본. A.X는 숫자를 한 자리씩 토큰으로 나눠, 0.2로 샘플링하면 연도·사건번호를
     # 옮기다 한 자리를 빠뜨리는 일이 잦았다(check_citations.py) → 0(항상 가장 확률 높은 토큰)과 비교한다
     ap.add_argument("--temperature", type=float, default=0.2)
+    ap.add_argument("--cases", default="data/cases.json", help="평가 전용 새 판례: data/heldout_cases.json")
     args = ap.parse_args()
 
     from vllm import LLM, SamplingParams
 
-    with open("data/cases.json", encoding="utf-8") as f:
+    with open(args.cases, encoding="utf-8") as f:
         cases = [c for c in json.load(f) if strip_html(c.get("판례내용"))]
     texts = [strip_html(c["판례내용"]) for c in cases]
 

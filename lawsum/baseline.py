@@ -2,6 +2,7 @@
 AI 요약이 공식 판결요지와 유사도 0.477이 나왔을 때, 이게 "잘한 건지"를
 판단하려면 비교 기준이 있어야 한다 — 이 베이스라인이 그 기준이다.
 LLM 비용 없이 요약 효과가 얼마나 되는지 수치로 보여준다."""
+import argparse
 import json
 import re
 
@@ -17,7 +18,11 @@ def lead_n_sentences(text, n=3):
 
 
 def main():
-    with open("data/cases.json", encoding="utf-8") as f:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--cases", default="data/cases.json", help="평가 전용 새 판례: data/heldout_cases.json")
+    ap.add_argument("--out", default="data/baseline.json")
+    args = ap.parse_args()
+    with open(args.cases, encoding="utf-8") as f:
         cases = json.load(f)
 
     results = []
@@ -31,10 +36,10 @@ def main():
             "baseline_summary": baseline_summary,
         })
 
-    with open("data/baseline.json", "w", encoding="utf-8") as f:
+    with open(args.out, "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
 
-    print(f"완료: {len(results)}건 -> data/baseline.json (LLM 호출 없음, 수 초 내 완료)")
+    print(f"완료: {len(results)}건 -> {args.out} (LLM 호출 없음, 수 초 내 완료)")
 
 
 if __name__ == "__main__":

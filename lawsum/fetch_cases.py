@@ -24,34 +24,40 @@ def is_usable(r):
     return r.get("데이터출처명") == "대법원" and r.get("판결유형") == "판결"
 
 
-cases = {}  # 판례일련번호 -> 메타정보 (중복 제거용)
-for kw in KEYWORDS:
-    results = search_cases(kw, display=PER_KEYWORD * OVERFETCH)
-    usable = [r for r in results if is_usable(r)][:PER_KEYWORD]
-    for r in usable:
-        cid = r.get("판례일련번호")
-        if cid and cid not in cases:
-            cases[cid] = {"keyword": kw, "사건명": r.get("사건명"), "법원명": r.get("법원명")}
-    print(f"'{kw}': {len(results)}건 검색 중 대법원·판결 {len(usable)}건 채택, 누적 고유 판례 {len(cases)}건")
-    time.sleep(0.5)
+def main():
+    # fetch_heldout.py가 KEYWORDS·is_usable만 가져다 쓸 때 수집이 다시 돌아 cases.json을 덮어쓰지 않도록 함수로 감싼다
+    cases = {}  # 판례일련번호 -> 메타정보 (중복 제거용)
+    for kw in KEYWORDS:
+        results = search_cases(kw, display=PER_KEYWORD * OVERFETCH)
+        usable = [r for r in results if is_usable(r)][:PER_KEYWORD]
+        for r in usable:
+            cid = r.get("판례일련번호")
+            if cid and cid not in cases:
+                cases[cid] = {"keyword": kw, "사건명": r.get("사건명"), "법원명": r.get("법원명")}
+        print(f"'{kw}': {len(results)}건 검색 중 대법원·판결 {len(usable)}건 채택, 누적 고유 판례 {len(cases)}건")
+        time.sleep(0.5)
 
-print(f"\n총 {len(cases)}건 상세 조회 시작...")
-full_cases = []
-for i, (cid, meta) in enumerate(cases.items(), 1):
-    try:
-        detail = get_case_detail(cid)
-        if not (detail.get("판례내용") or "").strip() or not (detail.get("판결요지") or "").strip():
-            print(f"[{i}/{len(cases)}] 본문/판결요지 없음, 건너뜀: {meta['사건명'][:30]}")
-            continue
-        detail["_keyword"] = meta["keyword"]
-        detail["_판례일련번호"] = cid
-        full_cases.append(detail)
-        print(f"[{i}/{len(cases)}] {meta['사건명'][:40]}")
-    except Exception as e:
-        print(f"[{i}/{len(cases)}] 실패 ({cid}): {e}")
-    time.sleep(0.5)
+    print(f"\n총 {len(cases)}건 상세 조회 시작...")
+    full_cases = []
+    for i, (cid, meta) in enumerate(cases.items(), 1):
+        try:
+            detail = get_case_detail(cid)
+            if not (detail.get("판례내용") or "").strip() or not (detail.get("판결요지") or "").strip():
+                print(f"[{i}/{len(cases)}] 본문/판결요지 없음, 건너뜀: {meta['사건명'][:30]}")
+                continue
+            detail["_keyword"] = meta["keyword"]
+            detail["_판례일련번호"] = cid
+            full_cases.append(detail)
+            print(f"[{i}/{len(cases)}] {meta['사건명'][:40]}")
+        except Exception as e:
+            print(f"[{i}/{len(cases)}] 실패 ({cid}): {e}")
+        time.sleep(0.5)
 
-with open("data/cases.json", "w", encoding="utf-8") as f:
-    json.dump(full_cases, f, ensure_ascii=False, indent=2)
+    with open("data/cases.json", "w", encoding="utf-8") as f:
+        json.dump(full_cases, f, ensure_ascii=False, indent=2)
 
-print(f"\n완료: {len(full_cases)}건 -> data/cases.json")
+    print(f"\n완료: {len(full_cases)}건 -> data/cases.json")
+
+
+if __name__ == "__main__":
+    main()

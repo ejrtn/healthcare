@@ -21,10 +21,11 @@ def main():
     ap.add_argument("--summarized", default="data/summarized.json",
                     help="요약 결과 (Kaggle GPU 모델 비교: data/summarized_<모델>.json)")
     ap.add_argument("--out", default="data/evaluated.json")
+    ap.add_argument("--baseline", default="data/baseline.json", help="같은 판례로 만든 Lead-3 결과")
     args = ap.parse_args()
     with open(args.summarized, encoding="utf-8") as f:
         ai_cases = json.load(f)
-    with open("data/baseline.json", encoding="utf-8") as f:
+    with open(args.baseline, encoding="utf-8") as f:
         baseline_by_id = {b["_판례일련번호"]: b["baseline_summary"] for b in json.load(f)}
 
     model = SentenceTransformer("jhgan/ko-sroberta-multitask")
