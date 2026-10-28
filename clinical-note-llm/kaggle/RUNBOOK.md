@@ -197,7 +197,8 @@ M = "outputs/sft/qwen3b-r16-chart3/merged"
 같은 세션에서 **영어 중심 모델 Llama-3.2-3B-Instruct**도 같은 데이터·설정으로 학습해 비교한다. Qwen2.5는 중국어·영어
 중심의 다국어 모델이고, Llama 3.2는 영어 중심이다. 크기(3B)가 같아 모델 계열 차이만 본다. 전체 약 2.5시간.
 
-준비: Hugging Face에서 meta-llama/Llama-3.2-3B-Instruct 페이지의 라이선스 동의, Kaggle Secrets에 `HF_TOKEN`.
+준비: 없음. meta-llama 원본은 접근 승인이 필요해 403이 났으므로, 같은 가중치의 공개 복사본 `unsloth/Llama-3.2-3B-Instruct`를 쓴다.
+Qwen 결과는 이미 있으므로 **셀 1 → 2-L → 3(재시작) → 4-L → 5**만 실행한다(약 1시간 반).
 
 ```python
 # 셀 1: 코드 + 학습 라이브러리 + HF 로그인(Llama는 동의한 계정만 받을 수 있다)
@@ -219,7 +220,7 @@ os.environ["HF_TOKEN"] = UserSecretsClient().get_secret("HF_TOKEN")
 ```python
 # 셀 2-L: Llama 학습(약 30분) → 병합
 %cd /kaggle/working/healthcare/clinical-note-llm
-L = "meta-llama/Llama-3.2-3B-Instruct"
+L = "unsloth/Llama-3.2-3B-Instruct"  # meta-llama 원본과 같은 가중치, 승인 없이 받는 공개 복사본
 !torchrun --nproc_per_node 2 kaggle/02_sft.py --model {L} --run-name llama3b-r16-chart4 --data-dir data/sft_chart --max-length 5200 && python kaggle/02_sft.py --model {L} --run-name llama3b-r16-chart4 --merge-only
 ```
 
@@ -244,7 +245,7 @@ M = "outputs/sft/qwen3b-r16-chart4/merged"
 import os
 from kaggle_secrets import UserSecretsClient
 os.environ["HF_TOKEN"] = UserSecretsClient().get_secret("HF_TOKEN")
-L, M = "meta-llama/Llama-3.2-3B-Instruct", "outputs/sft/llama3b-r16-chart4/merged"
+L, M = "unsloth/Llama-3.2-3B-Instruct", "outputs/sft/llama3b-r16-chart4/merged"
 !python kaggle/01_baseline.py --model {L} --mode json --group baseline --tag Llama-3.2-3B-Instruct-chart4-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
 !python kaggle/01_baseline.py --model {M} --mode json --group sft --tag llama3b-r16-chart4-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
 !python kaggle/01_baseline.py --model {M} --mode json --group sft --tag llama3b-r16-chart4-strict-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart --chart-field chart_text_strict
