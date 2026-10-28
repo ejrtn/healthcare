@@ -60,19 +60,26 @@ def run_vllm(sources):
 def run_hf(sources, device, dtype_name):
     import torch
     from transformers import AutoModelForCausalLM, AutoTokenizer
+    import time
     dtype = {"fp16": torch.float16, "bf16": torch.bfloat16}[dtype_name]
     tok = AutoTokenizer.from_pretrained(MODEL)
-    model = AutoModelForCausalLM.from_pretrained(MODEL, dtype=dtype,
-                                                 device_map="auto" if device == "gpu" else "cpu")
+    kwargs = {"device_map": "auto" if device == "gpu" else "cpu"}
+    try:  # transformers 4.56 이후는 dtype=, 그 전 버전은 torch_dtype= (Kaggle 기본 설치 버전이 바뀔 수 있다)
+        model = AutoModelForCausalLM.from_pretrained(MODEL, dtype=dtype, **kwargs)
+    except TypeError:
+        model = AutoModelForCausalLM.from_pretrained(MODEL, torch_dtype=dtype, **kwargs)
     rows = []
     for cid, src in sources.items():
+        start = time.perf_counter()
         inputs = tok.apply_chat_template(messages(src), add_generation_prompt=True, return_tensors="pt",
                                          return_dict=True).to(model.device)
         with torch.no_grad():
             out = model.generate(**inputs, max_new_tokens=CASES[cid], do_sample=False)
         text = tok.decode(out[0, inputs["input_ids"].shape[1]:], skip_special_tokens=True)
         rows.append({"id": cid, "source": src, "text": text})
-        print(cid, "done", flush=True)
+        # CPU는 느려서 중간에 멈출 수 있다 — 한 건 끝날 때마다 결과를 남긴다
+        missing = {k: v["missing"] for k, v in check(text, src).items() if v["missing"]}
+        print(f"{cid} 완료 {time.perf_counter() - start:.0f}초, 원문에 없는 표기: {missing}", flush=True)
     return rows
 
 
