@@ -59,7 +59,7 @@ def main():
     ap.add_argument("--quantization", help="vLLM 양자화 방식 (양자화 후 품질 확인용)")
     ap.add_argument("--chart-dir", help="data/chart: 입력을 '차트 + 대화'로 준다 (src/build_chart_data.py)")
     ap.add_argument("--chart-field", default="chart_text",
-                    help="chart_text: 나이·성별을 채운 차트(실제 EHR처럼) / chart_text_strict: 모르면 'not recorded'")
+                    help="chart_text: 나이·성별을 채운 차트(실제 EHR처럼) / chart_text_strict: 모르면 빈칸")
     args = ap.parse_args()
 
     from vllm import LLM, SamplingParams

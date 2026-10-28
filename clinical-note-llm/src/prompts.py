@@ -32,7 +32,8 @@ Each value contains the section headings and text. Use an empty string when ther
 
 CONVERSATION_RULE = "- Only include information stated in the conversation."
 CHART_RULE = ("- Only include information stated in the conversation or the patient chart. "
-              "Copy chart values exactly; never add a value that is in neither.")
+              "Copy chart values exactly; never add a value that is in neither. "
+              "An empty chart field means that information is not available.")
 
 CHART_FIELDS = [("name", "Name"), ("age", "Age"), ("sex", "Sex"), ("vitals", "Vital signs"),
                 ("prior_results", "Prior results"), ("history", "History"), ("medications", "Medications"),
@@ -42,14 +43,14 @@ CHART_FIELDS = [("name", "Name"), ("age", "Age"), ("sex", "Sex"), ("vitals", "Vi
 def render_chart(chart: dict) -> str:
     """차트 dict → 모델 입력용 텍스트. 모든 차트가 같은 항목을 같은 순서로 갖는다.
 
-    모르는 값은 줄을 빼지 않고 "not recorded"로 적는다. 줄을 빼면 차트에 나이가 없는 경우 모델이 정답 기록의
-    습관("NN-year-old")대로 나이를 지어냈다(차트 SFT 1차, 나이 없는 29건 중 16건) — "없으면 쓰지 않는다"를 입력에서 보여 준다.
+    모르는 값은 줄을 빼지 않고 이름만 남긴 채 비워 둔다("Age:"). 빈칸이 "없음"이라는 것은 학습 데이터의 짝으로 가르친다
+    (build_chart_data.blank_age_examples: 같은 대화에 나이 칸을 비우고 정답에서도 나이를 지운 예).
     """
     lines = []
     for key, label in CHART_FIELDS:
         value = chart.get(key)
         value = "; ".join(value) if isinstance(value, list) else (value or "")
-        lines.append(f"{label}: {value.strip() or 'not recorded'}")
+        lines.append(f"{label}: {value.strip()}".rstrip())
     return "\n".join(lines)
 
 

@@ -14,7 +14,7 @@
     추출 모델이 뽑은 값과 달라도 규칙 값을 쓴다 — 같은 데이터면 늘 같은 값이 나와야 하기 때문이다.
   - 그 밖의 항목: 대화가 가리키는데 차트에 없던 것만 더한다(add_mentioned, kaggle/09_complete_chart.py의 additions가
     있을 때). 정답 기록에 값이 있으면 그 값, 없으면 지어낸 값.
-채우지 않은 원래 차트(chart_text_strict, 모르면 "not recorded")는 "모르면 쓰지 않는가"를 보는 평가용으로 남긴다.
+채우지 않은 원래 차트(chart_text_strict, 모르면 빈칸)는 "모르면 쓰지 않는가"를 보는 평가용으로 남긴다.
 
     python src/build_chart_data.py
 
@@ -23,10 +23,11 @@
 """
 import json
 import re
+import zlib
 from collections import Counter
 from pathlib import Path
 
-from demographics import fill
+from demographics import DIALOGUE_INTRO, dialogue_ages, fill
 from evaluate import load_jsonl, parse_prediction
 from prompts import build_messages, render_chart
 
@@ -160,6 +161,30 @@ def sources():
     return src
 
 
+def said_age(dialogue, age):
+    """대화에서 환자 나이를 말했는가 ("i'm fifty years old", 의사의 소개 "karen is a 34 -year-old")."""
+    intro = DIALOGUE_INTRO.search(dialogue.lower())
+    return age in dialogue_ages(dialogue) or bool(intro and intro.group(3) == age)
+
+
+def blank_age_example(cid, chart, dialogue, target_json):
+    """나이 칸을 비우고 정답에서도 나이를 지운 짝 (chart_text, 정답 JSON 문자열). 만들 수 없으면 None.
+
+    학습 차트에 나이가 늘 있으면 모델은 빈 나이 칸을 본 적이 없어, 빈칸을 보고도 나이를 지어낸다(차트 2차 스트레스
+    테스트 15/29건). 같은 대화를 "나이 있음 → 씀", "빈칸 → 쓰지 않음" 두 가지로 보여 빈칸의 뜻을 가르친다.
+    대화에서 나이를 말한 사례는 빈칸이어도 기록에 나이를 써야 맞으므로 만들지 않는다. 나머지 중 사례 id로 절반을 고른다.
+    """
+    age = chart["age"]
+    if not age.isdigit() or zlib.crc32(cid.encode()) % 2 or said_age(dialogue, age):
+        return None
+    pattern = re.compile(rf"\b{age}(?:[- ]year[- ]old|\s?y\.\s?o\.|\s?y/o|[- ]yo)\b,? ?|\b(?:age|aged) {age}\b,? ?")
+    target = {k: pattern.sub("", v) for k, v in json.loads(target_json).items()}
+    target = {k: re.sub(r"\b([Aa])n (?=[b-df-hj-np-tv-z])", r"\1 ", v) for k, v in target.items()}  # "an 72-year-old woman"
+    if any(re.search(rf"\b{age}\s?-?\s?(?:years?\b|y\.?\s?/?o\b)", v) for v in target.values()):  # 못 지운 나이 표기
+        return None
+    return render_chart(chart | {"age": ""}), json.dumps(target, ensure_ascii=False)
+
+
 def main():
     stats = {}
     (ROOT / "data" / "sft_chart").mkdir(parents=True, exist_ok=True)
@@ -192,11 +217,19 @@ def main():
 
         if split in ("train", "valid"):
             with open(ROOT / "data" / "sft_chart" / f"{split}.jsonl", "w", encoding="utf-8") as f:
+                blank = 0
                 for r in rows:
                     dialogue, _, target_json = cases[r["id"]]
-                    messages = build_messages(dialogue, json_mode=True, chart_text=r["chart_text"])
-                    messages.append({"role": "assistant", "content": target_json})
-                    f.write(json.dumps({"id": r["id"], "messages": messages}, ensure_ascii=False) + "\n")
+                    pairs = [(r["id"], r["chart_text"], target_json)]
+                    extra = blank_age_example(r["id"], r["chart"], dialogue, target_json)
+                    if extra:
+                        pairs.append((r["id"] + "-blank-age", *extra))
+                        blank += 1
+                    for eid, chart_text, target in pairs:
+                        messages = build_messages(dialogue, json_mode=True, chart_text=chart_text)
+                        messages.append({"role": "assistant", "content": target})
+                        f.write(json.dumps({"id": eid, "messages": messages}, ensure_ascii=False) + "\n")
+                stats[split]["blank_age_examples"] = blank
 
     (ROOT / "results" / "chart_stats.json").write_text(json.dumps(stats, indent=2, ensure_ascii=False), encoding="utf-8")
     print(json.dumps(stats, indent=2, ensure_ascii=False))

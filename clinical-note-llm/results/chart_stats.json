@@ -20,7 +20,8 @@
       "age": 20,
       "sex": 6
     },
-    "empty_charts": 0
+    "empty_charts": 0,
+    "blank_age_examples": 19
   },
   "valid": {
     "cases": 20,
@@ -43,7 +44,8 @@
       "age": 6,
       "sex": 4
     },
-    "empty_charts": 0
+    "empty_charts": 0,
+    "blank_age_examples": 4
   },
   "test1": {
     "cases": 40,

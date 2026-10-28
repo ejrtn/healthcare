@@ -133,6 +133,49 @@ M = "outputs/sft/qwen3b-r16-chart2/merged"
 !ls -la /kaggle/working/round4c.zip
 ```
 
+### 4-D: 빈칸 = 없음을 가르친다 (약 1시간, 새 세션)
+
+4-C 결과: 차트의 나이 칸이 비어 있는 29건 중 15건에서 여전히 나이를 지어냈다. 학습 차트에는 나이가 항상 있어서 빈칸을
+본 적이 없기 때문이다. 이번에는 빈칸을 "not recorded" 대신 정말 비워 두고("Age:"), 학습 데이터에 짝을 23개 더했다.
+같은 대화를 놓고 나이 칸을 비운 차트와 나이를 지운 정답을 함께 넣는다(대화에서 나이를 말하지 않은 사례 중 절반,
+`build_chart_data.blank_age_example`). 목표: 빈칸 차트에서 지어낸 나이 15 → 0, 채운 차트 성능은 유지.
+
+```python
+# 셀 1: 코드 + 학습 라이브러리
+%cd /kaggle/working
+!git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git || (cd healthcare && git pull -q)
+%cd /kaggle/working/healthcare/clinical-note-llm
+!pip install -q trl peft bitsandbytes && pip uninstall -y -q torchao
+```
+
+```python
+# 셀 2: 학습(약 30분, 학습 예시 79 → 98건) → 병합
+%cd /kaggle/working/healthcare/clinical-note-llm
+!torchrun --nproc_per_node 2 kaggle/02_sft.py --run-name qwen3b-r16-chart3 --data-dir data/sft_chart --max-length 5200 && python kaggle/02_sft.py --run-name qwen3b-r16-chart3 --merge-only
+```
+
+```python
+# 셀 3: vLLM 설치 — 끝나면 Run → Restart & clear cell outputs
+!pip install -q vllm rouge-score==0.1.2 && pip uninstall -y -q torchaudio torchao
+```
+
+```python
+# 셀 4: 테스트 120건 — 채운 차트 / 빈칸 차트
+%cd /kaggle/working/healthcare/clinical-note-llm
+M = "outputs/sft/qwen3b-r16-chart3/merged"
+!python kaggle/01_baseline.py --model {M} --mode json --group sft --tag qwen3b-r16-chart3-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
+!python kaggle/01_baseline.py --model {M} --mode json --group sft --tag qwen3b-r16-chart3-strict-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart --chart-field chart_text_strict
+!python src/faithfulness.py outputs/sft/qwen3b-r16-chart3-fp0.4_json.jsonl --chart-dir data/chart --out results/faithfulness_chart3.json
+!python src/faithfulness.py outputs/sft/qwen3b-r16-chart3-strict-fp0.4_json.jsonl --chart-dir data/chart --chart-field chart_text_strict --out results/faithfulness_chart3_strict.json
+```
+
+```python
+# 셀 5: 결과 압축
+%cd /kaggle/working/healthcare/clinical-note-llm
+!zip -q -r /kaggle/working/round4d.zip outputs/sft/*chart3*.jsonl results/*chart3* outputs/sft/qwen3b-r16-chart3/train_stats.json
+!ls -la /kaggle/working/round4d.zip
+```
+
 ## 3차: DPO — "대화와 반대로 쓰기"·지어낸 사실 줄이기
 
 흐름: 2차 SFT 모델로 학습 대화마다 후보 8개 생성(vLLM) → 14B 판정 모델이 후보마다 "대화와 반대"·"대화에 없는 사실"을

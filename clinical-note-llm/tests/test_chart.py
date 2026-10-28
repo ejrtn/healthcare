@@ -1,4 +1,5 @@
 """차트 걸러내기·입력 만들기 테스트."""
+import json
 import sys
 from pathlib import Path
 
@@ -39,14 +40,24 @@ def test_drops_invented_and_leaked_items_but_keeps_spoken_ones():
 def test_failed_extraction_gives_empty_chart():
     c, dropped = clean_chart(None, NOTE)
     assert dropped == [("all", "extract_failed")]
-    assert render_chart(c).splitlines()[1] == "Age: not recorded" and render_chart(c).count("not recorded") == 8
+    assert render_chart(c).splitlines()[1] == "Age:" and all(line.endswith(":") for line in render_chart(c).splitlines())
 
 
 def test_every_chart_lists_all_fields():
     text = render_chart(chart(age="50", medications=["lisinopril", "Lasix"]))
-    assert text.splitlines() == ["Name: not recorded", "Age: 50", "Sex: not recorded", "Vital signs: not recorded",
-                                 "Prior results: not recorded", "History: not recorded",
-                                 "Medications: lisinopril; Lasix", "Allergies: not recorded"]
+    assert text.splitlines() == ["Name:", "Age: 50", "Sex:", "Vital signs:", "Prior results:", "History:",
+                                 "Medications: lisinopril; Lasix", "Allergies:"]
+
+
+def test_blank_age_pair_removes_age_from_answer():
+    from build_chart_data import blank_age_example
+    target = json.dumps({"subjective": "Martha Collins is an 72-year-old female with 50 mg lisinopril."})
+    cid = next(c for c in (f"D2N{i:03d}" for i in range(200)) if blank_age_example(c, chart(age="72"), "", target))
+    chart_text, answer = blank_age_example(cid, chart(age="72"), "", target)
+    assert chart_text.splitlines()[1] == "Age:"
+    assert json.loads(answer)["subjective"] == "Martha Collins is a female with 50 mg lisinopril."
+    # 대화에서 나이를 말했으면 빈칸이어도 기록에 써야 하므로 짝을 만들지 않는다
+    assert blank_age_example(cid, chart(age="72"), "[patient] i'm 72 years old", target) is None
 
 
 def test_chart_prompt():
