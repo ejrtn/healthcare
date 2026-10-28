@@ -47,3 +47,9 @@ def test_chart_prompt():
     assert plain[1]["content"] == DIALOGUE and CHART_RULE not in plain[0]["content"]
     assert CHART_RULE in with_chart[0]["content"]
     assert with_chart[1]["content"].startswith("PATIENT CHART\nAge: 50\n\nCONVERSATION\n")
+
+
+def test_placeholder_values_are_dropped():
+    c, dropped = clean_chart(chart(sex="N/A", allergies=["none mentioned", "No known allergies"]), NOTE, DIALOGUE)
+    assert c["sex"] == "" and c["allergies"] == ["No known allergies"]
+    assert dropped == [("none mentioned", "placeholder")]

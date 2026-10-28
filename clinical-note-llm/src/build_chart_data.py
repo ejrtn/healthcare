@@ -31,6 +31,13 @@ LEAK = re.compile(
     r"palpat\w*|auscultat\w*)\b", re.I)
 
 
+# 추출 모델이 빈칸 대신 써 넣은 말 ("N/A", "none mentioned"). "No known allergies"는 실제 정보라 남긴다
+PLACEHOLDER = re.compile(
+    r"^(?:n/?a|none|unknown|not (?:mentioned|specified|stated|documented|provided)|"
+    r"none (?:mentioned|reported|documented|specified)|no (?:specific )?allergies (?:mentioned|reported|documented))\.?$",
+    re.I)
+
+
 def numbers(text):
     return {int(n) for n in re.findall(r"\d+", text)}
 
@@ -38,6 +45,8 @@ def numbers(text):
 def keep(item, note_nums, dialogue_nums):
     """차트 항목 하나를 남길지. (남김 여부, 뺀 이유)"""
     nums = numbers(item)
+    if PLACEHOLDER.match(item.strip()):
+        return False, "placeholder"
     if LEAK.search(item):
         return False, "leak"
     if nums and not nums <= note_nums:
@@ -62,7 +71,8 @@ def clean_chart(chart, note, dialogue):
     out["name"] = chart.get("name", "") if chart.get("name", "") and chart["name"] in note else ""
     age = chart.get("age", "")
     out["age"] = age if age and numbers(age) and numbers(age) <= note_nums and not numbers(age) <= dialogue_nums else ""
-    out["sex"] = chart.get("sex", "")
+    sex = chart.get("sex", "")
+    out["sex"] = "" if PLACEHOLDER.match(sex.strip()) else sex
     return out, dropped
 
 

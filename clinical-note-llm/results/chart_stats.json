@@ -1,0 +1,99 @@
+{
+  "train": {
+    "cases": 79,
+    "kept": {
+      "vitals": 34,
+      "prior_results": 92,
+      "history": 217,
+      "medications": 73,
+      "allergies": 40,
+      "name": 52,
+      "age": 18
+    },
+    "dropped": {
+      "leak": 6,
+      "placeholder": 10,
+      "in_dialogue": 152,
+      "not_in_note": 9,
+      "extract_failed": 1
+    },
+    "empty_charts": 1
+  },
+  "valid": {
+    "cases": 20,
+    "kept": {
+      "history": 47,
+      "medications": 17,
+      "name": 14,
+      "prior_results": 18,
+      "vitals": 13,
+      "age": 6,
+      "allergies": 5
+    },
+    "dropped": {
+      "leak": 4,
+      "in_dialogue": 29,
+      "placeholder": 4,
+      "not_in_note": 2
+    },
+    "empty_charts": 0
+  },
+  "test1": {
+    "cases": 40,
+    "kept": {
+      "history": 105,
+      "medications": 30,
+      "name": 29,
+      "prior_results": 19,
+      "allergies": 18,
+      "vitals": 17,
+      "age": 16
+    },
+    "dropped": {
+      "in_dialogue": 63,
+      "placeholder": 5,
+      "extract_failed": 2,
+      "leak": 2,
+      "not_in_note": 1
+    },
+    "empty_charts": 2
+  },
+  "test2": {
+    "cases": 40,
+    "kept": {
+      "prior_results": 33,
+      "history": 97,
+      "medications": 33,
+      "allergies": 13,
+      "name": 26,
+      "vitals": 15,
+      "age": 9
+    },
+    "dropped": {
+      "in_dialogue": 86,
+      "leak": 5,
+      "placeholder": 9,
+      "not_in_note": 1
+    },
+    "empty_charts": 0
+  },
+  "test3": {
+    "cases": 40,
+    "kept": {
+      "prior_results": 33,
+      "history": 110,
+      "medications": 36,
+      "allergies": 17,
+      "name": 26,
+      "age": 10,
+      "vitals": 14
+    },
+    "dropped": {
+      "leak": 6,
+      "in_dialogue": 60,
+      "placeholder": 8,
+      "extract_failed": 1
+    },
+    "empty_charts": 1
+  }
+}
