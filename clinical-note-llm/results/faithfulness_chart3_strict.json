@@ -1,0 +1,946 @@
+{
+  "gold": {
+    "cases": 120,
+    "numbers_total": 904,
+    "unsupported_numbers": 41,
+    "unsupported_number_rate": 4.5,
+    "cases_with_unsupported_number": 27,
+    "cases_with_unsupported_test": 0,
+    "cases_with_invented_age": 0
+  },
+  "systems": {
+    "outputs/sft/qwen3b-r16-chart3-strict-fp0.4_json.jsonl": {
+      "summary": {
+        "cases": 120,
+        "numbers_total": 563,
+        "unsupported_numbers": 31,
+        "unsupported_number_rate": 5.5,
+        "cases_with_unsupported_number": 22,
+        "cases_with_unsupported_test": 0,
+        "cases_with_invented_age": 11
+      },
+      "per_case": [
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N088"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N089"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N090"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N091"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 1,
+          "id": "D2N092"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N093"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N094"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 5,
+          "id": "D2N095"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 1,
+          "id": "D2N096"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N097"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 1,
+          "id": "D2N098"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N099"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N100"
+        },
+        {
+          "unsupported_numbers": [
+            "1792"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N101"
+        },
+        {
+          "unsupported_numbers": [
+            "1000"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 8,
+          "id": "D2N102"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 8,
+          "id": "D2N103"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 1,
+          "id": "D2N104"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 7,
+          "id": "D2N105"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 1,
+          "id": "D2N106"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 0,
+          "id": "D2N107"
+        },
+        {
+          "unsupported_numbers": [
+            "5"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N108"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N109"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 0,
+          "id": "D2N110"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 10,
+          "id": "D2N111"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 9,
+          "id": "D2N112"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [
+            "45",
+            "45"
+          ],
+          "numbers_total": 4,
+          "id": "D2N113"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 1,
+          "id": "D2N114"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N115"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N116"
+        },
+        {
+          "unsupported_numbers": [
+            "1000"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N117"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [
+            "45",
+            "45"
+          ],
+          "numbers_total": 0,
+          "id": "D2N118"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [
+            "32"
+          ],
+          "numbers_total": 4,
+          "id": "D2N119"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N120"
+        },
+        {
+          "unsupported_numbers": [
+            "125"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [
+            "60"
+          ],
+          "numbers_total": 7,
+          "id": "D2N121"
+        },
+        {
+          "unsupported_numbers": [
+            "30"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [
+            "50"
+          ],
+          "numbers_total": 3,
+          "id": "D2N122"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N123"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N124"
+        },
+        {
+          "unsupported_numbers": [
+            "100"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 1,
+          "id": "D2N125"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 0,
+          "id": "D2N126"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N127"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N128"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N129"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N130"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 5,
+          "id": "D2N131"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N132"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N133"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N134"
+        },
+        {
+          "unsupported_numbers": [
+            "180",
+            "9"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N135"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 5,
+          "id": "D2N136"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 1,
+          "id": "D2N137"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 8,
+          "id": "D2N138"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 15,
+          "id": "D2N139"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 5,
+          "id": "D2N140"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 16,
+          "id": "D2N141"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 15,
+          "id": "D2N142"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 0,
+          "id": "D2N143"
+        },
+        {
+          "unsupported_numbers": [
+            "10"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 9,
+          "id": "D2N144"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 0,
+          "id": "D2N145"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N146"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N147"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N148"
+        },
+        {
+          "unsupported_numbers": [
+            "6"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 5,
+          "id": "D2N149"
+        },
+        {
+          "unsupported_numbers": [
+            "115"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N150"
+        },
+        {
+          "unsupported_numbers": [
+            "1000",
+            "1000"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 13,
+          "id": "D2N151"
+        },
+        {
+          "unsupported_numbers": [
+            "6",
+            "15"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N152"
+        },
+        {
+          "unsupported_numbers": [
+            "2.5"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N153"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N154"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N155"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [
+            "65"
+          ],
+          "numbers_total": 4,
+          "id": "D2N156"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 11,
+          "id": "D2N157"
+        },
+        {
+          "unsupported_numbers": [
+            "1000",
+            "1000"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 8,
+          "id": "D2N158"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N159"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N160"
+        },
+        {
+          "unsupported_numbers": [
+            "911"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N161"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 0,
+          "id": "D2N162"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 8,
+          "id": "D2N163"
+        },
+        {
+          "unsupported_numbers": [
+            "12.5"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N164"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N165"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 7,
+          "id": "D2N166"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N167"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N168"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 0,
+          "id": "D2N169"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N170"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N171"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 5,
+          "id": "D2N172"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 5,
+          "id": "D2N173"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N174"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 8,
+          "id": "D2N175"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N176"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 5,
+          "id": "D2N177"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 12,
+          "id": "D2N178"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 1,
+          "id": "D2N179"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 0,
+          "id": "D2N180"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N181"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 25,
+          "id": "D2N182"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 7,
+          "id": "D2N183"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 7,
+          "id": "D2N184"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 9,
+          "id": "D2N185"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N186"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 0,
+          "id": "D2N187"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N188"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [
+            "65"
+          ],
+          "numbers_total": 6,
+          "id": "D2N189"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 1,
+          "id": "D2N190"
+        },
+        {
+          "unsupported_numbers": [
+            "6",
+            "6"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N191"
+        },
+        {
+          "unsupported_numbers": [
+            "120",
+            "130",
+            "70",
+            "80"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 11,
+          "id": "D2N192"
+        },
+        {
+          "unsupported_numbers": [
+            "136"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [
+            "45"
+          ],
+          "numbers_total": 8,
+          "id": "D2N193"
+        },
+        {
+          "unsupported_numbers": [
+            "5",
+            "5"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N194"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N195"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 7,
+          "id": "D2N196"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 6,
+          "id": "D2N197"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 4,
+          "id": "D2N198"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 7,
+          "id": "D2N199"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [
+            "50",
+            "50"
+          ],
+          "numbers_total": 7,
+          "id": "D2N200"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 5,
+          "id": "D2N201"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 2,
+          "id": "D2N202"
+        },
+        {
+          "unsupported_numbers": [
+            "360"
+          ],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 1,
+          "id": "D2N203"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 3,
+          "id": "D2N204"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [
+            "65",
+            "65"
+          ],
+          "numbers_total": 2,
+          "id": "D2N205"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [],
+          "numbers_total": 5,
+          "id": "D2N206"
+        },
+        {
+          "unsupported_numbers": [],
+          "unsupported_tests": [],
+          "invented_age": [
+            "65",
+            "65"
+          ],
+          "numbers_total": 4,
+          "id": "D2N207"
+        }
+      ]
+    }
+  }
+}
