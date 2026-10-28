@@ -84,3 +84,21 @@ def test_meta_comments_dropped_and_sex_normalized():
                                    prior_results=["Chest x-ray: normal (date not specified)"]), NOTE)
     assert c["sex"] == "Female" and c["history"] == ["Hypertension"]
     assert c["prior_results"] == ["Chest x-ray: normal"] and len(dropped) == 2
+
+
+def test_fill_demographics_matches_context_and_is_repeatable():
+    from build_chart_data import fill_demographics
+    strict = chart(sex="", age="")
+    a, filled = fill_demographics(strict, "D2N198", "", "He is a college student with back pain. His")
+    assert filled == ["age", "sex"] and 18 <= int(a["age"]) <= 24 and a["sex"] == "Male"
+    assert fill_demographics(strict, "D2N198", "", "He is a college student with back pain. His")[0]["age"] == a["age"]
+    kept, filled = fill_demographics(chart(age="61", sex="Female"), "X", "", "")
+    assert filled == [] and kept["age"] == "61"
+
+
+def test_llm_demographics_fill_only_missing_slots():
+    from build_chart_data import fill_demographics
+    llm = {"name": "Sarah Thompson", "age": 34, "sex": "Female", "source": {"name": "stated", "age": "invented", "sex": "stated"}}
+    c, filled = fill_demographics(chart(age="61"), "X", "", "", llm)
+    assert filled == ["name", "sex"] and c["name"] == "Sarah Thompson" and c["age"] == "61" and c["sex"] == "Female"
+    assert c["medications"] == []  # 인적사항 말고는 채우지 않는다

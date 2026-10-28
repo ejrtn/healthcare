@@ -58,6 +58,8 @@ def main():
     ap.add_argument("--max-tokens", type=int, default=2048)
     ap.add_argument("--quantization", help="vLLM 양자화 방식 (양자화 후 품질 확인용)")
     ap.add_argument("--chart-dir", help="data/chart: 입력을 '차트 + 대화'로 준다 (src/build_chart_data.py)")
+    ap.add_argument("--chart-field", default="chart_text",
+                    help="chart_text: 나이·성별을 채운 차트(실제 EHR처럼) / chart_text_strict: 모르면 'not recorded'")
     args = ap.parse_args()
 
     from vllm import LLM, SamplingParams
@@ -80,7 +82,7 @@ def main():
 
     charts = {}
     if args.chart_dir:
-        charts = {r["id"]: r["chart_text"] for s in splits for r in load_jsonl(ROOT / args.chart_dir / f"{s}.jsonl")}
+        charts = {r["id"]: r[args.chart_field] for s in splits for r in load_jsonl(ROOT / args.chart_dir / f"{s}.jsonl")}
     conversations = [build_messages(c["dialogue"], json_mode=args.mode == "json", chart_text=charts.get(c["id"]))
                      for c in cases]
     start = time.perf_counter()
@@ -102,7 +104,7 @@ def main():
     summary["generation"] = {
         "model": args.model, "quantization": args.quantization or "none", "mode": args.mode, "tensor_parallel": args.tp, "split": args.split,
         "repetition_penalty": args.repetition_penalty, "frequency_penalty": args.frequency_penalty,
-        "chart": bool(args.chart_dir),
+        "chart": args.chart_field if args.chart_dir else None,
         "num_requests": len(cases), "wall_time_s": round(elapsed, 1),
         "output_tokens": n_out, "output_tok_per_s": round(n_out / elapsed, 1),
         "truncated": n_truncated,

@@ -112,13 +112,14 @@ def main():
     ap.add_argument("preds", nargs="+", help="예측 jsonl (outputs/...)")
     ap.add_argument("--out", default=str(ROOT / "results" / "faithfulness.json"))
     ap.add_argument("--chart-dir", help="data/chart: 차트도 근거로 본다 ('차트 + 대화'로 생성한 예측용)")
+    ap.add_argument("--chart-field", default="chart_text", help="생성 때 준 차트와 같은 것 (01_baseline.py --chart-field)")
     args = ap.parse_args()
     # 채점 모듈(rouge_score 의존)은 CLI에서만 쓴다 — API 서버는 check()만 가져다 쓴다
     from evaluate import load_jsonl, parse_prediction
 
     cases = [g for s in TEST_SPLITS for g in load_jsonl(ROOT / "data" / "processed" / f"aci_{s}.jsonl")]
     if args.chart_dir:  # 근거 = 차트 + 대화. 정답 기록도 같은 근거로 재서 기준선이 함께 바뀐다
-        charts = {r["id"]: r["chart_text"] for s in TEST_SPLITS for r in load_jsonl(ROOT / args.chart_dir / f"{s}.jsonl")}
+        charts = {r["id"]: r[args.chart_field] for s in TEST_SPLITS for r in load_jsonl(ROOT / args.chart_dir / f"{s}.jsonl")}
         cases = [c | {"dialogue": charts[c["id"]] + "\n\n" + c["dialogue"]} for c in cases]
     report = {"gold": None, "systems": {}}
     gold = [check(c["note"], c["dialogue"]) | {"id": c["id"]} for c in cases]

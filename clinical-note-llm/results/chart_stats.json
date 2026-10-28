@@ -15,6 +15,10 @@
       "placeholder": 122,
       "not_in_note": 11
     },
+    "synthetic": {
+      "age": 20,
+      "sex": 6
+    },
     "empty_charts": 0
   },
   "valid": {
@@ -32,6 +36,10 @@
       "placeholder": 40,
       "leak": 7,
       "not_in_note": 1
+    },
+    "synthetic": {
+      "age": 5,
+      "sex": 4
     },
     "empty_charts": 0
   },
@@ -51,6 +59,10 @@
       "placeholder": 82,
       "leak": 6
     },
+    "synthetic": {
+      "age": 8,
+      "sex": 5
+    },
     "empty_charts": 0
   },
   "test2": {
@@ -69,6 +81,10 @@
       "leak": 11,
       "not_in_note": 7
     },
+    "synthetic": {
+      "age": 9,
+      "sex": 1
+    },
     "empty_charts": 0
   },
   "test3": {
@@ -86,6 +102,10 @@
       "leak": 5,
       "placeholder": 49,
       "not_in_note": 9
+    },
+    "synthetic": {
+      "age": 12,
+      "sex": 6
     },
     "empty_charts": 0
   }

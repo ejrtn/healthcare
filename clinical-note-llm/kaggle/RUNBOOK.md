@@ -66,11 +66,33 @@ ACI-BENCH에는 차트가 없으므로 정답 기록에서 거꾸로 복원해, 
 !ls -la /kaggle/working/round4b.zip
 ```
 
-### 4-C: 모든 차트가 같은 항목을 갖게 해서 다시 학습 (약 1시간 반, 새 세션)
+### 4-A2: 차트의 빈 이름·나이·성별 채우기 (약 15분, 학습 없음)
 
-4-B 결과: 차트에 나이가 없는 29건 중 16건에서 나이를 지어냈다. 차트가 사례마다 줄 수가 달라(모르는 항목은 줄이 빠짐)
-"없으면 쓰지 않는다"가 입력에 드러나지 않았다. 이제 모든 차트가 8개 항목을 같은 순서로 갖고, 모르는 값은 "not recorded"다.
-4-B와 같은 순서이고 이름(chart2)만 다르다.
+4-B 결과: 차트에 나이가 없는 29건 중 16건에서 나이를 지어냈다. 실제 EHR에는 이름·나이·성별이 항상 있으므로, 이 세 칸만
+대화·기록 내용에 맞게 채운다(대화 "hi, sarah" → Sarah, 학생이면 20대 초반 등). 다른 칸(약·검사 등)은 그대로 "not recorded".
+
+```python
+# 셀 1: 코드 + vLLM
+%cd /kaggle/working
+!git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git || (cd healthcare && git pull -q)
+%cd /kaggle/working/healthcare/clinical-note-llm
+!pip install -q vllm rouge-score==0.1.2 && pip uninstall -y -q torchaudio torchao
+```
+
+```python
+# 셀 2: 14B 모델로 채우기 → 압축
+%cd /kaggle/working/healthcare/clinical-note-llm
+!python kaggle/09_fill_demographics.py
+!zip -q -r /kaggle/working/round4a2.zip data/chart/demographics_*.jsonl
+!ls -la /kaggle/working/round4a2.zip
+```
+
+`round4a2.zip`을 받아 `clinical-note-llm/`에 풀면, 로컬에서 채운 값을 대화와 대조한 뒤 학습 데이터를 올린다. 그다음 4-C.
+
+### 4-C: 채운 차트로 다시 학습 (약 1시간 반, 새 세션)
+
+모든 차트가 같은 8개 항목을 갖고, 이름·나이·성별은 항상 채워져 있다. 평가는 두 가지:
+채운 차트(실제 EHR 조건)와, 채운 값을 지운 차트(`chart_text_strict`, "모르면 쓰지 않는가" 스트레스 테스트).
 
 ```python
 # 셀 1: 코드 + 학습 라이브러리
@@ -92,11 +114,14 @@ ACI-BENCH에는 차트가 없으므로 정답 기록에서 거꾸로 복원해, 
 ```
 
 ```python
-# 셀 4: 테스트 120건 (학습 전 모델도 새 차트 형식으로 다시)
+# 셀 4: 테스트 120건 — 채운 차트 / 채운 값을 지운 차트
 %cd /kaggle/working/healthcare/clinical-note-llm
+M = "outputs/sft/qwen3b-r16-chart2/merged"
 !python kaggle/01_baseline.py --model Qwen/Qwen2.5-3B-Instruct --mode json --tag Qwen2.5-3B-Instruct-chart2-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
-!python kaggle/01_baseline.py --model outputs/sft/qwen3b-r16-chart2/merged --mode json --group sft --tag qwen3b-r16-chart2-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
+!python kaggle/01_baseline.py --model {M} --mode json --group sft --tag qwen3b-r16-chart2-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
+!python kaggle/01_baseline.py --model {M} --mode json --group sft --tag qwen3b-r16-chart2-strict-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart --chart-field chart_text_strict
 !python src/faithfulness.py outputs/baseline/Qwen2.5-3B-Instruct-chart2-fp0.4_json.jsonl outputs/sft/qwen3b-r16-chart2-fp0.4_json.jsonl --chart-dir data/chart --out results/faithfulness_chart2.json
+!python src/faithfulness.py outputs/sft/qwen3b-r16-chart2-strict-fp0.4_json.jsonl --chart-dir data/chart --chart-field chart_text_strict --out results/faithfulness_chart2_strict.json
 ```
 
 ```python
