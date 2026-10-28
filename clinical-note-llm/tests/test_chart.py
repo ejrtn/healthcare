@@ -21,23 +21,23 @@ def chart(**kw):
 
 def test_keeps_chart_facts_absent_from_dialogue():
     c, dropped = clean_chart(chart(name="Martha Lopez", age="50", vitals=["Blood pressure 128/72"],
-                                   prior_results=["BNP 3000 in 03/2021"]), NOTE, DIALOGUE)
+                                   prior_results=["BNP 3000 in 03/2021"]), NOTE)
     assert c["name"] == "Martha Lopez" and c["age"] == "50"
     assert c["vitals"] == ["Blood pressure 128/72"] and c["prior_results"] == ["BNP 3000 in 03/2021"]
     assert dropped == []
 
 
-def test_drops_invented_spoken_and_leaked_items():
+def test_drops_invented_and_leaked_items_but_keeps_spoken_ones():
     c, dropped = clean_chart(chart(vitals=["Heart rate 88"],  # 기록에 없는 값 → 추출 모델이 지어냄
-                                   medications=["metformin 500 mg twice daily",  # 대화에 나옴
+                                   medications=["metformin 500 mg twice daily",  # 대화에도 나오지만 차트 정보라 남긴다
                                                 "metformin 1000 mg (increase planned)"]),  # 이번 진료의 계획
-                             NOTE, DIALOGUE)
-    assert c["vitals"] == [] and c["medications"] == []
-    assert sorted(why for _, why in dropped) == ["in_dialogue", "leak", "not_in_note"]
+                             NOTE)
+    assert c["vitals"] == [] and c["medications"] == ["metformin 500 mg twice daily"]
+    assert sorted(why for _, why in dropped) == ["leak", "not_in_note"]
 
 
 def test_failed_extraction_gives_empty_chart():
-    c, dropped = clean_chart(None, NOTE, DIALOGUE)
+    c, dropped = clean_chart(None, NOTE)
     assert render_chart(c) == "(no chart information)" and dropped == [("all", "extract_failed")]
 
 
@@ -50,6 +50,6 @@ def test_chart_prompt():
 
 
 def test_placeholder_values_are_dropped():
-    c, dropped = clean_chart(chart(sex="N/A", allergies=["none mentioned", "No known allergies"]), NOTE, DIALOGUE)
+    c, dropped = clean_chart(chart(sex="N/A", allergies=["none mentioned", "No known allergies"]), NOTE)
     assert c["sex"] == "" and c["allergies"] == ["No known allergies"]
     assert dropped == [("none mentioned", "placeholder")]

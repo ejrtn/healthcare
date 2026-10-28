@@ -4,8 +4,9 @@
 보고 채운 것이다. 모델은 대화만 받으므로 이것을 학습하면 "그럴듯한 수치를 지어내는 법"을 배운다(README 근거 검사).
 실제 진료처럼 입력을 "차트 + 대화"로 바꾸기 위해, ACI-BENCH에 없는 차트를 정답 기록에서 복원한다.
 
-차트에 넣는 것: 대화에 없고 진료 전부터 시스템에 있었을 정보(이름·나이·성별, 간호사가 잰 활력징후, 지난 검사 결과,
-과거력, 복용 약, 알레르기).
+차트에 넣는 것: 진료 전부터 시스템에 있었을 정보(이름·나이·성별, 간호사가 잰 활력징후, 지난 검사 결과,
+과거력, 복용 약, 알레르기). 대화에 나왔는지와 상관없이 넣는다 — 실제 차트는 대화와 무관하게 늘 같은 내용을 담고,
+의사는 그 차트를 보면서 대화한다. 대화에 나온 것만 빼면 차트가 사례마다 들쭉날쭉해져 모델이 차트의 역할을 잘못 배운다.
 넣지 않는 것: 이번 진료에서 의사가 판단·결정한 것(진찰 소견, 진단, 치료 계획, 새 처방·용량 변경) — 이것까지 넣으면
 모델이 써야 할 답을 입력으로 미리 보게 된다. 결과는 src/build_chart_data.py가 한 번 더 걸러낸다.
 
@@ -25,12 +26,13 @@ from evaluate import load_jsonl, parse_prediction  # noqa: E402
 
 EXTRACT_PROMPT = """You rebuild the patient's chart (EHR) as it existed before a clinic visit.
 
-You get the doctor-patient CONVERSATION and the clinical NOTE written after the visit. The note writer also used the chart, so the note contains facts nobody said in the conversation. Extract those facts.
+You get the doctor-patient CONVERSATION and the clinical NOTE written after the visit. The doctor had the chart open during the visit, and the note writer used it too.
 
-Include a fact only if ALL are true:
+Include a fact if BOTH are true:
 1. It appears in the NOTE.
-2. It is NOT stated in the CONVERSATION (if the conversation says it, leave it out).
-3. It would already be in the chart before the doctor saw the patient: patient name, age, sex, vital signs measured by staff, earlier test results and their dates, past medical/surgical/social/family history, current medications and doses, allergies, dates of earlier visits or procedures.
+2. It would already be in the chart before the doctor saw the patient: patient name, age, sex, vital signs measured by staff, earlier test results and their dates, past medical/surgical/social/family history, current medications and doses, allergies, dates of earlier visits or procedures.
+
+Include it whether or not the conversation also mentions it — a real chart holds these facts regardless of what is said in the visit.
 
 Never include anything decided or found during this visit: physical exam findings, diagnoses or assessments made today, the treatment plan, new prescriptions, dose changes, referrals, or follow-up instructions.
 

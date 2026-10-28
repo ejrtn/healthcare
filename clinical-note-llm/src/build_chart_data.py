@@ -2,8 +2,9 @@
 
 추출 모델이 지시를 어길 수 있어 항목마다 규칙으로 한 번 더 거른다.
   - not_in_note: 숫자가 정답 기록에 없다 → 추출 모델이 지어낸 값
-  - in_dialogue: 숫자가 전부 대화에 나온다 → 차트에 둘 필요가 없다(대화만 보고도 쓸 수 있다)
   - leak: 치료 계획·진단·진찰 소견처럼 이번 진료에서 정해진 내용 → 모델이 써야 할 답을 미리 보여 주는 셈
+
+대화에 나온 정보도 차트에 그대로 둔다(실제 차트는 대화와 상관없이 같은 내용을 담는다).
 
 정답 기록은 손대지 않는다(근거 정리 전 data/sft 그대로). 대화에 없던 나이·이름·수치가 이제 차트에 있으므로 지울 이유가 없다.
 
@@ -18,7 +19,6 @@ from collections import Counter
 from pathlib import Path
 
 from evaluate import load_jsonl, parse_prediction
-from faithfulness import spoken_numbers
 from prompts import build_messages, render_chart
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -42,7 +42,7 @@ def numbers(text):
     return {int(n) for n in re.findall(r"\d+", text)}
 
 
-def keep(item, note_nums, dialogue_nums):
+def keep(item, note_nums):
     """차트 항목 하나를 남길지. (남김 여부, 뺀 이유)"""
     nums = numbers(item)
     if PLACEHOLDER.match(item.strip()):
@@ -51,26 +51,23 @@ def keep(item, note_nums, dialogue_nums):
         return False, "leak"
     if nums and not nums <= note_nums:
         return False, "not_in_note"
-    big = {n for n in nums if n > 3}  # "type 2" 같은 작은 수는 대화에 흔해서 판단에 쓰지 않는다
-    if big and big <= dialogue_nums:
-        return False, "in_dialogue"
     return True, ""
 
 
-def clean_chart(chart, note, dialogue):
+def clean_chart(chart, note):
     if chart is None:
         return {"name": "", "age": "", "sex": ""} | {k: [] for k in LIST_FIELDS}, [("all", "extract_failed")]
-    note_nums, dialogue_nums = numbers(note), spoken_numbers(dialogue)
+    note_nums = numbers(note)
     out, dropped = {}, []
     for k in LIST_FIELDS:
         out[k] = []
         for item in chart.get(k, []):
-            ok, why = keep(item, note_nums, dialogue_nums)
+            ok, why = keep(item, note_nums)
             (out[k].append(item) if ok else dropped.append((item, why)))
     # 이름은 기록에 그대로 있어야 하고, 나이는 숫자가 기록에 있어야 한다
     out["name"] = chart.get("name", "") if chart.get("name", "") and chart["name"] in note else ""
     age = chart.get("age", "")
-    out["age"] = age if age and numbers(age) and numbers(age) <= note_nums and not numbers(age) <= dialogue_nums else ""
+    out["age"] = age if age and numbers(age) and numbers(age) <= note_nums else ""
     sex = chart.get("sex", "")
     out["sex"] = "" if PLACEHOLDER.match(sex.strip()) else sex
     return out, dropped
@@ -96,7 +93,7 @@ def main():
         raw = {r["id"]: r["chart"] for r in load_jsonl(ROOT / "data" / "chart" / f"raw_{split}.jsonl")}
         reasons, kept, rows = Counter(), Counter(), []
         for cid, (dialogue, note, _) in cases.items():
-            chart, dropped = clean_chart(raw.get(cid), note, dialogue)
+            chart, dropped = clean_chart(raw.get(cid), note)
             reasons.update(why for _, why in dropped)
             kept.update(k for k in LIST_FIELDS for _ in chart[k])
             kept.update(k for k in ["name", "age"] if chart[k])
