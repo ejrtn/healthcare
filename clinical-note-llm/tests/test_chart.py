@@ -69,3 +69,18 @@ def test_labels_without_values_and_suspected_findings_are_dropped():
                                    prior_results=["Urinary tract infection suspected"]), NOTE)
     assert c["vitals"] == ["Blood pressure 128/72"] and c["history"] == [] and c["prior_results"] == []
     assert sorted(why for _, why in dropped) == ["leak", "placeholder", "placeholder"]
+
+
+def test_bracketed_and_note_referencing_placeholders_are_dropped():
+    c, dropped = clean_chart(chart(vitals=["Height: [not specified]", "[not specified]"],
+                                   medications=["Current medications and doses: Not specified in the note"]), NOTE)
+    assert c["vitals"] == [] and c["medications"] == []
+    assert [why for _, why in dropped] == ["placeholder"] * 3
+
+
+def test_meta_comments_dropped_and_sex_normalized():
+    c, dropped = clean_chart(chart(sex="F", history=["[REDACTED - not provided in the conversation or note]",
+                                                     "Allergies not specified in the note.", "Hypertension"],
+                                   prior_results=["Chest x-ray: normal (date not specified)"]), NOTE)
+    assert c["sex"] == "Female" and c["history"] == ["Hypertension"]
+    assert c["prior_results"] == ["Chest x-ray: normal"] and len(dropped) == 2

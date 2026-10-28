@@ -2,17 +2,17 @@
   "train": {
     "cases": 79,
     "kept": {
-      "vitals": 128,
-      "prior_results": 182,
-      "history": 259,
-      "medications": 149,
+      "vitals": 99,
+      "prior_results": 183,
+      "history": 252,
+      "medications": 148,
       "name": 54,
       "age": 59,
-      "allergies": 38
+      "allergies": 35
     },
     "dropped": {
-      "leak": 9,
-      "placeholder": 82,
+      "leak": 8,
+      "placeholder": 122,
       "not_in_note": 11
     },
     "empty_charts": 0
@@ -20,16 +20,16 @@
   "valid": {
     "cases": 20,
     "kept": {
-      "vitals": 31,
-      "history": 60,
+      "vitals": 25,
+      "history": 55,
       "medications": 30,
       "name": 14,
       "age": 15,
       "prior_results": 24,
-      "allergies": 4
+      "allergies": 3
     },
     "dropped": {
-      "placeholder": 28,
+      "placeholder": 40,
       "leak": 7,
       "not_in_note": 1
     },
@@ -39,16 +39,16 @@
     "cases": 40,
     "kept": {
       "prior_results": 48,
-      "history": 148,
-      "medications": 52,
+      "history": 141,
+      "medications": 50,
       "name": 31,
       "age": 32,
-      "allergies": 19,
-      "vitals": 65
+      "allergies": 17,
+      "vitals": 53
     },
     "dropped": {
       "not_in_note": 5,
-      "placeholder": 59,
+      "placeholder": 82,
       "leak": 6
     },
     "empty_charts": 0
@@ -56,16 +56,16 @@
   "test2": {
     "cases": 40,
     "kept": {
-      "vitals": 81,
-      "prior_results": 59,
-      "history": 134,
-      "medications": 73,
-      "allergies": 16,
+      "vitals": 64,
+      "prior_results": 58,
+      "history": 127,
+      "medications": 72,
+      "allergies": 13,
       "name": 26,
       "age": 31
     },
     "dropped": {
-      "placeholder": 34,
+      "placeholder": 63,
       "leak": 11,
       "not_in_note": 7
     },
@@ -76,15 +76,15 @@
     "kept": {
       "vitals": 43,
       "prior_results": 52,
-      "history": 119,
-      "medications": 75,
+      "history": 118,
+      "medications": 73,
       "name": 27,
       "age": 28,
-      "allergies": 13
+      "allergies": 10
     },
     "dropped": {
       "leak": 5,
-      "placeholder": 43,
+      "placeholder": 49,
       "not_in_note": 9
     },
     "empty_charts": 0

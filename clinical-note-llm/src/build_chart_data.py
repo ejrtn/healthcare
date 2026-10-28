@@ -31,13 +31,24 @@ LEAK = re.compile(
     r"palpat\w*|auscultat\w*|suspect\w*|order\w*|rule out|concern(?:ing)? for)\b", re.I)
 
 
-# 추출 모델이 빈칸 대신 써 넣은 말 ("N/A", "Past surgical history: None mentioned"), 값 없이 이름만 있는 활력징후
-# ("Blood pressure"). "No known allergies"는 실제 정보라 남긴다
+# 추출 모델이 빈칸 대신 써 넣은 말 ("N/A", "Past surgical history: None mentioned", "Height: [not specified]",
+# "Not specified in the note"), 값 없이 이름만 있는 활력징후("Blood pressure"). 이런 말이 섞이면 모르는 값을
+# "not recorded"로 통일한 차트 형식(prompts.render_chart)이 깨진다. "No known allergies"는 실제 정보라 남긴다
 PLACEHOLDER = re.compile(
-    r"^(?:[A-Za-z ]{1,30}:\s*)?(?:n/?a|none|unknown|not (?:mentioned|specified|stated|documented|provided)|"
+    r"^(?:[A-Za-z ,()/&-]{1,40}:\s*)?\[?(?:n/?a|none|unknown|"
+    r"not (?:mentioned|specified|stated|documented|provided|available|recorded)(?: (?:in|from) the (?:note|conversation|chart))?|"
     r"none (?:mentioned|reported|documented|specified)|no (?:specific )?allergies (?:mentioned|reported|documented)|"
-    r"blood pressure|heart rate|pulse|respiratory rate|temperature|oxygen saturation|weight|height|bmi|vitals?)\.?$",
+    r"blood pressure|heart rate|pulse|respiratory rate|temperature|oxygen saturation|weight|height|bmi|vitals?)\]?\.?$",
     re.I)
+
+
+# 위 목록으로 다 못 잡는 변형("[REDACTED - not provided in the conversation or note]", "Allergies not specified in the
+# note.")은 차트 내용이 아니라 추출 작업에 대한 말이다 — 실제 차트는 "노트"나 "대화"를 언급하지 않는다
+META = re.compile(r"\b(?:in|from) the (?:note|conversation)\b|redacted|\[[^\]]*not provided[^\]]*\]|"
+                  r"^[^:]*\bnot (?:specified|provided|mentioned|documented)\b[^:]*\.?$", re.I)
+# "Right ankle x-ray: No fracture (date not specified)" → 괄호 안 군말만 지운다
+META_PAREN = re.compile(r"\s*\([^)]*\bnot (?:specified|provided|included|mentioned)\b[^)]*\)", re.I)
+SEX = {"female": "Female", "f": "Female", "woman": "Female", "male": "Male", "m": "Male", "man": "Male"}
 
 
 def numbers(text):
@@ -47,7 +58,7 @@ def numbers(text):
 def keep(item, note_nums):
     """차트 항목 하나를 남길지. (남김 여부, 뺀 이유)"""
     nums = numbers(item)
-    if PLACEHOLDER.match(item.strip()):
+    if PLACEHOLDER.match(item.strip()) or META.search(item):
         return False, "placeholder"
     if LEAK.search(item):
         return False, "leak"
@@ -64,14 +75,16 @@ def clean_chart(chart, note):
     for k in LIST_FIELDS:
         out[k] = []
         for item in chart.get(k, []):
+            item = META_PAREN.sub("", item).strip()
             ok, why = keep(item, note_nums)
             (out[k].append(item) if ok else dropped.append((item, why)))
     # 이름은 기록에 그대로 있어야 하고, 나이는 숫자가 기록에 있어야 한다
     out["name"] = chart.get("name", "") if chart.get("name", "") and chart["name"] in note else ""
     age = chart.get("age", "")
     out["age"] = age if age and numbers(age) and numbers(age) <= note_nums else ""
-    sex = chart.get("sex", "")
-    out["sex"] = "" if PLACEHOLDER.match(sex.strip()) else sex
+    # "F", "female", "Female"이 섞이지 않게 통일. 그 밖의 값(Non-binary 등)은 기록에 있을 때만 그대로 둔다
+    sex = chart.get("sex", "").strip()
+    out["sex"] = SEX.get(sex.lower(), sex if sex and sex.lower() in note.lower() else "")
     return out, dropped
 
 
