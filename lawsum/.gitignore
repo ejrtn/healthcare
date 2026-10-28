@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.txt
+test_*.py
+debug_*.py
+demo_test_result*.json
