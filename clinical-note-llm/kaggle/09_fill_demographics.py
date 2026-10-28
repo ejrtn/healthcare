@@ -10,7 +10,7 @@
 
     !python kaggle/09_fill_demographics.py
 
-결과: data/chart/demographics_{split}.jsonl — {"id", "name", "age", "sex", "source": {"name": "stated|invented", ...}}
+결과: data/chart/extracted/demographics_{split}.jsonl — {"id", "name", "age", "sex", "source": {"name": "stated|invented", ...}}
 """
 import argparse
 import json
@@ -83,7 +83,7 @@ def main():
                                                      f"CURRENT:\n{json.dumps(current)}"}])
         outputs = llm.chat(msgs, params)
         failed = 0
-        with open(ROOT / "data" / "chart" / f"demographics_{split}.jsonl", "w", encoding="utf-8") as f:
+        with open(ROOT / "data" / "chart" / "extracted" / f"demographics_{split}.jsonl", "w", encoding="utf-8") as f:
             for (cid, _, _), o in zip(rows, outputs):
                 try:
                     d = json.loads(o.outputs[0].text)

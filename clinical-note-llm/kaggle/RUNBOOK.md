@@ -23,7 +23,7 @@ ACI-BENCH에는 차트가 없으므로 정답 기록에서 거꾸로 복원해, 
 # 셀 2: 14B 모델로 학습·검증·테스트 219건의 차트 복원 → 압축
 %cd /kaggle/working/healthcare/clinical-note-llm
 !python kaggle/08_extract_chart.py
-!zip -q -r /kaggle/working/round4a.zip data/chart
+!zip -q -r /kaggle/working/round4a.zip data/chart/extracted
 !ls -la /kaggle/working/round4a.zip
 ```
 
@@ -83,7 +83,7 @@ ACI-BENCH에는 차트가 없으므로 정답 기록에서 거꾸로 복원해, 
 # 셀 2: 14B 모델로 채우기 → 압축
 %cd /kaggle/working/healthcare/clinical-note-llm
 !python kaggle/09_fill_demographics.py
-!zip -q -r /kaggle/working/round4a2.zip data/chart/demographics_*.jsonl
+!zip -q -r /kaggle/working/round4a2.zip data/chart/extracted/demographics_*.jsonl
 !ls -la /kaggle/working/round4a2.zip
 ```
 

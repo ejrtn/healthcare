@@ -1,4 +1,4 @@
-"""되살린 차트(kaggle/08_extract_chart.py)를 걸러내고, "차트 + 대화" 학습·평가 데이터를 만든다. CPU에서 돈다.
+"""되살린 차트(kaggle/08_extract_chart.py → data/chart/extracted/, 고치지 않음)를 걸러내고, "차트 + 대화" 학습·평가 데이터를 만든다. CPU에서 돈다.
 
 추출 모델이 지시를 어길 수 있어 항목마다 규칙으로 한 번 더 거른다.
   - not_in_note: 숫자가 정답 기록에 없다 → 추출 모델이 지어낸 값
@@ -28,6 +28,8 @@ from evaluate import load_jsonl, parse_prediction
 from prompts import build_messages, render_chart
 
 ROOT = Path(__file__).resolve().parent.parent
+# LLM 출력(kaggle/08·09)은 여기에 그대로 두고 읽기만 한다. 이 스크립트의 결과는 data/chart/, data/sft_chart/에 새로 쓴다
+EXTRACTED = ROOT / "data" / "chart" / "extracted"
 SPLITS = ["train", "valid", "test1", "test2", "test3"]
 LIST_FIELDS = ["vitals", "prior_results", "history", "medications", "allergies"]
 
@@ -178,8 +180,8 @@ def main():
     stats = {}
     (ROOT / "data" / "sft_chart").mkdir(parents=True, exist_ok=True)
     for split, cases in sources().items():
-        raw = {r["id"]: r["chart"] for r in load_jsonl(ROOT / "data" / "chart" / f"raw_{split}.jsonl")}
-        demo_path = ROOT / "data" / "chart" / f"demographics_{split}.jsonl"
+        raw = {r["id"]: r["chart"] for r in load_jsonl(EXTRACTED / f"chart_{split}.jsonl")}
+        demo_path = EXTRACTED / f"demographics_{split}.jsonl"
         demo = {r["id"]: r for r in load_jsonl(demo_path)} if demo_path.exists() else {}
         reasons, kept, synthetic, rows = Counter(), Counter(), Counter(), []
         for cid, (dialogue, note, _) in cases.items():

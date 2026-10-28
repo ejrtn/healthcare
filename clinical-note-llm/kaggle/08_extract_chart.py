@@ -12,7 +12,8 @@
 
     !python kaggle/08_extract_chart.py
 
-결과: data/chart/raw_{split}.jsonl — {"id", "chart": {...} 또는 null}
+결과: data/chart/extracted/chart_{split}.jsonl — {"id", "chart": {...} 또는 null}
+(LLM이 낸 그대로 보관하고 고치지 않는다. 걸러내기·정리는 src/build_chart_data.py가 새 파일로 만든다)
 """
 import argparse
 import json
@@ -84,14 +85,14 @@ def main():
 
     llm = LLM(model=args.model, tensor_parallel_size=args.tp, dtype="float16", max_model_len=12288,
               gpu_memory_utilization=0.90, seed=0)
-    out_dir = ROOT / "data" / "chart"
+    out_dir = ROOT / "data" / "chart" / "extracted"
     out_dir.mkdir(parents=True, exist_ok=True)
     for split, rows in load_cases().items():
         msgs = [[{"role": "system", "content": EXTRACT_PROMPT},
                  {"role": "user", "content": f"CONVERSATION:\n{d}\n\nNOTE:\n{n}"}] for _, d, n in rows]
         outputs = llm.chat(msgs, params)
         failed = 0
-        with open(out_dir / f"raw_{split}.jsonl", "w", encoding="utf-8") as f:
+        with open(out_dir / f"chart_{split}.jsonl", "w", encoding="utf-8") as f:
             for (cid, _, _), o in zip(rows, outputs):
                 try:
                     chart = json.loads(o.outputs[0].text)
