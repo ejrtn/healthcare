@@ -16,6 +16,7 @@
       "not_in_note": 11
     },
     "synthetic": {
+      "name": 28,
       "age": 20,
       "sex": 6
     },
@@ -38,7 +39,8 @@
       "not_in_note": 1
     },
     "synthetic": {
-      "age": 5,
+      "name": 7,
+      "age": 6,
       "sex": 4
     },
     "empty_charts": 0
@@ -60,7 +62,8 @@
       "leak": 6
     },
     "synthetic": {
-      "age": 8,
+      "name": 12,
+      "age": 9,
       "sex": 5
     },
     "empty_charts": 0
@@ -82,8 +85,9 @@
       "not_in_note": 7
     },
     "synthetic": {
+      "name": 15,
       "age": 9,
-      "sex": 1
+      "sex": 2
     },
     "empty_charts": 0
   },
@@ -104,6 +108,7 @@
       "not_in_note": 9
     },
     "synthetic": {
+      "name": 13,
       "age": 12,
       "sex": 6
     },
