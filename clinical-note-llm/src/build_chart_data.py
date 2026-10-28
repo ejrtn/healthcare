@@ -8,14 +8,15 @@
 
 정답 기록은 손대지 않는다(근거 정리 전 data/sft 그대로). 대화에 없던 나이·이름·수치가 이제 차트에 있으므로 지울 이유가 없다.
 
-나이·성별이 비면 채운다(fill_demographics). 실제 EHR에는 인적사항이 항상 있는데, 정답 기록에 나이가 없으면 복원할 수
-없어 차트가 비었다 — 이 빈칸 때문에 차트 SFT 1차 모델이 나이 없는 29건 중 16건에서 나이를 지어냈다. 이름은 채우지 않는다:
-대화에서 환자를 이름으로 부르는 경우가 많아("hi, sarah") 지어낸 이름이 대화와 어긋날 수 있다.
+빈칸은 kaggle/09_complete_chart.py의 결과로 채운다(이 스크립트는 합치고 거르기만 한다):
+  - 이름·나이·성별: 실제 EHR에는 항상 있으므로 항상 채운다(fill_demographics). 빈칸 때문에 차트 SFT 1차 모델이 나이 없는
+    29건 중 16건에서 나이를 지어냈다.
+  - 그 밖의 항목: 대화가 가리키는데 차트에 없던 것만 더한다(add_mentioned). 정답 기록에 값이 있으면 그 값, 없으면 지어낸 값.
 채우지 않은 원래 차트(chart_text_strict, 모르면 "not recorded")는 "모르면 쓰지 않는가"를 보는 평가용으로 남긴다.
 
     python src/build_chart_data.py
 
-출력: data/chart/{train,valid,test1,test2,test3}.jsonl — {"id", "chart", "chart_text", "chart_text_strict", "synthetic", "dropped"}
+출력: data/chart/{train,valid,test1,test2,test3}.jsonl — {"id", "chart", "chart_text", "chart_text_strict", "synthetic", "added", "dropped"}
       data/sft_chart/{train,valid}.jsonl — 학습용 messages, results/chart_stats.json
 """
 import json
@@ -35,7 +36,7 @@ LIST_FIELDS = ["vitals", "prior_results", "history", "medications", "allergies"]
 
 LEAK = re.compile(
     r"\b(plan|planned|recommend\w*|will|advis\w*|refer\w*|follow[- ]?up|prescrib\w*|increas\w*|decreas\w*|"
-    r"discontinu\w*|start(?:ed|ing)? (?:on|her|him)|diagnos\w*|assessment|impression|exam(?:ination)?|tender\w*|"
+    r"discontinu\w*|start(?:ing)?|new(?:ly)? prescri\w*|diagnos\w*|assessment|impression|exam(?:ination)?|tender\w*|"
     r"palpat\w*|auscultat\w*|suspect\w*|order\w*|rule out|concern(?:ing)? for)\b", re.I)
 
 
@@ -138,7 +139,7 @@ AGE_RANGES = [
 def fill_demographics(chart, cid, dialogue, note, llm=None):
     """비어 있는 이름·나이·성별을 채운다. (채운 차트, 채운 항목 목록).
 
-    llm: kaggle/09_fill_demographics.py가 대화·기록 내용을 읽고 채운 값. 있으면 그것을 쓰고, 없으면(그 단계를 아직
+    llm: kaggle/09_complete_chart.py가 대화·기록 내용을 읽고 채운 값. 있으면 그것을 쓰고, 없으면(그 단계를 아직
     안 돌렸으면) 아래 규칙으로 나이·성별만 채운다(이름은 대화와 어긋날 수 있어 규칙으로는 채우지 않는다).
     규칙은 사례 id로 시드를 정해 다시 돌려도 같은 값이 나온다.
     """
@@ -163,6 +164,27 @@ def fill_demographics(chart, cid, dialogue, note, llm=None):
     return chart, filled
 
 
+def add_mentioned(chart, additions, note):
+    """대화가 가리키는데 차트에 없던 항목을 더한다 (kaggle/09_complete_chart.py의 additions). (차트, 더한 항목, 뺀 항목)
+
+    정답 기록에서 옮긴 값("note")은 처음 차트와 같은 규칙으로 거르고, 지어낸 값("invented")은 기록에 없는 것이 당연하므로
+    숫자 확인만 빼고 거른다(자리 표시·답 누설은 똑같이 막는다).
+    """
+    chart = {k: list(v) if isinstance(v, list) else v for k, v in chart.items()}
+    note_nums, added, dropped = numbers(note), [], []
+    for a in additions or []:
+        field, value = a.get("field"), strip_placeholders(a.get("value", ""))
+        if field not in LIST_FIELDS or not value:
+            continue
+        ok, why = keep(value, note_nums if a.get("source") == "note" else numbers(value))
+        if not ok:
+            dropped.append((value, why))
+        elif value.lower() not in (v.lower() for v in chart[field]):
+            chart[field].append(value)
+            added.append({"field": field, "value": value, "source": a.get("source"), "mentioned": a.get("mentioned")})
+    return chart, added, dropped
+
+
 def sources():
     """분할별 {id: (대화, 정답 기록, 정답 JSON 문자열 또는 None)}."""
     src = {}
@@ -181,19 +203,22 @@ def main():
     (ROOT / "data" / "sft_chart").mkdir(parents=True, exist_ok=True)
     for split, cases in sources().items():
         raw = {r["id"]: r["chart"] for r in load_jsonl(EXTRACTED / f"chart_{split}.jsonl")}
-        demo_path = EXTRACTED / f"demographics_{split}.jsonl"
-        demo = {r["id"]: r for r in load_jsonl(demo_path)} if demo_path.exists() else {}
+        comp_path = EXTRACTED / f"completion_{split}.jsonl"
+        comp = {r["id"]: r for r in load_jsonl(comp_path)} if comp_path.exists() else {}
         reasons, kept, synthetic, rows = Counter(), Counter(), Counter(), []
         for cid, (dialogue, note, _) in cases.items():
             strict, dropped = clean_chart(raw.get(cid), note)
-            chart, filled = fill_demographics(strict, cid, dialogue, note, demo.get(cid))
-            reasons.update(why for _, why in dropped)
-            kept.update(k for k in LIST_FIELDS for _ in chart[k])
+            c = comp.get(cid) or {}
+            chart, filled = fill_demographics(strict, cid, dialogue, note, c)
+            chart, added, dropped_add = add_mentioned(chart, c.get("additions"), note)
+            reasons.update(why for _, why in dropped + dropped_add)
+            kept.update(k for k in LIST_FIELDS for _ in strict[k])
             kept.update(k for k in ["name", "age"] if strict[k])
             synthetic.update(filled)
+            synthetic.update(f"{a['field']}({a['source']})" for a in added)
             rows.append({"id": cid, "chart": chart, "chart_text": render_chart(chart), "chart_strict": strict,
-                         "chart_text_strict": render_chart(strict), "synthetic": filled,
-                         "synthetic_source": (demo.get(cid) or {}).get("source"), "dropped": dropped})
+                         "chart_text_strict": render_chart(strict), "synthetic": filled, "added": added,
+                         "synthetic_source": c.get("source"), "dropped": dropped + dropped_add})
         with open(ROOT / "data" / "chart" / f"{split}.jsonl", "w", encoding="utf-8") as f:
             for r in rows:
                 f.write(json.dumps(r, ensure_ascii=False) + "\n")

@@ -66,10 +66,13 @@ ACI-BENCH에는 차트가 없으므로 정답 기록에서 거꾸로 복원해, 
 !ls -la /kaggle/working/round4b.zip
 ```
 
-### 4-A2: 차트의 빈 이름·나이·성별 채우기 (약 15분, 학습 없음)
+### 4-A2: 차트 빈칸 채우기 (약 20분, 학습 없음)
 
-4-B 결과: 차트에 나이가 없는 29건 중 16건에서 나이를 지어냈다. 실제 EHR에는 이름·나이·성별이 항상 있으므로, 이 세 칸만
-대화·기록 내용에 맞게 채운다(대화 "hi, sarah" → Sarah, 학생이면 20대 초반 등). 다른 칸(약·검사 등)은 그대로 "not recorded".
+4-B 결과: 차트에 나이가 없는 29건 중 16건에서 나이를 지어냈다. 의사는 차트를 보면서 대화하므로, 대화가 가리키는 정보는
+차트에 있어야 한다. 14B 모델이 대화·기록을 읽고 채운다.
+- 이름·나이·성별: 항상 채운다 (대화 "hi, sarah" → Sarah, 학생이면 20대 초반 등)
+- 그 밖의 항목: 대화가 언급하는데 차트에 없을 때만 ("혈압 괜찮네요" → 혈압). 기록에 값이 있으면 그 값, 없으면 지어낸 값
+- 대화가 언급하지 않는 항목은 그대로 "not recorded"
 
 ```python
 # 셀 1: 코드 + vLLM
@@ -82,8 +85,8 @@ ACI-BENCH에는 차트가 없으므로 정답 기록에서 거꾸로 복원해, 
 ```python
 # 셀 2: 14B 모델로 채우기 → 압축
 %cd /kaggle/working/healthcare/clinical-note-llm
-!python kaggle/09_fill_demographics.py
-!zip -q -r /kaggle/working/round4a2.zip data/chart/extracted/demographics_*.jsonl
+!python kaggle/09_complete_chart.py
+!zip -q -r /kaggle/working/round4a2.zip data/chart/extracted/completion_*.jsonl
 !ls -la /kaggle/working/round4a2.zip
 ```
 

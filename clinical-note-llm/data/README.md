@@ -13,7 +13,7 @@ data/
 │
 ├── chart/extracted/        ③ LLM 출력 — 고치지 않고 보관 (Kaggle GPU로 만들어 다시 만들기 비싸다)
 │   ├── chart_{split}.jsonl         정답 기록에서 복원한 진료 전 차트
-│   └── demographics_{split}.jsonl  빈 이름·나이·성별을 대화·기록에 맞게 채운 값
+│   └── completion_{split}.jsonl    빈 이름·나이·성별 + 대화가 가리키는데 빠진 항목을 채운 값 (기록에 있으면 그 값, 없으면 지어냄)
 │
 └── 전처리 결과 ④ — 언제든 지우고 다시 만들 수 있다
     ├── sft/                  학습 데이터: 대화 → 정답 기록 (원본 정답 그대로)
@@ -28,7 +28,7 @@ data/
 | ① raw | `scripts/download_data.sh` (커밋 고정) | 인터넷 |
 | ② processed | `src/prepare_data.py` | ① |
 | ③ chart/extracted/chart_* | `kaggle/08_extract_chart.py` (GPU) | ②, ④ sft |
-| ③ chart/extracted/demographics_* | `kaggle/09_fill_demographics.py` (GPU) | ②, ④ chart |
+| ③ chart/extracted/completion_* | `kaggle/09_complete_chart.py` (GPU) | ②, ④ chart |
 | ④ sft | `src/build_sft_data.py` | ②, ① train_virtscribe_asr.csv |
 | ④ sft_grounded | `src/build_sft_data.py --grounded` | ② |
 | ④ chart, sft_chart | `src/build_chart_data.py` | ②, ③, ④ sft |

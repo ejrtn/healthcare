@@ -4,14 +4,14 @@
     "kept": {
       "vitals": 68,
       "prior_results": 176,
-      "history": 238,
+      "history": 237,
       "medications": 146,
       "name": 54,
       "age": 59,
       "allergies": 25
     },
     "dropped": {
-      "leak": 8,
+      "leak": 9,
       "placeholder": 186,
       "not_in_note": 11
     },
@@ -25,7 +25,7 @@
     "cases": 20,
     "kept": {
       "vitals": 21,
-      "history": 55,
+      "history": 54,
       "medications": 30,
       "name": 14,
       "age": 15,
@@ -34,7 +34,7 @@
     },
     "dropped": {
       "placeholder": 45,
-      "leak": 7,
+      "leak": 8,
       "not_in_note": 1
     },
     "synthetic": {

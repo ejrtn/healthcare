@@ -119,3 +119,18 @@ def test_age_sentence_reduced_to_number_and_bare_lab_label_dropped():
     c, _ = clean_chart(chart(age="While the exact age is not provided, the note states she is 50 years old",
                              prior_results=["Hemoglobin A1c:", "BNP 3000 in 03/2021"]), NOTE)
     assert c["age"] == "50" and c["prior_results"] == ["BNP 3000 in 03/2021"]
+
+
+def test_add_mentioned_items_note_values_checked_invented_allowed():
+    from build_chart_data import add_mentioned
+    additions = [
+        {"field": "vitals", "value": "Blood pressure 128/72", "source": "note", "mentioned": "your blood pressure"},
+        {"field": "vitals", "value": "Heart rate 88", "source": "note", "mentioned": "heart rate"},  # 기록에 없는데 note라고 함
+        {"field": "medications", "value": "lisinopril 20 mg daily", "source": "invented", "mentioned": "the lisinopril"},
+        {"field": "medications", "value": "start metformin 1000 mg", "source": "invented", "mentioned": "x"},  # 계획
+        {"field": "allergies", "value": "[details]", "source": "invented", "mentioned": "x"},
+    ]
+    c, added, dropped = add_mentioned(chart(), additions, NOTE)
+    assert c["vitals"] == ["Blood pressure 128/72"] and c["medications"] == ["lisinopril 20 mg daily"]
+    assert [a["source"] for a in added] == ["note", "invented"]
+    assert sorted(why for _, why in dropped) == ["leak", "not_in_note"]
