@@ -9,6 +9,10 @@ temperature 0에서도 같은 자리가 똑같이 빠져 샘플링 탓은 아니
     !python diagnose_digits.py --mode vllm
     !python diagnose_digits.py --mode hf-gpu-fp16
     !python diagnose_digits.py --mode hf-cpu-bf16     # 느리다(건당 수 분)
+    python diagnose_digits.py --mode llamacpp-q8      # 로컬 PC: Q8_0 GGUF를 llama.cpp로(CPU에서 FP32로 계산)
+
+BF16 원본(14.5GB)이 메모리 16GB PC에 안 들어갈 때 llamacpp-q8을 쓴다. Q8_0은 원본과 거의 같은 고품질 압축이고,
+llama.cpp는 CPU에서 FP32로 계산하므로 FP16의 좁은 숫자 범위 문제가 없다 — 여기서 맞게 나오면 T4 FP16이 원인.
 
 결과: data/diagnose_<mode>.json
 """
@@ -83,13 +87,32 @@ def run_hf(sources, device, dtype_name):
     return rows
 
 
+def run_llamacpp(sources, model_path):
+    import os
+    import time
+    from llama_cpp import Llama
+    llm = Llama(model_path=model_path, n_ctx=8192, n_threads=os.cpu_count(), n_gpu_layers=0, verbose=False)
+    rows = []
+    for cid, src in sources.items():
+        start = time.perf_counter()
+        resp = llm.create_chat_completion(messages=messages(src), temperature=0, max_tokens=CASES[cid])
+        text = resp["choices"][0]["message"]["content"]
+        rows.append({"id": cid, "source": src, "text": text})
+        missing = {k: v["missing"] for k, v in check(text, src).items() if v["missing"]}
+        print(f"{cid} 완료 {time.perf_counter() - start:.0f}초, 원문에 없는 표기: {missing}", flush=True)
+    return rows
+
+
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--mode", choices=["vllm", "hf-gpu-fp16", "hf-cpu-bf16"], required=True)
+    ap.add_argument("--mode", choices=["vllm", "hf-gpu-fp16", "hf-cpu-bf16", "llamacpp-q8"], required=True)
+    ap.add_argument("--gguf", default="models/A.X-4.0-Light-Q8_0.gguf")
     args = ap.parse_args()
     sources = load()
     if args.mode == "vllm":
         rows = run_vllm(sources)
+    elif args.mode == "llamacpp-q8":
+        rows = run_llamacpp(sources, args.gguf)
     elif args.mode == "hf-gpu-fp16":
         rows = run_hf(sources, "gpu", "fp16")
     else:
