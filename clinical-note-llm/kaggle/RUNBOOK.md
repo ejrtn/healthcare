@@ -3,6 +3,69 @@
 학습 라이브러리(trl·bitsandbytes)는 vLLM보다 **먼저** 쓴다 — vLLM을 설치하면 torch가 CUDA 13 빌드로 바뀐다.
 모든 셀은 `%cd /kaggle/working/healthcare/clinical-note-llm`로 시작한다.
 
+## 4차: 차트 + 대화로 학습
+
+정답 기록에 있는 대화 밖 정보(이름·나이·혈압·지난 검사 수치·날짜)는 기록 작성자가 차트(EHR)를 보고 쓴 것이다.
+ACI-BENCH에는 차트가 없으므로 정답 기록에서 거꾸로 복원해, 입력을 실제 진료처럼 "차트 + 대화"로 바꿔 학습한다.
+복원한 차트에 답(진단·계획·진찰 소견)이 섞이지 않았는지 확인하고 학습해야 하므로 **두 번에 나눠** 돌린다.
+
+### 4-A: 차트 복원 (약 30분, 학습 없음)
+
+```python
+# 셀 1: 코드 + vLLM
+%cd /kaggle/working
+!git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git || (cd healthcare && git pull -q)
+%cd /kaggle/working/healthcare/clinical-note-llm
+!pip install -q vllm rouge-score==0.1.2 && pip uninstall -y -q torchaudio torchao
+```
+
+```python
+# 셀 2: 14B 모델로 학습·검증·테스트 219건의 차트 복원 → 압축
+%cd /kaggle/working/healthcare/clinical-note-llm
+!python kaggle/08_extract_chart.py
+!zip -q -r /kaggle/working/round4a.zip data/chart
+!ls -la /kaggle/working/round4a.zip
+```
+
+`round4a.zip`을 받아 `clinical-note-llm/`에 풀면, 로컬에서 걸러내기(`src/build_chart_data.py`)와 직접 대조 검사를 한 뒤
+학습 데이터(`data/sft_chart`)를 GitHub에 올린다. 그다음 4-B.
+
+### 4-B: 학습·평가 (약 1시간 반, 새 세션)
+
+```python
+# 셀 1: 코드 + 학습 라이브러리
+%cd /kaggle/working
+!git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git || (cd healthcare && git pull -q)
+%cd /kaggle/working/healthcare/clinical-note-llm
+!pip install -q trl peft bitsandbytes && pip uninstall -y -q torchao
+```
+
+```python
+# 셀 2: 차트 + 대화로 SFT (약 25분) → 병합. 차트가 붙어 입력이 길어져 max-length를 늘린다
+%cd /kaggle/working/healthcare/clinical-note-llm
+!torchrun --nproc_per_node 2 kaggle/02_sft.py --run-name qwen3b-r16-chart --data-dir data/sft_chart --max-length 5200 && python kaggle/02_sft.py --run-name qwen3b-r16-chart --merge-only
+```
+
+```python
+# 셀 3: vLLM 설치 — 끝나면 Run → Restart & clear cell outputs
+!pip install -q vllm rouge-score==0.1.2 && pip uninstall -y -q torchaudio torchao
+```
+
+```python
+# 셀 4: 테스트 120건. 학습 전 모델에도 같은 차트를 줘서 "차트를 준 효과"와 "학습 효과"를 나눠 본다
+%cd /kaggle/working/healthcare/clinical-note-llm
+!python kaggle/01_baseline.py --model Qwen/Qwen2.5-3B-Instruct --mode json --tag Qwen2.5-3B-Instruct-chart-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
+!python kaggle/01_baseline.py --model outputs/sft/qwen3b-r16-chart/merged --mode json --group sft --tag qwen3b-r16-chart-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
+!python src/faithfulness.py outputs/baseline/Qwen2.5-3B-Instruct-chart-fp0.4_json.jsonl outputs/sft/qwen3b-r16-chart-fp0.4_json.jsonl --chart-dir data/chart --out results/faithfulness_chart.json
+```
+
+```python
+# 셀 5: 결과 압축 → 받아서 clinical-note-llm/ 에 푼다
+%cd /kaggle/working/healthcare/clinical-note-llm
+!zip -q -r /kaggle/working/round4b.zip outputs/baseline/*chart* outputs/sft/*chart*.jsonl results/*chart* outputs/sft/qwen3b-r16-chart/train_stats.json outputs/sft/qwen3b-r16-chart/adapter
+!ls -la /kaggle/working/round4b.zip
+```
+
 ## 3차: DPO — "대화와 반대로 쓰기"·지어낸 사실 줄이기
 
 흐름: 2차 SFT 모델로 학습 대화마다 후보 8개 생성(vLLM) → 14B 판정 모델이 후보마다 "대화와 반대"·"대화에 없는 사실"을

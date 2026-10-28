@@ -57,6 +57,7 @@ def main():
     ap.add_argument("--frequency-penalty", type=float, default=0.0)
     ap.add_argument("--max-tokens", type=int, default=2048)
     ap.add_argument("--quantization", help="vLLM 양자화 방식 (양자화 후 품질 확인용)")
+    ap.add_argument("--chart-dir", help="data/chart: 입력을 '차트 + 대화'로 준다 (src/build_chart_data.py)")
     args = ap.parse_args()
 
     from vllm import LLM, SamplingParams
@@ -77,7 +78,11 @@ def main():
                repetition_penalty=args.repetition_penalty, frequency_penalty=args.frequency_penalty)
     params = json_sampling_params(SamplingParams, **gen) if args.mode == "json" else SamplingParams(**gen)
 
-    conversations = [build_messages(c["dialogue"], json_mode=args.mode == "json") for c in cases]
+    charts = {}
+    if args.chart_dir:
+        charts = {r["id"]: r["chart_text"] for s in splits for r in load_jsonl(ROOT / args.chart_dir / f"{s}.jsonl")}
+    conversations = [build_messages(c["dialogue"], json_mode=args.mode == "json", chart_text=charts.get(c["id"]))
+                     for c in cases]
     start = time.perf_counter()
     outputs = llm.chat(conversations, params)
     elapsed = time.perf_counter() - start
@@ -97,6 +102,7 @@ def main():
     summary["generation"] = {
         "model": args.model, "quantization": args.quantization or "none", "mode": args.mode, "tensor_parallel": args.tp, "split": args.split,
         "repetition_penalty": args.repetition_penalty, "frequency_penalty": args.frequency_penalty,
+        "chart": bool(args.chart_dir),
         "num_requests": len(cases), "wall_time_s": round(elapsed, 1),
         "output_tokens": n_out, "output_tok_per_s": round(n_out / elapsed, 1),
         "truncated": n_truncated,

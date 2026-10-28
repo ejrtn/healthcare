@@ -30,9 +30,35 @@ Return a JSON object with the keys {", ".join(DIVISIONS)}.
 Each value contains the section headings and text. Use an empty string when there is no information."""
 
 
-def build_messages(dialogue: str, json_mode: bool) -> list:
+CONVERSATION_RULE = "- Only include information stated in the conversation."
+CHART_RULE = ("- Only include information stated in the conversation or the patient chart. "
+              "Copy chart values exactly; never add a value that is in neither.")
+
+CHART_FIELDS = [("name", "Name"), ("age", "Age"), ("sex", "Sex"), ("vitals", "Vital signs"),
+                ("prior_results", "Prior results"), ("history", "History"), ("medications", "Medications"),
+                ("allergies", "Allergies")]
+
+
+def render_chart(chart: dict) -> str:
+    """차트 dict → 모델 입력용 텍스트. 빈 항목은 줄을 만들지 않는다."""
+    lines = []
+    for key, label in CHART_FIELDS:
+        value = chart.get(key)
+        value = "; ".join(value) if isinstance(value, list) else (value or "")
+        if value.strip():
+            lines.append(f"{label}: {value.strip()}")
+    return "\n".join(lines) or "(no chart information)"
+
+
+def build_messages(dialogue: str, json_mode: bool, chart_text: str | None = None) -> list:
+    """chart_text가 있으면 실제 진료처럼 "차트 + 대화"를 입력으로 준다 (src/build_chart_data.py)."""
     system = SYSTEM_PROMPT + (JSON_INSTRUCTION if json_mode else "")
+    if chart_text is None:
+        user = dialogue
+    else:
+        system = system.replace(CONVERSATION_RULE, CHART_RULE)
+        user = f"PATIENT CHART\n{chart_text}\n\nCONVERSATION\n{dialogue}"
     return [
         {"role": "system", "content": system},
-        {"role": "user", "content": dialogue},
+        {"role": "user", "content": user},
     ]
