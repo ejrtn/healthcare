@@ -186,18 +186,33 @@ M = "outputs/sft/qwen3b-r16-chart3/merged"
 부풀었을 수 있다. `build_chart_data.same_day`로 이런 항목 23개(학습 12, 검증 3, 테스트 8)를 빼고 다시 만든 데이터로
 같은 설정으로 학습한다. 나머지(빈칸 짝 19건 등)는 차트 3차와 같다.
 
+같은 세션에서 **영어 중심 모델 Llama-3.2-3B-Instruct**도 같은 데이터·설정으로 학습해 비교한다. Qwen2.5는 중국어·영어
+중심의 다국어 모델이고, Llama 3.2는 영어 중심이다. 크기(3B)가 같아 모델 계열 차이만 본다. 전체 약 2.5시간.
+
+준비: Hugging Face에서 meta-llama/Llama-3.2-3B-Instruct 페이지의 라이선스 동의, Kaggle Secrets에 `HF_TOKEN`.
+
 ```python
-# 셀 1: 코드 + 학습 라이브러리
+# 셀 1: 코드 + 학습 라이브러리 + HF 로그인(Llama는 동의한 계정만 받을 수 있다)
 %cd /kaggle/working
 !git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git || (cd healthcare && git pull -q)
 %cd /kaggle/working/healthcare/clinical-note-llm
 !pip install -q trl peft bitsandbytes && pip uninstall -y -q torchao
+import os
+from kaggle_secrets import UserSecretsClient
+os.environ["HF_TOKEN"] = UserSecretsClient().get_secret("HF_TOKEN")
 ```
 
 ```python
-# 셀 2: 학습(약 30분) → 병합
+# 셀 2: Qwen 학습(약 30분) → 병합
 %cd /kaggle/working/healthcare/clinical-note-llm
 !torchrun --nproc_per_node 2 kaggle/02_sft.py --run-name qwen3b-r16-chart4 --data-dir data/sft_chart --max-length 5200 && python kaggle/02_sft.py --run-name qwen3b-r16-chart4 --merge-only
+```
+
+```python
+# 셀 2-L: Llama 학습(약 30분) → 병합
+%cd /kaggle/working/healthcare/clinical-note-llm
+L = "meta-llama/Llama-3.2-3B-Instruct"
+!torchrun --nproc_per_node 2 kaggle/02_sft.py --model {L} --run-name llama3b-r16-chart4 --data-dir data/sft_chart --max-length 5200 && python kaggle/02_sft.py --model {L} --run-name llama3b-r16-chart4 --merge-only
 ```
 
 ```python
@@ -216,11 +231,29 @@ M = "outputs/sft/qwen3b-r16-chart4/merged"
 ```
 
 ```python
+# 셀 4-L: Llama — 학습 전 / 학습 후(채운 차트) / 학습 후(빈칸 차트). 셀 3 재시작 뒤라 HF_TOKEN을 다시 넣는다
+%cd /kaggle/working/healthcare/clinical-note-llm
+import os
+from kaggle_secrets import UserSecretsClient
+os.environ["HF_TOKEN"] = UserSecretsClient().get_secret("HF_TOKEN")
+L, M = "meta-llama/Llama-3.2-3B-Instruct", "outputs/sft/llama3b-r16-chart4/merged"
+!python kaggle/01_baseline.py --model {L} --mode json --group baseline --tag Llama-3.2-3B-Instruct-chart4-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
+!python kaggle/01_baseline.py --model {M} --mode json --group sft --tag llama3b-r16-chart4-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
+!python kaggle/01_baseline.py --model {M} --mode json --group sft --tag llama3b-r16-chart4-strict-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart --chart-field chart_text_strict
+!python src/faithfulness.py outputs/baseline/Llama-3.2-3B-Instruct-chart4-fp0.4_json.jsonl outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl --chart-dir data/chart --out results/faithfulness_llama_chart4.json
+!python src/faithfulness.py outputs/sft/llama3b-r16-chart4-strict-fp0.4_json.jsonl --chart-dir data/chart --chart-field chart_text_strict --out results/faithfulness_llama_chart4_strict.json
+```
+
+```python
 # 셀 5: 결과 압축
 %cd /kaggle/working/healthcare/clinical-note-llm
-!zip -q -r /kaggle/working/round4e.zip outputs/sft/*chart4*.jsonl results/*chart4* outputs/sft/qwen3b-r16-chart4/train_stats.json
+!zip -q -r /kaggle/working/round4e.zip outputs/sft/*chart4*.jsonl outputs/baseline/*chart4*.jsonl results/*chart4* outputs/sft/*-chart4/train_stats.json
 !ls -la /kaggle/working/round4e.zip
 ```
+
+막히면
+- 셀 2-L에서 401/403(gated repo): HF에서 Llama 3.2 라이선스 동의가 안 됐거나 `HF_TOKEN`이 비었다.
+- 셀 2-L에서 GPU 메모리 부족: Llama 어휘가 커서(128k) Qwen보다 메모리를 더 쓴다. `--max-length 4096`으로 다시 실행한다.
 
 ## 3차: DPO — "대화와 반대로 쓰기"·지어낸 사실 줄이기
 
