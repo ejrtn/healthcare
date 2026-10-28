@@ -102,3 +102,5 @@ os.environ["HF_TOKEN"] = UserSecretsClient().get_secret("HF_TOKEN")
 ```
 
 로컬 채점: 원문 대조 보정(`check_citations.py --fix`) → `evaluate.py --baseline data/heldout_baseline.json`
+
+결과(2026-10-28): A.X 0.919, Llama 0.817, 숫자 오류가 남은 요약 A.X 5/99 — README "처음 보는 판례 99건으로 최종 평가".

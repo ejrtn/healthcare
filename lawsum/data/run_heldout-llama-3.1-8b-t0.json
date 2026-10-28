@@ -1,0 +1,10 @@
+{
+  "model": "meta-llama/Llama-3.1-8B-Instruct",
+  "tag": "heldout-llama-3.1-8b-t0",
+  "temperature": 0.0,
+  "cases": 99,
+  "fallback_used": 0,
+  "truncated": 13,
+  "wall_time_s": 666.6,
+  "empty": 0
+}
