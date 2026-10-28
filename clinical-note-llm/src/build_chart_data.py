@@ -3,6 +3,9 @@
 추출 모델이 지시를 어길 수 있어 항목마다 규칙으로 한 번 더 거른다.
   - not_in_note: 숫자가 정답 기록에 없다 → 추출 모델이 지어낸 값
   - leak: 치료 계획·진단·진찰 소견처럼 이번 진료에서 정해진 내용 → 모델이 써야 할 답을 미리 보여 주는 셈
+  - same_day: 이번 진료 중에 찍거나 한 검사("X-rays taken in office today reveal...") → 진료 전 차트에 있을 수 없다.
+    검사 결과 항목과 그 항목을 옮겨 온 정답 기록 문장을 함께 본다. "reviewed today"만 있으면(다른 곳에서 미리 찍은
+    CT를 오늘 본 경우) 남긴다
 
 대화에 나온 정보도 차트에 그대로 둔다(실제 차트는 대화와 상관없이 같은 내용을 담는다).
 
@@ -41,6 +44,31 @@ LEAK = re.compile(
     r"\b(plan|planned|recommend\w*|will|advis\w*|refer\w*|follow[- ]?up|prescrib\w*|increas\w*|decreas\w*|"
     r"discontinu\w*|start(?:ing)?|new(?:ly)? prescri\w*|diagnos\w*|assessment|impression|exam(?:ination)?|tender\w*|"
     r"palpat\w*|auscultat\w*|suspect\w*|order\w*|rule out|concern(?:ing)? for)\b", re.I)
+
+
+# 검사를 오늘 했다는 표현만 잡는다 — "presents to the clinic today"처럼 방문만 말하는 문장은 걸리지 않게 검사 동사에 붙은 것만
+_TODAY = r"(?:today|in (?:the )?office|in clinic|during (?:this|the) visit|on today's visit|at this visit)"
+SAME_DAY = re.compile(
+    rf"\b(?:obtain\w*|taken|performed|done|completed|order\w*)\b[^.;]{{0,50}}\b{_TODAY}|"
+    rf"\b(?:x-?rays?|imaging|ekg|ecg|test)\s+today\b|\btoday,? (?:\d+ views|reveals?|shows?|demonstrates?)\b|"
+    rf"\b(?:x-?rays?|ultrasound|test|scan)\b[^.;]{{0,40}}\b(?:during (?:this|the) visit|at this visit)", re.I)
+
+
+def source_sentence(item, note):
+    """항목을 옮겨 온 정답 기록 문장 (단어가 두 개 이상 겹치는 문장 중 가장 많이 겹치는 것). 없으면 ""."""
+    words = set(re.findall(r"[a-z]{3,}|\d+", item.lower()))  # 3글자: "EKG", "CBC"
+    best, best_n = "", 1
+    for s in re.split(r"(?<=[.!?])\s+|\n+", note):
+        n = len(words & set(re.findall(r"[a-z]{3,}|\d+", s.lower())))
+        if n > best_n:
+            best, best_n = s, n
+    return best
+
+
+def same_day(item, note):
+    # "obtained at an outside facility, is reviewed today": 다른 병원에서 미리 찍은 검사는 진료 전 차트에 있다
+    src = source_sentence(item, note)
+    return bool(SAME_DAY.search(item) or (SAME_DAY.search(src) and not re.search(r"\boutside\b", src, re.I)))
 
 
 # 추출 모델이 빈칸 대신 써 넣은 말 ("N/A", "Past surgical history: None mentioned", "Height: [not specified]",
@@ -113,6 +141,8 @@ def clean_chart(chart, note):
                 dropped.append((raw_item, "placeholder"))
                 continue
             ok, why = keep(item, note_nums)
+            if ok and k == "prior_results" and same_day(item, note):
+                ok, why = False, "same_day"
             (out[k].append(item) if ok else dropped.append((item, why)))
     # 이름은 기록에 그대로 있어야 하고, 나이는 숫자가 기록에 있어야 한다
     name = strip_placeholders(chart.get("name", ""))

@@ -179,6 +179,49 @@ M = "outputs/sft/qwen3b-r16-chart3/merged"
 !ls -la /kaggle/working/round4d.zip
 ```
 
+### 4-E: 당일 검사를 뺀 차트로 다시 학습 (약 1시간, 새 세션)
+
+차트를 정답 기록에서 거꾸로 만들다 보니, 이번 진료 중에 찍은 검사("X-rays taken in office today reveal...")가 진료 전
+차트에 들어가 있었다. 모델이 써야 할 RESULTS 구역을 입력으로 미리 보여 준 셈이라 차트 3차의 ROUGE 58.0·O-results 65가
+부풀었을 수 있다. `build_chart_data.same_day`로 이런 항목 23개(학습 12, 검증 3, 테스트 8)를 빼고 다시 만든 데이터로
+같은 설정으로 학습한다. 나머지(빈칸 짝 19건 등)는 차트 3차와 같다.
+
+```python
+# 셀 1: 코드 + 학습 라이브러리
+%cd /kaggle/working
+!git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git || (cd healthcare && git pull -q)
+%cd /kaggle/working/healthcare/clinical-note-llm
+!pip install -q trl peft bitsandbytes && pip uninstall -y -q torchao
+```
+
+```python
+# 셀 2: 학습(약 30분) → 병합
+%cd /kaggle/working/healthcare/clinical-note-llm
+!torchrun --nproc_per_node 2 kaggle/02_sft.py --run-name qwen3b-r16-chart4 --data-dir data/sft_chart --max-length 5200 && python kaggle/02_sft.py --run-name qwen3b-r16-chart4 --merge-only
+```
+
+```python
+# 셀 3: vLLM 설치 — 끝나면 Run → Restart & clear cell outputs
+!pip install -q vllm rouge-score==0.1.2 && pip uninstall -y -q torchaudio torchao
+```
+
+```python
+# 셀 4: 테스트 120건 — 채운 차트 / 빈칸 차트
+%cd /kaggle/working/healthcare/clinical-note-llm
+M = "outputs/sft/qwen3b-r16-chart4/merged"
+!python kaggle/01_baseline.py --model {M} --mode json --group sft --tag qwen3b-r16-chart4-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
+!python kaggle/01_baseline.py --model {M} --mode json --group sft --tag qwen3b-r16-chart4-strict-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart --chart-field chart_text_strict
+!python src/faithfulness.py outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl --chart-dir data/chart --out results/faithfulness_chart4.json
+!python src/faithfulness.py outputs/sft/qwen3b-r16-chart4-strict-fp0.4_json.jsonl --chart-dir data/chart --chart-field chart_text_strict --out results/faithfulness_chart4_strict.json
+```
+
+```python
+# 셀 5: 결과 압축
+%cd /kaggle/working/healthcare/clinical-note-llm
+!zip -q -r /kaggle/working/round4e.zip outputs/sft/*chart4*.jsonl results/*chart4* outputs/sft/qwen3b-r16-chart4/train_stats.json
+!ls -la /kaggle/working/round4e.zip
+```
+
 ## 3차: DPO — "대화와 반대로 쓰기"·지어낸 사실 줄이기
 
 흐름: 2차 SFT 모델로 학습 대화마다 후보 8개 생성(vLLM) → 14B 판정 모델이 후보마다 "대화와 반대"·"대화에 없는 사실"을

@@ -3,7 +3,7 @@
     "cases": 79,
     "kept": {
       "vitals": 68,
-      "prior_results": 174,
+      "prior_results": 162,
       "history": 231,
       "medications": 143,
       "name": 54,
@@ -13,6 +13,7 @@
     "dropped": {
       "leak": 6,
       "placeholder": 180,
+      "same_day": 12,
       "not_in_note": 11
     },
     "synthetic": {
@@ -31,12 +32,13 @@
       "medications": 29,
       "name": 14,
       "age": 15,
-      "prior_results": 24,
+      "prior_results": 21,
       "allergies": 2
     },
     "dropped": {
       "placeholder": 38,
       "leak": 6,
+      "same_day": 3,
       "not_in_note": 1
     },
     "synthetic": {
@@ -50,7 +52,7 @@
   "test1": {
     "cases": 40,
     "kept": {
-      "prior_results": 49,
+      "prior_results": 45,
       "history": 140,
       "medications": 49,
       "name": 31,
@@ -61,7 +63,8 @@
     "dropped": {
       "not_in_note": 5,
       "placeholder": 105,
-      "leak": 6
+      "leak": 6,
+      "same_day": 4
     },
     "synthetic": {
       "name": 12,
@@ -78,13 +81,14 @@
       "name": 26,
       "age": 31,
       "vitals": 48,
-      "prior_results": 58,
+      "prior_results": 56,
       "allergies": 11
     },
     "dropped": {
       "placeholder": 89,
       "leak": 11,
-      "not_in_note": 7
+      "not_in_note": 7,
+      "same_day": 2
     },
     "synthetic": {
       "name": 15,
@@ -97,7 +101,7 @@
     "cases": 40,
     "kept": {
       "vitals": 45,
-      "prior_results": 53,
+      "prior_results": 51,
       "history": 127,
       "medications": 73,
       "name": 27,
@@ -107,6 +111,7 @@
     "dropped": {
       "leak": 4,
       "placeholder": 46,
+      "same_day": 2,
       "not_in_note": 9
     },
     "synthetic": {

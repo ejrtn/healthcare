@@ -49,6 +49,16 @@ def test_every_chart_lists_all_fields():
                                  "Medications: lisinopril; Lasix", "Allergies:"]
 
 
+def test_same_day_results_are_dropped_but_outside_studies_kept():
+    note = ("X-rays of the right knee were obtained and reviewed in office today. "
+            "CT scan of chest, obtained at an outside facility, is reviewed today and demonstrates a 2 cm nodule. "
+            "Martha Lopez presents to the clinic today. Hemoglobin A1c was 8 last month.")
+    c, dropped = clean_chart(chart(prior_results=["X-rays of the right knee: no fracture",
+                                                  "CT scan of chest: 2 cm nodule", "Hemoglobin A1c 8"]), note)
+    assert c["prior_results"] == ["CT scan of chest: 2 cm nodule", "Hemoglobin A1c 8"]
+    assert dropped == [("X-rays of the right knee: no fracture", "same_day")]
+
+
 def test_blank_age_pair_removes_age_from_answer():
     from build_chart_data import blank_age_example
     target = json.dumps({"subjective": "Martha Collins is an 72-year-old female with 50 mg lisinopril."})
