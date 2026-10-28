@@ -42,3 +42,19 @@ os.environ["HF_TOKEN"] = UserSecretsClient().get_secret("HF_TOKEN")
 ```bash
 python evaluate.py --summarized data/summarized_kanana-1.5-8b.json --out data/evaluated_kanana-1.5-8b.json
 ```
+
+## 2차: A.X 숫자 오류 원인 가르기 (약 10분)
+
+A.X 요약 41/62건에서 날짜·사건번호의 한 자리가 빠졌다(`check_citations.py`). 샘플링(temperature 0.2) 때문인지
+확인하려고 temperature 0으로 다시 돌린다. Llama도 0으로 돌려 같은 조건의 기준을 만든다.
+
+```python
+# 셀 1(설치)을 다시 실행한 뒤
+%cd /kaggle/working/healthcare-lawsum/lawsum
+!git pull -q
+!python kaggle_summarize.py --model skt/A.X-4.0-Light --tag ax-4.0-light-t0 --temperature 0
+!python kaggle_summarize.py --model meta-llama/Llama-3.1-8B-Instruct --tag llama-3.1-8b-t0 --temperature 0
+!zip -q /kaggle/working/lawsum_t0.zip data/summarized_*-t0.json data/run_*-t0.json
+```
+
+로컬 채점: `python check_citations.py data/summarized_ax-4.0-light-t0.json` + `python evaluate.py ...`

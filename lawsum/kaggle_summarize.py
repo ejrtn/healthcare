@@ -38,6 +38,9 @@ def main():
     ap.add_argument("--model", required=True)
     ap.add_argument("--tag", required=True)
     ap.add_argument("--tp", type=int, default=2, help="8B FP16(16GB)는 T4 한 장(15GB)에 안 들어가 2장에 나눈다")
+    # summarize.py와 같은 0.2가 기본. A.X는 숫자를 한 자리씩 토큰으로 나눠, 0.2로 샘플링하면 연도·사건번호를
+    # 옮기다 한 자리를 빠뜨리는 일이 잦았다(check_citations.py) → 0(항상 가장 확률 높은 토큰)과 비교한다
+    ap.add_argument("--temperature", type=float, default=0.2)
     args = ap.parse_args()
 
     from vllm import LLM, SamplingParams
@@ -49,7 +52,7 @@ def main():
     llm = LLM(model=args.model, dtype="float16", tensor_parallel_size=args.tp, max_model_len=16384,
               gpu_memory_utilization=0.90, seed=0)
     # summarize.py(_ask)와 같은 생성 설정
-    params = SamplingParams(temperature=0.2, max_tokens=1500, seed=0)
+    params = SamplingParams(temperature=args.temperature, max_tokens=1500, seed=0)
 
     start = time.perf_counter()
     summaries, outputs = run(llm, params, SEMANTIC_PROMPT, texts)
@@ -67,7 +70,7 @@ def main():
                             "_truncated": o.outputs[0].finish_reason == "length"})
     with open(f"data/summarized_{args.tag}.json", "w", encoding="utf-8") as f:
         json.dump(results, f, ensure_ascii=False, indent=2)
-    stats = {"model": args.model, "tag": args.tag, "cases": len(results), "fallback_used": len(retry),
+    stats = {"model": args.model, "tag": args.tag, "temperature": args.temperature, "cases": len(results), "fallback_used": len(retry),
              "truncated": sum(r["_truncated"] for r in results), "wall_time_s": round(elapsed, 1),
              "empty": sum(len(r["ai_summary"]) < _EMPTY_RESULT_THRESHOLD for r in results)}
     with open(f"data/run_{args.tag}.json", "w", encoding="utf-8") as f:
