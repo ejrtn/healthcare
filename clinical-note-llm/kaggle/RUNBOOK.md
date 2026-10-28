@@ -181,10 +181,18 @@ M = "outputs/sft/qwen3b-r16-chart3/merged"
 
 ### 4-E: 당일 검사를 뺀 차트로 다시 학습 (약 1시간, 새 세션)
 
-차트를 정답 기록에서 거꾸로 만들다 보니, 이번 진료 중에 찍은 검사("X-rays taken in office today reveal...")가 진료 전
-차트에 들어가 있었다. 모델이 써야 할 RESULTS 구역을 입력으로 미리 보여 준 셈이라 차트 3차의 ROUGE 58.0·O-results 65가
-부풀었을 수 있다. `build_chart_data.same_day`로 이런 항목 23개(학습 12, 검증 3, 테스트 8)를 빼고 다시 만든 데이터로
-같은 설정으로 학습한다. 나머지(빈칸 짝 19건 등)는 차트 3차와 같다.
+차트를 정답 기록에서 거꾸로 만들다 보니, 이번 진료에서 생긴 정보가 진료 전 차트에 들어가 있었다. 모델이 써야 할 답을
+입력으로 미리 보여 준 셈이라 차트 3차의 ROUGE 58.0·O-results 65가 부풀었을 수 있다. 전체 차트 항목 1,653개를 정답
+기록의 출력 구역과 대조해 찾은 네 종류를 고쳤다(`src/build_chart_data.py`).
+
+| 종류 | 예 | 처리 | 학습 / 검증 / 테스트 |
+|---|---|---|---|
+| 이번 방문 검사의 판독 결과 | "X-rays of the right knee taken in office today reveal..." | 결과를 지우고 "X-rays of the right knee: obtained today, not yet reviewed"만 남김 | 22 / 8 / 27 |
+| 이번 진료의 새 처방 | "i'm gon na prescribe you some oxycodone" → 차트의 Oxycodone | 뺌 | 8 / 1 / 3 |
+| 활력징후 칸의 진찰 소견 | "Neck: supple", "Capillary refill is brisk" | 뺌 | 0 / 0 / 7 |
+| 과거력 칸의 이번 진료 판단 | "Hypertension: Uncontrolled at this time" | 뺌 | 4 / 0 / 1 |
+
+나머지(빈칸 짝 19건 등)는 차트 3차와 같다.
 
 같은 세션에서 **영어 중심 모델 Llama-3.2-3B-Instruct**도 같은 데이터·설정으로 학습해 비교한다. Qwen2.5는 중국어·영어
 중심의 다국어 모델이고, Llama 3.2는 영어 중심이다. 크기(3B)가 같아 모델 계열 차이만 본다. 전체 약 2.5시간.

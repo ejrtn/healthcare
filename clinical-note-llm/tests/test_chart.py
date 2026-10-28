@@ -49,14 +49,26 @@ def test_every_chart_lists_all_fields():
                                  "Medications: lisinopril; Lasix", "Allergies:"]
 
 
-def test_same_day_results_are_dropped_but_outside_studies_kept():
+def test_same_day_reading_removed_but_outside_studies_kept():
     note = ("X-rays of the right knee were obtained and reviewed in office today. "
             "CT scan of chest, obtained at an outside facility, is reviewed today and demonstrates a 2 cm nodule. "
             "Martha Lopez presents to the clinic today. Hemoglobin A1c was 8 last month.")
     c, dropped = clean_chart(chart(prior_results=["X-rays of the right knee: no fracture",
                                                   "CT scan of chest: 2 cm nodule", "Hemoglobin A1c 8"]), note)
-    assert c["prior_results"] == ["CT scan of chest: 2 cm nodule", "Hemoglobin A1c 8"]
+    # 이번 방문에 찍은 엑스레이는 판독 결과 없이 촬영 사실만 남는다
+    assert c["prior_results"] == ["X-rays of the right knee: obtained today, not yet reviewed",
+                                  "CT scan of chest: 2 cm nodule", "Hemoglobin A1c 8"]
     assert dropped == [("X-rays of the right knee: no fracture", "same_day")]
+
+
+def test_new_prescriptions_and_exam_findings_leave_the_chart():
+    dialogue = ("[doctor] are you still taking the lisinopril ? [patient] yes . [doctor] okay . "
+                "i'm gon na prescribe you some oxycodone five milligrams for pain .")
+    c, dropped = clean_chart(chart(medications=["Lisinopril 10 mg daily", "Oxycodone 5 mg every 6 hours"],
+                                   vitals=["Heart rate: 72 bpm", "Neck: supple, no jugular venous distension"]),
+                             NOTE + " Lisinopril 10 mg daily. Oxycodone 5 mg every 6 hours. Heart rate 72.", dialogue)
+    assert c["medications"] == ["Lisinopril 10 mg daily"] and c["vitals"] == ["Heart rate: 72 bpm"]
+    assert sorted(why for _, why in dropped) == ["exam", "new_rx"]
 
 
 def test_blank_age_pair_removes_age_from_answer():
@@ -102,19 +114,19 @@ def test_bracketed_and_note_referencing_placeholders_are_dropped():
 def test_meta_comments_dropped_and_sex_normalized():
     c, dropped = clean_chart(chart(sex="F", history=["[REDACTED - not provided in the conversation or note]",
                                                      "Allergies not specified in the note.", "Hypertension"],
-                                   prior_results=["Chest x-ray: normal (date not specified)"]), NOTE)
+                                   prior_results=["Chest CT: normal (date not specified)"]), NOTE)
     assert c["sex"] == "Female" and c["history"] == ["Hypertension"]
-    assert c["prior_results"] == ["Chest x-ray: normal"] and len(dropped) == 2
+    assert c["prior_results"] == ["Chest CT: normal"] and len(dropped) == 2
 
 
 def test_bracket_placeholders_removed_everywhere():
     c, dropped = clean_chart(chart(vitals=["Blood Pressure: [value]", "Blood pressure 128/72"],
                                    history=["Past Medical History: Anxiety, Epilepsy; Past Surgical History: [details]"],
                                    medications=["Keppra [current dosage]", "[list]"],
-                                   prior_results=["X-rays of the low back: Normal (Date: [date])"]), NOTE)
+                                   prior_results=["MRI of the low back: Normal (Date: [date])"]), NOTE)
     assert c["vitals"] == ["Blood pressure 128/72"]
     assert c["history"] == ["Past Medical History: Anxiety, Epilepsy"]
-    assert c["medications"] == ["Keppra"] and c["prior_results"] == ["X-rays of the low back: Normal"]
+    assert c["medications"] == ["Keppra"] and c["prior_results"] == ["MRI of the low back: Normal"]
     assert "[" not in render_chart(c)
 
 

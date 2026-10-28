@@ -3,18 +3,20 @@
     "cases": 79,
     "kept": {
       "vitals": 68,
-      "prior_results": 162,
-      "history": 231,
-      "medications": 143,
+      "prior_results": 173,
+      "history": 227,
+      "medications": 135,
       "name": 54,
       "age": 59,
       "allergies": 24
     },
     "dropped": {
-      "leak": 6,
+      "leak": 7,
       "placeholder": 180,
-      "same_day": 12,
-      "not_in_note": 11
+      "same_day": 22,
+      "assessment": 4,
+      "not_in_note": 11,
+      "new_rx": 8
     },
     "synthetic": {
       "name": 28,
@@ -29,16 +31,17 @@
     "kept": {
       "vitals": 21,
       "history": 56,
-      "medications": 29,
+      "medications": 28,
       "name": 14,
       "age": 15,
-      "prior_results": 21,
+      "prior_results": 23,
       "allergies": 2
     },
     "dropped": {
       "placeholder": 38,
-      "leak": 6,
-      "same_day": 3,
+      "leak": 7,
+      "same_day": 8,
+      "new_rx": 1,
       "not_in_note": 1
     },
     "synthetic": {
@@ -52,19 +55,22 @@
   "test1": {
     "cases": 40,
     "kept": {
-      "prior_results": 45,
-      "history": 140,
-      "medications": 49,
+      "prior_results": 49,
+      "history": 139,
+      "medications": 47,
       "name": 31,
       "age": 32,
       "allergies": 12,
-      "vitals": 35
+      "vitals": 34
     },
     "dropped": {
       "not_in_note": 5,
+      "same_day": 13,
       "placeholder": 105,
       "leak": 6,
-      "same_day": 4
+      "assessment": 1,
+      "new_rx": 2,
+      "exam": 1
     },
     "synthetic": {
       "name": 12,
@@ -77,18 +83,19 @@
     "cases": 40,
     "kept": {
       "history": 122,
-      "medications": 72,
+      "medications": 71,
       "name": 26,
       "age": 31,
       "vitals": 48,
-      "prior_results": 56,
+      "prior_results": 58,
       "allergies": 11
     },
     "dropped": {
       "placeholder": 89,
+      "same_day": 8,
       "leak": 11,
       "not_in_note": 7,
-      "same_day": 2
+      "new_rx": 1
     },
     "synthetic": {
       "name": 15,
@@ -100,8 +107,8 @@
   "test3": {
     "cases": 40,
     "kept": {
-      "vitals": 45,
-      "prior_results": 51,
+      "vitals": 39,
+      "prior_results": 53,
       "history": 127,
       "medications": 73,
       "name": 27,
@@ -111,7 +118,8 @@
     "dropped": {
       "leak": 4,
       "placeholder": 46,
-      "same_day": 2,
+      "exam": 6,
+      "same_day": 6,
       "not_in_note": 9
     },
     "synthetic": {

@@ -3,9 +3,13 @@
 추출 모델이 지시를 어길 수 있어 항목마다 규칙으로 한 번 더 거른다.
   - not_in_note: 숫자가 정답 기록에 없다 → 추출 모델이 지어낸 값
   - leak: 치료 계획·진단·진찰 소견처럼 이번 진료에서 정해진 내용 → 모델이 써야 할 답을 미리 보여 주는 셈
-  - same_day: 이번 진료 중에 찍거나 한 검사("X-rays taken in office today reveal...") → 진료 전 차트에 있을 수 없다.
-    검사 결과 항목과 그 항목을 옮겨 온 정답 기록 문장을 함께 본다. "reviewed today"만 있으면(다른 곳에서 미리 찍은
-    CT를 오늘 본 경우) 남긴다
+  - 이번 방문의 검사(same_day): 진료 직전에 찍은 엑스레이처럼 영상은 진료 전에 있지만, 판독 결과("no fracture")는 의사가
+    진료 중에 내린 판단이고 정답 RESULTS 문장 그대로다. 결과를 지우고 "X-rays of the right knee: obtained today, not yet
+    reviewed"처럼 촬영 사실만 남긴다. 검사 항목과 그 항목을 옮겨 온 정답 기록 문장을 함께 본다. 엑스레이는 날짜·외부 병원·
+    응급실·작년 같은 표시가 없으면 이번 방문 것으로 본다(ACI-BENCH 대화에서 "we did an x-ray before you came in"이 대부분)
+  - new_rx: 이번 진료에서 처방한 약("i'm gon na prescribe you some oxycodone") → 복용 중인 약이 아니다
+  - exam: 활력징후 칸에 들어간 진찰 소견("Neck: supple", "Capillary refill is brisk")
+  - assessment: 과거력 칸에 들어간 이번 진료의 판단("Hypertension: Uncontrolled at this time")
 
 대화에 나온 정보도 차트에 그대로 둔다(실제 차트는 대화와 상관없이 같은 내용을 담는다).
 
@@ -65,10 +69,67 @@ def source_sentence(item, note):
     return best
 
 
+IMAGING = re.compile(r"\bx-?rays?\b|\bxrays?\b|\bradiographs?\b|\b\d+ views\b", re.I)
+PRIOR = re.compile(r"\d{1,2}/\d{1,2}/\d{2,4}|\boutside\b|\bemergency\b|\b(?:er|ed)\b|\blast (?:year|month|week)\b|"
+                   r"\bprevious(?:ly)?\b|\bprior\b|\bago\b|\bin (?:19|20)\d\d\b", re.I)
+
+
 def same_day(item, note):
     # "obtained at an outside facility, is reviewed today": 다른 병원에서 미리 찍은 검사는 진료 전 차트에 있다
     src = source_sentence(item, note)
-    return bool(SAME_DAY.search(item) or (SAME_DAY.search(src) and not re.search(r"\boutside\b", src, re.I)))
+    if PRIOR.search(item) or re.search(r"\boutside\b", src, re.I):
+        return bool(SAME_DAY.search(item))
+    return bool(SAME_DAY.search(item) or SAME_DAY.search(src) or (IMAGING.search(item) and not PRIOR.search(src)))
+
+
+RESULT_START = re.compile(r"\s*(?::|,|\b(?:reveals?|revealed|shows?|showed|demonstrat\w*|is|are|was|were|does|do|obtained|taken|"
+                          r"performed|done|completed|reviewed|ordered|today)\b)", re.I)
+
+
+def test_only(item):
+    """판독 결과를 지우고 검사 이름만 남긴다. "X-rays of the right knee taken in office today reveal..." →
+    "X-rays of the right knee: obtained today, not yet reviewed"."""
+    m = RESULT_START.search(item)
+    name = (item[:m.start()] if m and m.start() > 0 else item).strip(" .,;")
+    if re.match(r"(?:no|normal|negative)\b", name, re.I):  # "No fractures found in x-rays taken during this visit"
+        name = IMAGING.search(item).group() if IMAGING.search(item) else "Test"
+        name = name[0].upper() + name[1:]
+    return f"{name}: obtained today, not yet reviewed"
+
+
+def planned_test(item, note):
+    """오늘 하기로 한 검사("We will obtain a kidney ultrasound today", "Order for hemoglobin A1c ... provided today")는
+    아직 결과가 없는 이번 진료의 계획이다."""
+    src = source_sentence(item, note)
+    return bool(re.search(r"\b(?:will|order\w*)\b", src, re.I)
+                and not re.search(r"\b(?:obtained|taken|performed|done|completed)\b", src, re.I))
+
+
+# 의사가 지금 처방하겠다고 말한 바로 뒤에 약 이름이 나오면 이번 진료의 새 처방이다("i'm gon na prescribe you some oxycodone",
+# "we should go ahead and put you on protonix"). "dr. brown put you on buspar", "she was prescribed"처럼 과거 처방은 아니다
+PRESCRIBE = re.compile(r"\b(?:i'm (?:also )?gon na|i am gon na|i'm going to|we're going to|i will|we will|we'll|"
+                       r"i (?:also )?wan na|i want to|let's|we should|go ahead and|and we)\b[^.?]{0,40}?"
+                       r"(?:\b(?:prescrib\w*|put you on|start you on|get you on|give you)\b[^.?]{0,60}|\btry (?:some |the )?)$")
+GENERIC = {"medication", "medications", "blood", "antibiotics", "current", "pain", "other"}
+
+
+def new_prescription(item, dialogue):
+    drug = re.match(r"[A-Za-z][A-Za-z-]{2,}", item)
+    if not drug or drug.group().lower() in GENERIC:
+        return False
+    d = dialogue.lower()
+    for m in re.finditer(re.escape(drug.group().lower()), d):
+        before = d[max(0, m.start() - 120):m.start()]
+        if PRESCRIBE.search(before) and not re.search(r"instead of (?:the )?$", before):
+            return True
+    return False
+
+
+# 활력징후 칸에 진찰 소견이 들어간 경우만 뺀다(검사 수치가 잘못 들어간 "Hemoglobin: 8.2"는 진료 전 정보라 남긴다)
+EXAM = re.compile(r"\b(?:neck|heart(?! rate)|lungs?|musculoskeletal|capillary refill|murmur|edema|supple|wheez\w*|rales|"
+                  r"abdomen|extremit\w*|skin|neuro\w*|tender\w*|range of motion)\b", re.I)
+ASSESSMENT = re.compile(r"\bat this time\b|\buncontrolled\b|\bdoing well\b|\bhigh risk medication use\b", re.I)
+FAMILY = re.compile(r"\b(?:mother|father|sister|brother|son|daughter|family)\b", re.I)  # 가족력의 "doing well"은 진단이 아니다
 
 
 # 추출 모델이 빈칸 대신 써 넣은 말 ("N/A", "Past surgical history: None mentioned", "Height: [not specified]",
@@ -125,7 +186,7 @@ def keep(item, note_nums):
     return True, ""
 
 
-def clean_chart(chart, note):
+def clean_chart(chart, note, dialogue=""):
     if chart is None:
         return {"name": "", "age": "", "sex": ""} | {k: [] for k in LIST_FIELDS}, [("all", "extract_failed")]
     note_nums = numbers(note)
@@ -141,8 +202,17 @@ def clean_chart(chart, note):
                 dropped.append((raw_item, "placeholder"))
                 continue
             ok, why = keep(item, note_nums)
-            if ok and k == "prior_results" and same_day(item, note):
-                ok, why = False, "same_day"
+            if ok and k == "prior_results" and same_day(item, note) and planned_test(item, note):
+                ok, why = False, "leak"
+            elif ok and k == "prior_results" and same_day(item, note):
+                dropped.append((item, "same_day"))
+                item = test_only(item)  # 결과는 빼고 "오늘 촬영함"만 남긴다
+            elif ok and k == "medications" and new_prescription(item, dialogue):
+                ok, why = False, "new_rx"
+            elif ok and k == "vitals" and EXAM.search(item):
+                ok, why = False, "exam"
+            elif ok and k == "history" and ASSESSMENT.search(item) and not FAMILY.search(item):
+                ok, why = False, "assessment"
             (out[k].append(item) if ok else dropped.append((item, why)))
     # 이름은 기록에 그대로 있어야 하고, 나이는 숫자가 기록에 있어야 한다
     name = strip_placeholders(chart.get("name", ""))
@@ -224,7 +294,7 @@ def main():
         comp = {r["id"]: r for r in load_jsonl(comp_path)} if comp_path.exists() else {}
         reasons, kept, synthetic, rows = Counter(), Counter(), Counter(), []
         for cid, (dialogue, note, _) in cases.items():
-            strict, dropped = clean_chart(raw.get(cid), note)
+            strict, dropped = clean_chart(raw.get(cid), note, dialogue)
             c = comp.get(cid) or {}
             demo = fill(cid, note, dialogue, strict)
             chart = strict | {k: demo[k] for k in ["name", "age", "sex"]}
