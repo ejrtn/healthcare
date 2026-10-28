@@ -134,3 +134,11 @@ def test_add_mentioned_items_note_values_checked_invented_allowed():
     assert c["vitals"] == ["Blood pressure 128/72"] and c["medications"] == ["lisinopril 20 mg daily"]
     assert [a["source"] for a in added] == ["note", "invented"]
     assert sorted(why for _, why in dropped) == ["leak", "not_in_note"]
+
+
+def test_note_reference_without_article_dropped():
+    c, _ = clean_chart(chart(allergies=["Unknown from note provided."],
+                             vitals=["Blood glucose: Not specified in note", "Blood pressure 128/72"],
+                             history=["Older sister has an unknown heart problem"]), NOTE)
+    assert c["allergies"] == [] and c["vitals"] == ["Blood pressure 128/72"]
+    assert c["history"] == ["Older sister has an unknown heart problem"]  # 실제 가족력 정보는 남긴다

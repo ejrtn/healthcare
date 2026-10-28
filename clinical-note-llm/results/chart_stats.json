@@ -3,16 +3,16 @@
     "cases": 79,
     "kept": {
       "vitals": 68,
-      "prior_results": 176,
-      "history": 237,
-      "medications": 146,
+      "prior_results": 174,
+      "history": 231,
+      "medications": 143,
       "name": 54,
       "age": 59,
-      "allergies": 25
+      "allergies": 24
     },
     "dropped": {
-      "leak": 9,
-      "placeholder": 186,
+      "leak": 6,
+      "placeholder": 180,
       "not_in_note": 11
     },
     "synthetic": {
@@ -25,16 +25,16 @@
     "cases": 20,
     "kept": {
       "vitals": 21,
-      "history": 54,
-      "medications": 30,
+      "history": 56,
+      "medications": 29,
       "name": 14,
       "age": 15,
       "prior_results": 24,
       "allergies": 2
     },
     "dropped": {
-      "placeholder": 45,
-      "leak": 8,
+      "placeholder": 38,
+      "leak": 6,
       "not_in_note": 1
     },
     "synthetic": {
@@ -46,17 +46,17 @@
   "test1": {
     "cases": 40,
     "kept": {
-      "prior_results": 48,
-      "history": 137,
+      "prior_results": 49,
+      "history": 140,
       "medications": 49,
       "name": 31,
       "age": 32,
-      "allergies": 13,
-      "vitals": 34
+      "allergies": 12,
+      "vitals": 35
     },
     "dropped": {
       "not_in_note": 5,
-      "placeholder": 110,
+      "placeholder": 105,
       "leak": 6
     },
     "synthetic": {
@@ -68,16 +68,16 @@
   "test2": {
     "cases": 40,
     "kept": {
-      "history": 121,
+      "history": 122,
       "medications": 72,
       "name": 26,
       "age": 31,
-      "vitals": 47,
-      "prior_results": 54,
-      "allergies": 10
+      "vitals": 48,
+      "prior_results": 58,
+      "allergies": 11
     },
     "dropped": {
-      "placeholder": 93,
+      "placeholder": 89,
       "leak": 11,
       "not_in_note": 7
     },
@@ -90,17 +90,17 @@
   "test3": {
     "cases": 40,
     "kept": {
-      "vitals": 43,
-      "prior_results": 52,
-      "history": 118,
+      "vitals": 45,
+      "prior_results": 53,
+      "history": 127,
       "medications": 73,
       "name": 27,
       "age": 28,
-      "allergies": 9
+      "allergies": 10
     },
     "dropped": {
-      "leak": 5,
-      "placeholder": 50,
+      "leak": 4,
+      "placeholder": 46,
       "not_in_note": 9
     },
     "synthetic": {

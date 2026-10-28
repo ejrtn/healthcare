@@ -53,7 +53,7 @@ PLACEHOLDER = re.compile(
 
 # 위 목록으로 다 못 잡는 변형("[REDACTED - not provided in the conversation or note]", "Allergies not specified in the
 # note.")은 차트 내용이 아니라 추출 작업에 대한 말이다 — 실제 차트는 "노트"나 "대화"를 언급하지 않는다
-META = re.compile(r"\b(?:in|from) the (?:note|conversation)\b|redacted|\[[^\]]*not provided[^\]]*\]|"
+META = re.compile(r"\b(?:in|from) (?:the )?(?:note|conversation)\b|redacted|\[[^\]]*not provided[^\]]*\]|"
                   r"^[^:]*\bnot (?:specified|provided|mentioned|documented)\b[^:]*\.?$", re.I)
 # "Right ankle x-ray: No fracture (date not specified)" → 괄호 안 군말만 지운다
 META_PAREN = re.compile(r"\s*\([^)]*\bnot (?:specified|provided|included|mentioned)\b[^)]*\)", re.I)
