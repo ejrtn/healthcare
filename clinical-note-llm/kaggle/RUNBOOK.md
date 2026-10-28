@@ -263,6 +263,10 @@ L, M = "meta-llama/Llama-3.2-3B-Instruct", "outputs/sft/llama3b-r16-chart4/merge
 - 셀 2-L에서 401/403(gated repo): HF에서 Llama 3.2 라이선스 동의가 안 됐거나 `HF_TOKEN`이 비었다.
 - 셀 2-L에서 GPU 메모리 부족: Llama 어휘가 커서(128k) Qwen보다 메모리를 더 쓴다. `--max-length 4096`으로 다시 실행한다.
 
+결과 (round4e, Qwen만): ROUGE-1 57.8(3차 58.0), 근거 없는 숫자 5.5%, 지어낸 나이 0. 판독 결과가 차트에 있던 테스트 26건의
+O-results는 79.7 → 57.9로 내려가 3차 점수가 누출로 부풀었던 것이 확인됐다. 모델은 판독 결과를 대화에서 가져온다
+(README "차트 4차"). Llama 결과(셀 2-L, 4-L)는 이번 zip에 없다.
+
 ## 3차: DPO — "대화와 반대로 쓰기"·지어낸 사실 줄이기
 
 흐름: 2차 SFT 모델로 학습 대화마다 후보 8개 생성(vLLM) → 14B 판정 모델이 후보마다 "대화와 반대"·"대화에 없는 사실"을
