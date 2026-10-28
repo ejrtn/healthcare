@@ -104,7 +104,7 @@ def main():
             for r in rows:
                 f.write(json.dumps(r, ensure_ascii=False) + "\n")
         stats[split] = {"cases": len(rows), "kept": dict(kept), "dropped": dict(reasons),
-                        "empty_charts": sum(r["chart_text"] == "(no chart information)" for r in rows)}
+                        "empty_charts": sum(not any(r["chart"].values()) for r in rows)}
 
         if split in ("train", "valid"):
             with open(ROOT / "data" / "sft_chart" / f"{split}.jsonl", "w", encoding="utf-8") as f:

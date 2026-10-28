@@ -38,7 +38,15 @@ def test_drops_invented_and_leaked_items_but_keeps_spoken_ones():
 
 def test_failed_extraction_gives_empty_chart():
     c, dropped = clean_chart(None, NOTE)
-    assert render_chart(c) == "(no chart information)" and dropped == [("all", "extract_failed")]
+    assert dropped == [("all", "extract_failed")]
+    assert render_chart(c).splitlines()[1] == "Age: not recorded" and render_chart(c).count("not recorded") == 8
+
+
+def test_every_chart_lists_all_fields():
+    text = render_chart(chart(age="50", medications=["lisinopril", "Lasix"]))
+    assert text.splitlines() == ["Name: not recorded", "Age: 50", "Sex: not recorded", "Vital signs: not recorded",
+                                 "Prior results: not recorded", "History: not recorded",
+                                 "Medications: lisinopril; Lasix", "Allergies: not recorded"]
 
 
 def test_chart_prompt():

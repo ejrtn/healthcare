@@ -66,6 +66,46 @@ ACI-BENCH에는 차트가 없으므로 정답 기록에서 거꾸로 복원해, 
 !ls -la /kaggle/working/round4b.zip
 ```
 
+### 4-C: 모든 차트가 같은 항목을 갖게 해서 다시 학습 (약 1시간 반, 새 세션)
+
+4-B 결과: 차트에 나이가 없는 29건 중 16건에서 나이를 지어냈다. 차트가 사례마다 줄 수가 달라(모르는 항목은 줄이 빠짐)
+"없으면 쓰지 않는다"가 입력에 드러나지 않았다. 이제 모든 차트가 8개 항목을 같은 순서로 갖고, 모르는 값은 "not recorded"다.
+4-B와 같은 순서이고 이름(chart2)만 다르다.
+
+```python
+# 셀 1: 코드 + 학습 라이브러리
+%cd /kaggle/working
+!git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git || (cd healthcare && git pull -q)
+%cd /kaggle/working/healthcare/clinical-note-llm
+!pip install -q trl peft bitsandbytes && pip uninstall -y -q torchao
+```
+
+```python
+# 셀 2: 학습(약 25분) → 병합
+%cd /kaggle/working/healthcare/clinical-note-llm
+!torchrun --nproc_per_node 2 kaggle/02_sft.py --run-name qwen3b-r16-chart2 --data-dir data/sft_chart --max-length 5200 && python kaggle/02_sft.py --run-name qwen3b-r16-chart2 --merge-only
+```
+
+```python
+# 셀 3: vLLM 설치 — 끝나면 Run → Restart & clear cell outputs
+!pip install -q vllm rouge-score==0.1.2 && pip uninstall -y -q torchaudio torchao
+```
+
+```python
+# 셀 4: 테스트 120건 (학습 전 모델도 새 차트 형식으로 다시)
+%cd /kaggle/working/healthcare/clinical-note-llm
+!python kaggle/01_baseline.py --model Qwen/Qwen2.5-3B-Instruct --mode json --tag Qwen2.5-3B-Instruct-chart2-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
+!python kaggle/01_baseline.py --model outputs/sft/qwen3b-r16-chart2/merged --mode json --group sft --tag qwen3b-r16-chart2-fp0.4 --frequency-penalty 0.4 --chart-dir data/chart
+!python src/faithfulness.py outputs/baseline/Qwen2.5-3B-Instruct-chart2-fp0.4_json.jsonl outputs/sft/qwen3b-r16-chart2-fp0.4_json.jsonl --chart-dir data/chart --out results/faithfulness_chart2.json
+```
+
+```python
+# 셀 5: 결과 압축
+%cd /kaggle/working/healthcare/clinical-note-llm
+!zip -q -r /kaggle/working/round4c.zip outputs/baseline/*chart2* outputs/sft/*chart2*.jsonl results/*chart2* outputs/sft/qwen3b-r16-chart2/train_stats.json
+!ls -la /kaggle/working/round4c.zip
+```
+
 ## 3차: DPO — "대화와 반대로 쓰기"·지어낸 사실 줄이기
 
 흐름: 2차 SFT 모델로 학습 대화마다 후보 8개 생성(vLLM) → 14B 판정 모델이 후보마다 "대화와 반대"·"대화에 없는 사실"을

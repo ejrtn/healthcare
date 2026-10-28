@@ -40,14 +40,17 @@ CHART_FIELDS = [("name", "Name"), ("age", "Age"), ("sex", "Sex"), ("vitals", "Vi
 
 
 def render_chart(chart: dict) -> str:
-    """차트 dict → 모델 입력용 텍스트. 빈 항목은 줄을 만들지 않는다."""
+    """차트 dict → 모델 입력용 텍스트. 모든 차트가 같은 항목을 같은 순서로 갖는다.
+
+    모르는 값은 줄을 빼지 않고 "not recorded"로 적는다. 줄을 빼면 차트에 나이가 없는 경우 모델이 정답 기록의
+    습관("NN-year-old")대로 나이를 지어냈다(차트 SFT 1차, 나이 없는 29건 중 16건) — "없으면 쓰지 않는다"를 입력에서 보여 준다.
+    """
     lines = []
     for key, label in CHART_FIELDS:
         value = chart.get(key)
         value = "; ".join(value) if isinstance(value, list) else (value or "")
-        if value.strip():
-            lines.append(f"{label}: {value.strip()}")
-    return "\n".join(lines) or "(no chart information)"
+        lines.append(f"{label}: {value.strip() or 'not recorded'}")
+    return "\n".join(lines)
 
 
 def build_messages(dialogue: str, json_mode: bool, chart_text: str | None = None) -> list:
