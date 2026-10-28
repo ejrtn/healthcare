@@ -102,3 +102,20 @@ def test_llm_demographics_fill_only_missing_slots():
     c, filled = fill_demographics(chart(age="61"), "X", "", "", llm)
     assert filled == ["name", "sex"] and c["name"] == "Sarah Thompson" and c["age"] == "61" and c["sex"] == "Female"
     assert c["medications"] == []  # 인적사항 말고는 채우지 않는다
+
+
+def test_bracket_placeholders_removed_everywhere():
+    c, dropped = clean_chart(chart(vitals=["Blood Pressure: [value]", "Blood pressure 128/72"],
+                                   history=["Past Medical History: Anxiety, Epilepsy; Past Surgical History: [details]"],
+                                   medications=["Keppra [current dosage]", "[list]"],
+                                   prior_results=["X-rays of the low back: Normal (Date: [date])"]), NOTE)
+    assert c["vitals"] == ["Blood pressure 128/72"]
+    assert c["history"] == ["Past Medical History: Anxiety, Epilepsy"]
+    assert c["medications"] == ["Keppra"] and c["prior_results"] == ["X-rays of the low back: Normal"]
+    assert "[" not in render_chart(c)
+
+
+def test_age_sentence_reduced_to_number_and_bare_lab_label_dropped():
+    c, _ = clean_chart(chart(age="While the exact age is not provided, the note states she is 50 years old",
+                             prior_results=["Hemoglobin A1c:", "BNP 3000 in 03/2021"]), NOTE)
+    assert c["age"] == "50" and c["prior_results"] == ["BNP 3000 in 03/2021"]

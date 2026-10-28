@@ -2,17 +2,17 @@
   "train": {
     "cases": 79,
     "kept": {
-      "vitals": 99,
-      "prior_results": 183,
-      "history": 252,
-      "medications": 148,
+      "vitals": 68,
+      "prior_results": 176,
+      "history": 238,
+      "medications": 146,
       "name": 54,
       "age": 59,
-      "allergies": 35
+      "allergies": 25
     },
     "dropped": {
       "leak": 8,
-      "placeholder": 122,
+      "placeholder": 186,
       "not_in_note": 11
     },
     "synthetic": {
@@ -24,16 +24,16 @@
   "valid": {
     "cases": 20,
     "kept": {
-      "vitals": 25,
+      "vitals": 21,
       "history": 55,
       "medications": 30,
       "name": 14,
       "age": 15,
       "prior_results": 24,
-      "allergies": 3
+      "allergies": 2
     },
     "dropped": {
-      "placeholder": 40,
+      "placeholder": 45,
       "leak": 7,
       "not_in_note": 1
     },
@@ -47,16 +47,16 @@
     "cases": 40,
     "kept": {
       "prior_results": 48,
-      "history": 141,
-      "medications": 50,
+      "history": 137,
+      "medications": 49,
       "name": 31,
       "age": 32,
-      "allergies": 17,
-      "vitals": 53
+      "allergies": 13,
+      "vitals": 34
     },
     "dropped": {
       "not_in_note": 5,
-      "placeholder": 82,
+      "placeholder": 110,
       "leak": 6
     },
     "synthetic": {
@@ -68,16 +68,16 @@
   "test2": {
     "cases": 40,
     "kept": {
-      "vitals": 64,
-      "prior_results": 58,
-      "history": 127,
+      "history": 121,
       "medications": 72,
-      "allergies": 13,
       "name": 26,
-      "age": 31
+      "age": 31,
+      "vitals": 47,
+      "prior_results": 54,
+      "allergies": 10
     },
     "dropped": {
-      "placeholder": 63,
+      "placeholder": 93,
       "leak": 11,
       "not_in_note": 7
     },
@@ -96,11 +96,11 @@
       "medications": 73,
       "name": 27,
       "age": 28,
-      "allergies": 10
+      "allergies": 9
     },
     "dropped": {
       "leak": 5,
-      "placeholder": 49,
+      "placeholder": 50,
       "not_in_note": 9
     },
     "synthetic": {

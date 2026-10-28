@@ -57,6 +57,24 @@ META_PAREN = re.compile(r"\s*\([^)]*\bnot (?:specified|provided|included|mention
 SEX = {"female": "Female", "f": "Female", "woman": "Female", "male": "Male", "m": "Male", "man": "Male"}
 
 
+# 대괄호 자리 표시("[value]", "[details]", "[date]", "[current dosage]", "[list]")는 추출 모델이 빈칸에 써 넣은 것이다.
+# 실제 차트에는 없는 표기라 문구를 하나씩 목록에 넣는 대신 대괄호는 모두 지운다 — 학습 전 모델이 차트의 "[value]"를
+# 진료기록에 그대로 옮겨 적었다(Qwen2.5-3B + 차트, 2건).
+BRACKET = re.compile(r"\s*\[[^\]]*\]")
+EMPTY_PAREN = re.compile(r"\s*\(\s*(?:[A-Za-z ]{1,20}:\s*)?\)")
+LABEL_ONLY = re.compile(r"^[A-Za-z0-9 ,()/&.-]{1,40}:\s*$")
+
+
+def strip_placeholders(item):
+    """항목에서 대괄호 자리 표시를 지우고, 그 때문에 값 없이 이름만 남은 조각("Past Surgical History:")도 지운다."""
+    parts = []
+    for part in item.split(";"):
+        part = EMPTY_PAREN.sub("", BRACKET.sub("", part)).strip()
+        if part and not LABEL_ONLY.match(part):
+            parts.append(part)
+    return "; ".join(parts)
+
+
 def numbers(text):
     return {int(n) for n in re.findall(r"\d+", text)}
 
@@ -80,16 +98,25 @@ def clean_chart(chart, note):
     out, dropped = {}, []
     for k in LIST_FIELDS:
         out[k] = []
-        for item in chart.get(k, []):
-            item = META_PAREN.sub("", item).strip()
+        for raw_item in chart.get(k, []):
+            if META.search(raw_item):  # "[REDACTED - not provided ...]"는 대괄호를 지우기 전에 알아본다
+                dropped.append((raw_item, "placeholder"))
+                continue
+            item = strip_placeholders(META_PAREN.sub("", raw_item))
+            if not item:
+                dropped.append((raw_item, "placeholder"))
+                continue
             ok, why = keep(item, note_nums)
             (out[k].append(item) if ok else dropped.append((item, why)))
     # 이름은 기록에 그대로 있어야 하고, 나이는 숫자가 기록에 있어야 한다
-    out["name"] = chart.get("name", "") if chart.get("name", "") and chart["name"] in note else ""
-    age = chart.get("age", "")
-    out["age"] = age if age and numbers(age) and numbers(age) <= note_nums else ""
+    name = strip_placeholders(chart.get("name", ""))
+    out["name"] = name if name and name in note else ""
+    age = strip_placeholders(chart.get("age", ""))
+    # 나이 칸에 문장을 쓴 경우("...the note states she is 71 years old")가 있어 숫자만 남긴다
+    age_num = re.search(r"\d+", age)
+    out["age"] = age_num.group() if age_num and int(age_num.group()) in note_nums else ""
     # "F", "female", "Female"이 섞이지 않게 통일. 그 밖의 값(Non-binary 등)은 기록에 있을 때만 그대로 둔다
-    sex = chart.get("sex", "").strip()
+    sex = strip_placeholders(chart.get("sex", ""))
     out["sex"] = SEX.get(sex.lower(), sex if sex and sex.lower() in note.lower() else "")
     return out, dropped
 
