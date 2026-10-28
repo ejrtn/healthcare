@@ -1,0 +1,9 @@
+{
+  "model": "kakaocorp/kanana-1.5-8b-instruct-2505",
+  "tag": "kanana-1.5-8b",
+  "cases": 62,
+  "fallback_used": 0,
+  "truncated": 9,
+  "wall_time_s": 627.8,
+  "empty": 0
+}

@@ -1,0 +1,9 @@
+{
+  "model": "skt/A.X-4.0-Light",
+  "tag": "ax-4.0-light",
+  "cases": 62,
+  "fallback_used": 0,
+  "truncated": 2,
+  "wall_time_s": 255.5,
+  "empty": 0
+}
