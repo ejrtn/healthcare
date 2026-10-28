@@ -53,3 +53,11 @@ def test_placeholder_values_are_dropped():
     c, dropped = clean_chart(chart(sex="N/A", allergies=["none mentioned", "No known allergies"]), NOTE)
     assert c["sex"] == "" and c["allergies"] == ["No known allergies"]
     assert dropped == [("none mentioned", "placeholder")]
+
+
+def test_labels_without_values_and_suspected_findings_are_dropped():
+    c, dropped = clean_chart(chart(vitals=["Blood pressure", "Blood pressure 128/72"],
+                                   history=["Past surgical history: None mentioned"],
+                                   prior_results=["Urinary tract infection suspected"]), NOTE)
+    assert c["vitals"] == ["Blood pressure 128/72"] and c["history"] == [] and c["prior_results"] == []
+    assert sorted(why for _, why in dropped) == ["leak", "placeholder", "placeholder"]

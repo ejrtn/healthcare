@@ -28,13 +28,15 @@ LIST_FIELDS = ["vitals", "prior_results", "history", "medications", "allergies"]
 LEAK = re.compile(
     r"\b(plan|planned|recommend\w*|will|advis\w*|refer\w*|follow[- ]?up|prescrib\w*|increas\w*|decreas\w*|"
     r"discontinu\w*|start(?:ed|ing)? (?:on|her|him)|diagnos\w*|assessment|impression|exam(?:ination)?|tender\w*|"
-    r"palpat\w*|auscultat\w*)\b", re.I)
+    r"palpat\w*|auscultat\w*|suspect\w*|order\w*|rule out|concern(?:ing)? for)\b", re.I)
 
 
-# 추출 모델이 빈칸 대신 써 넣은 말 ("N/A", "none mentioned"). "No known allergies"는 실제 정보라 남긴다
+# 추출 모델이 빈칸 대신 써 넣은 말 ("N/A", "Past surgical history: None mentioned"), 값 없이 이름만 있는 활력징후
+# ("Blood pressure"). "No known allergies"는 실제 정보라 남긴다
 PLACEHOLDER = re.compile(
-    r"^(?:n/?a|none|unknown|not (?:mentioned|specified|stated|documented|provided)|"
-    r"none (?:mentioned|reported|documented|specified)|no (?:specific )?allergies (?:mentioned|reported|documented))\.?$",
+    r"^(?:[A-Za-z ]{1,30}:\s*)?(?:n/?a|none|unknown|not (?:mentioned|specified|stated|documented|provided)|"
+    r"none (?:mentioned|reported|documented|specified)|no (?:specific )?allergies (?:mentioned|reported|documented)|"
+    r"blood pressure|heart rate|pulse|respiratory rate|temperature|oxygen saturation|weight|height|bmi|vitals?)\.?$",
     re.I)
 
 
