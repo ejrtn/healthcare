@@ -58,3 +58,20 @@ A.X 요약 41/62건에서 날짜·사건번호의 한 자리가 빠졌다(`check
 ```
 
 로컬 채점: `python check_citations.py data/summarized_ax-4.0-light-t0.json` + `python evaluate.py ...`
+
+## 3차: 숫자 누락 원인 — vLLM 출력 변환 vs FP16 정밀도 (약 30분)
+
+temperature 0에서도 같은 자리가 빠졌다(43/62). 틀린 표기가 나오는 3건만 앞부분까지 생성해 비교한다.
+
+```python
+# 셀 1(설치) 후
+%cd /kaggle/working/healthcare-lawsum/lawsum
+!git pull -q
+!python diagnose_digits.py --mode vllm          # vLLM 출력 vs 같은 토큰을 HF 토크나이저로 다시 푼 글자
+!python diagnose_digits.py --mode hf-gpu-fp16   # vLLM 없이 transformers, GPU FP16
+!python diagnose_digits.py --mode hf-cpu-bf16   # transformers, CPU BF16 (학습 때와 같은 정밀도, 건당 수 분)
+!zip -q /kaggle/working/lawsum_diag.zip data/diagnose_*.json
+```
+
+읽는 법: vllm에서 `decode_mismatch`가 true면 출력 변환 문제. hf-gpu-fp16도 틀리고 hf-cpu-bf16은 맞으면 FP16 정밀도 문제.
+셋 다 틀리면 모델 자체의 버릇.
