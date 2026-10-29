@@ -7,7 +7,6 @@ outputs/*
 !outputs/sft/
 !outputs/dpo/
 !outputs/judge/
-!outputs/agent/
 outputs/sft/*/
 outputs/dpo/*/
 *.safetensors
