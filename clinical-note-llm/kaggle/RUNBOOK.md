@@ -3,6 +3,81 @@
 학습 라이브러리(trl·bitsandbytes)는 vLLM보다 **먼저** 쓴다 — vLLM을 설치하면 torch가 CUDA 13 빌드로 바뀐다.
 모든 셀은 `%cd /kaggle/working/healthcare/clinical-note-llm`로 시작한다.
 
+## 6차: 처음부터 끝까지 — 최종 모델 학습 → vLLM → FastAPI → 테스트 120건 (약 1시간 반, 새 세션)
+
+지금까지 API는 가짜 모델 서버로만 확인했다. 이번에는 최종 모델을 실제 vLLM에 띄우고, FastAPI에 차트 + 대화를 보내
+보정까지 마친 응답을 그대로 채점한다(`kaggle/11_e2e.py`). 이전 세션의 모델은 지워져서 다시 학습하는데, 그사이
+차트 이름 규칙을 고쳤다(대화 첫마디 "so elizabeth is a ...", "alright david so ..."에서 이름을 못 읽어 무작위 이름이 들어간
+11건 — 학습 3·검증 1·테스트 7). 그래서 **이번 학습 모델과 API 경유 결과를 최종 수치로 쓴다.**
+
+```python
+# 셀 1: 코드 + 학습 라이브러리
+%cd /kaggle/working
+!git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git || (cd healthcare && git pull -q)
+%cd /kaggle/working/healthcare/clinical-note-llm
+!pip install -q trl peft bitsandbytes && pip uninstall -y -q torchao
+```
+
+```python
+# 셀 2: 최종 모델 학습(약 30분) → 병합
+%cd /kaggle/working/healthcare/clinical-note-llm
+!torchrun --nproc_per_node 2 kaggle/02_sft.py --run-name qwen3b-r16-final --data-dir data/sft_chart --max-length 5200 && python kaggle/02_sft.py --run-name qwen3b-r16-final --merge-only
+```
+
+```python
+# 셀 3: vLLM 설치 — 끝나면 Run → Restart & clear cell outputs
+!pip install -q vllm rouge-score==0.1.2 && pip uninstall -y -q torchaudio torchao
+```
+
+```python
+# 셀 4: 모델 서버(vLLM, T4×2 Tensor Parallel) + API(FastAPI) 띄우기
+%cd /kaggle/working/healthcare/clinical-note-llm
+import os, subprocess, time, urllib.request
+def wait(url, name):
+    for _ in range(180):
+        try:
+            urllib.request.urlopen(url); print("ready", name); return
+        except Exception:
+            time.sleep(5)
+    raise RuntimeError(f"{name}가 뜨지 않음 — /kaggle/working/{name}.log 확인")
+vllm = subprocess.Popen(["vllm", "serve", "outputs/sft/qwen3b-r16-final/merged", "--served-model-name", "note-model",
+                         "--dtype", "float16", "--max-model-len", "8192", "--tensor-parallel-size", "2"],
+                        stdout=open("/kaggle/working/vllm.log", "w"), stderr=subprocess.STDOUT)
+wait("http://127.0.0.1:8000/v1/models", "vllm")
+def start_api(queue_timeout):
+    env = dict(os.environ, LLM_BASE_URL="http://127.0.0.1:8000/v1", MAX_INFLIGHT="8", QUEUE_TIMEOUT_S=str(queue_timeout))
+    p = subprocess.Popen(["python", "-m", "uvicorn", "service.app:app", "--port", "8080"], env=env,
+                         stdout=open("/kaggle/working/api.log", "w"), stderr=subprocess.STDOUT)
+    wait("http://127.0.0.1:8080/metrics", "api"); return p
+api = start_api(120)  # MAX_INFLIGHT 8 = T4×2 측정에서 30초 안에 받는 동시 요청 수
+```
+
+```python
+# 셀 5: 테스트 120건을 API로 (동시 8) + 스트리밍 3건 → 채점
+!python kaggle/11_e2e.py --phase run stream --concurrency 8 --offline none --tag final
+```
+
+```python
+# 셀 6: 스크린샷용 — 실제 요청 하나(D2N164, 용량 보정 사례)의 입력·응답과 120건 요약. 이 셀 출력을 캡처한다
+!python kaggle/11_e2e.py --phase show --tag final
+```
+
+```python
+# 셀 7: 과부하 — 대기 한도를 15초로 줄여 API를 다시 띄우고, 상한(8)보다 많은 24건을 한꺼번에 보낸다. 이 셀 출력도 캡처한다
+api.terminate(); api.wait(); api = start_api(15)
+!python kaggle/11_e2e.py --phase overload --burst 24 --tag final
+```
+
+```python
+# 셀 8: 결과 압축
+!zip -q -r /kaggle/working/round6.zip outputs/e2e results/e2e_final.json outputs/sft/qwen3b-r16-final/train_stats.json
+!ls -la /kaggle/working/round6.zip
+```
+
+막히면
+- 셀 4에서 vLLM이 안 뜨면 `/kaggle/working/vllm.log` 끝을 본다. 셀 3 뒤에 재시작을 안 했으면 torch 버전이 꼬인다.
+- 셀 5에서 503이 나면 API 대기 한도(120초)보다 오래 걸린 것이다. `--concurrency 4`로 다시 돌린다.
+
 ## 4차: 차트 + 대화로 학습
 
 정답 기록에 있는 대화 밖 정보(이름·나이·혈압·지난 검사 수치·날짜)는 기록 작성자가 차트(EHR)를 보고 쓴 것이다.

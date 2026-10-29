@@ -47,8 +47,12 @@ INTRO_NOAGE = re.compile(rf"(?:^|\n)\s*{NAME} is an? (?:pleasant |very pleasant 
                          r"(?:male|female|man|woman|gentleman|lady)\b")
 # 의사가 녹음 첫머리에 환자를 소개하는 말: "[doctor] karen nelson is a 3 -year-old female ..."
 DIALOGUE_INTRO = re.compile(r"\b([a-z]{2,}) ([a-z]{2,}) is an? " + AGE + r"((?:[^.?\n]){0,40})")
-# 이름만 부르는 소개("carolyn is a 34 -year-old female")와 "next patient is grace ross"
-DIALOGUE_INTRO1 = re.compile(r"(?:^|\]\s*|[.,?!]\s+)([a-z]{3,}) is an? " + AGE)
+# 이름만 부르는 소개("carolyn is a 34 -year-old female", "so elizabeth is a 53 -year-old female")와 "next patient is grace ross"
+DIALOGUE_INTRO1 = re.compile(r"(?:^|\]\s*|[.,?!]\s+)(?:(?:so|okay|ok|alright|and|now)\s*,?\s+)?([a-z]{3,}) is an? " + AGE)
+# 첫 발화에서 이름 부르기: "[doctor] so sophia i see that you...", "[doctor] alright okay theresa so i understand..."
+# 뒤에 대명사·접속사가 바로 와야 이름으로 본다 ("so sorry to keep you waiting"을 이름으로 읽지 않게)
+OPENING = re.compile(r"^\[doctor\]\s*(?:(?:so|okay|ok|alright|well)\s*,?\s+)+([a-z]{3,})\s*,?\s+"
+                     r"(?=(?:i|so|how|what|tell|you|it|we|let|thanks|nice|good)\b)")
 NEXT_PATIENT = re.compile(r"\bnext (?:patient )?is ([a-z]{2,}) ([a-z]{2,})\b")
 NOT_PERSON = {"she", "he", "patient", "who", "which", "that", "this", "it", "there", "today"}
 TITLED = re.compile(r"\b(Mr|Mrs|Ms|Miss)\. ([A-Z][a-z]+)\b")
@@ -158,6 +162,9 @@ def find_name(note, dialogue):
     for m in DIALOGUE_INTRO1.finditer(d):
         if is_name(m.group(1)):
             names.append((m.group(1).capitalize(), "dialogue:intro"))
+    opening = OPENING.match(d)
+    if opening and is_name(opening.group(1)):
+        names.append((opening.group(1).capitalize(), "dialogue:opening"))
     for title, g in GREETING.findall(d):
         if g in NOT_NAMES:
             continue
