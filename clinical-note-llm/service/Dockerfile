@@ -9,7 +9,7 @@ COPY service/requirements.txt service/requirements.txt
 RUN pip install --no-cache-dir -r service/requirements.txt
 
 # 프롬프트·스키마는 학습·평가와 같은 코드를 쓴다 (src/)
-COPY src/prompts.py src/schema.py src/sectiontagger.py src/faithfulness.py src/
+COPY src/prompts.py src/schema.py src/sectiontagger.py src/faithfulness.py src/correct.py src/
 COPY service/app.py service/
 
 RUN useradd --create-home app

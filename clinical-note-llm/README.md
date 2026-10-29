@@ -477,8 +477,8 @@ TPOT = 첫 토큰 이후 토큰 하나당 시간, E2E = 진료기록 한 건 완
 
 | 엔드포인트 | 내용 |
 |---|---|
-| `POST /v1/notes` | 대화(+ 선택: 진료 전 차트) → 4구역 JSON 진료기록. 스키마 강제 + pydantic 검증, 출력이 잘려 JSON이 깨지면 반복 벌점을 올려 1회 재시도 |
-| `POST /v1/notes/stream` | 같은 생성을 SSE로 토큰 단위 스트리밍, 마지막에 검증 결과(`done`/`error`) 이벤트. 사용자가 연결을 끊으면 모델 서버 생성도 중단 |
+| `POST /v1/notes` | 차트 + 대화 → 4구역 JSON 진료기록 → **규칙 보정까지 마친 기록**. 스키마 강제 + pydantic 검증, 출력이 잘려 JSON이 깨지면 반복 벌점을 올려 1회 재시도 |
+| `POST /v1/notes/stream` | 같은 생성을 SSE로 토큰 단위 스트리밍(보정 전 초안), 마지막 `done` 이벤트가 보정한 기록. 사용자가 연결을 끊으면 모델 서버 생성도 중단 |
 | `GET /health` | 모델 서버 연결 확인 |
 | `GET /metrics` | 요청·실패·재시도·거절 수, 처리 중 요청 수, 지연 p50/p95 |
 
@@ -489,14 +489,15 @@ TPOT = 첫 토큰 이후 토큰 하나당 시간, E2E = 진료기록 한 건 완
   활력징후·이전 검사·병력·약·알레르기)을 함께 받아 학습 때와 같은 형식(`prompts.render_chart`)으로 넣는다. 모르는
   항목은 비워 둔다. 차트 없이 대화만 보내도 동작한다. 차트는 호출하는 쪽(병원 EMR)이 조회해 요청에 담아 보낸다고
   가정하며, 이 서비스는 환자 정보를 저장하지 않는다(EMR 연동은 범위 밖).
-- **근거 표시(`review`)**: 응답마다 입력(차트 + 대화)에 근거가 없는 나이·수치·검사 이름을 표시하고 `needs_review`를
-  켠다(`src/faithfulness.py`와 같은 기준). 생성을 막지는 않고 의료진이 확인할 곳을 짚어 준다. 예: 테스트 D2N164에서
-  의사는 "start you on some hydrochlorothiazide, it's a pretty low dose"라고만 했는데 모델이 "hydrochlorothiazide 12.5 mg
-  daily"라고 용량을 지어내 `unsupported_numbers: ["12.5"]`가 표시된다.
+- **규칙 보정 (`note`, `corrections`, `model_note`)**: 모델 출력에서 입력(차트 + 대화)에 근거가 없는 수치·나이를 빼고
+  돌려준다(`src/correct.py`, 아래 "규칙 보정"). 무엇을 뺐는지는 `corrections`, 보정 전 출력은 `model_note`로 함께 준다.
+  예: 테스트 D2N164에서 의사는 "start you on some hydrochlorothiazide, it's a pretty low dose"라고만 했는데 모델이
+  "hydrochlorothiazide 12.5 mg daily"라고 써서, 응답의 기록에서는 "12.5 mg daily"가 빠지고 `corrections`에 남는다.
+- **확인 표시 (`review`)**: 보정 후에도 남은 것(규칙이 못 지운 값, 대화에 없는 검사 이름)을 표시하고 `needs_review`를 켠다.
 - **실제 HTTP 경로 확인**: uvicorn API + 가짜 모델 서버(응답 0.5초)로 `loadtest.py`를 돌려, 동시 처리 상한 2에서
   모델 서버가 받은 최대 동시 요청이 2였고, 동시 사용자 8명일 때 대기 한도(1.2초)를 넘긴 4건이 503으로 거절됨을 확인.
-- **테스트** (`tests/test_service.py`, 10개): 실제 OpenAI 클라이언트 코드 경로를 그대로 타고, 네트워크만 가짜 모델
-  서버로 바꿔 정상 생성, 차트 입력·근거 검사, 잘린 JSON 재시도, 두 번 실패 시 502, 모델 서버 오류, 입력 검증, 스트리밍,
+- **테스트** (`tests/test_service.py`, 11개): 실제 OpenAI 클라이언트 코드 경로를 그대로 타고, 네트워크만 가짜 모델
+  서버로 바꿔 정상 생성, 차트 입력, 규칙 보정(일반·스트리밍), 잘린 JSON 재시도, 두 번 실패 시 502, 모델 서버 오류, 입력 검증, 스트리밍,
   health를 확인한다.
 - **배포**: `service/Dockerfile`(API 이미지, 모델 미포함), `docker-compose.yml`
   (`--profile cpu` = llama.cpp + GGUF, `--profile gpu` = vLLM).

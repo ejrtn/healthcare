@@ -99,18 +99,21 @@ def test_note_ok(make_client):
     assert sent["frequency_penalty"] == 0.4 and sent["temperature"] == 0
 
 
-def test_review_flags(make_client):
-    # 대화에 없는 나이·검사를 쓰면 확인 표시, 대화에 있는 수치("two weeks" ↔ 2)는 표시하지 않는다
+def test_unsupported_values_are_corrected_and_tests_flagged(make_client):
+    # 대화에 없는 나이·수치는 빼서 돌려주고, 뺄 수 없는 검사 이름은 확인 표시로 남긴다.
+    # 대화에 있는 수치("two weeks" ↔ 2)는 건드리지 않는다
     note = dict(NOTE, subjective="CHIEF COMPLAINT\n\nKnee pain for 2 weeks. He is a pleasant 58-year-old male.",
                 objective_results="RESULTS\n\nMRI of the knee shows a meniscal tear. Hemoglobin A1c 7.2.")
     client, _ = make_client([json.dumps(note), json.dumps(NOTE)])
-    review = client.post("/v1/notes", json={"dialogue": DIALOGUE}).json()["review"]
-    assert review["needs_review"]
-    assert review["invented_age"] == ["58"]
-    assert review["unsupported_tests"] == ["mri"]
-    assert review["unsupported_numbers"] == ["7.2"]
-    clean = client.post("/v1/notes", json={"dialogue": DIALOGUE}).json()["review"]
-    assert not clean["needs_review"]
+    body = client.post("/v1/notes", json={"dialogue": DIALOGUE}).json()
+    assert body["note"]["subjective"] == "CHIEF COMPLAINT\n\nKnee pain for 2 weeks. He is a pleasant male."
+    assert body["note"]["objective_results"] == "RESULTS\n\nMRI of the knee shows a meniscal tear. Hemoglobin A1c."
+    assert sorted(c["value"] for c in body["corrections"]) == ["58-year-old", "7.2"]
+    assert body["model_note"] == note  # 보정 전 모델 출력도 함께 돌려준다
+    assert body["review"]["needs_review"] and body["review"]["unsupported_tests"] == ["mri"]
+    assert body["review"]["unsupported_numbers"] == [] and body["review"]["invented_age"] == []
+    clean = client.post("/v1/notes", json={"dialogue": DIALOGUE}).json()
+    assert not clean["review"]["needs_review"] and clean["corrections"] == [] and clean["note"] == NOTE
 
 
 def test_chart_input_and_review(make_client):
@@ -124,9 +127,10 @@ def test_chart_input_and_review(make_client):
     assert sent[1]["content"].startswith("PATIENT CHART\nName: Martha Lopez\nAge: 58\n")
     assert sent[1]["content"].endswith("CONVERSATION\n" + DIALOGUE)
     assert not review["needs_review"]  # 나이·수치 모두 차트에 있다
-    # 나이 칸이 비어 있는데 나이를 쓰면 표시한다
-    review = client.post("/v1/notes", json={"dialogue": DIALOGUE, "chart": dict(chart, age="")}).json()["review"]
-    assert review["invented_age"] == ["58"]
+    # 나이 칸이 비어 있는데 나이를 쓰면 빼서 돌려준다
+    body = client.post("/v1/notes", json={"dialogue": DIALOGUE, "chart": dict(chart, age="")}).json()
+    assert body["note"]["subjective"] == "CHIEF COMPLAINT\n\nKnee pain. Martha is a female."
+    assert [c["kind"] for c in body["corrections"]] == ["age"]
 
 
 def test_truncated_json_retries_once(make_client):
@@ -170,6 +174,16 @@ def test_stream(make_client):
     streamed = "".join(json.loads(e[1].removeprefix("data: "))["text"] for e in events[:-1])
     assert json.loads(streamed) == NOTE
     assert json.loads(events[-1][1].removeprefix("data: "))["note"] == NOTE
+
+
+def test_stream_done_event_carries_corrected_note(make_client):
+    note = dict(NOTE, objective_results="RESULTS\n\nHemoglobin A1c 7.2.")
+    client, _ = make_client([json.dumps(note)])
+    with client.stream("POST", "/v1/notes/stream", json={"dialogue": DIALOGUE}) as r:
+        text = "".join(r.iter_text())
+    done = json.loads(text.strip().split("\n\n")[-1].split("\n")[1].removeprefix("data: "))
+    assert done["note"]["objective_results"] == "RESULTS\n\nHemoglobin A1c."  # 토큰은 초안, done은 보정본
+    assert done["model_note"] == note and done["corrections"][0]["value"] == "7.2"
 
 
 def test_stream_invalid_json(make_client):

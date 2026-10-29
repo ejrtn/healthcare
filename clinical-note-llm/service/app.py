@@ -6,8 +6,8 @@
 를 환경변수(LLM_BASE_URL)만 바꿔 갈아 끼운다.
 
 엔드포인트
-  POST /v1/notes          대화 → 4구역 JSON 진료기록 (스키마 검증, 실패 시 1회 재시도)
-  POST /v1/notes/stream   같은 생성을 토큰 단위로 스트리밍 (SSE)
+  POST /v1/notes          차트 + 대화 → 4구역 JSON 진료기록 (스키마 검증, 실패 시 1회 재시도) → 규칙 보정
+  POST /v1/notes/stream   같은 생성을 토큰 단위로 스트리밍 (SSE). 토큰은 보정 전 초안이고, 마지막 done 이벤트가 보정한 기록
   GET  /health            모델 서버 연결 확인
   GET  /metrics           요청 수·실패 수·지연 시간
 
@@ -32,7 +32,7 @@ from pydantic import BaseModel, Field, ValidationError
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 
-from faithfulness import check as grounding_check  # noqa: E402
+from correct import correct_note  # noqa: E402
 from prompts import build_messages, render_chart  # noqa: E402
 from schema import NOTE_JSON_SCHEMA, render_note  # noqa: E402
 
@@ -82,10 +82,20 @@ class ReviewFlags(BaseModel):
     needs_review: bool
 
 
+class Correction(BaseModel):
+    """규칙 보정이 기록에서 뺀 값 (src/correct.py). 의료진이 무엇이 빠졌는지 볼 수 있게 돌려준다."""
+    division: str
+    kind: str  # number | age
+    value: str
+    removed: str
+
+
 class NoteResponse(BaseModel):
-    note: ClinicalNote
+    note: ClinicalNote  # 보정까지 마친 기록
     note_text: str
-    review: ReviewFlags
+    review: ReviewFlags  # 보정 후에도 남은 확인 항목 (규칙이 못 지운 값, 검사 이름)
+    corrections: list[Correction]
+    model_note: ClinicalNote  # 보정 전 모델 출력 (비교·감사용)
     model: str
     attempts: int
     latency_s: float
@@ -172,12 +182,13 @@ def prepare(req: NoteRequest) -> tuple[list, str]:
     return build_messages(req.dialogue, json_mode=True, chart_text=chart_text), chart_text + "\n\n" + req.dialogue
 
 
-def review_flags(note_text: str, source: str) -> ReviewFlags:
-    # SFT 모델은 정답 기록의 습관을 배워 입력에 없는 나이·수치·검사를 쓰는 경우가 있다 (README 근거 검사).
-    # 생성 결과를 막지는 않고, 확인할 곳을 응답에 표시한다
-    r = grounding_check(note_text, source)
-    flags = {k: r[k] for k in ("invented_age", "unsupported_numbers", "unsupported_tests")}
-    return ReviewFlags(**flags, needs_review=any(flags.values()))
+def finalize(note: ClinicalNote, source: str) -> dict:
+    """모델 출력 → 규칙 보정 → 남은 확인 항목. SFT 모델은 정답 기록의 습관을 배워 입력에 없는 용량·수치·나이를
+    쓰는 경우가 있어(README 근거 검사), 그런 값은 빼고 돌려준다. 규칙이 못 지운 값과 검사 이름은 review로 표시한다."""
+    fixed, edits, left = correct_note(note.model_dump(), source)
+    return {"note": ClinicalNote(**fixed), "note_text": render_note(fixed),
+            "review": ReviewFlags(**left, needs_review=any(left.values())),
+            "corrections": [Correction(**e) for e in edits], "model_note": note}
 
 
 @app.post("/v1/notes", response_model=NoteResponse)
@@ -219,9 +230,8 @@ async def create_note(req: NoteRequest, request: Request):
 
     latency = time.perf_counter() - start
     state.metrics.latencies.append(latency)
-    note_text = render_note(note.model_dump())
     return NoteResponse(
-        note=note, note_text=note_text, review=review_flags(note_text, source), model=resp.model, attempts=attempt,
+        **finalize(note, source), model=resp.model, attempts=attempt,
         latency_s=round(latency, 3), prompt_tokens=prompt_tokens, completion_tokens=completion_tokens,
     )
 
@@ -229,6 +239,7 @@ async def create_note(req: NoteRequest, request: Request):
 @app.post("/v1/notes/stream")
 async def stream_note(req: NoteRequest, request: Request):
     """생성 중인 JSON 조각을 SSE로 바로 흘려보낸다. 마지막에 검증 결과(done/error) 이벤트를 보낸다.
+    token 이벤트는 보정 전 초안이다. 화면은 done 이벤트의 note(보정한 기록)로 바꿔 보여 줘야 한다.
 
     진료기록 한 건은 수십 초가 걸려서, 화면에 바로 글자가 나타나야 사용자가 기다릴 수 있다.
     """
@@ -268,10 +279,10 @@ async def stream_note(req: NoteRequest, request: Request):
             return
         latency = time.perf_counter() - start
         state.metrics.latencies.append(latency)
-        note_text = render_note(note.model_dump())
-        yield event("done", {"note": note.model_dump(), "note_text": note_text,
-                             "review": review_flags(note_text, source).model_dump(),
-                             "latency_s": round(latency, 3)})
+        done = finalize(note, source)
+        yield event("done", {k: (v.model_dump() if isinstance(v, BaseModel) else
+                                 [x.model_dump() for x in v] if isinstance(v, list) else v) for k, v in done.items()}
+                    | {"latency_s": round(latency, 3)})
 
     return StreamingResponse(events(), media_type="text/event-stream")
 
