@@ -1,4 +1,4 @@
-"""ACI-BENCH 저장소에 들어 있는 기존 모델 예측(GPT-4, ChatGPT, BART 계열 등)을
+"""ACI-BENCH 저장소에 들어 있는 기존 모델 예측(ChatGPT, BART 계열 등)을
 이 프로젝트 채점기(evaluate.py)로 다시 채점한다.
 
 논문 표 숫자를 그대로 인용하지 않고 다시 채점하는 이유: 공식 결과 파일과
@@ -22,7 +22,6 @@ TEST_FILES = {"test1": "clinicalnlp_taskB_test1", "test2": "clinicalnlp_taskC_te
 
 # 모델 이름 → 테스트셋별 예측 파일명
 SYSTEMS = {
-    "GPT-4 (zero-shot)": lambda t, f: f"{t}GPT-4_.csv",
     "ChatGPT (zero-shot)": lambda t, f: f"{t}ChatGPT_.csv",
     "BART+SAMSum FT (division)": lambda t, f: f"bart-large-xsum-samsum_{f}_division_combined.csv",
     "BART+SAMSum FT": lambda t, f: f"bart-large-xsum-samsum_{f}_full.csv",

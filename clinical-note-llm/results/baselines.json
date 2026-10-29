@@ -1,31 +1,4 @@
 {
-  "GPT-4 (zero-shot)": {
-    "ALL": {
-      "rouge1": 51.1,
-      "rouge2": 21.97,
-      "rougeL": 29.55
-    },
-    "subjective": {
-      "rouge1": 42.94,
-      "rouge2": 20.07,
-      "rougeL": 27.71
-    },
-    "objective_exam": {
-      "rouge1": 47.32,
-      "rouge2": 25.65,
-      "rougeL": 37.74
-    },
-    "objective_results": {
-      "rouge1": 32.13,
-      "rouge2": 16.45,
-      "rougeL": 29.45
-    },
-    "assessment_and_plan": {
-      "rouge1": 40.1,
-      "rouge2": 14.33,
-      "rougeL": 25.15
-    }
-  },
   "ChatGPT (zero-shot)": {
     "ALL": {
       "rouge1": 45.27,

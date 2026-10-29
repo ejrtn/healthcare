@@ -2,7 +2,7 @@
 
 - 우리 실험: outputs/<group>/<tag>.jsonl 예측을 엄격/관대(--lenient) 두 방식으로 재채점하고,
   results/<group>_<tag>.json의 생성 통계(잘림 수, 처리량)를 붙인다.
-- 비교 기준: results/baselines.json (GPT-4 등 기존 모델 재채점 결과)
+- 비교 기준: results/baselines.json (기존 모델 재채점 결과)
 """
 import json
 from pathlib import Path
@@ -12,7 +12,7 @@ from evaluate import DIVISIONS, evaluate, load_jsonl
 ROOT = Path(__file__).resolve().parent.parent
 TEST_SPLITS = ["test1", "test2", "test3"]
 GROUPS = ["baseline", "sft", "dpo"]
-REFERENCE_SYSTEMS = ["GPT-4 (zero-shot)", "ChatGPT (zero-shot)", "BART+SAMSum FT (division)"]
+REFERENCE_SYSTEMS = ["ChatGPT (zero-shot)", "BART+SAMSum FT (division)"]
 
 
 def row(name, s, json_valid="-", truncated="-", tok_s="-"):

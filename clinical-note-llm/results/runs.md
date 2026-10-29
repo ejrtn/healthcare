@@ -4,7 +4,6 @@ ACI-BENCH test1~3, 120건. 구역 열은 구역별 ROUGE-1.
 
 | 시스템 | ROUGE-1 | ROUGE-L | S | O-exam | O-results | A&P | JSON 유효 | 잘림 | 출력 tok/s |
 |---|---|---|---|---|---|---|---|---|---|
-| GPT-4 (zero-shot) † | 51.1 | 29.6 | 42.9 | 47.3 | 32.1 | 40.1 | - | - | - |
 | ChatGPT (zero-shot) † | 45.3 | 25.8 | 31.1 | 41.9 | 28.4 | 33.8 | - | - | - |
 | BART+SAMSum FT (division) † | 52.8 | 28.9 | 48.9 | 41.7 | 22.3 | 41.3 | - | - | - |
 | baseline: Qwen2.5-3B-Instruct-fp0.4_json | 45.8 | 28.0 | 37.4 | 51.3 | 34.9 | 33.7 | 100.0% | 0 | 153.2 |
