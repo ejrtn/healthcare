@@ -1,0 +1,8 @@
+# CI(GitHub Actions)에서 테스트를 돌릴 때 쓰는 패키지. 로컬 .venv와 같은 버전으로 고정한다.
+# GPU 학습·서빙 패키지(torch, vllm 등)는 Kaggle에서만 쓰므로 넣지 않는다.
+fastapi==0.162.0
+openai==3.39.0
+httpx2==2.16.0
+pydantic==2.14.1
+pytest==9.1.1
+rouge-score==0.1.2

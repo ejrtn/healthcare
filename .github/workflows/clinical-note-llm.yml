@@ -1,0 +1,41 @@
+# clinical-note-llm 전용 CI. GitHub이 워크플로를 저장소 루트의 .github/workflows/에서만 읽어서 여기에 두고,
+# clinical-note-llm/ 아래가 바뀐 push·PR에서만 돈다. 실행은 GitHub이 제공하는 무료 러너(Ubuntu)에서 한다.
+name: clinical-note-llm
+
+on:
+  push:
+    branches: [clinical-note-llm]
+    paths: ["clinical-note-llm/**", ".github/workflows/clinical-note-llm.yml"]
+  pull_request:
+    paths: ["clinical-note-llm/**", ".github/workflows/clinical-note-llm.yml"]
+
+defaults:
+  run:
+    working-directory: clinical-note-llm
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: clinical-note-llm/requirements-ci.txt
+      - run: pip install -r requirements-ci.txt
+      # 차트 전처리·근거 검사·DPO 짝·API(가짜 모델 서버) 테스트. GPU 없이 돈다
+      - run: python -m pytest -q tests
+
+  docker:
+    # 테스트를 통과한 코드로 API 이미지가 실제로 빌드되는지 확인한다 (레지스트리에 올리지는 않는다)
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: docker build -f service/Dockerfile -t clinical-note-api:ci .
+      - name: 컨테이너가 뜨고 /metrics에 답하는지 확인
+        run: |
+          docker run -d --name api -p 8080:8080 clinical-note-api:ci
+          for i in $(seq 1 20); do curl -sf http://127.0.0.1:8080/metrics && exit 0; sleep 1; done
+          docker logs api; exit 1
