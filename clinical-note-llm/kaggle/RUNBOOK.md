@@ -65,6 +65,23 @@ stop()
 - 셀 3에서 "ready"가 안 뜨면 `/kaggle/working/vllm_Qwen2.5-3B-Instruct.log` 끝을 본다.
 - `10_agent.py`에서 400 오류(tool 관련): 서버를 `--enable-auto-tool-choice --tool-call-parser hermes` 없이 띄운 경우다.
 
+결과 (round5 = v1, README "근거 확인 에이전트"): 3B는 없는 도구 이름(`keep`·`fix`)을 지어내 판단 모델로 부적합,
+7B는 도구 호출이 모두 유효했지만 도구 3회를 넘긴 문장을 판단 없이 버리는 설계 실수로 고쳐야 할 문장을 많이 놓쳤다.
+
+### 5-B: 에이전트 v2 — 3회 넘겨도 판단 받기 + 자기 수정 1회 (약 20분, 새 세션)
+
+v1의 실패를 개발용(Qwen 출력) 기록만 보고 고쳤다. Llama 출력 라벨은 보지 않고 남겨 두었다가 v2 채점에 쓴다.
+셀 1·2는 5차와 같다(셀 1에서 최신 코드를 받는다). 판단 모델은 7B만 쓴다.
+
+```python
+# 셀 3: 7B v2
+start("Qwen/Qwen2.5-7B-Instruct-AWQ")
+!python kaggle/10_agent.py --preds outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl --tag qwen-out_v2-agent7b
+!python kaggle/10_agent.py --preds outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl --tag llama-out_v2-agent7b
+stop()
+!zip -q -r /kaggle/working/round5b.zip outputs/agent/*v2* results/agent_*v2*.json
+```
+
 ## 4차: 차트 + 대화로 학습
 
 정답 기록에 있는 대화 밖 정보(이름·나이·혈압·지난 검사 수치·날짜)는 기록 작성자가 차트(EHR)를 보고 쓴 것이다.

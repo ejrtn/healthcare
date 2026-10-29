@@ -90,11 +90,13 @@ async def verify_sentence(client, model: str, item: dict, turns: list[dict], cha
     messages = [{"role": "system", "content": SYSTEM},
                 {"role": "user", "content": f"Flagged values: {', '.join(item['values'])}\nSentence: {item['sentence']}"}]
     calls = []
+    exhausted = True
     for _ in range(MAX_ROUNDS):
         resp = await client.chat.completions.create(model=model, messages=messages, tools=TOOLS,
                                                     tool_choice="auto", temperature=0, max_tokens=256)
         msg = resp.choices[0].message
         if not msg.tool_calls:
+            exhausted = False
             break
         messages.append({"role": "assistant", "content": msg.content or "",
                          "tool_calls": [tc.model_dump() for tc in msg.tool_calls]})
@@ -106,27 +108,46 @@ async def verify_sentence(client, model: str, item: dict, turns: list[dict], cha
             result = run_tool(tc.function.name, args, turns, chart, method)
             calls.append({"tool": tc.function.name, "args": args, "result": result})
             messages.append({"role": "tool", "tool_call_id": tc.id, "content": result})
-    else:
-        return {**item, "verdict": "keep", "new_text": item["sentence"], "evidence": [], "tool_calls": calls,
-                "applied": False, "reason": "max_rounds"}
+    # 검색을 더 하려 해도 여기서 멈추고, 지금까지 찾은 근거로 판단을 받는다.
+    # (5차 1회: 3회를 넘기면 판단 없이 원문을 두게 했더니 7B가 고쳐야 할 문장 10개 중 6개를 이렇게 놓쳤다)
 
+    result = {**item, "tool_calls": calls, "rounds_exhausted": exhausted, "retried": False}
     messages.append({"role": "user", "content": FINAL})
+    for attempt in (1, 2):
+        out = await final_verdict(client, model, messages)
+        if out is None:
+            return result | {"verdict": "keep", "new_text": item["sentence"], "evidence": [], "applied": False,
+                             "reason": "invalid_json"}
+        result |= out
+        if out["verdict"] != "fix":
+            return result | {"applied": out["verdict"] == "remove", "reason": ""}
+        left = unsupported(out["new_text"], source)
+        if out["new_text"] and not left:
+            return result | {"applied": True, "reason": ""}
+        if attempt == 1:  # 자기 수정: 아직 근거 없는 값을 알려 주고 한 번 더 고치게 한다
+            result["retried"] = True
+            messages += [{"role": "assistant", "content": json.dumps(out, ensure_ascii=False)},
+                         {"role": "user", "content": f"Your rewrite still contains values that are not in the evidence: "
+                                                     f"{', '.join(left) or '(empty sentence)'}. Rewrite the sentence "
+                                                     f"without them, or choose remove. {FINAL}"}]
+    return result | {"applied": False, "reason": "fix_still_unsupported"}
+
+
+async def final_verdict(client, model: str, messages: list) -> dict | None:
     resp = await client.chat.completions.create(
         model=model, messages=messages, temperature=0, max_tokens=256,
         response_format={"type": "json_schema", "json_schema": {"name": "verdict", "schema": VERDICT_SCHEMA}})
     try:
         out = json.loads(resp.choices[0].message.content or "")
-        verdict, new_text, evidence = out["verdict"], str(out.get("new_text", "")).strip(), list(out.get("evidence", []))
+        return {"verdict": out["verdict"], "new_text": str(out.get("new_text", "")).strip(),
+                "evidence": list(out.get("evidence", []))}
     except (json.JSONDecodeError, KeyError, TypeError):
-        return {**item, "verdict": "keep", "new_text": item["sentence"], "evidence": [], "tool_calls": calls,
-                "applied": False, "reason": "invalid_json"}
+        return None
 
-    result = {**item, "verdict": verdict, "new_text": new_text, "evidence": evidence, "tool_calls": calls}
-    if verdict == "fix":
-        left = check(new_text, source)
-        if not new_text or any(left[k] for k in ("unsupported_numbers", "unsupported_tests", "invented_age")):
-            return result | {"applied": False, "reason": "fix_still_unsupported"}
-    return result | {"applied": verdict in ("fix", "remove"), "reason": ""}
+
+def unsupported(text: str, source: str) -> list[str]:
+    r = check(text, source)
+    return r["unsupported_numbers"] + r["unsupported_tests"] + r["invented_age"]
 
 
 def apply(note: str, results: list[dict]) -> str:

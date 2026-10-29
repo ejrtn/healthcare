@@ -1,0 +1,259 @@
+{
+  "model": "agent",
+  "method": "bm25",
+  "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+  "wall_time_s": 39.9,
+  "sentences": 25,
+  "verdicts": {
+    "keep": 16,
+    "fix": 8,
+    "remove": 1
+  },
+  "applied": {
+    "remove": 1,
+    "fix": 3
+  },
+  "not_applied_reasons": {
+    "fix_still_unsupported": 5,
+    "max_rounds": 10
+  },
+  "tool_calls": {
+    "total": 59,
+    "per_sentence": 2.36,
+    "sentences_without_call": 3,
+    "valid_name": 53,
+    "by_tool": {
+      "search_dialogue": 34,
+      "get_chart": 19,
+      "fix": 3,
+      "keep": 1,
+      "remove": 2
+    }
+  },
+  "rouge1_before": 59.21,
+  "rouge1_after": 59.19,
+  "rouge1_remove_all": 59.12,
+  "rouge_after": {
+    "num_test": 120,
+    "json_valid": 0.9916666666666667,
+    "ALL": {
+      "rouge1": 59.19,
+      "rouge2": 30.47,
+      "rougeL": 35.72,
+      "rougeLsum": 54.93
+    },
+    "subjective": {
+      "rouge1": 53.92,
+      "rouge2": 31.96,
+      "rougeL": 37.37,
+      "rougeLsum": 48.07
+    },
+    "objective_exam": {
+      "rouge1": 49.02,
+      "rouge2": 27.5,
+      "rougeL": 39.86,
+      "rougeLsum": 45.3
+    },
+    "objective_results": {
+      "rouge1": 59.24,
+      "rouge2": 34.71,
+      "rougeL": 58.28,
+      "rougeLsum": 58.7
+    },
+    "assessment_and_plan": {
+      "rouge1": 45.51,
+      "rouge2": 19.67,
+      "rougeL": 27.63,
+      "rougeLsum": 39.94
+    }
+  },
+  "faithfulness_before": {
+    "cases": 120,
+    "numbers_total": 668,
+    "unsupported_numbers": 33,
+    "unsupported_number_rate": 4.9,
+    "cases_with_unsupported_number": 21,
+    "cases_with_unsupported_test": 2,
+    "cases_with_invented_age": 0,
+    "supported_numbers": 635
+  },
+  "faithfulness_after": {
+    "cases": 120,
+    "numbers_total": 660,
+    "unsupported_numbers": 25,
+    "unsupported_number_rate": 3.8,
+    "cases_with_unsupported_number": 18,
+    "cases_with_unsupported_test": 2,
+    "cases_with_invented_age": 0,
+    "supported_numbers": 635
+  },
+  "faithfulness_remove_all": {
+    "cases": 120,
+    "numbers_total": 624,
+    "unsupported_numbers": 1,
+    "unsupported_number_rate": 0.2,
+    "cases_with_unsupported_number": 1,
+    "cases_with_unsupported_test": 0,
+    "cases_with_invented_age": 0,
+    "supported_numbers": 623
+  },
+  "labels": {
+    "sentences": 25,
+    "accuracy": 52.0,
+    "tp_changed": "2/12",
+    "fp_kept": "11/13",
+    "remove_all_accuracy": 48.0,
+    "rows": [
+      {
+        "id": "D2N090",
+        "label": "tp",
+        "verdict": "keep",
+        "correct": false
+      },
+      {
+        "id": "D2N093",
+        "label": "fp",
+        "verdict": "fix",
+        "correct": true
+      },
+      {
+        "id": "D2N102",
+        "label": "fp",
+        "verdict": "remove",
+        "correct": false
+      },
+      {
+        "id": "D2N136",
+        "label": "tp",
+        "verdict": "keep",
+        "correct": false
+      },
+      {
+        "id": "D2N137",
+        "label": "tp",
+        "verdict": "fix",
+        "correct": true
+      },
+      {
+        "id": "D2N137",
+        "label": "tp",
+        "verdict": "keep",
+        "correct": false
+      },
+      {
+        "id": "D2N144",
+        "label": "fp",
+        "verdict": "keep",
+        "correct": true
+      },
+      {
+        "id": "D2N146",
+        "label": "tp",
+        "verdict": "fix",
+        "correct": false
+      },
+      {
+        "id": "D2N149",
+        "label": "fp",
+        "verdict": "keep",
+        "correct": true
+      },
+      {
+        "id": "D2N152",
+        "label": "tp",
+        "verdict": "keep",
+        "correct": false
+      },
+      {
+        "id": "D2N152",
+        "label": "tp",
+        "verdict": "keep",
+        "correct": false
+      },
+      {
+        "id": "D2N153",
+        "label": "fp",
+        "verdict": "fix",
+        "correct": true
+      },
+      {
+        "id": "D2N158",
+        "label": "tp",
+        "verdict": "fix",
+        "correct": true
+      },
+      {
+        "id": "D2N161",
+        "label": "fp",
+        "verdict": "keep",
+        "correct": true
+      },
+      {
+        "id": "D2N184",
+        "label": "fp",
+        "verdict": "keep",
+        "correct": true
+      },
+      {
+        "id": "D2N185",
+        "label": "tp",
+        "verdict": "keep",
+        "correct": false
+      },
+      {
+        "id": "D2N187",
+        "label": "fp",
+        "verdict": "keep",
+        "correct": true
+      },
+      {
+        "id": "D2N191",
+        "label": "tp",
+        "verdict": "fix",
+        "correct": false
+      },
+      {
+        "id": "D2N191",
+        "label": "tp",
+        "verdict": "keep",
+        "correct": false
+      },
+      {
+        "id": "D2N194",
+        "label": "fp",
+        "verdict": "fix",
+        "correct": false
+      },
+      {
+        "id": "D2N195",
+        "label": "fp",
+        "verdict": "keep",
+        "correct": true
+      },
+      {
+        "id": "D2N197",
+        "label": "fp",
+        "verdict": "fix",
+        "correct": true
+      },
+      {
+        "id": "D2N197",
+        "label": "fp",
+        "verdict": "keep",
+        "correct": true
+      },
+      {
+        "id": "D2N203",
+        "label": "fp",
+        "verdict": "keep",
+        "correct": true
+      },
+      {
+        "id": "D2N206",
+        "label": "tp",
+        "verdict": "keep",
+        "correct": false
+      }
+    ]
+  }
+}

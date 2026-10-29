@@ -73,12 +73,26 @@ def test_agent_searches_then_fixes_unsupported_dose():
     assert sent[-1]["response_format"]["type"] == "json_schema" and "tools" not in sent[-1]
 
 
-def test_fix_that_still_invents_a_value_is_not_applied():
-    note, results, _ = run([
-        answer(""),
-        answer(json.dumps({"verdict": "fix", "new_text": "Start hydrochlorothiazide 25 mg daily.", "evidence": []})),
-    ])
-    assert note == NOTE and results[0]["reason"] == "fix_still_unsupported"
+def test_fix_that_still_invents_a_value_gets_one_retry_then_is_dropped():
+    bad = json.dumps({"verdict": "fix", "new_text": "Start hydrochlorothiazide 25 mg daily.", "evidence": []})
+    note, results, sent = run([answer(""), answer(bad), answer(bad)])
+    assert note == NOTE and results[0]["reason"] == "fix_still_unsupported" and results[0]["retried"]
+    assert "25" in sent[-1]["messages"][-1]["content"]  # 다시 고칠 때 남은 값을 알려 준다
+
+
+def test_retry_can_succeed():
+    bad = json.dumps({"verdict": "fix", "new_text": "Start hydrochlorothiazide 25 mg daily.", "evidence": []})
+    good = json.dumps({"verdict": "fix", "new_text": "Start hydrochlorothiazide at a low dose.", "evidence": [2]})
+    note, results, _ = run([answer(""), answer(bad), answer(good)])
+    assert "at a low dose" in note and results[0]["applied"]
+
+
+def test_still_decides_after_max_tool_rounds():
+    search = tool_call("search_dialogue", {"query": "hydrochlorothiazide"})
+    fixed = json.dumps({"verdict": "remove", "new_text": "", "evidence": []})
+    note, results, sent = run([search, search, search, answer(fixed)])
+    assert results[0]["rounds_exhausted"] and results[0]["applied"] and "12.5" not in note
+    assert sent[-1]["response_format"]["type"] == "json_schema"
 
 
 def test_apply_divisions_edits_only_the_sentence_section():

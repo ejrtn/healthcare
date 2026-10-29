@@ -116,6 +116,9 @@ async def main_async(args):
         "verdicts": dict(Counter(r["verdict"] for r in results)),
         "applied": dict(Counter(r["verdict"] for r in results if r["applied"])),
         "not_applied_reasons": dict(Counter(r["reason"] for r in results if not r["applied"] and r["reason"])),
+        "rounds_exhausted": sum(r.get("rounds_exhausted", False) for r in results),
+        "retried": sum(r.get("retried", False) for r in results),
+        "retry_applied": sum(r.get("retried", False) and r["applied"] for r in results),
         "tool_calls": {
             "total": len(calls),
             "per_sentence": round(len(calls) / max(1, len(results)), 2),
