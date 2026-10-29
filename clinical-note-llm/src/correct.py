@@ -13,9 +13,9 @@ import re
 
 from faithfulness import check
 
-PREFIX = r"(?:(?:at|of|to|from|around|about|approximately|is|was|were|be|to be|as an?|in the (?:last|past)|every|by|for|up to)\s+)?"
+PREFIX = r"(?:(?:at|of|to|from|around|about|approximately|is|was|were|be|to be|as (?:low|high) as|as an?|in the (?:last|past)|every|by|for|up to)\s+)?"
 UNIT = (r"(?:\s*(?:%|percent|mg/dl|mg|mcg|micrograms?|milligrams?|grams?|g|kg|lbs?|pounds?|ml|units?|mm/hr|"
-        r"beats per minute|bpm|degrees?|hours?|days?|weeks?|months?|years?|minutes?|cm|mm\s?hg|mm|times?))?")
+        r"beats per minute|bpm|degrees?|hours?|days?|weeks?|months?|years?|minutes?|cm|mm\s?hg|mm|times?|am|pm|a\.m\.|p\.m\.))?")
 AFTER = r"(?:\s+(?:predicted|(?:once|twice|three times|four times)\s+(?:daily|a day|per day)|daily|a day|per day|at night))?"
 
 
@@ -24,7 +24,8 @@ def value_pattern(value: str) -> re.Pattern:
     v = re.escape(value)
     number = rf"(?:grade\s+)?(?:\d+(?:\.\d+)?\s*[-/]\s*)?(?<![\d.]){v}(?:\s*(?:[-/]|out of)\s*\d+(?:\.\d+)?)?"
     ordinal = r"(?:st|nd|rd|th)?"  # "October 31st"
-    return re.compile(rf"\s*\b{PREFIX}{number}{ordinal}(?![\d.]\d){UNIT}{AFTER}\b", re.I)
+    # 끝은 \b가 아니라 (?!\w): 단위가 "%"로 끝나면 \b가 맞지 않아 "%"만 남았다 ("elevated%")
+    return re.compile(rf"\s*\b{PREFIX}{number}{ordinal}(?![\d.]\d){UNIT}{AFTER}(?!\w)", re.I)
 
 
 def tidy(text: str) -> str:

@@ -55,3 +55,11 @@ def test_repeated_values_ordinals_and_mm_hg():
 def test_value_inside_decimal_is_not_removed():
     text, _ = correct_text("Result 7.6. Follow up for 6 weeks.", "[doctor] the result was 76 .")
     assert text == "Result 7.6. Follow up."  # 근거 없는 6만 빼고 7.6 속의 6은 둔다
+
+
+def test_units_after_percent_and_clock_times():
+    # 6차 다시(round6b) 응답에서 남던 찌꺼기: "elevated%", "morning AM", "as low as."
+    source = "[doctor] your a1c was elevated . we'll see you tomorrow morning . pressure is usually one twenty over seventy ."
+    assert correct_text("Her HbA1c was elevated at 9.4%. Next.", source)[0] == "Her HbA1c was elevated. Next."
+    assert correct_text("See you tomorrow morning at 9 AM with Dr. Ruth.", source)[0] == "See you tomorrow morning with Dr. Ruth."
+    assert correct_text("Usually 120/70 but sometimes as low as 90/60 mm Hg.", source)[0] == "Usually 120/70 but sometimes."

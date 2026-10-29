@@ -1,0 +1,127 @@
+{
+  "run": {
+    "health": {
+      "status": "ok",
+      "llm_base_url": "http://127.0.0.1:8000/v1",
+      "models": [
+        "note-model"
+      ]
+    },
+    "requests": 120,
+    "ok": 119,
+    "status": {
+      "200": 119,
+      "502": 1
+    },
+    "concurrency": 8,
+    "wall_time_s": 367.4,
+    "latency_s": {
+      "p50": 20.1,
+      "p95": 44.8,
+      "max": 91.43
+    },
+    "retried": 1,
+    "completion_tokens_mean": 619.5,
+    "corrections": 16,
+    "needs_review": 2,
+    "rouge1_model": 57.25,
+    "rouge1_final": 57.26,
+    "faithfulness_model": {
+      "cases": 119,
+      "numbers_total": 527,
+      "unsupported_numbers": 18,
+      "unsupported_number_rate": 3.4,
+      "cases_with_unsupported_number": 13,
+      "cases_with_unsupported_test": 1,
+      "cases_with_invented_age": 0,
+      "supported_numbers": 509
+    },
+    "faithfulness_final": {
+      "cases": 119,
+      "numbers_total": 510,
+      "unsupported_numbers": 1,
+      "unsupported_number_rate": 0.2,
+      "cases_with_unsupported_number": 1,
+      "cases_with_unsupported_test": 1,
+      "cases_with_invented_age": 0,
+      "supported_numbers": 509
+    }
+  },
+  "stream": [
+    {
+      "id": "D2N088",
+      "event": "done",
+      "first_token_s": 0.13,
+      "done_s": 10.15,
+      "corrections": 0,
+      "same_note_as_non_stream": false
+    },
+    {
+      "id": "D2N089",
+      "event": "done",
+      "first_token_s": 0.06,
+      "done_s": 11.76,
+      "corrections": 0,
+      "same_note_as_non_stream": false
+    },
+    {
+      "id": "D2N090",
+      "event": "done",
+      "first_token_s": 0.08,
+      "done_s": 11.85,
+      "corrections": 0,
+      "same_note_as_non_stream": false
+    }
+  ],
+  "show": {
+    "id": "D2N191",
+    "status": 200,
+    "latency_s": 10.692,
+    "corrections": [
+      {
+        "division": "objective_exam",
+        "kind": "number",
+        "value": "3",
+        "removed": "Grade 3/6"
+      },
+      {
+        "division": "objective_results",
+        "kind": "number",
+        "value": "3",
+        "removed": "grade 3/6"
+      }
+    ],
+    "review": {
+      "invented_age": [],
+      "unsupported_numbers": [],
+      "unsupported_tests": [],
+      "needs_review": false
+    }
+  },
+  "overload": {
+    "burst": 24,
+    "wall_time_s": 68.2,
+    "status": {
+      "200": 14,
+      "503": 10
+    },
+    "retry_after": [
+      "5"
+    ],
+    "ok_client_s": {
+      "p50": 22.9,
+      "max": 68.19
+    },
+    "rejected_client_s": 15.6,
+    "server_metrics": {
+      "requests": 24,
+      "failures": 0,
+      "retries": 1,
+      "rejected": 10,
+      "inflight": 0,
+      "latency_p50_s": 20.745,
+      "latency_p95_s": 67.605,
+      "max_inflight": 8
+    }
+  }
+}

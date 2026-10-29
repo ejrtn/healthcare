@@ -8,6 +8,7 @@ outputs/*
 !outputs/dpo/
 !outputs/judge/
 !outputs/corrected/
+!outputs/e2e/
 outputs/sft/*/
 outputs/dpo/*/
 *.safetensors

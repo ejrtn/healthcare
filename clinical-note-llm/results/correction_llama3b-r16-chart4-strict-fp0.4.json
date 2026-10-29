@@ -57,7 +57,7 @@
   "edit_list": [
     {
       "value": "100",
-      "removed": "100",
+      "removed": "100%",
       "kind": "number",
       "division": "objective_exam",
       "id": "D2N110"
