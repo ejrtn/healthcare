@@ -12,7 +12,7 @@ from evaluate import DIVISIONS, evaluate, load_jsonl
 ROOT = Path(__file__).resolve().parent.parent
 TEST_SPLITS = ["test1", "test2", "test3"]
 GROUPS = ["baseline", "sft", "dpo"]
-REFERENCE_SYSTEMS = ["ChatGPT (zero-shot)", "BART+SAMSum FT (division)"]
+REFERENCE_SYSTEMS = ["BART+SAMSum FT (division)"]
 
 
 def row(name, s, json_valid="-", truncated="-", tok_s="-"):
