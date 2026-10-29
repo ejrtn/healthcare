@@ -113,6 +113,22 @@ def test_review_flags(make_client):
     assert not clean["needs_review"]
 
 
+def test_chart_input_and_review(make_client):
+    # 차트를 주면 학습 때와 같은 "차트 + 대화" 입력, 근거 검사도 차트까지 본다
+    note = dict(NOTE, subjective="CHIEF COMPLAINT\n\nKnee pain. Martha is a 58-year-old female.",
+                objective_results="RESULTS\n\nHemoglobin A1c 7.2.")
+    client, fake = make_client([json.dumps(note), json.dumps(note)])
+    chart = {"name": "Martha Lopez", "age": "58", "sex": "Female", "prior_results": ["Hemoglobin A1c 7.2"]}
+    review = client.post("/v1/notes", json={"dialogue": DIALOGUE, "chart": chart}).json()["review"]
+    sent = fake.requests[0]["messages"]
+    assert sent[1]["content"].startswith("PATIENT CHART\nName: Martha Lopez\nAge: 58\n")
+    assert sent[1]["content"].endswith("CONVERSATION\n" + DIALOGUE)
+    assert not review["needs_review"]  # 나이·수치 모두 차트에 있다
+    # 나이 칸이 비어 있는데 나이를 쓰면 표시한다
+    review = client.post("/v1/notes", json={"dialogue": DIALOGUE, "chart": dict(chart, age="")}).json()["review"]
+    assert review["invented_age"] == ["58"]
+
+
 def test_truncated_json_retries_once(make_client):
     client, fake = make_client([('{"subjective": "CHIEF COMPLAINT\\n\\nKnee pain. Knee pain. Knee', "length"),
                                 json.dumps(NOTE)])

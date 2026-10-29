@@ -33,7 +33,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 
 from faithfulness import check as grounding_check  # noqa: E402
-from prompts import build_messages  # noqa: E402
+from prompts import build_messages, render_chart  # noqa: E402
 from schema import NOTE_JSON_SCHEMA, render_note  # noqa: E402
 
 LLM_BASE_URL = os.environ.get("LLM_BASE_URL", "http://127.0.0.1:8000/v1")
@@ -50,8 +50,21 @@ FREQUENCY_PENALTY = float(os.environ.get("FREQUENCY_PENALTY", "0.4"))
 MAX_DIALOGUE_CHARS = int(os.environ.get("MAX_DIALOGUE_CHARS", "24000"))
 
 
+class Chart(BaseModel):
+    """진료 전 EHR 차트. 모르는 항목은 비워 둔다 — 모델은 빈칸을 "없음"으로 배웠다 (prompts.render_chart)."""
+    name: str = ""
+    age: str = ""
+    sex: str = ""
+    vitals: list[str] = []
+    prior_results: list[str] = []
+    history: list[str] = []
+    medications: list[str] = []
+    allergies: list[str] = []
+
+
 class NoteRequest(BaseModel):
     dialogue: str = Field(min_length=20, description="의사-환자 대화 전사본 ([doctor] ... [patient] ... 형식)")
+    chart: Chart | None = Field(None, description="있으면 학습 때처럼 '차트 + 대화'를 입력으로 준다 (최종 모델은 차트로 학습)")
 
 
 class ClinicalNote(BaseModel):
@@ -150,20 +163,28 @@ def parse_note(text: str) -> ClinicalNote:
     return ClinicalNote.model_validate(json.loads(text))
 
 
-def review_flags(note_text: str, dialogue: str) -> ReviewFlags:
-    # SFT 모델은 정답 기록의 습관을 배워 대화에 없는 나이·수치·검사를 쓰는 경우가 있다 (README 근거 검사).
+def prepare(req: NoteRequest) -> tuple[list, str]:
+    """모델 입력 메시지와 근거 검사에 쓸 원문(차트 + 대화). 평가(src/faithfulness.py --chart-dir)와 같은 기준이다."""
+    check_length(req.dialogue)
+    if req.chart is None:
+        return build_messages(req.dialogue, json_mode=True), req.dialogue
+    chart_text = render_chart(req.chart.model_dump())
+    return build_messages(req.dialogue, json_mode=True, chart_text=chart_text), chart_text + "\n\n" + req.dialogue
+
+
+def review_flags(note_text: str, source: str) -> ReviewFlags:
+    # SFT 모델은 정답 기록의 습관을 배워 입력에 없는 나이·수치·검사를 쓰는 경우가 있다 (README 근거 검사).
     # 생성 결과를 막지는 않고, 확인할 곳을 응답에 표시한다
-    r = grounding_check(note_text, dialogue)
+    r = grounding_check(note_text, source)
     flags = {k: r[k] for k in ("invented_age", "unsupported_numbers", "unsupported_tests")}
     return ReviewFlags(**flags, needs_review=any(flags.values()))
 
 
 @app.post("/v1/notes", response_model=NoteResponse)
 async def create_note(req: NoteRequest, request: Request):
-    check_length(req.dialogue)
+    messages, source = prepare(req)
     state = request.app.state
     state.metrics.requests += 1
-    messages = build_messages(req.dialogue, json_mode=True)
     start = time.perf_counter()
     prompt_tokens = completion_tokens = 0
 
@@ -200,7 +221,7 @@ async def create_note(req: NoteRequest, request: Request):
     state.metrics.latencies.append(latency)
     note_text = render_note(note.model_dump())
     return NoteResponse(
-        note=note, note_text=note_text, review=review_flags(note_text, req.dialogue), model=resp.model, attempts=attempt,
+        note=note, note_text=note_text, review=review_flags(note_text, source), model=resp.model, attempts=attempt,
         latency_s=round(latency, 3), prompt_tokens=prompt_tokens, completion_tokens=completion_tokens,
     )
 
@@ -211,10 +232,9 @@ async def stream_note(req: NoteRequest, request: Request):
 
     진료기록 한 건은 수십 초가 걸려서, 화면에 바로 글자가 나타나야 사용자가 기다릴 수 있다.
     """
-    check_length(req.dialogue)
+    messages, source = prepare(req)
     state = request.app.state
     state.metrics.requests += 1
-    messages = build_messages(req.dialogue, json_mode=True)
 
     def event(name, data):
         return f"event: {name}\ndata: {json.dumps(data, ensure_ascii=False)}\n\n"
@@ -250,7 +270,7 @@ async def stream_note(req: NoteRequest, request: Request):
         state.metrics.latencies.append(latency)
         note_text = render_note(note.model_dump())
         yield event("done", {"note": note.model_dump(), "note_text": note_text,
-                             "review": review_flags(note_text, req.dialogue).model_dump(),
+                             "review": review_flags(note_text, source).model_dump(),
                              "latency_s": round(latency, 3)})
 
     return StreamingResponse(events(), media_type="text/event-stream")

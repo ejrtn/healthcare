@@ -50,9 +50,10 @@ def spoken_numbers(text):
             if i + 1 < len(words) and words[i + 1] in UNITS[1:10]:
                 nums.add(v + UNITS.index(words[i + 1]))
             nums.add(v)
-        if w == "hundred":
-            base = UNITS.index(words[i - 1]) if i > 0 and words[i - 1] in UNITS else 1
-            nums.add(base * 100)
+        for scale, size in (("hundred", 100), ("thousand", 1000)):  # "one thousand milligrams" = 1000
+            if w == scale:
+                base = UNITS.index(words[i - 1]) if i > 0 and words[i - 1] in UNITS else 1
+                nums.add(base * size)
         if w in UNITS[1:10] and i + 1 < len(words) and (words[i + 1] in TENS or words[i + 1] in UNITS[10:]):
             # "one twenty" = 120, "one fifteen" = 115
             nxt = TENS.get(words[i + 1], UNITS.index(words[i + 1]) if words[i + 1] in UNITS else 0)

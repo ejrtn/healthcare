@@ -2,9 +2,9 @@
   "gold": {
     "cases": 120,
     "numbers_total": 904,
-    "unsupported_numbers": 41,
-    "unsupported_number_rate": 4.5,
-    "cases_with_unsupported_number": 27,
+    "unsupported_numbers": 38,
+    "unsupported_number_rate": 4.2,
+    "cases_with_unsupported_number": 24,
     "cases_with_unsupported_test": 0,
     "cases_with_invented_age": 0
   },
@@ -13,9 +13,9 @@
       "summary": {
         "cases": 120,
         "numbers_total": 573,
-        "unsupported_numbers": 24,
-        "unsupported_number_rate": 4.2,
-        "cases_with_unsupported_number": 17,
+        "unsupported_numbers": 20,
+        "unsupported_number_rate": 3.5,
+        "cases_with_unsupported_number": 14,
         "cases_with_unsupported_test": 1,
         "cases_with_invented_age": 0
       },
@@ -233,9 +233,7 @@
           "id": "D2N116"
         },
         {
-          "unsupported_numbers": [
-            "1000"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 5,
@@ -481,10 +479,7 @@
           "id": "D2N150"
         },
         {
-          "unsupported_numbers": [
-            "1000",
-            "1000"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 13,
@@ -537,9 +532,7 @@
           "id": "D2N157"
         },
         {
-          "unsupported_numbers": [
-            "1000"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 4,
