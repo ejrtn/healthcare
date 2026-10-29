@@ -23,9 +23,9 @@ CHART_FIELDS = ["vitals", "prior_results", "history", "medications", "allergies"
 TOOLS = [
     {"type": "function", "function": {
         "name": "search_dialogue",
-        "description": "Search this visit's conversation for the turns about a key term. Use the drug, test, "
-                       "measurement or event the flagged value belongs to (e.g. 'hydrochlorothiazide', 'ESR', "
-                       "'follow up'), not the number itself.",
+        # 예시는 일부러 넣지 않는다 — 처음 쓴 예시가 테스트 사례에서 온 것이라 답 힌트가 될 수 있었다
+        "description": "Search this visit's conversation for the turns about a key term. Use the name of the drug, "
+                       "test, measurement or event the flagged value belongs to, not the number itself.",
         "parameters": {"type": "object", "properties": {"query": {"type": "string"}}, "required": ["query"]}}},
     {"type": "function", "function": {
         "name": "get_chart",
@@ -48,8 +48,8 @@ SYSTEM = """You verify one sentence of a clinical note against this visit's evid
 A rule flagged values in the sentence that do not appear literally in the evidence.
 Use the tools to find the evidence. Search the conversation with the term the value belongs to, not with the number.
 Then decide:
-- keep: the evidence supports the sentence (for example the value was said in words, like "one thousand").
-- fix: the evidence supports the fact but not the flagged value, or gives a different value. Rewrite the sentence using only the evidence; drop or correct the unsupported value, e.g. "dose not stated".
+- keep: the evidence supports the sentence, including when the value was spoken in words instead of digits.
+- fix: the evidence supports the fact but not the flagged value, or gives a different value. Rewrite the sentence using only the evidence; correct the value or leave it out.
 - remove: nothing in the evidence supports the sentence.
 Never add information that is not in the evidence."""
 
