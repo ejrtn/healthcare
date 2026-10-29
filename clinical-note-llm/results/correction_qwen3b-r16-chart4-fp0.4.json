@@ -9,22 +9,22 @@
   "faithfulness_before": {
     "cases": 120,
     "numbers_total": 570,
-    "unsupported_numbers": 22,
-    "unsupported_number_rate": 3.9,
-    "cases_with_unsupported_number": 14,
+    "unsupported_numbers": 21,
+    "unsupported_number_rate": 3.7,
+    "cases_with_unsupported_number": 13,
     "cases_with_unsupported_test": 0,
     "cases_with_invented_age": 0,
-    "supported_numbers": 548
+    "supported_numbers": 549
   },
   "faithfulness_after": {
     "cases": 120,
     "numbers_total": 550,
-    "unsupported_numbers": 2,
-    "unsupported_number_rate": 0.4,
-    "cases_with_unsupported_number": 2,
+    "unsupported_numbers": 1,
+    "unsupported_number_rate": 0.2,
+    "cases_with_unsupported_number": 1,
     "cases_with_unsupported_test": 0,
     "cases_with_invented_age": 0,
-    "supported_numbers": 548
+    "supported_numbers": 549
   },
   "rouge1_before": 57.83,
   "rouge1_after": 57.85,
@@ -200,14 +200,6 @@
     ]
   },
   "left_for_review": [
-    {
-      "id": "D2N108",
-      "unsupported_numbers": [
-        "5"
-      ],
-      "unsupported_tests": [],
-      "invented_age": []
-    },
     {
       "id": "D2N186",
       "unsupported_numbers": [

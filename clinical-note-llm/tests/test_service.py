@@ -97,6 +97,7 @@ def test_note_ok(make_client):
     assert sent["messages"][1]["content"] == DIALOGUE
     assert sent["response_format"]["type"] == "json_schema"
     assert sent["frequency_penalty"] == 0.4 and sent["temperature"] == 0
+    assert sent["repetition_penalty"] == 1.0  # 서버 기본값(모델 generation_config)에 맡기지 않는다
 
 
 def test_unsupported_values_are_corrected_and_tests_flagged(make_client):

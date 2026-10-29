@@ -10,6 +10,11 @@
 차트 이름 규칙을 고쳤다(대화 첫마디 "so elizabeth is a ...", "alright david so ..."에서 이름을 못 읽어 무작위 이름이 들어간
 11건 — 학습 4·검증 1·테스트 6). 그래서 **이번 학습 모델과 API 경유 결과를 최종 수치로 쓴다.**
 
+첫 시도(round6, 2026-10-29)는 셀 4의 `vllm serve`에 `--generation-config vllm`을 빠뜨려, 모델의 generation_config
+(repetition_penalty 1.05)로 생성됐다. 검증 loss는 이전 모델과 같은데(0.8649 vs 0.8655) API 경유 ROUGE-1이 55.1(같은 119건에서
+이전 모델 오프라인 57.8)로 낮았다. 셀 4에 옵션을 넣고, API도 repetition_penalty 1.0을 직접 보내게 고쳐 다시 돌린다(round6b).
+첫 시도에서 보정이 놓친 경우(같은 값 반복, 서수 "31st", "mm Hg")와 검사기의 서수·연도 읽기도 고쳤다.
+
 ```python
 # 셀 1: 코드 + 학습 라이브러리
 %cd /kaggle/working
@@ -41,7 +46,8 @@ def wait(url, name):
             time.sleep(5)
     raise RuntimeError(f"{name}가 뜨지 않음 — /kaggle/working/{name}.log 확인")
 vllm = subprocess.Popen(["vllm", "serve", "outputs/sft/qwen3b-r16-final/merged", "--served-model-name", "note-model",
-                         "--dtype", "float16", "--max-model-len", "8192", "--tensor-parallel-size", "2"],
+                         "--dtype", "float16", "--max-model-len", "8192", "--tensor-parallel-size", "2",
+                         "--generation-config", "vllm"],  # 모델 generation_config(repetition_penalty 1.05)를 쓰지 않는다
                         stdout=open("/kaggle/working/vllm.log", "w"), stderr=subprocess.STDOUT)
 wait("http://127.0.0.1:8000/v1/models", "vllm")
 def start_api(queue_timeout):
@@ -58,7 +64,7 @@ api = start_api(120)  # MAX_INFLIGHT 8 = T4×2 측정에서 30초 안에 받는 
 ```
 
 ```python
-# 셀 6: 스크린샷용 — 실제 요청 하나(D2N164, 용량 보정 사례)의 입력·응답과 120건 요약. 이 셀 출력을 캡처한다
+# 셀 6: 스크린샷용 — 실제 요청 하나(셀 5에서 보정이 가장 많았던 사례)의 입력·응답과 120건 요약. 이 셀 출력을 캡처한다
 !python kaggle/11_e2e.py --phase show --tag final
 ```
 
@@ -70,8 +76,8 @@ api.terminate(); api.wait(); api = start_api(15)
 
 ```python
 # 셀 8: 결과 압축
-!zip -q -r /kaggle/working/round6.zip outputs/e2e results/e2e_final.json outputs/sft/qwen3b-r16-final/train_stats.json
-!ls -la /kaggle/working/round6.zip
+!zip -q -r /kaggle/working/round6b.zip outputs/e2e results/e2e_final.json outputs/sft/qwen3b-r16-final/train_stats.json
+!ls -la /kaggle/working/round6b.zip
 ```
 
 막히면

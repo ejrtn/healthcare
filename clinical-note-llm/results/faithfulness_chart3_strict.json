@@ -2,9 +2,9 @@
   "gold": {
     "cases": 120,
     "numbers_total": 878,
-    "unsupported_numbers": 24,
-    "unsupported_number_rate": 2.7,
-    "cases_with_unsupported_number": 13,
+    "unsupported_numbers": 17,
+    "unsupported_number_rate": 1.9,
+    "cases_with_unsupported_number": 12,
     "cases_with_unsupported_test": 0,
     "cases_with_invented_age": 0
   },
@@ -13,9 +13,9 @@
       "summary": {
         "cases": 120,
         "numbers_total": 556,
-        "unsupported_numbers": 17,
-        "unsupported_number_rate": 3.1,
-        "cases_with_unsupported_number": 10,
+        "unsupported_numbers": 16,
+        "unsupported_number_rate": 2.9,
+        "cases_with_unsupported_number": 9,
         "cases_with_unsupported_test": 0,
         "cases_with_invented_age": 11
       },
@@ -161,9 +161,7 @@
           "id": "D2N107"
         },
         {
-          "unsupported_numbers": [
-            "5"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 3,

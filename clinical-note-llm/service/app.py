@@ -128,8 +128,11 @@ def response_format():
 
 
 def sampling_kwargs():
+    # repetition_penalty를 명시한다. vLLM 서버를 --generation-config vllm 없이 띄우면 모델의 generation_config.json
+    # (Qwen: 1.05)이 기본값이 되어, 평가와 다른 설정으로 생성된다 (6차 끝까지 시험에서 ROUGE-1 57.8 → 55.1)
     return dict(model=LLM_MODEL, temperature=0, max_tokens=MAX_TOKENS,
-                frequency_penalty=FREQUENCY_PENALTY, response_format=response_format())
+                frequency_penalty=FREQUENCY_PENALTY, response_format=response_format(),
+                extra_body={"repetition_penalty": 1.0})
 
 
 @asynccontextmanager

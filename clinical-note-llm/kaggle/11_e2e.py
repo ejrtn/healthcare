@@ -144,7 +144,11 @@ async def phase_overload(args, cases, charts, report):
 
 async def phase_show(args, cases, charts, report):
     """포트폴리오 스크린샷용: 실제 요청 하나를 보내 입력(차트·대화 일부)과 응답(보정한 기록·뺀 값·확인 표시)을 보기 좋게 출력한다."""
-    case = next(c for c in cases if c["id"] == args.show_id)
+    show_id = args.show_id
+    if show_id == "auto":  # run 단계 응답에서 보정이 가장 많이 일어난 사례 (다시 학습한 모델은 지어내는 곳이 달라진다)
+        rows = load_jsonl(ROOT / "outputs" / "e2e" / f"{args.tag}_api.jsonl")
+        show_id = max((r for r in rows if r["status"] == 200), key=lambda r: len(r["corrections"]))["id"]
+    case = next(c for c in cases if c["id"] == show_id)
     chart = charts[case["id"]]["chart"]
     async with httpx.AsyncClient(timeout=600) as client:
         r = await post_note(client, args.url, case, chart)
@@ -202,7 +206,7 @@ def main():
     ap.add_argument("--phase", nargs="+", default=["run", "stream"], choices=["run", "stream", "overload", "show"])
     ap.add_argument("--concurrency", type=int, default=8, help="T4×2 측정에서 30초 안에 받는 동시 요청 수")
     ap.add_argument("--burst", type=int, default=24)
-    ap.add_argument("--show-id", default="D2N164", help="show 단계에서 보낼 사례 (보정이 일어나는 예)")
+    ap.add_argument("--show-id", default="auto", help="show 단계에서 보낼 사례. auto: run 결과에서 보정이 가장 많은 사례")
     ap.add_argument("--tag", default="qwen3b-r16-chart4")
     ap.add_argument("--chart-dir", default="data/chart")
     ap.add_argument("--offline", default="outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl", help="none: 비교하지 않음")

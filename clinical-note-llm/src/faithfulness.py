@@ -25,6 +25,11 @@ TEST_SPLITS = ["test1", "test2", "test3"]
 UNITS = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve",
          "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
 TENS = {"twenty": 20, "thirty": 30, "forty": 40, "fifty": 50, "sixty": 60, "seventy": 70, "eighty": 80, "ninety": 90}
+# 서수는 기수로 읽는다: "the fifth mtp joint" ↔ 기록 "5th", "october thirty first" ↔ "31st"
+ORDINALS = {"first": "one", "second": "two", "third": "three", "fourth": "four", "fifth": "five", "sixth": "six",
+            "seventh": "seven", "eighth": "eight", "ninth": "nine", "tenth": "ten", "eleventh": "eleven",
+            "twelfth": "twelve", "twentieth": "twenty", "thirtieth": "thirty"}
+ORDINALS |= {u + "th": u for u in UNITS[13:20]}  # thirteenth ~ nineteenth
 
 # 검사 이름 → 대화에서 그 검사를 가리킬 수 있는 표현들
 TESTS = {
@@ -58,10 +63,11 @@ def spoken_numbers(text):
 
     근거 검사 v2 (2026-10-29): 표시된 51문장을 대조해 보니 21개가 오탐이었고, 대부분 아래 표현을 못 읽어서였다.
     "1,792" · "a hundred and fifteen" · "three hundred and sixty" · "one seventy five" · "nine one one" · "two and a half"
+    서수와 연도(2026-10-29, API 끝까지 시험에서): "the fifth mtp joint" · "october thirty first" · "twenty twenty one"
     """
     nums = {int(n) for n in re.findall(r"\d+", text)}
     nums |= {int(n.replace(",", "")) for n in re.findall(r"\d{1,3}(?:,\d{3})+", text)}  # "1,792"
-    words = re.findall(r"[a-z]+|\d+", text.lower())
+    words = [ORDINALS.get(w, w) for w in re.findall(r"[a-z]+|\d+", text.lower())]
     nums |= {i for i, w in enumerate(UNITS) if w in words}
     for i, w in enumerate(words):
         v, _ = word_value(words, i)
@@ -76,6 +82,11 @@ def spoken_numbers(text):
                 rest, _ = word_value(words, j)  # "a hundred and fifteen" = 115, "three hundred sixty" = 360
                 if rest is not None:
                     nums.add(base * size + rest)
+        if (w in TENS or w in UNITS[10:]) and i + 1 < len(words) and (words[i + 1] in TENS or words[i + 1] in UNITS[10:]):
+            # 연도: "twenty twenty one" = 2021, "nineteen ninety" = 1990
+            head = TENS[w] if w in TENS else UNITS.index(w)
+            if (words[i - 1] if i > 0 else "") not in TENS:  # "sixty five" 다음의 "twenty"부터 다시 읽지 않는다
+                nums.add(head * 100 + word_value(words, i + 1)[0])
         if w in UNITS[1:10] and i + 1 < len(words) and (words[i + 1] in TENS or words[i + 1] in UNITS[10:]):
             # "one twenty" = 120, "one fifteen" = 115, "one seventy five" = 175
             nxt, _ = word_value(words, i + 1)

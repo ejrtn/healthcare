@@ -1,30 +1,30 @@
 {
   "preds": "outputs/sft/qwen3b-r16-chart4-strict-fp0.4_json.jsonl",
   "chart_field": "chart_text_strict",
-  "edits": 40,
+  "edits": 41,
   "edits_by_kind": {
-    "number": 24,
+    "number": 25,
     "age": 16
   },
   "faithfulness_before": {
     "cases": 120,
     "numbers_total": 596,
-    "unsupported_numbers": 32,
-    "unsupported_number_rate": 5.4,
-    "cases_with_unsupported_number": 17,
+    "unsupported_numbers": 31,
+    "unsupported_number_rate": 5.2,
+    "cases_with_unsupported_number": 16,
     "cases_with_unsupported_test": 0,
     "cases_with_invented_age": 11,
-    "supported_numbers": 564
+    "supported_numbers": 565
   },
   "faithfulness_after": {
     "cases": 120,
-    "numbers_total": 567,
-    "unsupported_numbers": 5,
-    "unsupported_number_rate": 0.9,
-    "cases_with_unsupported_number": 4,
+    "numbers_total": 566,
+    "unsupported_numbers": 3,
+    "unsupported_number_rate": 0.5,
+    "cases_with_unsupported_number": 2,
     "cases_with_unsupported_test": 0,
     "cases_with_invented_age": 0,
-    "supported_numbers": 562
+    "supported_numbers": 563
   },
   "rouge1_before": 58.05,
   "rouge1_after": 58.09,
@@ -38,25 +38,9 @@
   "labels": null,
   "left_for_review": [
     {
-      "id": "D2N108",
-      "unsupported_numbers": [
-        "5"
-      ],
-      "unsupported_tests": [],
-      "invented_age": []
-    },
-    {
       "id": "D2N186",
       "unsupported_numbers": [
         "4"
-      ],
-      "unsupported_tests": [],
-      "invented_age": []
-    },
-    {
-      "id": "D2N205",
-      "unsupported_numbers": [
-        "25"
       ],
       "unsupported_tests": [],
       "invented_age": []
@@ -320,6 +304,13 @@
       "removed": "65-year-old",
       "kind": "age",
       "division": "subjective",
+      "id": "D2N205"
+    },
+    {
+      "value": "25",
+      "removed": "25",
+      "kind": "number",
+      "division": "assessment_and_plan",
       "id": "D2N205"
     },
     {

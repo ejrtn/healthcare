@@ -37,3 +37,10 @@ def test_decades_and_compound_tens():
     # "one forty four"은 144다. 예전 검사기는 "forty"만 떼어 140·40도 근거로 봤다
     assert check("Blood pressure 140/72. She is a 40-year-old female.", dialogue)["unsupported_numbers"] == ["140"]
     assert check("She is a 40-year-old female.", dialogue)["invented_age"] == ["40"]
+
+
+def test_ordinals_and_years():
+    # API 끝까지 시험(D2N108·D2N138)에서 찾은 표현: 서수는 기수로, "twenty twenty one"은 연도로 읽는다
+    dialogue = "[doctor] just proximal to the fifth mtp joint . refills until october thirty first , twenty twenty one ."
+    assert check("Proximal to the 5th MTP joint. Refills until October 31st, 2021.", dialogue)["unsupported_numbers"] == []
+    assert check("Refills until October 31st, 2021.", "[doctor] refills are available .")["unsupported_numbers"] == ["31", "2021"]

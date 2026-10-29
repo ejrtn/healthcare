@@ -14,16 +14,17 @@ import re
 from faithfulness import check
 
 PREFIX = r"(?:(?:at|of|to|from|around|about|approximately|is|was|were|be|to be|as an?|in the (?:last|past)|every|by|for|up to)\s+)?"
-UNIT = (r"(?:\s*(?:%|percent|mg/dl|mg|mcg|micrograms?|milligrams?|grams?|g|kg|lbs?|pounds?|ml|units?|mm/hr|mmhg|"
-        r"beats per minute|bpm|degrees?|hours?|days?|weeks?|months?|years?|minutes?|cm|mm|times?))?")
+UNIT = (r"(?:\s*(?:%|percent|mg/dl|mg|mcg|micrograms?|milligrams?|grams?|g|kg|lbs?|pounds?|ml|units?|mm/hr|"
+        r"beats per minute|bpm|degrees?|hours?|days?|weeks?|months?|years?|minutes?|cm|mm\s?hg|mm|times?))?")
 AFTER = r"(?:\s+(?:predicted|(?:once|twice|three times|four times)\s+(?:daily|a day|per day)|daily|a day|per day|at night))?"
 
 
 def value_pattern(value: str) -> re.Pattern:
     """값 하나를 지울 범위: 앞말 + 값(범위·분수·척도 포함) + 단위 + 빈도."""
     v = re.escape(value)
-    number = rf"(?:grade\s+)?(?:\d+(?:\.\d+)?\s*[-/]\s*)?{v}(?:\s*(?:[-/]|out of)\s*\d+(?:\.\d+)?)?"
-    return re.compile(rf"\s*\b{PREFIX}{number}(?![\d.]\d){UNIT}{AFTER}\b", re.I)
+    number = rf"(?:grade\s+)?(?:\d+(?:\.\d+)?\s*[-/]\s*)?(?<![\d.]){v}(?:\s*(?:[-/]|out of)\s*\d+(?:\.\d+)?)?"
+    ordinal = r"(?:st|nd|rd|th)?"  # "October 31st"
+    return re.compile(rf"\s*\b{PREFIX}{number}{ordinal}(?![\d.]\d){UNIT}{AFTER}\b", re.I)
 
 
 def tidy(text: str) -> str:
@@ -48,9 +49,10 @@ def correct_text(text: str, source: str) -> tuple[str, list[dict]]:
             edits.append({"value": f"{age}-year-old", "removed": f"{age}-year-old", "kind": "age"})
             text = new
     for value in dict.fromkeys(r["unsupported_numbers"]):
-        m = value_pattern(value).search(text)
-        if m:
-            edits.append({"value": value, "removed": m.group().strip(), "kind": "number"})
+        # 같은 값이 여러 번 나오면 모두 뺀다 (근거는 값 단위로 판정하므로 어느 자리든 근거가 없다)
+        matches = list(value_pattern(value).finditer(text))
+        edits += [{"value": value, "removed": m.group().strip(), "kind": "number"} for m in matches]
+        for m in reversed(matches):
             text = text[:m.start()] + text[m.end():]
     return tidy(text), edits
 

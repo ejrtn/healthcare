@@ -9,22 +9,22 @@
   "faithfulness_before": {
     "cases": 120,
     "numbers_total": 664,
-    "unsupported_numbers": 33,
-    "unsupported_number_rate": 5.0,
-    "cases_with_unsupported_number": 12,
+    "unsupported_numbers": 29,
+    "unsupported_number_rate": 4.4,
+    "cases_with_unsupported_number": 10,
     "cases_with_unsupported_test": 2,
     "cases_with_invented_age": 1,
-    "supported_numbers": 631
+    "supported_numbers": 635
   },
   "faithfulness_after": {
     "cases": 120,
     "numbers_total": 635,
-    "unsupported_numbers": 4,
-    "unsupported_number_rate": 0.6,
-    "cases_with_unsupported_number": 2,
+    "unsupported_numbers": 0,
+    "unsupported_number_rate": 0.0,
+    "cases_with_unsupported_number": 0,
     "cases_with_unsupported_test": 2,
     "cases_with_invented_age": 0,
-    "supported_numbers": 631
+    "supported_numbers": 635
   },
   "rouge1_before": 59.23,
   "rouge1_after": 59.26,
@@ -43,24 +43,6 @@
       "unsupported_tests": [
         "x-ray"
       ],
-      "invented_age": []
-    },
-    {
-      "id": "D2N108",
-      "unsupported_numbers": [
-        "5"
-      ],
-      "unsupported_tests": [],
-      "invented_age": []
-    },
-    {
-      "id": "D2N179",
-      "unsupported_numbers": [
-        "4",
-        "4",
-        "5"
-      ],
-      "unsupported_tests": [],
       "invented_age": []
     },
     {
@@ -158,7 +140,7 @@
       "id": "D2N163"
     },
     {
-      "value": "100",
+      "value": "102",
       "removed": "100/102",
       "kind": "number",
       "division": "objective_results",

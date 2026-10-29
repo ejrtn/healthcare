@@ -41,3 +41,17 @@ def test_empty_parentheses_left_by_removed_values_are_dropped():
     text, _ = correct_text("Glucose: Normal (70-99 mg/dL). Cholesterol: Elevated (210 mg/dL).",
                            "[doctor] your cholesterol was elevated at two ten .")
     assert text == "Glucose: Normal. Cholesterol: Elevated (210 mg/dL)."
+
+
+def test_repeated_values_ordinals_and_mm_hg():
+    # API 끝까지 시험에서 남았던 경우: 같은 값이 여러 번(D2N138), 서수 "31st", "mm Hg"의 Hg만 남던 것(D2N161)
+    source = "[doctor] your blood pressure was elevated in the emergency room . refills are available ."
+    text, edits = correct_text("Refills until October 31st, 2021. Inhaler refills until October 31st, 2021.", source)
+    assert text == "Refills until October. Inhaler refills until October." and len(edits) == 4
+    text, _ = correct_text("Blood pressure was elevated at 208/72 mm Hg.", source)
+    assert text == "Blood pressure was elevated."
+
+
+def test_value_inside_decimal_is_not_removed():
+    text, _ = correct_text("Result 7.6. Follow up for 6 weeks.", "[doctor] the result was 76 .")
+    assert text == "Result 7.6. Follow up."  # 근거 없는 6만 빼고 7.6 속의 6은 둔다
