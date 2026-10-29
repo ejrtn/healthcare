@@ -1,5 +1,5 @@
 {
- "설명": "근거 검사가 표시한 문장의 정답 라벨 (Claude가 대화·차트 원문과 대조). tp = 실제로 근거 없음 → 고치거나 지워야 함, fp = 검사기 오탐 → 남겨야 함",
+ "설명": "근거 검사가 표시한 문장의 정답 라벨 (Claude가 대화·차트 원문과 대조, 1건 정정). tp = 실제로 근거 없음 → 고치거나 지워야 함, fp = 검사기 오탐 → 남겨야 함",
  "items": [
   {
    "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
@@ -306,8 +306,8 @@
    "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
    "id": "D2N191",
    "sentence_start": "- Medical Treatment: We will obtain an EKG",
-   "label": "tp",
-   "note": "911 연락 계획 근거 없음"
+   "label": "fp",
+   "note": "대화 'we'll call nine one one' (처음엔 tp로 잘못 라벨링 — 검사기 v2 확인 중 정정)"
   },
   {
    "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",

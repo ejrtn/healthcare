@@ -1,0 +1,348 @@
+{
+  "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+  "chart_field": "chart_text",
+  "edits": 18,
+  "edits_by_kind": {
+    "number": 18,
+    "age": 0
+  },
+  "faithfulness_before": {
+    "cases": 120,
+    "numbers_total": 570,
+    "unsupported_numbers": 22,
+    "unsupported_number_rate": 3.9,
+    "cases_with_unsupported_number": 14,
+    "cases_with_unsupported_test": 0,
+    "cases_with_invented_age": 0,
+    "supported_numbers": 548
+  },
+  "faithfulness_after": {
+    "cases": 120,
+    "numbers_total": 550,
+    "unsupported_numbers": 2,
+    "unsupported_number_rate": 0.4,
+    "cases_with_unsupported_number": 2,
+    "cases_with_unsupported_test": 0,
+    "cases_with_invented_age": 0,
+    "supported_numbers": 548
+  },
+  "rouge1_before": 57.83,
+  "rouge1_after": 57.85,
+  "rouge1_by_division_after": {
+    "ALL": 57.85,
+    "subjective": 53.97,
+    "objective_exam": 47.91,
+    "objective_results": 65.9,
+    "assessment_and_plan": 44.15
+  },
+  "labels": {
+    "sentences": 26,
+    "accuracy": 100.0,
+    "tp_corrected": "18/18",
+    "fp_untouched": "8/8",
+    "rows": [
+      {
+        "id": "D2N101",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N125",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N128",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N128",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N128",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N128",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N135",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N135",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N138",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N138",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N144",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N150",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N152",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N153",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N161",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N161",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N164",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N164",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N177",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N187",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N191",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N191",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N192",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N197",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N200",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N201",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      }
+    ]
+  },
+  "left_for_review": [
+    {
+      "id": "D2N108",
+      "unsupported_numbers": [
+        "5"
+      ],
+      "unsupported_tests": [],
+      "invented_age": []
+    },
+    {
+      "id": "D2N186",
+      "unsupported_numbers": [
+        "4"
+      ],
+      "unsupported_tests": [],
+      "invented_age": []
+    }
+  ],
+  "edit_list": [
+    {
+      "value": "200",
+      "removed": "200 mg twice daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N125"
+    },
+    {
+      "value": "45",
+      "removed": "at 45 mm/hr",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N128"
+    },
+    {
+      "value": "7",
+      "removed": "at 7 mg/dL",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N128"
+    },
+    {
+      "value": "45",
+      "removed": "at 45 mm/hr",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N128"
+    },
+    {
+      "value": "7",
+      "removed": "at 7 mg/dL",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N128"
+    },
+    {
+      "value": "180",
+      "removed": "at 180 mg/dL",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N135"
+    },
+    {
+      "value": "9",
+      "removed": "at 9",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N135"
+    },
+    {
+      "value": "85",
+      "removed": "of 85% predicted",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N138"
+    },
+    {
+      "value": "85",
+      "removed": "of 85% predicted",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N138"
+    },
+    {
+      "value": "6",
+      "removed": "every 6-8 hours",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N152"
+    },
+    {
+      "value": "208",
+      "removed": "to be 208/92 mmHg",
+      "kind": "number",
+      "division": "subjective",
+      "id": "D2N161"
+    },
+    {
+      "value": "12.5",
+      "removed": "12.5 mg daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N164"
+    },
+    {
+      "value": "500",
+      "removed": "from 500 mg twice daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N177"
+    },
+    {
+      "value": "3",
+      "removed": "Grade 3/6",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N191"
+    },
+    {
+      "value": "3",
+      "removed": "grade 3/6",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N191"
+    },
+    {
+      "value": "24",
+      "removed": "in the last 24 hours",
+      "kind": "number",
+      "division": "subjective",
+      "id": "D2N192"
+    },
+    {
+      "value": "500",
+      "removed": "from 500 mg daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N200"
+    },
+    {
+      "value": "8",
+      "removed": "as an 8/10",
+      "kind": "number",
+      "division": "subjective",
+      "id": "D2N201"
+    }
+  ]
+}

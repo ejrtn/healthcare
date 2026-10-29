@@ -1,0 +1,347 @@
+{
+  "preds": "outputs/sft/qwen3b-r16-chart4-strict-fp0.4_json.jsonl",
+  "chart_field": "chart_text_strict",
+  "edits": 40,
+  "edits_by_kind": {
+    "number": 24,
+    "age": 16
+  },
+  "faithfulness_before": {
+    "cases": 120,
+    "numbers_total": 596,
+    "unsupported_numbers": 32,
+    "unsupported_number_rate": 5.4,
+    "cases_with_unsupported_number": 17,
+    "cases_with_unsupported_test": 0,
+    "cases_with_invented_age": 11,
+    "supported_numbers": 564
+  },
+  "faithfulness_after": {
+    "cases": 120,
+    "numbers_total": 567,
+    "unsupported_numbers": 5,
+    "unsupported_number_rate": 0.9,
+    "cases_with_unsupported_number": 4,
+    "cases_with_unsupported_test": 0,
+    "cases_with_invented_age": 0,
+    "supported_numbers": 562
+  },
+  "rouge1_before": 58.05,
+  "rouge1_after": 58.09,
+  "rouge1_by_division_after": {
+    "ALL": 58.09,
+    "subjective": 53.49,
+    "objective_exam": 49.36,
+    "objective_results": 62.18,
+    "assessment_and_plan": 44.46
+  },
+  "labels": null,
+  "left_for_review": [
+    {
+      "id": "D2N108",
+      "unsupported_numbers": [
+        "5"
+      ],
+      "unsupported_tests": [],
+      "invented_age": []
+    },
+    {
+      "id": "D2N186",
+      "unsupported_numbers": [
+        "4"
+      ],
+      "unsupported_tests": [],
+      "invented_age": []
+    },
+    {
+      "id": "D2N205",
+      "unsupported_numbers": [
+        "25"
+      ],
+      "unsupported_tests": [],
+      "invented_age": []
+    }
+  ],
+  "edit_list": [
+    {
+      "value": "20",
+      "removed": "20 mg daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N107"
+    },
+    {
+      "value": "45-year-old",
+      "removed": "45-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N113"
+    },
+    {
+      "value": "45-year-old",
+      "removed": "45-year-old",
+      "kind": "age",
+      "division": "assessment_and_plan",
+      "id": "D2N113"
+    },
+    {
+      "value": "45-year-old",
+      "removed": "45-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N118"
+    },
+    {
+      "value": "45-year-old",
+      "removed": "45-year-old",
+      "kind": "age",
+      "division": "assessment_and_plan",
+      "id": "D2N118"
+    },
+    {
+      "value": "40-year-old",
+      "removed": "40-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N119"
+    },
+    {
+      "value": "60-year-old",
+      "removed": "60-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N121"
+    },
+    {
+      "value": "50-year-old",
+      "removed": "50-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N122"
+    },
+    {
+      "value": "45",
+      "removed": "at 45 mm/hr",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N128"
+    },
+    {
+      "value": "7",
+      "removed": "at 7 mg/dL",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N128"
+    },
+    {
+      "value": "45",
+      "removed": "at 45 mm/hr",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N128"
+    },
+    {
+      "value": "7",
+      "removed": "at 7 mg/dL",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N128"
+    },
+    {
+      "value": "180",
+      "removed": "at 180 mg/dL",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N135"
+    },
+    {
+      "value": "9",
+      "removed": "at 9",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N135"
+    },
+    {
+      "value": "15",
+      "removed": "15 mg once daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N152"
+    },
+    {
+      "value": "6",
+      "removed": "every 6 hours",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N152"
+    },
+    {
+      "value": "68-year-old",
+      "removed": "68-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N156"
+    },
+    {
+      "value": "208",
+      "removed": "to be 208/90 mmHg",
+      "kind": "number",
+      "division": "subjective",
+      "id": "D2N161"
+    },
+    {
+      "value": "208",
+      "removed": "to be 208/90 mmHg",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N161"
+    },
+    {
+      "value": "130",
+      "removed": "130/80 mmHg",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N161"
+    },
+    {
+      "value": "12.5",
+      "removed": "12.5 mg daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N164"
+    },
+    {
+      "value": "190",
+      "removed": "to 190/100 mmHg",
+      "kind": "number",
+      "division": "subjective",
+      "id": "D2N168"
+    },
+    {
+      "value": "190",
+      "removed": "at 190/100 mmHg",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N168"
+    },
+    {
+      "value": "20",
+      "removed": "from 20 mg once daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N168"
+    },
+    {
+      "value": "500",
+      "removed": "from 500 mg twice daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N177"
+    },
+    {
+      "value": "15",
+      "removed": "approximately 15 minutes",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N187"
+    },
+    {
+      "value": "65-year-old",
+      "removed": "65-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N189"
+    },
+    {
+      "value": "65-year-old",
+      "removed": "65-year-old",
+      "kind": "age",
+      "division": "assessment_and_plan",
+      "id": "D2N189"
+    },
+    {
+      "value": "3",
+      "removed": "Grade 3/6",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N191"
+    },
+    {
+      "value": "3",
+      "removed": "grade 3/6",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N191"
+    },
+    {
+      "value": "24",
+      "removed": "in the last 24 hours",
+      "kind": "number",
+      "division": "subjective",
+      "id": "D2N192"
+    },
+    {
+      "value": "45-year-old",
+      "removed": "45-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N193"
+    },
+    {
+      "value": "50-year-old",
+      "removed": "50-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N200"
+    },
+    {
+      "value": "50-year-old",
+      "removed": "50-year-old",
+      "kind": "age",
+      "division": "assessment_and_plan",
+      "id": "D2N200"
+    },
+    {
+      "value": "1000",
+      "removed": "from 1000 mg daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N200"
+    },
+    {
+      "value": "8",
+      "removed": "as an 8/10",
+      "kind": "number",
+      "division": "subjective",
+      "id": "D2N201"
+    },
+    {
+      "value": "65-year-old",
+      "removed": "65-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N205"
+    },
+    {
+      "value": "25",
+      "removed": "25",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N205"
+    },
+    {
+      "value": "65-year-old",
+      "removed": "65-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N207"
+    },
+    {
+      "value": "65-year-old",
+      "removed": "65-year-old",
+      "kind": "age",
+      "division": "assessment_and_plan",
+      "id": "D2N207"
+    }
+  ]
+}

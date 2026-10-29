@@ -1,10 +1,10 @@
 {
   "gold": {
     "cases": 120,
-    "numbers_total": 904,
-    "unsupported_numbers": 38,
-    "unsupported_number_rate": 4.2,
-    "cases_with_unsupported_number": 24,
+    "numbers_total": 878,
+    "unsupported_numbers": 24,
+    "unsupported_number_rate": 2.7,
+    "cases_with_unsupported_number": 13,
     "cases_with_unsupported_test": 0,
     "cases_with_invented_age": 0
   },
@@ -12,10 +12,10 @@
     "outputs/sft/llama3b-r16-chart4-strict-fp0.4_json.jsonl": {
       "summary": {
         "cases": 120,
-        "numbers_total": 677,
-        "unsupported_numbers": 47,
-        "unsupported_number_rate": 6.9,
-        "cases_with_unsupported_number": 25,
+        "numbers_total": 664,
+        "unsupported_numbers": 33,
+        "unsupported_number_rate": 5.0,
+        "cases_with_unsupported_number": 12,
         "cases_with_unsupported_test": 2,
         "cases_with_invented_age": 1
       },
@@ -56,19 +56,17 @@
           "id": "D2N092"
         },
         {
-          "unsupported_numbers": [
-            "4"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 4,
+          "numbers_total": 3,
           "id": "D2N093"
         },
         {
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 6,
+          "numbers_total": 5,
           "id": "D2N094"
         },
         {
@@ -123,9 +121,7 @@
           "id": "D2N101"
         },
         {
-          "unsupported_numbers": [
-            "1000"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 7,
@@ -202,7 +198,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 14,
+          "numbers_total": 12,
           "id": "D2N112"
         },
         {
@@ -223,7 +219,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 6,
+          "numbers_total": 5,
           "id": "D2N115"
         },
         {
@@ -262,9 +258,7 @@
           "id": "D2N120"
         },
         {
-          "unsupported_numbers": [
-            "125"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 9,
@@ -437,9 +431,7 @@
           "id": "D2N143"
         },
         {
-          "unsupported_numbers": [
-            "10"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 7,
@@ -458,7 +450,7 @@
           "invented_age": [
             "55"
           ],
-          "numbers_total": 6,
+          "numbers_total": 5,
           "id": "D2N146"
         },
         {
@@ -476,9 +468,7 @@
           "id": "D2N148"
         },
         {
-          "unsupported_numbers": [
-            "6"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 6,
@@ -488,7 +478,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 4,
+          "numbers_total": 3,
           "id": "D2N150"
         },
         {
@@ -506,9 +496,7 @@
           "id": "D2N152"
         },
         {
-          "unsupported_numbers": [
-            "2.5"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 4,
@@ -568,9 +556,7 @@
           "id": "D2N160"
         },
         {
-          "unsupported_numbers": [
-            "911"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 10,
@@ -580,7 +566,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 2,
+          "numbers_total": 0,
           "id": "D2N162"
         },
         {
@@ -626,7 +612,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 5,
+          "numbers_total": 4,
           "id": "D2N167"
         },
         {
@@ -771,9 +757,7 @@
           "id": "D2N186"
         },
         {
-          "unsupported_numbers": [
-            "360"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 1,
@@ -801,9 +785,7 @@
           "id": "D2N190"
         },
         {
-          "unsupported_numbers": [
-            "911"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [
             "echocardiogram"
           ],
@@ -815,7 +797,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 10,
+          "numbers_total": 9,
           "id": "D2N192"
         },
         {
@@ -826,19 +808,14 @@
           "id": "D2N193"
         },
         {
-          "unsupported_numbers": [
-            "10",
-            "10"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 4,
           "id": "D2N194"
         },
         {
-          "unsupported_numbers": [
-            "6"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 4,
@@ -852,12 +829,10 @@
           "id": "D2N196"
         },
         {
-          "unsupported_numbers": [
-            "175"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 11,
+          "numbers_total": 9,
           "id": "D2N197"
         },
         {
@@ -899,9 +874,7 @@
           "id": "D2N202"
         },
         {
-          "unsupported_numbers": [
-            "360"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 2,

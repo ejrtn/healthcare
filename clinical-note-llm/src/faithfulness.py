@@ -39,25 +39,59 @@ TESTS = {
 }
 
 
+def word_value(words, i):
+    """words[i]부터 읽히는 1~99 값과 쓴 단어 수: "sixty five" → (65, 2), "fifteen" → (15, 1). 없으면 (None, 0)."""
+    if i >= len(words):
+        return None, 0
+    w = words[i]
+    if w in TENS:
+        if i + 1 < len(words) and words[i + 1] in UNITS[1:10]:
+            return TENS[w] + UNITS.index(words[i + 1]), 2
+        return TENS[w], 1
+    if w in UNITS[1:]:
+        return UNITS.index(w), 1
+    return None, 0
+
+
 def spoken_numbers(text):
-    """대화 속 숫자 표현(숫자 + 영어 단어)을 정수 집합으로. "one twenty over seventy" 같은 표현을 위해 단순 조합도 넣는다."""
+    """대화 속 숫자 표현(숫자 + 영어 단어)을 정수 집합으로. "one twenty over seventy" 같은 표현을 위해 단순 조합도 넣는다.
+
+    근거 검사 v2 (2026-10-29): 표시된 51문장을 대조해 보니 21개가 오탐이었고, 대부분 아래 표현을 못 읽어서였다.
+    "1,792" · "a hundred and fifteen" · "three hundred and sixty" · "one seventy five" · "nine one one" · "two and a half"
+    """
     nums = {int(n) for n in re.findall(r"\d+", text)}
-    words = re.findall(r"[a-z]+", text.lower())
+    nums |= {int(n.replace(",", "")) for n in re.findall(r"\d{1,3}(?:,\d{3})+", text)}  # "1,792"
+    words = re.findall(r"[a-z]+|\d+", text.lower())
     nums |= {i for i, w in enumerate(UNITS) if w in words}
     for i, w in enumerate(words):
-        if w in TENS:
-            v = TENS[w]
-            if i + 1 < len(words) and words[i + 1] in UNITS[1:10]:
-                nums.add(v + UNITS.index(words[i + 1]))
+        v, _ = word_value(words, i)
+        if v is not None:
             nums.add(v)
         for scale, size in (("hundred", 100), ("thousand", 1000)):  # "one thousand milligrams" = 1000
             if w == scale:
-                base = UNITS.index(words[i - 1]) if i > 0 and words[i - 1] in UNITS else 1
+                prev = words[i - 1] if i > 0 else ""
+                base = UNITS.index(prev) if prev in UNITS else int(prev) if prev.isdigit() else 1
                 nums.add(base * size)
+                j = i + 2 if i + 1 < len(words) and words[i + 1] == "and" else i + 1
+                rest, _ = word_value(words, j)  # "a hundred and fifteen" = 115, "three hundred sixty" = 360
+                if rest is not None:
+                    nums.add(base * size + rest)
         if w in UNITS[1:10] and i + 1 < len(words) and (words[i + 1] in TENS or words[i + 1] in UNITS[10:]):
-            # "one twenty" = 120, "one fifteen" = 115
-            nxt = TENS.get(words[i + 1], UNITS.index(words[i + 1]) if words[i + 1] in UNITS else 0)
+            # "one twenty" = 120, "one fifteen" = 115, "one seventy five" = 175
+            nxt, _ = word_value(words, i + 1)
             nums.add(UNITS.index(w) * 100 + nxt)
+        if w in UNITS[:10]:  # 숫자를 한 자리씩 읽은 것: "nine one one" = 911 (3~4자리)
+            digits = []
+            for x in words[i:i + 4]:
+                if x not in UNITS[:10]:
+                    break
+                digits.append(str(UNITS.index(x)))
+                if len(digits) >= 3:
+                    nums.add(int("".join(digits)))
+        if w == "and" and words[i + 1:i + 3] == ["a", "half"] and i > 0:  # "two and a half" → 2.5 (소수 조건 {25})
+            whole = UNITS.index(words[i - 1]) if words[i - 1] in UNITS else words[i - 1]
+            if str(whole).isdigit():
+                nums.add(int(f"{whole}5"))
     return nums
 
 
@@ -82,7 +116,21 @@ def check(note, dialogue):
     d_nums = spoken_numbers(dialogue)
     # 나이는 따로 센다(3번). 병명 속 숫자(COVID-19, type 2)는 사실 주장이 아니라 뺀다
     rest = re.sub(r"\d+[- ]year[- ]old|covid[- ]?19|type (?:1|2|one|two)\b", " ", note, flags=re.I)
-    unsupported_nums = [tok for tok, conds in note_numbers(rest) if not any(c <= d_nums for c in conds)]
+    rest = re.sub(r"(?m)^[ \t]*[-•]?[ \t]*\d+\.(?=\s|$)", " ", rest)  # 목록 번호 "4."
+    # 척도 표기: 통증 "8/10"·"3 out of 10", 심잡음 "grade 2/6"의 분모는 표기 관습이다. 분자는 1~3이어도 확인한다
+    scales = []
+
+    def _scale(m):
+        scales.append((m.group(1), [{int(m.group(1))}]))
+        return " "
+    rest = re.sub(r"\b(\d+)\s*(?:/|out of)\s*10\b", _scale, rest)
+    rest = re.sub(r"(?<=grade )(\d)\s*/\s*6\b", _scale, rest, flags=re.I)
+    # 연대 표현 "in the lower 90s": 그 범위의 숫자가 대화에 있으면 근거 있음 (대화 "ninety four" ↔ 기록 "90s")
+    decades = [(m.group(), [{n}]) for m in re.finditer(r"\b[1-9]0(?=s\b)", rest)
+               for n in [next((x for x in sorted(d_nums) if int(m.group()) <= x < int(m.group()) + 10), int(m.group()))]]
+    rest = re.sub(r"\b[1-9]0s\b", " ", rest)
+    numbers = scales + decades + note_numbers(rest)
+    unsupported_nums = [tok for tok, conds in numbers if not any(c <= d_nums for c in conds)]
     n = note.lower()
     unsupported_tests = [name for name, pats in TESTS.items()
                          if re.search(re.escape(name) if name != "ct" else r"\bct\b", n)
@@ -90,7 +138,7 @@ def check(note, dialogue):
     ages = re.findall(r"(\d+)[- ]year[- ]old", note)
     invented_age = [a for a in ages if int(a) not in d_nums]
     return {"unsupported_numbers": unsupported_nums, "unsupported_tests": unsupported_tests,
-            "invented_age": invented_age, "numbers_total": len(note_numbers(rest))}
+            "invented_age": invented_age, "numbers_total": len(numbers)}
 
 
 def summarize(results):

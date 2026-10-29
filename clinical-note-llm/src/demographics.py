@@ -100,6 +100,8 @@ def dialogue_ages(dialogue):
         if FAMILY.search(d[max(0, m.start() - 25):m.end() + 25]) or \
                 re.search(r"\b(?:was|were|since|when|until)\b[^.?]{0,25}$", d[max(0, m.start() - 40):m.start()]):
             continue
+        if "half" in m.group(1):  # "two and a half years old": 근거 검사용 소수 조합(25)이 나이로 읽히지 않게
+            continue
         ages |= {str(n) for n in spoken_numbers(m.group(1)) if 1 <= n <= 110}
     return ages
 

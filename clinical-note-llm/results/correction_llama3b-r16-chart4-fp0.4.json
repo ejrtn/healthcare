@@ -1,0 +1,315 @@
+{
+  "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+  "chart_field": "chart_text",
+  "edits": 13,
+  "edits_by_kind": {
+    "number": 13,
+    "age": 0
+  },
+  "faithfulness_before": {
+    "cases": 120,
+    "numbers_total": 654,
+    "unsupported_numbers": 20,
+    "unsupported_number_rate": 3.1,
+    "cases_with_unsupported_number": 10,
+    "cases_with_unsupported_test": 2,
+    "cases_with_invented_age": 0,
+    "supported_numbers": 634
+  },
+  "faithfulness_after": {
+    "cases": 120,
+    "numbers_total": 633,
+    "unsupported_numbers": 1,
+    "unsupported_number_rate": 0.2,
+    "cases_with_unsupported_number": 1,
+    "cases_with_unsupported_test": 2,
+    "cases_with_invented_age": 0,
+    "supported_numbers": 632
+  },
+  "rouge1_before": 59.21,
+  "rouge1_after": 59.21,
+  "rouge1_by_division_after": {
+    "ALL": 59.21,
+    "subjective": 53.9,
+    "objective_exam": 49.06,
+    "objective_results": 59.24,
+    "assessment_and_plan": 45.53
+  },
+  "labels": {
+    "sentences": 25,
+    "accuracy": 88.0,
+    "tp_corrected": "9/11",
+    "fp_untouched": "13/14",
+    "rows": [
+      {
+        "id": "D2N090",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N093",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N102",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N136",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N137",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N137",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N144",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N146",
+        "label": "tp",
+        "changed": false,
+        "correct": false
+      },
+      {
+        "id": "D2N149",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N152",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N152",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N153",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N158",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N161",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N184",
+        "label": "fp",
+        "changed": true,
+        "correct": false
+      },
+      {
+        "id": "D2N185",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      },
+      {
+        "id": "D2N187",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N191",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N191",
+        "label": "tp",
+        "changed": false,
+        "correct": false
+      },
+      {
+        "id": "D2N194",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N195",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N197",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N197",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N203",
+        "label": "fp",
+        "changed": false,
+        "correct": true
+      },
+      {
+        "id": "D2N206",
+        "label": "tp",
+        "changed": true,
+        "correct": true
+      }
+    ]
+  },
+  "left_for_review": [
+    {
+      "id": "D2N108",
+      "unsupported_numbers": [
+        "5"
+      ],
+      "unsupported_tests": [],
+      "invented_age": []
+    },
+    {
+      "id": "D2N146",
+      "unsupported_numbers": [],
+      "unsupported_tests": [
+        "ct"
+      ],
+      "invented_age": []
+    },
+    {
+      "id": "D2N191",
+      "unsupported_numbers": [],
+      "unsupported_tests": [
+        "echocardiogram"
+      ],
+      "invented_age": []
+    }
+  ],
+  "edit_list": [
+    {
+      "value": "10",
+      "removed": "from 10 units at night",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N090"
+    },
+    {
+      "value": "140",
+      "removed": "at 140/90 mmHg",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N136"
+    },
+    {
+      "value": "140",
+      "removed": "at 140/90 mmHg",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N137"
+    },
+    {
+      "value": "130",
+      "removed": "130/85 mmHg",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N137"
+    },
+    {
+      "value": "140",
+      "removed": "at 140/90 mmHg",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N137"
+    },
+    {
+      "value": "130",
+      "removed": "130/85 mmHg",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N137"
+    },
+    {
+      "value": "72",
+      "removed": "at 72 beats per minute",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N152"
+    },
+    {
+      "value": "6",
+      "removed": "every 4-6 hours",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N152"
+    },
+    {
+      "value": "150",
+      "removed": "150 mg twice daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N158"
+    },
+    {
+      "value": "30",
+      "removed": "30 minutes",
+      "kind": "number",
+      "division": "subjective",
+      "id": "D2N184"
+    },
+    {
+      "value": "72",
+      "removed": "is 72 beats per minute",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N185"
+    },
+    {
+      "value": "140",
+      "removed": "140/72 mmHg",
+      "kind": "number",
+      "division": "subjective",
+      "id": "D2N193"
+    },
+    {
+      "value": "140",
+      "removed": "at 140/90 mmHg",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N206"
+    }
+  ]
+}

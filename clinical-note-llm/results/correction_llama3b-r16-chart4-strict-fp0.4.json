@@ -1,0 +1,217 @@
+{
+  "preds": "outputs/sft/llama3b-r16-chart4-strict-fp0.4_json.jsonl",
+  "chart_field": "chart_text_strict",
+  "edits": 20,
+  "edits_by_kind": {
+    "number": 19,
+    "age": 1
+  },
+  "faithfulness_before": {
+    "cases": 120,
+    "numbers_total": 664,
+    "unsupported_numbers": 33,
+    "unsupported_number_rate": 5.0,
+    "cases_with_unsupported_number": 12,
+    "cases_with_unsupported_test": 2,
+    "cases_with_invented_age": 1,
+    "supported_numbers": 631
+  },
+  "faithfulness_after": {
+    "cases": 120,
+    "numbers_total": 635,
+    "unsupported_numbers": 4,
+    "unsupported_number_rate": 0.6,
+    "cases_with_unsupported_number": 2,
+    "cases_with_unsupported_test": 2,
+    "cases_with_invented_age": 0,
+    "supported_numbers": 631
+  },
+  "rouge1_before": 59.23,
+  "rouge1_after": 59.26,
+  "rouge1_by_division_after": {
+    "ALL": 59.26,
+    "subjective": 54.58,
+    "objective_exam": 49.28,
+    "objective_results": 58.28,
+    "assessment_and_plan": 45.05
+  },
+  "labels": null,
+  "left_for_review": [
+    {
+      "id": "D2N101",
+      "unsupported_numbers": [],
+      "unsupported_tests": [
+        "x-ray"
+      ],
+      "invented_age": []
+    },
+    {
+      "id": "D2N108",
+      "unsupported_numbers": [
+        "5"
+      ],
+      "unsupported_tests": [],
+      "invented_age": []
+    },
+    {
+      "id": "D2N179",
+      "unsupported_numbers": [
+        "4",
+        "4",
+        "5"
+      ],
+      "unsupported_tests": [],
+      "invented_age": []
+    },
+    {
+      "id": "D2N191",
+      "unsupported_numbers": [],
+      "unsupported_tests": [
+        "echocardiogram"
+      ],
+      "invented_age": []
+    }
+  ],
+  "edit_list": [
+    {
+      "value": "100",
+      "removed": "100",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N110"
+    },
+    {
+      "value": "140",
+      "removed": "at 140/90 mmHg",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N136"
+    },
+    {
+      "value": "140",
+      "removed": "at 140/90 mmHg",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N137"
+    },
+    {
+      "value": "130",
+      "removed": "130/85 mmHg",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N137"
+    },
+    {
+      "value": "140",
+      "removed": "at 140/90 mmHg",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N137"
+    },
+    {
+      "value": "130",
+      "removed": "130/85 mmHg",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N137"
+    },
+    {
+      "value": "55-year-old",
+      "removed": "55-year-old",
+      "kind": "age",
+      "division": "subjective",
+      "id": "D2N146"
+    },
+    {
+      "value": "140",
+      "removed": "to 140",
+      "kind": "number",
+      "division": "subjective",
+      "id": "D2N157"
+    },
+    {
+      "value": "150",
+      "removed": "150 mg twice daily",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N158"
+    },
+    {
+      "value": "70",
+      "removed": "70-99 mg/dL",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N163"
+    },
+    {
+      "value": "136",
+      "removed": "136/78",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N163"
+    },
+    {
+      "value": "102",
+      "removed": "102 mmHg",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N163"
+    },
+    {
+      "value": "100",
+      "removed": "100/102",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N163"
+    },
+    {
+      "value": "24",
+      "removed": "24/26",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N163"
+    },
+    {
+      "value": "0.7",
+      "removed": "0.7 mg/dL",
+      "kind": "number",
+      "division": "objective_results",
+      "id": "D2N163"
+    },
+    {
+      "value": "30",
+      "removed": "30 minutes",
+      "kind": "number",
+      "division": "subjective",
+      "id": "D2N184"
+    },
+    {
+      "value": "72",
+      "removed": "72 bpm",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N185"
+    },
+    {
+      "value": "18",
+      "removed": "18",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N200"
+    },
+    {
+      "value": "177",
+      "removed": "at 177 mg/dL",
+      "kind": "number",
+      "division": "assessment_and_plan",
+      "id": "D2N200"
+    },
+    {
+      "value": "140",
+      "removed": "at 140/90 mmHg",
+      "kind": "number",
+      "division": "objective_exam",
+      "id": "D2N206"
+    }
+  ]
+}

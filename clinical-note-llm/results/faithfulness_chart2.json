@@ -1,10 +1,10 @@
 {
   "gold": {
     "cases": 120,
-    "numbers_total": 904,
-    "unsupported_numbers": 38,
-    "unsupported_number_rate": 4.2,
-    "cases_with_unsupported_number": 24,
+    "numbers_total": 878,
+    "unsupported_numbers": 24,
+    "unsupported_number_rate": 2.7,
+    "cases_with_unsupported_number": 13,
     "cases_with_unsupported_test": 0,
     "cases_with_invented_age": 0
   },
@@ -12,10 +12,10 @@
     "outputs/baseline/Qwen2.5-3B-Instruct-chart2-fp0.4_json.jsonl": {
       "summary": {
         "cases": 120,
-        "numbers_total": 474,
-        "unsupported_numbers": 18,
-        "unsupported_number_rate": 3.8,
-        "cases_with_unsupported_number": 9,
+        "numbers_total": 465,
+        "unsupported_numbers": 13,
+        "unsupported_number_rate": 2.8,
+        "cases_with_unsupported_number": 7,
         "cases_with_unsupported_test": 1,
         "cases_with_invented_age": 0
       },
@@ -66,7 +66,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 3,
+          "numbers_total": 2,
           "id": "D2N094"
         },
         {
@@ -194,7 +194,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 10,
+          "numbers_total": 8,
           "id": "D2N112"
         },
         {
@@ -229,7 +229,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 9,
+          "numbers_total": 8,
           "id": "D2N117"
         },
         {
@@ -469,7 +469,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 13,
+          "numbers_total": 11,
           "id": "D2N151"
         },
         {
@@ -480,9 +480,7 @@
           "id": "D2N152"
         },
         {
-          "unsupported_numbers": [
-            "2.5"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 2,
@@ -752,10 +750,7 @@
           "id": "D2N190"
         },
         {
-          "unsupported_numbers": [
-            "125",
-            "911"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 10,
@@ -808,15 +803,13 @@
         {
           "unsupported_numbers": [
             "165",
-            "175",
             "95",
             "165",
-            "175",
             "95"
           ],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 14,
+          "numbers_total": 13,
           "id": "D2N197"
         },
         {
@@ -830,7 +823,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 6,
+          "numbers_total": 5,
           "id": "D2N199"
         },
         {
@@ -879,7 +872,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 3,
+          "numbers_total": 2,
           "id": "D2N206"
         },
         {
@@ -894,10 +887,10 @@
     "outputs/sft/qwen3b-r16-chart2-fp0.4_json.jsonl": {
       "summary": {
         "cases": 120,
-        "numbers_total": 579,
-        "unsupported_numbers": 54,
-        "unsupported_number_rate": 9.3,
-        "cases_with_unsupported_number": 20,
+        "numbers_total": 569,
+        "unsupported_numbers": 46,
+        "unsupported_number_rate": 8.1,
+        "cases_with_unsupported_number": 13,
         "cases_with_unsupported_test": 0,
         "cases_with_invented_age": 0
       },
@@ -948,7 +941,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 5,
+          "numbers_total": 4,
           "id": "D2N094"
         },
         {
@@ -996,9 +989,7 @@
           "id": "D2N100"
         },
         {
-          "unsupported_numbers": [
-            "1792"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 6,
@@ -1120,7 +1111,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 6,
+          "numbers_total": 5,
           "id": "D2N117"
         },
         {
@@ -1148,9 +1139,7 @@
           "id": "D2N120"
         },
         {
-          "unsupported_numbers": [
-            "125"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 4,
@@ -1184,7 +1173,7 @@
           ],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 4,
+          "numbers_total": 3,
           "id": "D2N125"
         },
         {
@@ -1317,9 +1306,7 @@
           "id": "D2N143"
         },
         {
-          "unsupported_numbers": [
-            "10"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 10,
@@ -1366,7 +1353,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 7,
+          "numbers_total": 5,
           "id": "D2N150"
         },
         {
@@ -1377,7 +1364,7 @@
           ],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 14,
+          "numbers_total": 13,
           "id": "D2N151"
         },
         {
@@ -1388,9 +1375,7 @@
           "id": "D2N152"
         },
         {
-          "unsupported_numbers": [
-            "2.5"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 3,
@@ -1446,9 +1431,7 @@
           "id": "D2N160"
         },
         {
-          "unsupported_numbers": [
-            "911"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 14,
@@ -1632,9 +1615,7 @@
           "id": "D2N186"
         },
         {
-          "unsupported_numbers": [
-            "360"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 1,
@@ -1665,10 +1646,9 @@
         },
         {
           "unsupported_numbers": [
+            "3",
             "4",
-            "125",
             "4",
-            "6",
             "130",
             "6",
             "130",
@@ -1741,7 +1721,7 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 9,
+          "numbers_total": 7,
           "id": "D2N197"
         },
         {
@@ -1776,13 +1756,11 @@
           "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
-          "numbers_total": 6,
+          "numbers_total": 4,
           "id": "D2N202"
         },
         {
-          "unsupported_numbers": [
-            "360"
-          ],
+          "unsupported_numbers": [],
           "unsupported_tests": [],
           "invented_age": [],
           "numbers_total": 1,
