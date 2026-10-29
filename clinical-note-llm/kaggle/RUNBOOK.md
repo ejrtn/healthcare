@@ -220,6 +220,8 @@ os.environ["HF_TOKEN"] = UserSecretsClient().get_secret("HF_TOKEN")
 ```python
 # 셀 2-L: Llama 학습(약 30분) → 병합
 %cd /kaggle/working/healthcare/clinical-note-llm
+import os
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"  # 메모리 조각 때문에 생기는 OOM 방지
 L = "unsloth/Llama-3.2-3B-Instruct"  # meta-llama 원본과 같은 가중치, 승인 없이 받는 공개 복사본
 !torchrun --nproc_per_node 2 kaggle/02_sft.py --model {L} --run-name llama3b-r16-chart4 --data-dir data/sft_chart --max-length 5200 && python kaggle/02_sft.py --model {L} --run-name llama3b-r16-chart4 --merge-only
 ```
@@ -262,7 +264,10 @@ L, M = "unsloth/Llama-3.2-3B-Instruct", "outputs/sft/llama3b-r16-chart4/merged"
 
 막히면
 - 셀 2-L에서 401/403(gated repo): HF에서 Llama 3.2 라이선스 동의가 안 됐거나 `HF_TOKEN`이 비었다.
-- 셀 2-L에서 GPU 메모리 부족: Llama 어휘가 커서(128k) Qwen보다 메모리를 더 쓴다. `--max-length 4096`으로 다시 실행한다.
+- 셀 2-L에서 GPU 메모리 부족(8/39 스텝에서 2.1GB 할당 실패, 실제로 겪음): Llama 3.2 3B는 은닉 차원이 3072로
+  Qwen(2048)보다 커서 같은 길이에서 메모리를 더 쓴다. `--max-length`를 줄이면 안 된다 — 4096으로 자르면 학습 6건의
+  정답이 거의 통째로 잘린다(질문만 약 4,000토큰). 위 `expandable_segments`로도 죽으면
+  `!pip install -q liger-kernel` 후 torchrun 명령 끝에 `--liger`를 붙인다(loss 계산을 나눠 할 뿐 결과는 같다).
 
 결과 (round4e, Qwen만): ROUGE-1 57.8(3차 58.0), 근거 없는 숫자 5.5%, 지어낸 나이 0. 판독 결과가 차트에 있던 테스트 26건의
 O-results는 79.7 → 57.9로 내려가 3차 점수가 누출로 부풀었던 것이 확인됐다. 모델은 판독 결과를 대화에서 가져온다

@@ -116,6 +116,8 @@ def train(args, out_dir):
         logging_steps=2,
         report_to="none",
         seed=0,
+        # 어휘 전체 확률(logits)을 한 번에 만들지 않고 나눠 계산해 메모리를 줄인다. loss 값은 같다
+        use_liger_kernel=args.liger,
     )
     tokenizer = ensure_pad_token(AutoTokenizer.from_pretrained(args.model))
     trainer = SFTTrainer(
@@ -178,6 +180,7 @@ def main():
     ap.add_argument("--max-length", type=int, default=4800)  # 학습 데이터 최대 4,681토큰 — 잘리는 예시 없음
     ap.add_argument("--data-dir", default="data/sft", help="data/sft_grounded: 대화에 없는 나이·성을 지운 정답")
     ap.add_argument("--merge-only", action="store_true")
+    ap.add_argument("--liger", action="store_true", help="GPU 메모리 부족 시 (pip install liger-kernel 필요)")
     args = ap.parse_args()
 
     out_dir = ROOT / "outputs" / "sft" / args.run_name
