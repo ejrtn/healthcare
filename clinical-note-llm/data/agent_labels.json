@@ -1,0 +1,362 @@
+{
+ "설명": "근거 검사가 표시한 문장의 정답 라벨 (Claude가 대화·차트 원문과 대조). tp = 실제로 근거 없음 → 고치거나 지워야 함, fp = 검사기 오탐 → 남겨야 함",
+ "items": [
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N101",
+   "sentence_start": "The patient's minimum",
+   "label": "fp",
+   "note": "대화 '1,792 grams' — 쉼표 숫자를 검사기가 못 읽음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N125",
+   "sentence_start": "I have prescribed tegretol",
+   "label": "tp",
+   "note": "대화에 용량 없음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N128",
+   "sentence_start": "ESR was elevated at 45",
+   "label": "tp",
+   "note": "대화는 'esr ... that's good', 수치 없음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N128",
+   "sentence_start": "Her ESR was elevated",
+   "label": "tp",
+   "note": "같은 이유"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N128",
+   "sentence_start": "Uric acid was elevated",
+   "label": "tp",
+   "note": "수치 없음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N128",
+   "sentence_start": "Her uric acid level",
+   "label": "tp",
+   "note": "수치 없음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N135",
+   "sentence_start": "Her glucose was elevated",
+   "label": "tp",
+   "note": "수치 없음 (차트도 'elevated'만)"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N135",
+   "sentence_start": "Her hemoglobin A1c",
+   "label": "tp",
+   "note": "수치 없음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N138",
+   "sentence_start": "Her spirometry results",
+   "label": "tp",
+   "note": "FEV1 수치 없음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N138",
+   "sentence_start": "The patient’s spirometry",
+   "label": "tp",
+   "note": "FEV1 수치 없음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N144",
+   "sentence_start": "He rates his pain",
+   "label": "fp",
+   "note": "'3 out of 10'의 10은 통증 척도 표기"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N150",
+   "sentence_start": "Range of motion testing",
+   "label": "fp",
+   "note": "대화 'a hundred and fifteen degrees'"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N152",
+   "sentence_start": "Continue taking ibuprofen",
+   "label": "tp",
+   "note": "대화는 'up to about three times a day', 6-8시간 간격 없음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N153",
+   "sentence_start": "The patient reports that he heard",
+   "label": "fp",
+   "note": "대화 'two and a half weeks'"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N161",
+   "sentence_start": "He then experienced",
+   "label": "fp",
+   "note": "대화 'call nine one one'"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N161",
+   "sentence_start": "He was subsequently admitted",
+   "label": "tp",
+   "note": "대화는 'two hundred over ninety' — 208/92가 틀림"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N164",
+   "sentence_start": "If this does not resolve",
+   "label": "fp",
+   "note": "대화 'call nine one one'"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N164",
+   "sentence_start": "- Medical Treatment: I have prescribed hydrochlorothiazide",
+   "label": "tp",
+   "note": "대화 'a pretty low dose', 용량 없음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N177",
+   "sentence_start": "We will order another hemoglobin",
+   "label": "tp",
+   "note": "현재 용량 500 근거 없음 (1000은 대화에 있음)"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N187",
+   "sentence_start": "Fundus examination of the right eye",
+   "label": "fp",
+   "note": "대화 'three hundred and sixty degrees'"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N191",
+   "sentence_start": "Cardiovascular: Grade 3/6",
+   "label": "tp",
+   "note": "대화는 'slight murmur', 등급 없음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N191",
+   "sentence_start": "Cardiology: EKG revealed",
+   "label": "tp",
+   "note": "등급 없음 (EKG로 심잡음을 본다는 것도 틀림)"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N192",
+   "sentence_start": "She notes that the pain",
+   "label": "tp",
+   "note": "대화 'over the last couple of days especially', 24시간 없음"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N197",
+   "sentence_start": "Blood pressure readings were elevated",
+   "label": "fp",
+   "note": "대화 'one seventy five over ninety two'"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N200",
+   "sentence_start": "We also discussed increasing",
+   "label": "tp",
+   "note": "현재 용량 500 근거 없음 (1500은 대화에 있음)"
+  },
+  {
+   "preds": "outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N201",
+   "sentence_start": "The patient rates his pain",
+   "label": "tp",
+   "note": "환자는 'around a seven' — 8이 틀림"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N090",
+   "sentence_start": "- Medical Treatment: Increase Lantus",
+   "label": "tp",
+   "note": "현재 10단위 근거 없음 (20은 대화에 있음)"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N093",
+   "sentence_start": "4.",
+   "label": "fp",
+   "note": "목록 번호"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N102",
+   "sentence_start": "The patient also reports",
+   "label": "fp",
+   "note": "대화 '1,000 milligrams' (쉼표 숫자)"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N136",
+   "sentence_start": "Blood pressure is elevated at 140/90",
+   "label": "tp",
+   "note": "대화 'pretty high', 수치 없음"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N137",
+   "sentence_start": "Blood pressure is elevated at 140/90",
+   "label": "tp",
+   "note": "대화 'a little bit elevated', 수치 없음"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N137",
+   "sentence_start": "- Medical Reasoning",
+   "label": "tp",
+   "note": "수치 없음"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N144",
+   "sentence_start": "He notes that the pain level",
+   "label": "fp",
+   "note": "통증 척도 표기"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N146",
+   "sentence_start": "• Additional Testing",
+   "label": "tp",
+   "note": "대화에 CT 없음 (초음파만)"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N149",
+   "sentence_start": "- Auscultation reveals",
+   "label": "fp",
+   "note": "심잡음 등급 표기 '2/6'의 분모 (대화 'two over ...')"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N152",
+   "sentence_start": "Cardiovascular: Regular rate",
+   "label": "tp",
+   "note": "심박수 72 근거 없음"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N152",
+   "sentence_start": "I advised him",
+   "label": "tp",
+   "note": "4-6시간 간격 근거 없음"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N153",
+   "sentence_start": "The onset of his symptoms",
+   "label": "fp",
+   "note": "대화 'two and a half weeks'"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N158",
+   "sentence_start": "- Medical Treatment: I have prescribed Zantac",
+   "label": "tp",
+   "note": "용량 150 근거 없음"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N161",
+   "sentence_start": "He also states",
+   "label": "fp",
+   "note": "대화 'call nine one one'"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N184",
+   "sentence_start": "The patient is being advised",
+   "label": "fp",
+   "note": "대화 'half an hour'"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N185",
+   "sentence_start": "• Cardiovascular: Heart rate",
+   "label": "tp",
+   "note": "심박수 근거 없음"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N187",
+   "sentence_start": "Fundus examination shows",
+   "label": "fp",
+   "note": "대화 'three hundred and sixty'"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N191",
+   "sentence_start": "- Medical Treatment: We will obtain an EKG",
+   "label": "tp",
+   "note": "911 연락 계획 근거 없음"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N191",
+   "sentence_start": "Echocardiogram was performed",
+   "label": "tp",
+   "note": "심초음파 근거 없음"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N194",
+   "sentence_start": "Without Tylenol",
+   "label": "fp",
+   "note": "10은 척도 표기 (단, 문장의 3은 대화 7과 다름 — 검사기가 못 잡는 오류)"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N195",
+   "sentence_start": "Cardiovascular: Grade 2/6",
+   "label": "fp",
+   "note": "심잡음 등급 표기"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N197",
+   "sentence_start": "She notes that her blood pressure",
+   "label": "fp",
+   "note": "대화 'one seventy five over ninety two'"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N197",
+   "sentence_start": "Blood pressure was elevated at 160/87",
+   "label": "fp",
+   "note": "같은 이유"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N203",
+   "sentence_start": "Fundus examination of the right eye",
+   "label": "fp",
+   "note": "대화 'three hundred and sixty'"
+  },
+  {
+   "preds": "outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl",
+   "id": "D2N206",
+   "sentence_start": "• Cardiovascular: Blood pressure",
+   "label": "tp",
+   "note": "대화 'a little bit elevated', 수치 없음"
+  }
+ ]
+}

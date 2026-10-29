@@ -3,6 +3,68 @@
 학습 라이브러리(trl·bitsandbytes)는 vLLM보다 **먼저** 쓴다 — vLLM을 설치하면 torch가 CUDA 13 빌드로 바뀐다.
 모든 셀은 `%cd /kaggle/working/healthcare/clinical-note-llm`로 시작한다.
 
+## 5차: 근거 확인 에이전트 — Tool Calling · RAG · Agent (약 1시간, 새 세션, 학습 없음)
+
+근거 검사가 표시한 문장(입력에 없는 숫자·검사·나이)을 LLM이 도구로 근거를 찾아 유지·수정·삭제한다
+(`src/agent.py`, `src/evidence.py`). 이미 있는 테스트 출력(차트 4차 Qwen·Llama)에 적용하고, 판단 모델은
+Qwen2.5-3B-Instruct와 7B-Instruct-AWQ를 비교한다. 검색 방식은 로컬 CPU 비교에서 BM25가 가장 좋아
+BM25를 쓴다(`results/retrieval_eval.json`).
+
+```python
+# 셀 1: 코드 + vLLM (학습이 없으므로 처음부터 vLLM) — 끝나면 Run → Restart & clear cell outputs
+%cd /kaggle/working
+!git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git || (cd healthcare && git pull -q)
+!pip install -q vllm rouge-score==0.1.2 rank-bm25==0.2.2 && pip uninstall -y -q torchaudio torchao
+```
+
+```python
+# 셀 2: 서버 시작/종료 함수. 도구 호출 옵션: Qwen2.5의 <tool_call> 출력을 hermes 파서가 OpenAI tool_calls로 바꾼다
+%cd /kaggle/working/healthcare/clinical-note-llm
+import os, subprocess, time, urllib.request
+os.environ["CUDA_VISIBLE_DEVICES"] = "0"
+srv = None
+def start(model):
+    global srv
+    log = open(f"/kaggle/working/vllm_{model.split('/')[-1]}.log", "w")
+    srv = subprocess.Popen(["vllm", "serve", model, "--served-model-name", "agent", "--dtype", "float16",
+                            "--max-model-len", "8192", "--enable-auto-tool-choice", "--tool-call-parser", "hermes"],
+                           stdout=log, stderr=subprocess.STDOUT)
+    for _ in range(180):
+        try:
+            urllib.request.urlopen("http://127.0.0.1:8000/v1/models"); print("ready", model); return
+        except Exception:
+            time.sleep(5)
+    raise RuntimeError("서버가 뜨지 않음 — 로그 확인")
+def stop():
+    srv.terminate(); srv.wait(); time.sleep(10)
+```
+
+```python
+# 셀 3: 판단 모델 3B — Qwen·Llama 출력 각각
+start("Qwen/Qwen2.5-3B-Instruct")
+!python kaggle/10_agent.py --preds outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl --tag qwen-out_agent3b
+!python kaggle/10_agent.py --preds outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl --tag llama-out_agent3b
+stop()
+```
+
+```python
+# 셀 4: 판단 모델 7B (AWQ 4bit, 약 5.5GB라 T4 1장에 들어간다)
+start("Qwen/Qwen2.5-7B-Instruct-AWQ")
+!python kaggle/10_agent.py --preds outputs/sft/qwen3b-r16-chart4-fp0.4_json.jsonl --tag qwen-out_agent7b
+!python kaggle/10_agent.py --preds outputs/sft/llama3b-r16-chart4-fp0.4_json.jsonl --tag llama-out_agent7b
+stop()
+```
+
+```python
+# 셀 5: 결과 압축
+!zip -q -r /kaggle/working/round5.zip outputs/agent results/agent_*.json
+!ls -la /kaggle/working/round5.zip
+```
+
+막히면
+- 셀 3에서 "ready"가 안 뜨면 `/kaggle/working/vllm_Qwen2.5-3B-Instruct.log` 끝을 본다.
+- `10_agent.py`에서 400 오류(tool 관련): 서버를 `--enable-auto-tool-choice --tool-call-parser hermes` 없이 띄운 경우다.
+
 ## 4차: 차트 + 대화로 학습
 
 정답 기록에 있는 대화 밖 정보(이름·나이·혈압·지난 검사 수치·날짜)는 기록 작성자가 차트(EHR)를 보고 쓴 것이다.
