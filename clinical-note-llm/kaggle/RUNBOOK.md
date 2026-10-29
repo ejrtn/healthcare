@@ -271,7 +271,7 @@ L, M = "unsloth/Llama-3.2-3B-Instruct", "outputs/sft/llama3b-r16-chart4/merged"
 
 결과 (round4e, Qwen만): ROUGE-1 57.8(3차 58.0), 근거 없는 숫자 5.5%, 지어낸 나이 0. 판독 결과가 차트에 있던 테스트 26건의
 O-results는 79.7 → 57.9로 내려가 3차 점수가 누출로 부풀었던 것이 확인됐다. 모델은 판독 결과를 대화에서 가져온다
-(README "차트 4차"). Llama 결과(셀 2-L, 4-L)는 이번 zip에 없다.
+(README "차트 4차"). Llama는 round4e (1)로 받음 — README "모델 비교".
 
 ## 3차: DPO — "대화와 반대로 쓰기"·지어낸 사실 줄이기
 
