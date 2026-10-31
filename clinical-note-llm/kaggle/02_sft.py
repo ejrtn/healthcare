@@ -115,7 +115,7 @@ def train(args, out_dir):
         save_strategy="no",
         logging_steps=2,
         report_to="none",
-        seed=0,
+        seed=args.seed,
         # 어휘 전체 확률(logits)을 한 번에 만들지 않고 나눠 계산해 메모리를 줄인다. loss 값은 같다
         use_liger_kernel=args.liger,
     )
@@ -148,7 +148,7 @@ def train(args, out_dir):
         trainer.model.save_pretrained(out_dir / "adapter")
         tokenizer.save_pretrained(out_dir / "adapter")
         stats = {
-            "model": args.model, "lora_r": args.lora_r, "epochs": args.epochs, "lr": args.lr,
+            "model": args.model, "seed": args.seed, "lora_r": args.lora_r, "epochs": args.epochs, "lr": args.lr,
             "num_gpus": world_size, "train_time_s": round(elapsed, 1),
             "peak_gpu_mem_gb": round(torch.cuda.max_memory_allocated() / 1e9, 2),
             "log_history": trainer.state.log_history,
@@ -177,6 +177,7 @@ def main():
     ap.add_argument("--epochs", type=float, default=3)
     ap.add_argument("--lr", type=float, default=2e-4)
     ap.add_argument("--lora-r", type=int, default=16)
+    ap.add_argument("--seed", type=int, default=0, help="학습 흔들림을 재려면 seed만 바꿔 여러 번 학습한다")
     ap.add_argument("--max-length", type=int, default=4800)  # 학습 데이터 최대 4,681토큰 — 잘리는 예시 없음
     ap.add_argument("--data-dir", default="data/sft", help="data/sft_grounded: 대화에 없는 나이·성을 지운 정답")
     ap.add_argument("--merge-only", action="store_true")

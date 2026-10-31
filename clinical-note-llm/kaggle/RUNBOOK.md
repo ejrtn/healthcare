@@ -3,6 +3,87 @@
 학습 라이브러리(trl·bitsandbytes)는 vLLM보다 **먼저** 쓴다 — vLLM을 설치하면 torch가 CUDA 13 빌드로 바뀐다.
 모든 셀은 `%cd /kaggle/working/healthcare/clinical-note-llm`로 시작한다.
 
+## 7차: Llama로 최종 모델 교체 + seed별 흔들림 확인 — 6차와 같은 경로로 학습 → vLLM → FastAPI → 테스트 120건 (seed 하나당 약 1시간 반, 새 세션)
+
+Qwen2.5-3B는 Qwen Research License(비상업)라 서비스에 쓸 수 없다. Llama 3.2는 상업 사용이 가능한 Llama Community License이고,
+Meditron·Med42·OpenBioLLM 등 공개 의료 특화 LLM 상당수가 Llama를 바탕으로 만들어졌다. 그래서 의료 특화 모델 대신
+그 바탕 모델인 Llama를 직접 학습한다.
+
+4-E 비교(차트 4차, 오프라인, 학습 1회)에서 Llama는 ROUGE-1 59.2로 Qwen(57.8)과 비슷했지만, 학습 1회라 이 차이가 학습
+흔들림보다 큰지 알 수 없었다. 이번에는 6차와 **데이터·설정·API를 똑같이** 두고 **seed만 바꿔 여러 번** 학습해 최종 수치의
+평균과 흔들림을 본다.
+
+- seed마다 새 세션에서 아래 셀을 한 번씩 돌린다. 병합 모델이 약 6GB라 한 세션에 여러 개를 두면 작업 폴더(20GB)가 모자란다.
+- 순서: **Llama seed 0 → 1 → 2**, 이어서 비교용으로 **Qwen seed 1 → 2**(Qwen seed 0은 6차 결과를 쓴다).
+  셀 1의 `MODEL`·`SEED`만 바꾼다.
+- `unsloth/Llama-3.2-3B-Instruct`는 meta-llama 원본과 같은 가중치의 공개 복사본이라 HF 로그인 없이 받는다.
+
+```python
+# 셀 1: 코드 + 학습 라이브러리. 이 두 줄만 바꿔 가며 돌린다
+MODEL, SEED = "llama", 0          # "llama" 또는 "qwen" / 0, 1, 2
+
+%cd /kaggle/working
+!git clone -q -b clinical-note-llm https://github.com/ejrtn/healthcare.git || (cd healthcare && git pull -q)
+%cd /kaggle/working/healthcare/clinical-note-llm
+!pip install -q trl peft bitsandbytes liger-kernel && pip uninstall -y -q torchao
+BASE = {"llama": "unsloth/Llama-3.2-3B-Instruct", "qwen": "Qwen/Qwen2.5-3B-Instruct"}[MODEL]
+RUN = f"{MODEL}3b-r16-final-s{SEED}"
+open("/kaggle/working/run.txt", "w").write(RUN)  # 셀 3에서 재시작해도 셀 4~6이 이름을 읽는다
+print(BASE, RUN)
+```
+
+```python
+# 셀 2: 학습(약 30분) → 병합. 데이터·길이는 6차와 같다. Llama는 은닉 차원이 커서 4-E처럼 Liger kernel로 메모리를 줄인다
+%cd /kaggle/working/healthcare/clinical-note-llm
+import os
+os.environ["PYTORCH_CUDA_ALLOC_CONF"] = "expandable_segments:True"  # 메모리 조각 때문에 생기는 OOM 방지
+LIGER = "--liger" if MODEL == "llama" else ""  # Qwen은 6차와 똑같이 Liger 없이
+!torchrun --nproc_per_node 2 kaggle/02_sft.py --model {BASE} --run-name {RUN} --seed {SEED} --data-dir data/sft_chart --max-length 5200 {LIGER} && python kaggle/02_sft.py --model {BASE} --run-name {RUN} --merge-only
+```
+
+```python
+# 셀 3: vLLM 설치 — 끝나면 Run → Restart & clear cell outputs
+!pip install -q vllm rouge-score==0.1.2 && pip uninstall -y -q torchaudio torchao
+```
+
+```python
+# 셀 4: 모델 서버(vLLM, T4×2 Tensor Parallel) + API(FastAPI) 띄우기 — 6차 셀 4와 모델 경로만 다르다
+%cd /kaggle/working/healthcare/clinical-note-llm
+import os, subprocess, time, urllib.request
+RUN = open("/kaggle/working/run.txt").read().strip()
+def wait(url, name):
+    for _ in range(180):
+        try:
+            urllib.request.urlopen(url); print("ready", name); return
+        except Exception:
+            time.sleep(5)
+    raise RuntimeError(f"{name}가 뜨지 않음 — /kaggle/working/{name}.log 확인")
+vllm = subprocess.Popen(["vllm", "serve", f"outputs/sft/{RUN}/merged", "--served-model-name", "note-model",
+                         "--dtype", "float16", "--max-model-len", "8192", "--tensor-parallel-size", "2",
+                         "--generation-config", "vllm"],  # 모델 generation_config(Llama는 temperature 0.6 등)를 쓰지 않는다
+                        stdout=open("/kaggle/working/vllm.log", "w"), stderr=subprocess.STDOUT)
+wait("http://127.0.0.1:8000/v1/models", "vllm")
+env = dict(os.environ, LLM_BASE_URL="http://127.0.0.1:8000/v1", MAX_INFLIGHT="8", QUEUE_TIMEOUT_S="120")
+api = subprocess.Popen(["python", "-m", "uvicorn", "service.app:app", "--port", "8080"], env=env,
+                       stdout=open("/kaggle/working/api.log", "w"), stderr=subprocess.STDOUT)
+wait("http://127.0.0.1:8080/metrics", "api")
+```
+
+```python
+# 셀 5: 테스트 120건을 API로 (동시 8) + 스트리밍 3건 → 채점. 과부하(overload) 시험은 모델과 무관해 생략한다
+!python kaggle/11_e2e.py --phase run stream --concurrency 8 --offline none --tag {RUN}
+```
+
+```python
+# 셀 6: 결과 압축 → Output 패널에서 받아 clinical-note-llm/ 에 푼다
+!zip -q -r /kaggle/working/{RUN}.zip outputs/e2e/{RUN}_api.jsonl results/e2e_{RUN}.json outputs/sft/{RUN}/train_stats.json
+!ls -la /kaggle/working/{RUN}.zip
+```
+
+막히면
+- 셀 2에서 GPU 메모리 부족이 나면 `liger-kernel` 설치가 됐는지 확인한다. 4-E에서는 이 설정으로 최대 14.6GB/15.6GB였다.
+- 셀 4·5는 6차의 "막히면"과 같다.
+
 ## 6차: 처음부터 끝까지 — 최종 모델 학습 → vLLM → FastAPI → 테스트 120건 (약 1시간 반, 새 세션)
 
 지금까지 API는 가짜 모델 서버로만 확인했다. 이번에는 최종 모델을 실제 vLLM에 띄우고, FastAPI에 차트 + 대화를 보내
