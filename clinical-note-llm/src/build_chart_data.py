@@ -23,11 +23,12 @@
     있을 때). 정답 기록에 값이 있으면 그 값, 없으면 지어낸 값.
 채우지 않은 원래 차트(chart_text_strict, 모르면 빈칸)는 "모르면 쓰지 않는가"를 보는 평가용으로 남긴다.
 
-    python src/build_chart_data.py
+    python src/build_chart_data.py [--sft-dir data/sft_chart_v2]
 
 출력: data/chart/{train,valid,test1,test2,test3}.jsonl — {"id", "chart", "chart_text", "chart_text_strict", "synthetic", "added", "dropped"}
       data/sft_chart/{train,valid}.jsonl — 학습용 messages, results/chart_stats.json
 """
+import argparse
 import json
 import re
 import zlib
@@ -286,8 +287,12 @@ def blank_age_example(cid, chart, dialogue, target_json):
 
 
 def main():
+    ap = argparse.ArgumentParser()
+    # 프롬프트를 바꾸면 학습 데이터도 바뀐다. 이전 학습을 재현할 수 있게 새 폴더에 쓴다 (sft_chart = 7차까지, sft_chart_v2 = 값 규칙 추가)
+    ap.add_argument("--sft-dir", default="data/sft_chart")
+    sft_dir = ROOT / ap.parse_args().sft_dir
     stats = {}
-    (ROOT / "data" / "sft_chart").mkdir(parents=True, exist_ok=True)
+    sft_dir.mkdir(parents=True, exist_ok=True)
     for split, cases in sources().items():
         raw = {r["id"]: r["chart"] for r in load_jsonl(EXTRACTED / f"chart_{split}.jsonl")}
         comp_path = EXTRACTED / f"completion_{split}.jsonl"
@@ -316,7 +321,7 @@ def main():
                         "empty_charts": sum(not any(r["chart"].values()) for r in rows)}
 
         if split in ("train", "valid"):
-            with open(ROOT / "data" / "sft_chart" / f"{split}.jsonl", "w", encoding="utf-8") as f:
+            with open(sft_dir / f"{split}.jsonl", "w", encoding="utf-8") as f:
                 blank = 0
                 for r in rows:
                     dialogue, _, target_json = cases[r["id"]]

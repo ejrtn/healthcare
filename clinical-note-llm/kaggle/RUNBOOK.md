@@ -3,6 +3,40 @@
 학습 라이브러리(trl·bitsandbytes)는 vLLM보다 **먼저** 쓴다 — vLLM을 설치하면 torch가 CUDA 13 빌드로 바뀐다.
 모든 셀은 `%cd /kaggle/working/healthcare/clinical-note-llm`로 시작한다.
 
+## 8차: 값 규칙 프롬프트로 다시 학습 — Llama seed 0 (약 1시간 반, 새 세션)
+
+7차 결과를 사례별로 확인하니 지어낸 숫자 대부분이 같은 패턴이었다. 원문에 "무엇"은 있는데 "값"이 없으면 전형적인 값을 채운다.
+- "vital signs look great" → `BP 120/80, HR 72, Pulse ox 98%`
+- "blood pressure is a little elevated" → `140/90`
+- 약 이름만 나옴 → `Zantac 150 mg`
+
+학습 정답은 이런 경우 "Vital signs are within normal limits."처럼 말로 쓴다. 학습 98건에서 활력징후·검사 수치·용량을
+지어낸 정답은 0건이다. 그래서 데이터는 그대로 두고, 이 경우를 구체적으로 적은 규칙을 프롬프트에 더했다
+(`src/prompts.py`의 `VALUE_RULES`). 학습 데이터는 `data/sft_chart_v2`이고, 시스템 프롬프트만 다르며 차트·대화·정답은 같다.
+API도 같은 `build_messages`를 쓰므로 서비스 프롬프트도 함께 바뀐다.
+
+7차 셀을 그대로 쓰고 세 곳만 바꾼다.
+
+```python
+# 셀 1: RUN 이름만 다르다
+MODEL, SEED = "llama", 0
+... (7차 셀 1과 같음)
+RUN = f"{MODEL}3b-r16-v2-s{SEED}"
+```
+
+```python
+# 셀 2: 데이터 폴더만 다르다
+!torchrun --nproc_per_node 2 kaggle/02_sft.py --model {BASE} --run-name {RUN} --seed {SEED} --data-dir data/sft_chart_v2 --max-length 5200 {LIGER} && python kaggle/02_sft.py --model {BASE} --run-name {RUN} --merge-only
+```
+
+셀 3~5와 셀 7(압축)은 7차와 같다. 셀 6(과부하)은 건너뛴다.
+
+**병합 모델 남기기**: 셀 7 뒤에 Save Version → Quick Save로 버전을 저장하면 `/kaggle/working`의 파일이 노트북 출력으로 남는다
+(다음 세션에서 Add Input으로 붙인다). 그러면 다음 프롬프트 실험은 학습 없이 셀 3~5만 돌리면 된다.
+
+비교 기준은 7차 Llama seed 0이다(같은 seed, 같은 vLLM 옵션). 7차 seed끼리 보정 전 숫자가 18~35개로 흔들렸으므로,
+활력징후·용량을 지어낸 수가 이보다 확실히 줄어야 효과로 본다.
+
 ## 7차: Llama로 최종 모델 교체 + seed별 흔들림 확인 — 6차와 같은 경로로 학습 → vLLM → FastAPI → 테스트 120건 (seed 하나당 약 1시간 반, 새 세션)
 
 Qwen2.5-3B는 Qwen Research License(비상업)라 서비스에 쓸 수 없다. Llama 3.2는 상업 사용이 가능한 Llama Community License이고,
@@ -17,6 +51,7 @@ Meditron·Med42·OpenBioLLM 등 공개 의료 특화 LLM 상당수가 Llama를 �
 - 순서: **Llama seed 0 → 1 → 2**, 이어서 비교용으로 **Qwen seed 1 → 2**(Qwen seed 0은 6차 결과를 쓴다).
   셀 1의 `MODEL`·`SEED`만 바꾼다.
 - `unsloth/Llama-3.2-3B-Instruct`는 meta-llama 원본과 같은 가중치의 공개 복사본이라 HF 로그인 없이 받는다.
+- 8차 이후 코드로 7차를 다시 돌리면 API가 새 프롬프트(값 규칙)를 보낸다. 7차를 그대로 재현하려면 커밋 19c45aa를 받는다.
 
 ```python
 # 셀 1: 코드 + 학습 라이브러리. 이 두 줄만 바꿔 가며 돌린다
@@ -60,22 +95,31 @@ def wait(url, name):
     raise RuntimeError(f"{name}가 뜨지 않음 — /kaggle/working/{name}.log 확인")
 vllm = subprocess.Popen(["vllm", "serve", f"outputs/sft/{RUN}/merged", "--served-model-name", "note-model",
                          "--dtype", "float16", "--max-model-len", "8192", "--tensor-parallel-size", "2",
-                         "--generation-config", "vllm"],  # 모델 generation_config(Llama는 temperature 0.6 등)를 쓰지 않는다
+                         "--generation-config", "vllm",  # 모델 generation_config(Llama는 temperature 0.6 등)를 쓰지 않는다
+                         "--disable-custom-all-reduce"],  # vllm 0.32 + T4 2장: custom all-reduce가 CUDA graph 캡처에서 'invalid argument'로 죽는다
                         stdout=open("/kaggle/working/vllm.log", "w"), stderr=subprocess.STDOUT)
 wait("http://127.0.0.1:8000/v1/models", "vllm")
-env = dict(os.environ, LLM_BASE_URL="http://127.0.0.1:8000/v1", MAX_INFLIGHT="8", QUEUE_TIMEOUT_S="120")
-api = subprocess.Popen(["python", "-m", "uvicorn", "service.app:app", "--port", "8080"], env=env,
-                       stdout=open("/kaggle/working/api.log", "w"), stderr=subprocess.STDOUT)
-wait("http://127.0.0.1:8080/metrics", "api")
+def start_api(queue_timeout):
+    env = dict(os.environ, LLM_BASE_URL="http://127.0.0.1:8000/v1", MAX_INFLIGHT="8", QUEUE_TIMEOUT_S=str(queue_timeout))
+    p = subprocess.Popen(["python", "-m", "uvicorn", "service.app:app", "--port", "8080"], env=env,
+                         stdout=open("/kaggle/working/api.log", "w"), stderr=subprocess.STDOUT)
+    wait("http://127.0.0.1:8080/metrics", "api"); return p
+api = start_api(120)  # MAX_INFLIGHT 8 = T4×2 측정에서 30초 안에 받는 동시 요청 수
 ```
 
 ```python
-# 셀 5: 테스트 120건을 API로 (동시 8) + 스트리밍 3건 → 채점. 과부하(overload) 시험은 모델과 무관해 생략한다
+# 셀 5: 테스트 120건을 API로 (동시 8) + 스트리밍 3건 → 채점
 !python kaggle/11_e2e.py --phase run stream --concurrency 8 --offline none --tag {RUN}
 ```
 
 ```python
-# 셀 6: 결과 압축 → Output 패널에서 받아 clinical-note-llm/ 에 푼다
+# 셀 6: 과부하 — 6차 셀 7과 같고 이름만 {RUN}. 모델과 무관한 API 동작이라 건너뛰어도 된다
+api.terminate(); api.wait(); api = start_api(15)
+!python kaggle/11_e2e.py --phase overload --burst 24 --tag {RUN}
+```
+
+```python
+# 셀 7: 결과 압축 → Output 패널에서 받아 clinical-note-llm/ 에 푼다
 !zip -q -r /kaggle/working/{RUN}.zip outputs/e2e/{RUN}_api.jsonl results/e2e_{RUN}.json outputs/sft/{RUN}/train_stats.json
 !ls -la /kaggle/working/{RUN}.zip
 ```
@@ -83,6 +127,8 @@ wait("http://127.0.0.1:8080/metrics", "api")
 막히면
 - 셀 2에서 GPU 메모리 부족이 나면 `liger-kernel` 설치가 됐는지 확인한다. 4-E에서는 이 설정으로 최대 14.6GB/15.6GB였다.
 - 셀 4·5는 6차의 "막히면"과 같다.
+- **6차 노트북을 이어 쓰면 셀 내용이 6차 그대로 남는다**(`--tag final`). 셀 1~7을 이 문서 내용으로 바꿔 붙여야 결과가
+  `final`(Qwen 최종)을 덮어쓰지 않고 `{RUN}` 이름으로 저장된다.
 
 ## 6차: 처음부터 끝까지 — 최종 모델 학습 → vLLM → FastAPI → 테스트 120건 (약 1시간 반, 새 세션)
 
