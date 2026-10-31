@@ -34,15 +34,6 @@ CONVERSATION_RULE = "- Only include information stated in the conversation."
 CHART_RULE = ("- Only include information stated in the conversation or the patient chart. "
               "Copy chart values exactly; never add a value that is in neither. "
               "An empty chart field means that information is not available.")
-INVENT_RULE = "Do not invent findings, test results, or diagnoses."
-# 7차: 원문에 '무엇'은 있고 '값'은 없을 때 전형적인 값을 채웠다("vitals look great" → 120/80, 약 이름만 → 흔한 용량).
-# "숫자를 쓰지 마라"처럼 넓게 쓰지 않는다 — 학습 정답에 대화에 없는 날짜가 19개 있어 정답과 충돌한다.
-# 예시 문장은 학습 정답이 실제로 쓰는 표현이다. 구체적인 정상값(120/80)은 떠올리게 할 수 있어 적지 않는다
-VALUE_RULES = ("- If vital signs or exam findings are described only in words (\"vitals look good\", "
-               "\"blood pressure is a little elevated\"), write the words, e.g. \"Vital signs are within normal limits.\" "
-               "Do not fill in typical values.\n"
-               "- If a lab result is described only as normal, high or low, write that description, not a value.\n"
-               "- Write a medication dose only if it is stated. Otherwise write the medication without a dose.")
 
 CHART_FIELDS = [("name", "Name"), ("age", "Age"), ("sex", "Sex"), ("vitals", "Vital signs"),
                 ("prior_results", "Prior results"), ("history", "History"), ("medications", "Medications"),
@@ -69,7 +60,7 @@ def build_messages(dialogue: str, json_mode: bool, chart_text: str | None = None
     if chart_text is None:
         user = dialogue
     else:
-        system = system.replace(CONVERSATION_RULE, CHART_RULE).replace(INVENT_RULE, INVENT_RULE + "\n" + VALUE_RULES)
+        system = system.replace(CONVERSATION_RULE, CHART_RULE)
         user = f"PATIENT CHART\n{chart_text}\n\nCONVERSATION\n{dialogue}"
     return [
         {"role": "system", "content": system},

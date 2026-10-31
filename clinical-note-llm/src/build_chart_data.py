@@ -288,7 +288,7 @@ def blank_age_example(cid, chart, dialogue, target_json):
 
 def main():
     ap = argparse.ArgumentParser()
-    # 프롬프트를 바꾸면 학습 데이터도 바뀐다. 이전 학습을 재현할 수 있게 새 폴더에 쓴다 (sft_chart = 7차까지, sft_chart_v2 = 값 규칙 추가)
+    # 프롬프트를 바꾸면 학습 데이터도 바뀐다. 이전 학습을 재현할 수 있게 새 폴더에 쓴다 (sft_chart = 최종 모델, sft_chart_v2 = 8차 값 규칙 실험 — 효과가 없어 프롬프트는 되돌렸고 재현은 커밋 e5846e4)
     ap.add_argument("--sft-dir", default="data/sft_chart")
     sft_dir = ROOT / ap.parse_args().sft_dir
     stats = {}

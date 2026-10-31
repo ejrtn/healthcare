@@ -7,7 +7,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "src"))
 
 from build_chart_data import clean_chart  # noqa: E402
-from prompts import CHART_RULE, INVENT_RULE, VALUE_RULES, build_messages, render_chart  # noqa: E402
+from prompts import CHART_RULE, build_messages, render_chart  # noqa: E402
 
 NOTE = ("Martha Lopez is a 50-year-old female. Blood pressure 128/72. BNP 3000 in 03/2021. "
         "She takes metformin 500 mg twice daily. Plan: increase metformin to 1000 mg.")
@@ -87,9 +87,6 @@ def test_chart_prompt():
     with_chart = build_messages(DIALOGUE, json_mode=True, chart_text="Age: 50")
     assert plain[1]["content"] == DIALOGUE and CHART_RULE not in plain[0]["content"]
     assert CHART_RULE in with_chart[0]["content"]
-    # 값 규칙은 차트 입력에만, 각자 한 줄로 ("Do not invent ..." 뒤에 붙지 않게)
-    assert VALUE_RULES not in plain[0]["content"]
-    assert f"{INVENT_RULE}\n{VALUE_RULES}\n- Write like" in with_chart[0]["content"]
     assert with_chart[1]["content"].startswith("PATIENT CHART\nAge: 50\n\nCONVERSATION\n")
 
 
