@@ -1,0 +1,101 @@
+{
+  "run": {
+    "health": {
+      "status": "ok",
+      "llm_base_url": "http://127.0.0.1:8000/v1",
+      "models": [
+        "note-model"
+      ]
+    },
+    "requests": 120,
+    "ok": 120,
+    "status": {
+      "200": 120
+    },
+    "concurrency": 8,
+    "wall_time_s": 365.1,
+    "latency_s": {
+      "p50": 21.7,
+      "p95": 36.9,
+      "max": 104.05
+    },
+    "retried": 1,
+    "completion_tokens_mean": 622.1,
+    "corrections": 24,
+    "needs_review": 2,
+    "rouge1_model": 58.08,
+    "rouge1_final": 58.11,
+    "faithfulness_model": {
+      "cases": 120,
+      "numbers_total": 594,
+      "unsupported_numbers": 26,
+      "unsupported_number_rate": 4.4,
+      "cases_with_unsupported_number": 15,
+      "cases_with_unsupported_test": 2,
+      "cases_with_invented_age": 0,
+      "supported_numbers": 568
+    },
+    "faithfulness_final": {
+      "cases": 120,
+      "numbers_total": 566,
+      "unsupported_numbers": 0,
+      "unsupported_number_rate": 0.0,
+      "cases_with_unsupported_number": 0,
+      "cases_with_unsupported_test": 2,
+      "cases_with_invented_age": 0,
+      "supported_numbers": 566
+    }
+  },
+  "stream": [
+    {
+      "id": "D2N088",
+      "event": "done",
+      "first_token_s": 0.14,
+      "done_s": 13.02,
+      "corrections": 1,
+      "same_note_as_non_stream": true
+    },
+    {
+      "id": "D2N089",
+      "event": "done",
+      "first_token_s": 0.08,
+      "done_s": 11.46,
+      "corrections": 0,
+      "same_note_as_non_stream": false
+    },
+    {
+      "id": "D2N090",
+      "event": "done",
+      "first_token_s": 0.08,
+      "done_s": 15.18,
+      "corrections": 0,
+      "same_note_as_non_stream": false
+    }
+  ],
+  "overload": {
+    "burst": 24,
+    "wall_time_s": 30.4,
+    "status": {
+      "200": 10,
+      "503": 14
+    },
+    "retry_after": [
+      "5"
+    ],
+    "ok_client_s": {
+      "p50": 18.7,
+      "max": 30.41
+    },
+    "rejected_client_s": 15.6,
+    "server_metrics": {
+      "requests": 24,
+      "failures": 0,
+      "retries": 0,
+      "rejected": 14,
+      "inflight": 0,
+      "latency_p50_s": 17.943,
+      "latency_p95_s": 29.83,
+      "max_inflight": 8
+    }
+  }
+}
